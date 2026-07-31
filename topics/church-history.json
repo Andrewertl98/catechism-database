@@ -1,0 +1,48 @@
+{
+  "topic": "church-history",
+  "questions": [
+    {
+      "id": "church-history-l1-001",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 900,
+      "prompt": "According to the Gospel of Matthew, what name did Jesus give to Simon, declaring him the 'rock' on which he would build his Church?",
+      "choices": ["Peter", "Andrew", "James", "Bartholomew"],
+      "correctAnswer": "Peter",
+      "explanation": "Jesus renamed Simon 'Peter' (from the word for 'rock') and gave him the keys of the kingdom -- a foundational moment for the papacy that the Church continues to teach today.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 16:18-19" },
+        { "type": "ccc", "reference": "CCC 881" }
+      ]
+    },
+    {
+      "id": "church-history-l1-002",
+      "topic": "church-history",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The Catholic Church teaches that when the original apostles died, their teaching authority died with them.",
+      "correctAnswer": false,
+      "explanation": "The Church teaches the opposite: the apostles left bishops as their successors so that 'the full and living Gospel might always be preserved' -- a doctrine known as apostolic succession.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 77" }
+      ]
+    },
+    {
+      "id": "church-history-l1-003",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "The Acts of the Apostles describes the very first Christian community in Jerusalem as devoting themselves to the apostles' teaching, fellowship, and the breaking of the bread, along with which fourth practice?",
+      "choices": ["The prayers", "Fasting alone", "Public debate", "Almsgiving alone"],
+      "correctAnswer": "The prayers",
+      "explanation": "Acts 2:42 gives this fourfold pattern -- teaching, fellowship, the breaking of the bread, and prayer -- which the Catechism points to as a model of Christian communal life from the Church's earliest days.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 2:42" },
+        { "type": "ccc", "reference": "CCC 949" }
+      ]
+    }
+  ]
+}

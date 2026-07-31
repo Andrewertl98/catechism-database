@@ -1,0 +1,51 @@
+{
+  "topic": "apologetics",
+  "questions": [
+    {
+      "id": "apologetics-l1-001",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "St. Peter instructs Christians to 'always be ready to give an explanation to anyone who asks you for a reason for your hope.' Where is this found?",
+      "choices": ["1 Peter 3:15", "Romans 8:28", "James 2:17", "1 Corinthians 13:1"],
+      "correctAnswer": "1 Peter 3:15",
+      "explanation": "1 Peter 3:15 is the classic biblical charter for apologetics: believers are called to be ready to explain and defend the reasons for their faith, 'with gentleness and reverence.'",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "apologetics-l1-002",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1200,
+      "prompt": "True or False: According to the Catechism, faith and reason are fundamentally opposed to one another.",
+      "correctAnswer": false,
+      "explanation": "The Catechism teaches the opposite: proofs for God's existence 'can predispose one to faith and help one to see that faith is not opposed to reason.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 35-36" }
+      ]
+    },
+    {
+      "id": "apologetics-l1-003",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1350,
+      "prompt": "Some early Christians, following the heretic Marcion, argued that the Old Testament should be discarded now that Christ has come. How does the Catechism respond to this objection?",
+      "choices": [
+        "It insists the Old Testament remains an indispensable, inspired part of Scripture, never revoked",
+        "It agrees the Old Testament is now optional reading",
+        "It says only the Ten Commandments from the Old Testament still apply",
+        "It says the Old Testament was only ever meant for a Jewish audience"
+      ],
+      "correctAnswer": "It insists the Old Testament remains an indispensable, inspired part of Scripture, never revoked",
+      "explanation": "The Catechism firmly rejects Marcionism, the idea that the New Testament renders the Old void -- the Old Covenant 'has never been revoked' and its books retain permanent value.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 121-123" }
+      ]
+    }
+  ]
+}

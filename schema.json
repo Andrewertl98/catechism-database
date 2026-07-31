@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/fides-app/catechism-database/schema.json",
+  "title": "FIDES Topic Content File",
+  "description": "Schema for a single topics/<slug>.json content file in the FIDES catechism-database. Every question must carry at least one authoritative Magisterial citation (CCC, Scripture, Council text, or magisterial document) -- Church Fathers alone are never sufficient.",
+  "type": "object",
+  "required": ["topic", "questions"],
+  "additionalProperties": false,
+  "properties": {
+    "topic": { "$ref": "#/definitions/topicSlug" },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/question" }
+    }
+  },
+  "definitions": {
+    "topicSlug": {
+      "type": "string",
+      "enum": [
+        "church-history",
+        "church-fathers",
+        "saints",
+        "dogmas-and-doctrine",
+        "councils",
+        "heresies",
+        "metaphysics",
+        "apologetics",
+        "liturgy-and-mass",
+        "sacred-scripture",
+        "answering-objections",
+        "prayer",
+        "church-latin"
+      ]
+    },
+    "question": {
+      "type": "object",
+      "required": [
+        "id",
+        "topic",
+        "level",
+        "type",
+        "difficultyElo",
+        "prompt",
+        "explanation",
+        "citations"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Format: <topic-slug>-l<level>-<3-digit-sequence>, e.g. church-history-l1-001",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-l[1-5]-[0-9]{3}$"
+        },
+        "topic": {
+          "$ref": "#/definitions/topicSlug",
+          "description": "Must match this file's top-level 'topic' field."
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "type": {
+          "type": "string",
+          "enum": ["multiple_choice", "true_false", "matching_pairs", "fill_blank"]
+        },
+        "difficultyElo": {
+          "type": "integer",
+          "minimum": 800,
+          "maximum": 2800,
+          "description": "Seed Elo difficulty for this question, consumed by EloEngine."
+        },
+        "prompt": {
+          "type": "string",
+          "minLength": 10
+        },
+        "choices": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 2,
+          "maxItems": 6,
+          "description": "Used by multiple_choice only."
+        },
+        "correctAnswer": {
+          "type": ["string", "boolean"],
+          "description": "Used by multiple_choice (string, must match a choice), true_false (boolean), and fill_blank (string). Omitted for matching_pairs, where 'pairs' itself is the answer key."
+        },
+        "pairs": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["left", "right"],
+            "additionalProperties": false,
+            "properties": {
+              "left": { "type": "string" },
+              "right": { "type": "string" }
+            }
+          },
+          "description": "Used by matching_pairs only."
+        },
+        "explanation": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Shown after answering; must stand on its own as a short catechetical note."
+        },
+        "citations": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/definitions/citation" },
+          "contains": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "enum": ["ccc", "scripture", "council", "magisterial_document"]
+              }
+            }
+          },
+          "description": "Must contain at least one citation whose type is ccc, scripture, council, or magisterial_document. A church_father citation may supplement these but can never stand alone."
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "type": { "const": "multiple_choice" } } },
+          "then": { "required": ["choices", "correctAnswer"] }
+        },
+        {
+          "if": { "properties": { "type": { "const": "true_false" } } },
+          "then": {
+            "required": ["correctAnswer"],
+            "properties": { "correctAnswer": { "type": "boolean" } }
+          }
+        },
+        {
+          "if": { "properties": { "type": { "const": "matching_pairs" } } },
+          "then": { "required": ["pairs"] }
+        },
+        {
+          "if": { "properties": { "type": { "const": "fill_blank" } } },
+          "then": {
+            "required": ["correctAnswer"],
+            "properties": { "correctAnswer": { "type": "string" } }
+          }
+        }
+      ]
+    },
+    "citation": {
+      "type": "object",
+      "required": ["type", "reference"],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["ccc", "scripture", "council", "magisterial_document", "church_father"]
+        },
+        "reference": {
+          "type": "string",
+          "minLength": 1,
+          "description": "e.g. 'CCC 881', 'Matthew 16:18-19', 'First Council of Nicaea (325)', 'Pius IX, Ineffabilis Deus (1854)', 'St. Augustine of Hippo'"
+        },
+        "note": {
+          "type": "string",
+          "description": "Optional short clarifying note about the citation."
+        }
+      }
+    }
+  }
+}

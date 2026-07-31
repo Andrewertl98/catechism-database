@@ -1,0 +1,50 @@
+{
+  "topic": "church-fathers",
+  "questions": [
+    {
+      "id": "church-fathers-l1-001",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "The Catechism's own definition of prayer -- 'the raising of one's mind and heart to God' -- is drawn from the writing of which 8th-century Doctor of the Church?",
+      "choices": ["St. John Damascene", "St. Augustine", "St. Jerome", "St. Ambrose"],
+      "correctAnswer": "St. John Damascene",
+      "explanation": "CCC 2559 opens its treatment of prayer by quoting St. John Damascene, an Eastern Church Father and Doctor of the Church, showing how the Fathers' insights are woven into the Church's official teaching.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2559" },
+        { "type": "church_father", "reference": "St. John Damascene, De Fide Orthodoxa" }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-002",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1500,
+      "prompt": "St. Cyril of Alexandria was the leading defender of orthodox teaching at the 431 council that gave Mary the title 'Theotokos.' What does that title mean?",
+      "choices": ["Mother of God", "Queen of Heaven", "Ever-Virgin", "Mother of the Church"],
+      "correctAnswer": "Mother of God",
+      "explanation": "At the Council of Ephesus (431), St. Cyril of Alexandria championed the title Theotokos ('God-bearer'), safeguarding the truth that the one Jesus Christ, born of Mary, is truly God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 466" },
+        { "type": "church_father", "reference": "St. Cyril of Alexandria" }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-003",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "St. Augustine of Hippo took part in the African councils (Hippo, 393; Carthage, 397) that helped settle a question the Catechism still cites today. What did those councils address?",
+      "choices": ["Which books belong in the Bible", "The date of Easter", "The wording of the Creed", "The structure of the Mass"],
+      "correctAnswer": "Which books belong in the Bible",
+      "explanation": "These North African councils, with Augustine's involvement, affirmed the list of 73 sacred books -- the canon of Scripture -- that the Church still recognizes today.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 120" },
+        { "type": "church_father", "reference": "St. Augustine of Hippo" }
+      ]
+    }
+  ]
+}

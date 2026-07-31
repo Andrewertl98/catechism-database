@@ -1,0 +1,53 @@
+{
+  "topic": "liturgy-and-mass",
+  "questions": [
+    {
+      "id": "liturgy-and-mass-l1-001",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "The Catechism, quoting the Second Vatican Council, calls the Eucharist the 'source and ___' of the Christian life.",
+      "choices": ["Summit", "Beginning", "Center", "Foundation"],
+      "correctAnswer": "Summit",
+      "explanation": "CCC 1324 quotes Lumen Gentium: the Eucharist is 'the source and summit of the Christian life' -- the wellspring from which grace flows and the high point toward which the Christian life is oriented.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1324" },
+        { "type": "magisterial_document", "reference": "Vatican II, Lumen Gentium 11" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-002",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "According to the Catechism, the sacrifice offered at every Mass and the sacrifice Christ offered on Calvary are:",
+      "choices": [
+        "One single sacrifice, offered in a different manner",
+        "Two distinct sacrifices",
+        "Only a memorial with no real sacrifice",
+        "A new sacrifice added to the one at Calvary"
+      ],
+      "correctAnswer": "One single sacrifice, offered in a different manner",
+      "explanation": "CCC 1367, echoing the Council of Trent, teaches 'the victim is one and the same' -- Christ, offered in a bloody manner on the cross and in an unbloody manner in the Mass.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1367" },
+        { "type": "council", "reference": "Council of Trent" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-003",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1300,
+      "prompt": "True or False: The Second Vatican Council taught that Latin should be entirely abolished from the Mass in the Latin Church.",
+      "correctAnswer": false,
+      "explanation": "Vatican II's Sacrosanctum Concilium actually states that 'the use of the Latin language is to be preserved in the Latin rites,' even while permitting wider use of the vernacular where helpful.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 36" }
+      ]
+    }
+  ]
+}

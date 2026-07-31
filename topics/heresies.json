@@ -1,0 +1,54 @@
+{
+  "topic": "heresies",
+  "questions": [
+    {
+      "id": "heresies-l1-001",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "Arianism, condemned at the Council of Nicaea in 325, denied which truth about Jesus Christ?",
+      "choices": [
+        "That the Son is fully divine, of the same substance as the Father",
+        "That Jesus had a human body",
+        "That Jesus was born of Mary",
+        "That Jesus rose from the dead"
+      ],
+      "correctAnswer": "That the Son is fully divine, of the same substance as the Father",
+      "explanation": "Arius taught that the Son was a creature and 'came to be from things that were not.' Nicaea condemned this and defined the Son as 'homoousios' -- of the same substance as the Father.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 465" },
+        { "type": "council", "reference": "First Council of Nicaea (325)" }
+      ]
+    },
+    {
+      "id": "heresies-l1-002",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1350,
+      "prompt": "The earliest Christological heresies, known as Gnostic Docetism, denied which truth about Christ?",
+      "choices": ["That he had a true, real human nature", "That he was divine", "That he founded a Church", "That he rose from the dead"],
+      "correctAnswer": "That he had a true, real human nature",
+      "explanation": "Unlike Arianism, which denied Christ's divinity, Docetism denied that Christ was truly human, treating his body as mere appearance. The Church insisted from apostolic times that the Word came 'in the flesh.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 465" },
+        { "type": "scripture", "reference": "1 John 4:2-3" }
+      ]
+    },
+    {
+      "id": "heresies-l1-003",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Nestorianism was condemned because it denied that Jesus Christ was truly divine.",
+      "correctAnswer": false,
+      "explanation": "Nestorianism did not deny Christ's divinity -- it wrongly split Christ into two separate persons, one divine and one human, loosely joined together. The Council of Ephesus (431) instead confessed one and the same Son, both God and man in a single person.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 466" },
+        { "type": "council", "reference": "Council of Ephesus (431)" }
+      ]
+    }
+  ]
+}
