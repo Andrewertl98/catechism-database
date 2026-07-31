@@ -1,0 +1,51 @@
+{
+  "topic": "answering-objections",
+  "questions": [
+    {
+      "id": "answering-objections-l1-001",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "A common objection asks: 'If God is good, why does he allow suffering?' Which New Testament verse is often cited as a starting point in response, teaching that God works all things for good for those who love him?",
+      "choices": ["Romans 8:28", "Matthew 5:3", "1 Corinthians 15:3", "Revelation 21:4"],
+      "correctAnswer": "Romans 8:28",
+      "explanation": "Romans 8:28 doesn't explain away suffering, but it grounds a Christian response: God can bring good even out of evil and suffering for those who trust him -- a starting point rather than a full answer to this ancient question.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 8:28" }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-002",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Objection: 'The Catholic Church just invented the idea that bishops have real teaching authority -- Jesus never set that up.' How would the Catechism most directly answer this?",
+      "choices": [
+        "By pointing to CCC 77: the apostles themselves left bishops as their successors with their own teaching authority",
+        "By conceding the objection is correct",
+        "By appealing only to a medieval papal decree",
+        "By arguing the objection doesn't need a response"
+      ],
+      "correctAnswer": "By pointing to CCC 77: the apostles themselves left bishops as their successors with their own teaching authority",
+      "explanation": "This objection assumes episcopal authority is a late invention. The Catechism roots it directly in apostolic practice: the apostles 'left bishops as their successors,' handing on 'their own position of teaching authority.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 77" }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-003",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The Bible nowhere calls believers to be ready to explain and defend their faith to others.",
+      "correctAnswer": false,
+      "explanation": "1 Peter 3:15 directly calls Christians to 'always be ready to give an explanation to anyone who asks... for the reason for your hope' -- the biblical foundation for the practice of answering objections.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    }
+  ]
+}

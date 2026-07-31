@@ -1,0 +1,60 @@
+{
+  "topic": "dogmas-and-doctrine",
+  "questions": [
+    {
+      "id": "dogmas-and-doctrine-l1-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "The dogma of the Immaculate Conception teaches that Mary was preserved from original sin from what moment?",
+      "choices": ["The first moment of her conception", "Her baptism", "The Annunciation", "Her birth"],
+      "correctAnswer": "The first moment of her conception",
+      "explanation": "Pope Pius IX solemnly defined this dogma in 1854 in Ineffabilis Deus: Mary was preserved free from all stain of original sin from the very first instant of her conception.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 491" },
+        { "type": "magisterial_document", "reference": "Pius IX, Ineffabilis Deus (1854)" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "The Council of Nicaea (325) defined that the Son is 'consubstantial' with the Father -- using the Greek word 'homoousios.' This means the Father and the Son:",
+      "choices": [
+        "Share the same divine substance",
+        "Are two separate gods in harmony",
+        "Are the same person wearing two masks",
+        "Became united only after the Incarnation"
+      ],
+      "correctAnswer": "Share the same divine substance",
+      "explanation": "Against Arius, who taught the Son was a created being, Nicaea defined that the Son is 'begotten, not made,' of the same substance (homoousios) as the Father -- true God from true God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 465" },
+        { "type": "council", "reference": "First Council of Nicaea (325)" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The dogma of the hypostatic union, defined at the Council of Chalcedon (451), teaches that Jesus Christ is:",
+      "choices": [
+        "One divine person with two natures, fully God and fully man",
+        "Two persons, one divine and one human, joined together",
+        "A human person specially favored by God",
+        "God only appearing to have a human body"
+      ],
+      "correctAnswer": "One divine person with two natures, fully God and fully man",
+      "explanation": "Chalcedon confessed 'one and the same Son... truly God and truly man,' uniting two natures in the one person of Christ -- a dogma known as the hypostatic union.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 467" },
+        { "type": "council", "reference": "Council of Chalcedon (451)" }
+      ]
+    }
+  ]
+}

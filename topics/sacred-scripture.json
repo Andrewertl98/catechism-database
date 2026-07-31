@@ -1,0 +1,47 @@
+{
+  "topic": "sacred-scripture",
+  "questions": [
+    {
+      "id": "sacred-scripture-l1-001",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "How many books make up the Catholic canon of Scripture in total?",
+      "choices": ["73", "66", "27", "46"],
+      "correctAnswer": "73",
+      "explanation": "The Catholic canon includes 46 books of the Old Testament and 27 of the New Testament, for a total of 73 -- discerned by the Church through apostolic Tradition.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 120" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-002",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "The Catechism teaches that Christians read the Old Testament in the light of what event?",
+      "choices": ["Christ crucified and risen", "The fall of Jerusalem", "The Babylonian exile alone", "The building of the Temple"],
+      "correctAnswer": "Christ crucified and risen",
+      "explanation": "CCC 129 teaches that 'Christians therefore read the Old Testament in the light of Christ crucified and risen' -- the whole of Scripture, Old and New, is read as one unified story fulfilled in Christ.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 129" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-003",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 900,
+      "prompt": "'In the beginning was the Word, and the Word was with God, and the Word was God' opens which book of the New Testament?",
+      "choices": ["The Gospel of John", "The Gospel of Matthew", "The Book of Revelation", "The Letter to the Hebrews"],
+      "correctAnswer": "The Gospel of John",
+      "explanation": "John 1:1 opens the Fourth Gospel with a profound statement of Christ's eternal divinity as the Word (Logos) who was with God and was God, later 'made flesh' in the Incarnation.",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:1" }
+      ]
+    }
+  ]
+}

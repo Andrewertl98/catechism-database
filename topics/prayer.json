@@ -1,0 +1,51 @@
+{
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l1-001",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "How does the Catechism define prayer?",
+      "choices": [
+        "The raising of one's mind and heart to God, or the requesting of good things from God",
+        "A purely private feeling with no connection to God",
+        "A ritual required only of priests and religious",
+        "Any positive thought about the future"
+      ],
+      "correctAnswer": "The raising of one's mind and heart to God, or the requesting of good things from God",
+      "explanation": "CCC 2559 gives this classic definition, drawn from St. John Damascene, capturing both dimensions of prayer: lifting our whole selves toward God, and asking him for what is good.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2559" }
+      ]
+    },
+    {
+      "id": "prayer-l1-002",
+      "topic": "prayer",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 850,
+      "prompt": "Complete the opening line of the Lord's Prayer as Jesus taught it: 'Our Father, who art in heaven, hallowed be thy _____.'",
+      "correctAnswer": "name",
+      "explanation": "Jesus gave his disciples this prayer, found in Matthew 6:9-13, as the model for all Christian prayer -- often called the 'Our Father' or, in Latin, the 'Pater Noster.'",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 6:9-13" }
+      ]
+    },
+    {
+      "id": "prayer-l1-003",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "According to the Catechism, Christian prayer is a covenant relationship between God and man, springing forth from both the Holy Spirit and:",
+      "choices": ["Ourselves", "The angels", "The Church hierarchy alone", "Sacred art"],
+      "correctAnswer": "Ourselves",
+      "explanation": "CCC 2564 describes Christian prayer as 'a covenant relationship between God and man in Christ... springing forth from both the Holy Spirit and ourselves, wholly directed to the Father.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2564" }
+      ]
+    }
+  ]
+}

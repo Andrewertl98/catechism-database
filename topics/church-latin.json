@@ -1,0 +1,51 @@
+{
+  "topic": "church-latin",
+  "questions": [
+    {
+      "id": "church-latin-l1-001",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "What does the Latin phrase 'Agnus Dei,' spoken during the Mass, mean in English?",
+      "choices": ["Lamb of God", "Bread of Life", "Body of Christ", "Holy Sacrifice"],
+      "correctAnswer": "Lamb of God",
+      "explanation": "'Agnus Dei' ('Lamb of God') is sung or said before Communion, echoing John the Baptist's words about Jesus and pointing to Christ as the true Passover Lamb.",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:29" },
+        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+      ]
+    },
+    {
+      "id": "church-latin-l1-002",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 950,
+      "prompt": "The Latin title 'Pater Noster' refers to which prayer, which Jesus himself taught his disciples?",
+      "choices": ["The Lord's Prayer (Our Father)", "The Hail Mary", "The Glory Be", "The Apostles' Creed"],
+      "correctAnswer": "The Lord's Prayer (Our Father)",
+      "explanation": "'Pater Noster' is simply Latin for 'Our Father' -- the prayer Jesus taught his disciples in Matthew 6:9-13, prayed in Latin for centuries in the Church's liturgy.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 6:9-13" }
+      ]
+    },
+    {
+      "id": "church-latin-l1-003",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1100,
+      "prompt": "Match each Latin liturgical word to its English meaning.",
+      "pairs": [
+        { "left": "Credo", "right": "I believe" },
+        { "left": "Sanctus", "right": "Holy" },
+        { "left": "Gloria", "right": "Glory" }
+      ],
+      "explanation": "These are among the most common Latin words heard in the Mass -- 'Credo' (I believe) begins the Creed, 'Sanctus' (Holy) is sung before the Eucharistic Prayer, and 'Gloria' (Glory) opens the hymn of praise near the start of Mass.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "topic": "metaphysics",
+  "questions": [
+    {
+      "id": "metaphysics-l1-001",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "According to the Catechism, human beings can know the existence of God with certainty by what means, even before receiving divine revelation?",
+      "choices": [
+        "The natural light of human reason, from the created world",
+        "Only through the Bible",
+        "Only through a mystical experience",
+        "Only through the sacraments"
+      ],
+      "correctAnswer": "The natural light of human reason, from the created world",
+      "explanation": "Echoing the First Vatican Council, the Catechism teaches that God, 'the first principle and last end of all things, can be known with certainty from the created world by the natural light of human reason' -- the starting point of natural theology.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 36" },
+        { "type": "council", "reference": "First Vatican Council, Dei Filius (1870)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-002",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The Catechism describes the desire for God as something implanted only in a few especially religious people, not in every human being.",
+      "correctAnswer": false,
+      "explanation": "The Catechism teaches the opposite: 'The desire for God is written in the human heart, because man is created by God and for God' -- every person, not only the religious, is made with this orientation toward God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 27" }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-003",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "When Moses asked for God's name at the burning bush, God replied, 'I AM WHO I AM.' Catholic theology has long read this as revealing that God's very essence is:",
+      "choices": [
+        "Existence itself -- Being, not merely a being among others",
+        "A secret name known only to priests",
+        "A title borrowed from a neighboring religion",
+        "A poetic way of avoiding the question"
+      ],
+      "correctAnswer": "Existence itself -- Being, not merely a being among others",
+      "explanation": "Exodus 3:14 records God's self-revelation as 'I AM.' Catholic metaphysics, following Fathers like Augustine and theologians like Aquinas, reads this as revealing God not as one being among many, but as Being itself, the source of all that exists.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 3:14" },
+        { "type": "church_father", "reference": "St. Augustine, Confessions VII" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topic": "saints",
+  "questions": [
+    {
+      "id": "saints-l1-001",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 900,
+      "prompt": "In the Apostles' Creed, right after 'the holy catholic Church,' what do Catholics profess belief in?",
+      "choices": ["The communion of saints", "The forgiveness of sins", "The resurrection of the body", "Life everlasting"],
+      "correctAnswer": "The communion of saints",
+      "explanation": "The Catechism teaches that 'the communion of saints is the Church' itself -- the phrase describes the spiritual bond uniting all the faithful, living and dead, in Christ.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 946" }
+      ]
+    },
+    {
+      "id": "saints-l1-002",
+      "topic": "saints",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: According to Church teaching, the saints in heaven continue to intercede for us on earth.",
+      "correctAnswer": true,
+      "explanation": "The Catechism teaches that those in heaven 'do not cease to intercede with the Father for us,' offering the merits they gained on earth through Christ, the one mediator.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 956" }
+      ]
+    },
+    {
+      "id": "saints-l1-003",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Why does the Church honor the memory of the saints, according to the Catechism?",
+      "choices": [
+        "Not merely as examples, but through a real spiritual communion that strengthens the whole Church",
+        "Only as historical role models with no ongoing connection to the living",
+        "Primarily to mark holidays on the liturgical calendar",
+        "Because canon law requires an annual feast for each saint"
+      ],
+      "correctAnswer": "Not merely as examples, but through a real spiritual communion that strengthens the whole Church",
+      "explanation": "CCC 957 teaches that devotion to the saints is more than admiring good examples -- it is a real communion in the Spirit that binds the whole Church, living and dead, more closely together.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 957" }
+      ]
+    }
+  ]
+}

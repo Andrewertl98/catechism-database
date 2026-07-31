@@ -1,0 +1,53 @@
+{
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l1-001",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "Which ecumenical council, held in 325, condemned Arius and produced the first part of what we now call the Nicene Creed?",
+      "choices": ["Nicaea", "Ephesus", "Chalcedon", "Trent"],
+      "correctAnswer": "Nicaea",
+      "explanation": "The First Council of Nicaea (325) confessed that the Son is 'of the same substance' as the Father and condemned Arius's teaching that the Son was a creature.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" },
+        { "type": "ccc", "reference": "CCC 465" }
+      ]
+    },
+    {
+      "id": "councils-l1-002",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "Which 431 council confessed the unity of Christ's person and gave Mary the title Theotokos, in opposition to the Nestorian heresy?",
+      "choices": ["Ephesus", "Nicaea", "Chalcedon", "Constantinople"],
+      "correctAnswer": "Ephesus",
+      "explanation": "The Third Ecumenical Council, held at Ephesus in 431, confessed that the Word united a truly human nature to himself in one person, honoring Mary as Theotokos, 'Mother of God.'",
+      "citations": [
+        { "type": "council", "reference": "Council of Ephesus (431)" },
+        { "type": "ccc", "reference": "CCC 466" }
+      ]
+    },
+    {
+      "id": "councils-l1-003",
+      "topic": "councils",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1350,
+      "prompt": "Match each early ecumenical council to the year it was held.",
+      "pairs": [
+        { "left": "Council of Nicaea", "right": "325" },
+        { "left": "Council of Ephesus", "right": "431" },
+        { "left": "Council of Chalcedon", "right": "451" }
+      ],
+      "explanation": "These three 4th- and 5th-century councils progressively clarified who Jesus Christ is: true God (Nicaea), truly one person (Ephesus), and truly God and truly man in two natures (Chalcedon).",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 465-467" },
+        { "type": "council", "reference": "Councils of Nicaea, Ephesus, and Chalcedon" }
+      ]
+    }
+  ]
+}

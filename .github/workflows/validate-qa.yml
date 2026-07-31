@@ -1,0 +1,39 @@
+name: Validate Q&A Content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "schema.json"
+      - "manifest.json"
+      - "topics/**"
+      - "validate.py"
+      - ".github/workflows/validate-qa.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "schema.json"
+      - "manifest.json"
+      - "topics/**"
+      - "validate.py"
+      - ".github/workflows/validate-qa.yml"
+  workflow_dispatch: {}
+
+jobs:
+  validate:
+    name: Schema & citation validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      - name: Run validator
+        run: python validate.py --ci
