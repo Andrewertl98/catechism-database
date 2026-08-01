@@ -43,6 +43,412 @@
         { "type": "scripture", "reference": "Acts 2:42" },
         { "type": "ccc", "reference": "CCC 949" }
       ]
+    },
+    {
+      "id": "church-history-l1-004",
+      "topic": "church-history",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each New Testament letter to the church its opening verses say it was written to.",
+      "pairs": [
+        { "left": "Romans", "right": "The church in Rome" },
+        { "left": "1 Corinthians", "right": "The church in Corinth" },
+        { "left": "Ephesians", "right": "The church in Ephesus" },
+        { "left": "Philippians", "right": "The church in Philippi" }
+      ],
+      "explanation": "Paul's letters are addressed to real, named local churches he founded or hoped to visit -- the New Testament grew out of pastoral correspondence to specific communities, not abstract treatises.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 1:7; 1 Corinthians 1:2; Ephesians 1:1; Philippians 1:1" }
+      ]
+    },
+    {
+      "id": "church-history-l1-005",
+      "topic": "church-history",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "Jesus told Peter that whatever he bound or loosed on earth would be bound or loosed in ____.",
+      "correctAnswer": "heaven",
+      "explanation": "This promise of binding and loosing, given to Peter and later to the apostles as a group, is the scriptural root of the Church's teaching authority passed down through apostolic succession.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 16:19" }
+      ]
+    },
+    {
+      "id": "church-history-l1-006",
+      "topic": "church-history",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Apostle Paul was one of Jesus' original Twelve Apostles, chosen during his earthly ministry.",
+      "correctAnswer": false,
+      "explanation": "Paul was not one of the Twelve. He was a persecutor of the Church who was called by the risen Christ on the road to Damascus, years after Jesus' ascension.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 9:1-19" }
+      ]
+    },
+    {
+      "id": "church-history-l2-001",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1263,
+      "prompt": "What does the Church teach is the ultimate meaning of a martyr's death?",
+      "choices": [
+        "A supreme witness to the truth of the faith",
+        "A guarantee of intercessory power",
+        "A requirement for canonization",
+        "A form of penance for personal sin"
+      ],
+      "correctAnswer": "A supreme witness to the truth of the faith",
+      "explanation": "The Church has always honored martyrdom as the greatest act of witness a Christian can offer, enduring death itself rather than deny Christ.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "church-history-l2-002",
+      "topic": "church-history",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1213,
+      "prompt": "True or False: Jesus told his disciples that the world would persecute them because it had first persecuted him.",
+      "correctAnswer": true,
+      "explanation": "Jesus warned his disciples plainly that following him would provoke the same hostility he himself faced from the world.",
+      "citations": [
+        { "type": "scripture", "reference": "John 15:20" }
+      ]
+    },
+    {
+      "id": "church-history-l2-003",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1263,
+      "prompt": "Early Christian writers such as St. Justin Martyr, who wrote reasoned defenses of the faith to Roman authorities and pagan critics in the 2nd century, are known to history by what name?",
+      "choices": ["Apologists", "Evangelists", "Patriarchs", "Missionaries"],
+      "correctAnswer": "Apologists",
+      "explanation": "Scripture itself commands believers to be ready to explain and defend the faith with reason -- the very task these early writers took up against a hostile empire.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "church-history-l2-004",
+      "topic": "church-history",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1323,
+      "prompt": "Early Christian writers who defended the faith with reasoned argument against pagan critics are called ____.",
+      "correctAnswer": "apologists",
+      "explanation": "The word comes from the Greek 'apologia,' meaning a reasoned defense -- exactly what Scripture calls every believer to be ready to give.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "church-history-l2-005",
+      "topic": "church-history",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1303,
+      "prompt": "Match each term from the age of the martyrs to its meaning.",
+      "pairs": [
+        { "left": "Martyr", "right": "One who dies bearing witness to the faith" },
+        { "left": "Apologist", "right": "One who defends the faith with reasoned argument" },
+        { "left": "Catechumen", "right": "One preparing for baptism through instruction" },
+        { "left": "Persecution", "right": "Hostile action against believers for their faith" }
+      ],
+      "explanation": "These four terms describe the lived reality of the early Church: a community that taught new believers, defended itself with reason, and often paid for its witness with blood.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "church-history-l2-006",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1263,
+      "prompt": "According to the Acts of the Apostles, who was the first Christian martyr, stoned to death after testifying about Jesus before the Sanhedrin?",
+      "choices": ["Stephen", "James", "Peter", "Paul"],
+      "correctAnswer": "Stephen",
+      "explanation": "Stephen, one of the first seven deacons, was stoned for proclaiming Christ -- his death opens the age of martyrdom that would mark the Church's first three centuries.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 7:54-60" }
+      ]
+    },
+    {
+      "id": "church-history-l3-001",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The First Council of Nicaea, held in 325 AD, was convened primarily to address which controversy?",
+      "choices": [
+        "The Arian heresy, which denied the full divinity of Christ",
+        "The date of Easter alone",
+        "The canon of the Old Testament",
+        "The authority of the Bishop of Rome"
+      ],
+      "correctAnswer": "The Arian heresy, which denied the full divinity of Christ",
+      "explanation": "Arius taught that the Son was a created being, not truly God. Nicaea gathered bishops from across the Church to condemn this teaching and affirm Christ's full divinity.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" }
+      ]
+    },
+    {
+      "id": "church-history-l3-002",
+      "topic": "church-history",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The Nicene Creed professes that the Son is '____ with the Father,' affirming that he is fully and truly God.",
+      "correctAnswer": "consubstantial",
+      "explanation": "'Consubstantial' translates the Greek 'homoousios' -- of the same substance -- the precise word Nicaea chose to rule out any reading of Christ as a lesser, created being.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" }
+      ]
+    },
+    {
+      "id": "church-history-l3-003",
+      "topic": "church-history",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Council of Nicaea in 325 AD produced the complete Nicene Creed exactly as it is prayed at Mass today, including its section on the Holy Spirit.",
+      "correctAnswer": false,
+      "explanation": "Nicaea produced an earlier, shorter creed focused on the Son's divinity. The fuller text prayed today, including the extended article on the Holy Spirit, was completed at the First Council of Constantinople in 381.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Constantinople (381)" }
+      ]
+    },
+    {
+      "id": "church-history-l3-004",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "St. Augustine of Hippo famously wrote that the human heart remains restless until it rests in whom?",
+      "choices": ["God", "the Church hierarchy", "philosophical wisdom", "the Roman Empire"],
+      "correctAnswer": "God",
+      "explanation": "Augustine's line from his Confessions -- that the heart is restless until it rests in God -- captures a truth the Church still teaches: only God can satisfy the deepest human longing.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 30" },
+        { "type": "church_father", "reference": "St. Augustine of Hippo, Confessions" }
+      ]
+    },
+    {
+      "id": "church-history-l3-005",
+      "topic": "church-history",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each early Ecumenical Council to the doctrine it defined.",
+      "pairs": [
+        { "left": "Nicaea (325)", "right": "Condemned Arianism and affirmed Christ's full divinity" },
+        { "left": "Constantinople (381)", "right": "Affirmed the divinity of the Holy Spirit" },
+        { "left": "Ephesus (431)", "right": "Declared Mary the Theotokos, Mother of God" },
+        { "left": "Chalcedon (451)", "right": "Defined Christ's two natures, divine and human, in one person" }
+      ],
+      "explanation": "These four councils, across just over a century, settled the Church's core teaching on who Christ is and who the Spirit is -- doctrine every Christian still professes in the Creed.",
+      "citations": [
+        { "type": "council", "reference": "Nicaea (325); Constantinople (381); Ephesus (431); Chalcedon (451)" }
+      ]
+    },
+    {
+      "id": "church-history-l3-006",
+      "topic": "church-history",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The Council of Chalcedon in 451 AD defined that Christ has two natures, fully divine and fully human, united in one ____.",
+      "correctAnswer": "person",
+      "explanation": "This is the hypostatic union: one divine Person, Jesus Christ, possessing two complete natures without confusion or division.",
+      "citations": [
+        { "type": "council", "reference": "Council of Chalcedon (451)" }
+      ]
+    },
+    {
+      "id": "church-history-l4-001",
+      "topic": "church-history",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "The Council of Trent (1545-1563) was convened by the Catholic Church primarily in response to what?",
+      "choices": [
+        "The Protestant Reformation",
+        "The Great Schism of 1054",
+        "The Investiture Controversy",
+        "The Islamic conquest of Spain"
+      ],
+      "correctAnswer": "The Protestant Reformation",
+      "explanation": "Trent clarified Catholic doctrine on Scripture, grace, and the sacraments against Reformation-era challenges, while also reforming clerical discipline and education.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "church-history-l4-002",
+      "topic": "church-history",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2038,
+      "prompt": "True or False: The Council of Trent affirmed that both Sacred Scripture and Sacred Tradition hand on divine revelation.",
+      "correctAnswer": true,
+      "explanation": "Against the Reformation principle of Scripture alone, Trent taught that revelation comes to the Church through both Scripture and Tradition together.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "church-history-l4-003",
+      "topic": "church-history",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "Which 13th-century theologian's philosophy was later commended by Pope Leo XIII as a model for Catholic teaching?",
+      "choices": ["St. Thomas Aquinas", "St. Augustine", "St. Anselm", "St. Bonaventure"],
+      "correctAnswer": "St. Thomas Aquinas",
+      "explanation": "Leo XIII's 1879 encyclical Aeterni Patris held up Aquinas's synthesis of faith and reason as a lasting model for Catholic philosophy and theology.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+      ]
+    },
+    {
+      "id": "church-history-l4-004",
+      "topic": "church-history",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2148,
+      "prompt": "St. Thomas Aquinas's major work synthesizing faith and reason is called the Summa ____.",
+      "correctAnswer": "Theologiae",
+      "explanation": "The Summa Theologiae remains one of the most influential works of Catholic theology, systematically working through the whole of Christian doctrine.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+      ]
+    },
+    {
+      "id": "church-history-l4-005",
+      "topic": "church-history",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2128,
+      "prompt": "Match each figure of the Catholic Reformation to their contribution.",
+      "pairs": [
+        { "left": "Council of Trent", "right": "Clarified doctrine and reformed clergy in response to the Reformation" },
+        { "left": "St. Ignatius of Loyola", "right": "Founded the Society of Jesus to renew the Church" },
+        { "left": "St. Teresa of Ávila", "right": "Reformed the Carmelite order and wrote on mystical prayer" },
+        { "left": "St. Charles Borromeo", "right": "Implemented Trent's reforms as Archbishop of Milan" }
+      ],
+      "explanation": "The Catholic Reformation was not only a response to Protestant challenges but a genuine renewal of holiness and discipline within the Church herself.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "church-history-l4-006",
+      "topic": "church-history",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2038,
+      "prompt": "True or False: The Council of Trent required the founding of seminaries to improve the education and discipline of parish priests.",
+      "correctAnswer": true,
+      "explanation": "Trent's reforms directly addressed widespread clerical ignorance and laxity by mandating formal seminary training for future priests.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "church-history-l5-001",
+      "topic": "church-history",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The Second Vatican Council (1962-1965) is best known for addressing the Church's relationship to what?",
+      "choices": ["The modern world", "The Byzantine Empire", "The Investiture Controversy", "The Avignon Papacy"],
+      "correctAnswer": "The modern world",
+      "explanation": "Vatican II's document Gaudium et Spes, 'The Church in the Modern World,' reflects the council's broader effort to engage contemporary culture, science, and society.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "church-history-l5-002",
+      "topic": "church-history",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: The First Vatican Council (1870) defined the dogma of papal infallibility.",
+      "correctAnswer": true,
+      "explanation": "Vatican I taught that the Pope, under specific conditions, is preserved from error when he solemnly defines a doctrine of faith or morals for the whole Church.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council (1870)" }
+      ]
+    },
+    {
+      "id": "church-history-l5-003",
+      "topic": "church-history",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "The First Vatican Council taught that the Pope possesses infallibility when he speaks '____,' defining a doctrine on faith or morals for the whole Church.",
+      "correctAnswer": "ex cathedra",
+      "explanation": "'Ex cathedra' -- 'from the chair' -- names the specific, solemn conditions under which papal infallibility applies; it is not a claim of infallibility in everything a pope says.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council (1870)" }
+      ]
+    },
+    {
+      "id": "church-history-l5-004",
+      "topic": "church-history",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Pope Leo XIII's 1891 encyclical Rerum Novarum is considered the foundational document of which body of Catholic teaching?",
+      "choices": [
+        "Catholic Social Teaching",
+        "Catholic Sacramental Theology",
+        "Catholic Mariology",
+        "Catholic Canon Law"
+      ],
+      "correctAnswer": "Catholic Social Teaching",
+      "explanation": "Rerum Novarum addressed the rights and dignity of workers amid industrialization, launching a long tradition of papal teaching on economic and social justice.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Leo XIII, Rerum Novarum (1891)" }
+      ]
+    },
+    {
+      "id": "church-history-l5-005",
+      "topic": "church-history",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each major document of the Second Vatican Council to its central theme.",
+      "pairs": [
+        { "left": "Lumen Gentium", "right": "The Church as the People of God" },
+        { "left": "Dei Verbum", "right": "Divine revelation, Scripture and Tradition" },
+        { "left": "Gaudium et Spes", "right": "The Church in the modern world" },
+        { "left": "Nostra Aetate", "right": "Relations with non-Christian religions" }
+      ],
+      "explanation": "These four documents are among Vatican II's most significant, reshaping how the Church understands herself, revelation, the modern world, and other faiths.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "church-history-l5-006",
+      "topic": "church-history",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: The Second Vatican Council taught that the Catholic Church rejects nothing of what is true and holy in other world religions.",
+      "correctAnswer": true,
+      "explanation": "Nostra Aetate's teaching calls Catholics to recognize and respect what is true and good in other religions, while still holding that the fullness of revelation is found in Christ.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
     }
   ]
 }
