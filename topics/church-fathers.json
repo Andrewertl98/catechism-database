@@ -11,6 +11,7 @@
       "choices": ["St. John Damascene", "St. Augustine", "St. Jerome", "St. Ambrose"],
       "correctAnswer": "St. John Damascene",
       "explanation": "CCC 2559 opens its treatment of prayer by quoting St. John Damascene, an Eastern Church Father and Doctor of the Church, showing how the Fathers' insights are woven into the Church's official teaching.",
+      "hint": "Think of the Eastern Doctor known for defending icons, writing in the 8th century.",
       "citations": [
         { "type": "ccc", "reference": "CCC 2559" },
         { "type": "church_father", "reference": "St. John Damascene, De Fide Orthodoxa" }
@@ -26,6 +27,7 @@
       "choices": ["Mother of God", "Queen of Heaven", "Ever-Virgin", "Mother of the Church"],
       "correctAnswer": "Mother of God",
       "explanation": "At the Council of Ephesus (431), St. Cyril of Alexandria championed the title Theotokos ('God-bearer'), safeguarding the truth that the one Jesus Christ, born of Mary, is truly God.",
+      "hint": "This title means Mary bore not just a man, but God himself.",
       "citations": [
         { "type": "ccc", "reference": "CCC 466" },
         { "type": "church_father", "reference": "St. Cyril of Alexandria" }
@@ -41,9 +43,435 @@
       "choices": ["Which books belong in the Bible", "The date of Easter", "The wording of the Creed", "The structure of the Mass"],
       "correctAnswer": "Which books belong in the Bible",
       "explanation": "These North African councils, with Augustine's involvement, affirmed the list of 73 sacred books -- the canon of Scripture -- that the Church still recognizes today.",
+      "hint": "These North African councils settled which books belong in the Bible.",
       "citations": [
         { "type": "ccc", "reference": "CCC 120" },
         { "type": "church_father", "reference": "St. Augustine of Hippo" }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-004",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1420,
+      "prompt": "True or False: St. Ignatius of Antioch, writing around 107 AD while being taken to Rome for execution, is one of the earliest known Christian writers to call the Church 'catholic.'",
+      "correctAnswer": true,
+      "explanation": "In his Letter to the Smyrnaeans, Ignatius wrote 'wherever Jesus Christ is, there is the Catholic Church' -- among the earliest surviving uses of the word to describe the universal Church.",
+      "hint": "He was a bishop being marched to his death in Rome when he wrote this.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 830" },
+        { "type": "church_father", "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans" }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-005",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1480,
+      "prompt": "Match each early Church figure to the fact he or she is best remembered for.",
+      "pairs": [
+        { "left": "St. Jerome", "right": "Translated the Bible into Latin, called the Vulgate" },
+        { "left": "St. Augustine", "right": "Wrote the Confessions and The City of God" },
+        { "left": "St. Ignatius of Antioch", "right": "Bishop martyred in Rome who first wrote of the 'Catholic Church'" },
+        { "left": "St. Polycarp of Smyrna", "right": "Disciple of John the Apostle, martyred for refusing to curse Christ" }
+      ],
+      "explanation": "The Council of Trent later confirmed Jerome's Vulgate as the Church's authentic Latin text of Scripture, while Ignatius and Polycarp stand among the earliest martyrs and Augustine among its most influential theologians.",
+      "hint": "One translated the Bible into Latin; two others died as martyrs.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" },
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-006",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1380,
+      "prompt": "The Didache, one of the earliest Christian texts outside the New Testament, records an early version of the ____, the prayer Jesus himself taught his disciples.",
+      "correctAnswer": "Our Father",
+      "explanation": "The Didache (chapter 8) gives an early text of the Lord's Prayer very close to the version in Matthew's Gospel, showing how central this prayer was to Christian life from the very beginning.",
+      "hint": "This prayer is the one Jesus himself taught his disciples.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 6:9-13" }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-001",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "St. Justin Martyr addressed his First Apology -- a reasoned defense of Christianity -- directly to which audience?",
+      "choices": ["The Roman Emperor and Senate", "The Jewish Sanhedrin", "The bishops of Asia Minor", "The philosophers of Athens alone"],
+      "correctAnswer": "The Roman Emperor and Senate",
+      "explanation": "Justin addressed his First Apology to the Emperor Antoninus Pius and the Roman Senate, arguing that Christians were being punished unjustly for a faith that was reasonable and good.",
+      "hint": "He wrote directly to the very government that could execute him for it.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" },
+        { "type": "church_father", "reference": "St. Justin Martyr, First Apology" }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-002",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: St. Perpetua and St. Felicity, martyred at Carthage around 203 AD, died alone, without any companions.",
+      "correctAnswer": false,
+      "explanation": "Perpetua, a young noblewoman, and Felicity, her slave, were martyred together in the arena along with several companions -- their shared witness, not solitary death, is what the Church has always remembered.",
+      "hint": "One was a noblewoman, the other her slave -- they were not alone in the arena.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" },
+        { "type": "church_father", "reference": "The Passion of Perpetua and Felicity" }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-003",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1780,
+      "prompt": "St. Irenaeus of Lyons argued that the true teaching of the Church could be verified by tracing the bishops of his own day back, generation by generation, to whom?",
+      "choices": ["The apostles", "The Roman Senate", "The local synagogue", "Secret Gnostic teachers"],
+      "correctAnswer": "The apostles",
+      "explanation": "Irenaeus's argument in Against Heresies -- that unbroken succession from the apostles guarantees the truth of a bishop's teaching -- is the same doctrine of apostolic succession the Church still teaches.",
+      "hint": "He traced the bishops of his own time back, generation by generation.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 77" },
+        { "type": "church_father", "reference": "St. Irenaeus of Lyons, Against Heresies" }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-004",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1820,
+      "prompt": "The early Christian writer Tertullian famously wrote that the blood of martyrs is the ____ of the Church.",
+      "correctAnswer": "seed",
+      "explanation": "Tertullian's line -- that persecution, rather than destroying the Church, caused it to grow -- captures how the early Christians understood martyrdom as fruitful witness rather than defeat.",
+      "hint": "He meant that persecution, instead of destroying the Church, made it grow.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" },
+        { "type": "church_father", "reference": "Tertullian, Apologeticus" }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-005",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1800,
+      "prompt": "Match each apologist or martyr to the fact he or she is known for.",
+      "pairs": [
+        { "left": "St. Justin Martyr", "right": "Wrote the First Apology defending Christianity to Rome" },
+        { "left": "St. Irenaeus of Lyons", "right": "Refuted Gnosticism in Against Heresies" },
+        { "left": "St. Perpetua", "right": "Noblewoman martyred at Carthage, kept a prison diary" },
+        { "left": "St. Felicity", "right": "Slave martyred alongside Perpetua at Carthage" }
+      ],
+      "explanation": "Together these figures show the two great tasks of the early Church: reasoned defense of the faith to a hostile world, and steadfast witness to it even unto death.",
+      "hint": "Two wrote in their own defense; two died for refusing to renounce Christ.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-006",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: St. Justin Martyr taught that 'seeds of the Word' -- fragments of truth -- could be found even among pagan philosophers before Christ.",
+      "correctAnswer": true,
+      "explanation": "Justin's idea of the 'logos spermatikos' held that the divine Word had scattered seeds of truth throughout human thought before the Incarnation -- an early expression of the truth that God's light reaches every person.",
+      "hint": "He believed truth could be found even before the Gospel reached a people.",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:9" },
+        { "type": "church_father", "reference": "St. Justin Martyr, Second Apology" }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-001",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "St. Athanasius of Alexandria spent much of his life defending the teaching of which council against the Arian heresy?",
+      "choices": ["The Council of Nicaea (325)", "The Council of Chalcedon (451)", "The Council of Trent", "The First Vatican Council"],
+      "correctAnswer": "The Council of Nicaea (325)",
+      "explanation": "Athanasius was Nicaea's fiercest and most persistent defender, insisting for decades that the Son is 'consubstantial' with the Father against Arius's claim that Christ was a created being.",
+      "hint": "He spent decades defending one word: that the Son is truly, fully God.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" },
+        { "type": "church_father", "reference": "St. Athanasius of Alexandria" }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-002",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: St. Athanasius was exiled from his own see multiple times because of his unwavering defense of Christ's full divinity.",
+      "correctAnswer": true,
+      "explanation": "Athanasius was driven from Alexandria five separate times as the political tide shifted for and against Arianism -- his persistence against overwhelming opposition gave rise to the phrase 'Athanasius against the world.'",
+      "hint": "His persistence against nearly everyone earned him a famous Latin phrase.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-003",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2080,
+      "prompt": "St. Basil the Great, St. Gregory of Nazianzus, and St. Gregory of Nyssa are together known by what title, reflecting their shared defense of Trinitarian doctrine in the 4th century?",
+      "choices": ["The Cappadocian Fathers", "The Latin Doctors", "The Apostolic Fathers", "The Desert Fathers"],
+      "correctAnswer": "The Cappadocian Fathers",
+      "explanation": "Named for their home region in Asia Minor, the Cappadocian Fathers refined the Church's language for the Trinity and defended the divinity of the Holy Spirit affirmed at the Council of Constantinople.",
+      "hint": "Two brothers and a close friend, all from one region in modern-day Turkey.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Constantinople (381)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-004",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2120,
+      "prompt": "St. Ambrose of Milan baptized which future Doctor of the Church, author of the Confessions, in 387 AD?",
+      "correctAnswer": "Augustine",
+      "explanation": "Ambrose's preaching in Milan was instrumental in Augustine's conversion; Augustine describes the moment of his baptism, by Ambrose's hand, in Book Nine of his Confessions.",
+      "hint": "The bishop of Milan whose preaching finally won over a restless heart.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 30" },
+        { "type": "church_father", "reference": "St. Augustine of Hippo, Confessions" }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-005",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2100,
+      "prompt": "Match each Golden Age Father to the fact he is remembered for.",
+      "pairs": [
+        { "left": "St. Athanasius", "right": "Defended Christ's full divinity against Arianism" },
+        { "left": "St. Basil the Great", "right": "Wrote a monastic Rule and defended the Holy Spirit's divinity" },
+        { "left": "St. Ambrose of Milan", "right": "Bishop whose preaching led to St. Augustine's baptism" },
+        { "left": "St. John Chrysostom", "right": "Archbishop of Constantinople famed for his preaching" }
+      ],
+      "explanation": "The 4th and 5th centuries produced an extraordinary generation of bishop-theologians who defended, defined, and preached the Church's core doctrines with lasting authority.",
+      "hint": "One preached so powerfully he earned a nickname meaning 'golden.'",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" },
+        { "type": "council", "reference": "First Council of Constantinople (381)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-006",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: St. John Chrysostom taught that honoring Christ in the Eucharist is inseparable from caring for Christ in the poor.",
+      "correctAnswer": true,
+      "explanation": "Chrysostom preached forcefully that it does no good to honor Christ's Eucharistic body while neglecting his body in the poor -- a teaching the Catechism still draws on when it links the Eucharist to charity.",
+      "hint": "He warned against honoring Christ at the altar while ignoring him in the poor.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1397" },
+        { "type": "church_father", "reference": "St. John Chrysostom, Homilies on Matthew" }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-001",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "Pope St. Leo the Great's letter, known as the 'Tome of Leo,' played a decisive role at which 451 council in defining Christ's two natures?",
+      "choices": ["The Council of Chalcedon", "The Council of Ephesus", "The Council of Nicaea", "The Council of Trent"],
+      "correctAnswer": "The Council of Chalcedon",
+      "explanation": "Though he never attended in person, Leo's Tome was read at Chalcedon and shaped its definition that Christ is one Person in two natures, fully divine and fully human.",
+      "hint": "This pope never attended the council in person, but his letter settled the debate.",
+      "citations": [
+        { "type": "council", "reference": "Council of Chalcedon (451)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-002",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: St. Maximus the Confessor suffered the amputation of his tongue and right hand for refusing to accept Monothelitism, the teaching that Christ had only one will.",
+      "correctAnswer": true,
+      "explanation": "Maximus insisted Christ possessed both a divine and a human will, in keeping with his two full natures -- a teaching later affirmed at the Third Council of Constantinople, after Maximus had already suffered for it.",
+      "hint": "He insisted Christ had two wills, human and divine -- and paid for it with his body.",
+      "citations": [
+        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-003",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "St. John Damascene, writing from Muslim-ruled Damascus, is best remembered for his strong defense of which practice during the Byzantine Iconoclast controversy?",
+      "choices": ["The veneration of icons", "The use of unleavened bread", "Clerical celibacy", "The date of Easter"],
+      "correctAnswer": "The veneration of icons",
+      "explanation": "Safely outside Byzantine imperial reach, John Damascene wrote influential defenses of icon veneration that were later read into the record at the Second Council of Nicaea.",
+      "hint": "Writing safely under Muslim rule, he could defend images the Byzantine emperor was destroying.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Nicaea (787)" },
+        { "type": "church_father", "reference": "St. John Damascene, On the Divine Images" }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-004",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2420,
+      "prompt": "Pope St. Gregory the Great signed his letters with a title of humility still used by popes today: 'Servant of the ____ of God.'",
+      "correctAnswer": "servants",
+      "explanation": "'Servus servorum Dei' -- 'servant of the servants of God' -- expressed Gregory's conviction that the papacy is an office of humble service, a vision Vatican II's teaching on the Church echoes for all ordained ministry.",
+      "hint": "A title of humility that popes still use to sign documents today.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-005",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2400,
+      "prompt": "Match each Father to the East-or-West fact he is remembered for.",
+      "pairs": [
+        { "left": "St. John Damascene", "right": "Eastern Father who defended icons during Iconoclasm" },
+        { "left": "St. Maximus the Confessor", "right": "Eastern monk mutilated for defending Christ's two wills" },
+        { "left": "Pope St. Leo the Great", "right": "Western pope whose Tome shaped Chalcedon's teaching" },
+        { "left": "Pope St. Gregory the Great", "right": "Western pope who sent missionaries to England" }
+      ],
+      "explanation": "The Church's first thousand years drew on both East and West, Greek and Latin, to defend and articulate the same apostolic faith.",
+      "hint": "Two of these Fathers lived under Byzantine rule; two were popes in Rome.",
+      "citations": [
+        { "type": "council", "reference": "Council of Chalcedon (451)" },
+        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-006",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2360,
+      "prompt": "True or False: The Byzantine Iconoclast controversy was ultimately resolved in favor of icon veneration at the Second Council of Nicaea in 787.",
+      "correctAnswer": true,
+      "explanation": "The Second Council of Nicaea taught that icons may be venerated because the honor given to an image passes to what it represents -- settling, at least doctrinally, a controversy that had divided the Byzantine world for decades.",
+      "hint": "The second council held at this city, more than four centuries after the first.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-001",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2650,
+      "prompt": "Beyond the antiquity, orthodoxy, and personal holiness expected of a Church Father, what additional quality must a Church Father possess to also be named a 'Doctor of the Church'?",
+      "choices": ["Eminent learning, declared by the Church", "Membership in a religious order", "Having served as a bishop", "Having written in Latin"],
+      "correctAnswer": "Eminent learning, declared by the Church",
+      "explanation": "'Doctor of the Church' is a formal title the Church confers, beyond ordinary sainthood, on those of eminent learning whose teaching has proven lastingly valuable -- a distinction Leo XIII drew on in commending St. Thomas Aquinas.",
+      "hint": "A Church Father needs three things; a Doctor needs one more.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-002",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2600,
+      "prompt": "True or False: St. Thérèse of Lisieux, who died in 1897 at age 24, was later declared a Doctor of the Church even though she lived centuries after the ancient Fathers.",
+      "correctAnswer": true,
+      "explanation": "Pope John Paul II declared Thérèse a Doctor of the Church in 1997, showing that 'Doctor' -- unlike 'Church Father' -- does not require antiquity, only eminent teaching recognized by the Church.",
+      "hint": "She died young, in an ordinary convent, centuries after the ancient Fathers.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, declaring St. Thérèse of Lisieux a Doctor of the Church (1997)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-003",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2680,
+      "prompt": "Which of these canonized women has never been declared a 'Doctor of the Church'?",
+      "choices": ["St. Joan of Arc", "St. Teresa of Ávila", "St. Catherine of Siena", "St. Thérèse of Lisieux"],
+      "correctAnswer": "St. Joan of Arc",
+      "explanation": "St. Teresa of Ávila and St. Catherine of Siena were declared the first women Doctors in 1970, and St. Thérèse of Lisieux followed in 1997. St. Joan of Arc, though canonized, has never received the title.",
+      "hint": "This saint led armies, but was never named a teacher of the universal Church.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul VI, declaring the first women Doctors of the Church (1970)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-004",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2720,
+      "prompt": "St. Thérèse of Lisieux, though she never left her convent, was named patroness of the ____ alongside St. Francis Xavier.",
+      "correctAnswer": "missions",
+      "explanation": "Pope Pius XI named Thérèse co-patroness of the missions in 1927, honoring her belief that hidden prayer and sacrifice support missionary work as truly as preaching in distant lands.",
+      "hint": "She never left her convent, yet became patron of those who travel the world to preach.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Pius XI, declaring St. Thérèse of Lisieux patroness of the missions (1927)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-005",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2700,
+      "prompt": "Match each Doctor of the Church to the fact that distinguishes them.",
+      "pairs": [
+        { "left": "St. Thérèse of Lisieux", "right": "Declared a Doctor in 1997 despite dying young and unknown" },
+        { "left": "St. Teresa of Ávila", "right": "One of the first two women declared Doctors, in 1970" },
+        { "left": "St. Thomas Aquinas", "right": "Doctor whose Summa Theologiae was commended by Leo XIII" },
+        { "left": "St. Augustine", "right": "Doctor and bishop whose Confessions describes his conversion" }
+      ],
+      "explanation": "The Doctors of the Church span nearly two thousand years and every walk of life, united only by the lasting depth of their teaching.",
+      "hint": "One of these four is young and modern; the rest lived over a thousand years earlier.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" },
+        { "type": "magisterial_document", "reference": "Paul VI, declaring the first women Doctors of the Church (1970)" }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-006",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: A person must already be a canonized saint before the Church can name them a Doctor of the Church.",
+      "correctAnswer": true,
+      "explanation": "Sainthood is a prerequisite for the title 'Doctor of the Church,' though not sufficient by itself -- the Church additionally requires eminent learning and a formal declaration, as with Aquinas and the women Doctors.",
+      "hint": "The Church only calls a teacher 'Doctor' after first calling them 'Saint.'",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
       ]
     }
   ]
