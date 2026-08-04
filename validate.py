@@ -143,6 +143,12 @@ def main() -> None:
 
             check_citation_policy(q, path.name, errors)
 
+            if not q.get("hint"):
+                warnings.append(
+                    f"{path.name}: question '{qid}' has no 'hint' field — the "
+                    f"guide mascot will fall back to a generic hint for it."
+                )
+
             level_key = str(q["level"])
             counts[level_key] = counts.get(level_key, 0) + 1
 

@@ -105,6 +105,11 @@
           "minLength": 10,
           "description": "Shown after answering; must stand on its own as a short catechetical note."
         },
+        "hint": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Optional. Shown by the in-app guide mascot if the user pauses too long before answering. Falls back to a generic line when absent."
+        },
         "citations": {
           "type": "array",
           "minItems": 1,
