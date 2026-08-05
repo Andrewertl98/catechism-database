@@ -11,6 +11,7 @@
       "choices": ["The communion of saints", "The forgiveness of sins", "The resurrection of the body", "Life everlasting"],
       "correctAnswer": "The communion of saints",
       "explanation": "The Catechism teaches that 'the communion of saints is the Church' itself -- the phrase describes the spiritual bond uniting all the faithful, living and dead, in Christ.",
+      "hint": "It comes right after 'the holy catholic Church' in the Creed.",
       "citations": [
         { "type": "ccc", "reference": "CCC 946" }
       ]
@@ -24,6 +25,7 @@
       "prompt": "True or False: According to Church teaching, the saints in heaven continue to intercede for us on earth.",
       "correctAnswer": true,
       "explanation": "The Catechism teaches that those in heaven 'do not cease to intercede with the Father for us,' offering the merits they gained on earth through Christ, the one mediator.",
+      "hint": "Their prayer for us doesn't stop just because they've reached heaven.",
       "citations": [
         { "type": "ccc", "reference": "CCC 956" }
       ]
@@ -43,8 +45,429 @@
       ],
       "correctAnswer": "Not merely as examples, but through a real spiritual communion that strengthens the whole Church",
       "explanation": "CCC 957 teaches that devotion to the saints is more than admiring good examples -- it is a real communion in the Spirit that binds the whole Church, living and dead, more closely together.",
+      "hint": "It's more than admiration -- the Catechism calls it a real communion.",
       "citations": [
         { "type": "ccc", "reference": "CCC 957" }
+      ]
+    },
+    {
+      "id": "saints-l1-004",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1320,
+      "prompt": "Mary is honored as the first and greatest of all the saints because of her unique role in salvation history, expressed in the title given her at the Council of Ephesus. What is that title?",
+      "choices": ["Mother of God", "Queen of Angels", "First Martyr", "Co-Foundress of the Church"],
+      "correctAnswer": "Mother of God",
+      "explanation": "The Council of Ephesus (431) affirmed Mary as Theotokos, 'Mother of God' -- the foundation for the unique honor the Church gives her above every other saint.",
+      "hint": "This is the same title Ephesus gave Mary, meaning she bore God himself.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 466" },
+        { "type": "council", "reference": "Council of Ephesus (431)" }
+      ]
+    },
+    {
+      "id": "saints-l1-005",
+      "topic": "saints",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: Jesus said that John the Baptist was 'the greatest' among those born of women.",
+      "correctAnswer": true,
+      "explanation": "Jesus paid John the Baptist this extraordinary tribute in Matthew's Gospel, even while adding that the least in the kingdom of heaven is greater still.",
+      "hint": "Jesus said this about his own cousin, the one who baptized him.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 11:11" }
+      ]
+    },
+    {
+      "id": "saints-l1-006",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1400,
+      "prompt": "Match each early figure to the fact that makes them a 'first' among the saints.",
+      "pairs": [
+        { "left": "Mary", "right": "Mother of God, first and greatest of the saints" },
+        { "left": "John the Baptist", "right": "Forerunner of Christ, called the greatest born of women" },
+        { "left": "St. Joseph", "right": "Foster father of Jesus, declared patron of the universal Church" },
+        { "left": "St. Stephen", "right": "The first Christian martyr, stoned for professing Christ" }
+      ],
+      "explanation": "These four figures stand at the very beginning of the Church's life -- before there was a communion of saints to profess, there were these first friends of God.",
+      "hint": "One was stoned to death; one was declared patron of the whole Church in 1870.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 466" },
+        { "type": "scripture", "reference": "Matthew 11:11" },
+        { "type": "magisterial_document", "reference": "Pius IX, declaring St. Joseph Patron of the Universal Church (1870)" }
+      ]
+    },
+    {
+      "id": "saints-l2-001",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "St. Agnes of Rome, martyred as a young girl around 304 AD, is honored by the Church as a model of what commitment?",
+      "choices": ["Consecrated virginity offered to Christ", "Religious obedience to a monastic rule", "Missionary service in a foreign land", "Care for the sick and dying"],
+      "correctAnswer": "Consecrated virginity offered to Christ",
+      "explanation": "Agnes refused marriage and death threats alike rather than break her consecration to Christ -- the Church still holds up virgins who give their whole lives to God in this way.",
+      "hint": "She refused marriage, choosing to belong only to Christ.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 922" },
+        { "type": "church_father", "reference": "St. Ambrose of Milan, De Virginibus" }
+      ]
+    },
+    {
+      "id": "saints-l2-002",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: St. Cecilia, patroness of music, died peacefully of old age surrounded by her family.",
+      "correctAnswer": false,
+      "explanation": "Cecilia was a virgin martyr, put to death for her faith -- tradition holds she sang to God in her heart even during her own wedding, but her death, like Agnes's, came by martyrdom, not old age.",
+      "hint": "She's honored as a martyr, not someone who lived to old age.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "saints-l2-003",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1780,
+      "prompt": "St. Lawrence, a deacon of Rome martyred in 258 AD, was ordered by the prefect to hand over the 'treasures of the Church.' What did he present instead?",
+      "choices": ["The poor of Rome", "The Church's gold and silver vessels", "The imperial guard", "A list of catechumens"],
+      "correctAnswer": "The poor of Rome",
+      "explanation": "Lawrence gathered the poor, the sick, and the suffering he served and presented them as the Church's true treasure -- a story the Church still tells to teach that love of the poor is inseparable from the Gospel.",
+      "hint": "As a deacon, his daily work was caring for exactly this group.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2444" },
+        { "type": "church_father", "reference": "St. Ambrose of Milan, De Officiis" }
+      ]
+    },
+    {
+      "id": "saints-l2-004",
+      "topic": "saints",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1820,
+      "prompt": "St. Sebastian, a Roman soldier martyred for his faith, is often depicted in art pierced by ____, the wounds he miraculously survived before his eventual death.",
+      "correctAnswer": "arrows",
+      "explanation": "Sebastian survived being shot with arrows and nursed back to health, only to confront the emperor again and be martyred by clubbing -- his first, non-fatal ordeal is what artists most often depict.",
+      "hint": "This is the weapon artists always show piercing his body.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "saints-l2-005",
+      "topic": "saints",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1800,
+      "prompt": "Match each early martyr to the fact they are remembered for.",
+      "pairs": [
+        { "left": "St. Agnes", "right": "Young virgin martyr, patroness of purity" },
+        { "left": "St. Cecilia", "right": "Virgin martyr, patroness of music" },
+        { "left": "St. Lawrence", "right": "Deacon martyr who called the poor the Church's treasure" },
+        { "left": "St. Agatha", "right": "Virgin martyr of Sicily, invoked against fire" }
+      ],
+      "explanation": "These early martyrs, all venerated since the Church's first centuries, show that holiness in the age of persecution was often young, poor, and female -- not what Roman society expected of a hero.",
+      "hint": "One was a deacon; the other three were young women who refused marriage.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "saints-l2-006",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The early virgin martyrs, such as Agnes and Agatha, were venerated because they died as young women rather than in old age.",
+      "correctAnswer": true,
+      "explanation": "Part of what made their witness so striking was precisely their youth -- girls in their early teens who chose death over renouncing their consecration to Christ.",
+      "hint": "Think about how young these particular martyrs were.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2473" }
+      ]
+    },
+    {
+      "id": "saints-l3-001",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Which title did Pope Paul VI give to St. Benedict of Nursia in 1964, honoring his role in shaping Western monastic and cultural life?",
+      "choices": ["Patron of Europe", "Doctor of the Church", "Universal Patron of Workers", "Patron of the Missions"],
+      "correctAnswer": "Patron of Europe",
+      "explanation": "Benedict's Rule, balancing prayer and work, shaped monastic life so deeply across the continent that Paul VI named him Patron of Europe in 1964.",
+      "hint": "Benedict's influence stretched across an entire continent, not just Italy.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul VI, Pacis Nuntius (1964)" }
+      ]
+    },
+    {
+      "id": "saints-l3-002",
+      "topic": "saints",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: St. Francis of Assisi founded his order on a radical commitment to poverty, refusing even communal ownership of property.",
+      "correctAnswer": true,
+      "explanation": "Francis took Jesus' words to the rich young man -- 'sell what you have and give to the poor' -- with total literalness, building his whole order on possessing nothing, individually or in common.",
+      "hint": "He took one Gospel command about wealth as literally as possible.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 19:21" }
+      ]
+    },
+    {
+      "id": "saints-l3-003",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2080,
+      "prompt": "St. Dominic de Guzmán founded the Order of Preachers in the early 13th century primarily to combat which heresy through preaching and study?",
+      "choices": ["Catharism (Albigensianism)", "Arianism", "Donatism", "Pelagianism"],
+      "correctAnswer": "Catharism (Albigensianism)",
+      "explanation": "Dominic preached against the Cathars in southern France, convinced that ignorance of true doctrine, not lack of zeal, was letting the heresy spread -- his order's approval by Pope Honorius III in 1216 made preaching and study its very mission.",
+      "hint": "This heresy taught that matter itself was evil, and it spread through southern France.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Honorius III, approving the Order of Preachers (1216)" }
+      ]
+    },
+    {
+      "id": "saints-l3-004",
+      "topic": "saints",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2120,
+      "prompt": "St. Ignatius of Loyola founded the Society of Jesus, approved by Pope Paul III in 1540; its members are commonly known as ____.",
+      "correctAnswer": "Jesuits",
+      "explanation": "Ignatius's new order emphasized rigorous formation, missionary flexibility, and direct obedience to the Pope -- becoming one of the most influential religious orders in the Church's history.",
+      "hint": "This nickname for the Society of Jesus is still used worldwide today.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul III, Regimini militantis Ecclesiae (1540)" }
+      ]
+    },
+    {
+      "id": "saints-l3-005",
+      "topic": "saints",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2100,
+      "prompt": "Match each founder to the order or reform they are remembered for.",
+      "pairs": [
+        { "left": "St. Benedict of Nursia", "right": "Father of Western monasticism, later named Patron of Europe" },
+        { "left": "St. Francis of Assisi", "right": "Founded the Franciscans on radical poverty" },
+        { "left": "St. Dominic", "right": "Founded the Dominicans to preach against heresy" },
+        { "left": "St. Clare of Assisi", "right": "Founded the Poor Clares alongside Francis" }
+      ],
+      "explanation": "Each of these founders answered a different need of their age, yet all four shaped how religious life would look for the rest of Church history.",
+      "hint": "Two of these founders worked as a pair, one man and one woman, in Assisi.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul VI, Pacis Nuntius (1964)" },
+        { "type": "scripture", "reference": "Matthew 19:21" }
+      ]
+    },
+    {
+      "id": "saints-l3-006",
+      "topic": "saints",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: St. Clare of Assisi was a close companion of St. Francis and founded the women's branch of the Franciscan movement, later called the Poor Clares.",
+      "correctAnswer": true,
+      "explanation": "Inspired by Francis's preaching, Clare left her wealthy family to embrace radical poverty herself, founding what became the Poor Clares -- approved and later canonized by Pope Alexander IV in 1255.",
+      "hint": "This order shares the poverty and spirit of the Franciscans, but is made up of women.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Alexander IV, canonizing St. Clare of Assisi (1255)" }
+      ]
+    },
+    {
+      "id": "saints-l4-001",
+      "topic": "saints",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2400,
+      "prompt": "St. Teresa of Ávila's most famous mystical work, describing the soul's journey toward God through seven dwelling places, is called what?",
+      "choices": ["The Interior Castle", "The Ascent of Mount Carmel", "The Dialogue", "The Cloud of Unknowing"],
+      "correctAnswer": "The Interior Castle",
+      "explanation": "Teresa pictured the soul as a castle of many rooms, with God dwelling at its very center -- one of the most influential works of Christian mysticism, part of why Paul VI declared her a Doctor of the Church in 1970.",
+      "hint": "She pictured the soul itself as a great fortress with many rooms.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul VI, declaring St. Teresa of Ávila a Doctor of the Church (1970)" }
+      ]
+    },
+    {
+      "id": "saints-l4-002",
+      "topic": "saints",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2350,
+      "prompt": "True or False: St. John of the Cross, a close collaborator of St. Teresa of Ávila in reforming the Carmelite order, wrote of the soul's purification in a work called 'The Dark Night of the Soul.'",
+      "correctAnswer": true,
+      "explanation": "John of the Cross described the painful but purifying experience of feeling God's absence on the way to deeper union with him -- teaching so influential that Pius XI declared him a Doctor of the Church in 1926.",
+      "hint": "The title of his most famous work describes a period of spiritual darkness.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Pius XI, declaring St. John of the Cross a Doctor of the Church (1926)" }
+      ]
+    },
+    {
+      "id": "saints-l4-003",
+      "topic": "saints",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2430,
+      "prompt": "St. Catherine of Siena, a Doctor of the Church, is remembered for urging which pope to return the papacy from Avignon to Rome?",
+      "choices": ["Gregory XI", "Urban VI", "Clement V", "Boniface VIII"],
+      "correctAnswer": "Gregory XI",
+      "explanation": "Catherine's letters and personal visits helped persuade Gregory XI to end the Avignon Papacy and return to Rome in 1377, remarkable influence for a laywoman with no formal education.",
+      "hint": "Her persuasion helped end nearly 70 years of the papacy residing in France.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul VI, declaring St. Catherine of Siena a Doctor of the Church (1970)" }
+      ]
+    },
+    {
+      "id": "saints-l4-004",
+      "topic": "saints",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2470,
+      "prompt": "St. Thérèse of Lisieux described her simple, humble approach to holiness -- trusting God like a child rather than through great deeds -- as her '____ Way.'",
+      "correctAnswer": "Little",
+      "explanation": "Thérèse taught that small acts of love, offered with total trust, could sanctify anyone -- a spirituality so influential that John Paul II declared her a Doctor of the Church in 1997, despite her short, hidden life.",
+      "hint": "This spirituality is about small, humble acts rather than heroic ones.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, declaring St. Thérèse of Lisieux a Doctor of the Church (1997)" }
+      ]
+    },
+    {
+      "id": "saints-l4-005",
+      "topic": "saints",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each mystic or Doctor to the fact they are remembered for.",
+      "pairs": [
+        { "left": "St. Teresa of Ávila", "right": "Wrote The Interior Castle and reformed the Carmelites" },
+        { "left": "St. John of the Cross", "right": "Wrote The Dark Night of the Soul" },
+        { "left": "St. Catherine of Siena", "right": "Urged the Pope to return to Rome from Avignon" },
+        { "left": "St. Hildegard of Bingen", "right": "Visionary abbess and composer, declared a Doctor in 2012" }
+      ],
+      "explanation": "These four Doctors, across four different centuries, show that deep mystical experience and sound doctrine have always belonged together in the Church's life.",
+      "hint": "One of these Doctors was also a composer of music, centuries before the others.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Paul VI, declaring St. Teresa of Ávila a Doctor of the Church (1970)" },
+        { "type": "magisterial_document", "reference": "Benedict XVI, declaring St. Hildegard of Bingen a Doctor of the Church (2012)" }
+      ]
+    },
+    {
+      "id": "saints-l4-006",
+      "topic": "saints",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2380,
+      "prompt": "True or False: St. Hildegard of Bingen, a 12th-century Benedictine abbess, was also known for her musical compositions and writings on natural science and medicine.",
+      "correctAnswer": true,
+      "explanation": "Hildegard's remarkable range -- visionary theology, liturgical music, and treatises on the natural world -- led Benedict XVI to name her a Doctor of the Church in 2012.",
+      "hint": "Her talents went well beyond theology, into music and medicine.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Benedict XVI, declaring St. Hildegard of Bingen a Doctor of the Church (2012)" }
+      ]
+    },
+    {
+      "id": "saints-l5-001",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2650,
+      "prompt": "St. Maximilian Kolbe, a Franciscan priest, was canonized after volunteering to die in place of a stranger at which Nazi concentration camp in 1941?",
+      "choices": ["Auschwitz", "Dachau", "Buchenwald", "Treblinka"],
+      "correctAnswer": "Auschwitz",
+      "explanation": "When a fellow prisoner was condemned to starve as punishment for an escape, Kolbe offered his own life in exchange -- a martyrdom of charity that John Paul II recognized by canonizing him in 1982.",
+      "hint": "He offered his life for a stranger condemned to starve in his place.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, canonizing St. Maximilian Kolbe (1982)" }
+      ]
+    },
+    {
+      "id": "saints-l5-002",
+      "topic": "saints",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2600,
+      "prompt": "True or False: St. Teresa of Calcutta (Mother Teresa) founded the Missionaries of Charity to care for 'the poorest of the poor.'",
+      "correctAnswer": true,
+      "explanation": "Teresa left her teaching order to serve the destitute and dying in Calcutta's streets, founding a religious congregation devoted entirely to the poorest of the poor -- canonized by Pope Francis in 2016.",
+      "hint": "Her famous phrase for who she served became the mission of her whole order.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Francis, canonizing St. Teresa of Calcutta (2016)" }
+      ]
+    },
+    {
+      "id": "saints-l5-003",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2680,
+      "prompt": "St. Faustina Kowalska, a Polish religious sister, received visions of Christ that gave rise to which widely practiced modern Catholic devotion?",
+      "choices": ["Divine Mercy", "The Miraculous Medal", "The Sacred Heart devotion", "Perpetual Adoration"],
+      "correctAnswer": "Divine Mercy",
+      "explanation": "Faustina's diary of her visions of Christ as the Divine Mercy shaped a devotion that spread worldwide after her canonization by her fellow Pole, John Paul II, in 2000.",
+      "hint": "This devotion is now marked every year on the Sunday after Easter.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, canonizing St. Faustina Kowalska (2000)" }
+      ]
+    },
+    {
+      "id": "saints-l5-004",
+      "topic": "saints",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2720,
+      "prompt": "St. Josephine Bakhita, canonized in 2000, endured enslavement in Sudan as a child before becoming a religious sister in ____, the country where she finally found freedom.",
+      "correctAnswer": "Italy",
+      "explanation": "Sold into slavery as a girl and brought to Italy, Bakhita was freed by Italian law, entered religious life there, and was canonized by John Paul II in 2000 as a witness against the evil of slavery.",
+      "hint": "She was brought here from Sudan and never had to leave again.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, canonizing St. Josephine Bakhita (2000)" }
+      ]
+    },
+    {
+      "id": "saints-l5-005",
+      "topic": "saints",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2700,
+      "prompt": "Match each modern saint to the fact they are remembered for.",
+      "pairs": [
+        { "left": "St. Maximilian Kolbe", "right": "Died at Auschwitz in place of a stranger" },
+        { "left": "St. Teresa of Calcutta", "right": "Founded the Missionaries of Charity" },
+        { "left": "St. Faustina Kowalska", "right": "Received visions leading to the Divine Mercy devotion" },
+        { "left": "St. Josephine Bakhita", "right": "Former slave who became a religious sister in Italy" }
+      ],
+      "explanation": "All four of these saints lived and died within the last century and a half, proof that heroic holiness is not only an ancient memory but a living reality.",
+      "hint": "All four of these saints lived within the last hundred-plus years.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, canonizing St. Maximilian Kolbe (1982)" },
+        { "type": "magisterial_document", "reference": "Francis, canonizing St. Teresa of Calcutta (2016)" }
+      ]
+    },
+    {
+      "id": "saints-l5-006",
+      "topic": "saints",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: The saints of this level -- Kolbe, Teresa of Calcutta, Faustina, and Bakhita -- were all canonized in the 20th or 21st century, not in antiquity.",
+      "correctAnswer": true,
+      "explanation": "Every canonization in this level happened within living or recent memory, a reminder that the Church continues to recognize extraordinary holiness in every era, including our own.",
+      "hint": "None of these canonizations happened more than about 45 years ago.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "John Paul II, canonizing St. Faustina Kowalska (2000)" }
       ]
     }
   ]

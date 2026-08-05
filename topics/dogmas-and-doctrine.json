@@ -11,6 +11,7 @@
       "choices": ["The first moment of her conception", "Her baptism", "The Annunciation", "Her birth"],
       "correctAnswer": "The first moment of her conception",
       "explanation": "Pope Pius IX solemnly defined this dogma in 1854 in Ineffabilis Deus: Mary was preserved free from all stain of original sin from the very first instant of her conception.",
+      "hint": "The dogma's name tells you exactly when this happened.",
       "citations": [
         { "type": "ccc", "reference": "CCC 491" },
         { "type": "magisterial_document", "reference": "Pius IX, Ineffabilis Deus (1854)" }
@@ -31,6 +32,7 @@
       ],
       "correctAnswer": "Share the same divine substance",
       "explanation": "Against Arius, who taught the Son was a created being, Nicaea defined that the Son is 'begotten, not made,' of the same substance (homoousios) as the Father -- true God from true God.",
+      "hint": "Homoousios literally means 'same substance.'",
       "citations": [
         { "type": "ccc", "reference": "CCC 465" },
         { "type": "council", "reference": "First Council of Nicaea (325)" }
@@ -51,9 +53,423 @@
       ],
       "correctAnswer": "One divine person with two natures, fully God and fully man",
       "explanation": "Chalcedon confessed 'one and the same Son... truly God and truly man,' uniting two natures in the one person of Christ -- a dogma known as the hypostatic union.",
+      "hint": "'Hypostasis' is the Greek word for person -- there's only one here.",
       "citations": [
         { "type": "ccc", "reference": "CCC 467" },
         { "type": "council", "reference": "Council of Chalcedon (451)" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: The Catholic Church teaches that the Father, Son, and Holy Spirit are three separate gods who share the same will.",
+      "correctAnswer": false,
+      "explanation": "This would be tritheism, not the Trinity. The Church teaches one God in three Persons -- not three gods, but one divine substance eternally existing as Father, Son, and Holy Spirit.",
+      "hint": "Three Persons does not mean three separate gods.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 253" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "The doctrine of the Trinity, completed in the Church's confession that the Holy Spirit is also fully divine, teaches that God is:",
+      "choices": ["One God in three Persons", "Three gods acting as one", "A single Person with three roles", "Two gods, Father and Son, plus a divine force"],
+      "correctAnswer": "One God in three Persons",
+      "explanation": "Nicaea affirmed the Son's divinity in 325; the First Council of Constantinople completed the doctrine in 381 by affirming the Holy Spirit's divinity, giving the Church its full Trinitarian faith.",
+      "hint": "One God, but not one Person -- that's the heart of this doctrine.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 253" },
+        { "type": "council", "reference": "First Council of Constantinople (381)" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1450,
+      "prompt": "The Apostles' Creed professes belief in 'the resurrection of the ____,' affirming that our bodies, not only our souls, will rise again.",
+      "correctAnswer": "body",
+      "explanation": "Catholic teaching insists that eternal life is not a disembodied existence -- at the end of time, the body itself will be raised and reunited with the soul, just as Christ's body was raised.",
+      "hint": "The Apostles' Creed's very last line is about what happens to our bodies.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 988" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1780,
+      "prompt": "The Church teaches that God created the universe 'ex nihilo,' a Latin phrase meaning:",
+      "choices": ["Out of nothing", "In six literal days", "From pre-existing matter", "Through a series of emanations"],
+      "correctAnswer": "Out of nothing",
+      "explanation": "Unlike ancient myths where a god shapes the world from existing material, Genesis and the Church's doctrine insist God alone brought all of creation into being from nothing at all.",
+      "hint": "This phrase rules out any pre-existing raw material God shaped.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 296" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1750,
+      "prompt": "True or False: According to Genesis, God created human beings, both male and female, in his own image and likeness.",
+      "correctAnswer": true,
+      "explanation": "Genesis 1:27 states plainly that God created humanity, male and female, in his own image -- the foundation for the Church's teaching on human dignity.",
+      "hint": "Genesis says this happened on the sixth day, to both sexes equally.",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 1:27" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1820,
+      "prompt": "Catholic teaching holds that angels are:",
+      "choices": ["Purely spiritual, personal, and immortal creatures", "Souls of people who have died", "A poetic symbol with no real existence", "Lesser gods subordinate to the one God"],
+      "correctAnswer": "Purely spiritual, personal, and immortal creatures",
+      "explanation": "The Church teaches that angels are real, individual creatures with intellect and will, but without bodies -- entirely different from human souls, which are created to be united to a body.",
+      "hint": "They have no bodies at all, yet they are real, individual creatures.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 330" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1850,
+      "prompt": "The Catechism teaches that God, who is all-good, permits evil only because in his providence he can draw a greater ____ from it, as seen supremely in the cross.",
+      "correctAnswer": "good",
+      "explanation": "The clearest example is the cross itself: the greatest evil in history, the murder of the Son of God, became the very means of the world's redemption.",
+      "hint": "Think of the cross itself: the worst evil became the source of salvation.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 311" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1830,
+      "prompt": "Match each term about God and creation to its meaning.",
+      "pairs": [
+        { "left": "Ex nihilo", "right": "Creation out of nothing, not pre-existing matter" },
+        { "left": "Imago Dei", "right": "Human beings made in the image and likeness of God" },
+        { "left": "Providence", "right": "God's loving governance guiding all creation to its end" },
+        { "left": "Angels", "right": "Purely spiritual beings who serve God's plan" }
+      ],
+      "explanation": "Together these terms describe the Church's vision of creation: brought from nothing, governed by love, and crowned by beings -- human and angelic -- made to know and love their Creator.",
+      "hint": "One of these terms describes what humans are made in; another describes what the universe was made from.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 296" },
+        { "type": "ccc", "reference": "CCC 330" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1800,
+      "prompt": "True or False: The Catholic Church teaches that the material world, including the human body, is inherently evil and only the spirit is good.",
+      "correctAnswer": false,
+      "explanation": "Genesis says the opposite: after creating the material world, 'God saw everything that he had made, and indeed, it was very good.' The Church has always rejected views that treat matter itself as evil.",
+      "hint": "Genesis says the opposite of this claim, right after describing the material world.",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 1:31" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2080,
+      "prompt": "The Incarnation is the Church's teaching that:",
+      "choices": ["The Son of God took on human nature and became man", "God appeared to be human without truly becoming one", "Jesus was a man later adopted as God's son", "The Holy Spirit became visible as a dove"],
+      "correctAnswer": "The Son of God took on human nature and became man",
+      "explanation": "John's Gospel states it directly: 'the Word became flesh and dwelt among us' -- the eternal Son truly assumed a complete human nature without ceasing to be God.",
+      "hint": "John's Gospel says 'the Word became flesh and dwelt among us.'",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:14" },
+        { "type": "ccc", "reference": "CCC 461" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2050,
+      "prompt": "True or False: The Catholic Church teaches that Jesus Christ is the one, sole mediator between God and humanity.",
+      "correctAnswer": true,
+      "explanation": "St. Paul states this plainly: 'there is one God, and one mediator between God and mankind, Christ Jesus.' Every other form of intercession, including that of the saints, draws on his mediation alone.",
+      "hint": "Paul names only one person who stands between God and all humanity.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Timothy 2:5" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "The 'Paschal Mystery' refers to Christ's:",
+      "choices": ["Passion, death, resurrection, and ascension", "Birth and childhood in Nazareth", "Forty days of fasting in the desert", "Sermon on the Mount"],
+      "correctAnswer": "Passion, death, resurrection, and ascension",
+      "explanation": "The Paschal Mystery -- Christ's suffering, death, rising, and return to the Father -- stands at the very center of the Christian faith and of the Church's liturgy.",
+      "hint": "This word covers four connected events at the end of Christ's earthly life.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 571" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2150,
+      "prompt": "The Apostles' Creed states that Christ 'descended into ____' before rising on the third day, affirming that he truly experienced death.",
+      "correctAnswer": "hell",
+      "explanation": "This article of the Creed affirms that Christ's soul truly joined the dead, sharing fully in the human experience of death before his glorious resurrection.",
+      "hint": "This line comes right after 'was crucified, died, and was buried' in the Creed.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 631" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2120,
+      "prompt": "Match each term about Christ and salvation to its meaning.",
+      "pairs": [
+        { "left": "Incarnation", "right": "The Son of God became man" },
+        { "left": "Paschal Mystery", "right": "Christ's passion, death, resurrection, and ascension" },
+        { "left": "Redemption", "right": "Christ's saving sacrifice that frees us from sin" },
+        { "left": "Mediator", "right": "Christ as the one bridge between God and humanity" }
+      ],
+      "explanation": "These four terms together summarize the whole of Christ's saving work: who he became, what he did, why it matters, and how it reaches us.",
+      "hint": "One of these terms names the whole arc from Good Friday to Ascension Thursday.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 461" },
+        { "type": "scripture", "reference": "1 Timothy 2:5" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2090,
+      "prompt": "True or False: The Catholic Church teaches that Christ's saving death was intended only for a chosen few, not for all humanity.",
+      "correctAnswer": false,
+      "explanation": "St. Paul writes that God 'wills everyone to be saved' and that Christ 'died for all' -- the Church has always taught that redemption is offered to every person, even though not all accept it.",
+      "hint": "Paul writes that Christ died for all, not for a select few.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Timothy 2:4" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "The Catechism defines grace as:",
+      "choices": ["God's free and undeserved help to respond to his call", "A reward earned through good works", "A feeling of religious emotion", "The natural human capacity for virtue"],
+      "correctAnswer": "God's free and undeserved help to respond to his call",
+      "explanation": "Grace is never earned -- it is a free gift of God's own life, given so that we can respond to his call and share in his divine life.",
+      "hint": "This help is a gift, not something you earn.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1996" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2350,
+      "prompt": "True or False: The Catholic Church recognizes seven sacraments, all instituted by Christ.",
+      "correctAnswer": true,
+      "explanation": "The Church teaches that Baptism, Confirmation, Eucharist, Reconciliation, Anointing of the Sick, Holy Orders, and Matrimony were all instituted by Christ himself.",
+      "hint": "Count them: this number appears throughout the Catechism's sacramental teaching.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1113" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "Which three sacraments imprint a permanent, indelible spiritual mark on the soul that can never be repeated?",
+      "choices": ["Baptism, Confirmation, and Holy Orders", "Baptism, Eucharist, and Reconciliation", "Confirmation, Anointing of the Sick, and Matrimony", "Eucharist, Reconciliation, and Matrimony"],
+      "correctAnswer": "Baptism, Confirmation, and Holy Orders",
+      "explanation": "These three sacraments each confer a 'character' -- a permanent spiritual seal -- which is why none of the three can ever be received a second time.",
+      "hint": "You can only receive each of these three sacraments once in your life.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1121" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2450,
+      "prompt": "Grace that makes us holy and pleasing to God, dwelling in the soul as a lasting share in God's own life, is called ____ grace.",
+      "correctAnswer": "sanctifying",
+      "explanation": "Sanctifying grace is not a passing feeling but a stable disposition given by God, perfecting the soul so that it can live and act out of love for him.",
+      "hint": "This kind of grace is a lasting share in God's own life, not a passing feeling.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2000" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2430,
+      "prompt": "Match each sacrament to the fact that describes it.",
+      "pairs": [
+        { "left": "Baptism", "right": "First sacrament of Christian initiation" },
+        { "left": "Eucharist", "right": "Source and summit of the Christian life" },
+        { "left": "Matrimony", "right": "Sacrament at the service of communion, uniting husband and wife" },
+        { "left": "Anointing of the Sick", "right": "Sacrament of healing for the seriously ill" }
+      ],
+      "explanation": "The seven sacraments group naturally into initiation, healing, and service of communion -- each marking a stage or need in the Christian life.",
+      "hint": "One of these is called the 'source and summit' of the whole Christian life.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1113" },
+        { "type": "ccc", "reference": "CCC 1324" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: A sacrament's power to give grace depends on the personal holiness of the priest who administers it.",
+      "correctAnswer": false,
+      "explanation": "The Church teaches the sacraments work 'ex opere operato' -- by the very fact of the action being performed -- so their power comes from Christ acting through the rite, not from the minister's personal sanctity.",
+      "hint": "The sacrament works even through an imperfect minister -- that's the whole point of this principle.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1128" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2650,
+      "prompt": "Catholic teaching on the 'particular judgment' holds that immediately after death, each soul faces a judgment leading to:",
+      "choices": ["Heaven, purgatory, or hell", "A period of reincarnation", "Automatic entry into heaven for all", "Complete annihilation"],
+      "correctAnswer": "Heaven, purgatory, or hell",
+      "explanation": "The Church teaches that each soul is judged immediately at death and enters heaven (either at once or after purification in purgatory) or hell, ahead of the general judgment at the end of time.",
+      "hint": "This happens right after death, before the end of the world.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1022" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2620,
+      "prompt": "True or False: The Catholic Church teaches that souls in purgatory are being purified before entering the joy of heaven, not punished for eternity.",
+      "correctAnswer": true,
+      "explanation": "Purgatory is not a second chance at damnation but a final, temporary purification for those who die in God's friendship but still need to be cleansed before entering heaven's full joy.",
+      "hint": "This isn't a punishment that never ends -- it's a preparation.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1030" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2680,
+      "prompt": "The Church teaches that hell is best understood as:",
+      "choices": ["A state of definitive self-exclusion from communion with God", "A place invented mainly to frighten children", "A temporary punishment that eventually ends for everyone", "Something only symbolic, with no real possibility"],
+      "correctAnswer": "A state of definitive self-exclusion from communion with God",
+      "explanation": "The Catechism describes hell not primarily in terms of fire, but as the state of definitive self-exclusion from communion with God and the blessed -- a real possibility freely chosen, not imposed.",
+      "hint": "This isn't primarily about fire -- it's about a choice to be separated from God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1033" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2720,
+      "prompt": "At the end of time, the Church teaches, all the dead will rise again, body and soul, at the ____ Judgment, when Christ will judge the living and the dead.",
+      "correctAnswer": "Last",
+      "explanation": "Unlike the particular judgment each soul faces at death, the Last Judgment happens to all humanity together at the end of history, when the dead rise bodily to be judged.",
+      "hint": "This is the OTHER judgment -- not the one right after death, but the one at the very end of time.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1038" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2700,
+      "prompt": "Match each of the Last Things to its meaning.",
+      "pairs": [
+        { "left": "Particular Judgment", "right": "Each soul's judgment immediately after death" },
+        { "left": "Purgatory", "right": "Final purification before entering heaven" },
+        { "left": "Hell", "right": "Definitive self-exclusion from communion with God" },
+        { "left": "Last Judgment", "right": "Christ's judgment of all humanity at the end of time" }
+      ],
+      "explanation": "Together these four realities describe the Church's teaching on what awaits every soul after death, and what awaits all creation at the end of history.",
+      "hint": "One of these happens to everyone right after death; another happens to everyone at the end of time.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1022" },
+        { "type": "ccc", "reference": "CCC 1038" }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: The Catholic Church teaches that at the end of time our bodies remain in the grave forever while only our souls live on eternally.",
+      "correctAnswer": false,
+      "explanation": "St. Paul teaches that 'the dead will be raised imperishable' -- the Church affirms the resurrection of the body, not an eternity of disembodied souls alone.",
+      "hint": "Paul writes that the dead will be raised imperishable -- bodies included.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Corinthians 15:52" }
       ]
     }
   ]
