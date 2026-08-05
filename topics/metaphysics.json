@@ -16,6 +16,7 @@
       ],
       "correctAnswer": "The natural light of human reason, from the created world",
       "explanation": "Echoing the First Vatican Council, the Catechism teaches that God, 'the first principle and last end of all things, can be known with certainty from the created world by the natural light of human reason' -- the starting point of natural theology.",
+      "hint": "Notice it says 'reason,' not 'faith' or 'revelation.'",
       "citations": [
         { "type": "ccc", "reference": "CCC 36" },
         { "type": "council", "reference": "First Vatican Council, Dei Filius (1870)" }
@@ -30,6 +31,7 @@
       "prompt": "True or False: The Catechism describes the desire for God as something implanted only in a few especially religious people, not in every human being.",
       "correctAnswer": false,
       "explanation": "The Catechism teaches the opposite: 'The desire for God is written in the human heart, because man is created by God and for God' -- every person, not only the religious, is made with this orientation toward God.",
+      "hint": "This desire is written into human nature itself, not handed only to a spiritual elite.",
       "citations": [
         { "type": "ccc", "reference": "CCC 27" }
       ]
@@ -49,9 +51,467 @@
       ],
       "correctAnswer": "Existence itself -- Being, not merely a being among others",
       "explanation": "Exodus 3:14 records God's self-revelation as 'I AM.' Catholic metaphysics, following Fathers like Augustine and theologians like Aquinas, reads this as revealing God not as one being among many, but as Being itself, the source of all that exists.",
+      "hint": "God didn't give a name like 'Bob' -- he described his own act of existing.",
       "citations": [
         { "type": "scripture", "reference": "Exodus 3:14" },
         { "type": "church_father", "reference": "St. Augustine, Confessions VII" }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-004",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1150,
+      "prompt": "Pope St. John Paul II's encyclical Fides et Ratio opens by comparing faith and reason to two ____ on which the human spirit rises to contemplate truth.",
+      "correctAnswer": "wings",
+      "explanation": "The encyclical's famous opening line -- 'Faith and reason are like two wings on which the human spirit rises to the contemplation of truth' -- sets the tone for the whole document: faith and reason belong together, not at war.",
+      "hint": "Think of something a bird uses to fly, in pairs.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-005",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1200,
+      "prompt": "True or False: The most basic law of reason, the principle of non-contradiction, states that the same thing cannot both be and not be true at the same time and in the same respect.",
+      "correctAnswer": true,
+      "explanation": "Fides et Ratio affirms this and similar first principles as self-evident starting points reason cannot coherently deny -- without them, no reasoning, including theological reasoning, could get off the ground.",
+      "hint": "It can't be raining and not-raining, in the same place, at the same moment.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-006",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Philosophers distinguish a creature's 'essence' (what it is) from its 'existence' (that it is). In God alone, Catholic metaphysics holds that these two are:",
+      "choices": [
+        "Identical -- God's essence simply is to exist",
+        "Completely unrelated to one another",
+        "Both created by a higher being",
+        "Both illusions"
+      ],
+      "correctAnswer": "Identical -- God's essence simply is to exist",
+      "explanation": "A creature could fail to exist without contradiction -- its essence doesn't require existence. God's essence, by contrast, simply is 'to exist': he cannot not be, which is part of what 'I AM WHO I AM' reveals.",
+      "hint": "Everything else could have not existed. This one being could not.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 213" }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-001",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "The classical philosophical distinction between 'act' (what a thing actually is) and 'potency' (what a thing could become) primarily explains:",
+      "choices": [
+        "How change is possible without a thing becoming a completely different substance",
+        "How to calculate the age of the universe",
+        "Which sacraments are valid",
+        "How many angels exist"
+      ],
+      "correctAnswer": "How change is possible without a thing becoming a completely different substance",
+      "explanation": "A green apple has the potency to become red; when it does, the same apple persists through the change, moving from potentially red to actually red. Act and potency explain how one thing can genuinely change while remaining itself.",
+      "hint": "This distinction is about change over time, not about creation from nothing.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-002",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: In Thomistic metaphysics, 'pure act' -- actuality with no unrealized potency at all -- describes God alone.",
+      "correctAnswer": true,
+      "explanation": "Every creature retains unrealized potential -- it could be otherwise than it currently is. God alone has no unrealized potential whatsoever: he simply and fully is, which is part of what it means to say his essence is to exist.",
+      "hint": "Everything else could still change into something it isn't yet. This one being cannot.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 3:14" }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-003",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1750,
+      "prompt": "Because a creature is not pure act, it always retains some unrealized ____ -- some way it could be otherwise than it currently is.",
+      "correctAnswer": "potency",
+      "explanation": "A seated man has the potency to stand; a cold cup of coffee has the potency to warm up. Every creature, unlike God, is a mix of actuality and unrealized potential.",
+      "hint": "It's the opposite of 'act' in this classical pairing.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 3:14" }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-004",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "In classical metaphysics, an acorn has the potency to become an oak tree. This means the oak tree, before it grows, is:",
+      "choices": [
+        "Not yet actual, but really possible given the acorn's own nature",
+        "Already fully actual, just hidden from view",
+        "Impossible, since acorns and oaks are unrelated",
+        "A different substance from the acorn entirely"
+      ],
+      "correctAnswer": "Not yet actual, but really possible given the acorn's own nature",
+      "explanation": "Potency isn't mere logical possibility -- an acorn has the real, built-in potency to become an oak specifically, rooted in what an acorn already is by nature, not an arbitrary open-ended possibility.",
+      "hint": "The acorn's potency points toward one specific outcome, not just any outcome.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-005",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: 'Act,' in this philosophical sense, simply means 'a good deed,' unrelated to what a thing actually is.",
+      "correctAnswer": false,
+      "explanation": "Here 'act' (from the Latin actus) means actuality or realization -- a thing's being fully what it is -- not a moral action. It's easy to confuse the philosophical term with the everyday English word.",
+      "hint": "This is a technical philosophical term, borrowed but not identical to the everyday word.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-006",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each term to its meaning in classical act/potency metaphysics.",
+      "pairs": [
+        { "left": "Act", "right": "What a thing actually is or actually has" },
+        { "left": "Potency", "right": "What a thing could become or could have, but does not yet" },
+        { "left": "Pure Act", "right": "Actuality with no unrealized potency at all -- God alone" },
+        { "left": "Change", "right": "The passage from potency to act" }
+      ],
+      "explanation": "Together these four terms form the backbone of the classical account of change: things move from what they could be to what they actually are, except God, who simply and fully is.",
+      "hint": "One of these four describes God uniquely; the others apply to any changing creature.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 3:14" },
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-001",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "Aquinas' 'argument from motion,' the First Way, reasons that whatever is in motion or change is put into that motion by:",
+      "choices": [
+        "Another, since nothing can move itself from potency to act in the very same respect",
+        "Pure chance, with no explanation needed",
+        "Its own future self, reaching backward in time",
+        "The observer watching it"
+      ],
+      "correctAnswer": "Another, since nothing can move itself from potency to act in the very same respect",
+      "explanation": "A cold cup of coffee cannot make itself hot; something already hot (or actively heating) must act on it. Aquinas argues that tracing this chain of movers points, ultimately, to an unmoved mover -- what believers call God.",
+      "hint": "Can a potentially-hot cup of coffee heat itself, with nothing else acting on it?",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 34" },
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-002",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Aristotle and Aquinas distinguish four kinds of causes -- material, formal, efficient, and final -- that together explain why a thing is what it is.",
+      "correctAnswer": true,
+      "explanation": "For a bronze statue: the bronze is the material cause, its particular shape is the formal cause, the sculptor is the efficient cause, and the purpose it's made for is the final cause. All four answer a different 'why' about the same statue.",
+      "hint": "Think of a statue: what it's made of, its shape, who made it, and what it's for.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-003",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "A thing's 'final cause' is the purpose or end toward which it is directed; Aquinas' Fifth Way argues from this order and purpose found throughout nature to the existence of an intelligent ____.",
+      "correctAnswer": "God",
+      "explanation": "Even non-intelligent things in nature consistently act toward ends -- an acorn toward becoming an oak, an eye toward seeing. Aquinas argues this built-in directedness points to an intelligence ordering it all.",
+      "hint": "Something has to be doing the directing, if the world consistently points toward ends.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 1:20" }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-004",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "In the classical four causes, the 'efficient cause' of a bronze statue is:",
+      "choices": [
+        "The sculptor, who actively brings it into being",
+        "The bronze it's made of",
+        "The particular shape it takes",
+        "The reason it was commissioned"
+      ],
+      "correctAnswer": "The sculptor, who actively brings it into being",
+      "explanation": "The efficient cause is the agent that actively produces the effect -- distinct from the material it's made of (material cause), the shape it takes (formal cause), and the purpose behind it (final cause).",
+      "hint": "This is the 'who' or 'what' that does the actual making.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-005",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: The principle of causality holds that everything that begins to exist must have a cause -- nothing simply pops into being uncaused.",
+      "correctAnswer": true,
+      "explanation": "This principle underlies much of natural theology's reasoning toward God: a universe of things that begin to exist points beyond itself to something that does not begin to exist and needs no cause outside itself.",
+      "hint": "This is one of the 'first principles' Fides et Ratio treats as reason's bedrock.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-006",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each of Aristotle's four causes to what it explains about a bronze statue.",
+      "pairs": [
+        { "left": "Material cause", "right": "The bronze it's made of" },
+        { "left": "Formal cause", "right": "The particular shape or design it takes" },
+        { "left": "Efficient cause", "right": "The sculptor who makes it" },
+        { "left": "Final cause", "right": "The purpose it's made for" }
+      ],
+      "explanation": "A complete explanation of any changing thing, Aristotle held, answers all four 'whys' at once -- what it's made of, what shape it has, who or what produced it, and what it's for.",
+      "hint": "Four different questions you could ask about the same statue.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-001",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "The 'transcendentals' in classical metaphysics are properties said to belong to every single being simply because it exists. Which of the following is traditionally listed as a transcendental?",
+      "choices": [
+        "Goodness",
+        "Color",
+        "Weight",
+        "Temperature"
+      ],
+      "correctAnswer": "Goodness",
+      "explanation": "Being, Unity, Truth, Goodness, and (often) Beauty are the classical transcendentals -- properties that apply to absolutely everything that exists, unlike color or weight, which only some beings have.",
+      "hint": "The other three options only apply to physical objects, not to every kind of being.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-002",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The medieval axiom 'omne ens est unum, verum, bonum' ('every being is one, true, good') expresses the doctrine of the transcendentals.",
+      "correctAnswer": true,
+      "explanation": "This axiom summarizes the claim that unity, truth, and goodness aren't extra add-ons to being -- they're convertible with being itself. Wherever there is a being at all, these properties follow automatically.",
+      "hint": "This Latin phrase is basically a one-line summary of the whole doctrine.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-003",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2420,
+      "prompt": "Because Being, Unity, Truth, and Goodness are 'convertible' with one another in classical metaphysics, whatever is fully real is, in due proportion, also fully intelligible and ____.",
+      "correctAnswer": "good",
+      "explanation": "'Convertible' means these terms all pick out the same underlying reality from different angles -- so a fuller degree of being brings with it a fuller degree of unity, truth, and goodness, not separate, unrelated properties.",
+      "hint": "It's one of the transcendentals already named earlier in the sentence -- the moral one.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-004",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2360,
+      "prompt": "Classical metaphysics regularly adds 'Beauty' to the shorter list of transcendentals (Being, Unity, Truth, Goodness). This reflects the conviction that beauty is:",
+      "choices": [
+        "A real property of being itself, not merely a matter of subjective taste",
+        "Purely a modern invention with no basis in older philosophy",
+        "Identical to pleasure and nothing more",
+        "Irrelevant to theology"
+      ],
+      "correctAnswer": "A real property of being itself, not merely a matter of subjective taste",
+      "explanation": "On this view, beauty is the splendor of a being's own truth and goodness, radiating outward and delighting the one who perceives it -- not simply whatever any individual happens to like.",
+      "hint": "The classical view resists reducing beauty to 'just personal opinion.'",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-005",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: In classical metaphysics, 'evil' is understood as a real, positive substance created alongside goodness, roughly equal and opposite to it.",
+      "correctAnswer": false,
+      "explanation": "Following St. Augustine's mature rejection of Manichean dualism, the Church holds that evil is a privation -- a lack of a good that ought to be present -- not a positive thing God created. Everything God made, as such, is good.",
+      "hint": "Genesis says everything God made was good -- so where would a second, evil substance come from?",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 1:31" }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-006",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each transcendental to its basic meaning.",
+      "pairs": [
+        { "left": "Being (Ens)", "right": "That a thing exists at all" },
+        { "left": "Unity (Unum)", "right": "That a thing is undivided in itself" },
+        { "left": "Truth (Verum)", "right": "That a thing is intelligible, knowable as it is" },
+        { "left": "Goodness (Bonum)", "right": "That a thing is desirable, complete according to its own nature" }
+      ],
+      "explanation": "Each transcendental highlights a different facet of the very same reality: to exist at all is already to be one, knowable, and desirable in some measure.",
+      "hint": "One is about existing, one about wholeness, one about being knowable, one about being desirable.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-001",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "Aquinas' 'Five Ways' are five philosophical arguments for:",
+      "choices": [
+        "The existence of God, reasoned from effects observable in the world",
+        "The number of angels in each choir",
+        "The date of Christ's return",
+        "The correct calendar for Easter"
+      ],
+      "correctAnswer": "The existence of God, reasoned from effects observable in the world",
+      "explanation": "From motion, causation, contingency, degrees of perfection, and the order of nature, Aquinas argues that reason alone, reflecting on the world, can conclude that God exists -- prior to and apart from revelation.",
+      "hint": "Each of the five starts from something we can observe in the world around us.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 31" },
+        { "type": "council", "reference": "First Vatican Council, Dei Filius (1870)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-002",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: The First Vatican Council solemnly taught that the existence of God cannot be known with certainty by reason alone, only by faith.",
+      "correctAnswer": false,
+      "explanation": "Vatican I taught the opposite: God 'can be known with certainty from the created world by the natural light of human reason.' Faith is still needed to know the mysteries of the Trinity and Incarnation, but not for God's bare existence.",
+      "hint": "Vatican I's teaching runs the other direction from this statement.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council, Dei Filius (1870)" },
+        { "type": "ccc", "reference": "CCC 36" }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-003",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "Romans chapter 1 teaches that God's 'eternal power and divine nature' have been clearly perceived, ever since the creation of the world, through the things that have been ____.",
+      "correctAnswer": "made",
+      "explanation": "St. Paul argues that creation itself, rightly reasoned about, leaves people without excuse for failing to recognize God's existence -- a foundational scriptural basis for natural theology.",
+      "hint": "It's the created things themselves that reveal the Creator.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 1:20" }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-004",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "The 'argument from contingency' reasons that since everything in the world could have failed to exist (is contingent), there must ultimately be something that:",
+      "choices": [
+        "Exists necessarily, not depending on anything else for its existence",
+        "Also could have failed to exist, just like everything else",
+        "Is the largest thing in the universe",
+        "Was created a very long time ago"
+      ],
+      "correctAnswer": "Exists necessarily, not depending on anything else for its existence",
+      "explanation": "If every single thing merely could exist or not, an infinite chain of merely-possible things could never get started on its own. Something must exist necessarily, in itself, to ground the existence of everything contingent.",
+      "hint": "An endless chain of 'maybe it exists, maybe it doesn't' can't explain itself.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council, Dei Filius (1870)" }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-005",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2700,
+      "prompt": "True or False: Because natural theology can establish God's existence through reason alone, the Church considers divine revelation of mysteries like the Trinity and the Incarnation unnecessary.",
+      "correctAnswer": false,
+      "explanation": "Reason can reach God's existence and some of his attributes, but the inner life of the Trinity and the Incarnation are truths reason could never discover on its own -- they depend entirely on God freely revealing himself.",
+      "hint": "Natural theology gets reason to God's doorstep -- it doesn't get inside the house on its own.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 37" }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-006",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each term in natural theology to its meaning.",
+      "pairs": [
+        { "left": "Natural theology", "right": "Knowledge of God available to unaided human reason" },
+        { "left": "Revealed theology", "right": "Knowledge of God that depends on God's own self-disclosure" },
+        { "left": "The Five Ways", "right": "Aquinas' philosophical arguments for God's existence" },
+        { "left": "Dei Filius", "right": "Vatican I's teaching that God can be known with certainty by reason" }
+      ],
+      "explanation": "Natural and revealed theology are not competitors -- reason can establish that God exists and something of what he is like, while revelation alone discloses who God is in himself, as Trinity and as Christ Incarnate.",
+      "hint": "Two of these are broad categories of theology; two are specific arguments or documents.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council, Dei Filius (1870)" },
+        { "type": "ccc", "reference": "CCC 36" }
       ]
     }
   ]
