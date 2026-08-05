@@ -11,6 +11,7 @@
       "choices": ["Romans 8:28", "Matthew 5:3", "1 Corinthians 15:3", "Revelation 21:4"],
       "correctAnswer": "Romans 8:28",
       "explanation": "Romans 8:28 doesn't explain away suffering, but it grounds a Christian response: God can bring good even out of evil and suffering for those who trust him -- a starting point rather than a full answer to this ancient question.",
+      "hint": "This verse promises God works all things together for good, not that suffering isn't real.",
       "citations": [
         { "type": "scripture", "reference": "Romans 8:28" }
       ]
@@ -30,6 +31,7 @@
       ],
       "correctAnswer": "By pointing to CCC 77: the apostles themselves left bishops as their successors with their own teaching authority",
       "explanation": "This objection assumes episcopal authority is a late invention. The Catechism roots it directly in apostolic practice: the apostles 'left bishops as their successors,' handing on 'their own position of teaching authority.'",
+      "hint": "The Catechism traces this authority back to the apostles themselves, not a later medieval invention.",
       "citations": [
         { "type": "ccc", "reference": "CCC 77" }
       ]
@@ -43,7 +45,464 @@
       "prompt": "True or False: The Bible nowhere calls believers to be ready to explain and defend their faith to others.",
       "correctAnswer": false,
       "explanation": "1 Peter 3:15 directly calls Christians to 'always be ready to give an explanation to anyone who asks... for the reason for your hope' -- the biblical foundation for the practice of answering objections.",
+      "hint": "This whole topic exists because of one specific verse calling for exactly this readiness.",
       "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-004",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "Objection: 'If God already knows everything I'll do, I don't really have free will.' What's the traditional Catholic response?",
+      "choices": [
+        "God's knowledge is outside time, seeing all moments at once, rather than causing our choices the way one event causes another",
+        "The Church agrees, and denies human free will",
+        "God only knows the past, not the future",
+        "This question has no possible answer in Catholic theology"
+      ],
+      "correctAnswer": "God's knowledge is outside time, seeing all moments at once, rather than causing our choices the way one event causes another",
+      "explanation": "God's foreknowledge doesn't work like a human prediction that forces an outcome -- as eternal, he simply sees every moment of time, including our free choices, without causing them the way one event in time causes another.",
+      "hint": "The key move is that God isn't 'inside' time predicting the future the way we would.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 600" }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-005",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: The Church teaches that praying to saints means worshiping them the same way Catholics worship God.",
+      "correctAnswer": false,
+      "explanation": "The Church carefully distinguishes the honor (veneration) given to saints from the worship (adoration) owed to God alone -- asking a saint's prayers is not the same act as worship.",
+      "hint": "There's a real, deliberate distinction between honoring a saint and worshiping God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2132" }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-006",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1350,
+      "prompt": "Objection: 'Confessing sins to a priest is unbiblical.' Response: In John 20:23, Jesus gives the apostles authority to forgive sins, saying 'Whose sins you forgive are forgiven them, and whose sins you retain are ____.'",
+      "correctAnswer": "retained",
+      "explanation": "This verse gives the apostles -- and, through them, their successors -- real authority to forgive or retain sins, which requires actually hearing what those sins are, grounding sacramental confession in Scripture itself.",
+      "hint": "It's the opposite of 'forgiven,' matching the first half of the sentence.",
+      "citations": [
+        { "type": "scripture", "reference": "John 20:23" }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-001",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "Objection: 'A rational, scientifically-minded person cannot also believe in miracles.' The Catholic response distinguishes:",
+      "choices": [
+        "The ordinary laws of nature from God's own freedom, as their author, to act beyond them without violating reason",
+        "Nothing -- the Church agrees miracles are irrational",
+        "Miracles from all natural events, treating them as entirely unrelated categories",
+        "Old Testament miracles, which are accepted, from New Testament ones, which are not"
+      ],
+      "correctAnswer": "The ordinary laws of nature from God's own freedom, as their author, to act beyond them without violating reason",
+      "explanation": "A miracle isn't a violation of reason -- it's an act by the very author of nature's laws, who is free to act beyond the ordinary course of events he himself established, without those events being random or contrary to reason.",
+      "hint": "God wrote the laws of nature -- an author isn't bound the same way a character inside the story is.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-002",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The Catholic Church requires all Catholics to reject the Big Bang theory as incompatible with the Genesis creation account.",
+      "correctAnswer": false,
+      "explanation": "The Church teaches that genuine scientific inquiry, properly conducted, can never truly conflict with faith -- there is no requirement to reject well-supported scientific theories like the Big Bang.",
+      "hint": "The Church's actual position is that real science and real faith can't ultimately contradict each other.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 159" }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-003",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1780,
+      "prompt": "Pope St. John Paul II taught that the theory of evolution, regarding the human body, is 'more than a ____' -- while insisting the human soul is directly created by God, not the product of material processes alone.",
+      "correctAnswer": "hypothesis",
+      "explanation": "In a 1996 message to the Pontifical Academy of Sciences, John Paul II acknowledged evolution's strong scientific standing regarding the body, while firmly maintaining that the spiritual soul cannot be explained by material evolution alone.",
+      "hint": "This word describes a tentative guess -- and he said evolution's evidence had moved well beyond that stage.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Message to the Pontifical Academy of Sciences, Pope St. John Paul II (1996)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-004",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "Objection: 'Genetics and cosmology have made belief in a soul obsolete.' Catholic teaching responds that the human soul is:",
+      "choices": [
+        "A spiritual reality, not reducible to or identical with any physical or biological process",
+        "Simply another name for brain activity",
+        "A concept the Church has quietly abandoned",
+        "Something only some human beings possess"
+      ],
+      "correctAnswer": "A spiritual reality, not reducible to or identical with any physical or biological process",
+      "explanation": "The Church teaches that every human soul is directly created by God -- a spiritual reality that no amount of physical or biological description, however accurate on its own terms, could fully capture or explain away.",
+      "hint": "The soul, on this view, isn't a stand-in for something physics or biology could eventually explain.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 366" }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-005",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The Catholic Church has historically operated observatories and supported significant contributions to modern astronomy, including through the Vatican Observatory.",
+      "correctAnswer": true,
+      "explanation": "Far from opposing astronomy wholesale, the Church has long sponsored serious scientific research -- a concrete expression of the conviction that faith and genuine science are not at war.",
+      "hint": "The Vatican itself runs a research observatory, staffed by Jesuit scientists.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 159" }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-006",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each science-related objection to a fitting Catholic response.",
+      "pairs": [
+        { "left": "'Miracles are irrational'", "right": "God, as author of nature's laws, can act beyond them without violating reason" },
+        { "left": "'The Big Bang disproves Genesis'", "right": "A Catholic priest-scientist first proposed the Big Bang theory" },
+        { "left": "'Evolution disproves the soul'", "right": "The soul is a spiritual reality, directly created by God, not a physical process" },
+        { "left": "'The Church has always opposed science'", "right": "The Church has long supported research, including its own observatory" }
+      ],
+      "explanation": "Each objection assumes a conflict between faith and science that the Church's actual teaching and history don't bear out.",
+      "hint": "Notice each response corrects a specific factual assumption behind the objection.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 159" },
+        { "type": "ccc", "reference": "CCC 366" }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-001",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "Philosophers distinguish 'moral evil' (evil caused by free human choices) from:",
+      "choices": [
+        "'Natural evil' (suffering caused by natural processes like disease or disaster)",
+        "'Fake evil' (evil that isn't actually real)",
+        "'Divine evil' (evil directly willed by God)",
+        "'Necessary evil' (evil the Church requires)"
+      ],
+      "correctAnswer": "'Natural evil' (suffering caused by natural processes like disease or disaster)",
+      "explanation": "This classic distinction separates suffering that flows from human freedom and sin from suffering that flows from the natural world's own processes -- both raise real questions, but of somewhat different kinds.",
+      "hint": "One kind of evil comes from human choices; the other from the natural world itself.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 385" }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-002",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Catholic Church teaches that God directly causes moral evil (sin) in order to bring about some greater good.",
+      "correctAnswer": false,
+      "explanation": "The Church teaches that God is in no way, directly or indirectly, the cause of moral evil -- he permits it, out of respect for creaturely freedom, but he never wills or causes sin itself.",
+      "hint": "God permits this kind of evil; he does not cause it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 311" }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-003",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "St. Augustine's classical answer to the problem of evil holds that evil is not a positive thing in itself, but a ____ -- a lack of a good that ought to be present.",
+      "correctAnswer": "privation",
+      "explanation": "On this view, evil has no independent existence of its own -- it's always a corruption or absence of some good that should be there, not a rival substance created alongside goodness.",
+      "hint": "It names an absence or lack, not a positive thing in its own right.",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 1:31" }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-004",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The 'free will defense' against the problem of evil argues that:",
+      "choices": [
+        "A world with genuine freedom, and the real possibility of moral evil, is more valuable than a world of forced, robotic goodness",
+        "Free will is an illusion invented to excuse God",
+        "God removed free will after the Fall to prevent further evil",
+        "Only some human beings actually have free will"
+      ],
+      "correctAnswer": "A world with genuine freedom, and the real possibility of moral evil, is more valuable than a world of forced, robotic goodness",
+      "explanation": "This defense argues that love and goodness freely chosen are worth the real risk that freedom could be misused -- a world without any possibility of moral evil would also be a world without any real freedom to love.",
+      "hint": "This defense argues that real freedom is worth its real risks.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 311" }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-005",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: Catholic theology teaches that God is powerless to prevent evil, since he is not truly all-powerful.",
+      "correctAnswer": false,
+      "explanation": "The Church holds firmly to God's almighty power even while acknowledging the real experience of evil and suffering -- God permits evil for reasons connected to a greater good, without this implying any limit on his power.",
+      "hint": "The Church's answer to evil doesn't come at the cost of denying God's power.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 272" }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-006",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each term related to the problem of evil to its meaning.",
+      "pairs": [
+        { "left": "Moral evil", "right": "Evil caused by free human choices, like sin" },
+        { "left": "Natural evil", "right": "Suffering from natural causes, like disease or disaster" },
+        { "left": "Privation theory", "right": "Evil as a lack of a due good, not a positive substance" },
+        { "left": "Free will defense", "right": "Genuine freedom is worth the real risk of moral evil" }
+      ],
+      "explanation": "These four ideas together form the backbone of the classical Christian approach to the problem of evil -- distinguishing its kinds, its metaphysical status, and why God permits it.",
+      "hint": "Two describe kinds of evil; two describe philosophical explanations for why evil exists at all.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 311" },
+        { "type": "ccc", "reference": "CCC 385" }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-001",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "Objection: 'The Church has never admitted wrongdoing for events like the Crusades or the Inquisition.' In fact, Pope St. John Paul II:",
+      "choices": [
+        "Publicly asked forgiveness for sins committed by members of the Church throughout history, at a 'Day of Pardon' liturgy in 2000",
+        "Refused to ever discuss the topic publicly",
+        "Argued the Crusades and Inquisition never actually happened",
+        "Excommunicated historians who studied these events"
+      ],
+      "correctAnswer": "Publicly asked forgiveness for sins committed by members of the Church throughout history, at a 'Day of Pardon' liturgy in 2000",
+      "explanation": "As part of the Jubilee Year 2000, John Paul II led a public liturgy of repentance at St. Peter's Basilica, explicitly asking forgiveness for historical sins committed by members of the Church, including violence done in God's name.",
+      "hint": "This was a public liturgy, not a private conversation, held during the Jubilee Year 2000.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-002",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The Galileo affair means the Catholic Church officially teaches that Scripture must always be read as a scientific textbook on astronomy.",
+      "correctAnswer": false,
+      "explanation": "The Church's own teaching on Scripture holds that it reliably teaches what is needed for our salvation, using the literary forms and worldview of its time -- not that it functions as a modern scientific astronomy textbook.",
+      "hint": "The Church's actual teaching on how to read Scripture doesn't demand this kind of scientific literalism.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 159" }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-003",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2360,
+      "prompt": "Pope St. John Paul II commissioned a study of the Galileo case and, in a 1992 address, publicly acknowledged that Church officials of the time had made ____ in their handling of the matter.",
+      "correctAnswer": "errors",
+      "explanation": "After more than a decade of study by a Pontifical commission, John Paul II publicly acknowledged the real mistakes made by theologians and officials in the Galileo case -- a notable example of the Church reckoning honestly with its own history.",
+      "hint": "It's a word for mistakes -- the Church acknowledged real ones were made.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Address to the Pontifical Academy of Sciences, Pope St. John Paul II (1992)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-004",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "Regarding the sin of slavery, one of the Catholic Church's clearest direct condemnations of the slave trade came in Pope Gregory XVI's 1839 document:",
+      "choices": [
+        "In Supremo Apostolatus",
+        "Rerum Novarum",
+        "Humani Generis",
+        "Pascendi Dominici Gregis"
+      ],
+      "correctAnswer": "In Supremo Apostolatus",
+      "explanation": "In Supremo Apostolatus condemned the slave trade and the enslavement of indigenous peoples and Africans -- an explicit papal statement against practices some Catholics, in contradiction of Church teaching, had participated in.",
+      "hint": "The other three documents address labor conditions, evolution, and Modernism -- not slavery specifically.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-005",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: Historical wrongdoing by some members of the Church, even including clergy, does not by itself disprove the truth of Catholic doctrine, any more than a scientist's personal misconduct disproves a scientific theory.",
+      "correctAnswer": true,
+      "explanation": "The Catechism describes the Church as holy in her founder, sacraments, and teaching, while always including sinful members in need of ongoing purification -- a distinction between the truth she holds and the failures of individuals within her.",
+      "hint": "The truth of a claim and the behavior of people who claim to believe it are two separate questions.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 827" }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-006",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each historical challenge to a documented Church response.",
+      "pairs": [
+        { "left": "Crusades / Inquisition", "right": "JPII's public 'Day of Pardon' asking forgiveness (2000)" },
+        { "left": "Galileo affair", "right": "JPII publicly acknowledged errors by Church officials (1992)" },
+        { "left": "Slavery", "right": "Gregory XVI's In Supremo Apostolatus condemned the slave trade (1839)" },
+        { "left": "Sins of individual members", "right": "Don't by themselves disprove the truth of Church teaching" }
+      ],
+      "explanation": "The Church's response to hard historical questions has generally been honest acknowledgment rather than denial -- while still distinguishing members' sins from the truth of what the Church actually teaches.",
+      "hint": "Three of these are specific documented papal acts; the last is a general principle about members versus doctrine.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 827" },
+        { "type": "magisterial_document", "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-001",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "When engaging a sophisticated philosophical objection to theism, such as the logical problem of evil, the most effective response typically:",
+      "choices": [
+        "Directly addresses the argument's specific premises with careful reasoning, rather than changing the subject or relying on emotional appeals",
+        "Simply repeats one's own position louder",
+        "Avoids the argument entirely and appeals only to authority",
+        "Dismisses the objection as unworthy of serious engagement"
+      ],
+      "correctAnswer": "Directly addresses the argument's specific premises with careful reasoning, rather than changing the subject or relying on emotional appeals",
+      "explanation": "Fides et Ratio commends rigorous philosophical engagement as part of the Church's own intellectual tradition -- serious objections deserve a serious, reasoned answer, not evasion.",
+      "hint": "At an advanced level, the objection deserves the same careful reasoning it was made with.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-002",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: Catholic theology holds that a well-formed conscience can, in principle, discover basic moral truths -- like the wrongness of murder -- even without explicit reference to divine revelation.",
+      "correctAnswer": true,
+      "explanation": "The natural law, according to Catholic teaching, is written on every human heart and knowable by reason -- revelation confirms and elevates it, but doesn't create it from nothing.",
+      "hint": "This is about the natural law, which reason alone can access to some real degree.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1954-1955" }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-003",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "In dialogue with a skeptic who demands 'scientific proof' for God's existence, it helps to note that God's existence is properly a question for ____, which uses different methods and evidence than a laboratory experiment.",
+      "correctAnswer": "philosophy",
+      "explanation": "Demanding a laboratory-style proof for a philosophical or metaphysical question applies the wrong tool to the wrong kind of question -- philosophy has its own rigorous methods, distinct from the empirical sciences.",
+      "hint": "This discipline includes metaphysics and natural theology, distinct from the empirical sciences.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-004",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "St. Thomas Aquinas' method in the Summa Theologiae, still used as a model in advanced apologetics dialogue, involves:",
+      "choices": [
+        "Stating the strongest form of an objection first, before offering a reasoned response to it",
+        "Ignoring objections entirely and only presenting conclusions",
+        "Only ever quoting Scripture, never using philosophical argument",
+        "Refusing to consider any position other than his own"
+      ],
+      "correctAnswer": "Stating the strongest form of an objection first, before offering a reasoned response to it",
+      "explanation": "Aquinas' famous structure -- objections, a counter-authority, his own resolution, and replies to each objection -- models taking opposing views seriously rather than caricaturing them before responding.",
+      "hint": "Aquinas' articles always present the other side's best case before answering it.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-005",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2700,
+      "prompt": "True or False: Advanced apologetics dialogue should aim to 'win' every single exchange, treating any concession or moment of genuine listening as a defeat.",
+      "correctAnswer": false,
+      "explanation": "Even at the most advanced level, 1 Peter 3:15's call for 'gentleness and reverence' still applies -- the goal remains genuine dialogue and witness, not a combative scorecard of wins and losses.",
+      "hint": "The same charter verse from Level 1 still governs the tone here, even in advanced dialogue.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-006",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each advanced dialogue principle to its source.",
+      "pairs": [
+        { "left": "Address the argument's actual premises", "right": "Fides et Ratio's call for rigorous philosophical engagement" },
+        { "left": "Natural law is knowable by reason", "right": "CCC 1954-1955" },
+        { "left": "State the objection in its strongest form first", "right": "Aquinas' method in the Summa Theologiae" },
+        { "left": "Maintain gentleness even in advanced debate", "right": "1 Peter 3:15" }
+      ],
+      "explanation": "These four principles together describe a mature apologetics practice: rigorous, reasoned, aware of what reason alone can reach, and never abandoning charity even under pressure.",
+      "hint": "Each principle traces back to a distinct source -- an encyclical, a Catechism section, a medieval method, and a Scripture verse.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1954-1955" },
         { "type": "scripture", "reference": "1 Peter 3:15" }
       ]
     }
