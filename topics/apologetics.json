@@ -11,6 +11,7 @@
       "choices": ["1 Peter 3:15", "Romans 8:28", "James 2:17", "1 Corinthians 13:1"],
       "correctAnswer": "1 Peter 3:15",
       "explanation": "1 Peter 3:15 is the classic biblical charter for apologetics: believers are called to be ready to explain and defend the reasons for their faith, 'with gentleness and reverence.'",
+      "hint": "This is the go-to verse apologists cite to justify the whole discipline.",
       "citations": [
         { "type": "scripture", "reference": "1 Peter 3:15" }
       ]
@@ -24,6 +25,7 @@
       "prompt": "True or False: According to the Catechism, faith and reason are fundamentally opposed to one another.",
       "correctAnswer": false,
       "explanation": "The Catechism teaches the opposite: proofs for God's existence 'can predispose one to faith and help one to see that faith is not opposed to reason.'",
+      "hint": "The Catechism treats these as partners, not rivals.",
       "citations": [
         { "type": "ccc", "reference": "CCC 35-36" }
       ]
@@ -43,8 +45,471 @@
       ],
       "correctAnswer": "It insists the Old Testament remains an indispensable, inspired part of Scripture, never revoked",
       "explanation": "The Catechism firmly rejects Marcionism, the idea that the New Testament renders the Old void -- the Old Covenant 'has never been revoked' and its books retain permanent value.",
+      "hint": "The Church has always resisted cutting Scripture in half.",
       "citations": [
         { "type": "ccc", "reference": "CCC 121-123" }
+      ]
+    },
+    {
+      "id": "apologetics-l1-004",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "The word 'apologetics' comes from the Greek 'apologia,' the same word Paul uses when he stands before a crowd in Jerusalem. What does it mean?",
+      "choices": [
+        "A reasoned legal defense or explanation",
+        "An expression of regret or sorrow",
+        "A specific type of formal prayer",
+        "A term for a condemned heresy"
+      ],
+      "correctAnswer": "A reasoned legal defense or explanation",
+      "explanation": "'Apologia' means a defense, as in a courtroom -- not an apology in the modern English sense of saying sorry. Apologetics is the reasoned defense of the faith, not an expression of regret for holding it.",
+      "hint": "Think 'legal defense,' not 'I'm sorry.'",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 22:1" }
+      ]
+    },
+    {
+      "id": "apologetics-l1-005",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1150,
+      "prompt": "True or False: Good apologetics means winning arguments by any means necessary, even if it requires being harsh or contemptuous toward the person you're speaking with.",
+      "correctAnswer": false,
+      "explanation": "1 Peter 3:15, apologetics' own charter verse, specifies defending the faith 'with gentleness and reverence' -- the manner matters as much as the content.",
+      "hint": "The same verse that calls for a defense also specifies the tone it must be given in.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "apologetics-l1-006",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Which of these best describes the proper goal of Catholic apologetics?",
+      "choices": [
+        "To remove obstacles to faith and invite a person toward the truth, not merely to defeat an opponent",
+        "To win as many debates as possible",
+        "To prove that every other religion is entirely worthless",
+        "To make faith depend entirely on winning arguments"
+      ],
+      "correctAnswer": "To remove obstacles to faith and invite a person toward the truth, not merely to defeat an opponent",
+      "explanation": "Apologetics serves evangelization -- it clears away obstacles and offers reasons, but the goal is always a person's genuine encounter with the truth, not a scoreboard of debate wins.",
+      "hint": "The goal is an invitation, not a scoreboard.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "apologetics-l2-001",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "When critics claim the Trinity means Christians worship three gods, the accurate response is that the Trinity is:",
+      "choices": [
+        "One God in three distinct Persons, each sharing the identical divine nature -- not three separate gods",
+        "Actually three separate gods who cooperate closely",
+        "A single Person who changes roles over time",
+        "A later invention with no basis in earlier Christian belief"
+      ],
+      "correctAnswer": "One God in three distinct Persons, each sharing the identical divine nature -- not three separate gods",
+      "explanation": "The divine Persons do not divide the one divine nature among themselves -- each is fully God, and yet there is only one God, not three. This distinguishes orthodox Trinitarian belief from both tritheism and modalism.",
+      "hint": "The key word is 'Persons,' not 'gods' -- and there's only one nature shared, not three.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 253" }
+      ]
+    },
+    {
+      "id": "apologetics-l2-002",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: The Nicene Creed's claim that Christ was 'begotten, not made' means Christians believe the Son was created by the Father at some point in time.",
+      "correctAnswer": false,
+      "explanation": "'Begotten, not made' means the Son eternally shares the Father's own divine nature -- he was never created, and there was never a time he did not exist.",
+      "hint": "The Creed is drawing a contrast between 'begotten' and 'made' on purpose.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 242" }
+      ]
+    },
+    {
+      "id": "apologetics-l2-003",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1750,
+      "prompt": "Defending the Resurrection, apologists point to the empty tomb, the post-Resurrection appearances, and the transformation of the apostles from frightened men in hiding to bold witnesses willing to ____ for their testimony.",
+      "correctAnswer": "die",
+      "explanation": "Paul's early creedal summary in 1 Corinthians 15 lists numerous eyewitnesses to the risen Christ -- witnesses whose later willingness to suffer and die for that testimony is a striking historical detail apologists frequently cite.",
+      "hint": "This is the ultimate cost the apostles were willing to pay for what they claimed to have seen.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Corinthians 15:3-8" }
+      ]
+    },
+    {
+      "id": "apologetics-l2-004",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "One historical argument often made for the Resurrection is that the apostles:",
+      "choices": [
+        "Were willing to suffer and die for what they claimed to have witnessed firsthand, not merely believed secondhand",
+        "Never actually claimed to have seen the risen Christ",
+        "Wrote about the Resurrection only centuries after the events",
+        "All quietly recanted their testimony before dying"
+      ],
+      "correctAnswer": "Were willing to suffer and die for what they claimed to have witnessed firsthand, not merely believed secondhand",
+      "explanation": "People sometimes die for things they sincerely but mistakenly believe -- but the apostles claimed direct, firsthand experience of the risen Christ, which is a different and harder claim to explain away.",
+      "hint": "The key detail is that they claimed to have seen it themselves, not just heard about it.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Corinthians 15:3-8" }
+      ]
+    },
+    {
+      "id": "apologetics-l2-005",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The virgin birth of Christ was a legend added centuries later, absent from the earliest written Gospel material.",
+      "correctAnswer": false,
+      "explanation": "The virginal conception appears already in Matthew and Luke, among the earliest written Gospel accounts -- it isn't a late addition, even though it does appear later than Mark and Paul's earlier letters, which don't address the topic directly.",
+      "hint": "Two of the four Gospels record this directly, and neither is a late document.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:34-35" }
+      ]
+    },
+    {
+      "id": "apologetics-l2-006",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each common attack on the Creed to the Church's response.",
+      "pairs": [
+        { "left": "'The Trinity is illogical -- 3 gods in 1'", "right": "One God in three Persons, sharing one nature, not three gods" },
+        { "left": "'The Resurrection is just a later legend'", "right": "Paul's creedal list in 1 Corinthians 15 is very early testimony" },
+        { "left": "'The virgin birth was invented later'", "right": "Already present in Matthew and Luke's earliest Gospel material" },
+        { "left": "'\"Begotten, not made\" means created'", "right": "It means eternally sharing the Father's nature, never created" }
+      ],
+      "explanation": "Each objection trades on a misunderstanding of what the Creed actually claims -- careful attention to the words themselves usually dissolves the apparent contradiction.",
+      "hint": "Each Church response corrects a specific misreading of the Creed's actual words.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 253" },
+        { "type": "scripture", "reference": "1 Corinthians 15:3-8" }
+      ]
+    },
+    {
+      "id": "apologetics-l3-001",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "Catholic apologetics responds to 'sola scriptura' (Scripture alone) by pointing out that:",
+      "choices": [
+        "The New Testament itself never claims to be the sole rule of faith, and its own canon was discerned through Church Tradition",
+        "The Bible explicitly commands 'Scripture alone' in several clear passages",
+        "Tradition is a modern Catholic invention with no ancient roots",
+        "The earliest Christians had no oral teaching at all, only written texts"
+      ],
+      "correctAnswer": "The New Testament itself never claims to be the sole rule of faith, and its own canon was discerned through Church Tradition",
+      "explanation": "Nowhere does the New Testament claim Scripture alone suffices -- and the very list of books making up the New Testament was itself settled through the Church's living Tradition, not by Scripture self-certifying its own contents.",
+      "hint": "Ask: who decided which books belong in the Bible in the first place?",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 82" }
+      ]
+    },
+    {
+      "id": "apologetics-l3-002",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: 2 Thessalonians 2:15 instructs believers to hold fast to traditions taught 'either by an oral statement or by a letter' from the apostles.",
+      "correctAnswer": true,
+      "explanation": "This verse is a favorite apologetics proof-text: Paul explicitly places oral and written apostolic teaching on equal footing, undercutting the claim that only written Scripture carries authority.",
+      "hint": "Paul names two channels of teaching here, not just one.",
+      "citations": [
+        { "type": "scripture", "reference": "2 Thessalonians 2:15" }
+      ]
+    },
+    {
+      "id": "apologetics-l3-003",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "The Catechism teaches that Sacred Scripture and Sacred Tradition 'flow from the same divine wellspring' and together make up ____ sacred deposit of the Word of God.",
+      "correctAnswer": "one",
+      "explanation": "Scripture and Tradition are not two separate, competing sources -- together they form a single deposit of God's revealed word, entrusted to the Church.",
+      "hint": "It's a number -- the two together form only this many deposit.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 97" }
+      ]
+    },
+    {
+      "id": "apologetics-l3-004",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The Bible's table of contents (its canon) was formally settled by:",
+      "choices": [
+        "Church councils discerning, through apostolic Tradition, which books were truly inspired",
+        "A single apostle writing down a complete list before his death",
+        "A vote among ordinary lay believers across the empire",
+        "The Roman emperor Constantine at the Council of Nicaea"
+      ],
+      "correctAnswer": "Church councils discerning, through apostolic Tradition, which books were truly inspired",
+      "explanation": "The canon wasn't simply self-evident -- the Church, exercising the authority Christ gave her, discerned which books were genuinely apostolic and inspired, a process later reaffirmed dogmatically at Trent.",
+      "hint": "Someone had to decide -- and it wasn't a Roman emperor or a popularity contest.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" },
+        { "type": "ccc", "reference": "CCC 120" }
+      ]
+    },
+    {
+      "id": "apologetics-l3-005",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: The Catholic Old Testament canon includes seven books, such as Tobit, Wisdom, and Sirach, that most Protestant Bibles exclude.",
+      "correctAnswer": true,
+      "explanation": "These books, often called the deuterocanon, were part of the Greek Septuagint used by the early Church and were formally reaffirmed as canonical Scripture at the Council of Trent.",
+      "hint": "This is one of the clearest differences between a Catholic and a typical Protestant Bible's table of contents.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "apologetics-l3-006",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each term to its meaning in the Scripture-and-Tradition relationship.",
+      "pairs": [
+        { "left": "Sacred Scripture", "right": "The inspired, written Word of God" },
+        { "left": "Sacred Tradition", "right": "God's Word handed down by the apostles, orally and in practice" },
+        { "left": "Magisterium", "right": "The Church's living teaching office that authentically interprets both" },
+        { "left": "Canon", "right": "The authoritative list of the Bible's inspired books" }
+      ],
+      "explanation": "None of these four stands alone -- Scripture and Tradition together form one deposit of revelation, and the Magisterium serves that deposit rather than standing above it.",
+      "hint": "One term names the written word, one the handed-down word, one the interpreting office, and one the official book list.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 85" }
+      ]
+    },
+    {
+      "id": "apologetics-l4-001",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "To the objection 'the Church just added books to the Bible over the centuries,' the historically accurate response is:",
+      "choices": [
+        "Early councils recognized, rather than invented, books already regarded as apostolic and inspired",
+        "The full New Testament canon wasn't settled until the 20th century",
+        "Books were added by a vote of ordinary parishioners",
+        "No council ever formally addressed the canon at all"
+      ],
+      "correctAnswer": "Early councils recognized, rather than invented, books already regarded as apostolic and inspired",
+      "explanation": "Local councils such as Carthage, in the late 4th century, listed the New Testament books already in widespread liturgical and doctrinal use -- they ratified an existing consensus rather than inventing a new list from nothing.",
+      "hint": "The word 'recognized' matters more here than 'invented.'",
+      "citations": [
+        { "type": "council", "reference": "Council of Carthage (397)" }
+      ]
+    },
+    {
+      "id": "apologetics-l4-002",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The claim that 'Constantine invented the divinity of Christ at the Council of Nicaea in 325' is historically accurate.",
+      "correctAnswer": false,
+      "explanation": "Belief in Christ's divinity is attested throughout the New Testament and pre-Nicene Christian writings, centuries before Constantine. Nicaea clarified and defended existing belief against Arius's denial of it -- it did not invent it.",
+      "hint": "The opening of John's Gospel, written centuries before Nicaea, already calls Christ God.",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:1" }
+      ]
+    },
+    {
+      "id": "apologetics-l4-003",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2360,
+      "prompt": "To the objection that 'religion and science are always at war,' apologists note that the Catholic priest and scientist Fr. Georges Lemaître first proposed what is now called the '____ Bang' theory of the universe's origin.",
+      "correctAnswer": "Big",
+      "explanation": "The Church teaches that genuine scientific research, properly conducted, can never truly conflict with faith -- a claim vividly illustrated by a Catholic priest originating one of modern cosmology's foundational theories.",
+      "hint": "It's the standard name for the leading scientific theory of the universe's origin.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 159" }
+      ]
+    },
+    {
+      "id": "apologetics-l4-004",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "The 'problem of evil' objects that an all-good, all-powerful God is incompatible with the evil that exists in the world. Catholic theology responds, in part, by pointing to:",
+      "choices": [
+        "The gift of human free will and the ultimate victory over evil won in Christ's Cross and Resurrection",
+        "A denial that evil really exists at all",
+        "The claim that God is not actually all-powerful",
+        "The claim that God is not actually all-good"
+      ],
+      "correctAnswer": "The gift of human free will and the ultimate victory over evil won in Christ's Cross and Resurrection",
+      "explanation": "Rather than denying God's goodness or power, or denying evil's reality, the Church points to freedom's necessary risk and to God's own definitive answer to evil and suffering in the Cross.",
+      "hint": "The answer doesn't deny God's power or goodness, or deny evil is real.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 309" }
+      ]
+    },
+    {
+      "id": "apologetics-l4-005",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: The Catholic Church has always strictly forbidden Catholics from believing in any form of biological evolution.",
+      "correctAnswer": false,
+      "explanation": "Pope Pius XII's Humani Generis permitted Catholics to consider the theory of evolution regarding the human body, while insisting the human soul is directly created by God -- a middle position, not a blanket prohibition.",
+      "hint": "The Church's actual position distinguishes the body from the soul.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Humani Generis, Pope Pius XII (1950)" }
+      ]
+    },
+    {
+      "id": "apologetics-l4-006",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each objection to an accurate Catholic response.",
+      "pairs": [
+        { "left": "'Nicaea invented Christ's divinity'", "right": "Already attested throughout the New Testament, long before Nicaea" },
+        { "left": "'The Church added books to the Bible'", "right": "Councils recognized, rather than invented, an already-apostolic canon" },
+        { "left": "'Faith and science are always at war'", "right": "The Church teaches genuine truths of both can never ultimately conflict" },
+        { "left": "'Evolution is strictly forbidden'", "right": "Permitted for the body, while the soul is held to be directly created" }
+      ],
+      "explanation": "Each of these popular objections rests on a historical or theological misunderstanding that a closer look at the actual sources corrects.",
+      "hint": "Each response corrects a specific factual or historical error in the objection.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 159" },
+        { "type": "magisterial_document", "reference": "Humani Generis, Pope Pius XII (1950)" }
+      ]
+    },
+    {
+      "id": "apologetics-l5-001",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "Vatican II's decree on ecumenism, Unitatis Redintegratio, teaches that dialogue with other Christians should be marked by:",
+      "choices": [
+        "Truthful charity -- respecting separated brethren while still holding to the fullness of truth found in the Catholic Church",
+        "Abandoning any claim to possessing the fullness of the truth",
+        "Avoiding all contact with other Christian communities",
+        "Treating all Christian denominations as equally authoritative on doctrine"
+      ],
+      "correctAnswer": "Truthful charity -- respecting separated brethren while still holding to the fullness of truth found in the Catholic Church",
+      "explanation": "Ecumenical dialogue, as Vatican II envisions it, holds truth and charity together -- genuine respect and engagement with other Christians without dissolving the Church's own convictions about the fullness of revealed truth.",
+      "hint": "This kind of dialogue holds both charity and truth together, not one at the expense of the other.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council, Unitatis Redintegratio (1964)" }
+      ]
+    },
+    {
+      "id": "apologetics-l5-002",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: Catholic teaching holds that people who, through no fault of their own, do not know the Gospel or the Church, can still be saved if they sincerely seek God and follow their conscience.",
+      "correctAnswer": true,
+      "explanation": "The Catechism teaches that those who, through no fault of their own, do not know Christ or his Church, but sincerely seek God and try to do his will as known through conscience, can attain salvation.",
+      "hint": "The key phrase is 'through no fault of their own.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 847" }
+      ]
+    },
+    {
+      "id": "apologetics-l5-003",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "St. Peter's charter for apologetics calls for defending the faith 'with ____ and reverence,' ruling out a harsh or contemptuous tone.",
+      "correctAnswer": "gentleness",
+      "explanation": "The manner of a defense matters as much as its content -- 1 Peter 3:15 pairs the call to give reasons with an explicit instruction about tone and posture.",
+      "hint": "This word describes the opposite of a harsh or aggressive tone.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Peter 3:15" }
+      ]
+    },
+    {
+      "id": "apologetics-l5-004",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "'Interreligious dialogue,' as distinct from ecumenism, refers to engagement with:",
+      "choices": [
+        "Members of non-Christian religions, such as Judaism and Islam",
+        "Other Catholic dioceses within the same country",
+        "Fellow Catholics who hold differing political views",
+        "Only self-identified atheists"
+      ],
+      "correctAnswer": "Members of non-Christian religions, such as Judaism and Islam",
+      "explanation": "Ecumenism concerns unity efforts among Christians; interreligious dialogue, addressed by Vatican II's Nostra Aetate, concerns respectful engagement with non-Christian religious traditions.",
+      "hint": "This term is about relations beyond Christianity altogether, not within it.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council, Nostra Aetate (1965)" }
+      ]
+    },
+    {
+      "id": "apologetics-l5-005",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2700,
+      "prompt": "True or False: Nostra Aetate teaches that the Church rejects nothing true and holy found in other religions, while still proclaiming Christ as 'the way, the truth, and the life.'",
+      "correctAnswer": true,
+      "explanation": "Vatican II's declaration holds these together deliberately -- genuine openness to whatever is true and good elsewhere, without ever setting aside the Church's proclamation of Christ's unique role in salvation.",
+      "hint": "The document manages to affirm both openness and Christ's uniqueness at once.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council, Nostra Aetate (1965)" }
+      ]
+    },
+    {
+      "id": "apologetics-l5-006",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each term to its focus.",
+      "pairs": [
+        { "left": "Apologetics", "right": "Reasoned defense and explanation of the Catholic faith" },
+        { "left": "Ecumenism", "right": "Dialogue and unity efforts among Christians" },
+        { "left": "Interreligious dialogue", "right": "Engagement with non-Christian religions" },
+        { "left": "Evangelization", "right": "Proclaiming Christ and inviting others into the faith" }
+      ],
+      "explanation": "These four activities overlap and reinforce one another, but each has a distinct scope -- knowing which is which helps a person engage each conversation appropriately.",
+      "hint": "One is about defending, one about Christian unity, one about other religions, one about proclaiming Christ directly.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council, Unitatis Redintegratio (1964)" },
+        { "type": "council", "reference": "Second Vatican Council, Nostra Aetate (1965)" }
       ]
     }
   ]
