@@ -16,6 +16,7 @@
       ],
       "correctAnswer": "The raising of one's mind and heart to God, or the requesting of good things from God",
       "explanation": "CCC 2559 gives this classic definition, drawn from St. John Damascene, capturing both dimensions of prayer: lifting our whole selves toward God, and asking him for what is good.",
+      "hint": "This classic definition has two halves: lifting the heart up, and asking for something.",
       "citations": [
         { "type": "ccc", "reference": "CCC 2559" }
       ]
@@ -29,6 +30,7 @@
       "prompt": "Complete the opening line of the Lord's Prayer as Jesus taught it: 'Our Father, who art in heaven, hallowed be thy _____.'",
       "correctAnswer": "name",
       "explanation": "Jesus gave his disciples this prayer, found in Matthew 6:9-13, as the model for all Christian prayer -- often called the 'Our Father' or, in Latin, the 'Pater Noster.'",
+      "hint": "It's what the first petition asks to be made holy.",
       "citations": [
         { "type": "scripture", "reference": "Matthew 6:9-13" }
       ]
@@ -43,8 +45,449 @@
       "choices": ["Ourselves", "The angels", "The Church hierarchy alone", "Sacred art"],
       "correctAnswer": "Ourselves",
       "explanation": "CCC 2564 describes Christian prayer as 'a covenant relationship between God and man in Christ... springing forth from both the Holy Spirit and ourselves, wholly directed to the Father.'",
+      "hint": "Prayer isn't just God acting on us, or just us acting alone -- it's both together.",
       "citations": [
         { "type": "ccc", "reference": "CCC 2564" }
+      ]
+    },
+    {
+      "id": "prayer-l1-004",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1050,
+      "prompt": "The Catechism identifies three traditional 'expressions of prayer.' Which of these is one of them?",
+      "choices": [
+        "Vocal prayer, meditation, and contemplative prayer",
+        "Singing, dancing, and fasting",
+        "Reading, writing, and public speaking",
+        "Standing, kneeling, and bowing"
+      ],
+      "correctAnswer": "Vocal prayer, meditation, and contemplative prayer",
+      "explanation": "These three expressions share one deep foundation -- recollection of the heart -- but differ in how they engage the mind, imagination, and will in prayer.",
+      "hint": "These three range from spoken words, to reflective thought, to wordless gazing on God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2699" }
+      ]
+    },
+    {
+      "id": "prayer-l1-005",
+      "topic": "prayer",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1150,
+      "prompt": "True or False: According to the Catechism, prayer is meant to be a constant, ongoing orientation of life, not just an occasional activity squeezed into busy days.",
+      "correctAnswer": true,
+      "explanation": "The Catechism calls prayer 'a vital necessity' and encourages faithfulness to set times of prayer while insisting that a spirit of prayer can remain always possible, woven through the whole of daily life.",
+      "hint": "The Church wants prayer woven through daily life, not treated as an occasional extra.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2697" }
+      ]
+    },
+    {
+      "id": "prayer-l1-006",
+      "topic": "prayer",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1300,
+      "prompt": "The Catechism lists five 'forms' of prayer: blessing and adoration, petition, intercession, thanksgiving, and ____.",
+      "correctAnswer": "praise",
+      "explanation": "Each of these five forms expresses a different movement of the heart toward God -- from asking for what we need, to praying for others, to simply praising God for who he is.",
+      "hint": "This form of prayer glorifies God for who he is, apart from anything asked for.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2626-2643" }
+      ]
+    },
+    {
+      "id": "prayer-l2-001",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "The Catechism, quoting Tertullian, calls the Our Father the 'summary of the whole:",
+      "choices": ["Gospel", "Old Testament", "Ten Commandments", "Creed"],
+      "correctAnswer": "Gospel",
+      "explanation": "Tertullian's famous line, quoted in the Catechism, captures how the Our Father condenses the whole of Christ's teaching into a single, short prayer given by Jesus himself.",
+      "hint": "This is the same word used for the four New Testament accounts of Christ's life.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2761" }
+      ]
+    },
+    {
+      "id": "prayer-l2-002",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The Our Father contains seven petitions.",
+      "correctAnswer": true,
+      "explanation": "Three petitions are oriented toward God's glory ('hallowed be thy name,' 'thy kingdom come,' 'thy will be done'), and four toward our own needs -- seven in total.",
+      "hint": "Count them: three about God's glory, then four more about our own needs.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2803" }
+      ]
+    },
+    {
+      "id": "prayer-l2-003",
+      "topic": "prayer",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1750,
+      "prompt": "The Our Father's seven petitions divide into two groups: three oriented toward God's own glory, and four oriented toward our own ____.",
+      "correctAnswer": "needs",
+      "explanation": "This structure moves the pray-er from focusing first on God -- his name, his kingdom, his will -- before turning to ask for bread, forgiveness, and protection from trial and evil.",
+      "hint": "The second group of petitions is about what we require to live and be saved.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2803" }
+      ]
+    },
+    {
+      "id": "prayer-l2-004",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "'Give us this day our daily bread' is understood by the Catechism to include, in a special way, a request for:",
+      "choices": [
+        "The Eucharistic Bread of Life, in addition to ordinary material sustenance",
+        "Only literal, physical bread and nothing more",
+        "Financial wealth in general",
+        "A miracle of multiplication like the loaves and fishes"
+      ],
+      "correctAnswer": "The Eucharistic Bread of Life, in addition to ordinary material sustenance",
+      "explanation": "This petition asks for both the material bread we need to live and, in its fullest sense, the Eucharist itself -- the Bread of Life that sustains the soul.",
+      "hint": "This petition has both a very ordinary meaning and a much deeper, sacramental one.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2837" }
+      ]
+    },
+    {
+      "id": "prayer-l2-005",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: 'Forgive us our trespasses as we forgive those who trespass against us' ties our own forgiveness of others to receiving God's forgiveness.",
+      "correctAnswer": true,
+      "explanation": "Jesus immediately follows the Our Father with a direct warning: 'if you do not forgive others, neither will your Father forgive your transgressions' -- the two are bound together.",
+      "hint": "Jesus comments directly on this petition right after teaching the prayer.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 6:14-15" }
+      ]
+    },
+    {
+      "id": "prayer-l2-006",
+      "topic": "prayer",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each petition of the Our Father to its focus.",
+      "pairs": [
+        { "left": "Hallowed be thy name", "right": "God's own glory and holiness" },
+        { "left": "Thy kingdom come", "right": "The coming of God's reign" },
+        { "left": "Give us this day our daily bread", "right": "Material sustenance and the Eucharist" },
+        { "left": "Lead us not into temptation", "right": "Asking for strength to resist trial and evil" }
+      ],
+      "explanation": "Each petition, brief as it is, opens onto a vast area of Christian life and doctrine -- which is exactly why the Catechism spends so much space unpacking this one short prayer.",
+      "hint": "Two of these petitions look toward God's glory; two look toward our own daily needs.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2803" },
+        { "type": "ccc", "reference": "CCC 2837" }
+      ]
+    },
+    {
+      "id": "prayer-l3-001",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "The Rosary involves meditating on sets of 'Mysteries' while praying its decades. How many total sets of Mysteries does the modern Rosary include, counting the Luminous Mysteries added by John Paul II?",
+      "choices": ["Four (Joyful, Luminous, Sorrowful, Glorious)", "Two", "Three", "Six"],
+      "correctAnswer": "Four (Joyful, Luminous, Sorrowful, Glorious)",
+      "explanation": "John Paul II's 2002 apostolic letter Rosarium Virginis Mariae added the Luminous Mysteries (focused on Christ's public ministry) alongside the traditional Joyful, Sorrowful, and Glorious Mysteries.",
+      "hint": "One set was added relatively recently, in 2002, to the three traditional sets.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)" }
+      ]
+    },
+    {
+      "id": "prayer-l3-002",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Each decade of the Rosary consists of one Our Father, ten Hail Marys, and one Glory Be.",
+      "correctAnswer": true,
+      "explanation": "This simple, repeated structure -- one decade at a time -- provides a steady rhythm that supports meditation on each Mystery, rather than being the point of the prayer in itself.",
+      "hint": "Count the prayers in a single decade: one, then ten, then one.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)" }
+      ]
+    },
+    {
+      "id": "prayer-l3-003",
+      "topic": "prayer",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "The Rosary is, at its heart, a meditation on the ____ of Christ's life, using repeated Hail Marys as a contemplative rhythm rather than an end in themselves.",
+      "correctAnswer": "mysteries",
+      "explanation": "The repeated Hail Marys aren't the point of the Rosary -- they form a rhythm that frees the mind to meditate on the Gospel events they accompany.",
+      "hint": "It's the same word used for each set: Joyful, Luminous, Sorrowful, Glorious.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)" }
+      ]
+    },
+    {
+      "id": "prayer-l3-004",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The Angelus, traditionally prayed three times a day, commemorates:",
+      "choices": [
+        "The Annunciation -- the Angel Gabriel announcing Christ's conception to Mary",
+        "The Nativity of Christ at Bethlehem",
+        "The Resurrection on Easter morning",
+        "Pentecost and the descent of the Holy Spirit"
+      ],
+      "correctAnswer": "The Annunciation -- the Angel Gabriel announcing Christ's conception to Mary",
+      "explanation": "The Angelus takes its name from its opening Latin word, 'Angelus' ('angel'), recalling Gabriel's announcement and Mary's fiat -- her 'yes' -- to becoming the Mother of God.",
+      "hint": "The prayer's very name comes from the messenger who appeared to Mary.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:26-38" }
+      ]
+    },
+    {
+      "id": "prayer-l3-005",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: Devotions like the Rosary, novenas, and the Angelus hold equal liturgical rank with the Mass itself.",
+      "correctAnswer": false,
+      "explanation": "Popular devotions are genuinely valuable and encouraged, but the Church distinguishes them from the liturgy proper (the Mass and the Liturgy of the Hours), which holds a unique, official, communal character devotions don't share.",
+      "hint": "One category is the Church's own official public worship; the other is valuable but distinct from it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1674-1675" }
+      ]
+    },
+    {
+      "id": "prayer-l3-006",
+      "topic": "prayer",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each devotion to its focus.",
+      "pairs": [
+        { "left": "Rosary", "right": "Meditating on Christ's life through repeated Hail Marys" },
+        { "left": "Angelus", "right": "Commemorates the Annunciation, prayed three times daily" },
+        { "left": "Novena", "right": "Nine days of prayer for a particular intention" },
+        { "left": "Stations of the Cross", "right": "Meditating on Christ's Passion through fourteen scenes" }
+      ],
+      "explanation": "These popular devotions have developed over centuries to help ordinary Catholics enter more deeply into the mysteries of Christ's life outside of the liturgy itself.",
+      "hint": "One meditates on Christ's whole life, one on a single moment, one on a set number of days, one on the Passion specifically.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)" },
+        { "type": "ccc", "reference": "CCC 1674-1675" }
+      ]
+    },
+    {
+      "id": "prayer-l4-001",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "The Liturgy of the Hours (also called the Divine Office) is structured around:",
+      "choices": [
+        "Set times throughout the day, sanctifying the whole day with prayer, primarily using the Psalms",
+        "A single prayer said only once a year",
+        "Private devotions with no fixed structure at all",
+        "Silent meditation with no spoken words whatsoever"
+      ],
+      "correctAnswer": "Set times throughout the day, sanctifying the whole day with prayer, primarily using the Psalms",
+      "explanation": "The Liturgy of the Hours extends the Church's prayer across the whole day -- morning, evening, and other set hours -- consecrating time itself through the praying of the Psalms.",
+      "hint": "This form of prayer is spread across the day, not concentrated in a single moment.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1174" }
+      ]
+    },
+    {
+      "id": "prayer-l4-002",
+      "topic": "prayer",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The Liturgy of the Hours is the private prayer of clergy alone, with no real connection to the wider Church's public worship.",
+      "correctAnswer": false,
+      "explanation": "The Liturgy of the Hours is described as the public, official prayer of the whole Church, offered in her name -- not a merely private devotion belonging only to clergy.",
+      "hint": "This is described as the Church's own public prayer, not a private clerical exercise.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1175" }
+      ]
+    },
+    {
+      "id": "prayer-l4-003",
+      "topic": "prayer",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2360,
+      "prompt": "The two 'hinge hours' of the Liturgy of the Hours, considered the most important of the day, are Morning Prayer (Lauds) and Evening Prayer (____).",
+      "correctAnswer": "Vespers",
+      "explanation": "These two hours anchor the whole day in prayer, consecrating its beginning and its close -- the other hours (like Midday Prayer or Night Prayer) are considered supplementary to these two.",
+      "hint": "This is the traditional name for Evening Prayer.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1174" }
+      ]
+    },
+    {
+      "id": "prayer-l4-004",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "The Liturgy of the Hours draws most heavily on which book of Scripture for its content?",
+      "choices": ["The Psalms", "Revelation", "Genesis", "The Song of Songs"],
+      "correctAnswer": "The Psalms",
+      "explanation": "The 150 Psalms, Israel's own ancient prayer book, form the backbone of the Liturgy of the Hours, prayed in a repeating cycle alongside other Scripture readings, canticles, and prayers.",
+      "hint": "This Old Testament book is essentially a prayer book in its own right.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1176" }
+      ]
+    },
+    {
+      "id": "prayer-l4-005",
+      "topic": "prayer",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: Lay Catholics, not just priests and religious, are encouraged by the Church to pray the Liturgy of the Hours.",
+      "correctAnswer": true,
+      "explanation": "While priests and religious are typically bound to pray it daily, the Church actively encourages all the faithful to join in this prayer, since it belongs to the whole Church, not to clergy alone.",
+      "hint": "This prayer is described as belonging to the whole Church, not to one group within it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1175" }
+      ]
+    },
+    {
+      "id": "prayer-l4-006",
+      "topic": "prayer",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each term related to the Liturgy of the Hours to its meaning.",
+      "pairs": [
+        { "left": "Lauds", "right": "Morning Prayer" },
+        { "left": "Vespers", "right": "Evening Prayer" },
+        { "left": "Compline", "right": "Night Prayer, before sleep" },
+        { "left": "Divine Office", "right": "Another name for the Liturgy of the Hours" }
+      ],
+      "explanation": "Together these hours mark out the rhythm of a day consecrated to God, from its first light to its final rest.",
+      "hint": "Three of these are specific named hours of the day; one is simply another name for the whole practice.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1174" }
+      ]
+    },
+    {
+      "id": "prayer-l5-001",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "The Catechism describes contemplative prayer as, above all:",
+      "choices": [
+        "A gift of grace, a gaze of faith fixed on Jesus -- not a technique to be mastered through practice",
+        "A skill anyone can master with enough practice",
+        "A form of prayer reserved only for cloistered religious",
+        "Simply another word for meditation"
+      ],
+      "correctAnswer": "A gift of grace, a gaze of faith fixed on Jesus -- not a technique to be mastered through practice",
+      "explanation": "The Catechism is explicit: contemplative prayer 'is a gift, a grace' -- it can be received and disposed toward, but never simply produced through effort or technique the way a skill can be.",
+      "hint": "This form of prayer is something received, not something achieved through practice like a skill.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2713" }
+      ]
+    },
+    {
+      "id": "prayer-l5-002",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: The Catechism teaches that contemplative prayer is reserved only for a spiritual elite, such as monks and mystics, and isn't meant for ordinary lay Catholics.",
+      "correctAnswer": false,
+      "explanation": "The Catechism presents contemplative prayer as a gift offered to all the baptized -- how and when God chooses to give it remains entirely his own, but it isn't fenced off from ordinary lay believers in principle.",
+      "hint": "This gift isn't taught as limited by vocation -- only by when and how God chooses to give it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2709" }
+      ]
+    },
+    {
+      "id": "prayer-l5-003",
+      "topic": "prayer",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "St. Teresa of Avila described contemplative prayer as 'nothing else than a close sharing between friends; it means taking time frequently to be alone with him who we know ____ us.'",
+      "correctAnswer": "loves",
+      "explanation": "This famous definition, quoted directly in the Catechism, describes contemplative prayer not as a technique or a mental exercise, but simply as time spent with a God already known to love us.",
+      "hint": "This is what a friend already believes to be true about the one they're spending time with.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2709" }
+      ]
+    },
+    {
+      "id": "prayer-l5-004",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "Because contemplative prayer is a pure gift rather than a technique, the most a person can do to prepare for it is:",
+      "choices": [
+        "Cultivate humility, silence, and attentive availability to God, without presuming to produce the gift themselves",
+        "Follow a precise step-by-step method guaranteed to produce it",
+        "Simply wait passively and do nothing at all",
+        "Achieve it through sheer willpower and effort"
+      ],
+      "correctAnswer": "Cultivate humility, silence, and attentive availability to God, without presuming to produce the gift themselves",
+      "explanation": "A person can dispose themselves -- through silence, humility, and attentiveness -- without this disposition itself guaranteeing or producing the gift, which remains God's alone to give.",
+      "hint": "The posture here is receptive availability, not a guaranteed technique.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2713" }
+      ]
+    },
+    {
+      "id": "prayer-l5-005",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2700,
+      "prompt": "True or False: The 'dark night' described by mystics like St. John of the Cross refers to a period of special consolation and comfort in prayer.",
+      "correctAnswer": false,
+      "explanation": "The 'dark night' refers instead to a period of spiritual dryness or apparent absence of God's felt presence -- understood by the mystical tradition as purifying rather than comforting, even though it can be genuinely difficult to endure.",
+      "hint": "This experience is closer to feeling God's apparent absence than to feeling his comforting presence.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2719" }
+      ]
+    },
+    {
+      "id": "prayer-l5-006",
+      "topic": "prayer",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each term related to contemplative prayer to its meaning.",
+      "pairs": [
+        { "left": "Contemplative prayer", "right": "A gift of grace, not a technique to master" },
+        { "left": "St. Teresa of Avila's definition", "right": "A close sharing between friends who know they are loved" },
+        { "left": "Availability", "right": "A disposition one can cultivate, without producing the gift itself" },
+        { "left": "The dark night", "right": "A period of spiritual dryness described by St. John of the Cross" }
+      ],
+      "explanation": "Every one of these terms resists turning contemplative prayer into a skill to be mastered -- even the disposition a person can cultivate stops short of producing the gift itself, which remains God's alone to give.",
+      "hint": "Notice how each term, in its own way, points away from technique and toward gift and relationship.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2709" },
+        { "type": "ccc", "reference": "CCC 2713" }
       ]
     }
   ]
