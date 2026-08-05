@@ -11,6 +11,7 @@
       "choices": ["Summit", "Beginning", "Center", "Foundation"],
       "correctAnswer": "Summit",
       "explanation": "CCC 1324 quotes Lumen Gentium: the Eucharist is 'the source and summit of the Christian life' -- the wellspring from which grace flows and the high point toward which the Christian life is oriented.",
+      "hint": "It's the same word you'd use for the top of a mountain.",
       "citations": [
         { "type": "ccc", "reference": "CCC 1324" },
         { "type": "magisterial_document", "reference": "Vatican II, Lumen Gentium 11" }
@@ -31,6 +32,7 @@
       ],
       "correctAnswer": "One single sacrifice, offered in a different manner",
       "explanation": "CCC 1367, echoing the Council of Trent, teaches 'the victim is one and the same' -- Christ, offered in a bloody manner on the cross and in an unbloody manner in the Mass.",
+      "hint": "The Mass doesn't repeat Calvary -- it makes that one sacrifice present again.",
       "citations": [
         { "type": "ccc", "reference": "CCC 1367" },
         { "type": "council", "reference": "Council of Trent" }
@@ -45,8 +47,440 @@
       "prompt": "True or False: The Second Vatican Council taught that Latin should be entirely abolished from the Mass in the Latin Church.",
       "correctAnswer": false,
       "explanation": "Vatican II's Sacrosanctum Concilium actually states that 'the use of the Latin language is to be preserved in the Latin rites,' even while permitting wider use of the vernacular where helpful.",
+      "hint": "The council preserved Latin even while opening the door to more vernacular use.",
       "citations": [
         { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 36" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-004",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The Mass is divided into two main parts. What are they?",
+      "choices": [
+        "The Liturgy of the Word and the Liturgy of the Eucharist",
+        "The Opening Rite and the Closing Rite",
+        "The Homily and the Sermon",
+        "The Sunday Mass and the Weekday Mass"
+      ],
+      "correctAnswer": "The Liturgy of the Word and the Liturgy of the Eucharist",
+      "explanation": "The Mass forms 'one single act of worship' out of two parts: first Scripture is proclaimed and explained, then the Eucharist itself is celebrated, consecrated, and received.",
+      "hint": "One part centers on Scripture, the other on the Eucharist itself.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1346" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-005",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1200,
+      "prompt": "True or False: Catholics are only ever obligated to attend Mass on Sundays, never on any other day of the year.",
+      "correctAnswer": false,
+      "explanation": "Beyond Sundays, the Church also designates certain Holy Days of Obligation throughout the year -- such as Christmas -- when Catholics are likewise obligated to attend Mass.",
+      "hint": "There's a whole other category of obligatory Mass days beyond just Sundays.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2042" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-006",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1350,
+      "prompt": "The word 'Mass' comes from the Latin dismissal 'Ite, missa est,' roughly meaning 'Go, you are ____.'",
+      "correctAnswer": "sent",
+      "explanation": "The Mass takes its very name from its closing words -- a dismissal that sends the congregation out to live and share what they've just received, not merely to go home.",
+      "hint": "This word is also where English gets 'mission' and 'missionary.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1332" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-001",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "On a typical Sunday, how many Scripture readings (not counting the Responsorial Psalm) are proclaimed during the Liturgy of the Word?",
+      "choices": [
+        "Three -- an Old Testament reading, a New Testament epistle, and the Gospel",
+        "One -- just the Gospel",
+        "Five -- one from each part of the Bible",
+        "Two -- an epistle and the Gospel only"
+      ],
+      "correctAnswer": "Three -- an Old Testament reading, a New Testament epistle, and the Gospel",
+      "explanation": "Sunday Mass draws readings from across salvation history -- Old Testament, New Testament letter, and Gospel -- woven together with a Responsorial Psalm as the congregation's sung response.",
+      "hint": "Weekdays typically have two readings; Sundays add one more.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1349" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-002",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The congregation stands for the proclamation of the Gospel as a sign of special reverence, since Christ himself is understood to speak in the reading.",
+      "correctAnswer": true,
+      "explanation": "Vatican II's Sacrosanctum Concilium teaches that Christ 'is present in his word, since it is he himself who speaks when the holy scriptures are read in the Church' -- the Gospel receives special honor accordingly.",
+      "hint": "Standing, among the different postures at Mass, marks the readings given the highest honor.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 7" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-003",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1750,
+      "prompt": "The homily, which follows the Gospel, is 'highly recommended' by Vatican II as part of the liturgy itself, drawing out the meaning of the readings and applying them to Christian ____.",
+      "correctAnswer": "life",
+      "explanation": "The homily isn't an optional add-on speech -- the council explicitly treats it as part of the liturgical action, meant to connect the proclaimed word to the community's actual daily living.",
+      "hint": "It's about applying Scripture to how people actually live day to day.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 52" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-004",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "The Creed, recited after the homily on Sundays and solemnities, functions as:",
+      "choices": [
+        "The congregation's communal profession of the Church's faith before the Liturgy of the Eucharist begins",
+        "A private prayer said silently by the priest alone",
+        "An optional hymn that can be replaced with any song",
+        "A prayer said only once a year, at Easter"
+      ],
+      "correctAnswer": "The congregation's communal profession of the Church's faith before the Liturgy of the Eucharist begins",
+      "explanation": "Having just heard God's word proclaimed and explained, the assembly responds by professing together the faith that word calls them to -- a hinge between the two halves of the Mass.",
+      "hint": "It comes right after the homily, as the assembly's shared response to what was just proclaimed.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1349" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-005",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The Prayers of the Faithful (Universal Prayer), offered after the Creed, may only ever be said by the priest alone, never by a deacon or lay reader.",
+      "correctAnswer": false,
+      "explanation": "Vatican II restored this 'common prayer' after the Gospel and homily specifically so the people, often through a deacon or lay reader, could exercise their own priestly office by interceding for the Church and the world.",
+      "hint": "This prayer is meant to actively involve the assembly, not just the priest.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 53" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-006",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each part of the Liturgy of the Word to its place or purpose.",
+      "pairs": [
+        { "left": "First Reading", "right": "Usually taken from the Old Testament" },
+        { "left": "Responsorial Psalm", "right": "The congregation's sung response to the first reading" },
+        { "left": "Gospel", "right": "The high point, proclaimed with the assembly standing" },
+        { "left": "Homily", "right": "Explains and applies the readings to the community's life" }
+      ],
+      "explanation": "Each element builds toward the next -- reading, response, the Gospel's high point, and then the homily drawing it all together for the assembly gathered that day.",
+      "hint": "Notice the progression: read, respond, reach the high point, then explain.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1349" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-001",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "The Liturgy of the Eucharist begins with the Offertory, moves through the Eucharistic Prayer (containing the words of consecration), and concludes with:",
+      "choices": [
+        "The Communion Rite",
+        "The Liturgy of the Word",
+        "The final blessing and dismissal only",
+        "The Sign of the Cross"
+      ],
+      "correctAnswer": "The Communion Rite",
+      "explanation": "After the bread and wine are consecrated in the Eucharistic Prayer, the Communion Rite -- the Our Father, the sign of peace, and the reception of Communion itself -- brings the Liturgy of the Eucharist to its completion.",
+      "hint": "This is the part where the assembly actually receives what was just consecrated.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1352" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-002",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Church teaches that at the moment of consecration, the whole substance of the bread and wine is truly changed into the Body and Blood of Christ, even though their outward appearances remain unchanged.",
+      "correctAnswer": true,
+      "explanation": "The Council of Trent's teaching, affirmed by the Catechism, is that this change of substance -- while the appearances of bread and wine remain -- is called transubstantiation.",
+      "hint": "What changes is the deepest reality of the bread and wine, not their outward appearance.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1376" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-003",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "The Church's technical term for the change of the whole substance of bread and wine into Christ's Body and Blood, while the appearances remain, is '____.'",
+      "correctAnswer": "transubstantiation",
+      "explanation": "This precise term, formally used at the Council of Trent, distinguishes the Church's teaching from a merely symbolic or partial understanding of Christ's presence in the Eucharist.",
+      "hint": "It's a long theological word built from the Latin for 'substance.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1376" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-004",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Just before receiving Communion, the priest and the assembly exchange a sign of:",
+      "choices": ["Peace", "Repentance", "Farewell", "Silence"],
+      "correctAnswer": "Peace",
+      "explanation": "The Sign of Peace, offered right before Communion, expresses reconciliation and unity among the assembly as they prepare to receive the one Body of Christ together.",
+      "hint": "It's a gesture -- often a handshake -- expressing reconciliation, right before Communion.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1352" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-005",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: A Catholic who is conscious of grave sin may still receive Holy Communion, as long as they intend to go to Confession at some point afterward.",
+      "correctAnswer": false,
+      "explanation": "The Catechism teaches that anyone conscious of grave sin must first receive sacramental absolution before receiving Communion, except in a genuine emergency with no opportunity for confession -- 'intending to confess later' isn't sufficient.",
+      "hint": "Confession is meant to come before Communion in this case, not simply intended for later.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1385" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-006",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each term in the Liturgy of the Eucharist to its meaning.",
+      "pairs": [
+        { "left": "Offertory", "right": "Bread and wine are brought forward and prepared" },
+        { "left": "Eucharistic Prayer", "right": "Contains the words of consecration" },
+        { "left": "Communion Rite", "right": "Includes the Our Father, sign of peace, and reception" },
+        { "left": "Transubstantiation", "right": "The change of bread and wine's whole substance into Christ" }
+      ],
+      "explanation": "Together these four elements move the assembly from ordinary bread and wine, through consecration, to actually receiving Christ himself in Communion.",
+      "hint": "Follow the sequence: prepare, consecrate, then receive -- with one term naming what happens at consecration.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1376" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-001",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "The liturgical year does not begin on January 1, but with the season of:",
+      "choices": ["Advent", "Lent", "Ordinary Time", "Christmas"],
+      "correctAnswer": "Advent",
+      "explanation": "The Church's own calendar starts with Advent, the season of preparation for Christ's coming -- both his birth at Christmas and his final coming at the end of time.",
+      "hint": "This is the season of preparation that comes right before Christmas.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1168" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-002",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: Easter is considered the oldest and most important feast of the liturgical year, sometimes called the 'Feast of feasts.'",
+      "correctAnswer": true,
+      "explanation": "Every other feast in the calendar draws its meaning from Easter -- the celebration of Christ's Resurrection is the foundation the whole liturgical year is built around.",
+      "hint": "This is the feast every other feast in the calendar ultimately points back to.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1169" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-003",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2360,
+      "prompt": "The 40-day penitential season of prayer, fasting, and almsgiving that prepares the Church for Easter is called ____.",
+      "correctAnswer": "Lent",
+      "explanation": "Lent's 40 days recall the 40 days Christ spent fasting in the desert, and the season prepares catechumens for Baptism and all the faithful for a renewed celebration of Easter.",
+      "hint": "This penitential season begins on Ash Wednesday.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1438" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-004",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "The 50-day season of joyful celebration following Easter Sunday, culminating in Pentecost, is called:",
+      "choices": ["Eastertide (the Easter season)", "Advent", "Ordinary Time", "Holy Week"],
+      "correctAnswer": "Eastertide (the Easter season)",
+      "explanation": "The Church celebrates the Resurrection not for just one day but across fifty days of continuous rejoicing, ending with the descent of the Holy Spirit at Pentecost.",
+      "hint": "This season stretches all the way from Easter Sunday to Pentecost.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1169" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-005",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: 'Ordinary Time,' despite its name, is considered a spiritually empty or unimportant period with no real liturgical significance.",
+      "correctAnswer": false,
+      "explanation": "'Ordinary' here comes from 'ordinal' (numbered weeks), not from 'unimportant' -- Ordinary Time is a season of steady growth in discipleship, tracing the whole of Christ's public ministry.",
+      "hint": "The name comes from counted, numbered weeks, not from the everyday sense of 'ordinary.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1163" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-006",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each liturgical season to its meaning.",
+      "pairs": [
+        { "left": "Advent", "right": "Preparing for Christ's coming, at Christmas and at the end of time" },
+        { "left": "Lent", "right": "40 days of penance preparing for Easter" },
+        { "left": "Eastertide", "right": "50 days of joyful celebration, ending at Pentecost" },
+        { "left": "Ordinary Time", "right": "Numbered weeks tracing Christ's public ministry" }
+      ],
+      "explanation": "Together these seasons walk the whole Church, year after year, through the entire mystery of Christ -- his coming, his ministry, his death, and his Resurrection.",
+      "hint": "Two seasons are penitential preparation, two are ongoing celebration or steady growth.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1168" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-001",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "How many sacraments does the Catholic Church recognize?",
+      "choices": ["Seven", "Five", "Three", "Nine"],
+      "correctAnswer": "Seven",
+      "explanation": "The Catechism teaches that 'the whole liturgical life of the Church revolves around the Eucharistic sacrifice and the sacraments' -- seven in all, instituted by Christ and entrusted to the Church.",
+      "hint": "It's the same number as the deadly vices and the gifts of the Holy Spirit.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1113" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-002",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: Baptism, Confirmation, and the Eucharist together are called the 'Sacraments of Christian Initiation.'",
+      "correctAnswer": true,
+      "explanation": "These three sacraments lay the foundations of every Christian life -- Baptism gives new birth, Confirmation strengthens with the Spirit, and the Eucharist nourishes the disciple with Christ himself.",
+      "hint": "These are the three sacraments that bring a person fully into the Church's life.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1212" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-003",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "Baptism, Confirmation, and Holy Orders share a feature no other sacrament has: they imprint a permanent, indelible ____ on the soul, and so can never be repeated.",
+      "correctAnswer": "character",
+      "explanation": "This sacramental character marks the soul permanently, configuring the recipient to Christ in a lasting way -- which is why these three sacraments are received only once in a lifetime.",
+      "hint": "It's a permanent spiritual 'mark,' not something physically visible.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1121" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-004",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "The two sacraments classified together as the 'Sacraments of Healing' are Anointing of the Sick and:",
+      "choices": [
+        "Penance (Reconciliation/Confession)",
+        "Matrimony",
+        "Holy Orders",
+        "Confirmation"
+      ],
+      "correctAnswer": "Penance (Reconciliation/Confession)",
+      "explanation": "These two sacraments address the wounds sin and illness leave in a Christian's life -- Penance heals the soul of sin, and Anointing of the Sick brings grace and comfort in illness.",
+      "hint": "One heals the soul of sin; this other one heals the body and soul in sickness.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1421" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-005",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2700,
+      "prompt": "True or False: Matrimony and Holy Orders are together classified as the 'Sacraments at the Service of Communion.'",
+      "correctAnswer": true,
+      "explanation": "These two sacraments are directed toward the good of others -- Matrimony builds up the family and Holy Orders serves the Church's mission -- rather than being primarily for the recipient's own sanctification alone.",
+      "hint": "Both of these sacraments exist primarily to serve and build up others, not just the person receiving them.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1534" }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-006",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each family of sacraments to its members.",
+      "pairs": [
+        { "left": "Sacraments of Initiation", "right": "Baptism, Confirmation, Eucharist" },
+        { "left": "Sacraments of Healing", "right": "Penance, Anointing of the Sick" },
+        { "left": "Sacraments at the Service of Communion", "right": "Holy Orders, Matrimony" }
+      ],
+      "explanation": "The Catechism groups all seven sacraments into these three families, organized by the stage and dimension of Christian life each one serves.",
+      "hint": "Three families: how you begin the Christian life, how you're healed, and how you serve others' good.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1210" }
       ]
     }
   ]
