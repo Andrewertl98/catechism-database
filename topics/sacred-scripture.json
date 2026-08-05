@@ -11,6 +11,7 @@
       "choices": ["73", "66", "27", "46"],
       "correctAnswer": "73",
       "explanation": "The Catholic canon includes 46 books of the Old Testament and 27 of the New Testament, for a total of 73 -- discerned by the Church through apostolic Tradition.",
+      "hint": "It's 46 Old Testament books plus 27 New Testament books.",
       "citations": [
         { "type": "ccc", "reference": "CCC 120" }
       ]
@@ -25,6 +26,7 @@
       "choices": ["Christ crucified and risen", "The fall of Jerusalem", "The Babylonian exile alone", "The building of the Temple"],
       "correctAnswer": "Christ crucified and risen",
       "explanation": "CCC 129 teaches that 'Christians therefore read the Old Testament in the light of Christ crucified and risen' -- the whole of Scripture, Old and New, is read as one unified story fulfilled in Christ.",
+      "hint": "This is the central event of the New Testament, read back into the whole story.",
       "citations": [
         { "type": "ccc", "reference": "CCC 129" }
       ]
@@ -39,8 +41,447 @@
       "choices": ["The Gospel of John", "The Gospel of Matthew", "The Book of Revelation", "The Letter to the Hebrews"],
       "correctAnswer": "The Gospel of John",
       "explanation": "John 1:1 opens the Fourth Gospel with a profound statement of Christ's eternal divinity as the Word (Logos) who was with God and was God, later 'made flesh' in the Incarnation.",
+      "hint": "This Gospel's opening deliberately echoes the very first words of Genesis.",
       "citations": [
         { "type": "scripture", "reference": "John 1:1" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-004",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1050,
+      "prompt": "The Bible is best described as:",
+      "choices": [
+        "A library of many books, written by different human authors over centuries, with God as their ultimate author",
+        "A single book, written by one author in one sitting",
+        "A collection of myths with no historical value",
+        "A book written entirely in the last 200 years"
+      ],
+      "correctAnswer": "A library of many books, written by different human authors over centuries, with God as their ultimate author",
+      "explanation": "God inspired the human authors of Scripture, who wrote in their own words, times, and literary forms -- true human authors, and yet God himself is the Bible's ultimate author.",
+      "hint": "Two authors are involved at once: many human ones, and one divine one.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 105" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-005",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Bible was written by a single author, across a single generation.",
+      "correctAnswer": false,
+      "explanation": "Scripture was composed by many human authors across roughly a thousand years, in different languages and literary forms -- yet it holds together as one unified word, since God inspired all of it.",
+      "hint": "Think of how many different named authors' names appear across the Bible's books.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 105" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-006",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1250,
+      "prompt": "The Bible is divided into two main parts: the Old Testament and the ____ Testament.",
+      "correctAnswer": "New",
+      "explanation": "The Old Testament records God's covenant with Israel before Christ; the New Testament records Christ's life and the apostolic Church founded on him.",
+      "hint": "It's the counterpart to 'Old.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 120" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-001",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "The first five books of the Old Testament -- Genesis, Exodus, Leviticus, Numbers, and Deuteronomy -- are together called the:",
+      "choices": ["Torah (or Pentateuch)", "Wisdom Literature", "Minor Prophets", "Historical Books"],
+      "correctAnswer": "Torah (or Pentateuch)",
+      "explanation": "'Pentateuch' comes from Greek for 'five scrolls'; 'Torah' is the Hebrew term, meaning 'instruction' or 'law' -- together these five books form the foundation of the whole Old Testament.",
+      "hint": "'Penta-' is the Greek prefix for 'five.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 120" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-002",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The Book of Genesis contains two distinct creation accounts.",
+      "correctAnswer": true,
+      "explanation": "Genesis opens with two complementary accounts of creation -- the six-day account in chapter 1, and a second account beginning in chapter 2 that focuses on the creation of man and woman.",
+      "hint": "Look closely at chapters 1 and 2 -- the story of creation is told a second time, from a different angle.",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 2:4" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-003",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1700,
+      "prompt": "God's covenant with Israel at Mount Sinai included the ____ Commandments, given to Moses.",
+      "correctAnswer": "Ten",
+      "explanation": "The Ten Commandments, given at Sinai, form the heart of the Old Covenant's moral law -- a law the Catechism treats as still binding in its substance under the New Covenant.",
+      "hint": "It's the same number of Commandments taught in every catechism class.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 20:1-17" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-004",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "The 'Major Prophets' of the Old Testament include Isaiah, Jeremiah, Ezekiel, and:",
+      "choices": ["Daniel", "Amos", "Hosea", "Malachi"],
+      "correctAnswer": "Daniel",
+      "explanation": "The 'Major' and 'Minor' Prophets are distinguished by the length of their books, not by their relative importance -- Amos, Hosea, and Malachi belong instead to the twelve 'Minor Prophets.'",
+      "hint": "'Major' here is about book length, not spiritual importance.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 64" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-005",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: The prophets' central message was primarily to predict specific future events centuries in advance, with little concern for calling Israel back to covenant faithfulness in their own time.",
+      "correctAnswer": false,
+      "explanation": "The prophets primarily called Israel to repentance and covenant fidelity in their own historical moment -- messianic hope for the future is part of their message, but not its whole focus.",
+      "hint": "Prophets were, first of all, preachers to their own generation, not just fortune-tellers for the future.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 64" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-006",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each term to its meaning.",
+      "pairs": [
+        { "left": "Torah / Pentateuch", "right": "The first five books of the Bible" },
+        { "left": "Major Prophets", "right": "Isaiah, Jeremiah, Ezekiel, Daniel" },
+        { "left": "Covenant", "right": "A sacred bond God establishes with his people" },
+        { "left": "Exodus", "right": "Israel's deliverance from slavery in Egypt" }
+      ],
+      "explanation": "These four terms cover the backbone of Old Testament history -- its founding books, its major prophetic voices, its central theological concept, and its defining act of deliverance.",
+      "hint": "One is a group of books, one a group of prophets, one a theological concept, one a historical event.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 20:1-17" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-001",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "The first three Gospels -- Matthew, Mark, and Luke -- are called the 'Synoptic Gospels' because they:",
+      "choices": [
+        "Share a similar structure, content, and viewpoint, and so can be 'seen together'",
+        "Were all written by the same single author",
+        "Are the only Gospels considered inspired",
+        "Were written after the Gospel of John"
+      ],
+      "correctAnswer": "Share a similar structure, content, and viewpoint, and so can be 'seen together'",
+      "explanation": "'Synoptic' comes from Greek meaning 'seen together' -- these three Gospels share substantial overlapping material and can be usefully compared side by side, unlike John's distinct approach.",
+      "hint": "'Syn-optic' literally means 'together-view.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 126" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-002",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Gospel of John is typically grouped together with Matthew, Mark, and Luke as one of the 'Synoptic Gospels.'",
+      "correctAnswer": false,
+      "explanation": "John stands apart from the other three, with a distinct structure, style, and theological emphasis -- it is not counted among the Synoptics.",
+      "hint": "This is the one Gospel that stands apart from the other three, stylistically.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 126" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-003",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "The Catechism describes the Gospels as the 'heart of all the Scriptures' because they are our principal source for the life and ____ of the Incarnate Word.",
+      "correctAnswer": "teaching",
+      "explanation": "Everything else in Scripture -- Old and New Testament alike -- is read in relation to the Gospels, since they record Christ's own words and deeds most directly.",
+      "hint": "Alongside 'life,' this word is what the Gospels record about Christ's own words.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 125" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-004",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The Catechism describes the formation of the Gospels happening in three stages: the life and teaching of Jesus, the oral Tradition of the apostles, and finally:",
+      "choices": [
+        "The Gospels being written down by the four evangelists",
+        "The Gospels being translated into Latin",
+        "The Council of Trent formally approving them",
+        "The invention of the printing press"
+      ],
+      "correctAnswer": "The Gospels being written down by the four evangelists",
+      "explanation": "The evangelists, drawing on the earlier oral preaching of the apostolic Church, put this apostolic testimony into writing, 'selecting' and 'synthesizing' it for their particular communities.",
+      "hint": "This is the final stage, after Jesus' own ministry and the apostles' preaching about it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 126" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-005",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: The Church requires every one of the four evangelists to have personally witnessed the entirety of Jesus' earthly ministry firsthand.",
+      "correctAnswer": false,
+      "explanation": "The Gospels' reliability rests on their rootedness in apostolic testimony passed down faithfully, not on a requirement that every individual evangelist personally witnessed every event they recorded.",
+      "hint": "What matters is the Gospels' connection to apostolic testimony as a whole, not each author's personal presence at every event.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 126" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-006",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each Gospel to a distinguishing note about it.",
+      "pairs": [
+        { "left": "Matthew", "right": "Written with a strongly Jewish audience and Old Testament fulfillment in mind" },
+        { "left": "Mark", "right": "Shortest Gospel, fast-paced, emphasizing Christ's suffering servanthood" },
+        { "left": "Luke", "right": "Emphasizes mercy, the poor, and salvation's universal reach" },
+        { "left": "John", "right": "Distinct in style, emphasizing Christ's divinity and 'I am' statements" }
+      ],
+      "explanation": "Each evangelist writes with his own emphasis and audience in mind, while all four together present one coherent portrait of Christ.",
+      "hint": "One is Jewish-focused, one is fast and Passion-focused, one favors the poor, one is theologically distinct.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 125" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-001",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "The largest single block of New Testament letters was written by:",
+      "choices": ["St. Paul", "St. Peter", "St. John", "St. James"],
+      "correctAnswer": "St. Paul",
+      "explanation": "Paul's letters to various churches and individuals -- Romans, Corinthians, Galatians, and many more -- make up the largest portion of the New Testament's epistolary literature.",
+      "hint": "This apostle's missionary journeys generated letters to many of the churches he founded.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 76" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-002",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The Letter to the Romans is widely regarded as containing Paul's most systematic presentation of the Gospel and the doctrine of justification.",
+      "correctAnswer": true,
+      "explanation": "Romans opens with Paul's programmatic statement that he is 'not ashamed of the gospel,' since 'the righteous shall live by faith' -- launching one of Scripture's most sustained theological arguments.",
+      "hint": "This letter is often called Paul's theological masterwork.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 1:16-17" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-003",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2420,
+      "prompt": "The Letter to the Hebrews presents Christ as the perfect and eternal ____ Priest, superior to the Levitical priesthood of the Old Covenant.",
+      "correctAnswer": "High",
+      "explanation": "Hebrews argues at length that Christ's priesthood, offered once for all, fulfills and surpasses the repeated sacrifices of the Old Covenant's priesthood.",
+      "hint": "This title pairs with 'priest' to describe the very highest priestly office.",
+      "citations": [
+        { "type": "scripture", "reference": "Hebrews 4:14-15" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-004",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2360,
+      "prompt": "The 'Catholic Epistles' (James, 1-2 Peter, 1-3 John, Jude) are called 'Catholic' meaning:",
+      "choices": [
+        "Universal or general, addressed broadly rather than to one specific local church",
+        "Written exclusively by popes",
+        "Approved only at the Council of Trent",
+        "Written in Latin rather than Greek"
+      ],
+      "correctAnswer": "Universal or general, addressed broadly rather than to one specific local church",
+      "explanation": "Unlike Paul's letters, which typically address a specific community (Rome, Corinth, Galatia), these letters are addressed more broadly -- hence 'catholic,' meaning 'universal.'",
+      "hint": "'Catholic' here carries its original Greek meaning -- 'according to the whole,' or universal.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 76" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-005",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: The Letter of James teaches that faith without works is dead.",
+      "correctAnswer": true,
+      "explanation": "James 2:17 states plainly: 'faith of itself, if it does not have works, is dead.' The letter insists genuine faith must show itself alive through concrete action.",
+      "hint": "This is one of the most direct statements in the New Testament connecting faith and action.",
+      "citations": [
+        { "type": "scripture", "reference": "James 2:17" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-006",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each letter to its key theme.",
+      "pairs": [
+        { "left": "Romans", "right": "Justification by grace through faith, systematically explained" },
+        { "left": "Hebrews", "right": "Christ as the eternal High Priest" },
+        { "left": "James", "right": "Faith must be shown alive through works" },
+        { "left": "1 John", "right": "God is love, and love of neighbor flows from love of God" }
+      ],
+      "explanation": "Each New Testament letter addresses its own pressing pastoral concern, together forming a rich theological witness alongside the Gospels.",
+      "hint": "One is about justification, one about priesthood, one about works, one about love.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 1:16-17" },
+        { "type": "scripture", "reference": "James 2:17" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-001",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "The Catechism lists several senses of Scripture beyond the literal sense. Together these additional senses are called the:",
+      "choices": [
+        "Spiritual senses (allegorical, moral, and anagogical)",
+        "Historical senses",
+        "Apocryphal senses",
+        "Vernacular senses"
+      ],
+      "correctAnswer": "Spiritual senses (allegorical, moral, and anagogical)",
+      "explanation": "Beyond the literal sense (what the words directly mean), Catholic tradition reads Scripture for its spiritual senses -- how it points to Christ, teaches right action, and points toward our final destiny.",
+      "hint": "Three senses, all beyond the plain literal meaning of the words.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 115-118" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-002",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: The 'literal sense' of Scripture, in Catholic interpretation, means always reading every passage as a strict, scientifically precise historical report, regardless of its literary form.",
+      "correctAnswer": false,
+      "explanation": "The literal sense means the meaning conveyed by the words themselves, discovered through sound interpretation that respects the author's own literary form -- poetry, parable, and historical narrative are all read according to what they actually are.",
+      "hint": "The literal sense respects what kind of writing a passage actually is -- poem, parable, history, and so on.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 116" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-003",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "The Catechism teaches that Sacred Scripture must be read and interpreted 'in the light of the same ____' by which it was written -- that is, with the guidance of the Holy Spirit.",
+      "correctAnswer": "Spirit",
+      "explanation": "Because the Holy Spirit inspired Scripture's human authors, faithful interpretation requires reading it in that same Spirit, within the living Tradition of the Church that first received it.",
+      "hint": "This is the same divine Person who inspired the biblical authors in the first place.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 111" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-004",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "Which of the following is NOT one of the Catechism's three criteria for interpreting Scripture 'in accordance with the Spirit'?",
+      "choices": [
+        "Purely private interpretation, independent of the Church's living Tradition",
+        "Attention to the content and unity of the whole of Scripture",
+        "Reading Scripture within the living Tradition of the Church",
+        "Attention to the analogy of faith"
+      ],
+      "correctAnswer": "Purely private interpretation, independent of the Church's living Tradition",
+      "explanation": "The Catechism's three actual criteria all situate the individual reader within the Church's living Tradition and the coherence of the whole faith -- not apart from it.",
+      "hint": "Three of these four criteria all point back to the Church's own living Tradition; one explicitly cuts against it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 112-114" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-005",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2700,
+      "prompt": "True or False: The Catechism teaches that all the books and parts of Scripture are one, because all of Scripture is inspired by one and the same God.",
+      "correctAnswer": true,
+      "explanation": "This is the first of the Catechism's criteria for interpreting Scripture -- reading with attention to the content and unity of the whole, since one divine author stands behind every book.",
+      "hint": "This is about Scripture's underlying unity, despite its many human authors and books.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 112" }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-006",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each sense of Scripture to its focus.",
+      "pairs": [
+        { "left": "Literal sense", "right": "The meaning intended by the human author's own words" },
+        { "left": "Allegorical sense", "right": "How events and figures point to Christ" },
+        { "left": "Moral sense", "right": "How Scripture teaches us to act justly" },
+        { "left": "Anagogical sense", "right": "How realities point toward our eternal destiny" }
+      ],
+      "explanation": "These four senses, working together, let the same passage of Scripture speak on multiple levels at once -- what it plainly says, and what it points beyond itself toward.",
+      "hint": "One sense is about the plain words; three others point toward Christ, right action, or eternity.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 115-118" }
       ]
     }
   ]
