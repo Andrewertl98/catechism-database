@@ -16,6 +16,7 @@
       ],
       "correctAnswer": "That the Son is fully divine, of the same substance as the Father",
       "explanation": "Arius taught that the Son was a creature and 'came to be from things that were not.' Nicaea condemned this and defined the Son as 'homoousios' -- of the same substance as the Father.",
+      "hint": "Nicaea's famous word for 'same substance' is the key here.",
       "citations": [
         { "type": "ccc", "reference": "CCC 465" },
         { "type": "council", "reference": "First Council of Nicaea (325)" }
@@ -31,6 +32,7 @@
       "choices": ["That he had a true, real human nature", "That he was divine", "That he founded a Church", "That he rose from the dead"],
       "correctAnswer": "That he had a true, real human nature",
       "explanation": "Unlike Arianism, which denied Christ's divinity, Docetism denied that Christ was truly human, treating his body as mere appearance. The Church insisted from apostolic times that the Word came 'in the flesh.'",
+      "hint": "The name comes from the Greek word for 'to seem' or 'to appear.'",
       "citations": [
         { "type": "ccc", "reference": "CCC 465" },
         { "type": "scripture", "reference": "1 John 4:2-3" }
@@ -45,9 +47,476 @@
       "prompt": "True or False: Nestorianism was condemned because it denied that Jesus Christ was truly divine.",
       "correctAnswer": false,
       "explanation": "Nestorianism did not deny Christ's divinity -- it wrongly split Christ into two separate persons, one divine and one human, loosely joined together. The Council of Ephesus (431) instead confessed one and the same Son, both God and man in a single person.",
+      "hint": "Nestorius's error was about how many persons Christ is, not whether he's divine.",
       "citations": [
         { "type": "ccc", "reference": "CCC 466" },
         { "type": "council", "reference": "Council of Ephesus (431)" }
+      ]
+    },
+    {
+      "id": "heresies-l1-004",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Early Gnostic sects taught that the material world was evil or a lesser creation, and that salvation came through secret knowledge rather than faith. What does Scripture say about the created world in response?",
+      "choices": [
+        "That God saw everything he had made, and it was very good",
+        "That the material world is an illusion",
+        "That only spiritual things were created by God",
+        "That the world will never be redeemed"
+      ],
+      "correctAnswer": "That God saw everything he had made, and it was very good",
+      "explanation": "Gnosticism's contempt for matter contradicts the opening of Genesis, where God repeatedly declares his creation good -- a goodness the Church has always defended against every form of dualism.",
+      "hint": "Look at the very first chapter of the Bible, right after each day of creation.",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 1:31" }
+      ]
+    },
+    {
+      "id": "heresies-l1-005",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Modalism (associated with the priest Sabellius) mistakenly taught that Father, Son, and Holy Spirit are:",
+      "choices": [
+        "Three different 'modes' or masks worn by one Person, not three distinct Persons",
+        "Three separate gods",
+        "Three angels sent by God",
+        "Three names for Jesus alone"
+      ],
+      "correctAnswer": "Three different 'modes' or masks worn by one Person, not three distinct Persons",
+      "explanation": "Modalism collapses the Trinity into one Person acting in three roles. The Church instead confesses one God in three really distinct Persons, eternally Father, Son, and Holy Spirit -- not costumes changed over time.",
+      "hint": "This error keeps God as one Person but denies three real, distinct 'Who's.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 254 (see also 258)" }
+      ]
+    },
+    {
+      "id": "heresies-l1-006",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Marcion taught that the God of the Old Testament and the God revealed by Jesus Christ were two different gods.",
+      "correctAnswer": true,
+      "explanation": "Marcion rejected the Old Testament entirely, claiming its God was a lesser, harsher deity distinct from the Father of Jesus Christ. The Church has always insisted the Old and New Testaments reveal the same one God.",
+      "hint": "Marcion wanted to cut the first part of the Bible out altogether.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 123" }
+      ]
+    },
+    {
+      "id": "heresies-l2-001",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "Apollinarianism, condemned at the First Council of Constantinople (381), denied that Christ had a complete:",
+      "choices": [
+        "Human, rational soul -- the divine Word supposedly took its place",
+        "Human body",
+        "Divine nature",
+        "Mother"
+      ],
+      "correctAnswer": "Human, rational soul -- the divine Word supposedly took its place",
+      "explanation": "Apollinaris held that the divine Word replaced Christ's human mind or soul. Against this, the Church confessed that the Son assumed a complete, rational human soul -- otherwise our own minds would remain unhealed by the Incarnation.",
+      "hint": "This heresy leaves Christ with a human body but not a human mind.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 471" },
+        { "type": "council", "reference": "First Council of Constantinople (381)" }
+      ]
+    },
+    {
+      "id": "heresies-l2-002",
+      "topic": "heresies",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: Monophysitism, condemned at the Council of Chalcedon in 451, taught that Christ's human nature was absorbed into his divine nature, leaving only one nature.",
+      "correctAnswer": true,
+      "explanation": "Eutyches and his followers held that after the union, Christ's humanity was swallowed up by his divinity. Chalcedon responded by defining one Person in two natures, 'without confusion, without change, without division, without separation.'",
+      "hint": "The name literally means 'one nature.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 467" },
+        { "type": "council", "reference": "Council of Chalcedon (451)" }
+      ]
+    },
+    {
+      "id": "heresies-l2-003",
+      "topic": "heresies",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1800,
+      "prompt": "Monothelitism, condemned at the Third Council of Constantinople (680-681), denied that Christ had a genuinely human ____.",
+      "correctAnswer": "will",
+      "explanation": "Monothelites held that Christ had only one will, the divine one. The council taught that will belongs to nature, and since Christ has two complete natures, he has two wills, human and divine, always acting in perfect harmony.",
+      "hint": "Two natures, the council said, means two of these -- not just one.",
+      "citations": [
+        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+      ]
+    },
+    {
+      "id": "heresies-l2-004",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "Adoptionism teaches that Jesus was:",
+      "choices": [
+        "An ordinary man who was 'adopted' as God's Son at his baptism or resurrection, rather than divine from the moment of his conception",
+        "Divine from all eternity, with no human nature at all",
+        "A created angel who took on flesh",
+        "Simply a title the apostles gave to any holy teacher"
+      ],
+      "correctAnswer": "An ordinary man who was 'adopted' as God's Son at his baptism or resurrection, rather than divine from the moment of his conception",
+      "explanation": "Adoptionism denies the eternal, divine sonship of Christ, treating it as something conferred on a man rather than true from the very beginning. Scripture instead teaches that the Son was conceived as God's Son from the start.",
+      "hint": "The name says it: sonship given later, rather than always true.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:35" }
+      ]
+    },
+    {
+      "id": "heresies-l2-005",
+      "topic": "heresies",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1780,
+      "prompt": "At the Council of Ephesus (431), the Church defended calling Mary '____' (God-bearer) against Nestorius's objection to the title.",
+      "correctAnswer": "Theotokos",
+      "explanation": "Nestorius objected to calling Mary 'Mother of God,' preferring 'Mother of Christ,' since he saw the divine and human in Christ as loosely joined. Ephesus insisted that because Christ is one Person, truly God, Mary who bore him is truly Theotokos.",
+      "hint": "It's a Greek title meaning 'God-bearer.'",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 495" },
+        { "type": "council", "reference": "Council of Ephesus (431)" }
+      ]
+    },
+    {
+      "id": "heresies-l2-006",
+      "topic": "heresies",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each Christological heresy to what it got wrong about Christ.",
+      "pairs": [
+        { "left": "Apollinarianism", "right": "Denied Christ had a complete human, rational soul" },
+        { "left": "Nestorianism", "right": "Split Christ into two separate persons" },
+        { "left": "Monophysitism (Eutychianism)", "right": "Blended Christ's two natures into one" },
+        { "left": "Monothelitism", "right": "Denied Christ had a genuinely human will" }
+      ],
+      "explanation": "Each heresy erred in a distinct direction -- too little humanity, too little unity, too little distinction, or too little human freedom -- and each was answered by an ecumenical council defining the fullness of who Christ is.",
+      "hint": "Four different heresies, four different pieces of Christ's humanity or unity denied.",
+      "citations": [
+        { "type": "council", "reference": "Council of Chalcedon (451)" },
+        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+      ]
+    },
+    {
+      "id": "heresies-l3-001",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "The medieval Cathars (Albigensians) revived which ancient error, teaching that the material world was created by an evil principle?",
+      "choices": [
+        "Gnostic-style dualism",
+        "Adoptionism",
+        "Iconoclasm",
+        "Modalism"
+      ],
+      "correctAnswer": "Gnostic-style dualism",
+      "explanation": "Like the ancient Gnostics and Manichees before them, the Cathars held that matter itself was the work of an evil power. The Fourth Lateran Council (1215) opened by reaffirming one God, creator of all things visible and invisible.",
+      "hint": "This medieval movement recycled an error from the earliest centuries of the Church.",
+      "citations": [
+        { "type": "council", "reference": "Fourth Lateran Council (1215)" }
+      ]
+    },
+    {
+      "id": "heresies-l3-002",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: The Waldensians, followers of Peter Waldo in the 12th century, were first condemned mainly for preaching the Gospel without the Church's authorization, before drifting into further doctrinal error.",
+      "correctAnswer": true,
+      "explanation": "The Waldensians began as a lay preaching movement emphasizing voluntary poverty. Their unauthorized preaching led to condemnation, and the movement later denied the value of sacraments from unworthy priests and rejected purgatory.",
+      "hint": "Their first offense was about who has the authority to preach, not yet a denial of doctrine.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Ad Abolendam, Pope Lucius III (1184)" }
+      ]
+    },
+    {
+      "id": "heresies-l3-003",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2000,
+      "prompt": "Iconoclasm, the 8th- and 9th-century movement rejecting the veneration of religious images, was decisively answered by which council?",
+      "choices": [
+        "Second Council of Nicaea (787)",
+        "Council of Trent (1545-1563)",
+        "Council of Ephesus (431)",
+        "First Vatican Council (1869-1870)"
+      ],
+      "correctAnswer": "Second Council of Nicaea (787)",
+      "explanation": "Iconoclasts held that venerating images amounted to idolatry. Nicaea II taught that honor given to an image passes to what it represents, restoring the veneration of icons in the East.",
+      "hint": "It shares its name and city with the very first ecumenical council, over four centuries later.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+      ]
+    },
+    {
+      "id": "heresies-l3-004",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "John Wycliffe's teachings, condemned in the late 14th century and formally at the Council of Constance, included denying the Church's doctrine of:",
+      "choices": [
+        "Transubstantiation",
+        "The Trinity",
+        "The divinity of Christ",
+        "The Resurrection"
+      ],
+      "correctAnswer": "Transubstantiation",
+      "explanation": "Wycliffe denied that the Eucharistic bread and wine truly become Christ's Body and Blood, and also attacked papal authority and the necessity of Church-authorized interpretation of Scripture -- ideas later echoed in the Reformation.",
+      "hint": "This is the same doctrine of Eucharistic change that Trent would later reaffirm.",
+      "citations": [
+        { "type": "council", "reference": "Council of Constance (1414-1418)" }
+      ]
+    },
+    {
+      "id": "heresies-l3-005",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: Jan Hus, whose followers formed the Hussite movement, was condemned and executed following the Council of Constance in 1415.",
+      "correctAnswer": true,
+      "explanation": "Hus, influenced by Wycliffe's ideas, was summoned to Constance under a promise of safe conduct, condemned for heresy, and burned at the stake in 1415 -- an event that left lasting bitterness in Bohemia.",
+      "hint": "This is the same council that also condemned Wycliffe's teachings.",
+      "citations": [
+        { "type": "council", "reference": "Council of Constance (1414-1418)" }
+      ]
+    },
+    {
+      "id": "heresies-l3-006",
+      "topic": "heresies",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each medieval movement to its core error.",
+      "pairs": [
+        { "left": "Catharism (Albigensians)", "right": "Dualism: matter created by an evil principle" },
+        { "left": "Waldensianism", "right": "Unauthorized lay preaching, later doctrinal errors on the priesthood" },
+        { "left": "Iconoclasm", "right": "Rejected the veneration of sacred images" },
+        { "left": "Wycliffism", "right": "Denied transubstantiation and papal authority" }
+      ],
+      "explanation": "Medieval movements ranged from imported ancient dualism to disputes over Church authority and the sacraments -- several of them anticipating disputes the Reformation would reopen on a much larger scale.",
+      "hint": "One of these four is about images, one about the Eucharist, one about preaching, and one about the nature of matter itself.",
+      "citations": [
+        { "type": "council", "reference": "Fourth Lateran Council (1215)" },
+        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+      ]
+    },
+    {
+      "id": "heresies-l4-001",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "Against the Reformation principle of 'sola fide' (faith alone), the Council of Trent taught that justification:",
+      "choices": [
+        "Involves a real, interior transformation by grace, received through faith working together with love, not faith alone",
+        "Is earned entirely by good works, without any need for grace",
+        "Happens automatically at birth for all people",
+        "Cannot be lost once received"
+      ],
+      "correctAnswer": "Involves a real, interior transformation by grace, received through faith working together with love, not faith alone",
+      "explanation": "Trent's Decree on Justification taught that grace truly renews and sanctifies the believer inwardly -- it is not merely God treating a sinner as righteous while nothing changes within.",
+      "hint": "Trent insisted something real actually changes inside the believer, not just a legal declaration.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563), Decree on Justification" }
+      ]
+    },
+    {
+      "id": "heresies-l4-002",
+      "topic": "heresies",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2360,
+      "prompt": "Against the Reformation principle of 'sola scriptura,' Trent affirmed that both Scripture and Sacred ____ together hand on divine revelation.",
+      "correctAnswer": "Tradition",
+      "explanation": "The Reformers held that Scripture alone was a sufficient rule of faith. Trent taught instead that the Gospel comes down to us through both the written word and the Church's living Tradition.",
+      "hint": "It's the unwritten handing-down of the faith, alongside the Bible.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "heresies-l4-003",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: Huldrych Zwingli taught that Christ is really and substantially present, Body and Blood, in the Eucharist.",
+      "correctAnswer": false,
+      "explanation": "Zwingli held a largely symbolic, memorialist view of the Lord's Supper, distinct even from Luther's own position. The Church responded by reaffirming that Christ is truly, really, and substantially present.",
+      "hint": "Zwingli's view treated the Eucharist mostly as a remembrance, not a real presence.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1374" },
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "heresies-l4-004",
+      "topic": "heresies",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2420,
+      "prompt": "Anabaptists ('re-baptizers') were named for insisting that only believers able to make a personal profession of faith should be baptized, rejecting ____ baptism.",
+      "correctAnswer": "infant",
+      "explanation": "Anabaptists re-baptized adults who had been baptized as infants, since they denied infant baptism was valid at all. The Church holds infant baptism as an ancient and legitimate practice, resting on grace offered before personal consent.",
+      "hint": "It's the practice of baptizing very young children, which Anabaptists rejected.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1252" }
+      ]
+    },
+    {
+      "id": "heresies-l4-005",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2440,
+      "prompt": "The Church of England's 16th-century break from Rome under Henry VIII was, at its root, primarily a matter of:",
+      "choices": [
+        "Royal authority and the king's demand for an annulment, rather than an initial doctrinal dispute",
+        "A disagreement over the Trinity",
+        "A rejection of the Nicene Creed",
+        "A dispute over the canon of Scripture"
+      ],
+      "correctAnswer": "Royal authority and the king's demand for an annulment, rather than an initial doctrinal dispute",
+      "explanation": "Unlike the continental Reformation, which began with doctrinal disputes over grace and justification, the English schism began over Henry VIII's demand for an annulment and his claim to headship of the Church in England.",
+      "hint": "This break started with a king wanting something the pope wouldn't grant.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Apostolicae Curae, Pope Leo XIII (1896)" }
+      ]
+    },
+    {
+      "id": "heresies-l4-006",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: Jansenism, condemned in the 17th century, held such a pessimistic view of grace that it denied Christ died for all people, teaching he died only for the elect.",
+      "correctAnswer": true,
+      "explanation": "Among the propositions condemned in Jansen's Augustinus was the claim that Christ did not die for all humanity, only for the predestined. The Church has always taught Christ died for all, even though not all accept that grace.",
+      "hint": "This error limits the reach of Christ's death to only some people, not everyone.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Cum Occasione, Pope Innocent X (1653)" }
+      ]
+    },
+    {
+      "id": "heresies-l5-001",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "Pope St. Pius X's 1907 encyclical Pascendi Dominici Gregis condemned 'Modernism' chiefly for treating doctrine as:",
+      "choices": [
+        "A product of evolving human religious experience, rather than unchanging revealed truth",
+        "A set of rules with no theological meaning",
+        "Something only bishops need to understand",
+        "A purely private, invisible matter with no public claims"
+      ],
+      "correctAnswer": "A product of evolving human religious experience, rather than unchanging revealed truth",
+      "explanation": "Modernism treated dogma as a symbolic expression of inner religious feeling that shifts with each age, rather than truth revealed once for all. Pius X called it the 'synthesis of all heresies' for how broadly it touched Catholic teaching.",
+      "hint": "This error makes doctrine follow human feeling instead of the other way around.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Pascendi Dominici Gregis, Pope St. Pius X (1907)" }
+      ]
+    },
+    {
+      "id": "heresies-l5-002",
+      "topic": "heresies",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: 'Americanism,' addressed by Pope Leo XIII in 1899, involved concerns that some were downplaying the Church's supernatural guidance in favor of purely natural virtues and individual initiative.",
+      "correctAnswer": true,
+      "explanation": "Leo XIII's letter Testem Benevolentiae Nostrae warned against minimizing the role of the Church's guidance and supernatural virtues in favor of an overly individualistic, activist spirituality.",
+      "hint": "The concern was about relying too much on natural human effort and too little on the Church's supernatural help.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Testem Benevolentiae Nostrae, Pope Leo XIII (1899)" }
+      ]
+    },
+    {
+      "id": "heresies-l5-003",
+      "topic": "heresies",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "Fr. Leonard Feeney was excommunicated in the 1950s for rigidly teaching that literally no one outside formal, visible membership in the Church could be saved -- a distortion of the axiom 'extra ____ nulla salus' (outside the Church there is no salvation).",
+      "correctAnswer": "ecclesiam",
+      "explanation": "The Holy Office corrected Feeney's overly rigid reading, clarifying that the axiom does not exclude those united to the Church by desire, even without formal membership, through no fault of their own.",
+      "hint": "It's the Latin word for 'the Church' in the famous phrase.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Letter of the Holy Office to Archbishop Cushing of Boston (1949)" }
+      ]
+    },
+    {
+      "id": "heresies-l5-004",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2700,
+      "prompt": "The Congregation for the Doctrine of the Faith's 1984 instruction on liberation theology chiefly warned against:",
+      "choices": [
+        "Uncritically adopting Marxist class-struggle analysis as if it were compatible with the Gospel",
+        "Any concern for the poor whatsoever",
+        "Reading the Gospels in Latin America",
+        "Praying for social justice"
+      ],
+      "correctAnswer": "Uncritically adopting Marxist class-struggle analysis as if it were compatible with the Gospel",
+      "explanation": "Libertatis Nuntius did not condemn concern for the poor -- it warned against theologies that borrowed Marxist analysis wholesale, reducing salvation to political liberation and class conflict.",
+      "hint": "The concern was about borrowing a specific political ideology's framework, not about caring for the poor.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Libertatis Nuntius, CDF (1984)" }
+      ]
+    },
+    {
+      "id": "heresies-l5-005",
+      "topic": "heresies",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: The Church teaches that because sincere people can be found in every religion, it does not ultimately matter which religion, if any, a person professes.",
+      "correctAnswer": false,
+      "explanation": "The declaration Dominus Iesus explicitly rejected this kind of religious relativism, reaffirming Christ as the one, universal source of salvation and the unique, necessary role of the Church he founded.",
+      "hint": "The Church distinguishes 'sincerity' in believers from the truth of what different religions teach.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Dominus Iesus, CDF (2000)" }
+      ]
+    },
+    {
+      "id": "heresies-l5-006",
+      "topic": "heresies",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each modern error to the document that answered it.",
+      "pairs": [
+        { "left": "Modernism", "right": "Pascendi Dominici Gregis (1907)" },
+        { "left": "Americanism", "right": "Testem Benevolentiae Nostrae (1899)" },
+        { "left": "Marxist-influenced liberation theology", "right": "Libertatis Nuntius (1984)" },
+        { "left": "Religious relativism", "right": "Dominus Iesus (2000)" }
+      ],
+      "explanation": "Across a century, the Magisterium answered errors that reshaped doctrine around human experience, minimized the Church's supernatural role, borrowed political ideologies wholesale, or dissolved Christ's uniqueness into one option among many.",
+      "hint": "Four modern errors, four papal or CDF documents answering them across roughly a century.",
+      "citations": [
+        { "type": "magisterial_document", "reference": "Pascendi Dominici Gregis (1907)" },
+        { "type": "magisterial_document", "reference": "Dominus Iesus (2000)" }
       ]
     }
   ]
