@@ -11,6 +11,7 @@
       "choices": ["Nicaea", "Ephesus", "Chalcedon", "Trent"],
       "correctAnswer": "Nicaea",
       "explanation": "The First Council of Nicaea (325) confessed that the Son is 'of the same substance' as the Father and condemned Arius's teaching that the Son was a creature.",
+      "hint": "This is the very first ecumenical council, held in Asia Minor in 325.",
       "citations": [
         { "type": "council", "reference": "First Council of Nicaea (325)" },
         { "type": "ccc", "reference": "CCC 465" }
@@ -26,6 +27,7 @@
       "choices": ["Ephesus", "Nicaea", "Chalcedon", "Constantinople"],
       "correctAnswer": "Ephesus",
       "explanation": "The Third Ecumenical Council, held at Ephesus in 431, confessed that the Word united a truly human nature to himself in one person, honoring Mary as Theotokos, 'Mother of God.'",
+      "hint": "This council gave Mary a title meaning 'God-bearer.'",
       "citations": [
         { "type": "council", "reference": "Council of Ephesus (431)" },
         { "type": "ccc", "reference": "CCC 466" }
@@ -44,9 +46,435 @@
         { "left": "Council of Chalcedon", "right": "451" }
       ],
       "explanation": "These three 4th- and 5th-century councils progressively clarified who Jesus Christ is: true God (Nicaea), truly one person (Ephesus), and truly God and truly man in two natures (Chalcedon).",
+      "hint": "These three councils, all in the same century, are just over a century apart end to end.",
       "citations": [
         { "type": "ccc", "reference": "CCC 465-467" },
         { "type": "council", "reference": "Councils of Nicaea, Ephesus, and Chalcedon" }
+      ]
+    },
+    {
+      "id": "councils-l1-004",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The First Council of Constantinople, held in 381, completed the creed begun at Nicaea by affirming the divinity of which Person of the Trinity?",
+      "choices": ["The Holy Spirit", "The Son", "The Father", "It did not address the Trinity"],
+      "correctAnswer": "The Holy Spirit",
+      "explanation": "Constantinople I extended Nicaea's confession of the Son's divinity to the Holy Spirit, completing the Trinitarian faith expressed in the Nicene Creed still prayed at Mass today.",
+      "hint": "This is the fourth-century council that finished the Creed Nicaea started.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Constantinople (381)" }
+      ]
+    },
+    {
+      "id": "councils-l1-005",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: The First Council of Nicaea (325) is traditionally said to have been attended by around 318 bishops.",
+      "correctAnswer": true,
+      "explanation": "Tradition remembers Nicaea as gathering roughly 318 bishops from across the Church, though exact ancient headcounts are naturally imprecise.",
+      "hint": "Tradition remembers a very specific, often-repeated number for this gathering.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" }
+      ]
+    },
+    {
+      "id": "councils-l1-006",
+      "topic": "councils",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1400,
+      "prompt": "The Council of Chalcedon (451) is called the fourth ____ council, following Nicaea, Constantinople, and Ephesus.",
+      "correctAnswer": "ecumenical",
+      "explanation": "'Ecumenical' means a council representing the whole Church, not just a region -- Chalcedon was the fourth such council in the Church's first four centuries.",
+      "hint": "Count backward: Nicaea, Constantinople, Ephesus, then this one.",
+      "citations": [
+        { "type": "council", "reference": "Council of Chalcedon (451)" }
+      ]
+    },
+    {
+      "id": "councils-l2-001",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "The Second Council of Constantinople (553) was convened primarily to address lingering disputes connected to which earlier council's teaching on Christ?",
+      "choices": ["The Council of Chalcedon (451)", "The Council of Nicaea (325)", "The Council of Trent", "The First Vatican Council"],
+      "correctAnswer": "The Council of Chalcedon (451)",
+      "explanation": "A century after Chalcedon, some still found its teaching ambiguous or objectionable; Constantinople II worked to clarify and defend it against continuing controversy.",
+      "hint": "This council tried to clear up ambiguity left over from a council a century earlier.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Constantinople (553)" }
+      ]
+    },
+    {
+      "id": "councils-l2-002",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The Third Council of Constantinople (680-681) condemned Monothelitism, the teaching that Christ had only one will.",
+      "correctAnswer": true,
+      "explanation": "The council taught that Christ, having two complete natures, also has two wills -- divine and human -- working always in perfect harmony.",
+      "hint": "One will or two? This council settled the question definitively.",
+      "citations": [
+        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+      ]
+    },
+    {
+      "id": "councils-l2-003",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1780,
+      "prompt": "Together, the first six ecumenical councils (325-681) were focused above all on defending orthodox teaching about:",
+      "choices": ["The identity and natures of Christ", "The structure of the Mass", "The canon of Scripture alone", "Clerical celibacy"],
+      "correctAnswer": "The identity and natures of Christ",
+      "explanation": "From Arianism through Monothelitism, every major controversy these councils addressed came back to the same question: who is Jesus Christ, truly?",
+      "hint": "From Nicaea through Constantinople III, one question kept returning: who is Jesus?",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 465-467" }
+      ]
+    },
+    {
+      "id": "councils-l2-004",
+      "topic": "councils",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1820,
+      "prompt": "The Third Council of Constantinople affirmed that Christ has two wills, corresponding to his two ____, divine and human.",
+      "correctAnswer": "natures",
+      "explanation": "A will belongs to a nature, not a person alone -- since Christ has two complete natures, he has two wills, always united without conflict.",
+      "hint": "Two wills matching two of what, exactly?",
+      "citations": [
+        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+      ]
+    },
+    {
+      "id": "councils-l2-005",
+      "topic": "councils",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1800,
+      "prompt": "Match each council to the error it defended against.",
+      "pairs": [
+        { "left": "Council of Nicaea (325)", "right": "Arianism, which denied Christ's full divinity" },
+        { "left": "Council of Ephesus (431)", "right": "Nestorianism, which divided Christ into two persons" },
+        { "left": "Council of Chalcedon (451)", "right": "Monophysitism, which blended Christ's two natures into one" },
+        { "left": "Third Council of Constantinople (680-681)", "right": "Monothelitism, which denied Christ's human will" }
+      ],
+      "explanation": "Each council corrected a distinct way of getting Christ wrong -- too little divinity, too little unity, too little distinction, or too little humanity.",
+      "hint": "Each council answered a different wrong idea about who Christ is.",
+      "citations": [
+        { "type": "council", "reference": "Council of Chalcedon (451)" },
+        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+      ]
+    },
+    {
+      "id": "councils-l2-006",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: An ecumenical council's decisions bind the whole Church only once they are received and confirmed by the Pope.",
+      "correctAnswer": true,
+      "explanation": "Papal confirmation is part of what makes a council's teaching authoritative for the universal Church -- the bishops gathering is not sufficient on its own.",
+      "hint": "A council's authority isn't complete on its own -- it needs one more step.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 884" }
+      ]
+    },
+    {
+      "id": "councils-l3-001",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The Second Council of Nicaea (787) resolved the Byzantine Iconoclast controversy by teaching that:",
+      "choices": [
+        "Icons may be venerated because the honor given to an image passes to what it represents",
+        "All religious images must be destroyed",
+        "Only the Eucharist may ever be venerated",
+        "Icons are permitted only inside private homes"
+      ],
+      "correctAnswer": "Icons may be venerated because the honor given to an image passes to what it represents",
+      "explanation": "This council settled decades of imperial destruction of icons by teaching that venerating an image is not idolatry -- the honor passes through the image to the person it depicts.",
+      "hint": "The key idea: honoring an image honors what it shows, not the wood and paint itself.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+      ]
+    },
+    {
+      "id": "councils-l3-002",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Second Council of Lyon (1274) attempted, though only briefly, to heal the schism between the Eastern and Western Churches.",
+      "correctAnswer": true,
+      "explanation": "Lyon II achieved a formal profession of union with Byzantine representatives, but the agreement was rejected by much of the Eastern Church soon after and never took lasting root.",
+      "hint": "This 13th-century council in France tried to mend a fracture that was already two centuries old.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Lyon (1274)" }
+      ]
+    },
+    {
+      "id": "councils-l3-003",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "The Council of Florence (1439) achieved a short-lived reunion between Rome and Constantinople, but the agreement collapsed largely because of:",
+      "choices": [
+        "Rejection by many in the East after the delegates returned home",
+        "A formal condemnation issued by the Pope",
+        "The Protestant Reformation",
+        "The Council of Trent overturning it"
+      ],
+      "correctAnswer": "Rejection by many in the East after the delegates returned home",
+      "explanation": "The Greek delegates who signed the union at Florence found their agreement repudiated by much of the Byzantine clergy and laity once they returned home.",
+      "hint": "The delegates signed in Italy -- but their own people back home didn't agree.",
+      "citations": [
+        { "type": "council", "reference": "Council of Florence (1439)" }
+      ]
+    },
+    {
+      "id": "councils-l3-004",
+      "topic": "councils",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2150,
+      "prompt": "The 787 council that restored the veneration of icons in the East is known as the Second Council of ____.",
+      "correctAnswer": "Nicaea",
+      "explanation": "It shares its name with the very first ecumenical council of 325, held in the same city more than four centuries later.",
+      "hint": "The same city that hosted the very first ecumenical council, centuries later.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+      ]
+    },
+    {
+      "id": "councils-l3-005",
+      "topic": "councils",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2120,
+      "prompt": "Match each event to its role in East-West relations.",
+      "pairs": [
+        { "left": "Second Council of Nicaea (787)", "right": "Restored the veneration of icons in the East" },
+        { "left": "The Great Schism", "right": "The 1054 split between Rome and Constantinople" },
+        { "left": "Second Council of Lyon (1274)", "right": "A brief, unsuccessful attempt to reunite East and West" },
+        { "left": "Council of Florence (1439)", "right": "Another short-lived reunion, later repudiated in the East" }
+      ],
+      "explanation": "Centuries of effort, twice formalized in council, still could not produce a lasting reunion between East and West.",
+      "hint": "Two of these attempted reunion; one restored icons; one names the split itself.",
+      "citations": [
+        { "type": "council", "reference": "Second Council of Nicaea (787)" },
+        { "type": "council", "reference": "Council of Florence (1439)" }
+      ]
+    },
+    {
+      "id": "councils-l3-006",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: Despite these councils' efforts, full, lasting communion between the Catholic Church and the Eastern Orthodox Churches has not yet been restored.",
+      "correctAnswer": true,
+      "explanation": "The Second Vatican Council renewed the Catholic Church's commitment to seeking unity with the East, but the schism first formalized in 1054 remains, even as relations have warmed considerably.",
+      "hint": "Despite real efforts, this particular wound in the Church's unity remains open.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "councils-l4-001",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "The Council of Trent (1545-1563) took place over how many separate periods, interrupted by wars and political upheaval?",
+      "choices": ["Three", "One continuous session", "Five", "Ten"],
+      "correctAnswer": "Three",
+      "explanation": "Trent met in three distinct periods across nearly two decades, repeatedly interrupted before finally concluding its work in 1563.",
+      "hint": "Wars and politics kept interrupting this council across nearly two decades.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "councils-l4-002",
+      "topic": "councils",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2350,
+      "prompt": "True or False: The Council of Trent defined that justification comes through faith alone, apart from good works.",
+      "correctAnswer": false,
+      "explanation": "This is precisely what Trent rejected. It taught instead that justification comes through grace, received by faith and lived out through cooperation with that grace.",
+      "hint": "This is exactly what Trent pushed back against, not what it taught.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "councils-l4-003",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "Trent's decree on Scripture and Tradition taught that divine revelation is transmitted through:",
+      "choices": ["Both written Scripture and unwritten Tradition", "Scripture alone", "The Pope's private judgment alone", "Tradition alone, apart from Scripture"],
+      "correctAnswer": "Both written Scripture and unwritten Tradition",
+      "explanation": "Against the Reformation principle of Scripture alone, Trent taught that revelation comes to the Church through Scripture and Tradition together.",
+      "hint": "Trent insisted revelation comes through two channels, not just one.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "councils-l4-004",
+      "topic": "councils",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2450,
+      "prompt": "The Council of Trent affirmed that the Church celebrates ____ sacraments, all instituted by Christ.",
+      "correctAnswer": "seven",
+      "explanation": "Trent's decree on the sacraments defended the traditional number of seven against Reformation-era challenges that reduced them to two or three.",
+      "hint": "Count them: this is the same number the Church still teaches today.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "councils-l4-005",
+      "topic": "councils",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2430,
+      "prompt": "Match each area of Trent's work to what it decreed.",
+      "pairs": [
+        { "left": "Scripture and Tradition", "right": "Both hand on divine revelation" },
+        { "left": "Justification", "right": "Grace working through faith and good works, not faith alone" },
+        { "left": "The Sacraments", "right": "Affirmed all seven as instituted by Christ" },
+        { "left": "Seminaries", "right": "Required formal training for parish priests" }
+      ],
+      "explanation": "Trent's work spanned both doctrine, clarified against Reformation challenges, and discipline, reforming the clergy's own formation and conduct.",
+      "hint": "Two of these decrees are about doctrine; one is about worship; one is about the clergy.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "councils-l4-006",
+      "topic": "councils",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The Council of Trent's reforms were limited to doctrine and did not address the discipline or education of the clergy.",
+      "correctAnswer": false,
+      "explanation": "Trent reformed clerical life directly, mandating seminaries and addressing widespread problems like absentee bishops holding multiple dioceses at once.",
+      "hint": "Trent wasn't only about doctrine -- it also cleaned house among priests and bishops.",
+      "citations": [
+        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+      ]
+    },
+    {
+      "id": "councils-l5-001",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2650,
+      "prompt": "The First Vatican Council, which opened in 1869, was suspended the following year and never formally closed because of:",
+      "choices": [
+        "The outbreak of the Franco-Prussian War and the fall of the Papal States",
+        "A schism among the bishops present",
+        "The death of the Pope",
+        "A decision by Pope Pius IX to end it early"
+      ],
+      "correctAnswer": "The outbreak of the Franco-Prussian War and the fall of the Papal States",
+      "explanation": "Italian troops entered Rome in 1870 as the council was underway, ending the Papal States and forcing its indefinite suspension before it could complete its planned agenda.",
+      "hint": "A European war, not a Church decision, is why this council never formally closed.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council (1870)" }
+      ]
+    },
+    {
+      "id": "councils-l5-002",
+      "topic": "councils",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2600,
+      "prompt": "True or False: The Second Vatican Council (1962-1965) was the largest ecumenical council in the Church's history, measured by the number of bishops who attended.",
+      "correctAnswer": true,
+      "explanation": "Over two thousand bishops from around the world took part, drawn from a global Church far larger and more geographically spread than at any earlier council.",
+      "hint": "Over two thousand bishops came from every corner of the world for this one.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "councils-l5-003",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2680,
+      "prompt": "Pope St. John XXIII, who convened the Second Vatican Council, described its purpose using the Italian word 'aggiornamento,' meaning:",
+      "choices": ["An updating or bringing up to date", "A return to strict tradition", "A merger with other Christian bodies", "A doctrinal revolution"],
+      "correctAnswer": "An updating or bringing up to date",
+      "explanation": "John XXIII's vision of 'aggiornamento' was famously likened to opening a window to let in fresh air -- renewing the Church's engagement with the modern world without changing her doctrine.",
+      "hint": "An Italian word for opening a window and letting in fresh air.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "councils-l5-004",
+      "topic": "councils",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2720,
+      "prompt": "The Second Vatican Council was held in four separate sessions between 1962 and ____.",
+      "correctAnswer": "1965",
+      "explanation": "Unlike Vatican I, which was cut short, Vatican II completed its full planned work across four autumn sessions over three years.",
+      "hint": "Four sessions, spread across roughly three years.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "councils-l5-005",
+      "topic": "councils",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2700,
+      "prompt": "Match each fact to the correct 19th- or 20th-century council.",
+      "pairs": [
+        { "left": "First Vatican Council", "right": "Defined papal infallibility; interrupted by war in 1870" },
+        { "left": "Second Vatican Council", "right": "Convened by John XXIII to renew the Church's engagement with the world" },
+        { "left": "Aggiornamento", "right": "Italian for 'updating,' the spirit John XXIII gave the council" },
+        { "left": "Four sessions", "right": "How Vatican II was spread out, from 1962 to 1965" }
+      ],
+      "explanation": "Vatican I and Vatican II, separated by nearly a century, together bookend the modern era of the Church's councils -- one cut short, one completed in full.",
+      "hint": "One council was cut short by war; the other ran its full course over four sessions.",
+      "citations": [
+        { "type": "council", "reference": "First Vatican Council (1870)" },
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+      ]
+    },
+    {
+      "id": "councils-l5-006",
+      "topic": "councils",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: The Catholic Church counts the Second Vatican Council as its twenty-first ecumenical council, and its most recent.",
+      "correctAnswer": true,
+      "explanation": "From Nicaea in 325 to Vatican II in 1965, the Church traditionally reckons twenty-one ecumenical councils -- Vatican II remains the most recent to date.",
+      "hint": "Nicaea in 325 was the first; Vatican II, so far, is the most recent.",
+      "citations": [
+        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
       ]
     }
   ]
