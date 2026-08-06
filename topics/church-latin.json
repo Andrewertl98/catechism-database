@@ -129,12 +129,12 @@
       "level": 2,
       "type": "fill_blank",
       "difficultyElo": 1700,
-      "prompt": "'Salve Regina,' a Marian hymn traditionally sung at the end of Compline, begins by addressing Mary as 'Hail, Holy ____.'",
-      "correctAnswer": "Queen",
-      "explanation": "This ancient hymn, still sung at the close of the Church's Night Prayer, honors Mary under one of her many traditional titles, reflecting her place as Queen Mother in the kingdom of her Son.",
-      "hint": "This title reflects Mary's royal status as Mother of the King.",
+      "prompt": "The 'Magnificat,' Mary's hymn of praise prayed daily at Evening Prayer, begins 'My soul magnifies the ____.'",
+      "correctAnswer": "Lord",
+      "explanation": "Mary's canticle, prayed by the whole Church every evening in the Liturgy of the Hours, opens with these words of praise she spoke at the Visitation, greeting her cousin Elizabeth.",
+      "hint": "This is the title Scripture gives to God himself, right at the start of the line.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2677" }
+        { "type": "scripture", "reference": "Luke 1:46-55" }
       ]
     },
     {
@@ -405,12 +405,12 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 2650,
-      "prompt": "True or False: The Latin word 'sacramentum,' the root of the English word 'sacrament,' originally referred to a soldier's oath of loyalty before it took on its specifically Christian meaning.",
+      "prompt": "True or False: The word 'consubstantialem' ('consubstantial'), used in the Nicene Creed to describe the Son's relationship to the Father, was specifically adopted to refute the Arian heresy.",
       "correctAnswer": true,
-      "explanation": "Early Christian writers adopted this originally military and legal term -- a solemn, binding oath -- to describe the profound, binding reality of the sacraments as visible signs of an invisible grace.",
-      "hint": "Before it meant something sacred, this Latin word described a binding pledge of loyalty.",
+      "explanation": "The council chose this precise term -- declaring the Son 'of one substance' with the Father -- specifically to close off any Arian reading that would make the Son a lesser, created being rather than true God.",
+      "hint": "This council convened in 325 specifically to answer a priest named Arius.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1113" }
+        { "type": "council", "reference": "Council of Nicaea (325)" }
       ]
     },
     {
