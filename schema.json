@@ -119,11 +119,11 @@
             "type": "object",
             "properties": {
               "type": {
-                "enum": ["ccc", "scripture", "council", "magisterial_document"]
+                "enum": ["ccc", "scripture", "council", "magisterial_document", "catechism"]
               }
             }
           },
-          "description": "Must contain at least one citation whose type is ccc, scripture, council, or magisterial_document. A church_father citation may supplement these but can never stand alone."
+          "description": "Must contain at least one citation whose type is ccc, scripture, council, magisterial_document, or catechism. A church_father citation may supplement these but can never stand alone."
         },
         "tags": {
           "type": "array",
@@ -162,7 +162,7 @@
       "properties": {
         "type": {
           "type": "string",
-          "enum": ["ccc", "scripture", "council", "magisterial_document", "church_father"]
+          "enum": ["ccc", "scripture", "council", "magisterial_document", "church_father", "catechism"]
         },
         "reference": {
           "type": "string",
