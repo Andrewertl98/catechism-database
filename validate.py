@@ -43,7 +43,10 @@ TOPICS_DIR = REPO_ROOT / "topics"
 # Citation types considered authoritative / Magisterial-level on their own.
 # "church_father" is intentionally excluded: Church Fathers may supplement
 # a question's citations but can never be the sole source, per product policy.
-AUTHORITATIVE_CITATION_TYPES = {"ccc", "scripture", "council", "magisterial_document"}
+# "catechism" covers an approved catechism other than the CCC itself (the
+# Baltimore Catechism, e.g.) -- an officially commissioned, hierarchically
+# approved document, not one theologian's private writing, so it counts.
+AUTHORITATIVE_CITATION_TYPES = {"ccc", "scripture", "council", "magisterial_document", "catechism"}
 
 LEVELS = ["1", "2", "3", "4", "5"]
 
@@ -72,7 +75,7 @@ def check_citation_policy(question: dict, location: str, errors: list[str]) -> N
     if not any(c.get("type") in AUTHORITATIVE_CITATION_TYPES for c in citations):
         errors.append(
             f"{location}: question '{question.get('id', '?')}' has no authoritative "
-            f"Magisterial citation (ccc / scripture / council / magisterial_document). "
+            f"Magisterial citation (ccc / scripture / council / magisterial_document / catechism). "
             f"Church Fathers alone are not sufficient."
         )
 
