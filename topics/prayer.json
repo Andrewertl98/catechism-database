@@ -100,6 +100,54 @@
       ]
     },
     {
+      "id": "prayer-l1-007",
+      "topic": "prayer",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The Catechism describes prayer as a 'vital necessity' for the Christian, not merely something practiced when convenient.",
+      "correctAnswer": true,
+      "explanation": "The Catechism uses this strong phrase deliberately -- prayer isn't presented as an optional add-on for the especially devout, but as something the Christian life cannot be sustained without.",
+      "hint": "This teaching uses a strong word: not just helpful, but truly needed.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2744" }
+      ]
+    },
+    {
+      "id": "prayer-l1-008",
+      "topic": "prayer",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1100,
+      "prompt": "The most familiar of all Marian prayers, the Hail Mary, opens with the Angel Gabriel's own greeting to Mary: 'Hail, full of ____, the Lord is with thee.'",
+      "correctAnswer": "grace",
+      "explanation": "This opening line is drawn directly from the angel's greeting to Mary at the Annunciation -- the Hail Mary begins with Scripture itself before the Church's own added petition.",
+      "hint": "This is the same word the angel uses to describe what fills Mary.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:28" }
+      ]
+    },
+    {
+      "id": "prayer-l1-009",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The Catechism describes adoration, one of the forms of prayer, as chiefly:",
+      "choices": [
+        "Acknowledging that we are creatures before our Creator, apart from any request",
+        "A prayer said only by priests during Mass",
+        "The same thing as asking God for forgiveness",
+        "A posture of kneeling, and nothing more"
+      ],
+      "correctAnswer": "Acknowledging that we are creatures before our Creator, apart from any request",
+      "explanation": "Adoration comes first among the forms of prayer precisely because it asks for nothing -- it simply recognizes who God is, and who we are before him.",
+      "hint": "This form of prayer isn't about asking for anything at all.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2628" }
+      ]
+    },
+    {
       "id": "prayer-l2-001",
       "topic": "prayer",
       "level": 2,
@@ -194,6 +242,54 @@
       "citations": [
         { "type": "ccc", "reference": "CCC 2803" },
         { "type": "ccc", "reference": "CCC 2837" }
+      ]
+    },
+    {
+      "id": "prayer-l2-007",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1700,
+      "prompt": "'And lead us not into temptation' is understood by the Catechism NOT to mean that God himself:",
+      "choices": [
+        "Actively leads us into evil or tempts us to sin",
+        "Ever forgives sin",
+        "Answers any prayer at all",
+        "Loves those who are being tempted"
+      ],
+      "correctAnswer": "Actively leads us into evil or tempts us to sin",
+      "explanation": "The Catechism is careful here: this petition doesn't suggest God tempts us to sin -- Scripture itself insists God tempts no one -- but asks for the strength not to consent when trial and temptation come.",
+      "hint": "James 1:13 says plainly who does not tempt anyone to sin.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2846" }
+      ]
+    },
+    {
+      "id": "prayer-l2-008",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1730,
+      "prompt": "True or False: The word 'Amen,' which concludes the Our Father, is a word of affirmation, consenting to everything just prayed.",
+      "correctAnswer": true,
+      "explanation": "'Amen' is not a throwaway closing word -- it's an active act of consent, sealing agreement with everything the prayer just asked.",
+      "hint": "This word doesn't just end the prayer -- it agrees with it.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2856" }
+      ]
+    },
+    {
+      "id": "prayer-l2-009",
+      "topic": "prayer",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1780,
+      "prompt": "The doxology often added to the Our Father in liturgical use -- 'For thine is the kingdom, the power, and the glory, forever' -- takes up again, in praise, the prayer's first three ____.",
+      "correctAnswer": "petitions",
+      "explanation": "The doxology echoes back the prayer's opening three petitions -- God's name, kingdom, and will -- now offered as praise rather than request.",
+      "hint": "These are the same things asked for at the very start of the prayer, now offered back as praise.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2855" }
       ]
     },
     {
@@ -294,6 +390,49 @@
       ]
     },
     {
+      "id": "prayer-l3-007",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2020,
+      "prompt": "True or False: A novena traditionally consists of nine days of prayer for a specific intention, recalling the days the apostles spent in prayer awaiting Pentecost.",
+      "correctAnswer": true,
+      "explanation": "The word 'novena' comes from the Latin for 'nine' -- the practice traditionally recalls the apostles and Mary gathered in prayer between the Ascension and Pentecost.",
+      "hint": "Its name comes from the Latin word for this specific number.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 1:12-14" }
+      ]
+    },
+    {
+      "id": "prayer-l3-008",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2060,
+      "prompt": "The Stations of the Cross traditionally guide the one praying through how many scenes of Christ's Passion?",
+      "choices": ["Fourteen", "Seven", "Twelve", "Twenty"],
+      "correctAnswer": "Fourteen",
+      "explanation": "Fourteen stations trace Christ's Passion from his condemnation to his burial, most often prayed by moving physically between images or markers representing each scene.",
+      "hint": "It's the same number given for this devotion in the matching exercise on this level.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1674-1675" }
+      ]
+    },
+    {
+      "id": "prayer-l3-009",
+      "topic": "prayer",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2040,
+      "prompt": "The Hail Mary's opening line is Scripture itself; its second half -- 'pray for us sinners, now and at the hour of our ____' -- is the Church's own later addition.",
+      "correctAnswer": "death",
+      "explanation": "The prayer moves from the angel's own biblical greeting to a petition composed by the Church, asking Mary's intercession at the two poles of a Christian's life: now, and at its very end.",
+      "hint": "This petition asks for Mary's help at the final moment of earthly life.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2676-2677" }
+      ]
+    },
+    {
       "id": "prayer-l4-001",
       "topic": "prayer",
       "level": 4,
@@ -386,6 +525,49 @@
       ],
       "explanation": "Together these hours mark out the rhythm of a day consecrated to God, from its first light to its final rest.",
       "hint": "Three of these are specific named hours of the day; one is simply another name for the whole practice.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 1174" }
+      ]
+    },
+    {
+      "id": "prayer-l4-007",
+      "topic": "prayer",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2380,
+      "prompt": "Morning Prayer in the Liturgy of the Hours traditionally includes the Benedictus, the New Testament canticle proclaimed by ____ at the birth of his son John the Baptist.",
+      "correctAnswer": "Zechariah",
+      "explanation": "Zechariah's canticle of praise, given his voice back after nine months of silence, forms a fitting hymn to open each new day of prayer.",
+      "hint": "This is John the Baptist's father, whose speech returned only once he named his son.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:67-79" }
+      ]
+    },
+    {
+      "id": "prayer-l4-008",
+      "topic": "prayer",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: Evening Prayer (Vespers) in the Liturgy of the Hours traditionally includes the Magnificat, Mary's own canticle of praise.",
+      "correctAnswer": true,
+      "explanation": "Mary's Magnificat, her song of praise at the Visitation, traditionally closes the day's work in prayer at Vespers, just as Zechariah's canticle opens it at Lauds.",
+      "hint": "This is the same canticle Mary sings at her cousin Elizabeth's house.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:46-55" }
+      ]
+    },
+    {
+      "id": "prayer-l4-009",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2420,
+      "prompt": "Compline, the final hour of the Liturgy of the Hours prayed before sleep, takes its name from a Latin root meaning:",
+      "choices": ["Completion", "Beginning", "Silence", "Darkness"],
+      "correctAnswer": "Completion",
+      "explanation": "Compline completes the day's cycle of prayer, fittingly prayed right before rest -- a way of entrusting the day just finished, and the sleep about to begin, into God's hands.",
+      "hint": "This hour brings the day's prayer to a close.",
       "citations": [
         { "type": "ccc", "reference": "CCC 1174" }
       ]
@@ -490,6 +672,54 @@
       "citations": [
         { "type": "ccc", "reference": "CCC 2709" },
         { "type": "ccc", "reference": "CCC 2713" }
+      ]
+    },
+    {
+      "id": "prayer-l5-007",
+      "topic": "prayer",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2610,
+      "prompt": "Lectio Divina, an ancient method of prayerful Scripture reading, is traditionally described in four movements: reading, meditation, prayer, and ____.",
+      "correctAnswer": "contemplation",
+      "explanation": "This traditional four-step pattern -- read, reflect, respond, rest -- moves a person from studying a text toward simply resting in God's presence.",
+      "hint": "This final movement is the same word used elsewhere on this level for a wordless gaze on God.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2708" }
+      ]
+    },
+    {
+      "id": "prayer-l5-008",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2630,
+      "prompt": "True or False: The Catechism treats meditation and contemplation as simply two different names for the exact same kind of prayer, with no real distinction between them.",
+      "correctAnswer": false,
+      "explanation": "The Catechism distinguishes these as two of prayer's three great expressions -- meditation actively engages thought, imagination, and desire, while contemplation is a simpler, more receptive gaze that doesn't work the same way.",
+      "hint": "Recall the three distinct expressions of prayer named earlier: vocal, meditative, and contemplative.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2699" }
+      ]
+    },
+    {
+      "id": "prayer-l5-009",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2650,
+      "prompt": "Meditation, as the Catechism describes it, especially engages:",
+      "choices": [
+        "Thought, imagination, emotion, and desire, working together toward union with God's will",
+        "Only the intellect, with no place for imagination or emotion",
+        "The body alone, through posture and gesture",
+        "Other people, rather than God directly"
+      ],
+      "correctAnswer": "Thought, imagination, emotion, and desire, working together toward union with God's will",
+      "explanation": "Meditation is active and engaged -- it puts the whole person's faculties to work reflecting on God's word or truth, aiming to deepen faith and conform the will to Christ's.",
+      "hint": "This form of prayer puts several different faculties of the person to work together.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2708" }
       ]
     }
   ]
