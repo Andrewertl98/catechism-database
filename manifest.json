@@ -1,28 +1,200 @@
 {
-  "databaseVersion": "0.1.0",
-  "schemaVersion": "1.0.0",
-  "lastUpdated": "2026-07-30",
-  "description": "FIDES catechism content database -- the question bank behind the FIDES iOS app. Every question carries at least one authoritative Magisterial citation (CCC paragraph, Scripture, Council text, or magisterial document); Church Fathers alone are never sufficient.",
-  "citationPolicy": "Every question must carry at least one citation of type ccc, scripture, council, or magisterial_document. A church_father citation may supplement these but can never stand alone. Enforced by schema.json ('contains') and re-checked by validate.py.",
-  "topics": [
-    { "slug": "church-history", "name": "Church History", "file": "topics/church-history.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "church-fathers", "name": "Church Fathers", "file": "topics/church-fathers.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "saints", "name": "Saints", "file": "topics/saints.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "dogmas-and-doctrine", "name": "Dogmas and Doctrine", "file": "topics/dogmas-and-doctrine.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "councils", "name": "Councils", "file": "topics/councils.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "heresies", "name": "Heresies", "file": "topics/heresies.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "metaphysics", "name": "Metaphysics", "file": "topics/metaphysics.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "apologetics", "name": "Apologetics", "file": "topics/apologetics.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "liturgy-and-mass", "name": "Liturgy and Mass", "file": "topics/liturgy-and-mass.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "sacred-scripture", "name": "Sacred Scripture", "file": "topics/sacred-scripture.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "answering-objections", "name": "Answering Objections", "file": "topics/answering-objections.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "prayer", "name": "Prayer", "file": "topics/prayer.json", "levels": 5, "questionCounts": { "1": 9, "2": 9, "3": 9, "4": 9, "5": 9 } },
-    { "slug": "church-latin", "name": "Church Latin", "file": "topics/church-latin.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } },
-    { "slug": "virtues-and-vices", "name": "Virtues and Vices", "file": "topics/virtues-and-vices.json", "levels": 5, "questionCounts": { "1": 6, "2": 6, "3": 6, "4": 6, "5": 6 } }
+  "auditedQuestionIDs" : [
+
   ],
-  "totals": {
-    "topics": 14,
-    "levelsPerTopic": 5,
-    "questions": 435
+  "auditSignature" : "v\/SjKkiPUV2Ri7VRZ5R23DlejNMo+vyErQUALyqxLGZmO\/PQbmG3sZm0FGYulTO6Oi2xHWHZJqnjEm1n3uYZAw==",
+  "citationPolicy" : "Every question must carry at least one citation of type ccc, scripture, council, or magisterial_document. A church_father citation may supplement these but can never stand alone. Enforced by schema.json ('contains') and re-checked by validate.py.",
+  "databaseVersion" : "0.1.0",
+  "description" : "FIDES catechism content database -- the question bank behind the FIDES iOS app. Every question carries at least one authoritative Magisterial citation (CCC paragraph, Scripture, Council text, or magisterial document); Church Fathers alone are never sufficient.",
+  "lastUpdated" : "2026-07-30",
+  "schemaVersion" : "1.0.0",
+  "topics" : [
+    {
+      "file" : "topics\/church-history.json",
+      "levels" : 5,
+      "name" : "Church History",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "church-history"
+    },
+    {
+      "file" : "topics\/church-fathers.json",
+      "levels" : 5,
+      "name" : "Church Fathers",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "church-fathers"
+    },
+    {
+      "file" : "topics\/saints.json",
+      "levels" : 5,
+      "name" : "Saints",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "saints"
+    },
+    {
+      "file" : "topics\/dogmas-and-doctrine.json",
+      "levels" : 5,
+      "name" : "Dogmas and Doctrine",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "dogmas-and-doctrine"
+    },
+    {
+      "file" : "topics\/councils.json",
+      "levels" : 5,
+      "name" : "Councils",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "councils"
+    },
+    {
+      "file" : "topics\/heresies.json",
+      "levels" : 5,
+      "name" : "Heresies",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "heresies"
+    },
+    {
+      "file" : "topics\/metaphysics.json",
+      "levels" : 5,
+      "name" : "Metaphysics",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "metaphysics"
+    },
+    {
+      "file" : "topics\/apologetics.json",
+      "levels" : 5,
+      "name" : "Apologetics",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "apologetics"
+    },
+    {
+      "file" : "topics\/liturgy-and-mass.json",
+      "levels" : 5,
+      "name" : "Liturgy and Mass",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "liturgy-and-mass"
+    },
+    {
+      "file" : "topics\/sacred-scripture.json",
+      "levels" : 5,
+      "name" : "Sacred Scripture",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "sacred-scripture"
+    },
+    {
+      "file" : "topics\/answering-objections.json",
+      "levels" : 5,
+      "name" : "Answering Objections",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "answering-objections"
+    },
+    {
+      "file" : "topics\/prayer.json",
+      "levels" : 5,
+      "name" : "Prayer",
+      "questionCounts" : {
+        "1" : 9,
+        "2" : 9,
+        "3" : 9,
+        "4" : 9,
+        "5" : 9
+      },
+      "slug" : "prayer"
+    },
+    {
+      "file" : "topics\/church-latin.json",
+      "levels" : 5,
+      "name" : "Church Latin",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "church-latin"
+    },
+    {
+      "file" : "topics\/virtues-and-vices.json",
+      "levels" : 5,
+      "name" : "Virtues and Vices",
+      "questionCounts" : {
+        "1" : 6,
+        "2" : 6,
+        "3" : 6,
+        "4" : 6,
+        "5" : 6
+      },
+      "slug" : "virtues-and-vices"
+    }
+  ],
+  "totals" : {
+    "levelsPerTopic" : 5,
+    "questions" : 435,
+    "topics" : 14
   }
 }
