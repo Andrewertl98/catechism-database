@@ -172,6 +172,11 @@
         "note": {
           "type": "string",
           "description": "Optional short clarifying note about the citation."
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Optional excerpt of the actual source text this citation points to -- a short, specific passage (e.g. the one sentence of CCC 253 that's relevant), not the full paragraph or chapter. Added Aug 12, 2026; most existing citations don't have one yet."
         }
       }
     }
