@@ -8,13 +8,24 @@
       "type": "multiple_choice",
       "difficultyElo": 900,
       "prompt": "According to the Gospel of Matthew, what name did Jesus give to Simon, declaring him the 'rock' on which he would build his Church?",
-      "choices": ["Peter", "Andrew", "James", "Bartholomew"],
+      "choices": [
+        "Peter",
+        "Andrew",
+        "James",
+        "Bartholomew"
+      ],
       "correctAnswer": "Peter",
       "explanation": "Jesus renamed Simon 'Peter' (from the word for 'rock') and gave him the keys of the kingdom -- a foundational moment for the papacy that the Church continues to teach today.",
       "hint": "Names in the Gospels carry meaning -- this one means 'rock' in Greek.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 16:18-19" },
-        { "type": "ccc", "reference": "CCC 881" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 16:18-19"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 881"
+        }
       ]
     },
     {
@@ -28,7 +39,10 @@
       "explanation": "The Church teaches the opposite: the apostles left bishops as their successors so that 'the full and living Gospel might always be preserved' -- a doctrine known as apostolic succession.",
       "hint": "The Church's actual teaching runs directly opposite to what this statement claims.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 77" }
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        }
       ]
     },
     {
@@ -38,13 +52,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1000,
       "prompt": "The Acts of the Apostles describes the very first Christian community in Jerusalem as devoting themselves to the apostles' teaching, fellowship, and the breaking of the bread, along with which fourth practice?",
-      "choices": ["The prayers", "Fasting alone", "Public debate", "Almsgiving alone"],
+      "choices": [
+        "The prayers",
+        "Fasting alone",
+        "Public debate",
+        "Almsgiving alone"
+      ],
       "correctAnswer": "The prayers",
       "explanation": "Acts 2:42 gives this fourfold pattern -- teaching, fellowship, the breaking of the bread, and prayer -- which the Catechism points to as a model of Christian communal life from the Church's earliest days.",
       "hint": "It's the fourth item Acts 2:42 lists, right after 'the breaking of the bread.'",
       "citations": [
-        { "type": "scripture", "reference": "Acts 2:42" },
-        { "type": "ccc", "reference": "CCC 949" }
+        {
+          "type": "scripture",
+          "reference": "Acts 2:42"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 949"
+        }
       ]
     },
     {
@@ -55,15 +80,30 @@
       "difficultyElo": 890,
       "prompt": "Match each New Testament letter to the church its opening verses say it was written to.",
       "pairs": [
-        { "left": "Romans", "right": "The church in Rome" },
-        { "left": "1 Corinthians", "right": "The church in Corinth" },
-        { "left": "Ephesians", "right": "The church in Ephesus" },
-        { "left": "Philippians", "right": "The church in Philippi" }
+        {
+          "left": "Romans",
+          "right": "The church in Rome"
+        },
+        {
+          "left": "1 Corinthians",
+          "right": "The church in Corinth"
+        },
+        {
+          "left": "Ephesians",
+          "right": "The church in Ephesus"
+        },
+        {
+          "left": "Philippians",
+          "right": "The church in Philippi"
+        }
       ],
       "explanation": "Paul's letters are addressed to real, named local churches he founded or hoped to visit -- the New Testament grew out of pastoral correspondence to specific communities, not abstract treatises.",
       "hint": "Each letter's very first verse names the city it's addressed to.",
       "citations": [
-        { "type": "scripture", "reference": "Romans 1:7; 1 Corinthians 1:2; Ephesians 1:1; Philippians 1:1" }
+        {
+          "type": "scripture",
+          "reference": "Romans 1:7; 1 Corinthians 1:2; Ephesians 1:1; Philippians 1:1"
+        }
       ]
     },
     {
@@ -77,7 +117,10 @@
       "explanation": "This promise of binding and loosing, given to Peter and later to the apostles as a group, is the scriptural root of the Church's teaching authority passed down through apostolic succession.",
       "hint": "It completes the same phrase Jesus already used about binding and loosing.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 16:19" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 16:19"
+        }
       ]
     },
     {
@@ -91,7 +134,10 @@
       "explanation": "Paul was not one of the Twelve. He was a persecutor of the Church who was called by the risen Christ on the road to Damascus, years after Jesus' ascension.",
       "hint": "This apostle wasn't called until after the Ascension, on a road trip that went dramatically wrong.",
       "citations": [
-        { "type": "scripture", "reference": "Acts 9:1-19" }
+        {
+          "type": "scripture",
+          "reference": "Acts 9:1-19"
+        }
       ]
     },
     {
@@ -111,7 +157,10 @@
       "explanation": "The Church has always honored martyrdom as the greatest act of witness a Christian can offer, enduring death itself rather than deny Christ.",
       "hint": "Think about what a martyr's death communicates to everyone watching.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2473" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
       ]
     },
     {
@@ -125,7 +174,10 @@
       "explanation": "Jesus warned his disciples plainly that following him would provoke the same hostility he himself faced from the world.",
       "hint": "Jesus draws a direct line from what happened to him to what would happen to his followers.",
       "citations": [
-        { "type": "scripture", "reference": "John 15:20" }
+        {
+          "type": "scripture",
+          "reference": "John 15:20"
+        }
       ]
     },
     {
@@ -135,12 +187,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1263,
       "prompt": "Early Christian writers such as St. Justin Martyr, who wrote reasoned defenses of the faith to Roman authorities and pagan critics in the 2nd century, are known to history by what name?",
-      "choices": ["Apologists", "Evangelists", "Patriarchs", "Missionaries"],
+      "choices": [
+        "Apologists",
+        "Evangelists",
+        "Patriarchs",
+        "Missionaries"
+      ],
       "correctAnswer": "Apologists",
       "explanation": "Scripture itself commands believers to be ready to explain and defend the faith with reason -- the very task these early writers took up against a hostile empire.",
       "hint": "The Greek word for their work, 'apologia,' gives English the name for this whole group.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -154,7 +214,10 @@
       "explanation": "The word comes from the Greek 'apologia,' meaning a reasoned defense -- exactly what Scripture calls every believer to be ready to give.",
       "hint": "It's the same kind of writer as the previous question -- just asked here as a fill-in.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -165,15 +228,30 @@
       "difficultyElo": 1303,
       "prompt": "Match each term from the age of the martyrs to its meaning.",
       "pairs": [
-        { "left": "Martyr", "right": "One who dies bearing witness to the faith" },
-        { "left": "Apologist", "right": "One who defends the faith with reasoned argument" },
-        { "left": "Catechumen", "right": "One preparing for baptism through instruction" },
-        { "left": "Persecution", "right": "Hostile action against believers for their faith" }
+        {
+          "left": "Martyr",
+          "right": "One who dies bearing witness to the faith"
+        },
+        {
+          "left": "Apologist",
+          "right": "One who defends the faith with reasoned argument"
+        },
+        {
+          "left": "Catechumen",
+          "right": "One preparing for baptism through instruction"
+        },
+        {
+          "left": "Persecution",
+          "right": "Hostile action against believers for their faith"
+        }
       ],
       "explanation": "These four terms describe the lived reality of the early Church: a community that taught new believers, defended itself with reason, and often paid for its witness with blood.",
       "hint": "Four terms describing four different roles or experiences in the early Church's life.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2473" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
       ]
     },
     {
@@ -183,12 +261,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1263,
       "prompt": "According to the Acts of the Apostles, who was the first Christian martyr, stoned to death after testifying about Jesus before the Sanhedrin?",
-      "choices": ["Stephen", "James", "Peter", "Paul"],
+      "choices": [
+        "Stephen",
+        "James",
+        "Peter",
+        "Paul"
+      ],
       "correctAnswer": "Stephen",
       "explanation": "Stephen, one of the first seven deacons, was stoned for proclaiming Christ -- his death opens the age of martyrdom that would mark the Church's first three centuries.",
       "hint": "He was one of the first seven deacons, chosen to serve the community's daily needs.",
       "citations": [
-        { "type": "scripture", "reference": "Acts 7:54-60" }
+        {
+          "type": "scripture",
+          "reference": "Acts 7:54-60"
+        }
       ]
     },
     {
@@ -208,7 +294,10 @@
       "explanation": "Arius taught that the Son was a created being, not truly God. Nicaea gathered bishops from across the Church to condemn this teaching and affirm Christ's full divinity.",
       "hint": "This heresy denied Christ was fully God -- answering it was Nicaea's whole purpose.",
       "citations": [
-        { "type": "council", "reference": "First Council of Nicaea (325)" }
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
       ]
     },
     {
@@ -222,7 +311,10 @@
       "explanation": "'Consubstantial' translates the Greek 'homoousios' -- of the same substance -- the precise word Nicaea chose to rule out any reading of Christ as a lesser, created being.",
       "hint": "This word is the English translation of the Greek 'homoousios.'",
       "citations": [
-        { "type": "council", "reference": "First Council of Nicaea (325)" }
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
       ]
     },
     {
@@ -236,7 +328,10 @@
       "explanation": "Nicaea produced an earlier, shorter creed focused on the Son's divinity. The fuller text prayed today, including the extended article on the Holy Spirit, was completed at the First Council of Constantinople in 381.",
       "hint": "A later council, decades after Nicaea, finished the Creed's article on the Holy Spirit.",
       "citations": [
-        { "type": "council", "reference": "First Council of Constantinople (381)" }
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)"
+        }
       ]
     },
     {
@@ -246,13 +341,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1675,
       "prompt": "St. Augustine of Hippo famously wrote that the human heart remains restless until it rests in whom?",
-      "choices": ["God", "the Church hierarchy", "philosophical wisdom", "the Roman Empire"],
+      "choices": [
+        "God",
+        "the Church hierarchy",
+        "philosophical wisdom",
+        "the Roman Empire"
+      ],
       "correctAnswer": "God",
       "explanation": "Augustine's line from his Confessions -- that the heart is restless until it rests in God -- captures a truth the Church still teaches: only God can satisfy the deepest human longing.",
       "hint": "This is one of the most quoted lines from Augustine's own spiritual autobiography.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 30" },
-        { "type": "church_father", "reference": "St. Augustine of Hippo, Confessions" }
+        {
+          "type": "ccc",
+          "reference": "CCC 30"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions"
+        }
       ]
     },
     {
@@ -263,15 +369,30 @@
       "difficultyElo": 1715,
       "prompt": "Match each early Ecumenical Council to the doctrine it defined.",
       "pairs": [
-        { "left": "Nicaea (325)", "right": "Condemned Arianism and affirmed Christ's full divinity" },
-        { "left": "Constantinople (381)", "right": "Affirmed the divinity of the Holy Spirit" },
-        { "left": "Ephesus (431)", "right": "Declared Mary the Theotokos, Mother of God" },
-        { "left": "Chalcedon (451)", "right": "Defined Christ's two natures, divine and human, in one person" }
+        {
+          "left": "Nicaea (325)",
+          "right": "Condemned Arianism and affirmed Christ's full divinity"
+        },
+        {
+          "left": "Constantinople (381)",
+          "right": "Affirmed the divinity of the Holy Spirit"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Declared Mary the Theotokos, Mother of God"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "Defined Christ's two natures, divine and human, in one person"
+        }
       ],
       "explanation": "These four councils, across just over a century, settled the Church's core teaching on who Christ is and who the Spirit is -- doctrine every Christian still professes in the Creed.",
       "hint": "Each council's title already names a city -- match it to what it clarified about Christ or the Spirit.",
       "citations": [
-        { "type": "council", "reference": "Nicaea (325); Constantinople (381); Ephesus (431); Chalcedon (451)" }
+        {
+          "type": "council",
+          "reference": "Nicaea (325); Constantinople (381); Ephesus (431); Chalcedon (451)"
+        }
       ]
     },
     {
@@ -285,7 +406,10 @@
       "explanation": "This is the hypostatic union: one divine Person, Jesus Christ, possessing two complete natures without confusion or division.",
       "hint": "This is the same word used for an individual human being, not a nature.",
       "citations": [
-        { "type": "council", "reference": "Council of Chalcedon (451)" }
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
       ]
     },
     {
@@ -305,7 +429,10 @@
       "explanation": "Trent clarified Catholic doctrine on Scripture, grace, and the sacraments against Reformation-era challenges, while also reforming clerical discipline and education.",
       "hint": "This 16th-century movement, started by Luther, is what Trent was responding to.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
       ]
     },
     {
@@ -319,7 +446,10 @@
       "explanation": "Against the Reformation principle of Scripture alone, Trent taught that revelation comes to the Church through both Scripture and Tradition together.",
       "hint": "Trent rejected the Reformation idea that revelation flows through only one of these two sources.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
       ]
     },
     {
@@ -329,12 +459,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2088,
       "prompt": "Which 13th-century theologian's philosophy was later commended by Pope Leo XIII as a model for Catholic teaching?",
-      "choices": ["St. Thomas Aquinas", "St. Augustine", "St. Anselm", "St. Bonaventure"],
+      "choices": [
+        "St. Thomas Aquinas",
+        "St. Augustine",
+        "St. Anselm",
+        "St. Bonaventure"
+      ],
       "correctAnswer": "St. Thomas Aquinas",
       "explanation": "Leo XIII's 1879 encyclical Aeterni Patris held up Aquinas's synthesis of faith and reason as a lasting model for Catholic philosophy and theology.",
       "hint": "His massive theological synthesis is still studied in seminaries today.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        }
       ]
     },
     {
@@ -348,7 +486,10 @@
       "explanation": "The Summa Theologiae remains one of the most influential works of Catholic theology, systematically working through the whole of Christian doctrine.",
       "hint": "It's the same theologian named in the previous question's encyclical.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        }
       ]
     },
     {
@@ -359,15 +500,30 @@
       "difficultyElo": 2128,
       "prompt": "Match each figure of the Catholic Reformation to their contribution.",
       "pairs": [
-        { "left": "Council of Trent", "right": "Clarified doctrine and reformed clergy in response to the Reformation" },
-        { "left": "St. Ignatius of Loyola", "right": "Founded the Society of Jesus to renew the Church" },
-        { "left": "St. Teresa of Ávila", "right": "Reformed the Carmelite order and wrote on mystical prayer" },
-        { "left": "St. Charles Borromeo", "right": "Implemented Trent's reforms as Archbishop of Milan" }
+        {
+          "left": "Council of Trent",
+          "right": "Clarified doctrine and reformed clergy in response to the Reformation"
+        },
+        {
+          "left": "St. Ignatius of Loyola",
+          "right": "Founded the Society of Jesus to renew the Church"
+        },
+        {
+          "left": "St. Teresa of Ávila",
+          "right": "Reformed the Carmelite order and wrote on mystical prayer"
+        },
+        {
+          "left": "St. Charles Borromeo",
+          "right": "Implemented Trent's reforms as Archbishop of Milan"
+        }
       ],
       "explanation": "The Catholic Reformation was not only a response to Protestant challenges but a genuine renewal of holiness and discipline within the Church herself.",
       "hint": "One founded a religious order, one reformed Carmelite life, one implemented reforms as an archbishop.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
       ]
     },
     {
@@ -381,7 +537,10 @@
       "explanation": "Trent's reforms directly addressed widespread clerical ignorance and laxity by mandating formal seminary training for future priests.",
       "hint": "Poorly trained clergy was a major problem Trent set out to fix through formal training.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
       ]
     },
     {
@@ -391,12 +550,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2500,
       "prompt": "The Second Vatican Council (1962-1965) is best known for addressing the Church's relationship to what?",
-      "choices": ["The modern world", "The Byzantine Empire", "The Investiture Controversy", "The Avignon Papacy"],
+      "choices": [
+        "The modern world",
+        "The Byzantine Empire",
+        "The Investiture Controversy",
+        "The Avignon Papacy"
+      ],
       "correctAnswer": "The modern world",
       "explanation": "Vatican II's document Gaudium et Spes, 'The Church in the Modern World,' reflects the council's broader effort to engage contemporary culture, science, and society.",
       "hint": "One of Vatican II's key documents is literally titled 'The Church in the Modern World.'",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
       ]
     },
     {
@@ -410,7 +577,10 @@
       "explanation": "Vatican I taught that the Pope, under specific conditions, is preserved from error when he solemnly defines a doctrine of faith or morals for the whole Church.",
       "hint": "This is the same council, and the same doctrine, referenced elsewhere in this question bank.",
       "citations": [
-        { "type": "council", "reference": "First Vatican Council (1870)" }
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
       ]
     },
     {
@@ -424,7 +594,10 @@
       "explanation": "'Ex cathedra' -- 'from the chair' -- names the specific, solemn conditions under which papal infallibility applies; it is not a claim of infallibility in everything a pope says.",
       "hint": "It's a Latin phrase meaning 'from the chair.'",
       "citations": [
-        { "type": "council", "reference": "First Vatican Council (1870)" }
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
       ]
     },
     {
@@ -444,7 +617,10 @@
       "explanation": "Rerum Novarum addressed the rights and dignity of workers amid industrialization, launching a long tradition of papal teaching on economic and social justice.",
       "hint": "This 1891 document addressed workers' rights amid industrialization.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Leo XIII, Rerum Novarum (1891)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Rerum Novarum (1891)"
+        }
       ]
     },
     {
@@ -455,15 +631,30 @@
       "difficultyElo": 2540,
       "prompt": "Match each major document of the Second Vatican Council to its central theme.",
       "pairs": [
-        { "left": "Lumen Gentium", "right": "The Church as the People of God" },
-        { "left": "Dei Verbum", "right": "Divine revelation, Scripture and Tradition" },
-        { "left": "Gaudium et Spes", "right": "The Church in the modern world" },
-        { "left": "Nostra Aetate", "right": "Relations with non-Christian religions" }
+        {
+          "left": "Lumen Gentium",
+          "right": "The Church as the People of God"
+        },
+        {
+          "left": "Dei Verbum",
+          "right": "Divine revelation, Scripture and Tradition"
+        },
+        {
+          "left": "Gaudium et Spes",
+          "right": "The Church in the modern world"
+        },
+        {
+          "left": "Nostra Aetate",
+          "right": "Relations with non-Christian religions"
+        }
       ],
       "explanation": "These four documents are among Vatican II's most significant, reshaping how the Church understands herself, revelation, the modern world, and other faiths.",
       "hint": "Match each Latin title to the theme its opening words introduce.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
       ]
     },
     {
@@ -477,7 +668,141 @@
       "explanation": "Nostra Aetate's teaching calls Catholics to recognize and respect what is true and good in other religions, while still holding that the fullness of revelation is found in Christ.",
       "hint": "This is the same conciliar document already covered in a matching-pairs question just above.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-001",
+      "topic": "church-history",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Pope Clement XI's 1713 bull Unigenitus condemned 101 propositions drawn from the writings of Pasquier Quesnel. Which movement's rigorist teaching on grace and free will did these propositions represent?",
+      "choices": [
+        "Jansenism",
+        "Pelagianism",
+        "Quietism",
+        "Modernism"
+      ],
+      "correctAnswer": "Jansenism",
+      "explanation": "Jansenism held that grace acts on the will in a way that leaves no real freedom to resist it, effectively denying that a person can freely cooperate with or reject grace. Unigenitus condemned this rigorist account as incompatible with the Church's teaching on grace and human freedom.",
+      "hint": "This movement takes its name from a 17th-century Flemish bishop who wrote a massive treatise on St. Augustine.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-002",
+      "topic": "church-history",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: In Ex Illa Die (1715), Pope Clement XI approved the Jesuit practice of allowing Chinese Catholics to continue traditional rites honoring Confucius and their ancestors, judging them compatible with the Catholic faith.",
+      "correctAnswer": false,
+      "explanation": "Ex Illa Die did the opposite: it upheld the earlier condemnation of the Chinese Rites, ruling that the ancestral and Confucian ceremonies could not be permitted for Catholics -- a decision that effectively ended the missionary accommodation method begun by Matteo Ricci.",
+      "hint": "The pope's ruling ended, rather than approved, this contested missionary practice.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex Illa Die (1715)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-003",
+      "topic": "church-history",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1827,
+      "prompt": "Matteo Ricci's missionary method in China -- permitting converts to retain certain ancestral and civil ceremonies as culturally rather than religiously binding -- became known to history as the policy of ____.",
+      "correctAnswer": "accommodation",
+      "explanation": "Ricci's method of 'accommodation' tried to distinguish civil and ancestral customs from strictly religious worship, arguing the former could remain compatible with Catholic faith. This same policy was reversed by Ex Illa Die in 1715.",
+      "hint": "The same word describes adapting an approach to fit a new situation.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex Illa Die (1715)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-004",
+      "topic": "church-history",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "In Dominus ac Redemptor (1773), Pope Clement XIV suppressed which religious order worldwide, under intense political pressure from the Bourbon courts of France, Spain, and Portugal?",
+      "choices": [
+        "The Society of Jesus (the Jesuits)",
+        "The Dominicans",
+        "The Franciscans",
+        "The Oratorians"
+      ],
+      "correctAnswer": "The Society of Jesus (the Jesuits)",
+      "explanation": "Dominus ac Redemptor suppressed the Jesuits worldwide, citing a need for peace in the Church, though the real pressure came from Bourbon monarchs hostile to the order's independence and influence. The order survived in Russia, where Catherine the Great declined to publish the brief, and was fully restored in 1814.",
+      "hint": "This order's own missionary, mentioned above, tried the 'accommodation' method in China.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-005",
+      "topic": "church-history",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: The Jesuit reducciones in Paraguay were self-governing mission settlements where Guaraní communities lived under Jesuit spiritual guidance, offering some protection from colonial slave-raiding and forced-labor systems.",
+      "correctAnswer": true,
+      "explanation": "The reducciones combined evangelization with a real degree of protection from Portuguese slave-raiders (bandeirantes) and the Spanish colonial encomienda system -- a structure notable enough that it drew both admiration and colonial-power suspicion, among the tensions that contributed to pressure for the Jesuits' later suppression.",
+      "hint": "This is one of the reasons colonial powers grew suspicious of Jesuit independence.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-006",
+      "topic": "church-history",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each 18th-century document to what it actually did.",
+      "pairs": [
+        {
+          "left": "Unigenitus (1713)",
+          "right": "Condemned Jansenist propositions on grace"
+        },
+        {
+          "left": "Ex Illa Die (1715)",
+          "right": "Ended the Chinese Rites accommodation"
+        },
+        {
+          "left": "Dominus ac Redemptor (1773)",
+          "right": "Suppressed the Society of Jesus"
+        },
+        {
+          "left": "The Gallican Articles (1682)",
+          "right": "Asserted a council's authority over the Pope"
+        }
+      ],
+      "explanation": "This period's central tension -- Rome's authority tested by rigorist theology, mission strategy, and monarchist politics all at once -- runs through all four documents.",
+      "hint": "Two of these are Clement XI's, one is Clement XIV's, and one predates them both.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
       ]
     }
   ]
