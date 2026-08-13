@@ -804,6 +804,584 @@
           "reference": "First Vatican Council (1870)"
         }
       ]
+    },
+    {
+      "id": "church-history-l7-001",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "According to Pastor Aeternus (1870), which of the following is NOT one of the conditions required for a papal teaching to count as an infallible ex cathedra act?",
+      "choices": [
+        "That it be issued after consultation with an ecumenical council currently in session",
+        "That the Pope speak in his office as shepherd and teacher of all Christians",
+        "That he define a doctrine concerning faith or morals",
+        "That he intend the definition to be held by the whole Church"
+      ],
+      "correctAnswer": "That it be issued after consultation with an ecumenical council currently in session",
+      "explanation": "Pastor Aeternus defines the conditions for an ex cathedra act: the Pope speaking in his supreme office as shepherd and teacher of all Christians, by his supreme apostolic authority, defining a doctrine of faith or morals, intending it be held by the whole Church. No council needs to be in session -- his authority to do this is independent of conciliar consultation, exactly what Vatican I was defining against Gallican claims.",
+      "hint": "This is the same kind of conciliar dependency Gallicanism wanted and Vatican I rejected.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-002",
+      "topic": "church-history",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: Blessed Pope Pius IX's Syllabus of Errors (1864) listing the proposition that the Pope should 'reconcile himself to progress, liberalism, and modern civilization' among the condemned errors means the document is properly read as an outright condemnation of democratic government as such.",
+      "correctAnswer": false,
+      "explanation": "The Syllabus does list that proposition (no. 80) -- but read in its actual context, its target was the ideological claim that the Church must subordinate her teaching to whatever 'modern civilization' currently holds, not democratic government or civil liberty as such. Later magisterial teaching, especially from Leo XIII onward, engaged constructively with modern political forms while keeping this same caution against doctrinal subordination.",
+      "hint": "The Syllabus targets a philosophical claim about the Church's independence, not a specific form of government.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Syllabus of Errors (1864), no. 80"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-003",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "In Testem Benevolentiae Nostrae (1899), Pope Leo XIII warned American bishops against a tendency, nicknamed 'Americanism,' to do what?",
+      "choices": [
+        "Adapt Church teaching itself, not just missionary methods, to supposedly fit modern democratic culture",
+        "Establish parishes using English rather than Latin in the liturgy",
+        "Allow lay Catholics to vote in United States elections",
+        "Send American missionaries to evangelize Europe"
+      ],
+      "correctAnswer": "Adapt Church teaching itself, not just missionary methods, to supposedly fit modern democratic culture",
+      "explanation": "Leo XIII's concern was a confusion between prudent missionary adaptation -- always allowed -- and altering the deposit of faith itself to seem more compatible with individualism and liberty, which the Church cannot do. Several American bishops the letter was addressed to denied the tendency existed among them in that extreme form.",
+      "hint": "The document distinguishes adapting how the faith is presented from adapting the faith's actual content.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Testem Benevolentiae Nostrae (1899)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-004",
+      "topic": "church-history",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 2010,
+      "prompt": "Pope Leo XIII's 1891 encyclical Rerum Novarum, responding to industrial-age labor conditions, defended workers' right to form ____ while also upholding the right to private property against socialist collectivism.",
+      "correctAnswer": "unions",
+      "explanation": "Rerum Novarum defended workers' right to organize into associations -- what we would call unions today -- to negotiate just conditions, while rejecting socialism's abolition of private property, charting a course that became the foundation of Catholic social teaching.",
+      "hint": "This is the same kind of worker organization the encyclical defended against employers who wanted to forbid it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Rerum Novarum (1891)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-005",
+      "topic": "church-history",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: When the Kingdom of Italy annexed Rome in 1870, ending the Papal States, Pope Pius IX voluntarily transferred temporal governance to the new Italian government in exchange for guaranteed religious liberty.",
+      "correctAnswer": false,
+      "explanation": "Pius IX transferred nothing voluntarily -- Italian troops took Rome by force in September 1870, and the Pope refused to recognize the seizure, considering himself a 'prisoner in the Vatican.' The dispute, called the Roman Question, was not resolved until the Lateran Treaty of 1929 established Vatican City as a sovereign state.",
+      "hint": "This loss came by force, not agreement -- that's why it stayed an open 'question' for nearly 60 years.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Lateran Treaty (1929)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-006",
+      "topic": "church-history",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each 19th-century document to what it actually did.",
+      "pairs": [
+        {
+          "left": "The Syllabus of Errors (1864)",
+          "right": "Condemned propositions of religious liberalism"
+        },
+        {
+          "left": "Pastor Aeternus (1870)",
+          "right": "Defined the conditions for papal infallibility"
+        },
+        {
+          "left": "Rerum Novarum (1891)",
+          "right": "Defended workers organizing while rejecting socialism"
+        },
+        {
+          "left": "Testem Benevolentiae Nostrae (1899)",
+          "right": "Warned against doctrinal accommodation nicknamed 'Americanism'"
+        }
+      ],
+      "explanation": "This period runs through a single question: how does the Church's unchanging teaching engage a rapidly modernizing, increasingly democratic world -- defining her own authority more precisely, correcting ideological overreach, and offering a constructive alternative to both unchecked capitalism and socialism.",
+      "hint": "Two of these are from Pius IX's pontificate, two from Leo XIII's.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Rerum Novarum (1891)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-001",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Pope Pius XI's 1937 encyclical Mit Brennender Sorge -- smuggled into Germany and read from pulpits before the Gestapo could react -- specifically condemned which ideology?",
+      "choices": [
+        "Nazi racial neo-paganism",
+        "Dialectical materialism",
+        "Liberal secularism",
+        "Anglican modernism"
+      ],
+      "correctAnswer": "Nazi racial neo-paganism",
+      "explanation": "Mit Brennender Sorge condemned the Nazi regime's racial ideology and its attempt to subordinate the Church to the state, defending the natural moral law and human dignity against 'neo-paganism.' Written in German, not the usual Latin, specifically so ordinary German Catholics could understand it directly.",
+      "hint": "This is different from the second encyclical Pius XI issued just days later, targeting a different totalitarian ideology entirely.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, Mit Brennender Sorge (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-002",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Issued only five days after Mit Brennender Sorge in March 1937, Pope Pius XI's encyclical Divini Redemptoris condemned which ideology as 'intrinsically wrong'?",
+      "choices": [
+        "Communism (dialectical and historical materialism)",
+        "Nazi racial ideology",
+        "Capitalist individualism",
+        "Religious indifferentism"
+      ],
+      "correctAnswer": "Communism (dialectical and historical materialism)",
+      "explanation": "Divini Redemptoris condemned communism's denial of the human person's spiritual nature and its promise of a purely material paradise achieved through class struggle, calling it 'intrinsically wrong' -- language later magisterial statements have reaffirmed.",
+      "hint": "Pius XI issued two encyclicals against two different totalitarian systems within the same week.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, Divini Redemptoris (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-003",
+      "topic": "church-history",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: The Reichskonkordat (1933) between the Holy See and Germany guaranteed the Catholic Church's institutional rights in Germany, and the Nazi government kept its terms faithfully throughout the 1930s.",
+      "correctAnswer": false,
+      "explanation": "The Reichskonkordat was meant to protect Catholic institutional life, but the Nazi government began violating its terms almost immediately -- closing Catholic schools and organizations and harassing clergy -- a pattern of violation the Church protested repeatedly, culminating in Mit Brennender Sorge four years later.",
+      "hint": "The encyclical that came four years later is itself evidence of how well the agreement was actually being kept.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, Mit Brennender Sorge (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-004",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Pope Pius XI's 1932 encyclical Acerba Animi protested the persecution of the Catholic Church in which country, where armed Catholic resistance became known as the Cristero War?",
+      "choices": [
+        "Mexico",
+        "Spain",
+        "Portugal",
+        "Poland"
+      ],
+      "correctAnswer": "Mexico",
+      "explanation": "Mexico's anti-clerical government enforced severe restrictions on the Church in the 1920s-30s, provoking the Cristero War, in which many Catholics were killed for the faith. Acerba Animi was one of several statements Pius XI issued protesting the persecution.",
+      "hint": "This persecution is closer to home for many Catechesi users than the European examples in this same level.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, Acerba Animi (1932)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-005",
+      "topic": "church-history",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: Divini Redemptoris (1937) only condemned communism, without proposing any positive alternative for social and economic justice.",
+      "correctAnswer": false,
+      "explanation": "Like Rerum Novarum before it, Divini Redemptoris paired its condemnation of communism with a constructive vision -- Catholic social teaching's own program of subsidiarity, private property ordered to the common good, and a just wage -- arguing the Church's answer to real social evils was reform, not revolution.",
+      "hint": "Compare this to Rerum Novarum, already covered two levels back -- the Church's pattern is to condemn AND propose.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, Divini Redemptoris (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-006",
+      "topic": "church-history",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each document to the persecution or ideology it responded to.",
+      "pairs": [
+        {
+          "left": "Mit Brennender Sorge (1937)",
+          "right": "Nazi Germany's racial ideology"
+        },
+        {
+          "left": "Divini Redemptoris (1937)",
+          "right": "Communism"
+        },
+        {
+          "left": "Acerba Animi (1932)",
+          "right": "Anti-Catholic persecution in Mexico"
+        },
+        {
+          "left": "The Reichskonkordat (1933)",
+          "right": "An agreement meant to protect the Church in Germany, soon violated"
+        }
+      ],
+      "explanation": "Within a single decade the Church faced organized hostility from multiple totalitarian and anti-clerical movements at once -- each response here is a real, dated, named document, not a general impression of 'the Church versus the 20th century.'",
+      "hint": "Two of these documents came within five days of each other.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, Divini Redemptoris (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-001",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "In his December 22, 2005 address to the Roman Curia, Pope Benedict XVI framed the correct way to interpret the Second Vatican Council as a 'hermeneutic of reform' -- contrasted with which incorrect approach he explicitly named?",
+      "choices": [
+        "A hermeneutic of discontinuity and rupture",
+        "A hermeneutic of infallibility",
+        "A hermeneutic of suspicion",
+        "A hermeneutic of accommodation"
+      ],
+      "correctAnswer": "A hermeneutic of discontinuity and rupture",
+      "explanation": "Benedict XVI's 2005 Christmas address to the Roman Curia named two competing ways of reading Vatican II: a 'hermeneutic of discontinuity and rupture,' which treats the Council as a break from what came before, and the 'hermeneutic of reform' -- renewal within the continuity of the one Church -- which he presented as correct.",
+      "hint": "One of these two readings treats Vatican II as a break with prior teaching; the other insists it develops what came before.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Address to the Roman Curia (Dec. 22, 2005)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l9-002",
+      "topic": "church-history",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: The 'Bologna School' of Vatican II historiography, associated with a multi-volume history of the Council produced by Bologna's Institute for Religious Sciences, is a reading of the Council that Benedict XVI's 'hermeneutic of reform' address is widely understood to have been engaging, at least in part.",
+      "correctAnswer": true,
+      "explanation": "The Bologna School tended to emphasize the Council as an 'event' marking a decisive new beginning. Benedict XVI's address is widely read, by the School's defenders and critics alike, as engaging that interpretive tradition and proposing continuity-in-reform as a corrective lens.",
+      "hint": "This school is named for the Italian city where its defining historical project was based.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Address to the Roman Curia (Dec. 22, 2005)"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "church-history-l9-003",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The Society of St. Pius X's principal doctrinal objection to Vatican II centers on which document, specifically its teaching on religious liberty?",
+      "choices": [
+        "Dignitatis Humanae",
+        "Lumen Gentium",
+        "Sacrosanctum Concilium",
+        "Gaudium et Spes"
+      ],
+      "correctAnswer": "Dignitatis Humanae",
+      "explanation": "The SSPX argues Dignitatis Humanae's teaching on the right to religious liberty cannot be reconciled with prior 19th-century magisterial statements. The Holy See's position, maintained through decades of doctrinal dialogue with the SSPX, is that the document develops rather than contradicts earlier teaching. That doctrinal dialogue remains open.",
+      "hint": "This is the same document whose reception the 'hermeneutic of reform' address was partly written to address.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dignitatis Humanae (1965)"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "church-history-l9-004",
+      "topic": "church-history",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: Nostra Aetate (1965), the Council's declaration on relations with non-Christian religions, was the shortest document Vatican II produced, yet its reception has generated an unusually large body of subsequent magisterial commentary and interfaith dialogue documents.",
+      "correctAnswer": true,
+      "explanation": "At roughly 1,600 words, Nostra Aetate is the Council's shortest text, but its brief treatment of Judaism, Islam, and other religions opened decades of follow-up documents, dialogues, and Vatican commissions -- a reception disproportionate to its length.",
+      "hint": "Short documents can still generate long conversations -- this is the Council's shortest text by word count.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l9-005",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Vatican II's bishops and later commentators like Benedict XVI have distinguished it from earlier councils like Trent or Vatican I by its primary character. Which best describes that distinction?",
+      "choices": [
+        "Vatican II issued no new dogmatic definitions or anathemas, aiming instead at pastoral renewal",
+        "Vatican II abolished the office of anathema for all future councils",
+        "Vatican II was called specifically to define a new Marian dogma",
+        "Vatican II was the first council to include lay observers with voting rights"
+      ],
+      "correctAnswer": "Vatican II issued no new dogmatic definitions or anathemas, aiming instead at pastoral renewal",
+      "explanation": "Unlike Trent's use of canons with anathemas to condemn specific errors, Vatican II deliberately issued no new dogmatic definitions and included no anathemas, describing itself as a pastoral council aimed at renewal and a fuller expression of existing doctrine.",
+      "hint": "Compare this to how Trent's canons, several levels back in this topic, were structured.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium (1964)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l9-006",
+      "topic": "church-history",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each term or document from Vatican II's reception debate to what it refers to.",
+      "pairs": [
+        {
+          "left": "Hermeneutic of reform",
+          "right": "Benedict XVI's proposed correct reading of Vatican II, in continuity with prior teaching"
+        },
+        {
+          "left": "Bologna School",
+          "right": "A historiographical tradition emphasizing Vatican II as a decisive new 'event'"
+        },
+        {
+          "left": "Dignitatis Humanae",
+          "right": "The document at the center of the SSPX's chief doctrinal objection"
+        },
+        {
+          "left": "Nostra Aetate",
+          "right": "The Council's shortest document, with an outsized body of later reception"
+        }
+      ],
+      "explanation": "None of these four terms describe a settled dogmatic dispute -- they describe how the Church continues to receive and interpret an authentic ecumenical council, a process with a long history going back to how Nicaea and Chalcedon were themselves received over centuries.",
+      "hint": "This level is about reception and interpretation, not doctrines still being defined for the first time.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Address to the Roman Curia (Dec. 22, 2005)"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "church-history-l10-001",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The Congregation for the Doctrine of the Faith's 1984 instruction Libertatis Nuntius criticized certain forms of liberation theology primarily for uncritically borrowing analytical categories from which source?",
+      "choices": [
+        "Marxist class-struggle analysis",
+        "Enlightenment rationalism",
+        "Protestant biblical criticism",
+        "Existentialist philosophy"
+      ],
+      "correctAnswer": "Marxist class-struggle analysis",
+      "explanation": "Libertatis Nuntius warned that some liberation theologians uncritically adopted Marxist categories of class struggle to read Scripture and society, risking a reduction of the Gospel to a political program. It did not condemn concern for the poor itself -- a distinction the follow-up instruction two years later made explicit.",
+      "hint": "This is the same ideology Pius XI's Divini Redemptoris, three levels back, condemned outright.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Libertatis Nuntius (1984)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l10-002",
+      "topic": "church-history",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: The Congregation for the Doctrine of the Faith's 1986 follow-up instruction, Libertatis Conscientia, rejected the entire project of connecting Christian faith to concern for the poor and social justice.",
+      "correctAnswer": false,
+      "explanation": "Libertatis Conscientia, issued two years after Libertatis Nuntius, affirmed an authentic theology of liberation grounded in freedom in Christ and the Church's social teaching, while maintaining the earlier document's caution against reducing that liberation to a political ideology. The two documents work as a pair: one critical, one constructive.",
+      "hint": "This is the second of a pair of documents on the same topic, two years apart -- like Mit Brennender Sorge and Divini Redemptoris were a pair, five days apart.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Libertatis Conscientia (1986)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l10-003",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Pope Francis's 2020 post-synodal exhortation Querida Amazonia, following the Synod on the Amazon, notably declined to authorize which widely-anticipated change?",
+      "choices": [
+        "Ordaining married men (\"viri probati\") to the priesthood in the region",
+        "Establishing new Amazonian dioceses",
+        "Translating the Mass into indigenous languages",
+        "Creating a new religious order for the region"
+      ],
+      "correctAnswer": "Ordaining married men (\"viri probati\") to the priesthood in the region",
+      "explanation": "The Synod's working document had raised ordaining married men of proven virtue to address priest shortages in remote Amazonian communities. Francis's exhortation affirmed the Synod's broader ecological and cultural concerns but did not adopt that proposal, and priestly celibacy in the Latin Church remained unchanged.",
+      "hint": "This was the single most publicly debated proposal to come out of the Synod that produced this document.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Francis, Querida Amazonia (2020)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l10-004",
+      "topic": "church-history",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: Archbishop Oscar Romero of El Salvador, assassinated in 1980 while celebrating Mass, was canonized by Pope Francis in 2018 as a martyr.",
+      "correctAnswer": true,
+      "explanation": "Romero, shot while celebrating Mass in 1980 after speaking out against the Salvadoran government's human rights abuses, was recognized by Pope Francis as a martyr killed 'in hatred of the faith,' and canonized in October 2018, decades after his cause had stalled amid disputes over whether his death was political or properly a martyrdom.",
+      "hint": "His cause was stalled for years over exactly this distinction: was this a political killing or a martyrdom?",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Francis, Canonization of Oscar Romero (Oct. 14, 2018)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l10-005",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The pairing of Libertatis Nuntius (1984) and Libertatis Conscientia (1986) illustrates a pattern already seen earlier in this topic (Rerum Novarum, Divini Redemptoris): the Magisterium condemning a real error while also doing what?",
+      "choices": [
+        "Naming the legitimate concern underneath the error and affirming it in a corrected form",
+        "Naming the specific political party responsible for the error",
+        "Defining a new dogma that resolves the underlying dispute permanently",
+        "Issuing a canonical penalty for anyone who continues to hold the error"
+      ],
+      "correctAnswer": "Naming the legitimate concern underneath the error and affirming it in a corrected form",
+      "explanation": "From Rerum Novarum's response to industrial injustice, to Divini Redemptoris's response to communism, to this pairing's response to liberation theology, the Magisterium's consistent pattern is not mere condemnation -- it identifies what is true and worth keeping and separates it from the errors bound up with it.",
+      "hint": "This is the same two-step pattern you've now seen at least three times across this topic.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Libertatis Conscientia (1986)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l10-006",
+      "topic": "church-history",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each 20th/21st-century document or event to what it did.",
+      "pairs": [
+        {
+          "left": "Libertatis Nuntius (1984)",
+          "right": "Criticized liberation theology's uncritical use of Marxist analysis"
+        },
+        {
+          "left": "Libertatis Conscientia (1986)",
+          "right": "Affirmed an authentic theology of liberation grounded in Christian freedom"
+        },
+        {
+          "left": "Querida Amazonia (2020)",
+          "right": "Responded to the Amazon Synod without authorizing married priestly ordination there"
+        },
+        {
+          "left": "Oscar Romero's canonization (2018)",
+          "right": "Recognized a 20th-century archbishop as a martyr"
+        }
+      ],
+      "explanation": "A world Church, present on every continent, keeps facing the same underlying task this whole topic has traced: engaging real historical and cultural situations without losing the deposit of faith in the process.",
+      "hint": "Two of these documents form a deliberate pair, four years apart.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Francis, Querida Amazonia (2020)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
     }
   ]
 }
