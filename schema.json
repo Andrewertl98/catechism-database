@@ -50,8 +50,8 @@
       "properties": {
         "id": {
           "type": "string",
-          "description": "Format: <topic-slug>-l<level>-<3-digit-sequence>, e.g. church-history-l1-001",
-          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-l[1-5]-[0-9]{3}$"
+          "description": "Format: <topic-slug>-l<level>-<3-digit-sequence>, e.g. church-history-l1-001 or church-history-l10-001",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-l(10|[1-9])-[0-9]{3}$"
         },
         "topic": {
           "$ref": "#/definitions/topicSlug",
@@ -60,7 +60,8 @@
         "level": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 5
+          "maximum": 10,
+          "description": "Topics no longer share one fixed level count -- see the Aug 13, 2026 curriculum-design debate. This schema-level max is a loose outer bound (the highest ceiling any topic reaches); each topic's real ceiling is enforced by its own TopicMaster.levelNames.count in the app, not here."
         },
         "type": {
           "type": "string",
