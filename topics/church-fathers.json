@@ -1,4 +1,3 @@
-
 {
   "topic": "church-fathers",
   "questions": [
@@ -9,13 +8,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1400,
       "prompt": "The Catechism's own definition of prayer -- 'the raising of one's mind and heart to God' -- is drawn from the writing of which 8th-century Doctor of the Church?",
-      "choices": ["St. John Damascene", "St. Augustine", "St. Jerome", "St. Ambrose"],
+      "choices": [
+        "St. John Damascene",
+        "St. Augustine",
+        "St. Jerome",
+        "St. Ambrose"
+      ],
       "correctAnswer": "St. John Damascene",
       "explanation": "CCC 2559 opens its treatment of prayer by quoting St. John Damascene, an Eastern Church Father and Doctor of the Church, showing how the Fathers' insights are woven into the Church's official teaching.",
       "hint": "Think of the Eastern Doctor known for defending icons, writing in the 8th century.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2559" },
-        { "type": "church_father", "reference": "St. John Damascene, De Fide Orthodoxa" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2559"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. John Damascene, De Fide Orthodoxa"
+        }
       ]
     },
     {
@@ -25,13 +35,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1500,
       "prompt": "St. Cyril of Alexandria was the leading defender of orthodox teaching at the 431 council that gave Mary the title 'Theotokos.' What does that title mean?",
-      "choices": ["Mother of God", "Queen of Heaven", "Ever-Virgin", "Mother of the Church"],
+      "choices": [
+        "Mother of God",
+        "Queen of Heaven",
+        "Ever-Virgin",
+        "Mother of the Church"
+      ],
       "correctAnswer": "Mother of God",
       "explanation": "At the Council of Ephesus (431), St. Cyril of Alexandria championed the title Theotokos ('God-bearer'), safeguarding the truth that the one Jesus Christ, born of Mary, is truly God.",
       "hint": "This title means Mary bore not just a man, but God himself.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 466" },
-        { "type": "church_father", "reference": "St. Cyril of Alexandria" }
+        {
+          "type": "ccc",
+          "reference": "CCC 466"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Cyril of Alexandria"
+        }
       ]
     },
     {
@@ -41,13 +62,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1450,
       "prompt": "St. Augustine of Hippo took part in the African councils (Hippo, 393; Carthage, 397) that helped settle a question the Catechism still cites today. What did those councils address?",
-      "choices": ["Which books belong in the Bible", "The date of Easter", "The wording of the Creed", "The structure of the Mass"],
+      "choices": [
+        "Which books belong in the Bible",
+        "The date of Easter",
+        "The wording of the Creed",
+        "The structure of the Mass"
+      ],
       "correctAnswer": "Which books belong in the Bible",
       "explanation": "These North African councils, with Augustine's involvement, affirmed the list of 73 sacred books -- the canon of Scripture -- that the Church still recognizes today.",
       "hint": "These North African councils settled which books belong in the Bible.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 120" },
-        { "type": "church_father", "reference": "St. Augustine of Hippo" }
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo"
+        }
       ]
     },
     {
@@ -61,8 +93,14 @@
       "explanation": "In his Letter to the Smyrnaeans, Ignatius wrote 'wherever Jesus Christ is, there is the Catholic Church' -- among the earliest surviving uses of the word to describe the universal Church.",
       "hint": "He was a bishop being marched to his death in Rome when he wrote this.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 830" },
-        { "type": "church_father", "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans" }
+        {
+          "type": "ccc",
+          "reference": "CCC 830"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans"
+        }
       ]
     },
     {
@@ -73,16 +111,34 @@
       "difficultyElo": 1480,
       "prompt": "Match each early Church figure to the fact he or she is best remembered for.",
       "pairs": [
-        { "left": "St. Jerome", "right": "Translated the Bible into Latin, called the Vulgate" },
-        { "left": "St. Augustine", "right": "Wrote the Confessions and The City of God" },
-        { "left": "St. Ignatius of Antioch", "right": "Bishop martyred in Rome who first wrote of the 'Catholic Church'" },
-        { "left": "St. Polycarp of Smyrna", "right": "Disciple of John the Apostle, martyred for refusing to curse Christ" }
+        {
+          "left": "St. Jerome",
+          "right": "Translated the Bible into Latin, called the Vulgate"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "Wrote the Confessions and The City of God"
+        },
+        {
+          "left": "St. Ignatius of Antioch",
+          "right": "Bishop martyred in Rome who first wrote of the 'Catholic Church'"
+        },
+        {
+          "left": "St. Polycarp of Smyrna",
+          "right": "Disciple of John the Apostle, martyred for refusing to curse Christ"
+        }
       ],
       "explanation": "The Council of Trent later confirmed Jerome's Vulgate as the Church's authentic Latin text of Scripture, while Ignatius and Polycarp stand among the earliest martyrs and Augustine among its most influential theologians.",
       "hint": "One translated the Bible into Latin; two others died as martyrs.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" },
-        { "type": "ccc", "reference": "CCC 2473" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
       ]
     },
     {
@@ -96,7 +152,10 @@
       "explanation": "The Didache (chapter 8) gives an early text of the Lord's Prayer very close to the version in Matthew's Gospel, showing how central this prayer was to Christian life from the very beginning.",
       "hint": "This prayer is the one Jesus himself taught his disciples.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 6:9-13" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9-13"
+        }
       ]
     },
     {
@@ -106,13 +165,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1750,
       "prompt": "St. Justin Martyr addressed his First Apology -- a reasoned defense of Christianity -- directly to which audience?",
-      "choices": ["The Roman Emperor and Senate", "The Jewish Sanhedrin", "The bishops of Asia Minor", "The philosophers of Athens alone"],
+      "choices": [
+        "The Roman Emperor and Senate",
+        "The Jewish Sanhedrin",
+        "The bishops of Asia Minor",
+        "The philosophers of Athens alone"
+      ],
       "correctAnswer": "The Roman Emperor and Senate",
       "explanation": "Justin addressed his First Apology to the Emperor Antoninus Pius and the Roman Senate, arguing that Christians were being punished unjustly for a faith that was reasonable and good.",
       "hint": "He wrote directly to the very government that could execute him for it.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" },
-        { "type": "church_father", "reference": "St. Justin Martyr, First Apology" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Justin Martyr, First Apology"
+        }
       ]
     },
     {
@@ -126,8 +196,14 @@
       "explanation": "Perpetua, a young noblewoman, and Felicity, her slave, were martyred together in the arena along with several companions -- their shared witness, not solitary death, is what the Church has always remembered.",
       "hint": "One was a noblewoman, the other her slave -- they were not alone in the arena.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2473" },
-        { "type": "church_father", "reference": "The Passion of Perpetua and Felicity" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
       ]
     },
     {
@@ -137,13 +213,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1780,
       "prompt": "St. Irenaeus of Lyons argued that the true teaching of the Church could be verified by tracing the bishops of his own day back, generation by generation, to whom?",
-      "choices": ["The apostles", "The Roman Senate", "The local synagogue", "Secret Gnostic teachers"],
+      "choices": [
+        "The apostles",
+        "The Roman Senate",
+        "The local synagogue",
+        "Secret Gnostic teachers"
+      ],
       "correctAnswer": "The apostles",
       "explanation": "Irenaeus's argument in Against Heresies -- that unbroken succession from the apostles guarantees the truth of a bishop's teaching -- is the same doctrine of apostolic succession the Church still teaches.",
       "hint": "He traced the bishops of his own time back, generation by generation.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 77" },
-        { "type": "church_father", "reference": "St. Irenaeus of Lyons, Against Heresies" }
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies"
+        }
       ]
     },
     {
@@ -157,8 +244,14 @@
       "explanation": "Tertullian's line -- that persecution, rather than destroying the Church, caused it to grow -- captures how the early Christians understood martyrdom as fruitful witness rather than defeat.",
       "hint": "He meant that persecution, instead of destroying the Church, made it grow.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2473" },
-        { "type": "church_father", "reference": "Tertullian, Apologeticus" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        },
+        {
+          "type": "church_father",
+          "reference": "Tertullian, Apologeticus"
+        }
       ]
     },
     {
@@ -169,15 +262,30 @@
       "difficultyElo": 1800,
       "prompt": "Match each apologist or martyr to the fact he or she is known for.",
       "pairs": [
-        { "left": "St. Justin Martyr", "right": "Wrote the First Apology defending Christianity to Rome" },
-        { "left": "St. Irenaeus of Lyons", "right": "Refuted Gnosticism in Against Heresies" },
-        { "left": "St. Perpetua", "right": "Noblewoman martyred at Carthage, kept a prison diary" },
-        { "left": "St. Felicity", "right": "Slave martyred alongside Perpetua at Carthage" }
+        {
+          "left": "St. Justin Martyr",
+          "right": "Wrote the First Apology defending Christianity to Rome"
+        },
+        {
+          "left": "St. Irenaeus of Lyons",
+          "right": "Refuted Gnosticism in Against Heresies"
+        },
+        {
+          "left": "St. Perpetua",
+          "right": "Noblewoman martyred at Carthage, kept a prison diary"
+        },
+        {
+          "left": "St. Felicity",
+          "right": "Slave martyred alongside Perpetua at Carthage"
+        }
       ],
       "explanation": "Together these figures show the two great tasks of the early Church: reasoned defense of the faith to a hostile world, and steadfast witness to it even unto death.",
       "hint": "Two wrote in their own defense; two died for refusing to renounce Christ.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2473" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
       ]
     },
     {
@@ -191,8 +299,14 @@
       "explanation": "Justin's idea of the 'logos spermatikos' held that the divine Word had scattered seeds of truth throughout human thought before the Incarnation -- an early expression of the truth that God's light reaches every person.",
       "hint": "He believed truth could be found even before the Gospel reached a people.",
       "citations": [
-        { "type": "scripture", "reference": "John 1:9" },
-        { "type": "church_father", "reference": "St. Justin Martyr, Second Apology" }
+        {
+          "type": "scripture",
+          "reference": "John 1:9"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Justin Martyr, Second Apology"
+        }
       ]
     },
     {
@@ -202,13 +316,24 @@
       "type": "multiple_choice",
       "difficultyElo": 2050,
       "prompt": "St. Athanasius of Alexandria spent much of his life defending the teaching of which council against the Arian heresy?",
-      "choices": ["The Council of Nicaea (325)", "The Council of Chalcedon (451)", "The Council of Trent", "The First Vatican Council"],
+      "choices": [
+        "The Council of Nicaea (325)",
+        "The Council of Chalcedon (451)",
+        "The Council of Trent",
+        "The First Vatican Council"
+      ],
       "correctAnswer": "The Council of Nicaea (325)",
       "explanation": "Athanasius was Nicaea's fiercest and most persistent defender, insisting for decades that the Son is 'consubstantial' with the Father against Arius's claim that Christ was a created being.",
       "hint": "He spent decades defending one word: that the Son is truly, fully God.",
       "citations": [
-        { "type": "council", "reference": "First Council of Nicaea (325)" },
-        { "type": "church_father", "reference": "St. Athanasius of Alexandria" }
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Athanasius of Alexandria"
+        }
       ]
     },
     {
@@ -222,7 +347,10 @@
       "explanation": "Athanasius was driven from Alexandria five separate times as the political tide shifted for and against Arianism -- his persistence against overwhelming opposition gave rise to the phrase 'Athanasius against the world.'",
       "hint": "His persistence against nearly everyone earned him a famous Latin phrase.",
       "citations": [
-        { "type": "council", "reference": "First Council of Nicaea (325)" }
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
       ]
     },
     {
@@ -232,12 +360,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2080,
       "prompt": "St. Basil the Great, St. Gregory of Nazianzus, and St. Gregory of Nyssa are together known by what title, reflecting their shared defense of Trinitarian doctrine in the 4th century?",
-      "choices": ["The Cappadocian Fathers", "The Latin Doctors", "The Apostolic Fathers", "The Desert Fathers"],
+      "choices": [
+        "The Cappadocian Fathers",
+        "The Latin Doctors",
+        "The Apostolic Fathers",
+        "The Desert Fathers"
+      ],
       "correctAnswer": "The Cappadocian Fathers",
       "explanation": "Named for their home region in Asia Minor, the Cappadocian Fathers refined the Church's language for the Trinity and defended the divinity of the Holy Spirit affirmed at the Council of Constantinople.",
       "hint": "Two brothers and a close friend, all from one region in modern-day Turkey.",
       "citations": [
-        { "type": "council", "reference": "First Council of Constantinople (381)" }
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)"
+        }
       ]
     },
     {
@@ -251,8 +387,14 @@
       "explanation": "Ambrose's preaching in Milan was instrumental in Augustine's conversion; Augustine describes the moment of his baptism, by Ambrose's hand, in Book Nine of his Confessions.",
       "hint": "The bishop of Milan whose preaching finally won over a restless heart.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 30" },
-        { "type": "church_father", "reference": "St. Augustine of Hippo, Confessions" }
+        {
+          "type": "ccc",
+          "reference": "CCC 30"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions"
+        }
       ]
     },
     {
@@ -263,16 +405,34 @@
       "difficultyElo": 2100,
       "prompt": "Match each Golden Age Father to the fact he is remembered for.",
       "pairs": [
-        { "left": "St. Athanasius", "right": "Defended Christ's full divinity against Arianism" },
-        { "left": "St. Basil the Great", "right": "Wrote a monastic Rule and defended the Holy Spirit's divinity" },
-        { "left": "St. Ambrose of Milan", "right": "Bishop whose preaching led to St. Augustine's baptism" },
-        { "left": "St. John Chrysostom", "right": "Archbishop of Constantinople famed for his preaching" }
+        {
+          "left": "St. Athanasius",
+          "right": "Defended Christ's full divinity against Arianism"
+        },
+        {
+          "left": "St. Basil the Great",
+          "right": "Wrote a monastic Rule and defended the Holy Spirit's divinity"
+        },
+        {
+          "left": "St. Ambrose of Milan",
+          "right": "Bishop whose preaching led to St. Augustine's baptism"
+        },
+        {
+          "left": "St. John Chrysostom",
+          "right": "Archbishop of Constantinople famed for his preaching"
+        }
       ],
       "explanation": "The 4th and 5th centuries produced an extraordinary generation of bishop-theologians who defended, defined, and preached the Church's core doctrines with lasting authority.",
       "hint": "One preached so powerfully he earned a nickname meaning 'golden.'",
       "citations": [
-        { "type": "council", "reference": "First Council of Nicaea (325)" },
-        { "type": "council", "reference": "First Council of Constantinople (381)" }
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)"
+        }
       ]
     },
     {
@@ -286,8 +446,14 @@
       "explanation": "Chrysostom preached forcefully that it does no good to honor Christ's Eucharistic body while neglecting his body in the poor -- a teaching the Catechism still draws on when it links the Eucharist to charity.",
       "hint": "He warned against honoring Christ at the altar while ignoring him in the poor.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1397" },
-        { "type": "church_father", "reference": "St. John Chrysostom, Homilies on Matthew" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1397"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. John Chrysostom, Homilies on Matthew"
+        }
       ]
     },
     {
@@ -297,12 +463,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2350,
       "prompt": "Pope St. Leo the Great's letter, known as the 'Tome of Leo,' played a decisive role at which 451 council in defining Christ's two natures?",
-      "choices": ["The Council of Chalcedon", "The Council of Ephesus", "The Council of Nicaea", "The Council of Trent"],
+      "choices": [
+        "The Council of Chalcedon",
+        "The Council of Ephesus",
+        "The Council of Nicaea",
+        "The Council of Trent"
+      ],
       "correctAnswer": "The Council of Chalcedon",
       "explanation": "Though he never attended in person, Leo's Tome was read at Chalcedon and shaped its definition that Christ is one Person in two natures, fully divine and fully human.",
       "hint": "This pope never attended the council in person, but his letter settled the debate.",
       "citations": [
-        { "type": "council", "reference": "Council of Chalcedon (451)" }
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
       ]
     },
     {
@@ -316,7 +490,10 @@
       "explanation": "Maximus insisted Christ possessed both a divine and a human will, in keeping with his two full natures -- a teaching later affirmed at the Third Council of Constantinople, after Maximus had already suffered for it.",
       "hint": "He insisted Christ had two wills, human and divine -- and paid for it with his body.",
       "citations": [
-        { "type": "council", "reference": "Third Council of Constantinople (680-681)" }
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
+        }
       ]
     },
     {
@@ -326,13 +503,24 @@
       "type": "multiple_choice",
       "difficultyElo": 2380,
       "prompt": "St. John Damascene, writing from Muslim-ruled Damascus, is best remembered for his strong defense of which practice during the Byzantine Iconoclast controversy?",
-      "choices": ["The veneration of icons", "The use of unleavened bread", "Clerical celibacy", "The date of Easter"],
+      "choices": [
+        "The veneration of icons",
+        "The use of unleavened bread",
+        "Clerical celibacy",
+        "The date of Easter"
+      ],
       "correctAnswer": "The veneration of icons",
       "explanation": "Safely outside Byzantine imperial reach, John Damascene wrote influential defenses of icon veneration that were later read into the record at the Second Council of Nicaea.",
       "hint": "Writing safely under Muslim rule, he could defend images the Byzantine emperor was destroying.",
       "citations": [
-        { "type": "council", "reference": "Second Council of Nicaea (787)" },
-        { "type": "church_father", "reference": "St. John Damascene, On the Divine Images" }
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. John Damascene, On the Divine Images"
+        }
       ]
     },
     {
@@ -346,7 +534,10 @@
       "explanation": "'Servus servorum Dei' -- 'servant of the servants of God' -- expressed Gregory's conviction that the papacy is an office of humble service, a vision Vatican II's teaching on the Church echoes for all ordained ministry.",
       "hint": "A title of humility that popes still use to sign documents today.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council (1962-1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
       ]
     },
     {
@@ -357,16 +548,34 @@
       "difficultyElo": 2400,
       "prompt": "Match each Father to the East-or-West fact he is remembered for.",
       "pairs": [
-        { "left": "St. John Damascene", "right": "Eastern Father who defended icons during Iconoclasm" },
-        { "left": "St. Maximus the Confessor", "right": "Eastern monk mutilated for defending Christ's two wills" },
-        { "left": "Pope St. Leo the Great", "right": "Western pope whose Tome shaped Chalcedon's teaching" },
-        { "left": "Pope St. Gregory the Great", "right": "Western pope who sent missionaries to England" }
+        {
+          "left": "St. John Damascene",
+          "right": "Eastern Father who defended icons during Iconoclasm"
+        },
+        {
+          "left": "St. Maximus the Confessor",
+          "right": "Eastern monk mutilated for defending Christ's two wills"
+        },
+        {
+          "left": "Pope St. Leo the Great",
+          "right": "Western pope whose Tome shaped Chalcedon's teaching"
+        },
+        {
+          "left": "Pope St. Gregory the Great",
+          "right": "Western pope who sent missionaries to England"
+        }
       ],
       "explanation": "The Church's first thousand years drew on both East and West, Greek and Latin, to defend and articulate the same apostolic faith.",
       "hint": "Two of these Fathers lived under Byzantine rule; two were popes in Rome.",
       "citations": [
-        { "type": "council", "reference": "Council of Chalcedon (451)" },
-        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        }
       ]
     },
     {
@@ -380,7 +589,10 @@
       "explanation": "The Second Council of Nicaea taught that icons may be venerated because the honor given to an image passes to what it represents -- settling, at least doctrinally, a controversy that had divided the Byzantine world for decades.",
       "hint": "The second council held at this city, more than four centuries after the first.",
       "citations": [
-        { "type": "council", "reference": "Second Council of Nicaea (787)" }
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        }
       ]
     },
     {
@@ -390,12 +602,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2650,
       "prompt": "Beyond the antiquity, orthodoxy, and personal holiness expected of a Church Father, what additional quality must a Church Father possess to also be named a 'Doctor of the Church'?",
-      "choices": ["Eminent learning, declared by the Church", "Membership in a religious order", "Having served as a bishop", "Having written in Latin"],
+      "choices": [
+        "Eminent learning, declared by the Church",
+        "Membership in a religious order",
+        "Having served as a bishop",
+        "Having written in Latin"
+      ],
       "correctAnswer": "Eminent learning, declared by the Church",
       "explanation": "'Doctor of the Church' is a formal title the Church confers, beyond ordinary sainthood, on those of eminent learning whose teaching has proven lastingly valuable -- a distinction Leo XIII drew on in commending St. Thomas Aquinas.",
       "hint": "A Church Father needs three things; a Doctor needs one more.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        }
       ]
     },
     {
@@ -409,7 +629,10 @@
       "explanation": "Pope John Paul II declared Thérèse a Doctor of the Church in 1997, showing that 'Doctor' -- unlike 'Church Father' -- does not require antiquity, only eminent teaching recognized by the Church.",
       "hint": "She died young, in an ordinary convent, centuries after the ancient Fathers.",
       "citations": [
-        { "type": "magisterial_document", "reference": "John Paul II, declaring St. Thérèse of Lisieux a Doctor of the Church (1997)" }
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, declaring St. Thérèse of Lisieux a Doctor of the Church (1997)"
+        }
       ]
     },
     {
@@ -419,12 +642,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2680,
       "prompt": "Which of these canonized women has never been declared a 'Doctor of the Church'?",
-      "choices": ["St. Joan of Arc", "St. Teresa of Ávila", "St. Catherine of Siena", "St. Thérèse of Lisieux"],
+      "choices": [
+        "St. Joan of Arc",
+        "St. Teresa of Ávila",
+        "St. Catherine of Siena",
+        "St. Thérèse of Lisieux"
+      ],
       "correctAnswer": "St. Joan of Arc",
       "explanation": "St. Teresa of Ávila and St. Catherine of Siena were declared the first women Doctors in 1970, and St. Thérèse of Lisieux followed in 1997. St. Joan of Arc, though canonized, has never received the title.",
       "hint": "This saint led armies, but was never named a teacher of the universal Church.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Paul VI, declaring the first women Doctors of the Church (1970)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring the first women Doctors of the Church (1970)"
+        }
       ]
     },
     {
@@ -438,7 +669,10 @@
       "explanation": "Pope Pius XI named Thérèse co-patroness of the missions in 1927, honoring her belief that hidden prayer and sacrifice support missionary work as truly as preaching in distant lands.",
       "hint": "She never left her convent, yet became patron of those who travel the world to preach.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Pius XI, declaring St. Thérèse of Lisieux patroness of the missions (1927)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XI, declaring St. Thérèse of Lisieux patroness of the missions (1927)"
+        }
       ]
     },
     {
@@ -449,16 +683,34 @@
       "difficultyElo": 2700,
       "prompt": "Match each Doctor of the Church to the fact that distinguishes them.",
       "pairs": [
-        { "left": "St. Thérèse of Lisieux", "right": "Declared a Doctor in 1997 despite dying young and unknown" },
-        { "left": "St. Teresa of Ávila", "right": "One of the first two women declared Doctors, in 1970" },
-        { "left": "St. Thomas Aquinas", "right": "Doctor whose Summa Theologiae was commended by Leo XIII" },
-        { "left": "St. Augustine", "right": "Doctor and bishop whose Confessions describes his conversion" }
+        {
+          "left": "St. Thérèse of Lisieux",
+          "right": "Declared a Doctor in 1997 despite dying young and unknown"
+        },
+        {
+          "left": "St. Teresa of Ávila",
+          "right": "One of the first two women declared Doctors, in 1970"
+        },
+        {
+          "left": "St. Thomas Aquinas",
+          "right": "Doctor whose Summa Theologiae was commended by Leo XIII"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "Doctor and bishop whose Confessions describes his conversion"
+        }
       ],
       "explanation": "The Doctors of the Church span nearly two thousand years and every walk of life, united only by the lasting depth of their teaching.",
       "hint": "One of these four is young and modern; the rest lived over a thousand years earlier.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" },
-        { "type": "magisterial_document", "reference": "Paul VI, declaring the first women Doctors of the Church (1970)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring the first women Doctors of the Church (1970)"
+        }
       ]
     },
     {
@@ -472,7 +724,682 @@
       "explanation": "Sainthood is a prerequisite for the title 'Doctor of the Church,' though not sufficient by itself -- the Church additionally requires eminent learning and a formal declaration, as with Aquinas and the women Doctors.",
       "hint": "The Church only calls a teacher 'Doctor' after first calling them 'Saint.'",
       "citations": [
-        { "type": "magisterial_document", "reference": "Leo XIII, Aeterni Patris (1879)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-001",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "In Augustine's mature theology (Enchiridion, ch. 30), he distinguishes 'liberum arbitrium' (free choice, which even fallen humanity retains) from 'libertas' (true freedom). What does 'libertas' specifically require that mere 'liberum arbitrium' does not?",
+      "choices": [
+        "The grace that frees the will to actually love and choose the good",
+        "A formal act of the will completely independent of grace",
+        "The absence of any external constraint on decision-making",
+        "A juridical declaration of innocence before God"
+      ],
+      "correctAnswer": "The grace that frees the will to actually love and choose the good",
+      "explanation": "For Augustine, fallen humanity keeps 'liberum arbitrium' -- the formal capacity to choose -- but loses 'libertas,' the actual freedom to choose and love the good rightly, which only grace restores. This distinction is the hinge of his case against Pelagius: having a will is not the same as having a healed will.",
+      "hint": "One of these terms describes a bare capacity; the other describes that capacity actually working rightly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 30"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-002",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1831,
+      "prompt": "True or False: When Augustine speaks of 'concupiscentia' in Confessions Book X, he means the same thing as an ordinary temptation that any person, fallen or not, would experience.",
+      "correctAnswer": false,
+      "explanation": "Augustine's 'concupiscentia' names a disordered pull of desire rooted in original sin's wounding of human nature, not merely 'being tempted' -- even Christ, free of original sin, could be tempted without 'concupiscentia' in Augustine's technical sense. The term names a condition of fallen nature, not the experience of temptation as such.",
+      "hint": "This term describes a condition of wounded nature, not simply the experience every person has when tempted.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Hebrews 4:15"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Confessions, Book X, ch. 30"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-003",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "In Athanasius's Contra Arianos, the term 'homoousios' ('of the same substance') was chosen specifically to rule out which Arian claim about the Son?",
+      "choices": [
+        "That the Son is a created being, similar to but not identical in nature with the Father",
+        "That the Son and the Father are two names for a single person",
+        "That the Son's human nature was fully absorbed into his divine nature",
+        "That the Son existed only from the moment of the Incarnation"
+      ],
+      "correctAnswer": "That the Son is a created being, similar to but not identical in nature with the Father",
+      "explanation": "Arius held the Son was the highest of creatures, of a like but not identical substance to the Father. Athanasius's 'homoousios' closes that gap entirely: the Son shares the Father's very substance, not merely a resemblance to it -- the word the Council of Nicaea adopted into the Creed for exactly this reason.",
+      "hint": "The rejected Arian term is one letter different from the word Nicaea actually chose.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, Contra Arianos, Discourse I, ch. 9"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-004",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "The Cappadocian Fathers (Basil's Letter 214, Gregory of Nazianzus's Theological Orations) fixed the distinction between 'ousia' and 'hypostasis' to resolve confusion in Trinitarian language. What does 'hypostasis' identify that 'ousia' does not?",
+      "choices": [
+        "The particular person -- Father, Son, or Holy Spirit -- rather than the one shared divine nature",
+        "The physical body assumed by the Son at the Incarnation",
+        "A title used only for the Father, never the Son or Spirit",
+        "The moral character each divine Person displays toward creation"
+      ],
+      "correctAnswer": "The particular person -- Father, Son, or Holy Spirit -- rather than the one shared divine nature",
+      "explanation": "The Cappadocians fixed 'ousia' as the one divine nature shared fully by Father, Son, and Spirit, and 'hypostasis' as each distinct person -- solving a real linguistic confusion, since Latin's 'substantia' and Greek's 'hypostasis' looked interchangeable but were being used by different sides to mean opposite things.",
+      "hint": "One term names what the three Persons share; the other names what makes each One distinct.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 252"
+        },
+        {
+          "type": "church_father",
+          "reference": "Basil of Caesarea, Letter 214, sec. 4"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-005",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1941,
+      "prompt": "In his Homilies on Genesis, John Chrysostom uses the Greek term 'synkatabasis' to describe God's ____ -- his gracious lowering of himself to speak to human beings in ways they can actually understand.",
+      "correctAnswer": "condescension",
+      "explanation": "'Synkatabasis' -- divine condescension -- is Chrysostom's term for how God accommodates revelation to human capacity, most visibly in how Scripture itself speaks of God in human terms so that finite minds can grasp what is otherwise beyond them.",
+      "hint": "This is the English word most often used to translate the Greek term, though it lacks the negative connotation the English word can carry today.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 101"
+        },
+        {
+          "type": "church_father",
+          "reference": "John Chrysostom, Homilies on Genesis, Homily 3, sec. 1"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-006",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1921,
+      "prompt": "Match each Father to the precise technical term this level introduced for their thought.",
+      "pairs": [
+        {
+          "left": "Augustine of Hippo",
+          "right": "Libertas, distinguished from mere liberum arbitrium"
+        },
+        {
+          "left": "Athanasius of Alexandria",
+          "right": "Homoousios, against Arius's created Son"
+        },
+        {
+          "left": "The Cappadocian Fathers",
+          "right": "The ousia/hypostasis distinction"
+        },
+        {
+          "left": "John Chrysostom",
+          "right": "Synkatabasis, God's condescension in revelation"
+        }
+      ],
+      "explanation": "Each of these terms did real technical work in its own controversy -- they are not interchangeable synonyms for 'grace' or 'the Trinity' in general, but precise tools forged to close a specific gap an opponent was exploiting.",
+      "hint": "Each term is paired with the exact problem it was coined to solve.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 252"
+        },
+        {
+          "type": "church_father",
+          "reference": "Irenaeus of Lyons, Adversus Haereses, Book V, ch. 21"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-001",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "A friend says, 'God helps those who help themselves' -- meaning grace only kicks in after you've already done your part. Which Augustinian concept most directly corrects this?",
+      "choices": [
+        "Prevenient grace, which must move the will before any good act, including the first turning toward God",
+        "Liberum arbitrium, which proves the will alone is sufficient without grace",
+        "Concupiscentia, which shows all desire is equally corrupt",
+        "Recapitulation, which describes Christ reversing Adam's disobedience"
+      ],
+      "correctAnswer": "Prevenient grace, which must move the will before any good act, including the first turning toward God",
+      "explanation": "For Augustine, even the first stirring toward God -- wanting to seek him at all -- requires grace that comes before any human effort. 'Helping yourself first' gets the order backward: grace enables the willing, not merely the succeeding.",
+      "hint": "The Latin prefix in 'prevenient' means 'coming before' -- that's the whole point of the term.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 32"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-002",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "Gregory of Nazianzus, in his Letter to Cledonius, argues 'what is not assumed is not healed.' If someone claimed Christ only appeared to have a human mind (not a real one), what would this principle say is at stake?",
+      "choices": [
+        "Christ's human mind would need to be real, or else the human mind is not actually healed by the Incarnation",
+        "Nothing is at stake, since salvation only concerns the body, not the mind",
+        "The claim would strengthen Christ's divinity by removing any human limitation",
+        "The principle only applies to Christ's body, never to non-physical faculties like the mind"
+      ],
+      "correctAnswer": "Christ's human mind would need to be real, or else the human mind is not actually healed by the Incarnation",
+      "explanation": "Gregory's principle, aimed originally at Apollinarius's claim that the divine Word replaced Christ's human mind, is that redemption reaches only what Christ actually took on as his own. If Christ's mind were not truly human, the human mind itself would remain outside what the Incarnation heals.",
+      "hint": "This is the same logic Gregory used against a fourth-century bishop who denied Christ had a full human mind.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470"
+        },
+        {
+          "type": "church_father",
+          "reference": "Gregory of Nazianzus, Letter 101 (to Cledonius)"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-003",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2038,
+      "prompt": "True or False: John Chrysostom's homilies on wealth (including De Lazaro et Divite) argue that possessing riches is itself always a sin, regardless of how the wealthy person uses them.",
+      "correctAnswer": false,
+      "explanation": "Chrysostom's homilies target the misuse and hoarding of wealth while ignoring the poor -- as in the parable of Lazarus and the rich man he preaches on -- not wealth's mere existence. His argument is about accountability for how riches are used, which is exactly why 'the Church shouldn't talk about money' misses his actual claim: he is not condemning possession, but indifference.",
+      "hint": "His target in these homilies is a specific rich man's indifference to a beggar at his gate, not wealth as such.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        },
+        {
+          "type": "church_father",
+          "reference": "John Chrysostom, De Lazaro et Divite, Homily 2"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-004",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "Someone tells you, 'I just need to try hard enough on my own first, and then God's grace will kick in to help me finish.' Which position from the Augustine-Pelagius controversy does this most closely echo?",
+      "choices": [
+        "Semi-Pelagianism, which held that the beginning of faith could come from unaided human effort",
+        "Full Augustinianism, which this statement accurately restates",
+        "Manichaeism, which denied the goodness of the material world",
+        "Donatism, which questioned the validity of sacraments from unworthy ministers"
+      ],
+      "correctAnswer": "Semi-Pelagianism, which held that the beginning of faith could come from unaided human effort",
+      "explanation": "This statement is the classic semi-Pelagian position: unaided human effort supplies the beginning of faith, with grace only assisting afterward. The Second Council of Orange (529) later condemned this exact sequencing, insisting grace must move the will even at the very first stirring toward faith.",
+      "hint": "This is a milder cousin of Pelagius's own position -- it doesn't deny grace outright, just moves it to the wrong place in the sequence.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 32"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-005",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "Irenaeus argues in Adversus Haereses that Christ 'recapitulates' every stage of human life, including a real infancy, rather than appearing instantly as a grown man. Why does this matter against a claim that Christ only seemed human?",
+      "choices": [
+        "Because only a real human life, lived through its actual stages, can heal and sanctify those same stages in every other human being",
+        "Because infancy is the only stage of life that matters for salvation",
+        "Because Irenaeus believed adult bodies cannot be assumed by a divine person",
+        "Because it proves Christ's mother Mary was not really human"
+      ],
+      "correctAnswer": "Because only a real human life, lived through its actual stages, can heal and sanctify those same stages in every other human being",
+      "explanation": "For Irenaeus, Christ 'recapitulates' -- sums up and repeats -- the whole course of human life, undoing Adam's disobedience at each corresponding stage. If Christ only appeared human, none of those stages would actually be assumed, and the healing they accomplish for real infants, children, and adults would be nothing but appearance.",
+      "hint": "The logic here is the same as Gregory's 'what is not assumed is not healed,' but applied to stages of life rather than parts of the soul.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 518"
+        },
+        {
+          "type": "church_father",
+          "reference": "Irenaeus of Lyons, Adversus Haereses, Book III, ch. 18-19"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-006",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2128,
+      "prompt": "Match each objection or scenario to the Father whose argument answers it.",
+      "pairs": [
+        {
+          "left": "'God helps those who help themselves'",
+          "right": "Augustine (prevenient grace)"
+        },
+        {
+          "left": "Christ only appeared to have a human mind",
+          "right": "Gregory of Nazianzus (what is not assumed is not healed)"
+        },
+        {
+          "left": "'The Church shouldn't talk about money'",
+          "right": "John Chrysostom (homilies on wealth and the poor)"
+        },
+        {
+          "left": "Christ only appeared to have a real infancy",
+          "right": "Irenaeus (recapitulation)"
+        }
+      ],
+      "explanation": "Each of these Fathers built an argument precise enough to still answer a live objection today, not just a dead fourth-century one -- the point of this level is deploying the vocabulary fixed at level 6 against something you haven't been drilled on verbatim.",
+      "hint": "Two of these concern Christ's full humanity; two concern grace and its practical demands.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470"
+        },
+        {
+          "type": "church_father",
+          "reference": "Irenaeus of Lyons, Adversus Haereses, Book III, ch. 18"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-001",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Augustine's case against Pelagius rests on attacking one specific premise. Which premise, if removed, collapses the rest of Pelagius's position?",
+      "choices": [
+        "That human nature was not wounded by Adam's sin and the will remains entirely intact",
+        "That Christ's death atoned for sin",
+        "That infant baptism has any spiritual effect",
+        "That grace is entirely unnecessary for any human action"
+      ],
+      "correctAnswer": "That human nature was not wounded by Adam's sin and the will remains entirely intact",
+      "explanation": "Pelagius's system depends on denying that Adam's sin wounded human nature itself -- if the will is fully intact, unaided obedience to the law becomes possible in principle. Augustine's Enchiridion attacks exactly this premise: once the will is granted to be wounded, unaided sinlessness becomes impossible, and Pelagius's entire structure follows it down.",
+      "hint": "This is the one claim everything else in Pelagius's system needs to be true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 407"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 8"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-002",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2334,
+      "prompt": "Match each Nestorian-style claim about Christ to the specific soteriological problem Cyril of Alexandria raises against it.",
+      "pairs": [
+        {
+          "left": "Mary is 'Christotokos' but not 'Theotokos'",
+          "right": "If she bore only a man conjoined to the Word, the Word himself was never truly born or made man"
+        },
+        {
+          "left": "The divine Word and the human Jesus are two distinct subjects loosely united",
+          "right": "There is no single 'I' who is both God and the one who suffered, so the cross does not actually save"
+        },
+        {
+          "left": "Only the human Jesus, not the divine Word, suffered and died",
+          "right": "A merely human death cannot accomplish infinite atonement for sin"
+        }
+      ],
+      "explanation": "Cyril's recurring move is to show that Nestorius's language, whatever its intent, keeps splitting the one Christ into two subjects -- and a savior split into two subjects can no longer guarantee that God himself, not merely a man closely associated with God, is the one who died and rose.",
+      "hint": "Cyril's central worry in every case is the same: has the divine Word himself really become the one who suffers?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "church_father",
+          "reference": "Cyril of Alexandria, Third Letter to Nestorius"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-003",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Comparing Theodore of Mopsuestia's Commentary on the Minor Prophets (Antiochene) with Cyril of Alexandria's commentaries on the same texts, which best describes the difference in emphasis, without treating either as simply wrong?",
+      "choices": [
+        "Antiochene exegesis emphasizes the plain historical sense of the text; Alexandrian exegesis emphasizes typological and christological meaning beneath it",
+        "Antiochene exegesis rejects the Old Testament outright; Alexandrian exegesis accepts only the New Testament",
+        "Antiochene exegesis is entirely allegorical; Alexandrian exegesis is entirely literal",
+        "The two schools produced no surviving texts that can actually be compared"
+      ],
+      "correctAnswer": "Antiochene exegesis emphasizes the plain historical sense of the text; Alexandrian exegesis emphasizes typological and christological meaning beneath it",
+      "explanation": "Theodore's surviving commentary work stays close to a passage's plain historical sense, while Cyril's commentaries characteristically read the same texts for the christological pattern beneath the surface. Both are real, named, surviving approaches -- neither school is well-represented by an unsourced caricature of 'ignoring Christ' or 'ignoring history.'",
+      "hint": "One emphasis stays closer to what the original human author meant; the other looks for what it foreshadows.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115"
+        },
+        {
+          "type": "church_father",
+          "reference": "Theodore of Mopsuestia, Commentary on the Minor Prophets, Preface"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-004",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2244,
+      "prompt": "True or False: If Arius's claim that the Son is a created being were true, Athanasius's argument that 'God became man so that man might become God' (theosis) would still work exactly as before.",
+      "correctAnswer": false,
+      "explanation": "Athanasius's argument for theosis depends on the Son himself being fully God -- only a truly divine Son can communicate divine life to what he assumes. If the Son were merely the highest creature, as Arius held, he could not give humanity a share in a divine life he does not himself fully possess, and theosis collapses along with the premise being granted.",
+      "hint": "Theosis requires the one uniting himself to human nature to actually possess divine life to give.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, On the Incarnation, ch. 54"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-005",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Augustine's City of God argues that Rome's pagan gods did not actually protect Rome from disaster, even in pagan times. Which of the following would this argument NOT directly refute?",
+      "choices": [
+        "A claim that Christianity is false because it contains internal logical contradictions",
+        "A claim that abandoning Rome's traditional gods for Christianity caused the sack of Rome in 410",
+        "A claim that Rome's earlier military successes prove the pagan gods' favor",
+        "A claim that pagan worship guaranteed civic security"
+      ],
+      "correctAnswer": "A claim that Christianity is false because it contains internal logical contradictions",
+      "explanation": "City of God's argument here is historical and dialectical -- it shows Rome suffered disasters long before Christianity, undercutting the specific claim that abandoning the old gods caused Rome's sack. It says nothing about internal logical contradictions in Christian doctrine, a different kind of objection Augustine addresses elsewhere, not with this argument.",
+      "hint": "This argument answers a claim about historical cause and effect, not a claim about logical consistency.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 302"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book I, ch. 1"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-006",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2334,
+      "prompt": "Match each heresy or claim to the exact premise this level shows it depends on.",
+      "pairs": [
+        {
+          "left": "Pelagianism",
+          "right": "That Adam's sin left the human will entirely unwounded"
+        },
+        {
+          "left": "Arianism",
+          "right": "That the Son is a created being, not fully sharing the Father's nature"
+        },
+        {
+          "left": "Nestorianism (as Cyril reads it)",
+          "right": "That the divine Word and the human Jesus remain two separate subjects"
+        },
+        {
+          "left": "'Rome fell because it abandoned the old gods'",
+          "right": "That the pagan gods, not divine providence, actually governed Rome's history"
+        }
+      ],
+      "explanation": "Each heresy in this level is defeated by attacking one identifiable premise, not by a vague appeal to 'that's not what the Church teaches' -- the difference between labeling an error and actually showing where it breaks.",
+      "hint": "In every case here, removing one specific claim brings down everything built on top of it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 302"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book I, ch. 1"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l9-001",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The Second Council of Orange (529) closed the semi-Pelagian controversy by canonizing which position built up across this topic's earlier levels?",
+      "choices": [
+        "That even the beginning of faith requires God's prevenient grace, not unaided human initiative",
+        "That the human will contributes nothing whatsoever, even after grace is given",
+        "That baptism is unnecessary once a person has faith",
+        "That predestination guarantees salvation regardless of a person's free response"
+      ],
+      "correctAnswer": "That even the beginning of faith requires God's prevenient grace, not unaided human initiative",
+      "explanation": "Orange II's canons condemn the semi-Pelagian claim that the beginning of faith can come from unaided human will, canonizing the Augustinian position built up across levels 6-8: grace must move the will even at its very first stirring toward God, while still affirming that the human will genuinely cooperates once moved.",
+      "hint": "This is the exact sequencing question level 7's 'try hard enough on my own first' scenario was built to test. Prerequisite: the Councils topic's canon-and-anathema level covering Trent and Orange.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529), Canon 5"
+        }
+      ],
+      "tags": [
+        "theological-status:settled",
+        "prerequisite:councils-l6"
+      ]
+    },
+    {
+      "id": "church-fathers-l9-002",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Orange II condemns the semi-Pelagian formula that a person can, by natural strength alone, 'ask, seek, and knock' so that grace is given as a reward. Which earlier Augustinian argument does this condemnation draw on most directly?",
+      "choices": [
+        "That prevenient grace must move the will before any good act, including the first desire to seek God",
+        "That homoousios rules out any created intermediary between God and creatures",
+        "That recapitulation requires Christ to pass through every stage of human life",
+        "That synkatabasis explains why Scripture uses anthropomorphic language"
+      ],
+      "correctAnswer": "That prevenient grace must move the will before any good act, including the first desire to seek God",
+      "explanation": "The condemned formula reintroduces exactly the sequencing error Orange II rejects: treating the desire to seek God as something natural strength supplies on its own, with grace arriving only afterward as a reward. This is the same prevenient-grace argument from level 7, now shown to be precisely what Orange II made binding.",
+      "hint": "Look back to the level 7 question about 'trying hard enough on my own first.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529), Canon 3"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l9-003",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: The Eastern Fathers' language of theosis (Athanasius, the Cappadocians) and Augustine's Western vocabulary of grace describe two contradictory accounts of salvation that the Church has never reconciled.",
+      "correctAnswer": false,
+      "explanation": "The two vocabularies emphasize different facets of the same reality rather than contradicting each other: theosis language stresses the goal (real participation in God's own life), while Augustine's grace vocabulary stresses the mechanism (how a wounded will is healed and moved). The Church has never treated these as rival doctrines needing arbitration between East and West -- they are complementary emphases from two authentic patristic traditions, not the same claim stated twice.",
+      "hint": "This isn't a dispute needing a winner -- it's two authentic traditions describing different facets of one reality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, On the Incarnation, ch. 54"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l9-004",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Which of the following did the Second Council of Orange (529) NOT settle, remaining a question the Fathers and later theologians continued to debate?",
+      "choices": [
+        "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+        "Whether the beginning of faith requires prevenient grace",
+        "Whether unaided human nature can achieve its own initial turning to God",
+        "Whether grace is necessary at all for salvation"
+      ],
+      "correctAnswer": "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+      "explanation": "Orange II definitively closed the semi-Pelagian question of whether grace must move even the will's first turning to God. It did not attempt to settle the deeper philosophical question of exactly how grace and a genuinely free human choice relate at the moment of decision -- a question later theological schools continued to debate for centuries without a single magisterial resolution.",
+      "hint": "Orange II answers a sequencing question, not the deeper mechanical one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "church-fathers-l9-005",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Applying Augustine's doctrine of grace to a besetting sin someone struggles with, which prayer posture does his theology most directly support?",
+      "choices": [
+        "Asking God first to give the very desire to change, not just the strength to follow through once desire is already there",
+        "Refusing to pray about it until willpower alone has produced real progress",
+        "Concluding that grace makes personal effort pointless, so no practical response is needed",
+        "Treating the struggle as proof that grace has been permanently withdrawn"
+      ],
+      "correctAnswer": "Asking God first to give the very desire to change, not just the strength to follow through once desire is already there",
+      "explanation": "Augustine's famous prayer 'grant what you command, and command what you will' (Confessions X) captures exactly this: asking for grace at the root, in the very desire to change, not only for strength to execute a resolution the person has already independently formed.",
+      "hint": "This is the same order of operations as prevenient grace, applied to a concrete daily struggle.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Confessions, Book X, ch. 29"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l9-006",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each concept to what the Augustinian Synthesis level shows about it.",
+      "pairs": [
+        {
+          "left": "Second Council of Orange (529)",
+          "right": "Canonized prevenient grace, settling the semi-Pelagian sequencing dispute"
+        },
+        {
+          "left": "Theosis (Eastern vocabulary) and grace (Augustine's vocabulary)",
+          "right": "Complementary emphases within one reality, not rival doctrines"
+        },
+        {
+          "left": "The precise mechanics of grace and free choice",
+          "right": "Left genuinely open by Orange II, debated by later theological schools"
+        },
+        {
+          "left": "'Grant what you command, and command what you will'",
+          "right": "Augustine's own prayer applying prevenient grace to personal struggle"
+        }
+      ],
+      "explanation": "This level's point is distinguishing what is actually settled (the sequencing Orange II closed) from what remains a live, bounded theological question (the deeper mechanics) -- tagging the difference honestly rather than presenting every patristic claim with the same false certainty.",
+      "hint": "Two of these four are settled; one is explicitly still open; one is a personal application, not a doctrinal claim at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
       ]
     }
   ]
