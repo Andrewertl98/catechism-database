@@ -210,21 +210,24 @@
     },
     {
       "file" : "topics\/virtues-and-vices.json",
-      "levels" : 5,
+      "levels" : 9,
       "name" : "Virtues and Vices",
       "questionCounts" : {
         "1" : 6,
         "2" : 6,
         "3" : 6,
         "4" : 6,
-        "5" : 6
+        "5" : 6,
+        "6" : 6,
+        "7" : 6,
+        "8" : 6,
+        "9" : 6
       },
       "slug" : "virtues-and-vices"
     }
   ],
   "totals" : {
-    "levelsPerTopic" : 5,
-    "questions" : 435,
+    "questions" : 639,
     "topics" : 14
   }
 }
