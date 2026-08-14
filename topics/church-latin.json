@@ -8,13 +8,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1000,
       "prompt": "What does the Latin phrase 'Agnus Dei,' spoken during the Mass, mean in English?",
-      "choices": ["Lamb of God", "Bread of Life", "Body of Christ", "Holy Sacrifice"],
+      "choices": [
+        "Lamb of God",
+        "Bread of Life",
+        "Body of Christ",
+        "Holy Sacrifice"
+      ],
       "correctAnswer": "Lamb of God",
       "explanation": "'Agnus Dei' ('Lamb of God') is sung or said before Communion, echoing John the Baptist's words about Jesus and pointing to Christ as the true Passover Lamb.",
       "hint": "'Agnus' is the Latin word for a young sheep.",
       "citations": [
-        { "type": "scripture", "reference": "John 1:29" },
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "scripture",
+          "reference": "John 1:29"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -24,12 +35,20 @@
       "type": "multiple_choice",
       "difficultyElo": 950,
       "prompt": "The Latin title 'Pater Noster' refers to which prayer, which Jesus himself taught his disciples?",
-      "choices": ["The Lord's Prayer (Our Father)", "The Hail Mary", "The Glory Be", "The Apostles' Creed"],
+      "choices": [
+        "The Lord's Prayer (Our Father)",
+        "The Hail Mary",
+        "The Glory Be",
+        "The Apostles' Creed"
+      ],
       "correctAnswer": "The Lord's Prayer (Our Father)",
       "explanation": "'Pater Noster' is simply Latin for 'Our Father' -- the prayer Jesus taught his disciples in Matthew 6:9-13, prayed in Latin for centuries in the Church's liturgy.",
       "hint": "'Pater' means 'father,' and 'noster' means 'our.'",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 6:9-13" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9-13"
+        }
       ]
     },
     {
@@ -40,14 +59,26 @@
       "difficultyElo": 1100,
       "prompt": "Match each Latin liturgical word to its English meaning.",
       "pairs": [
-        { "left": "Credo", "right": "I believe" },
-        { "left": "Sanctus", "right": "Holy" },
-        { "left": "Gloria", "right": "Glory" }
+        {
+          "left": "Credo",
+          "right": "I believe"
+        },
+        {
+          "left": "Sanctus",
+          "right": "Holy"
+        },
+        {
+          "left": "Gloria",
+          "right": "Glory"
+        }
       ],
       "explanation": "These are among the most common Latin words heard in the Mass -- 'Credo' (I believe) begins the Creed, 'Sanctus' (Holy) is sung before the Eucharistic Prayer, and 'Gloria' (Glory) opens the hymn of praise near the start of Mass.",
       "hint": "Each of these words also opens a well-known part of the Mass by the same name.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -57,12 +88,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1000,
       "prompt": "What does 'Kyrie eleison,' said or sung near the start of Mass, mean?",
-      "choices": ["Lord, have mercy", "Glory to God", "Holy, holy, holy", "Thanks be to God"],
+      "choices": [
+        "Lord, have mercy",
+        "Glory to God",
+        "Holy, holy, holy",
+        "Thanks be to God"
+      ],
       "correctAnswer": "Lord, have mercy",
       "explanation": "'Kyrie eleison' is actually Greek, not Latin -- one of the few parts of the Roman Rite retained in its original Greek even after the rest of the Mass shifted to Latin and later the vernacular.",
       "hint": "This is one of the very few parts of the Mass that stayed in Greek, not Latin.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -72,12 +111,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1100,
       "prompt": "The word 'Alleluia,' sung before the Gospel outside of Lent, comes from a Hebrew phrase meaning:",
-      "choices": ["Praise the Lord", "Peace be with you", "God is great", "Come, Holy Spirit"],
+      "choices": [
+        "Praise the Lord",
+        "Peace be with you",
+        "God is great",
+        "Come, Holy Spirit"
+      ],
       "correctAnswer": "Praise the Lord",
       "explanation": "'Alleluia' (from Hebrew 'Hallelujah') has been carried, largely untranslated, across Hebrew, Greek, Latin, and countless modern languages -- Revelation 19 even preserves it in its original form as a shout of heavenly praise.",
       "hint": "This word appears untranslated in the Book of Revelation's vision of heavenly worship.",
       "citations": [
-        { "type": "scripture", "reference": "Revelation 19:1" }
+        {
+          "type": "scripture",
+          "reference": "Revelation 19:1"
+        }
       ]
     },
     {
@@ -91,7 +138,10 @@
       "explanation": "'Amen' is actually a Hebrew word, meaning something like 'so be it' or 'truly' -- it has been kept untranslated across nearly every language's liturgy since the Church's earliest days.",
       "hint": "This word predates Latin entirely -- it comes from a much older biblical language.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1061-1062" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1061-1062"
+        }
       ]
     },
     {
@@ -101,12 +151,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1720,
       "prompt": "'Ave Maria, gratia plena' is the opening of which prayer?",
-      "choices": ["The Hail Mary", "The Our Father", "The Glory Be", "The Angelus"],
+      "choices": [
+        "The Hail Mary",
+        "The Our Father",
+        "The Glory Be",
+        "The Angelus"
+      ],
       "correctAnswer": "The Hail Mary",
       "explanation": "'Ave Maria, gratia plena' translates the Angel Gabriel's own greeting to Mary at the Annunciation: 'Hail, full of grace' -- the scriptural root of this prayer's opening words.",
       "hint": "This prayer's opening line comes directly from the Angel Gabriel's greeting.",
       "citations": [
-        { "type": "scripture", "reference": "Luke 1:28" }
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28"
+        }
       ]
     },
     {
@@ -120,7 +178,10 @@
       "explanation": "This short prayer names all three divine Persons together, echoing the same Trinitarian pattern found in Christ's own baptismal command to the apostles.",
       "hint": "This prayer names all three Persons the way Christ himself did when instituting Baptism.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 28:19" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19"
+        }
       ]
     },
     {
@@ -134,7 +195,10 @@
       "explanation": "Mary's canticle, prayed by the whole Church every evening in the Liturgy of the Hours, opens with these words of praise she spoke at the Visitation, greeting her cousin Elizabeth.",
       "hint": "This is the title Scripture gives to God himself, right at the start of the line.",
       "citations": [
-        { "type": "scripture", "reference": "Luke 1:46-55" }
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-55"
+        }
       ]
     },
     {
@@ -154,7 +218,10 @@
       "explanation": "This is the opening line of the traditional Requiem prayer for the dead, asking God to grant the deceased eternal rest and perpetual light.",
       "hint": "'Requiem' is Latin for 'rest' -- this is where the English word for a funeral Mass comes from.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1032" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1032"
+        }
       ]
     },
     {
@@ -168,7 +235,10 @@
       "explanation": "The Angelus alternates three short verses about the Annunciation with three full recitations of the Hail Mary, forming a brief but rich meditation on the Incarnation.",
       "hint": "This prayer has three verses, and follows each one with the same Marian prayer.",
       "citations": [
-        { "type": "scripture", "reference": "Luke 1:28" }
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28"
+        }
       ]
     },
     {
@@ -179,16 +249,34 @@
       "difficultyElo": 1820,
       "prompt": "Match each Latin prayer title to its English meaning or use.",
       "pairs": [
-        { "left": "Ave Maria", "right": "Hail Mary, from the Angel Gabriel's greeting" },
-        { "left": "Gloria Patri", "right": "Glory be to the Father, a Trinitarian doxology" },
-        { "left": "Salve Regina", "right": "Hail, Holy Queen, a Marian hymn" },
-        { "left": "Requiem aeternam", "right": "Eternal rest, a prayer for the dead" }
+        {
+          "left": "Ave Maria",
+          "right": "Hail Mary, from the Angel Gabriel's greeting"
+        },
+        {
+          "left": "Gloria Patri",
+          "right": "Glory be to the Father, a Trinitarian doxology"
+        },
+        {
+          "left": "Salve Regina",
+          "right": "Hail, Holy Queen, a Marian hymn"
+        },
+        {
+          "left": "Requiem aeternam",
+          "right": "Eternal rest, a prayer for the dead"
+        }
       ],
       "explanation": "Each of these prayers has been prayed continuously in Latin for many centuries, forming part of the Church's shared devotional memory across generations and languages.",
       "hint": "Two of these are Marian prayers; one is Trinitarian; one is for the deceased.",
       "citations": [
-        { "type": "scripture", "reference": "Luke 1:28" },
-        { "type": "scripture", "reference": "Matthew 28:19" }
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19"
+        }
       ]
     },
     {
@@ -208,7 +296,10 @@
       "explanation": "This exchange happens at several points in the Mass, greeting the assembly and receiving this specific response -- distinct from the responses used elsewhere in the liturgy.",
       "hint": "This exact call-and-response happens more than once during Mass.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -222,7 +313,10 @@
       "explanation": "This closing exchange sends the assembly out with gratitude -- and, as noted elsewhere, gives the Mass its very name, since 'missa' is the root of the English word 'Mass.'",
       "hint": "The congregation's response here is a simple expression of gratitude.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -236,7 +330,10 @@
       "explanation": "This brief acclamation honors Christ's own words about to be proclaimed in the Gospel, distinct from the honor given to the other Scripture readings.",
       "hint": "It's the title given to Jesus in this greeting, matching who the Gospel is about.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -246,12 +343,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2050,
       "prompt": "After receiving the Body of Christ, a communicant traditionally responds to the minister's words 'Corpus Christi' ('The Body of Christ') with:",
-      "choices": ["'Amen'", "'Alleluia'", "'Et cum spiritu tuo'", "'Deo gratias'"],
+      "choices": [
+        "'Amen'",
+        "'Alleluia'",
+        "'Et cum spiritu tuo'",
+        "'Deo gratias'"
+      ],
       "correctAnswer": "'Amen'",
       "explanation": "This single-word response affirms belief in what's being received -- Christ's own Body, truly present -- echoing the same word's ancient meaning of 'so be it' or 'truly.'",
       "hint": "It's the same word that closes most prayers, affirming what was just said is true.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -265,7 +370,10 @@
       "explanation": "This threefold repetition, part of the Confiteor's penitential act, intensifies with each phrase -- from 'my fault' to 'my most grievous fault' -- as the assembly acknowledges sin before God.",
       "hint": "The phrase repeats three times, growing more intense each time.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -276,15 +384,30 @@
       "difficultyElo": 2150,
       "prompt": "Match each Latin call from the Mass to its traditional response.",
       "pairs": [
-        { "left": "Dominus vobiscum", "right": "Et cum spiritu tuo" },
-        { "left": "Ite, missa est", "right": "Deo gratias" },
-        { "left": "Corpus Christi", "right": "Amen" },
-        { "left": "Sursum corda", "right": "Habemus ad Dominum" }
+        {
+          "left": "Dominus vobiscum",
+          "right": "Et cum spiritu tuo"
+        },
+        {
+          "left": "Ite, missa est",
+          "right": "Deo gratias"
+        },
+        {
+          "left": "Corpus Christi",
+          "right": "Amen"
+        },
+        {
+          "left": "Sursum corda",
+          "right": "Habemus ad Dominum"
+        }
       ],
       "explanation": "These call-and-response exchanges, some in continuous use for over a thousand years, give the Mass its distinctive rhythm of dialogue between priest and people.",
       "hint": "Each Latin call has its own fixed, traditional response -- memorize the pairs as fixed units.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -294,12 +417,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2380,
       "prompt": "The phrase 'Lumen Gentium,' the title of a major Vatican II document on the Church, means:",
-      "choices": ["Light of the Nations", "People of God", "Mystery of the Church", "Voice of the Faithful"],
+      "choices": [
+        "Light of the Nations",
+        "People of God",
+        "Mystery of the Church",
+        "Voice of the Faithful"
+      ],
       "correctAnswer": "Light of the Nations",
       "explanation": "Vatican II documents are traditionally titled by their opening Latin words -- 'Lumen Gentium' ('Light of the Nations') opens by describing Christ himself as the light the Church is called to reflect to the world.",
       "hint": "'Lumen' is Latin for 'light,' and 'gentium' relates to 'the nations' or 'peoples.'",
       "citations": [
-        { "type": "magisterial_document", "reference": "Vatican II, Lumen Gentium (1964)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Lumen Gentium (1964)"
+        }
       ]
     },
     {
@@ -313,7 +444,10 @@
       "explanation": "'Ex cathedra' evokes the bishop's teaching chair (cathedra) as a symbol of authoritative teaching -- when the pope defines a doctrine in this formal, specific way, the Church holds that teaching to be preserved from error.",
       "hint": "'Cathedra' is also the root of the English word 'cathedral' -- the church that houses a bishop's official chair.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 891" }
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        }
       ]
     },
     {
@@ -327,7 +461,10 @@
       "explanation": "This ancient axiom, drawn from early Church Fathers, requires careful interpretation -- the Catechism explains it in terms of the Church's necessity for salvation while also addressing those outside her visible bounds through no fault of their own.",
       "hint": "'Salus' is the Latin word this axiom ends on, meaning 'salvation.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 846" }
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        }
       ]
     },
     {
@@ -337,12 +474,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2360,
       "prompt": "'Ad orientem,' a phrase describing a particular direction of liturgical prayer, means:",
-      "choices": ["Toward the east", "Toward the altar", "Facing the people", "Toward Rome"],
+      "choices": [
+        "Toward the east",
+        "Toward the altar",
+        "Facing the people",
+        "Toward Rome"
+      ],
       "correctAnswer": "Toward the east",
       "explanation": "Praying 'ad orientem' -- facing east, the direction of the rising sun -- symbolically orients the assembly toward Christ, traditionally associated with the light of the rising sun and his promised return.",
       "hint": "'Oriens' is the Latin word for 'rising' -- as in where the sun rises.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Roman Missal, Order of Mass" }
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
       ]
     },
     {
@@ -356,7 +501,10 @@
       "explanation": "This term describes the interval between a pope's death or resignation and the election of his successor -- 'sede' relates to the papal 'seat' or chair, echoing the same imagery found in 'ex cathedra.'",
       "hint": "This phrase shares its root idea with 'ex cathedra' -- both are about an official 'seat' or 'chair.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 882" }
+        {
+          "type": "ccc",
+          "reference": "CCC 882"
+        }
       ]
     },
     {
@@ -367,16 +515,34 @@
       "difficultyElo": 2450,
       "prompt": "Match each Latin phrase to its meaning.",
       "pairs": [
-        { "left": "Lumen Gentium", "right": "Light of the Nations (a Vatican II document title)" },
-        { "left": "Ex cathedra", "right": "From the chair (papal infallible teaching)" },
-        { "left": "Extra Ecclesiam nulla salus", "right": "Outside the Church there is no salvation" },
-        { "left": "Ad orientem", "right": "Toward the east (a direction of liturgical prayer)" }
+        {
+          "left": "Lumen Gentium",
+          "right": "Light of the Nations (a Vatican II document title)"
+        },
+        {
+          "left": "Ex cathedra",
+          "right": "From the chair (papal infallible teaching)"
+        },
+        {
+          "left": "Extra Ecclesiam nulla salus",
+          "right": "Outside the Church there is no salvation"
+        },
+        {
+          "left": "Ad orientem",
+          "right": "Toward the east (a direction of liturgical prayer)"
+        }
       ],
       "explanation": "Reading Latin theological and liturgical phrases like these fluently opens up centuries of Church documents and tradition otherwise locked behind translation.",
       "hint": "Two of these phrases are about authority and teaching; two are about direction and salvation.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 891" },
-        { "type": "ccc", "reference": "CCC 846" }
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        }
       ]
     },
     {
@@ -396,7 +562,10 @@
       "explanation": "This formula echoes Christ's own words instituting Baptism, and marks the beginning and end of most Catholic prayers, invoking the Trinity by name.",
       "hint": "This phrase directly echoes Christ's own words at the institution of Baptism.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 28:19" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19"
+        }
       ]
     },
     {
@@ -410,7 +579,10 @@
       "explanation": "The council chose this precise term -- declaring the Son 'of one substance' with the Father -- specifically to close off any Arian reading that would make the Son a lesser, created being rather than true God.",
       "hint": "This council convened in 325 specifically to answer a priest named Arius.",
       "citations": [
-        { "type": "council", "reference": "Council of Nicaea (325)" }
+        {
+          "type": "council",
+          "reference": "Council of Nicaea (325)"
+        }
       ]
     },
     {
@@ -424,7 +596,10 @@
       "explanation": "This single Latin word sums up the Dominican charism -- a religious order especially devoted to study, preaching, and the pursuit and defense of revealed and philosophical truth.",
       "hint": "This is exactly the kind of thing Fides et Ratio spends a whole encyclical defending the pursuit of.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
       ]
     },
     {
@@ -434,12 +609,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2600,
       "prompt": "'Magisterium,' the Church's official teaching authority, comes from the Latin 'magister,' meaning:",
-      "choices": ["Teacher or master", "King or ruler", "Servant", "Judge"],
+      "choices": [
+        "Teacher or master",
+        "King or ruler",
+        "Servant",
+        "Judge"
+      ],
       "correctAnswer": "Teacher or master",
       "explanation": "The word ties the Church's teaching office directly to the image of a master teacher -- authoritative not by force, but by responsibility for faithfully handing on and explaining the truth entrusted to the Church.",
       "hint": "This word is also the root of the English word 'magistrate' and 'maestro.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 85" }
+        {
+          "type": "ccc",
+          "reference": "CCC 85"
+        }
       ]
     },
     {
@@ -453,7 +636,10 @@
       "explanation": "An imprimatur is not a papal endorsement of everything a book says -- it simply certifies that a bishop, exercising the Church's teaching oversight, found nothing contrary to faith and morals in it.",
       "hint": "This Latin phrase literally grants permission for something to happen -- specifically, to be printed.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 85" }
+        {
+          "type": "ccc",
+          "reference": "CCC 85"
+        }
       ]
     },
     {
@@ -464,16 +650,177 @@
       "difficultyElo": 2720,
       "prompt": "Match each Latin term to its meaning.",
       "pairs": [
-        { "left": "Sacramentum", "right": "Originally a soldier's oath; root of 'sacrament'" },
-        { "left": "Magisterium", "right": "From 'magister' (teacher); the Church's teaching authority" },
-        { "left": "Veritas", "right": "Truth (the Dominican motto)" },
-        { "left": "Imprimatur", "right": "'Let it be printed' -- a bishop's doctrinal approval of a text" }
+        {
+          "left": "Sacramentum",
+          "right": "Originally a soldier's oath; root of 'sacrament'"
+        },
+        {
+          "left": "Magisterium",
+          "right": "From 'magister' (teacher); the Church's teaching authority"
+        },
+        {
+          "left": "Veritas",
+          "right": "Truth (the Dominican motto)"
+        },
+        {
+          "left": "Imprimatur",
+          "right": "'Let it be printed' -- a bishop's doctrinal approval of a text"
+        }
       ],
       "explanation": "Fluency in terms like these unlocks a whole vocabulary the Church has used for centuries to describe her own authority, sacraments, and mission -- reading them well means reading the Church's own self-description more clearly.",
       "hint": "Two of these terms are about the Church's teaching function; two are about sacred realities and permissions.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 85" },
-        { "type": "ccc", "reference": "CCC 1113" }
+        {
+          "type": "ccc",
+          "reference": "CCC 85"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1113"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-001",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Tantum Ergo's line 'praestet fides supplementum sensuum defectui' is often sung in English as roughly 'faith our outward sense befriending, makes our inward vision clear.' A more literal rendering is 'let faith supply a supplement for the deficiency of the senses.' Which structural feature does the more literal rendering preserve that the common singing translation risks softening?",
+      "choices": [
+        "Faith's active role as the very thing that supplies for what the senses cannot perceive regarding the Real Presence, not merely 'helping' or 'clarifying' an already-functioning sense",
+        "The line's reference to the Trinity",
+        "The meter needed for the hymn to be sung to its traditional tune",
+        "The grammatical case of the word 'fides'"
+      ],
+      "correctAnswer": "Faith's active role as the very thing that supplies for what the senses cannot perceive regarding the Real Presence, not merely 'helping' or 'clarifying' an already-functioning sense",
+      "explanation": "The Latin 'supplementum... defectui' names an actual deficiency (defectus) the senses have regarding the Eucharistic change, which faith actively supplies for (supplementum) -- a stronger epistemological claim than a softer paraphrase like 'faith clarifies our vision,' which can read as merely improving an already-working sense rather than supplying for what the senses genuinely cannot perceive at all. CCC 1381 makes the same point traditionally associated with Aquinas's own words here on the Real Presence.",
+      "hint": "Ask which version treats the senses as simply limited-but-working, and which treats them as genuinely unable to perceive the change at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-002",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Adoro Te Devote's line 'visus, tactus, gustus in te fallitur, sed auditu solo tuto creditur' names three specific senses said to be deceived regarding the Eucharist. Which three senses does the Latin actually name?",
+      "choices": [
+        "Sight, touch, and taste",
+        "Sight, hearing, and smell",
+        "Touch, taste, and smell",
+        "All five senses equally, with none named specifically"
+      ],
+      "correctAnswer": "Sight, touch, and taste",
+      "explanation": "'Visus, tactus, gustus' names sight, touch, and taste specifically as deceived regarding the Eucharistic species, while 'auditu solo tuto creditur' -- 'by hearing alone is it safely believed' -- points to the word of Christ, heard and believed, as the one reliable ground for faith in the Real Presence, a point traditionally attributed to Aquinas as the hymn's author.",
+      "hint": "Notice which sense is explicitly set apart as trustworthy ('auditu') rather than included among the deceived three.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-003",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: 'Accende lumen sensibus' in Veni Creator Spiritus is a grammatical imperative -- a direct petition asking the Holy Spirit to kindle light in the senses -- fitting its traditional use at ordinations and papal conclaves as an actual invocation, not merely a general description of the Spirit's activity.",
+      "correctAnswer": true,
+      "explanation": "'Accende' is an imperative verb form -- a direct command/petition, 'kindle!' -- addressed to the Holy Spirit, consistent with the hymn's overall structure as a real invocation calling the Spirit down, which is exactly why it is actually prayed (not just read) at moments like conclaves and ordinations where the Church is asking the Spirit to act.",
+      "hint": "Check the verb form -- is it describing something happening, or directly commanding/asking for it to happen?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2671"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-004",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Vexilla Regis's line 'impleta sunt quae concinit David fideli carmine' makes a specific claim. What is it?",
+      "choices": [
+        "That a specific prophecy sung by David in a faithful song has now been fulfilled (in Christ's Passion)",
+        "That King David personally witnessed the crucifixion",
+        "That the entire Book of Psalms was composed after the Passion",
+        "That David's prophecies apply only to the Old Testament and have no New Testament fulfillment"
+      ],
+      "correctAnswer": "That a specific prophecy sung by David in a faithful song has now been fulfilled (in Christ's Passion)",
+      "explanation": "'Impleta sunt' ('they have been fulfilled') makes an explicit fulfillment claim about what David 'sang' ('concinit') in a 'fideli carmine' ('faithful song') -- a direct assertion that a specific Davidic psalm-prophecy finds its fulfillment in the events of Christ's Passion being commemorated by this hymn.",
+      "hint": "The key verb 'impleta sunt' names a fulfillment, not merely a comparison or resemblance.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Psalm 96:10"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-005",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Stabat Mater's line describing Mary's soul, 'cuius animam gementem... pertransivit gladius' ('whose grieving soul... a sword pierced through'), directly echoes which Gospel passage?",
+      "choices": [
+        "Simeon's prophecy to Mary in Luke 2:35 ('a sword will pierce your own soul too')",
+        "The Annunciation account in Luke 1:26-38",
+        "The wedding at Cana in John 2:1-11",
+        "Christ's words from the cross to the beloved disciple in John 19:26-27"
+      ],
+      "correctAnswer": "Simeon's prophecy to Mary in Luke 2:35 ('a sword will pierce your own soul too')",
+      "explanation": "'Pertransivit gladius' ('a sword pierced through') is a direct verbal echo of Simeon's prophecy at the Presentation, that a sword would pierce Mary's own soul -- Stabat Mater presents that prophecy as fulfilled at the foot of the cross, connecting the two Gospel moments through the hymn's own careful word choice.",
+      "hint": "This connects Mary's presence at the crucifixion to a specific prophecy made about her decades earlier, at Jesus's infancy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:35"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-006",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each Latin hymn line to the specific theological claim it makes.",
+      "pairs": [
+        {
+          "left": "Tantum Ergo: 'praestet fides supplementum sensuum defectui'",
+          "right": "Faith actively supplies for what the senses cannot perceive about the Real Presence"
+        },
+        {
+          "left": "Adoro Te Devote: 'visus, tactus, gustus in te fallitur, sed auditu solo tuto creditur'",
+          "right": "Three named senses are deceived; hearing Christ's word alone is the trustworthy ground of belief"
+        },
+        {
+          "left": "Vexilla Regis: 'impleta sunt quae concinit David fideli carmine'",
+          "right": "A specific Davidic prophecy is now fulfilled in Christ's Passion"
+        },
+        {
+          "left": "Dies Irae: 'recordare, Iesu pie, quod sum causa tuae viae'",
+          "right": "A direct causal claim -- 'I am the cause of your journey' -- not a generic expression of gratitude"
+        }
+      ],
+      "explanation": "Each of these lines makes a specific, structurally precise theological claim in the Latin -- this level's whole discipline is judging whether a given English rendering preserves that precise claim or softens it into something vaguer.",
+      "hint": "Every right answer names something specific and structural, not a general summary of 'this hymn is about the Eucharist/Mary/judgment.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381"
+        }
       ]
     }
   ]
