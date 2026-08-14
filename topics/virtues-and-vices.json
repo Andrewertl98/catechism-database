@@ -8,12 +8,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1100,
       "prompt": "The four 'cardinal' virtues -- so called because all other human virtues hinge on them -- are prudence, justice, fortitude, and:",
-      "choices": ["Temperance", "Patience", "Humility", "Generosity"],
+      "choices": [
+        "Temperance",
+        "Patience",
+        "Humility",
+        "Generosity"
+      ],
       "correctAnswer": "Temperance",
       "explanation": "'Cardinal' comes from the Latin cardo, 'hinge.' These four virtues, acquired by human effort and habit, are the hinges on which a well-ordered moral life turns.",
       "hint": "It's the virtue of self-moderation, keeping desires within due limits.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1805" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1805"
+        }
       ]
     },
     {
@@ -33,7 +41,10 @@
       "explanation": "Prudence isn't timidity -- it's the virtue that lets a person correctly discern the true good in a concrete situation and choose the right means to reach it.",
       "hint": "It's about applying good judgment to a real decision, not just being smart in the abstract.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1806" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        }
       ]
     },
     {
@@ -47,7 +58,10 @@
       "explanation": "Fortitude is firmness in pursuing the good despite difficulty, danger, or fear -- not the absence of fear. It means acting rightly in spite of fear, not never feeling it.",
       "hint": "A person can feel afraid and still have this virtue, as long as they act rightly anyway.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1808" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1808"
+        }
       ]
     },
     {
@@ -61,7 +75,10 @@
       "explanation": "Temperance doesn't mean suppressing every desire -- it means keeping legitimate desires (for food, drink, and other goods) rightly ordered rather than letting them run unchecked.",
       "hint": "It's the same virtue named at the start of this topic's very first question.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1809" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1809"
+        }
       ]
     },
     {
@@ -81,7 +98,10 @@
       "explanation": "Justice orders our relationships toward the common good, respecting the rights of others and fulfilling our duties toward God and neighbor alike.",
       "hint": "Think of 'giving each their due,' not 'winning' or 'punishing.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1807" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1807"
+        }
       ]
     },
     {
@@ -92,15 +112,30 @@
       "difficultyElo": 1400,
       "prompt": "Match each cardinal virtue to its core meaning.",
       "pairs": [
-        { "left": "Prudence", "right": "Right practical judgment about what to actually do" },
-        { "left": "Justice", "right": "Giving God and neighbor their due" },
-        { "left": "Fortitude", "right": "Firmness in pursuing the good despite difficulty or fear" },
-        { "left": "Temperance", "right": "Keeping desire for pleasures within due limits" }
+        {
+          "left": "Prudence",
+          "right": "Right practical judgment about what to actually do"
+        },
+        {
+          "left": "Justice",
+          "right": "Giving God and neighbor their due"
+        },
+        {
+          "left": "Fortitude",
+          "right": "Firmness in pursuing the good despite difficulty or fear"
+        },
+        {
+          "left": "Temperance",
+          "right": "Keeping desire for pleasures within due limits"
+        }
       ],
       "explanation": "Together, the four cardinal virtues govern how we judge (prudence), relate to others (justice), face difficulty (fortitude), and handle desire (temperance) -- the hinges of a well-ordered moral life.",
       "hint": "Each virtue answers a different question: how to judge, how to relate, how to endure, how to desire.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1805" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1805"
+        }
       ]
     },
     {
@@ -120,7 +155,10 @@
       "explanation": "The theological virtues have God himself as their direct object -- they can't be acquired by repeated human acts alone, but are given by God, usually at Baptism, and adapt our faculties to share in his own life.",
       "hint": "'Theological' hints at the difference -- these are directly about God, not just about being a good person in general.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1812-1813" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1812-1813"
+        }
       ]
     },
     {
@@ -134,7 +172,10 @@
       "explanation": "Paul's hymn to love concludes: 'So faith, hope, love abide, these three; but the greatest of these is love.' Charity alone will remain in heaven, where faith gives way to sight and hope to possession.",
       "hint": "This is from Paul's famous chapter on love, often read at weddings.",
       "citations": [
-        { "type": "scripture", "reference": "1 Corinthians 13:13" }
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 13:13"
+        }
       ]
     },
     {
@@ -148,7 +189,10 @@
       "explanation": "Faith is not a blind guess -- it's a reasonable trust grounded in who God is: Truth itself, who neither deceives nor can be deceived.",
       "hint": "It's the first of the three theological virtues, usually listed before hope and charity.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1814" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1814"
+        }
       ]
     },
     {
@@ -168,7 +212,10 @@
       "explanation": "Hope isn't wishful thinking or passive optimism -- it's an active trust that God will give the grace needed to reach the eternal life he promises, if we cooperate with him.",
       "hint": "This virtue is directed specifically toward eternal life, relying on God's own help.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1817" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1817"
+        }
       ]
     },
     {
@@ -182,7 +229,10 @@
       "explanation": "Charity is the supernatural virtue of loving God above all things and neighbor as oneself for God's own sake -- something deeper than natural warmth, though it doesn't exclude it.",
       "hint": "This virtue is specifically about loving God above all things, not just being pleasant to be around.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1822" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1822"
+        }
       ]
     },
     {
@@ -193,14 +243,26 @@
       "difficultyElo": 1820,
       "prompt": "Match each theological virtue to its object.",
       "pairs": [
-        { "left": "Faith", "right": "Believing God and everything he has revealed" },
-        { "left": "Hope", "right": "Desiring and trusting in eternal life and God's help" },
-        { "left": "Charity", "right": "Loving God above all and neighbor as oneself, for his sake" }
+        {
+          "left": "Faith",
+          "right": "Believing God and everything he has revealed"
+        },
+        {
+          "left": "Hope",
+          "right": "Desiring and trusting in eternal life and God's help"
+        },
+        {
+          "left": "Charity",
+          "right": "Loving God above all and neighbor as oneself, for his sake"
+        }
       ],
       "explanation": "All three theological virtues have God as their direct object -- what he has said (faith), what he promises (hope), and who he is, loved for his own sake (charity).",
       "hint": "One is about believing, one about trusting the future, one about loving.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1813" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1813"
+        }
       ]
     },
     {
@@ -220,7 +282,10 @@
       "explanation": "'Capital' comes from the Latin caput, 'head' -- these vices are the head or source from which many other sins branch out, not a special category immune to forgiveness.",
       "hint": "Think of 'capital' as in 'head' or 'source,' the root Latin meaning -- not as in punishment.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1866" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        }
       ]
     },
     {
@@ -234,7 +299,10 @@
       "explanation": "Pride -- an excessive, disordered self-regard that refuses to acknowledge dependence on God -- is traditionally named first among the capital vices, often seen as the root from which the others grow.",
       "hint": "This is the vice most directly opposed to humility before God.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1866" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        }
       ]
     },
     {
@@ -248,7 +316,10 @@
       "explanation": "Envy is sorrow at another's good, as though it diminished one's own -- the opposite of charity, which rejoices in the good of others as a friend would.",
       "hint": "It's the vice at work when someone else's success feels like your loss.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2539-2540" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2539-2540"
+        }
       ]
     },
     {
@@ -268,7 +339,10 @@
       "explanation": "Sloth isn't ordinary tiredness or healthy rest -- it's a spiritual sluggishness so deep it refuses the joy that comes from God, neglecting the effort love of him actually requires.",
       "hint": "This is about the soul's laziness toward God, not the body's need for sleep.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2094" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2094"
+        }
       ]
     },
     {
@@ -282,7 +356,10 @@
       "explanation": "Gluttony traditionally names a broader disordered attachment to food and drink -- excess, but also excessive fussiness, eating too eagerly, or too often -- not just overeating narrowly defined.",
       "hint": "This vice is opposed to the same virtue that governs desire for pleasure more broadly.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1809" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1809"
+        }
       ]
     },
     {
@@ -293,15 +370,30 @@
       "difficultyElo": 2150,
       "prompt": "Match each capital vice to the virtue it most directly opposes.",
       "pairs": [
-        { "left": "Pride", "right": "Humility" },
-        { "left": "Envy", "right": "Charity (rejoicing in another's good)" },
-        { "left": "Sloth", "right": "Zeal and diligence for God" },
-        { "left": "Gluttony", "right": "Temperance" }
+        {
+          "left": "Pride",
+          "right": "Humility"
+        },
+        {
+          "left": "Envy",
+          "right": "Charity (rejoicing in another's good)"
+        },
+        {
+          "left": "Sloth",
+          "right": "Zeal and diligence for God"
+        },
+        {
+          "left": "Gluttony",
+          "right": "Temperance"
+        }
       ],
       "explanation": "Each capital vice is a distortion or refusal of a corresponding virtue -- growth in virtue is, in large part, the slow uprooting of these very tendencies.",
       "hint": "Each vice is essentially the absence or corruption of one specific virtue.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1866" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        }
       ]
     },
     {
@@ -311,12 +403,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2380,
       "prompt": "Isaiah 11 lists seven gifts of the Holy Spirit that rest upon the Messiah and, through him, upon believers. Which of these is one of the seven?",
-      "choices": ["Wisdom", "Patience", "Kindness", "Self-control"],
+      "choices": [
+        "Wisdom",
+        "Patience",
+        "Kindness",
+        "Self-control"
+      ],
       "correctAnswer": "Wisdom",
       "explanation": "The seven gifts are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord. Patience, kindness, and self-control are instead traditionally counted among the fruits of the Spirit, not the gifts.",
       "hint": "The other three options are actually fruits of the Spirit, not gifts -- a different, though related, list.",
       "citations": [
-        { "type": "scripture", "reference": "Isaiah 11:2-3" }
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:2-3"
+        }
       ]
     },
     {
@@ -330,7 +430,10 @@
       "explanation": "Paul's list in Galatians 5:22-23 begins: 'love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, self-control' -- visible signs that the Spirit is truly at work in a life.",
       "hint": "This list comes from Paul's letter to the Galatians, right after his list of the 'works of the flesh.'",
       "citations": [
-        { "type": "scripture", "reference": "Galatians 5:22-23" }
+        {
+          "type": "scripture",
+          "reference": "Galatians 5:22-23"
+        }
       ]
     },
     {
@@ -344,7 +447,10 @@
       "explanation": "The image is agricultural: just as a tree's fruit shows the tree is healthy, the Spirit's fruits in a soul are the first, visible signs of the glory that awaits in full at the end.",
       "hint": "It's the same word already used earlier in the sentence, describing what these perfections are called.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1832" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1832"
+        }
       ]
     },
     {
@@ -364,7 +470,10 @@
       "explanation": "The gifts don't compete with the virtues -- they make a person docile to the Holy Spirit's promptings, perfecting the virtues so a person can respond readily to God's inspiration.",
       "hint": "Think of these gifts as fine-tuning the virtues already present, not replacing them.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1831" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1831"
+        }
       ]
     },
     {
@@ -378,7 +487,10 @@
       "explanation": "This gift means filial reverence and awe before God's holiness and goodness -- the fitting response of a child toward a father worthy of total respect -- not the servile terror of someone facing an unpredictable tyrant.",
       "hint": "Think of a child's reverent respect for a good father, not dread of a threatening stranger.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1831" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1831"
+        }
       ]
     },
     {
@@ -389,16 +501,34 @@
       "difficultyElo": 2450,
       "prompt": "Match each list to where it comes from and how it's acquired.",
       "pairs": [
-        { "left": "Seven gifts of the Holy Spirit", "right": "Listed in Isaiah 11:2-3" },
-        { "left": "Fruits of the Spirit", "right": "Listed by Paul in Galatians 5:22-23" },
-        { "left": "Cardinal virtues", "right": "Developed through human effort and habit" },
-        { "left": "Theological virtues", "right": "Infused directly by God" }
+        {
+          "left": "Seven gifts of the Holy Spirit",
+          "right": "Listed in Isaiah 11:2-3"
+        },
+        {
+          "left": "Fruits of the Spirit",
+          "right": "Listed by Paul in Galatians 5:22-23"
+        },
+        {
+          "left": "Cardinal virtues",
+          "right": "Developed through human effort and habit"
+        },
+        {
+          "left": "Theological virtues",
+          "right": "Infused directly by God"
+        }
       ],
       "explanation": "These four lists work together in the spiritual life: virtues form good habits, gifts make us docile to the Spirit, and fruits are the visible evidence the Spirit is truly at work.",
       "hint": "Two of these pairs point to a Scripture source; two point to how the virtues are acquired.",
       "citations": [
-        { "type": "scripture", "reference": "Isaiah 11:2-3" },
-        { "type": "scripture", "reference": "Galatians 5:22-23" }
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:2-3"
+        },
+        {
+          "type": "scripture",
+          "reference": "Galatians 5:22-23"
+        }
       ]
     },
     {
@@ -418,8 +548,14 @@
       "explanation": "The Beatitudes depict the heights of the virtuous life, portraying the paradoxical road -- poverty of spirit, mourning, meekness, hunger for righteousness -- that leads to genuine, lasting blessedness.",
       "hint": "This is Jesus' own portrait of what a fully virtuous, blessed life looks like.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1716" },
-        { "type": "scripture", "reference": "Matthew 5:3-12" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1716"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 5:3-12"
+        }
       ]
     },
     {
@@ -433,7 +569,10 @@
       "explanation": "'Poor in spirit' is traditionally read as spiritual humility and detachment -- a heart not clinging to riches or self-sufficiency -- though it doesn't exclude or dismiss the situation of the materially poor either.",
       "hint": "The phrase specifies 'in spirit,' pointing to an inner disposition, not just a bank balance.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 5:3" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 5:3"
+        }
       ]
     },
     {
@@ -447,7 +586,10 @@
       "explanation": "A heart wholly, simply directed toward God -- undivided by disordered attachments -- is what fits a person to see God as he is.",
       "hint": "It's the opposite of a heart divided between God and other loves.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 5:8" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 5:8"
+        }
       ]
     },
     {
@@ -467,7 +609,10 @@
       "explanation": "The Beatitudes aren't an abstract checklist -- they portray Christ's own character, and the Christian life is the slow work of being conformed to that same portrait.",
       "hint": "The one who preached the Beatitudes also lived every one of them perfectly himself.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1717" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1717"
+        }
       ]
     },
     {
@@ -481,7 +626,10 @@
       "explanation": "Blessedness is a deeper, lasting happiness found in union with God -- so real that the Beatitudes can call the poor, the mourning, and the persecuted 'blessed,' states that offer little worldly pleasure at all.",
       "hint": "Notice who Jesus calls 'blessed' -- mourners and the persecuted are not exactly comfortable.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1716" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1716"
+        }
       ]
     },
     {
@@ -492,15 +640,614 @@
       "difficultyElo": 2720,
       "prompt": "Match each Beatitude to what it promises.",
       "pairs": [
-        { "left": "Poor in spirit", "right": "Theirs is the kingdom of heaven" },
-        { "left": "Those who mourn", "right": "They shall be comforted" },
-        { "left": "The meek", "right": "They shall inherit the earth" },
-        { "left": "The pure in heart", "right": "They shall see God" }
+        {
+          "left": "Poor in spirit",
+          "right": "Theirs is the kingdom of heaven"
+        },
+        {
+          "left": "Those who mourn",
+          "right": "They shall be comforted"
+        },
+        {
+          "left": "The meek",
+          "right": "They shall inherit the earth"
+        },
+        {
+          "left": "The pure in heart",
+          "right": "They shall see God"
+        }
       ],
       "explanation": "Each Beatitude pairs a state that looks like loss by worldly standards with a promise only God can fulfill -- the reversal at the heart of the Gospel.",
       "hint": "Each promise directly answers the specific condition named just before it.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 5:3-12" }
+        {
+          "type": "scripture",
+          "reference": "Matthew 5:3-12"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-001",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "Aquinas calls prudence the 'charioteer of the virtues' (auriga virtutum), a traditional gloss on his teaching in ST II-II q.47. What argumentative work does this image do?",
+      "choices": [
+        "It shows prudence as the virtue that directs and applies the other virtues rightly to concrete action, without itself replacing them",
+        "It shows prudence is the only virtue a person actually needs",
+        "It shows prudence is purely a natural talent, unrelated to moral choice",
+        "It shows prudence operates independently of reason, guided by feeling alone"
+      ],
+      "correctAnswer": "It shows prudence as the virtue that directs and applies the other virtues rightly to concrete action, without itself replacing them",
+      "explanation": "Just as a charioteer directs horses without being the horses themselves, prudence directs the exercise of the other virtues -- justice, fortitude, temperance -- applying right reason to concrete action, without prudence substituting for or replacing what those other virtues actually do.",
+      "hint": "A charioteer doesn't pull the chariot himself -- he directs those who do.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-002",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "The connexio virtutum (unity-of-virtues) thesis holds that perfect fortitude cannot exist without prudence. Why not?",
+      "choices": [
+        "Because acting bravely without right judgment about when and how to act risks becoming mere recklessness rather than true courage",
+        "Because fortitude and prudence are simply two names for the exact same virtue",
+        "Because prudence makes fortitude unnecessary in every situation",
+        "Because the connexio virtutum only applies to the theological virtues, never the cardinal virtues"
+      ],
+      "correctAnswer": "Because acting bravely without right judgment about when and how to act risks becoming mere recklessness rather than true courage",
+      "explanation": "The unity-of-virtues thesis holds the moral virtues are interconnected: a person can't have one virtue perfectly while lacking another, because acting courageously without prudent judgment about the right occasion, manner, and end just produces rashness, not real fortitude -- true virtue requires the whole configuration working together.",
+      "hint": "Without right judgment guiding it, bravery risks becoming something else entirely.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1839"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-003",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1831,
+      "prompt": "True or False: Charity, as a theological virtue, can be developed through the same process of habitual repetition used to build an acquired moral virtue like temperance.",
+      "correctAnswer": false,
+      "explanation": "Acquired virtues like temperance develop through repeated good acts forming a stable disposition (habitus), but theological virtues like charity are infused directly by God's grace -- they cannot be self-generated by repetition alone, though a person can dispose themselves to receive and cooperate with this gift.",
+      "hint": "One kind of virtue is built up by practice; the other is a direct gift that practice alone cannot manufacture.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-004",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "Faith, hope, and charity are called 'theological' virtues specifically because of what feature, per CCC 1812-1813?",
+      "choices": [
+        "Their formal object -- what they are ultimately directed toward and grounded in -- is God himself, not a created good",
+        "They can only be practiced by professional theologians",
+        "They were first named by a Church council rather than Scripture",
+        "They apply only to acts of formal prayer, never to ordinary daily choices"
+      ],
+      "correctAnswer": "Their formal object -- what they are ultimately directed toward and grounded in -- is God himself, not a created good",
+      "explanation": "CCC 1812-1813 explains that faith, hope, and charity are called 'theological' because their object, motive, and origin is God himself, directly -- distinguishing them from the cardinal virtues, whose object is some created good ordered by reason, even when that good ultimately serves a person's relationship with God.",
+      "hint": "The word 'theological' here is about the virtue's ultimate object, not about who studies or teaches it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1812"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-005",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "What makes a virtue 'cardinal' rather than simply one virtue among many, per CCC 1805?",
+      "choices": [
+        "'Cardinal' comes from the Latin 'cardo' (hinge) -- these four virtues are the hinges on which the rest of the moral life turns and is organized",
+        "Cardinal virtues are those practiced exclusively by cardinals and bishops",
+        "Cardinal virtues are ranked above the theological virtues in importance",
+        "The term simply means these virtues were the first ones named in Church history"
+      ],
+      "correctAnswer": "'Cardinal' comes from the Latin 'cardo' (hinge) -- these four virtues are the hinges on which the rest of the moral life turns and is organized",
+      "explanation": "CCC 1805 explains the term 'cardinal' (from 'cardo,' hinge) names prudence, justice, fortitude, and temperance as the pivotal virtues around which all the other moral virtues are grouped and organized -- not a ranking of importance over the theological virtues, which remain greater, but a structural role in organizing the moral life.",
+      "hint": "Think of a door -- what part does a hinge play in how the whole thing moves?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1805"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-006",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1921,
+      "prompt": "Match each term from this level to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Auriga virtutum",
+          "right": "Prudence's traditional title, directing the other virtues' exercise without replacing them"
+        },
+        {
+          "left": "Connexio virtutum",
+          "right": "The thesis that the moral virtues are interconnected, not perfectible in isolation from each other"
+        },
+        {
+          "left": "Theological virtue",
+          "right": "A virtue whose formal object is God himself, not a created good"
+        },
+        {
+          "left": "Cardinal virtue",
+          "right": "One of the four 'hinge' virtues (cardo) organizing the rest of the moral life"
+        }
+      ],
+      "explanation": "CCC 1804 defines virtue itself as a firm, habitual disposition to do the good -- close to Aristotle's own concept of 'hexis' -- and this level's four terms each name a precise structural feature of how virtues relate to and depend on each other.",
+      "hint": "Two of these terms describe the moral (cardinal) virtues specifically; two describe broader categories.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1804"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-001",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "Someone deliberately takes an unnecessary physical risk, saying they're doing it 'for God' and trusting He'll protect them. Using the fortitude/audacia (rashness) distinction, how should this be evaluated?",
+      "choices": [
+        "This more closely resembles audacia (rashness) than true fortitude, since real courage requires facing a genuinely necessary danger for a right reason, not manufacturing unnecessary risk",
+        "This is automatically true fortitude, since any risk taken while invoking God's name is virtuous by definition",
+        "Fortitude and audacia are simply two names for the same virtue",
+        "True fortitude requires seeking out the greatest possible danger available in any situation"
+      ],
+      "correctAnswer": "This more closely resembles audacia (rashness) than true fortitude, since real courage requires facing a genuinely necessary danger for a right reason, not manufacturing unnecessary risk",
+      "explanation": "True fortitude, per ST II-II q.123, faces real, necessary danger for a genuinely good end, guided by prudence about when facing danger is actually called for. Manufacturing unnecessary risk and simply trusting divine protection to justify it looks much more like audacia -- rashness -- than genuine courage, which doesn't seek danger for its own sake.",
+      "hint": "Real fortitude requires the danger to actually be necessary for a good end, not invented.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1808"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-002",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "A manager avoids reporting a colleague's serious ethical violation, reasoning that staying quiet protects their own career and keeps the peace. Is this genuine prudence?",
+      "choices": [
+        "No -- this is closer to 'prudence of the flesh' (ST II-II q.55 a.1), where self-interested calculation is disguised as practical wisdom rather than actually seeking the true good",
+        "Yes -- avoiding any workplace conflict is always the prudent choice",
+        "Yes -- prudence means always prioritizing one's own career above other considerations",
+        "This scenario has nothing to do with the virtue of prudence at all"
+      ],
+      "correctAnswer": "No -- this is closer to 'prudence of the flesh' (ST II-II q.55 a.1), where self-interested calculation is disguised as practical wisdom rather than actually seeking the true good",
+      "explanation": "'Prudence of the flesh' names a counterfeit: using genuine practical reasoning skill in service of self-interest rather than the true good, dressing up self-protective calculation as wisdom. Real prudence orders action toward what is actually good, even when that requires real personal cost.",
+      "hint": "The counterfeit uses real reasoning skill, just aimed at the wrong target -- self-protection instead of the true good.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-003",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2038,
+      "prompt": "True or False: Someone who says, 'God will save me no matter what I do, so my choices don't really matter,' is expressing the theological virtue of hope in its proper, healthy form.",
+      "correctAnswer": false,
+      "explanation": "CCC 2091-2092 names this presumption, a distortion of hope in one of two ways -- either presuming on one's own capacities without grace, or presuming on God's mercy without genuine conversion and cooperation. Genuine hope trusts God's help while still taking one's own free response and moral choices seriously, not treating them as irrelevant.",
+      "hint": "The Catechism has a specific name for hope distorted into treating personal choices as no longer mattering.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2092"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-004",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "A person gives away money generously but does so without any judgment about real need, leaving their own family without necessities. Using the connexio virtutum, how should this be assessed?",
+      "choices": [
+        "Despite real generosity, the lack of prudent judgment about competing real goods means this person is not yet fully virtuous -- the virtues are meant to work together, not in isolation",
+        "This person has achieved perfect virtue, since generosity alone is sufficient for virtue",
+        "Prudence is irrelevant to acts of generosity",
+        "This shows generosity and prudence are actually the same virtue"
+      ],
+      "correctAnswer": "Despite real generosity, the lack of prudent judgment about competing real goods means this person is not yet fully virtuous -- the virtues are meant to work together, not in isolation",
+      "explanation": "This is exactly what the connexio virtutum thesis predicts: a real virtue (generosity, related to justice/liberality) exercised without prudence's guidance about genuinely competing goods and obligations doesn't yet count as perfected virtue -- the virtues must work together, not operate as isolated, unconnected traits.",
+      "hint": "Look back to level 6's fortitude-without-prudence example -- this is the same principle applied to a different virtue.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1839"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-005",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "An objector says, 'Faith is just an emotional comfort people use to feel better -- it isn't really a virtue at all.' What is the accurate response, drawing on this topic's definition of theological virtue?",
+      "choices": [
+        "Faith is a real, infused disposition of the intellect and will assenting to revealed truth on God's authority, not merely a feeling of comfort, even though genuine faith may or may not be accompanied by comforting feelings",
+        "The Church agrees faith is nothing more than an emotional coping mechanism",
+        "Faith requires the total absence of any doubt or difficult feeling to be genuine",
+        "Feelings of comfort are what actually define and constitute genuine faith"
+      ],
+      "correctAnswer": "Faith is a real, infused disposition of the intellect and will assenting to revealed truth on God's authority, not merely a feeling of comfort, even though genuine faith may or may not be accompanied by comforting feelings",
+      "explanation": "As level 6 established, theological virtue is a real, infused disposition of intellect and will, not reducible to an emotional state -- faith can coexist with real doubt, dryness, or difficulty, since it is an assent of intellect and will to God's revealed truth on his authority, not a guaranteed emotional payoff.",
+      "hint": "Look back to level 6's definition of theological virtue -- an emotional feeling was never part of that definition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1814"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-006",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2128,
+      "prompt": "Match each counterfeit or distortion to the genuine virtue it imitates falsely.",
+      "pairs": [
+        {
+          "left": "Audacia (rashness)",
+          "right": "True fortitude, which faces only genuinely necessary danger for a right reason"
+        },
+        {
+          "left": "'Prudence of the flesh'",
+          "right": "True prudence, which seeks the actual good rather than self-interest disguised as wisdom"
+        },
+        {
+          "left": "Presumption",
+          "right": "True hope, which trusts God's help while still taking one's own free response seriously"
+        },
+        {
+          "left": "False modesty denying a real accomplishment",
+          "right": "True magnanimity, which honestly acknowledges real gifts ordered toward good ends"
+        }
+      ],
+      "explanation": "Each of these counterfeits borrows the appearance of a real virtue while missing something essential -- right reason, the true good, genuine cooperation, or plain honesty -- that the authentic virtue actually requires.",
+      "hint": "Every 'false' version in the left column looks similar to its true counterpart on the surface, but is missing one key ingredient.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1808"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-001",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Spiritual-theology manuals traditionally pair each capital vice with an opposing fruit of the Spirit or virtue -- for example, gluttony opposed by temperance/self-control, envy opposed by kindness. What should be understood about these specific pairings?",
+      "choices": [
+        "They come from the pedagogical and spiritual-theology manual tradition, not a single fixed magisterial list, and should be treated as a traditional teaching aid rather than the only correct correspondence",
+        "They are infallibly defined by an ecumenical council with no room for variation",
+        "They have no basis anywhere in the Church's spiritual tradition",
+        "Every manual across history uses the exact same pairings with no variation whatsoever"
+      ],
+      "correctAnswer": "They come from the pedagogical and spiritual-theology manual tradition, not a single fixed magisterial list, and should be treated as a traditional teaching aid rather than the only correct correspondence",
+      "explanation": "These vice-to-virtue/fruit pairings are a real, traditional teaching tool developed across spiritual-theology manuals and Fathers like Gregory the Great, useful for examining conscience and growth in virtue -- but they are not a single, magisterially fixed list, and different sources pair vices and remedies somewhat differently.",
+      "hint": "This is a teaching tool with real roots in tradition, not a dogmatically defined, single correct list.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-002",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Gregory the Great's Moralia identifies several 'daughters of vainglory' -- vices that spring from an excessive desire for recognition. Applied to someone who carefully curates an online image purely to appear impressive to others, which 'daughter' does this most resemble?",
+      "choices": [
+        "Hypocrisy -- presenting a false impression of oneself to gain approval or admiration",
+        "Fortitude, since maintaining an online presence requires real courage",
+        "Temperance, since curating content requires discipline",
+        "This scenario has no connection to any traditional vice"
+      ],
+      "correctAnswer": "Hypocrisy -- presenting a false impression of oneself to gain approval or admiration",
+      "explanation": "Among vainglory's traditional 'daughters' (per Gregory the Great, discussed via Aquinas's ST II-II q.132 a.5) is hypocrisy -- presenting a false or exaggerated impression of oneself specifically to win others' admiration -- a recognizable pattern in curating an online image purely for approval rather than honest self-presentation.",
+      "hint": "This 'daughter' is about presenting something false, not something genuinely true about oneself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2094"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-003",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Per CCC 1857-1859, three conditions must all be met for a sin to be mortal: grave matter, full knowledge, and deliberate consent. A person acts on a serious temptation rooted in envy, but does so in a moment of genuine, severe emotional distress that significantly impairs their ability to reason clearly. How does this affect the assessment?",
+      "choices": [
+        "Diminished capacity to reason clearly can reduce full knowledge or deliberate consent, which can lessen (though not automatically eliminate) moral culpability, even if the matter itself remains grave",
+        "Emotional distress is entirely irrelevant to moral culpability under Catholic teaching",
+        "Grave matter alone, regardless of knowledge or consent, is always sufficient for mortal sin",
+        "This automatically means no sin of any kind, mortal or venial, has occurred"
+      ],
+      "correctAnswer": "Diminished capacity to reason clearly can reduce full knowledge or deliberate consent, which can lessen (though not automatically eliminate) moral culpability, even if the matter itself remains grave",
+      "explanation": "CCC 1857-1859 requires all three conditions -- grave matter, full knowledge, and deliberate consent -- for a sin to be mortal. Factors that genuinely impair knowledge or the freedom of consent (severe emotional distress, for instance) can reduce culpability, which is why the Church distinguishes the objective gravity of an act from a person's actual, full subjective culpability for it.",
+      "hint": "All three conditions must be fully present -- something that genuinely weakens one of the other two doesn't erase grave matter, but it can affect the others.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1859"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-004",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2244,
+      "prompt": "True or False: Any desire to perform as well as a colleague or to win a competition is automatically the vice of envy.",
+      "correctAnswer": false,
+      "explanation": "Envy specifically names sadness or resentment at another's good, together with an inordinate desire to have it oneself at the other's expense -- a healthy desire to improve, compete fairly, or match another's genuine excellence without wishing them ill is not the same thing as envy, which the Church names as a capital vice specifically because of the resentment and ill will it carries toward another's good.",
+      "hint": "The key ingredient in envy is resentment toward the other person's good, not simply wanting to also do well.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2539"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-005",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "A person facing a genuinely difficult decision seeks out a wise, trusted advisor rather than acting immediately on their first impulse. Which gift of the Holy Spirit is traditionally connected to overcoming rashness/imprudence in exactly this kind of situation?",
+      "choices": [
+        "Counsel",
+        "Fortitude",
+        "Piety",
+        "Fear of the Lord"
+      ],
+      "correctAnswer": "Counsel",
+      "explanation": "The gift of counsel perfects the virtue of prudence, helping a person judge rightly in concrete, often difficult situations -- seeking wise input and resisting the impulse to act rashly on a first reaction is a natural expression of this gift working alongside the cardinal virtue of prudence it complements.",
+      "hint": "This gift is named for exactly the kind of help this person is seeking -- wise input before deciding.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1831"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-006",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2334,
+      "prompt": "Match each scenario to the capital vice at work, together with the gift of the Spirit traditionally seen as its remedy.",
+      "pairs": [
+        {
+          "left": "Curating an online image purely for others' admiration",
+          "right": "Vainglory (hypocrisy as its 'daughter') -- remedied by the gift of piety's genuine orientation to God"
+        },
+        {
+          "left": "Resentment at a colleague's success, wishing them ill",
+          "right": "Envy -- remedied by the gift of wisdom's right ordering of desire toward the true good"
+        },
+        {
+          "left": "Acting immediately on a difficult decision without seeking wise input",
+          "right": "A form of imprudence -- remedied by the gift of counsel"
+        },
+        {
+          "left": "Refusing to eat or drink with any moderation despite clear health warnings",
+          "right": "Gluttony -- remedied by the gift of fear of the Lord's due reverence for the body as God's gift"
+        }
+      ],
+      "explanation": "These pairings, again, come from the pedagogical spiritual-theology tradition rather than a single fixed magisterial list -- useful for examining conscience and identifying a path forward, not a dogmatically defined correspondence.",
+      "hint": "Every remedy here works by redirecting the vice's underlying disordered desire toward its proper, God-ordered object.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1831"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l9-001",
+      "topic": "virtues-and-vices",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "'Blessed are the poor in spirit' (Matthew 5:3) integrates several elements this topic has covered into one lived disposition. Which combination does CCC 2544-2547 point to?",
+      "choices": [
+        "Temperance's right ordering of desire for possessions, the gift of fear of the Lord's due reverence before God, and freedom from the capital vices of pride and avarice",
+        "Physical poverty alone, with no connection to any interior virtue or vice",
+        "The theological virtue of hope exclusively, unrelated to any cardinal virtue",
+        "A requirement that all Christians take a vow of religious poverty"
+      ],
+      "correctAnswer": "Temperance's right ordering of desire for possessions, the gift of fear of the Lord's due reverence before God, and freedom from the capital vices of pride and avarice",
+      "explanation": "CCC 2544-2547 describes 'poverty of spirit' as detachment from riches ordered by temperance, a disposition of humble dependence on God that the gift of fear of the Lord fosters, and freedom from the pride and avarice that would otherwise disorder a person's relationship to possessions and to God -- several threads from this topic converging in a single lived disposition.",
+      "hint": "This one Beatitude draws on a cardinal virtue, a gift of the Spirit, and freedom from two named vices, all at once.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2544"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l9-002",
+      "topic": "virtues-and-vices",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Aquinas maps each Beatitude to a specific gift of the Holy Spirit (ST I-II q.69 a.3). How should this mapping be correctly understood?",
+      "choices": [
+        "As Aquinas's own theological synthesis connecting the Beatitudes to the gifts, not a magisterially defined correspondence -- and he must account for the mismatch between Matthew's eight Beatitudes and the traditional seven gifts",
+        "As an infallibly defined dogma binding on all Catholics in its exact details",
+        "As a mapping with no real textual basis in Aquinas's own writing",
+        "As a correspondence with no numerical difficulty at all, since eight Beatitudes map neatly onto seven gifts"
+      ],
+      "correctAnswer": "As Aquinas's own theological synthesis connecting the Beatitudes to the gifts, not a magisterially defined correspondence -- and he must account for the mismatch between Matthew's eight Beatitudes and the traditional seven gifts",
+      "explanation": "Aquinas's mapping in ST I-II q.69 a.3 is a real, careful theological synthesis, not a doctrine defined by the Magisterium -- and his own text has to reckon honestly with the fact that Matthew's Gospel names eight Beatitudes while the tradition names seven gifts, a mismatch worth surfacing rather than smoothing over.",
+      "hint": "Count carefully -- eight of one thing and seven of another can't map one-to-one without some adjustment.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1832"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l9-003",
+      "topic": "virtues-and-vices",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "'Blessed are the merciful, for they shall obtain mercy' (Matthew 5:7) ties together which combination of elements this topic and related topics have covered?",
+      "choices": [
+        "The virtue of justice rightly ordered by mercy, the fruit of kindness, and the corporal and spiritual works of mercy as its concrete expression",
+        "The capital vice of wrath exclusively, with no connection to any virtue",
+        "A guarantee that showing mercy earns automatic salvation regardless of any other factor",
+        "A teaching found only in the Old Testament, with no New Testament development"
+      ],
+      "correctAnswer": "The virtue of justice rightly ordered by mercy, the fruit of kindness, and the corporal and spiritual works of mercy as its concrete expression",
+      "explanation": "CCC 2447 connects mercy with justice and the works of mercy -- concrete acts (feeding the hungry, comforting the sorrowful, and the like) that give mercy real, lived expression, tied together with the fruit of kindness as its interior disposition, integrating several threads into one coherent life rather than a single isolated feeling.",
+      "hint": "This Beatitude connects a cardinal virtue, a fruit of the Spirit, and a set of concrete named actions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l9-004",
+      "topic": "virtues-and-vices",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each capital vice to the Beatitude, virtue, and gift combination that forms a concrete path forward from it, per this topic's full arc.",
+      "pairs": [
+        {
+          "left": "Envy",
+          "right": "'Blessed are the merciful' -- justice rightly ordering desire for another's good, supported by the gift of wisdom"
+        },
+        {
+          "left": "Avarice",
+          "right": "'Blessed are the poor in spirit' -- temperance's right ordering of desire for possessions, supported by the gift of fear of the Lord"
+        },
+        {
+          "left": "Wrath",
+          "right": "'Blessed are the peacemakers' -- fortitude tempered by charity, supported by the gift of counsel"
+        },
+        {
+          "left": "Pride",
+          "right": "'Blessed are the poor in spirit' -- humility before God, supported by the gift of fear of the Lord"
+        }
+      ],
+      "explanation": "This draws the whole topic together: each capital vice from level 8 has a real, nameable path forward through a specific Beatitude, virtue, and gift working together, not just a single isolated fix.",
+      "hint": "Two of these four vices point to the same Beatitude and gift, approached from different angles.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2539"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l9-005",
+      "topic": "virtues-and-vices",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: The Beatitudes describe an impossible ideal that no real person could actually live, since CCC 1717 teaches they describe an abstract theoretical standard rather than an achievable pattern of life.",
+      "correctAnswer": false,
+      "explanation": "CCC 1717 teaches the Beatitudes depict the very countenance of Jesus Christ himself and describe a way of life made possible by grace, not by unaided human effort -- 'impossible ideal' objections miss that these describe a real, lived pattern of holiness, genuinely attainable in Christ and through his grace, rather than an abstract theory no one could ever embody.",
+      "hint": "CCC 1717 ties the Beatitudes to an actual person's real character, not a theoretical standard.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1717"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l9-006",
+      "topic": "virtues-and-vices",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Closing this topic's arc, which is the most fitting example of a concrete, sayable weekly resolution tied to a specific Beatitude and the vice it counters?",
+      "choices": [
+        "'This week I will practice poverty of spirit by giving away something I don't need, countering the pull of avarice'",
+        "'This week I will avoid thinking about virtue altogether'",
+        "'This week I will focus only on avoiding all risk of any kind, regardless of the situation'",
+        "'This week I will measure my holiness only by how I feel emotionally each day'"
+      ],
+      "correctAnswer": "'This week I will practice poverty of spirit by giving away something I don't need, countering the pull of avarice'",
+      "explanation": "This closes the topic's arc the way its capstone level is meant to: naming a specific Beatitude (poverty of spirit), a specific concrete action (giving something away), and the specific vice it counters (avarice) -- a real, doable resolution rather than a vague sentiment about wanting to be more virtuous in general.",
+      "hint": "The strongest resolution names a specific Beatitude, a specific action, and the specific vice it counters -- not a vague general intention.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2544"
+        }
       ]
     }
   ]
