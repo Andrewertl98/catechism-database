@@ -8,12 +8,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1000,
       "prompt": "How many books make up the Catholic canon of Scripture in total?",
-      "choices": ["73", "66", "27", "46"],
+      "choices": [
+        "73",
+        "66",
+        "27",
+        "46"
+      ],
       "correctAnswer": "73",
       "explanation": "The Catholic canon includes 46 books of the Old Testament and 27 of the New Testament, for a total of 73 -- discerned by the Church through apostolic Tradition.",
       "hint": "It's 46 Old Testament books plus 27 New Testament books.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 120" }
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
       ]
     },
     {
@@ -23,12 +31,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1300,
       "prompt": "The Catechism teaches that Christians read the Old Testament in the light of what event?",
-      "choices": ["Christ crucified and risen", "The fall of Jerusalem", "The Babylonian exile alone", "The building of the Temple"],
+      "choices": [
+        "Christ crucified and risen",
+        "The fall of Jerusalem",
+        "The Babylonian exile alone",
+        "The building of the Temple"
+      ],
       "correctAnswer": "Christ crucified and risen",
       "explanation": "CCC 129 teaches that 'Christians therefore read the Old Testament in the light of Christ crucified and risen' -- the whole of Scripture, Old and New, is read as one unified story fulfilled in Christ.",
       "hint": "This is the central event of the New Testament, read back into the whole story.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 129" }
+        {
+          "type": "ccc",
+          "reference": "CCC 129"
+        }
       ]
     },
     {
@@ -38,12 +54,20 @@
       "type": "multiple_choice",
       "difficultyElo": 900,
       "prompt": "'In the beginning was the Word, and the Word was with God, and the Word was God' opens which book of the New Testament?",
-      "choices": ["The Gospel of John", "The Gospel of Matthew", "The Book of Revelation", "The Letter to the Hebrews"],
+      "choices": [
+        "The Gospel of John",
+        "The Gospel of Matthew",
+        "The Book of Revelation",
+        "The Letter to the Hebrews"
+      ],
       "correctAnswer": "The Gospel of John",
       "explanation": "John 1:1 opens the Fourth Gospel with a profound statement of Christ's eternal divinity as the Word (Logos) who was with God and was God, later 'made flesh' in the Incarnation.",
       "hint": "This Gospel's opening deliberately echoes the very first words of Genesis.",
       "citations": [
-        { "type": "scripture", "reference": "John 1:1" }
+        {
+          "type": "scripture",
+          "reference": "John 1:1"
+        }
       ]
     },
     {
@@ -63,7 +87,10 @@
       "explanation": "God inspired the human authors of Scripture, who wrote in their own words, times, and literary forms -- true human authors, and yet God himself is the Bible's ultimate author.",
       "hint": "Two authors are involved at once: many human ones, and one divine one.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 105" }
+        {
+          "type": "ccc",
+          "reference": "CCC 105"
+        }
       ]
     },
     {
@@ -77,7 +104,10 @@
       "explanation": "Scripture was composed by many human authors across roughly a thousand years, in different languages and literary forms -- yet it holds together as one unified word, since God inspired all of it.",
       "hint": "Think of how many different named authors' names appear across the Bible's books.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 105" }
+        {
+          "type": "ccc",
+          "reference": "CCC 105"
+        }
       ]
     },
     {
@@ -91,7 +121,10 @@
       "explanation": "The Old Testament records God's covenant with Israel before Christ; the New Testament records Christ's life and the apostolic Church founded on him.",
       "hint": "It's the counterpart to 'Old.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 120" }
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
       ]
     },
     {
@@ -101,12 +134,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1720,
       "prompt": "The first five books of the Old Testament -- Genesis, Exodus, Leviticus, Numbers, and Deuteronomy -- are together called the:",
-      "choices": ["Torah (or Pentateuch)", "Wisdom Literature", "Minor Prophets", "Historical Books"],
+      "choices": [
+        "Torah (or Pentateuch)",
+        "Wisdom Literature",
+        "Minor Prophets",
+        "Historical Books"
+      ],
       "correctAnswer": "Torah (or Pentateuch)",
       "explanation": "'Pentateuch' comes from Greek for 'five scrolls'; 'Torah' is the Hebrew term, meaning 'instruction' or 'law' -- together these five books form the foundation of the whole Old Testament.",
       "hint": "'Penta-' is the Greek prefix for 'five.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 120" }
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
       ]
     },
     {
@@ -120,7 +161,10 @@
       "explanation": "Genesis opens with two complementary accounts of creation -- the six-day account in chapter 1, and a second account beginning in chapter 2 that focuses on the creation of man and woman.",
       "hint": "Look closely at chapters 1 and 2 -- the story of creation is told a second time, from a different angle.",
       "citations": [
-        { "type": "scripture", "reference": "Genesis 2:4" }
+        {
+          "type": "scripture",
+          "reference": "Genesis 2:4"
+        }
       ]
     },
     {
@@ -134,7 +178,10 @@
       "explanation": "The Ten Commandments, given at Sinai, form the heart of the Old Covenant's moral law -- a law the Catechism treats as still binding in its substance under the New Covenant.",
       "hint": "It's the same number of Commandments taught in every catechism class.",
       "citations": [
-        { "type": "scripture", "reference": "Exodus 20:1-17" }
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17"
+        }
       ]
     },
     {
@@ -144,12 +191,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1800,
       "prompt": "The 'Major Prophets' of the Old Testament include Isaiah, Jeremiah, Ezekiel, and:",
-      "choices": ["Daniel", "Amos", "Hosea", "Malachi"],
+      "choices": [
+        "Daniel",
+        "Amos",
+        "Hosea",
+        "Malachi"
+      ],
       "correctAnswer": "Daniel",
       "explanation": "The 'Major' and 'Minor' Prophets are distinguished by the length of their books, not by their relative importance -- Amos, Hosea, and Malachi belong instead to the twelve 'Minor Prophets.'",
       "hint": "'Major' here is about book length, not spiritual importance.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 64" }
+        {
+          "type": "ccc",
+          "reference": "CCC 64"
+        }
       ]
     },
     {
@@ -163,7 +218,10 @@
       "explanation": "The prophets primarily called Israel to repentance and covenant fidelity in their own historical moment -- messianic hope for the future is part of their message, but not its whole focus.",
       "hint": "Prophets were, first of all, preachers to their own generation, not just fortune-tellers for the future.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1430" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1430"
+        }
       ]
     },
     {
@@ -174,15 +232,30 @@
       "difficultyElo": 1820,
       "prompt": "Match each term to its meaning.",
       "pairs": [
-        { "left": "Torah / Pentateuch", "right": "The first five books of the Bible" },
-        { "left": "Major Prophets", "right": "Isaiah, Jeremiah, Ezekiel, Daniel" },
-        { "left": "Covenant", "right": "A sacred bond God establishes with his people" },
-        { "left": "Exodus", "right": "Israel's deliverance from slavery in Egypt" }
+        {
+          "left": "Torah / Pentateuch",
+          "right": "The first five books of the Bible"
+        },
+        {
+          "left": "Major Prophets",
+          "right": "Isaiah, Jeremiah, Ezekiel, Daniel"
+        },
+        {
+          "left": "Covenant",
+          "right": "A sacred bond God establishes with his people"
+        },
+        {
+          "left": "Exodus",
+          "right": "Israel's deliverance from slavery in Egypt"
+        }
       ],
       "explanation": "These four terms cover the backbone of Old Testament history -- its founding books, its major prophetic voices, its central theological concept, and its defining act of deliverance.",
       "hint": "One is a group of books, one a group of prophets, one a theological concept, one a historical event.",
       "citations": [
-        { "type": "scripture", "reference": "Exodus 20:1-17" }
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17"
+        }
       ]
     },
     {
@@ -202,7 +275,10 @@
       "explanation": "'Synoptic' comes from Greek meaning 'seen together' -- these three Gospels share substantial overlapping material and can be usefully compared side by side, unlike John's distinct approach.",
       "hint": "'Syn-optic' literally means 'together-view.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 126" }
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
       ]
     },
     {
@@ -216,7 +292,10 @@
       "explanation": "John stands apart from the other three, with a distinct structure, style, and theological emphasis -- it is not counted among the Synoptics.",
       "hint": "This is the one Gospel that stands apart from the other three, stylistically.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 126" }
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
       ]
     },
     {
@@ -230,7 +309,10 @@
       "explanation": "Everything else in Scripture -- Old and New Testament alike -- is read in relation to the Gospels, since they record Christ's own words and deeds most directly.",
       "hint": "Alongside 'life,' this word is what the Gospels record about Christ's own words.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 125" }
+        {
+          "type": "ccc",
+          "reference": "CCC 125"
+        }
       ]
     },
     {
@@ -250,7 +332,10 @@
       "explanation": "The evangelists, drawing on the earlier oral preaching of the apostolic Church, put this apostolic testimony into writing, 'selecting' and 'synthesizing' it for their particular communities.",
       "hint": "This is the final stage, after Jesus' own ministry and the apostles' preaching about it.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 126" }
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
       ]
     },
     {
@@ -264,7 +349,10 @@
       "explanation": "The Gospels' reliability rests on their rootedness in apostolic testimony passed down faithfully, not on a requirement that every individual evangelist personally witnessed every event they recorded.",
       "hint": "What matters is the Gospels' connection to apostolic testimony as a whole, not each author's personal presence at every event.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 126" }
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
       ]
     },
     {
@@ -275,15 +363,30 @@
       "difficultyElo": 2150,
       "prompt": "Match each Gospel to a distinguishing note about it.",
       "pairs": [
-        { "left": "Matthew", "right": "Written with a strongly Jewish audience and Old Testament fulfillment in mind" },
-        { "left": "Mark", "right": "Shortest Gospel, fast-paced, emphasizing Christ's suffering servanthood" },
-        { "left": "Luke", "right": "Emphasizes mercy, the poor, and salvation's universal reach" },
-        { "left": "John", "right": "Distinct in style, emphasizing Christ's divinity and 'I am' statements" }
+        {
+          "left": "Matthew",
+          "right": "Written with a strongly Jewish audience and Old Testament fulfillment in mind"
+        },
+        {
+          "left": "Mark",
+          "right": "Shortest Gospel, fast-paced, emphasizing Christ's suffering servanthood"
+        },
+        {
+          "left": "Luke",
+          "right": "Emphasizes mercy, the poor, and salvation's universal reach"
+        },
+        {
+          "left": "John",
+          "right": "Distinct in style, emphasizing Christ's divinity and 'I am' statements"
+        }
       ],
       "explanation": "Each evangelist writes with his own emphasis and audience in mind, while all four together present one coherent portrait of Christ.",
       "hint": "One is Jewish-focused, one is fast and Passion-focused, one favors the poor, one is theologically distinct.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 125" }
+        {
+          "type": "ccc",
+          "reference": "CCC 125"
+        }
       ]
     },
     {
@@ -293,12 +396,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2380,
       "prompt": "The largest single block of New Testament letters was written by:",
-      "choices": ["St. Paul", "St. Peter", "St. John", "St. James"],
+      "choices": [
+        "St. Paul",
+        "St. Peter",
+        "St. John",
+        "St. James"
+      ],
       "correctAnswer": "St. Paul",
       "explanation": "Paul's letters to various churches and individuals -- Romans, Corinthians, Galatians, and many more -- make up the largest portion of the New Testament's epistolary literature.",
       "hint": "This apostle's missionary journeys generated letters to many of the churches he founded.",
       "citations": [
-        { "type": "scripture", "reference": "Romans 1:1" }
+        {
+          "type": "scripture",
+          "reference": "Romans 1:1"
+        }
       ]
     },
     {
@@ -312,7 +423,10 @@
       "explanation": "Romans opens with Paul's programmatic statement that he is 'not ashamed of the gospel,' since 'the righteous shall live by faith' -- launching one of Scripture's most sustained theological arguments.",
       "hint": "This letter is often called Paul's theological masterwork.",
       "citations": [
-        { "type": "scripture", "reference": "Romans 1:16-17" }
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17"
+        }
       ]
     },
     {
@@ -326,7 +440,10 @@
       "explanation": "Hebrews argues at length that Christ's priesthood, offered once for all, fulfills and surpasses the repeated sacrifices of the Old Covenant's priesthood.",
       "hint": "This title pairs with 'priest' to describe the very highest priestly office.",
       "citations": [
-        { "type": "scripture", "reference": "Hebrews 4:14-15" }
+        {
+          "type": "scripture",
+          "reference": "Hebrews 4:14-15"
+        }
       ]
     },
     {
@@ -346,7 +463,10 @@
       "explanation": "Unlike Paul's letters, which typically address a specific community (Rome, Corinth, Galatia), these letters are addressed more broadly -- hence 'catholic,' meaning 'universal.'",
       "hint": "'Catholic' here carries its original Greek meaning -- 'according to the whole,' or universal.",
       "citations": [
-        { "type": "scripture", "reference": "James 1:1" }
+        {
+          "type": "scripture",
+          "reference": "James 1:1"
+        }
       ]
     },
     {
@@ -360,7 +480,10 @@
       "explanation": "James 2:17 states plainly: 'faith of itself, if it does not have works, is dead.' The letter insists genuine faith must show itself alive through concrete action.",
       "hint": "This is one of the most direct statements in the New Testament connecting faith and action.",
       "citations": [
-        { "type": "scripture", "reference": "James 2:17" }
+        {
+          "type": "scripture",
+          "reference": "James 2:17"
+        }
       ]
     },
     {
@@ -371,16 +494,34 @@
       "difficultyElo": 2450,
       "prompt": "Match each letter to its key theme.",
       "pairs": [
-        { "left": "Romans", "right": "Justification by grace through faith, systematically explained" },
-        { "left": "Hebrews", "right": "Christ as the eternal High Priest" },
-        { "left": "James", "right": "Faith must be shown alive through works" },
-        { "left": "1 John", "right": "God is love, and love of neighbor flows from love of God" }
+        {
+          "left": "Romans",
+          "right": "Justification by grace through faith, systematically explained"
+        },
+        {
+          "left": "Hebrews",
+          "right": "Christ as the eternal High Priest"
+        },
+        {
+          "left": "James",
+          "right": "Faith must be shown alive through works"
+        },
+        {
+          "left": "1 John",
+          "right": "God is love, and love of neighbor flows from love of God"
+        }
       ],
       "explanation": "Each New Testament letter addresses its own pressing pastoral concern, together forming a rich theological witness alongside the Gospels.",
       "hint": "One is about justification, one about priesthood, one about works, one about love.",
       "citations": [
-        { "type": "scripture", "reference": "Romans 1:16-17" },
-        { "type": "scripture", "reference": "James 2:17" }
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17"
+        },
+        {
+          "type": "scripture",
+          "reference": "James 2:17"
+        }
       ]
     },
     {
@@ -400,7 +541,10 @@
       "explanation": "Beyond the literal sense (what the words directly mean), Catholic tradition reads Scripture for its spiritual senses -- how it points to Christ, teaches right action, and points toward our final destiny.",
       "hint": "Three senses, all beyond the plain literal meaning of the words.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 115-118" }
+        {
+          "type": "ccc",
+          "reference": "CCC 115-118"
+        }
       ]
     },
     {
@@ -414,7 +558,10 @@
       "explanation": "The literal sense means the meaning conveyed by the words themselves, discovered through sound interpretation that respects the author's own literary form -- poetry, parable, and historical narrative are all read according to what they actually are.",
       "hint": "The literal sense respects what kind of writing a passage actually is -- poem, parable, history, and so on.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 116" }
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
       ]
     },
     {
@@ -428,7 +575,10 @@
       "explanation": "Because the Holy Spirit inspired Scripture's human authors, faithful interpretation requires reading it in that same Spirit, within the living Tradition of the Church that first received it.",
       "hint": "This is the same divine Person who inspired the biblical authors in the first place.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 111" }
+        {
+          "type": "ccc",
+          "reference": "CCC 111"
+        }
       ]
     },
     {
@@ -448,7 +598,10 @@
       "explanation": "The Catechism's three actual criteria all situate the individual reader within the Church's living Tradition and the coherence of the whole faith -- not apart from it.",
       "hint": "Three of these four criteria all point back to the Church's own living Tradition; one explicitly cuts against it.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 112-114" }
+        {
+          "type": "ccc",
+          "reference": "CCC 112-114"
+        }
       ]
     },
     {
@@ -462,7 +615,10 @@
       "explanation": "This is the first of the Catechism's criteria for interpreting Scripture -- reading with attention to the content and unity of the whole, since one divine author stands behind every book.",
       "hint": "This is about Scripture's underlying unity, despite its many human authors and books.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 112" }
+        {
+          "type": "ccc",
+          "reference": "CCC 112"
+        }
       ]
     },
     {
@@ -473,15 +629,766 @@
       "difficultyElo": 2720,
       "prompt": "Match each sense of Scripture to its focus.",
       "pairs": [
-        { "left": "Literal sense", "right": "The meaning intended by the human author's own words" },
-        { "left": "Allegorical sense", "right": "How events and figures point to Christ" },
-        { "left": "Moral sense", "right": "How Scripture teaches us to act justly" },
-        { "left": "Anagogical sense", "right": "How realities point toward our eternal destiny" }
+        {
+          "left": "Literal sense",
+          "right": "The meaning intended by the human author's own words"
+        },
+        {
+          "left": "Allegorical sense",
+          "right": "How events and figures point to Christ"
+        },
+        {
+          "left": "Moral sense",
+          "right": "How Scripture teaches us to act justly"
+        },
+        {
+          "left": "Anagogical sense",
+          "right": "How realities point toward our eternal destiny"
+        }
       ],
       "explanation": "These four senses, working together, let the same passage of Scripture speak on multiple levels at once -- what it plainly says, and what it points beyond itself toward.",
       "hint": "One sense is about the plain words; three others point toward Christ, right action, or eternity.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 115-118" }
+        {
+          "type": "ccc",
+          "reference": "CCC 115-118"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-001",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Trent's Fourth Session (1546) formally closed the Old Testament canon, affirming books the Reformers rejected as a shorter, 'protocanonical-only' list. What does 'deuterocanonical' mean, applied to books like Tobit, Judith, and Wisdom?",
+      "choices": [
+        "Books whose canonicity was affirmed later and more explicitly than the protocanonical books, not books added or invented at Trent",
+        "Books that were written after the New Testament closed",
+        "Books accepted by Protestants but rejected by Catholics",
+        "Books that were never used in the Church before 1546"
+      ],
+      "correctAnswer": "Books whose canonicity was affirmed later and more explicitly than the protocanonical books, not books added or invented at Trent",
+      "explanation": "'Deuterocanonical' (literally 'second canon') names books whose place in the canon received more explicit, formal affirmation later in Church history than the 'protocanonical' books, not books that were newly invented or added at Trent -- these books were already read as Scripture in the Church's ancient liturgical use well before Trent formally closed the question against Reformation-era challenges.",
+      "hint": "The prefix means 'second,' referring to the timing of formal affirmation, not a lesser status or later composition.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Fourth Session (1546)"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-002",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Dei Verbum 11 states that Scripture teaches 'the truth which God wanted put into the sacred writings for the sake of our salvation.' How does this precise formula differ from a flat claim that 'the Bible has no errors of any kind'?",
+      "choices": [
+        "It locates inerrancy specifically in what God intended for our salvation, not in every incidental historical or scientific detail a text happens to mention",
+        "It means the Bible actually does contain doctrinal errors that the Church has chosen to overlook",
+        "It applies only to the New Testament, exempting the Old Testament from any inerrancy claim",
+        "It was written specifically to reverse Trent's teaching on inspiration"
+      ],
+      "correctAnswer": "It locates inerrancy specifically in what God intended for our salvation, not in every incidental historical or scientific detail a text happens to mention",
+      "explanation": "Dei Verbum's formula is precise: the truth God wanted recorded for our salvation is what Scripture teaches without error, which is a narrower and more careful claim than an unqualified 'no errors of any kind' -- avoiding both a denial of biblical truth and an overreaching claim about every incidental detail.",
+      "hint": "Look closely at the phrase 'for the sake of our salvation' -- that's doing real, restrictive work in the sentence.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 11"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-003",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The 'Two-Source Hypothesis' explaining the Synoptic Gospels' close verbal overlap proposes that Matthew and Luke each drew on which two sources?",
+      "choices": [
+        "The Gospel of Mark and a hypothetical sayings collection called 'Q'",
+        "Two independent eyewitness accounts, neither of which survives today",
+        "The Gospel of John and an otherwise unknown Hebrew Gospel",
+        "Each other, with no third source involved at all"
+      ],
+      "correctAnswer": "The Gospel of Mark and a hypothetical sayings collection called 'Q'",
+      "explanation": "The Two-Source Hypothesis, built on the observation of Markan priority (Mark was written first and used as a source by the other two), proposes that Matthew and Luke each independently drew on Mark plus a hypothetical sayings source scholars call 'Q' (from German 'Quelle,' source) to explain material they share that isn't in Mark.",
+      "hint": "One of the two sources is a Gospel you already know; the other is a hypothesis, not a surviving document.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-004",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Codex Sinaiticus and Codex Vaticanus, two of the oldest surviving nearly-complete Greek manuscripts of the Bible, are cited by scholars as physical evidence for how the biblical text was actually transmitted, not merely referenced as trivia.",
+      "correctAnswer": true,
+      "explanation": "These two 4th-century codices are among the most important witnesses used in textual criticism -- comparing their readings against later manuscripts is how scholars trace the text's transmission history and identify where later copies added, omitted, or altered material.",
+      "hint": "These aren't just old and famous -- they're actively used as evidence in real scholarly arguments about the text.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-005",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1827,
+      "prompt": "The Synod of Rome (382), sometimes associated with a 'Decree of Damasus,' is cited by historians as an early ____ to the canon's shape -- not as the definitive closing act, which is properly credited to Trent's Fourth Session (1546).",
+      "correctAnswer": "witness",
+      "explanation": "Historians debate the exact canon-list content attributed to the Synod of Rome (382), so it's cited carefully as an early witness to a canon list resembling the later one, not as the definitive, formal closing of the canon -- that formal closure, in response to the Reformation's shorter list, belongs to Trent's Fourth Session (1546).",
+      "hint": "This word describes something that testifies to an already-forming reality, without being the final, formal act itself.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Fourth Session (1546)"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-006",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each term from this level to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Deuterocanonical",
+          "right": "Formally affirmed later and more explicitly than the protocanonical books, not invented at Trent"
+        },
+        {
+          "left": "The Two-Source Hypothesis",
+          "right": "Matthew and Luke each drawing on Mark plus a hypothetical sayings source called 'Q'"
+        },
+        {
+          "left": "Codex Sinaiticus and Codex Vaticanus",
+          "right": "Physical 4th-century manuscript evidence used in tracing the text's transmission"
+        },
+        {
+          "left": "Disputed Pauline authorship",
+          "right": "A scholarly question distinct from, and not decisive for, the Church's judgment of canonicity and inspiration"
+        }
+      ],
+      "explanation": "Each of these terms replaces a lay paraphrase with the Church's or scholarship's own precise vocabulary, wired to the specific argument or evidence that motivated it.",
+      "hint": "Two of these concern the Old Testament canon and text; two concern the New Testament's composition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-001",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector says, 'The Bible gets a scientific or historical detail wrong somewhere, so it can't be inspired.' Using Dei Verbum 11's precise formula, what is the accurate response?",
+      "choices": [
+        "Inerrancy applies to the truth God wanted recorded for our salvation, not necessarily to every incidental scientific or historical detail a text happens to mention",
+        "The objection is correct, and the Church has quietly abandoned any claim to inerrancy",
+        "Inerrancy means every single statement in Scripture must be scientifically precise by modern standards",
+        "The objection can only be answered by denying that the Bible mentions any historical events at all"
+      ],
+      "correctAnswer": "Inerrancy applies to the truth God wanted recorded for our salvation, not necessarily to every incidental scientific or historical detail a text happens to mention",
+      "explanation": "Level 6 already fixed this precise formula: Dei Verbum locates inerrancy in the saving truth God wanted conveyed, not in a modern textbook's standard of precision for every incidental detail -- an ancient author's phenomenological description of the natural world, for instance, isn't a scientific claim the text is staking its inspired status on.",
+      "hint": "Look back to level 6's precise wording of what Dei Verbum 11 actually claims.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 11"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-002",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector says, 'Catholics added seven books to the Bible.' Using the canon history from level 6, what is the accurate reframing of this claim?",
+      "choices": [
+        "The Reformers removed books from an already-received canon in the 16th century; Trent's 1546 session formally reaffirmed the longer list the Church had already used, rather than the Church adding anything new",
+        "The claim is entirely accurate exactly as stated -- the Catholic Church added the books at the Council of Trent",
+        "Neither Catholics nor Protestants have ever had a fixed Old Testament canon",
+        "The seven books in question were written after the New Testament closed"
+      ],
+      "correctAnswer": "The Reformers removed books from an already-received canon in the 16th century; Trent's 1546 session formally reaffirmed the longer list the Church had already used, rather than the Church adding anything new",
+      "explanation": "The historical direction runs the opposite way from the objection: these books were already part of the Church's received and liturgically used canon well before the Reformation. Trent's Fourth Session formally reaffirmed that existing longer list in response to 16th-century Reformers removing these books, rather than the Church newly adding them.",
+      "hint": "This is a direction-of-history problem -- ask which side actually changed an existing, received list.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Fourth Session (1546)"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-003",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector says, 'The Gospels copied each other, so they aren't independent eyewitness testimony.' Using Markan priority and the Church's three-stage Gospel formation process (CCC 126), what is the accurate response?",
+      "choices": [
+        "Literary dependence in composition and apostolic reliability in content aren't in tension -- later evangelists drawing on earlier written and oral apostolic tradition is exactly the process CCC 126 describes, not a discovery that undermines it",
+        "The Gospels have no literary relationship whatsoever, and any appearance of overlap is coincidental",
+        "Literary dependence proves the Gospels are entirely fictional",
+        "CCC 126 was written specifically to deny that Mark was used as a source by the other Gospels"
+      ],
+      "correctAnswer": "Literary dependence in composition and apostolic reliability in content aren't in tension -- later evangelists drawing on earlier written and oral apostolic tradition is exactly the process CCC 126 describes, not a discovery that undermines it",
+      "explanation": "CCC 126 describes a three-stage formation process -- the life and teaching of Jesus, the apostles' oral preaching, and the evangelists' later written composition drawing on those earlier stages. Mark being used as a source by Matthew and Luke is exactly this kind of continuity with apostolic tradition, not evidence of fabrication or independent invention.",
+      "hint": "The three-stage process in CCC 126 already accounts for later written Gospels drawing on earlier apostolic material.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-004",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A sola scriptura objection claims, 'The Bible alone is a sufficient and self-interpreting rule of faith, with no need for the Church's authority.' Using the interpretive criteria already covered in this topic (living Tradition, the analogy of faith), what is the accurate response?",
+      "choices": [
+        "Scripture itself requires correct interpretation within the living Tradition and the analogy of faith -- a text that different readers interpret in contradictory ways cannot function as a wholly self-interpreting rule without an authoritative interpreter",
+        "The Church agrees Scripture is entirely self-interpreting and needs no additional guidance whatsoever",
+        "The analogy of faith and living Tradition are modern Catholic inventions with no basis in how the earliest Christians read Scripture",
+        "Sola scriptura is correct, and the Catholic Church has quietly adopted it since Vatican II"
+      ],
+      "correctAnswer": "Scripture itself requires correct interpretation within the living Tradition and the analogy of faith -- a text that different readers interpret in contradictory ways cannot function as a wholly self-interpreting rule without an authoritative interpreter",
+      "explanation": "The historical fact of thousands of different, mutually contradictory interpretations arising from sola scriptura is itself evidence against the claim that Scripture is simply self-interpreting -- the Church's teaching is that Scripture must be read within the living Tradition and 'analogy of faith' (the coherence of all revealed truths with each other), guided by the Magisterium's authority to interpret authentically.",
+      "hint": "The strongest evidence against 'self-interpreting' is simply how many contradictory readings the same text has actually produced.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 113"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-005",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: The apparent tension between James 2:24 ('a person is justified by works and not by faith alone') and Romans 3:28 ('a person is justified by faith apart from works of the law') is resolved by recognizing the two authors use 'faith' and 'works' in different senses suited to the specific errors each is correcting, not by declaring one passage simply wrong.",
+      "correctAnswer": true,
+      "explanation": "Paul in Romans is countering a reliance on the Mosaic law's ritual works as a means of justification apart from faith in Christ, while James is countering an empty, inert 'faith' that produces no actual charity or good works -- read according to each author's specific target and literary context, the two passages address different errors rather than contradicting each other.",
+      "hint": "The key move is asking what specific error each author is actually correcting, not assuming both must use the same word the same way.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 3:28"
+        },
+        {
+          "type": "scripture",
+          "reference": "James 2:24"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-006",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each objection to its accurate response.",
+      "pairs": [
+        {
+          "left": "'The Bible gets a scientific detail wrong'",
+          "right": "Inerrancy covers the saving truth God intended, not every incidental detail"
+        },
+        {
+          "left": "'Catholics added seven books'",
+          "right": "The Reformers removed books from an already-received canon; Trent reaffirmed it"
+        },
+        {
+          "left": "'The Gospels copied each other'",
+          "right": "Literary dependence and apostolic reliability aren't in tension -- CCC 126's own three-stage process"
+        },
+        {
+          "left": "'The Bible alone is a sufficient, self-interpreting rule of faith'",
+          "right": "Contradictory readings from the same text argue against 'self-interpreting' without the Church's authoritative interpretation"
+        }
+      ],
+      "explanation": "Each of these responses draws on vocabulary and history already fixed at level 6 -- this level's whole task is putting that vocabulary to work against a real objection, not introducing new facts.",
+      "hint": "None of these four correct answers is a bare denial -- each engages the objection's actual claim.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 113"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-001",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Per Dei Verbum 12 and the Pontifical Biblical Commission's 1993 document 'The Interpretation of the Bible in the Church,' what is the historical-critical method's legitimate contribution, and what is its limit when used alone?",
+      "choices": [
+        "It legitimately illuminates authorial intent and historical/literary context, but risks missing a text's full theological meaning if it excludes the light of faith and Tradition",
+        "It has no legitimate use in Catholic biblical scholarship and is formally condemned",
+        "It fully replaces the need for any theological or spiritual reading of Scripture",
+        "It applies only to the New Testament, never to the Old Testament"
+      ],
+      "correctAnswer": "It legitimately illuminates authorial intent and historical/literary context, but risks missing a text's full theological meaning if it excludes the light of faith and Tradition",
+      "explanation": "The 1993 PBC document affirms the historical-critical method's real, positive contribution to understanding a text's original context and intended meaning, while cautioning that used in isolation -- without the complementary light of faith, Tradition, and the Church's living interpretation -- it risks missing dimensions of meaning Dei Verbum 12 says belong to a text inspired by God for the Church's ongoing life.",
+      "hint": "This is a 'legitimate but incomplete alone' answer, not a flat approval or rejection.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 12"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-002",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: The Alexandrian school's emphasis on allegory and the Antiochene school's emphasis on literal-historical restraint represent two legitimate but different accents within the same fourfold-sense framework, not a simple right-versus-wrong pair.",
+      "correctAnswer": true,
+      "explanation": "Both schools operated within the Church's broader tradition of reading Scripture according to multiple senses (literal, allegorical, moral, anagogical); Alexandria leaned toward drawing out the allegorical and typological, while Antioch leaned toward historical and grammatical restraint -- legitimate differences of emphasis, not one school being simply orthodox and the other simply in error.",
+      "hint": "This is a difference of emphasis within a shared framework, similar to other legitimate diversities already seen in this app.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-003",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Given the binding of Isaac (Genesis 22), which correctly matches a historical-critical reading to its characteristic concern, as distinct from an allegorical reading's concern?",
+      "choices": [
+        "Historical-critical: the passage's ancient Near Eastern context and the practice of child sacrifice it stands against; allegorical: Isaac as a type of Christ carrying wood to his own sacrifice",
+        "Historical-critical and allegorical readings ask exactly the same question and reach exactly the same conclusion",
+        "Historical-critical readings are concerned only with allegory; allegorical readings are concerned only with historical context",
+        "Neither reading has any legitimate basis in Catholic biblical scholarship"
+      ],
+      "correctAnswer": "Historical-critical: the passage's ancient Near Eastern context and the practice of child sacrifice it stands against; allegorical: Isaac as a type of Christ carrying wood to his own sacrifice",
+      "explanation": "A historical-critical reading situates the passage against its ancient Near Eastern background, noting how it stands against child sacrifice practiced by surrounding cultures; an allegorical/typological reading, already licensed by the fourfold-sense framework, sees Isaac carrying the wood for his own sacrifice as prefiguring Christ carrying his cross -- both are legitimate readings operating at different levels of the text's meaning.",
+      "hint": "One reading looks outward to ancient context; the other looks forward to how the passage prefigures Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 117"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-004",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "The Documentary Hypothesis proposes that the Pentateuch was compiled from four source traditions (J, E, D, P) rather than written entirely by Moses alone. Per the Pontifical Biblical Commission's 1948 letter to Cardinal Suhard, what is the Church's actual stance on this hypothesis?",
+      "choices": [
+        "It is permitted as a legitimate scholarly hypothesis for Catholic exegetes to discuss and weigh, not binding doctrine that must be accepted or rejected as a matter of faith",
+        "It has been formally condemned as heretical",
+        "It has been formally declared the Church's official teaching on the Pentateuch's authorship",
+        "It applies only to the book of Genesis, not the rest of the Pentateuch"
+      ],
+      "correctAnswer": "It is permitted as a legitimate scholarly hypothesis for Catholic exegetes to discuss and weigh, not binding doctrine that must be accepted or rejected as a matter of faith",
+      "explanation": "The 1948 PBC letter to Cardinal Suhard acknowledged the value of source-critical study of the Pentateuch's composition history while affirming Mosaic authorship in a broader, substantial sense (Moses as the tradition's authoritative source, even if later editors compiled and shaped the final text) -- treating the specific documentary details as an open scholarly question, not a matter the faith requires settling one way or the other.",
+      "hint": "This is the same pattern as level 6's point about disputed Pauline authorship -- a scholarly question the Church leaves open rather than dogmatically resolving.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pontifical Biblical Commission, Letter to Cardinal Suhard (1948)"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-005",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: Whether the Alexandrian or Antiochene emphasis best serves preaching today is a contested-within-orthodoxy methodological question, while the claim that Scripture has a literal, allegorical, moral, and anagogical sense at all is settled Catholic teaching, not an open question.",
+      "correctAnswer": true,
+      "explanation": "The fourfold-sense framework itself -- that Scripture bears these different levels of meaning -- is settled Catholic teaching (CCC 115-119); which historical school's emphasis is more pastorally useful for preaching in a given context is a live, legitimate methodological question, not a doctrinal one. Confusing the two would either wrongly dogmatize a preference or wrongly relativize a settled teaching.",
+      "hint": "One of these two claims is about whether something exists at all; the other is about which emphasis works best in practice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-006",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each method or school to its central working concern.",
+      "pairs": [
+        {
+          "left": "Historical-critical method",
+          "right": "Authorial intent and historical/literary context"
+        },
+        {
+          "left": "Patristic fourfold sense",
+          "right": "Literal, allegorical, moral, and anagogical layers of meaning"
+        },
+        {
+          "left": "Alexandrian school",
+          "right": "An accent toward allegory and typology"
+        },
+        {
+          "left": "Antiochene school",
+          "right": "An accent toward literal-historical restraint"
+        }
+      ],
+      "explanation": "No single fact settles which method or school 'wins' at this level -- the task is matching each to its actual working concern, since several of these operate legitimately side by side rather than replacing one another.",
+      "hint": "Two of these are broad methods; two are specific historical schools within the patristic approach.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 12"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-001",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The Antiochene school's literal-historical hermeneutic is sometimes historically associated with the christological tendencies later condemned in Nestorius. What is the correct way to state this connection?",
+      "choices": [
+        "A historical association scholars debate the strength of, not a claim that Antiochene exegesis as such is doctrinally erroneous",
+        "A settled dogmatic fact: the Antiochene school was formally condemned as heretical alongside Nestorius",
+        "No connection exists at all between the school and the later controversy",
+        "The Antiochene school was founded specifically to promote Nestorius's teaching"
+      ],
+      "correctAnswer": "A historical association scholars debate the strength of, not a claim that Antiochene exegesis as such is doctrinally erroneous",
+      "explanation": "Historians note a real historical and educational connection between the Antiochene exegetical tradition and figures later associated with Nestorianism, but the exegetical method itself was never formally condemned -- level 8 already affirmed Antiochene literal-historical reading as a legitimate emphasis. This connection is a historical-judgment question about influence and association, not a doctrinal verdict on the method.",
+      "hint": "Look back to level 8 -- the Antiochene method itself was never declared erroneous there, and that hasn't changed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment",
+        "prerequisite:church-fathers-l8"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-002",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The Church's typological reading of Isaac as a foreshadowing of Christ (CCC 128-130) can be compared with, but is distinct from, rabbinic exegetical methods like midrash. How should this comparison be correctly tagged?",
+      "choices": [
+        "The typological reading itself is settled Catholic teaching; the comparative claim about how it relates to rabbinic method is a historical-judgment question about interpretive history, not a doctrinal one",
+        "Both the typological reading and the historical comparison are equally unsettled, open questions",
+        "The comparison proves rabbinic and Catholic exegesis are identical methods with no real difference",
+        "Typology has been abandoned by the Church in favor of purely historical-critical reading"
+      ],
+      "correctAnswer": "The typological reading itself is settled Catholic teaching; the comparative claim about how it relates to rabbinic method is a historical-judgment question about interpretive history, not a doctrinal one",
+      "explanation": "CCC 128-130 affirms typological reading (Christ prefigured in Old Testament persons and events) as settled Catholic teaching. Comparing this method historically to rabbinic techniques like midrash and pesher is a separate, historical-critical question about interpretive traditions and their relationships -- worth exploring, but not itself a doctrinal claim requiring the same certainty.",
+      "hint": "Two different kinds of claims are being made here -- keep them separate rather than treating both with the same level of certainty.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-003",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The 'New Perspective on Paul' (associated with scholars like E.P. Sanders and N.T. Wright) offers a different account of what Paul means by 'works of the law' in Romans and Galatians than the traditional Augustinian/Reformation-era reading. How should this scholarly debate be correctly treated?",
+      "choices": [
+        "As a genuinely contested-within-orthodoxy scholarly debate, not a question the Magisterium has adjudicated by declaring one side simply correct",
+        "As a debate the Catholic Church has officially settled in favor of the New Perspective",
+        "As a debate the Catholic Church has officially settled in favor of the traditional reading",
+        "As a heretical position that has been formally condemned"
+      ],
+      "correctAnswer": "As a genuinely contested-within-orthodoxy scholarly debate, not a question the Magisterium has adjudicated by declaring one side simply correct",
+      "explanation": "The New Perspective (developed in works like Sanders's Paul and Palestinian Judaism, 1977, and Wright's What Saint Paul Really Said, 1997) proposes that Paul's 'works of the law' language responds primarily to Jewish covenantal boundary markers rather than a generic legalistic earning of salvation. This remains a live, contested scholarly conversation connecting back to this topic's own Letters and Epistles level, not a question the Magisterium has adjudicated in favor of either side.",
+      "hint": "Prerequisite: this topic's own Letters and Epistles level, where Paul's letters were first introduced.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 3:28"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy",
+        "prerequisite:sacred-scripture-l4"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-004",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Dei Verbum teaches that Scripture and Tradition together form 'one sacred deposit of the word of God' (CCC 80-82). How does this connect to what this topic's own 'Reading as the Church' level already established about interpretation?",
+      "choices": [
+        "Since Scripture and Tradition form a single deposit rather than two separate sources, the Church's authoritative interpretation of Scripture is not an outside imposition on the text but engagement with the same one deposit Scripture itself belongs to",
+        "Scripture and Tradition are two entirely separate and potentially conflicting sources of revelation",
+        "Tradition is a merely human custom with no real doctrinal authority",
+        "This teaching reverses everything the 'Reading as the Church' level established about interpretation"
+      ],
+      "correctAnswer": "Since Scripture and Tradition form a single deposit rather than two separate sources, the Church's authoritative interpretation of Scripture is not an outside imposition on the text but engagement with the same one deposit Scripture itself belongs to",
+      "explanation": "CCC 80-82's 'one sacred deposit' teaching is the doctrinal foundation for why the Church interpreting Scripture within living Tradition (already covered in this topic's 'Reading as the Church' level) isn't adding something foreign to the text -- Scripture and Tradition flow from the same one wellspring and are received together by the Church.",
+      "hint": "Prerequisite: this topic's own 'Reading as the Church' level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 80"
+        }
+      ],
+      "tags": [
+        "prerequisite:sacred-scripture-l5"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-005",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: The Mass lectionary's multi-year cycle of readings, already covered in the Liturgy and Mass topic, reflects the same conviction this topic teaches: that the whole of Scripture, not a self-selected favorite subset, belongs to the Church's public life.",
+      "correctAnswer": true,
+      "explanation": "The Liturgy and Mass topic's coverage of the lectionary's structured, multi-year cycle expresses the same underlying conviction this topic teaches about Scripture's God-given authority and completeness -- the Church's public proclamation of Scripture is organized precisely so that the full range of the inspired text, not a curated favorites list, forms believers over time.",
+      "hint": "Prerequisite: the Liturgy and Mass level comparing the lectionary's cycle logic to the Liturgy of the Hours' psalmody.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 51"
+        }
+      ],
+      "tags": [
+        "prerequisite:liturgy-and-mass-l8"
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-006",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each item to the status or connection this level gives it.",
+      "pairs": [
+        {
+          "left": "Antiochene hermeneutic's link to Nestorius",
+          "right": "A historical-judgment question about influence, not a verdict on the exegetical method itself"
+        },
+        {
+          "left": "Typological reading of Isaac (CCC 128-130)",
+          "right": "Settled Catholic teaching"
+        },
+        {
+          "left": "The New Perspective on Paul",
+          "right": "A genuinely contested-within-orthodoxy scholarly debate"
+        },
+        {
+          "left": "The Mass lectionary's multi-year cycle",
+          "right": "Liturgy and Mass's expression of this topic's own conviction about Scripture's completeness"
+        }
+      ],
+      "explanation": "This level's method is connection with an explicit source, tagged honestly by status -- settled doctrine, contested scholarly debate, or historical-judgment question -- rather than treating every claim with the same certainty.",
+      "hint": "Three of these four carry an explicit tag; look at how each is actually described, not just its subject matter.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-001",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The Comma Johanneum (1 John 5:7-8), a Trinitarian formula absent from the earliest Greek manuscripts, is omitted from modern critical texts and translations. Why doesn't its absence undermine the doctrine of the Trinity?",
+      "choices": [
+        "The doctrine of the Trinity rests on the wider testimony of Scripture and the Church's doctrinal development, not on this one textually late and disputed verse",
+        "The doctrine of the Trinity has no other scriptural basis and is now considered unsupported",
+        "The Comma Johanneum's removal proves the doctrine of the Trinity was invented in the medieval period",
+        "Modern critical texts have restored the Comma Johanneum as authentic"
+      ],
+      "correctAnswer": "The doctrine of the Trinity rests on the wider testimony of Scripture and the Church's doctrinal development, not on this one textually late and disputed verse",
+      "explanation": "The Comma Johanneum appears to be a later Latin textual addition absent from the earliest Greek manuscript tradition, and modern critical editions and most translations note or omit it accordingly. The doctrine of the Trinity does not depend on this one contested verse -- it rests on the broader witness of Scripture (the baptismal formula, Johannine and Pauline texts) read through the Church's doctrinal development across the early councils.",
+      "hint": "One textually disputed verse being set aside doesn't remove an entire doctrine's much wider foundation.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-002",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Mark 16:9-20 (the 'longer ending'), absent from Codex Sinaiticus and Codex Vaticanus, raises a real textual question. What is the Church's actual resolution of its status?",
+      "choices": [
+        "The longer ending is received as canonical and inspired through the Church's long liturgical and traditional use, a question distinct from the separate historical question of its authorial origin",
+        "The longer ending has been formally removed from the canon by the Magisterium",
+        "Its absence from two manuscripts proves the entire Gospel of Mark is unreliable",
+        "The textual question has never been acknowledged by any Church document"
+      ],
+      "correctAnswer": "The longer ending is received as canonical and inspired through the Church's long liturgical and traditional use, a question distinct from the separate historical question of its authorial origin",
+      "explanation": "The Church distinguishes the question of a passage's canonical and inspired status -- settled by its consistent reception and liturgical use across the Church's history -- from the separate historical-critical question of exactly how or by whom it was originally composed. Mark 16:9-20 remains part of the canonical text on this basis, regardless of what textual criticism concludes about its origin.",
+      "hint": "This is the same move as level 6's point about disputed Pauline authorship not being decisive for canonicity -- applied here to an ending rather than a whole letter.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-003",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The pericope adulterae (John 7:53-8:11, the woman caught in adultery) has an unsettled manuscript history, appearing in different locations in different early manuscript traditions. Why doesn't this compromise its canonical status or continued use?",
+      "choices": [
+        "Its canonical and liturgical reception by the Church, sustained across centuries, does not require settling every detail of its precise manuscript placement history",
+        "The passage has been formally removed from all modern Bibles",
+        "An unsettled placement history proves the event it describes never happened",
+        "The Church has never used this passage in preaching or liturgy because of the textual uncertainty"
+      ],
+      "correctAnswer": "Its canonical and liturgical reception by the Church, sustained across centuries, does not require settling every detail of its precise manuscript placement history",
+      "explanation": "Like the Markan ending, the pericope adulterae's exact manuscript history (which Gospel it originally belonged with, if any single original placement can even be identified) is a real textual-critical question, but the Church's canonical and liturgical reception of the passage does not hinge on resolving every detail of that history -- the passage remains part of the canonical Gospel of John and continues in ordinary liturgical and homiletic use.",
+      "hint": "This follows the same pattern as the Markan ending question -- reception and canonicity are distinct from unsettled placement history.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-004",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Scholars use critical editions like Nestle-Aland's Novum Testamentum Graece and the Biblia Hebraica Stuttgartensia, while the Roman liturgy uses the Church's own Nova Vulgata (1979) as its official reference text. Why can the Church use a different 'typical edition' for worship without contradicting the scholarship?",
+      "choices": [
+        "A liturgical typical edition serves the Church's need for a single, stable, authoritative text for public worship, while critical editions serve ongoing textual-critical scholarship -- different purposes, not competing claims about which is 'true'",
+        "The Nova Vulgata rejects the findings of modern textual criticism entirely",
+        "Critical editions and the Nova Vulgata are identical documents under different names",
+        "The Church has declared textual criticism illegitimate for use in preparing liturgical texts"
+      ],
+      "correctAnswer": "A liturgical typical edition serves the Church's need for a single, stable, authoritative text for public worship, while critical editions serve ongoing textual-critical scholarship -- different purposes, not competing claims about which is 'true'",
+      "explanation": "The Nova Vulgata, promulgated in 1979, actually draws on modern critical scholarship in its preparation while serving a specifically liturgical function: providing one stable, authoritative text for the Roman Rite's public worship. Critical editions like NA28 and BHS serve the different, ongoing purpose of tracking and weighing manuscript evidence -- the two coexist because they answer different needs, not because one refutes the other.",
+      "hint": "Ask what job each edition is actually doing, rather than assuming only one can be 'the real Bible.'",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Scripturarum Thesaurus (1979)"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-005",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A friend says, 'I heard verses were added to the Bible later -- doesn't that mean it's unreliable?' Using everything this level has covered, which is the most accurate, sayable response?",
+      "choices": [
+        "A small number of specific passages have a genuinely debated textual history, which scholars and the Church have long acknowledged openly -- but this is a world apart from the text as a whole being unreliable, since the vast majority of the text is solidly and consistently attested across thousands of manuscripts",
+        "No, this has never been acknowledged by any Christian scholar or Church document",
+        "Yes, this means the entire Bible cannot be trusted at all",
+        "The Church refuses to discuss this topic because it is too damaging to faith"
+      ],
+      "correctAnswer": "A small number of specific passages have a genuinely debated textual history, which scholars and the Church have long acknowledged openly -- but this is a world apart from the text as a whole being unreliable, since the vast majority of the text is solidly and consistently attested across thousands of manuscripts",
+      "explanation": "The honest, sayable answer names the real textual questions (the Comma Johanneum, the Markan ending, the pericope adulterae) openly, exactly as this level has, while putting them in proportion: these are a handful of well-studied cases against a text overwhelmingly and consistently attested across an enormous body of manuscript evidence, openly discussed rather than hidden.",
+      "hint": "The strongest answer neither denies the real textual questions nor lets a few genuine cases stand in for the whole text's reliability.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-006",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each textual question to the Church's actual resolution.",
+      "pairs": [
+        {
+          "left": "The Comma Johanneum's absence from early manuscripts",
+          "right": "The Trinity rests on wider scriptural and doctrinal grounds, not this one disputed verse"
+        },
+        {
+          "left": "The Markan ending's absence from Sinaiticus/Vaticanus",
+          "right": "Received as canonical through liturgical and traditional use, apart from questions of authorial origin"
+        },
+        {
+          "left": "The pericope adulterae's unsettled placement history",
+          "right": "Canonical and liturgical reception doesn't require settling every manuscript detail"
+        },
+        {
+          "left": "Critical editions (NA28, BHS) alongside the Nova Vulgata",
+          "right": "Different purposes -- scholarship versus a stable liturgical reference text -- not competing claims"
+        }
+      ],
+      "explanation": "Across this whole topic, the same discipline keeps showing up one final time: name the real textual and historical questions honestly, and show exactly why they don't touch what the Church actually needs them not to touch.",
+      "hint": "Every right answer here separates a real, open question from a settled reception or use that doesn't depend on resolving it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
       ]
     }
   ]
