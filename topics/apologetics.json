@@ -8,12 +8,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1000,
       "prompt": "St. Peter instructs Christians to 'always be ready to give an explanation to anyone who asks you for a reason for your hope.' Where is this found?",
-      "choices": ["1 Peter 3:15", "Romans 8:28", "James 2:17", "1 Corinthians 13:1"],
+      "choices": [
+        "1 Peter 3:15",
+        "Romans 8:28",
+        "James 2:17",
+        "1 Corinthians 13:1"
+      ],
       "correctAnswer": "1 Peter 3:15",
       "explanation": "1 Peter 3:15 is the classic biblical charter for apologetics: believers are called to be ready to explain and defend the reasons for their faith, 'with gentleness and reverence.'",
       "hint": "This is the go-to verse apologists cite to justify the whole discipline.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -27,7 +35,10 @@
       "explanation": "The Catechism teaches the opposite: proofs for God's existence 'can predispose one to faith and help one to see that faith is not opposed to reason.'",
       "hint": "The Catechism treats these as partners, not rivals.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 35-36" }
+        {
+          "type": "ccc",
+          "reference": "CCC 35-36"
+        }
       ]
     },
     {
@@ -47,7 +58,10 @@
       "explanation": "The Catechism firmly rejects Marcionism, the idea that the New Testament renders the Old void -- the Old Covenant 'has never been revoked' and its books retain permanent value.",
       "hint": "The Church has always resisted cutting Scripture in half.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 121-123" }
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123"
+        }
       ]
     },
     {
@@ -67,7 +81,10 @@
       "explanation": "'Apologia' means a defense, as in a courtroom -- not an apology in the modern English sense of saying sorry. Apologetics is the reasoned defense of the faith, not an expression of regret for holding it.",
       "hint": "Think 'legal defense,' not 'I'm sorry.'",
       "citations": [
-        { "type": "scripture", "reference": "Acts 22:1" }
+        {
+          "type": "scripture",
+          "reference": "Acts 22:1"
+        }
       ]
     },
     {
@@ -81,7 +98,10 @@
       "explanation": "1 Peter 3:15, apologetics' own charter verse, specifies defending the faith 'with gentleness and reverence' -- the manner matters as much as the content.",
       "hint": "The same verse that calls for a defense also specifies the tone it must be given in.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -101,7 +121,10 @@
       "explanation": "Apologetics serves evangelization -- it clears away obstacles and offers reasons, but the goal is always a person's genuine encounter with the truth, not a scoreboard of debate wins.",
       "hint": "The goal is an invitation, not a scoreboard.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -121,7 +144,10 @@
       "explanation": "The divine Persons do not divide the one divine nature among themselves -- each is fully God, and yet there is only one God, not three. This distinguishes orthodox Trinitarian belief from both tritheism and modalism.",
       "hint": "The key word is 'Persons,' not 'gods' -- and there's only one nature shared, not three.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 253" }
+        {
+          "type": "ccc",
+          "reference": "CCC 253"
+        }
       ]
     },
     {
@@ -135,7 +161,10 @@
       "explanation": "'Begotten, not made' means the Son eternally shares the Father's own divine nature -- he was never created, and there was never a time he did not exist.",
       "hint": "The Creed is drawing a contrast between 'begotten' and 'made' on purpose.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 242" }
+        {
+          "type": "ccc",
+          "reference": "CCC 242"
+        }
       ]
     },
     {
@@ -149,7 +178,10 @@
       "explanation": "Paul's early creedal summary in 1 Corinthians 15 lists numerous eyewitnesses to the risen Christ -- witnesses whose later willingness to suffer and die for that testimony is a striking historical detail apologists frequently cite.",
       "hint": "This is the ultimate cost the apostles were willing to pay for what they claimed to have seen.",
       "citations": [
-        { "type": "scripture", "reference": "1 Corinthians 15:3-8" }
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
       ]
     },
     {
@@ -169,7 +201,10 @@
       "explanation": "People sometimes die for things they sincerely but mistakenly believe -- but the apostles claimed direct, firsthand experience of the risen Christ, which is a different and harder claim to explain away.",
       "hint": "The key detail is that they claimed to have seen it themselves, not just heard about it.",
       "citations": [
-        { "type": "scripture", "reference": "1 Corinthians 15:3-8" }
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
       ]
     },
     {
@@ -183,7 +218,10 @@
       "explanation": "The virginal conception appears already in Matthew and Luke, among the earliest written Gospel accounts -- it isn't a late addition, even though it does appear later than Mark and Paul's earlier letters, which don't address the topic directly.",
       "hint": "Two of the four Gospels record this directly, and neither is a late document.",
       "citations": [
-        { "type": "scripture", "reference": "Luke 1:34-35" }
+        {
+          "type": "scripture",
+          "reference": "Luke 1:34-35"
+        }
       ]
     },
     {
@@ -194,16 +232,34 @@
       "difficultyElo": 1820,
       "prompt": "Match each common attack on the Creed to the Church's response.",
       "pairs": [
-        { "left": "'The Trinity is illogical -- 3 gods in 1'", "right": "One God in three Persons, sharing one nature, not three gods" },
-        { "left": "'The Resurrection is just a later legend'", "right": "Paul's creedal list in 1 Corinthians 15 is very early testimony" },
-        { "left": "'The virgin birth was invented later'", "right": "Already present in Matthew and Luke's earliest Gospel material" },
-        { "left": "'\"Begotten, not made\" means created'", "right": "It means eternally sharing the Father's nature, never created" }
+        {
+          "left": "'The Trinity is illogical -- 3 gods in 1'",
+          "right": "One God in three Persons, sharing one nature, not three gods"
+        },
+        {
+          "left": "'The Resurrection is just a later legend'",
+          "right": "Paul's creedal list in 1 Corinthians 15 is very early testimony"
+        },
+        {
+          "left": "'The virgin birth was invented later'",
+          "right": "Already present in Matthew and Luke's earliest Gospel material"
+        },
+        {
+          "left": "'\"Begotten, not made\" means created'",
+          "right": "It means eternally sharing the Father's nature, never created"
+        }
       ],
       "explanation": "Each objection trades on a misunderstanding of what the Creed actually claims -- careful attention to the words themselves usually dissolves the apparent contradiction.",
       "hint": "Each Church response corrects a specific misreading of the Creed's actual words.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 253" },
-        { "type": "scripture", "reference": "1 Corinthians 15:3-8" }
+        {
+          "type": "ccc",
+          "reference": "CCC 253"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
       ]
     },
     {
@@ -223,7 +279,10 @@
       "explanation": "Nowhere does the New Testament claim Scripture alone suffices -- and the very list of books making up the New Testament was itself settled through the Church's living Tradition, not by Scripture self-certifying its own contents.",
       "hint": "Ask: who decided which books belong in the Bible in the first place?",
       "citations": [
-        { "type": "ccc", "reference": "CCC 82" }
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
       ]
     },
     {
@@ -237,7 +296,10 @@
       "explanation": "This verse is a favorite apologetics proof-text: Paul explicitly places oral and written apostolic teaching on equal footing, undercutting the claim that only written Scripture carries authority.",
       "hint": "Paul names two channels of teaching here, not just one.",
       "citations": [
-        { "type": "scripture", "reference": "2 Thessalonians 2:15" }
+        {
+          "type": "scripture",
+          "reference": "2 Thessalonians 2:15"
+        }
       ]
     },
     {
@@ -251,7 +313,10 @@
       "explanation": "Scripture and Tradition are not two separate, competing sources -- together they form a single deposit of God's revealed word, entrusted to the Church.",
       "hint": "It's a number -- the two together form only this many deposit.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 97" }
+        {
+          "type": "ccc",
+          "reference": "CCC 97"
+        }
       ]
     },
     {
@@ -271,8 +336,14 @@
       "explanation": "The canon wasn't simply self-evident -- the Church, exercising the authority Christ gave her, discerned which books were genuinely apostolic and inspired, a process later reaffirmed dogmatically at Trent.",
       "hint": "Someone had to decide -- and it wasn't a Roman emperor or a popularity contest.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" },
-        { "type": "ccc", "reference": "CCC 120" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
       ]
     },
     {
@@ -286,7 +357,10 @@
       "explanation": "These books, often called the deuterocanon, were part of the Greek Septuagint used by the early Church and were formally reaffirmed as canonical Scripture at the Council of Trent.",
       "hint": "This is one of the clearest differences between a Catholic and a typical Protestant Bible's table of contents.",
       "citations": [
-        { "type": "council", "reference": "Council of Trent (1545-1563)" }
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
       ]
     },
     {
@@ -297,15 +371,30 @@
       "difficultyElo": 2150,
       "prompt": "Match each term to its meaning in the Scripture-and-Tradition relationship.",
       "pairs": [
-        { "left": "Sacred Scripture", "right": "The inspired, written Word of God" },
-        { "left": "Sacred Tradition", "right": "God's Word handed down by the apostles, orally and in practice" },
-        { "left": "Magisterium", "right": "The Church's living teaching office that authentically interprets both" },
-        { "left": "Canon", "right": "The authoritative list of the Bible's inspired books" }
+        {
+          "left": "Sacred Scripture",
+          "right": "The inspired, written Word of God"
+        },
+        {
+          "left": "Sacred Tradition",
+          "right": "God's Word handed down by the apostles, orally and in practice"
+        },
+        {
+          "left": "Magisterium",
+          "right": "The Church's living teaching office that authentically interprets both"
+        },
+        {
+          "left": "Canon",
+          "right": "The authoritative list of the Bible's inspired books"
+        }
       ],
       "explanation": "None of these four stands alone -- Scripture and Tradition together form one deposit of revelation, and the Magisterium serves that deposit rather than standing above it.",
       "hint": "One term names the written word, one the handed-down word, one the interpreting office, and one the official book list.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 85" }
+        {
+          "type": "ccc",
+          "reference": "CCC 85"
+        }
       ]
     },
     {
@@ -325,7 +414,10 @@
       "explanation": "Local councils such as Carthage, in the late 4th century, listed the New Testament books already in widespread liturgical and doctrinal use -- they ratified an existing consensus rather than inventing a new list from nothing.",
       "hint": "The word 'recognized' matters more here than 'invented.'",
       "citations": [
-        { "type": "council", "reference": "Council of Carthage (397)" }
+        {
+          "type": "council",
+          "reference": "Council of Carthage (397)"
+        }
       ]
     },
     {
@@ -339,7 +431,10 @@
       "explanation": "Belief in Christ's divinity is attested throughout the New Testament and pre-Nicene Christian writings, centuries before Constantine. Nicaea clarified and defended existing belief against Arius's denial of it -- it did not invent it.",
       "hint": "The opening of John's Gospel, written centuries before Nicaea, already calls Christ God.",
       "citations": [
-        { "type": "scripture", "reference": "John 1:1" }
+        {
+          "type": "scripture",
+          "reference": "John 1:1"
+        }
       ]
     },
     {
@@ -353,7 +448,10 @@
       "explanation": "The Church teaches that genuine scientific research, properly conducted, can never truly conflict with faith -- a claim vividly illustrated by a Catholic priest originating one of modern cosmology's foundational theories.",
       "hint": "It's the standard name for the leading scientific theory of the universe's origin.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 159" }
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
       ]
     },
     {
@@ -373,7 +471,10 @@
       "explanation": "Rather than denying God's goodness or power, or denying evil's reality, the Church points to freedom's necessary risk and to God's own definitive answer to evil and suffering in the Cross.",
       "hint": "The answer doesn't deny God's power or goodness, or deny evil is real.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 309" }
+        {
+          "type": "ccc",
+          "reference": "CCC 309"
+        }
       ]
     },
     {
@@ -387,7 +488,10 @@
       "explanation": "Pope Pius XII's Humani Generis permitted Catholics to consider the theory of evolution regarding the human body, while insisting the human soul is directly created by God -- a middle position, not a blanket prohibition.",
       "hint": "The Church's actual position distinguishes the body from the soul.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Humani Generis, Pope Pius XII (1950)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Humani Generis, Pope Pius XII (1950)"
+        }
       ]
     },
     {
@@ -398,16 +502,34 @@
       "difficultyElo": 2450,
       "prompt": "Match each objection to an accurate Catholic response.",
       "pairs": [
-        { "left": "'Nicaea invented Christ's divinity'", "right": "Already attested throughout the New Testament, long before Nicaea" },
-        { "left": "'The Church added books to the Bible'", "right": "Councils recognized, rather than invented, an already-apostolic canon" },
-        { "left": "'Faith and science are always at war'", "right": "The Church teaches genuine truths of both can never ultimately conflict" },
-        { "left": "'Evolution is strictly forbidden'", "right": "Permitted for the body, while the soul is held to be directly created" }
+        {
+          "left": "'Nicaea invented Christ's divinity'",
+          "right": "Already attested throughout the New Testament, long before Nicaea"
+        },
+        {
+          "left": "'The Church added books to the Bible'",
+          "right": "Councils recognized, rather than invented, an already-apostolic canon"
+        },
+        {
+          "left": "'Faith and science are always at war'",
+          "right": "The Church teaches genuine truths of both can never ultimately conflict"
+        },
+        {
+          "left": "'Evolution is strictly forbidden'",
+          "right": "Permitted for the body, while the soul is held to be directly created"
+        }
       ],
       "explanation": "Each of these popular objections rests on a historical or theological misunderstanding that a closer look at the actual sources corrects.",
       "hint": "Each response corrects a specific factual or historical error in the objection.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 159" },
-        { "type": "magisterial_document", "reference": "Humani Generis, Pope Pius XII (1950)" }
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Humani Generis, Pope Pius XII (1950)"
+        }
       ]
     },
     {
@@ -427,7 +549,10 @@
       "explanation": "Ecumenical dialogue, as Vatican II envisions it, holds truth and charity together -- genuine respect and engagement with other Christians without dissolving the Church's own convictions about the fullness of revealed truth.",
       "hint": "This kind of dialogue holds both charity and truth together, not one at the expense of the other.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council, Unitatis Redintegratio (1964)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio (1964)"
+        }
       ]
     },
     {
@@ -441,7 +566,10 @@
       "explanation": "The Catechism teaches that those who, through no fault of their own, do not know Christ or his Church, but sincerely seek God and try to do his will as known through conscience, can attain salvation.",
       "hint": "The key phrase is 'through no fault of their own.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 847" }
+        {
+          "type": "ccc",
+          "reference": "CCC 847"
+        }
       ]
     },
     {
@@ -455,7 +583,10 @@
       "explanation": "The manner of a defense matters as much as its content -- 1 Peter 3:15 pairs the call to give reasons with an explicit instruction about tone and posture.",
       "hint": "This word describes the opposite of a harsh or aggressive tone.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -475,7 +606,10 @@
       "explanation": "Ecumenism concerns unity efforts among Christians; interreligious dialogue, addressed by Vatican II's Nostra Aetate, concerns respectful engagement with non-Christian religious traditions.",
       "hint": "This term is about relations beyond Christianity altogether, not within it.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council, Nostra Aetate (1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)"
+        }
       ]
     },
     {
@@ -489,7 +623,10 @@
       "explanation": "Vatican II's declaration holds these together deliberately -- genuine openness to whatever is true and good elsewhere, without ever setting aside the Church's proclamation of Christ's unique role in salvation.",
       "hint": "The document manages to affirm both openness and Christ's uniqueness at once.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council, Nostra Aetate (1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)"
+        }
       ]
     },
     {
@@ -500,16 +637,326 @@
       "difficultyElo": 2720,
       "prompt": "Match each term to its focus.",
       "pairs": [
-        { "left": "Apologetics", "right": "Reasoned defense and explanation of the Catholic faith" },
-        { "left": "Ecumenism", "right": "Dialogue and unity efforts among Christians" },
-        { "left": "Interreligious dialogue", "right": "Engagement with non-Christian religions" },
-        { "left": "Evangelization", "right": "Proclaiming Christ and inviting others into the faith" }
+        {
+          "left": "Apologetics",
+          "right": "Reasoned defense and explanation of the Catholic faith"
+        },
+        {
+          "left": "Ecumenism",
+          "right": "Dialogue and unity efforts among Christians"
+        },
+        {
+          "left": "Interreligious dialogue",
+          "right": "Engagement with non-Christian religions"
+        },
+        {
+          "left": "Evangelization",
+          "right": "Proclaiming Christ and inviting others into the faith"
+        }
       ],
       "explanation": "These four activities overlap and reinforce one another, but each has a distinct scope -- knowing which is which helps a person engage each conversation appropriately.",
       "hint": "One is about defending, one about Christian unity, one about other religions, one about proclaiming Christ directly.",
       "citations": [
-        { "type": "council", "reference": "Second Vatican Council, Unitatis Redintegratio (1964)" },
-        { "type": "council", "reference": "Second Vatican Council, Nostra Aetate (1965)" }
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio (1964)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-001",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "CCC 156 speaks of 'motives of credibility' that make the assent of faith 'by no means a blind impulse of the mind.' How do these motives relate to the act of faith itself?",
+      "choices": [
+        "They are rational grounds (miracles, prophecy, the Church's holiness and fruitfulness) that show faith is reasonable to hold, without themselves constituting the supernatural act of faith, which remains a gift of grace assenting to God's own authority",
+        "They are identical to the act of faith itself, with no distinction between the two",
+        "They make faith entirely a matter of philosophical proof, requiring no grace at all",
+        "They are irrelevant to the act of faith and belong to a completely separate area of theology"
+      ],
+      "correctAnswer": "They are rational grounds (miracles, prophecy, the Church's holiness and fruitfulness) that show faith is reasonable to hold, without themselves constituting the supernatural act of faith, which remains a gift of grace assenting to God's own authority",
+      "explanation": "CCC 156 names motives of credibility (miracles, fulfilled prophecy, the Church's holiness, fruitfulness, and stability) as external signs of revelation showing that faith is not an irrational leap -- but these motives support and accompany faith's reasonableness without themselves being the supernatural act of faith itself, which remains a free assent enabled by grace to God's own revealing authority.",
+      "hint": "These motives show faith is reasonable to hold; they don't replace the assent of faith itself, which is a different kind of act.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-002",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Aquinas (ST I q.2 a.2 ad 1) distinguishes the 'preambles of faith' (praeambula fidei) from faith itself (fides infusa). What is a preamble of faith, and how does it differ from faith?",
+      "choices": [
+        "A preamble of faith is a truth that can be known by unaided natural reason (such as God's existence), distinct from faith itself, which is a supernatural gift assenting to truths revealed by God that reason alone could not discover",
+        "A preamble of faith is simply a synonym for faith, with no real distinction between the two terms",
+        "A preamble of faith is a truth that can only be known through the Church's Magisterium, never through reason alone",
+        "Preambles of faith were formally rejected as heretical by the Second Vatican Council"
+      ],
+      "correctAnswer": "A preamble of faith is a truth that can be known by unaided natural reason (such as God's existence), distinct from faith itself, which is a supernatural gift assenting to truths revealed by God that reason alone could not discover",
+      "explanation": "Preambles of faith are truths reason can establish on its own (God's existence, for instance) that prepare the ground for faith, but faith itself (fides infusa) is a further, supernatural gift assenting to truths -- the Trinity, the Incarnation -- that reason alone could never discover, resting on God's own revealing authority rather than philosophical demonstration.",
+      "hint": "One of these can be reached by philosophy alone; the other requires God's revelation and a gift of grace to assent to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-003",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Consider this short argument: 'Nothing comes into existence without something else bringing it into existence; an infinite regress of things being brought into existence by other things is not a sufficient explanation; therefore there must be a first, uncaused cause.' Which of Aquinas's Five Ways does this instantiate?",
+      "choices": [
+        "The argument from efficient causality (ex causa efficiente)",
+        "The argument from motion (ex motu)",
+        "The argument from the degrees of perfection (ex gradibus)",
+        "The argument from design/finality (ex fine)"
+      ],
+      "correctAnswer": "The argument from efficient causality (ex causa efficiente)",
+      "explanation": "This argument's structure -- things being brought into existence by prior causes, requiring a first uncaused cause to avoid an infinite explanatory regress -- is specifically the argument from efficient causality, Aquinas's Second Way, distinct from the argument from motion (things being moved by other things), the argument from degrees of perfection (comparing things as more or less good/true/noble), and the argument from design (things acting toward an end).",
+      "hint": "This argument is specifically about things being brought into existence, not about motion, comparison of perfections, or purposeful order.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 31"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-004",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Dei Filius (Vatican I) condemns both fideism (the position that faith requires no rational support at all and even opposes reason) and rationalism (the position that unaided reason alone can grasp all religious truth, with no need for revelation or faith) as opposite errors.",
+      "correctAnswer": true,
+      "explanation": "Dei Filius holds a careful middle position, condemning fideism's rejection of reason's real role in preparing for and accompanying faith, and equally condemning rationalism's claim that reason alone, without faith, suffices for the whole of religious truth -- two opposite errors the Council excludes together, not favoring one over the other.",
+      "hint": "The Council rejects two errors that pull in exactly opposite directions from each other.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius, ch. 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-005",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The 'bibliographical test' evaluates an ancient text's reliability by its manuscript count and the time gap between composition and earliest surviving copy. Applying this test's vocabulary, what does the New Testament's manuscript evidence look like compared to typical ancient texts?",
+      "choices": [
+        "The New Testament has a dramatically higher manuscript count and a much shorter time gap to its earliest surviving copies than the vast majority of other ancient texts routinely accepted as reliable by historians",
+        "The New Testament has a manuscript count of exactly one surviving copy, the same as most ancient texts",
+        "The New Testament's earliest surviving copy dates from over a thousand years after its composition, worse than most ancient texts",
+        "The bibliographical test cannot be meaningfully applied to any ancient religious text"
+      ],
+      "correctAnswer": "The New Testament has a dramatically higher manuscript count and a much shorter time gap to its earliest surviving copies than the vast majority of other ancient texts routinely accepted as reliable by historians",
+      "explanation": "By the bibliographical test's own standard vocabulary -- manuscript count and time gap to earliest copy -- the New Testament is exceptionally well attested compared to other ancient texts (thousands of manuscripts, with some fragments dating within a lifetime or two of composition), a fact historians apply the same standard to when assessing other classical texts with far fewer surviving copies and much larger time gaps.",
+      "hint": "This test is meant to be applied evenhandedly -- ask how the New Testament compares by the same standard used for other ancient texts.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-006",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each term from this level to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Motives of credibility (CCC 156)",
+          "right": "Rational grounds showing faith is reasonable, without themselves being the supernatural act of faith"
+        },
+        {
+          "left": "Praeambula fidei",
+          "right": "Truths reachable by unaided reason (e.g. God's existence), distinct from faith's supernatural assent"
+        },
+        {
+          "left": "Fideism and rationalism (Dei Filius ch. 3)",
+          "right": "Two opposite condemned errors -- rejecting reason's role, or rejecting faith's necessity"
+        },
+        {
+          "left": "The bibliographical test",
+          "right": "Evaluating an ancient text's reliability by manuscript count and time gap to its earliest copy"
+        }
+      ],
+      "explanation": "Each of these terms makes precise and citable what levels 1-5 already touched in lay paraphrase -- no new doctrinal territory, just the technical apparatus wired to its actual argument.",
+      "hint": "Two of these four terms name a distinction between two things; two name a single precise concept.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-001",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Consider a Gospel passage in which the apostles are shown fleeing in fear at Jesus's arrest, arguing among themselves about who is greatest, and Peter denying Christ three times. Which historical-critical criterion for authenticity does this material most strongly support, and why?",
+      "choices": [
+        "The criterion of embarrassment -- early Christian communities would have had strong motive to omit or soften unflattering material about their own leaders, so its inclusion suggests it reflects a real, remembered event rather than later invention",
+        "The criterion of multiple attestation, since this specific detail appears independently in extra-biblical Roman sources",
+        "The criterion of dissimilarity, since no Jewish or early Christian source shares any similar language",
+        "This material fits no historical-critical criterion and provides no evidence either way"
+      ],
+      "correctAnswer": "The criterion of embarrassment -- early Christian communities would have had strong motive to omit or soften unflattering material about their own leaders, so its inclusion suggests it reflects a real, remembered event rather than later invention",
+      "explanation": "The criterion of embarrassment holds that material unflattering to the early Church's own leaders and reputation is unlikely to have been invented, since the community had every motive to omit or soften it -- its presence in the Gospels, despite being awkward for the apostles' reputation, supports its historical authenticity better than criteria like multiple attestation (independent sources) or dissimilarity (unlikeness to surrounding Jewish or early Christian material), which don't directly apply to this specific kind of unflattering detail.",
+      "hint": "Ask why an early community, if inventing material to make itself look good, would ever include this specific detail.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-002",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Applying the bibliographical test, how does the New Testament's manuscript evidence compare to Tacitus's Annals, a classical historical text whose reliability is not seriously questioned by historians?",
+      "choices": [
+        "The New Testament has vastly more surviving manuscripts and a far shorter gap to its earliest copies than Tacitus's Annals, which survives in only a handful of manuscripts with a gap of many centuries -- the same evidentiary standard applied evenhandedly favors the New Testament's reliability at least as strongly",
+        "Tacitus's Annals has more surviving manuscripts and an earlier surviving copy than the New Testament",
+        "Neither text has any surviving manuscript evidence at all",
+        "The bibliographical test cannot be applied to Tacitus since he was not a religious author"
+      ],
+      "correctAnswer": "The New Testament has vastly more surviving manuscripts and a far shorter gap to its earliest copies than Tacitus's Annals, which survives in only a handful of manuscripts with a gap of many centuries -- the same evidentiary standard applied evenhandedly favors the New Testament's reliability at least as strongly",
+      "explanation": "Tacitus's Annals, accepted by historians as a generally reliable classical source, survives in only a couple of manuscripts with a gap of many centuries to its earliest copy -- the New Testament's manuscript evidence (thousands of copies, some within decades to a century or two of composition) is dramatically stronger by the same bibliographical standard, which is exactly the comparison Catholic apologists draw to argue for treating the New Testament with at least the same historical seriousness applied to other ancient texts.",
+      "hint": "This level 6 skill, now applied to a specific, named comparison text rather than a general claim.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 19"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-003",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A Humean objection argues that uniform human experience of natural law makes any report of a miracle inherently less credible than the alternative explanation that the witness is mistaken or lying. Using the contingency/first-cause vocabulary from level 6, what is a key weakness in this objection?",
+      "choices": [
+        "The objection assumes natural law is an ultimate, self-sufficient explainer of reality, when the very contingency of the natural order (which itself needs an explanation for its existence and regularity) already points to a cause capable of acting both through and beyond that order -- 'uniform experience' can't rule out an exception by a cause not bound by the very laws it sustains",
+        "The objection has no weakness at all and is fully sound as stated",
+        "The objection only applies to Old Testament miracles, not New Testament ones",
+        "The contingency argument has nothing to do with the question of miracles"
+      ],
+      "correctAnswer": "The objection assumes natural law is an ultimate, self-sufficient explainer of reality, when the very contingency of the natural order (which itself needs an explanation for its existence and regularity) already points to a cause capable of acting both through and beyond that order -- 'uniform experience' can't rule out an exception by a cause not bound by the very laws it sustains",
+      "explanation": "The Humean objection quietly treats natural regularity as needing no further explanation, but level 6's contingency argument already shows the natural order itself depends on a cause outside it -- a cause capable of sustaining the ordinary regularities of nature is not thereby bound to those regularities in every instance, meaning uniform past experience of natural law can't simply rule out, in advance, a genuine exception worked by that same sustaining cause.",
+      "hint": "Ask what the objection is silently assuming about whether natural law needs any further explanation at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 269"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-004",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "The early Church grew rapidly even while facing sustained, often lethal persecution across the Roman Empire, with converts sometimes including former persecutors. Which motive of credibility does this circumstance most directly illustrate, and why does a tempting alternative fit less well?",
+      "choices": [
+        "The Church's stability and fruitfulness -- sustained growth and endurance despite active, violent opposition is a stronger sign than mere numerical growth in favorable conditions would be, since favorable-conditions growth alone doesn't rule out purely social or political explanations",
+        "The motive of miracles specifically, since growth under persecution always requires a directly verified miraculous event",
+        "The motive of fulfilled prophecy specifically, since persecution itself was never prophesied",
+        "This circumstance illustrates no motive of credibility at all"
+      ],
+      "correctAnswer": "The Church's stability and fruitfulness -- sustained growth and endurance despite active, violent opposition is a stronger sign than mere numerical growth in favorable conditions would be, since favorable-conditions growth alone doesn't rule out purely social or political explanations",
+      "explanation": "Growth under active persecution is a particularly strong illustration of the Church's stability and fruitfulness as a motive of credibility, precisely because ordinary social or political explanations for religious growth (favorable conditions, social pressure, political advantage) are much weaker when the visible cost of conversion was often severe -- a more targeted fit than simply invoking 'miracles' or 'prophecy' as a catch-all label for the circumstance.",
+      "hint": "The distinguishing feature of this scenario is growth despite real cost and danger, not a specific miraculous event or prophecy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-005",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Which of the following best constructs a defense of the reasonableness of Christian belief that avoids sliding into fideism?",
+      "choices": [
+        "'Christian belief rests on real motives of credibility -- historical evidence, philosophical argument, the Church's own fruits -- that show faith to be reasonable, even though faith itself remains a free assent enabled by grace, not merely a conclusion reason reaches on its own' (cf. Fides et Ratio's account of faith and reason's cooperation)",
+        "'Christian belief requires no reasons or evidence whatsoever -- it is simply believed on pure, unsupported will regardless of any rational consideration'",
+        "'Christian belief is simply whatever feels emotionally satisfying to the believer, with reason playing no role at all'",
+        "'Christian belief and reason are permanently and necessarily in conflict, with one always having to be sacrificed for the other'"
+      ],
+      "correctAnswer": "'Christian belief rests on real motives of credibility -- historical evidence, philosophical argument, the Church's own fruits -- that show faith to be reasonable, even though faith itself remains a free assent enabled by grace, not merely a conclusion reason reaches on its own' (cf. Fides et Ratio's account of faith and reason's cooperation)",
+      "explanation": "Fides et Ratio insists faith and reason are 'like two wings' working together, not in competition -- a defense avoiding fideism must actually engage real motives of credibility and rational argument, while still recognizing that the assent of faith itself is a free response enabled by grace, not a conclusion reason reaches entirely on its own the way it reaches a geometric proof.",
+      "hint": "The correct answer engages real reasons and evidence while still leaving room for faith as a free, grace-enabled assent -- rejecting both a reasonless leap and a reason-only account.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio (1998), Introduction"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-006",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each scenario to the apologetic tool or motive it illustrates.",
+      "pairs": [
+        {
+          "left": "Unflattering material about the apostles included in the Gospels",
+          "right": "The criterion of embarrassment"
+        },
+        {
+          "left": "Comparing New Testament manuscripts to Tacitus's Annals",
+          "right": "The bibliographical test, applied evenhandedly to another ancient text"
+        },
+        {
+          "left": "A Humean objection that uniform experience rules out miracles",
+          "right": "Answered using the contingency argument's point that natural law itself depends on a cause not bound by it"
+        },
+        {
+          "left": "The early Church's growth under active persecution",
+          "right": "The motive of credibility found in the Church's stability and fruitfulness"
+        }
+      ],
+      "explanation": "Each of these scenarios required matching a specific, precise tool to the case at hand, rather than reaching for a generic 'that's just faith' response -- this level's whole task is constructing the positive case, one precise argument at a time.",
+      "hint": "Each right answer names a specific named tool or motive, not a vague general appeal to evidence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
       ]
     }
   ]
