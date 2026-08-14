@@ -8,12 +8,20 @@
       "type": "multiple_choice",
       "difficultyElo": 1200,
       "prompt": "A common objection asks: 'If God is good, why does he allow suffering?' Which New Testament verse is often cited as a starting point in response, teaching that God works all things for good for those who love him?",
-      "choices": ["Romans 8:28", "Matthew 5:3", "1 Corinthians 15:3", "Revelation 21:4"],
+      "choices": [
+        "Romans 8:28",
+        "Matthew 5:3",
+        "1 Corinthians 15:3",
+        "Revelation 21:4"
+      ],
       "correctAnswer": "Romans 8:28",
       "explanation": "Romans 8:28 doesn't explain away suffering, but it grounds a Christian response: God can bring good even out of evil and suffering for those who trust him -- a starting point rather than a full answer to this ancient question.",
       "hint": "This verse promises God works all things together for good, not that suffering isn't real.",
       "citations": [
-        { "type": "scripture", "reference": "Romans 8:28" }
+        {
+          "type": "scripture",
+          "reference": "Romans 8:28"
+        }
       ]
     },
     {
@@ -33,7 +41,10 @@
       "explanation": "This objection assumes episcopal authority is a late invention. The Catechism roots it directly in apostolic practice: the apostles 'left bishops as their successors,' handing on 'their own position of teaching authority.'",
       "hint": "The Catechism traces this authority back to the apostles themselves, not a later medieval invention.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 77" }
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        }
       ]
     },
     {
@@ -47,7 +58,10 @@
       "explanation": "1 Peter 3:15 directly calls Christians to 'always be ready to give an explanation to anyone who asks... for the reason for your hope' -- the biblical foundation for the practice of answering objections.",
       "hint": "This whole topic exists because of one specific verse calling for exactly this readiness.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -67,7 +81,10 @@
       "explanation": "God's foreknowledge doesn't work like a human prediction that forces an outcome -- as eternal, he simply sees every moment of time, including our free choices, without causing them the way one event in time causes another.",
       "hint": "The key move is that God isn't 'inside' time predicting the future the way we would.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 600" }
+        {
+          "type": "ccc",
+          "reference": "CCC 600"
+        }
       ]
     },
     {
@@ -81,7 +98,10 @@
       "explanation": "The Church carefully distinguishes the honor (veneration) given to saints from the worship (adoration) owed to God alone -- asking a saint's prayers is not the same act as worship.",
       "hint": "There's a real, deliberate distinction between honoring a saint and worshiping God.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 957" }
+        {
+          "type": "ccc",
+          "reference": "CCC 957"
+        }
       ]
     },
     {
@@ -95,7 +115,10 @@
       "explanation": "This verse gives the apostles -- and, through them, their successors -- real authority to forgive or retain sins, which requires actually hearing what those sins are, grounding sacramental confession in Scripture itself.",
       "hint": "It's the opposite of 'forgiven,' matching the first half of the sentence.",
       "citations": [
-        { "type": "scripture", "reference": "John 20:23" }
+        {
+          "type": "scripture",
+          "reference": "John 20:23"
+        }
       ]
     },
     {
@@ -115,7 +138,10 @@
       "explanation": "A miracle isn't a violation of reason -- it's an act by the very author of nature's laws, who is free to act beyond the ordinary course of events he himself established, without those events being random or contrary to reason.",
       "hint": "God wrote the laws of nature -- an author isn't bound the same way a character inside the story is.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
       ]
     },
     {
@@ -129,7 +155,10 @@
       "explanation": "The Church teaches that genuine scientific inquiry, properly conducted, can never truly conflict with faith -- there is no requirement to reject well-supported scientific theories like the Big Bang.",
       "hint": "The Church's actual position is that real science and real faith can't ultimately contradict each other.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 159" }
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
       ]
     },
     {
@@ -143,7 +172,10 @@
       "explanation": "In a 1996 message to the Pontifical Academy of Sciences, John Paul II acknowledged evolution's strong scientific standing regarding the body, while firmly maintaining that the spiritual soul cannot be explained by material evolution alone.",
       "hint": "This word describes a tentative guess -- and he said evolution's evidence had moved well beyond that stage.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Message to the Pontifical Academy of Sciences, Pope St. John Paul II (1996)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Message to the Pontifical Academy of Sciences, Pope St. John Paul II (1996)"
+        }
       ]
     },
     {
@@ -163,7 +195,10 @@
       "explanation": "The Church teaches that every human soul is directly created by God -- a spiritual reality that no amount of physical or biological description, however accurate on its own terms, could fully capture or explain away.",
       "hint": "The soul, on this view, isn't a stand-in for something physics or biology could eventually explain.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 366" }
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
+        }
       ]
     },
     {
@@ -177,7 +212,10 @@
       "explanation": "Far from opposing astronomy wholesale, the Church has long sponsored serious scientific research -- a concrete expression of the conviction that faith and genuine science are not at war.",
       "hint": "The Vatican itself runs a research observatory, staffed by Jesuit scientists.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 159" }
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
       ]
     },
     {
@@ -188,16 +226,34 @@
       "difficultyElo": 1820,
       "prompt": "Match each science-related objection to a fitting Catholic response.",
       "pairs": [
-        { "left": "'Miracles are irrational'", "right": "God, as author of nature's laws, can act beyond them without violating reason" },
-        { "left": "'The Big Bang disproves Genesis'", "right": "A Catholic priest-scientist first proposed the Big Bang theory" },
-        { "left": "'Evolution disproves the soul'", "right": "The soul is a spiritual reality, directly created by God, not a physical process" },
-        { "left": "'The Church has always opposed science'", "right": "The Church has long supported research, including its own observatory" }
+        {
+          "left": "'Miracles are irrational'",
+          "right": "God, as author of nature's laws, can act beyond them without violating reason"
+        },
+        {
+          "left": "'The Big Bang disproves Genesis'",
+          "right": "A Catholic priest-scientist first proposed the Big Bang theory"
+        },
+        {
+          "left": "'Evolution disproves the soul'",
+          "right": "The soul is a spiritual reality, directly created by God, not a physical process"
+        },
+        {
+          "left": "'The Church has always opposed science'",
+          "right": "The Church has long supported research, including its own observatory"
+        }
       ],
       "explanation": "Each objection assumes a conflict between faith and science that the Church's actual teaching and history don't bear out.",
       "hint": "Notice each response corrects a specific factual assumption behind the objection.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 159" },
-        { "type": "ccc", "reference": "CCC 366" }
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
+        }
       ]
     },
     {
@@ -217,7 +273,10 @@
       "explanation": "This classic distinction separates suffering that flows from human freedom and sin from suffering that flows from the natural world's own processes -- both raise real questions, but of somewhat different kinds.",
       "hint": "One kind of evil comes from human choices; the other from the natural world itself.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 385" }
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        }
       ]
     },
     {
@@ -231,7 +290,10 @@
       "explanation": "The Church teaches that God is in no way, directly or indirectly, the cause of moral evil -- he permits it, out of respect for creaturely freedom, but he never wills or causes sin itself.",
       "hint": "God permits this kind of evil; he does not cause it.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 311" }
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        }
       ]
     },
     {
@@ -245,7 +307,10 @@
       "explanation": "On this view, evil has no independent existence of its own -- it's always a corruption or absence of some good that should be there, not a rival substance created alongside goodness.",
       "hint": "It names an absence or lack, not a positive thing in its own right.",
       "citations": [
-        { "type": "scripture", "reference": "Genesis 1:31" }
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31"
+        }
       ]
     },
     {
@@ -265,7 +330,10 @@
       "explanation": "This defense argues that love and goodness freely chosen are worth the real risk that freedom could be misused -- a world without any possibility of moral evil would also be a world without any real freedom to love.",
       "hint": "This defense argues that real freedom is worth its real risks.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 311" }
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        }
       ]
     },
     {
@@ -279,7 +347,10 @@
       "explanation": "The Church holds firmly to God's almighty power even while acknowledging the real experience of evil and suffering -- God permits evil for reasons connected to a greater good, without this implying any limit on his power.",
       "hint": "The Church's answer to evil doesn't come at the cost of denying God's power.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 272" }
+        {
+          "type": "ccc",
+          "reference": "CCC 272"
+        }
       ]
     },
     {
@@ -290,16 +361,34 @@
       "difficultyElo": 2150,
       "prompt": "Match each term related to the problem of evil to its meaning.",
       "pairs": [
-        { "left": "Moral evil", "right": "Evil caused by free human choices, like sin" },
-        { "left": "Natural evil", "right": "Suffering from natural causes, like disease or disaster" },
-        { "left": "Privation theory", "right": "Evil as a lack of a due good, not a positive substance" },
-        { "left": "Free will defense", "right": "Genuine freedom is worth the real risk of moral evil" }
+        {
+          "left": "Moral evil",
+          "right": "Evil caused by free human choices, like sin"
+        },
+        {
+          "left": "Natural evil",
+          "right": "Suffering from natural causes, like disease or disaster"
+        },
+        {
+          "left": "Privation theory",
+          "right": "Evil as a lack of a due good, not a positive substance"
+        },
+        {
+          "left": "Free will defense",
+          "right": "Genuine freedom is worth the real risk of moral evil"
+        }
       ],
       "explanation": "These four ideas together form the backbone of the classical Christian approach to the problem of evil -- distinguishing its kinds, its metaphysical status, and why God permits it.",
       "hint": "Two describe kinds of evil; two describe philosophical explanations for why evil exists at all.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 311" },
-        { "type": "ccc", "reference": "CCC 385" }
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        }
       ]
     },
     {
@@ -319,7 +408,10 @@
       "explanation": "As part of the Jubilee Year 2000, John Paul II led a public liturgy of repentance at St. Peter's Basilica, explicitly asking forgiveness for historical sins committed by members of the Church, including violence done in God's name.",
       "hint": "This was a public liturgy, not a private conversation, held during the Jubilee Year 2000.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
       ]
     },
     {
@@ -333,7 +425,10 @@
       "explanation": "The Church's own teaching on Scripture holds that it reliably teaches what is needed for our salvation, using the literary forms and worldview of its time -- not that it functions as a modern scientific astronomy textbook.",
       "hint": "The Church's actual teaching on how to read Scripture doesn't demand this kind of scientific literalism.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 159" }
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
       ]
     },
     {
@@ -347,7 +442,10 @@
       "explanation": "After more than a decade of study by a Pontifical commission, John Paul II publicly acknowledged the real mistakes made by theologians and officials in the Galileo case -- a notable example of the Church reckoning honestly with its own history.",
       "hint": "It's a word for mistakes -- the Church acknowledged real ones were made.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Address to the Pontifical Academy of Sciences, Pope St. John Paul II (1992)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Address to the Pontifical Academy of Sciences, Pope St. John Paul II (1992)"
+        }
       ]
     },
     {
@@ -367,7 +465,10 @@
       "explanation": "In Supremo Apostolatus condemned the slave trade and the enslavement of indigenous peoples and Africans -- an explicit papal statement against practices some Catholics, in contradiction of Church teaching, had participated in.",
       "hint": "The other three documents address labor conditions, evolution, and Modernism -- not slavery specifically.",
       "citations": [
-        { "type": "magisterial_document", "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)" }
+        {
+          "type": "magisterial_document",
+          "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)"
+        }
       ]
     },
     {
@@ -381,7 +482,10 @@
       "explanation": "The Catechism describes the Church as holy in her founder, sacraments, and teaching, while always including sinful members in need of ongoing purification -- a distinction between the truth she holds and the failures of individuals within her.",
       "hint": "The truth of a claim and the behavior of people who claim to believe it are two separate questions.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 827" }
+        {
+          "type": "ccc",
+          "reference": "CCC 827"
+        }
       ]
     },
     {
@@ -392,16 +496,34 @@
       "difficultyElo": 2450,
       "prompt": "Match each historical challenge to a documented Church response.",
       "pairs": [
-        { "left": "Crusades / Inquisition", "right": "JPII's public 'Day of Pardon' asking forgiveness (2000)" },
-        { "left": "Galileo affair", "right": "JPII publicly acknowledged errors by Church officials (1992)" },
-        { "left": "Slavery", "right": "Gregory XVI's In Supremo Apostolatus condemned the slave trade (1839)" },
-        { "left": "Sins of individual members", "right": "Don't by themselves disprove the truth of Church teaching" }
+        {
+          "left": "Crusades / Inquisition",
+          "right": "JPII's public 'Day of Pardon' asking forgiveness (2000)"
+        },
+        {
+          "left": "Galileo affair",
+          "right": "JPII publicly acknowledged errors by Church officials (1992)"
+        },
+        {
+          "left": "Slavery",
+          "right": "Gregory XVI's In Supremo Apostolatus condemned the slave trade (1839)"
+        },
+        {
+          "left": "Sins of individual members",
+          "right": "Don't by themselves disprove the truth of Church teaching"
+        }
       ],
       "explanation": "The Church's response to hard historical questions has generally been honest acknowledgment rather than denial -- while still distinguishing members' sins from the truth of what the Church actually teaches.",
       "hint": "Three of these are specific documented papal acts; the last is a general principle about members versus doctrine.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 827" },
-        { "type": "magisterial_document", "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)" }
+        {
+          "type": "ccc",
+          "reference": "CCC 827"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)"
+        }
       ]
     },
     {
@@ -421,7 +543,10 @@
       "explanation": "Fides et Ratio commends rigorous philosophical engagement as part of the Church's own intellectual tradition -- serious objections deserve a serious, reasoned answer, not evasion.",
       "hint": "At an advanced level, the objection deserves the same careful reasoning it was made with.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
       ]
     },
     {
@@ -435,7 +560,10 @@
       "explanation": "The natural law, according to Catholic teaching, is written on every human heart and knowable by reason -- revelation confirms and elevates it, but doesn't create it from nothing.",
       "hint": "This is about the natural law, which reason alone can access to some real degree.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1954-1955" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1954-1955"
+        }
       ]
     },
     {
@@ -449,7 +577,10 @@
       "explanation": "Demanding a laboratory-style proof for a philosophical or metaphysical question applies the wrong tool to the wrong kind of question -- philosophy has its own rigorous methods, distinct from the empirical sciences.",
       "hint": "This discipline includes metaphysics and natural theology, distinct from the empirical sciences.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
       ]
     },
     {
@@ -469,7 +600,10 @@
       "explanation": "Aquinas' famous structure -- objections, a counter-authority, his own resolution, and replies to each objection -- models taking opposing views seriously rather than caricaturing them before responding.",
       "hint": "Aquinas' articles always present the other side's best case before answering it.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Fides et Ratio, Pope St. John Paul II (1998)" }
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
       ]
     },
     {
@@ -483,7 +617,10 @@
       "explanation": "Even at the most advanced level, 1 Peter 3:15's call for 'gentleness and reverence' still applies -- the goal remains genuine dialogue and witness, not a combative scorecard of wins and losses.",
       "hint": "The same charter verse from Level 1 still governs the tone here, even in advanced dialogue.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
       ]
     },
     {
@@ -494,16 +631,326 @@
       "difficultyElo": 2720,
       "prompt": "Match each advanced dialogue principle to its source.",
       "pairs": [
-        { "left": "Address the argument's actual premises", "right": "Fides et Ratio's call for rigorous philosophical engagement" },
-        { "left": "Natural law is knowable by reason", "right": "CCC 1954-1955" },
-        { "left": "State the objection in its strongest form first", "right": "Aquinas' method in the Summa Theologiae" },
-        { "left": "Maintain gentleness even in advanced debate", "right": "1 Peter 3:15" }
+        {
+          "left": "Address the argument's actual premises",
+          "right": "Fides et Ratio's call for rigorous philosophical engagement"
+        },
+        {
+          "left": "Natural law is knowable by reason",
+          "right": "CCC 1954-1955"
+        },
+        {
+          "left": "State the objection in its strongest form first",
+          "right": "Aquinas' method in the Summa Theologiae"
+        },
+        {
+          "left": "Maintain gentleness even in advanced debate",
+          "right": "1 Peter 3:15"
+        }
       ],
       "explanation": "These four principles together describe a mature apologetics practice: rigorous, reasoned, aware of what reason alone can reach, and never abandoning charity even under pressure.",
       "hint": "Each principle traces back to a distinct source -- an encyclical, a Catechism section, a medieval method, and a Scripture verse.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1954-1955" },
-        { "type": "scripture", "reference": "1 Peter 3:15" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1954-1955"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-001",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Philosophers distinguish the 'logical' problem of evil (evil's mere existence is claimed to be logically incompatible with an all-good, all-powerful God) from the 'evidential' problem of evil (the amount and kind of evil is claimed to make God's existence improbable, even if not strictly impossible). Which does CCC 309-314 primarily engage?",
+      "choices": [
+        "The evidential concern, offering a positive account of why a good and all-powerful God permits evil, without claiming to logically disprove that evil and God's existence are compatible in the first place",
+        "The logical problem exclusively, treating the evidential problem as entirely irrelevant",
+        "Neither problem, since CCC 309-314 does not address evil at all",
+        "Only the specific case of moral evil, entirely excluding natural evil like disease or disaster"
+      ],
+      "correctAnswer": "The evidential concern, offering a positive account of why a good and all-powerful God permits evil, without claiming to logically disprove that evil and God's existence are compatible in the first place",
+      "explanation": "CCC 309-314 doesn't try to prove a strict logical contradiction is impossible (most contemporary philosophers, including many atheist philosophers, already grant the logical problem has largely been answered) -- it addresses the more pressing evidential question, offering a positive account (free will, the greater good God can draw from evil, the definitive answer awaiting the world to come) for why a good God permits the evil that actually exists.",
+      "hint": "Most philosophers today, on both sides, already treat the stricter of these two problems as answered -- CCC 309-314 engages the harder, remaining one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 309"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-002",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Faith/science objections often trade on a precise fault line between 'methodological naturalism' (science studies only natural causes, as a working method) and 'metaphysical naturalism' (nature is all that actually exists, full stop). Why does this distinction matter for a Catholic response?",
+      "choices": [
+        "The Church has no objection to methodological naturalism as a scientific method, but rejects metaphysical naturalism as a philosophical claim that goes beyond what science itself can establish",
+        "The Church rejects both methodological and metaphysical naturalism as equally opposed to genuine scientific inquiry",
+        "The Church fully embraces metaphysical naturalism as compatible with Catholic teaching",
+        "The distinction has no relevance to any actual faith/science objection"
+      ],
+      "correctAnswer": "The Church has no objection to methodological naturalism as a scientific method, but rejects metaphysical naturalism as a philosophical claim that goes beyond what science itself can establish",
+      "explanation": "CCC 159 affirms that properly conducted scientific research (using methodological naturalism -- studying natural causes by natural means) can never truly conflict with faith. What the Church rejects is metaphysical naturalism, the further philosophical claim that nature is the whole of reality -- a claim science's own method cannot establish, since that method is deliberately silent on anything beyond natural causes.",
+      "hint": "One is a working method scientists use; the other is a further philosophical claim about all of reality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-003",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: The free-will defense (associated with philosopher Alvin Plantinga) and Augustine's privation theodicy (evil as a privation or lack of good, not a positive substance) are two distinct technical answers to the problem of evil, not simply two names for the same argument.",
+      "correctAnswer": true,
+      "explanation": "The free-will defense argues that a world with genuine free creatures, capable of real moral choice, is of greater value than a world without evil but also without real freedom -- a different technical move than Augustine's privation theodicy, which addresses evil's very metaphysical status (arguing evil is not a positive 'thing' God created but a lack or corruption of a good that should be present). Both are real, distinguishable Catholic-compatible answers, not the same argument under two names.",
+      "hint": "One argument is about the value of freedom; the other is about what kind of 'thing' evil actually is metaphysically.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-004",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Following the same named, dated template as this app's Church History coverage of the Galileo affair, which two specific documents anchor a precise, non-caricatured account of the episode?",
+      "choices": [
+        "Pope John Paul II's 1992 address acknowledging errors in how the case was handled, and Cardinal Bellarmine's 1615 letter to Foscarini showing the actual theological caution being raised at the time",
+        "A single anonymous 17th-century pamphlet with no named author or date",
+        "Only Galileo's own private diary, with no magisterial or historical document involved at all",
+        "A 20th-century encyclical formally declaring heliocentrism a heresy"
+      ],
+      "correctAnswer": "Pope John Paul II's 1992 address acknowledging errors in how the case was handled, and Cardinal Bellarmine's 1615 letter to Foscarini showing the actual theological caution being raised at the time",
+      "explanation": "Precise treatment of the Galileo affair, avoiding both an apologetic whitewash and an anti-Catholic caricature, rests on named, dated primary sources: Bellarmine's 1615 letter to Foscarini shows the real theological caution actually being raised at the time (distinguishing a hypothesis from a demonstrated fact), while John Paul II's 1992 address formally acknowledged errors in how the theological advisors and judges of the era handled the case.",
+      "hint": "One document is from the time of the actual events; the other is a later papal acknowledgment of what went wrong.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Address to the Pontifical Academy of Sciences (1992)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-005",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The Kalam cosmological argument ('whatever begins to exist has a cause; the universe began to exist; therefore the universe has a cause') is distinct from the argument from contingency covered elsewhere in this app. What is the key structural difference?",
+      "choices": [
+        "The Kalam argument turns specifically on the universe having a temporal beginning, while the argument from contingency applies even to a universe that had no beginning at all, since it concerns why anything contingent exists rather than nothing",
+        "The two arguments are simply identical in every respect",
+        "The Kalam argument concerns the existence of evil, not the existence of the universe",
+        "The argument from contingency requires the universe to have had a temporal beginning, exactly like the Kalam argument"
+      ],
+      "correctAnswer": "The Kalam argument turns specifically on the universe having a temporal beginning, while the argument from contingency applies even to a universe that had no beginning at all, since it concerns why anything contingent exists rather than nothing",
+      "explanation": "The Kalam argument's force depends on establishing the universe had an actual beginning in time. The argument from contingency (rooted in Aquinas's reasoning) doesn't need this premise at all -- it asks why any contingent thing exists rather than nothing, a question that would remain live even if the universe had always existed with no beginning, since an eternal series of contingent things would still need an explanation for its existence outside itself.",
+      "hint": "One argument needs a temporal beginning to work; the other doesn't depend on that premise at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 33"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-006",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each term or named source from this level to its precise meaning or function.",
+      "pairs": [
+        {
+          "left": "Logical vs. evidential problem of evil",
+          "right": "Two distinct philosophical categories; CCC 309-314 primarily engages the evidential concern"
+        },
+        {
+          "left": "Methodological vs. metaphysical naturalism",
+          "right": "A scientific working method the Church accepts, versus a further philosophical claim it rejects"
+        },
+        {
+          "left": "The free-will defense and Augustine's privation theodicy",
+          "right": "Two distinct technical answers to the problem of evil, not the same argument twice"
+        },
+        {
+          "left": "Bellarmine's 1615 letter and JPII's 1992 address",
+          "right": "The named, dated primary sources anchoring a precise account of the Galileo affair"
+        }
+      ],
+      "explanation": "Each of these replaces a lay paraphrase already used at levels 1-5 with the actual named argument or precise, dated source a well-formed answer requires -- no new doctrinal ground, only precision.",
+      "hint": "Each right answer names a real distinction or a real, findable source, not a vague restatement of the objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-001",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector points to animal suffering (e.g., predation, natural disasters affecting wildlife) that occurs entirely apart from any human moral choice, arguing this shows the free-will defense alone cannot fully answer the problem of evil. Is this a fair challenge to the free-will defense specifically?",
+      "choices": [
+        "Yes -- the free-will defense specifically addresses moral evil arising from human choices, so cases of suffering with no human moral agent involved require additional theological resources (e.g., a fallen natural order, the mystery of a world not yet in its final state) rather than the free-will defense alone",
+        "No -- the free-will defense fully explains all forms of suffering including natural evil unrelated to any human choice",
+        "This challenge has no bearing on any theodicy whatsoever",
+        "The free-will defense denies that animals can suffer at all"
+      ],
+      "correctAnswer": "Yes -- the free-will defense specifically addresses moral evil arising from human choices, so cases of suffering with no human moral agent involved require additional theological resources (e.g., a fallen natural order, the mystery of a world not yet in its final state) rather than the free-will defense alone",
+      "explanation": "This is a fair and important limitation to name honestly: the free-will defense is built to explain moral evil traceable to free human choices, and doesn't by itself explain suffering with no human moral agent involved at all. A fuller Catholic response draws on additional resources -- teaching on a fallen created order, and the world's not-yet-completed state awaiting its fullness in Christ -- rather than stretching the free-will defense to cover territory it isn't built for.",
+      "hint": "A precise answer names exactly what the free-will defense is built to explain, and honestly identifies what it isn't.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 400"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-002",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Someone shares, 'I grew up being taught that any sexual sin made me worthless and unlovable, and that teaching devastated me.' Drawing on theodicy and grace vocabulary rather than a generic platitude, what is a genuinely responsive answer?",
+      "choices": [
+        "Acknowledging that this experience reflects a real distortion -- Catholic teaching holds that sin never destroys a person's fundamental dignity or God's love, and that grace, not shame, is the actual context the Church's teaching on sexuality is meant to be received within",
+        "Insisting the person's feelings are entirely their own fault with no room to name any real pastoral failure",
+        "Denying that Church teaching on sexuality has ever been misrepresented or taught poorly by anyone",
+        "Responding only with 'everything happens for a reason' without engaging the actual claim being made"
+      ],
+      "correctAnswer": "Acknowledging that this experience reflects a real distortion -- Catholic teaching holds that sin never destroys a person's fundamental dignity or God's love, and that grace, not shame, is the actual context the Church's teaching on sexuality is meant to be received within",
+      "explanation": "A genuinely responsive answer takes the actual claim seriously rather than deflecting with a platitude: it names that treating sin as erasing a person's worth is a real distortion of Catholic teaching, which holds that human dignity is never lost through sin and that grace -- not shame -- is meant to be the actual lived context for teaching on sexuality, engaging the specific pastoral wound named rather than a generic reassurance.",
+      "hint": "The strongest answer names the specific distortion in what was taught, not just a general comforting sentiment.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1700"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-003",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A claim states: 'Neuroscience has shown free will is an illusion, since every choice can be traced to prior brain states.' Applying the methodological/metaphysical naturalism distinction, what is the accurate response?",
+      "choices": [
+        "Neuroscience's finding that choices correlate with and depend on brain activity (a methodologically naturalistic finding) doesn't by itself establish the further metaphysical claim that nothing beyond physical causation is real or that genuine freedom is impossible -- that further claim goes beyond what the neuroscience itself demonstrates",
+        "The Church denies that brain activity has any connection to human choices at all",
+        "This claim has been fully proven with no remaining philosophical question at all",
+        "Metaphysical naturalism has been formally adopted as Catholic teaching in light of this neuroscience"
+      ],
+      "correctAnswer": "Neuroscience's finding that choices correlate with and depend on brain activity (a methodologically naturalistic finding) doesn't by itself establish the further metaphysical claim that nothing beyond physical causation is real or that genuine freedom is impossible -- that further claim goes beyond what the neuroscience itself demonstrates",
+      "explanation": "This is level 6's naturalism distinction applied to a new case: the actual neuroscience (choices correlating with brain states) is a methodologically naturalistic finding, real and worth taking seriously -- but concluding from it that free will is therefore an 'illusion' smuggles in the further metaphysical claim that physical causation is the whole of reality, a philosophical leap the neuroscience's own methods can't establish on their own.",
+      "hint": "Look back to level 6's distinction -- ask which of the two kinds of naturalism this claim is actually smuggling in.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-004",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A meme-level objection dismisses belief in God as believing in an 'invisible sky daddy.' What actual claim does this phrase distort, and what would an accurate correction look like?",
+      "choices": [
+        "It distorts God's nature into an anthropomorphic being located in a physical place (the sky), when classical theism holds God is not a physical being located anywhere in space at all, but the transcendent, non-physical source of all being",
+        "The phrase is an entirely accurate summary of what classical theism actually teaches about God",
+        "The phrase correctly identifies that Catholics literally believe God has a physical body residing above the clouds",
+        "This objection cannot be meaningfully addressed at all"
+      ],
+      "correctAnswer": "It distorts God's nature into an anthropomorphic being located in a physical place (the sky), when classical theism holds God is not a physical being located anywhere in space at all, but the transcendent, non-physical source of all being",
+      "explanation": "'Sky daddy' pictures God as a physical being occupying a location in the sky, essentially a very powerful person up there somewhere -- but classical theism (which this app's Metaphysics and Dogmas topics both cover) holds God is not a physical being located in space at all, but the transcendent, non-physical source and sustaining cause of all being. Correcting the strawman means naming precisely which real claim is being distorted, not just objecting to the tone.",
+      "hint": "The correction should name exactly what real doctrine the phrase gets wrong, not just object that the phrase sounds dismissive.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 42"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-005",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An unfamiliar claim states that 'the Crusades were a purely unprovoked war of aggression against a peaceful Muslim world, with no prior context at all.' What does the documented historical record actually show that complicates this specific claim?",
+      "choices": [
+        "The First Crusade (1095) was launched partly in response to centuries of prior territorial conquest and a direct appeal from the Byzantine Emperor for military help against Turkish advances -- a real, documented prior context the 'purely unprovoked' framing omits, without this context alone justifying every action taken during the Crusades themselves",
+        "The documented record shows the Crusades had no historical context whatsoever, confirming the claim exactly as stated",
+        "The documented record shows the Crusades never actually took place",
+        "The documented record shows the Crusades began centuries before the birth of Islam"
+      ],
+      "correctAnswer": "The First Crusade (1095) was launched partly in response to centuries of prior territorial conquest and a direct appeal from the Byzantine Emperor for military help against Turkish advances -- a real, documented prior context the 'purely unprovoked' framing omits, without this context alone justifying every action taken during the Crusades themselves",
+      "explanation": "The documented record complicates the 'purely unprovoked' framing by showing real prior context -- centuries of territorial conquest and a direct appeal for military aid from Byzantium -- without that context serving as a blanket justification for every specific action taken during the Crusades, some of which (such as the sack of Constantinople in 1204) the Church has itself acknowledged and apologized for. Precise historical engagement means neither a flattened accusation nor an uncritical defense.",
+      "hint": "The accurate correction adds real documented context without using that context to excuse everything that happened.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2317"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-006",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each objection or scenario to its precisely targeted response.",
+      "pairs": [
+        {
+          "left": "Animal suffering with no human moral agent involved",
+          "right": "Requires resources beyond the free-will defense alone -- a fallen natural order, the world's not-yet-completed state"
+        },
+        {
+          "left": "'Purity culture made me feel worthless'",
+          "right": "Names the real distortion: sin never destroys a person's dignity or God's love; grace, not shame, is the true context"
+        },
+        {
+          "left": "'Neuroscience proves free will is an illusion'",
+          "right": "Confuses a methodologically naturalistic finding with an unproven metaphysical claim"
+        },
+        {
+          "left": "'Sky daddy'",
+          "right": "Distorts God into a physical being in the sky, when classical theism holds God is transcendent and non-physical"
+        }
+      ],
+      "explanation": "None of these four scenarios states its underlying philosophical confusion directly -- this level's whole task is naming the precise confusion beneath a live, unlabeled objection, using the same vocabulary fixed at level 6.",
+      "hint": "Each right answer names a specific confusion or gap, not a generic reassurance.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
       ]
     }
   ]
