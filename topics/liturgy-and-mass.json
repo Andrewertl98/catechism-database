@@ -8,13 +8,24 @@
       "type": "multiple_choice",
       "difficultyElo": 1100,
       "prompt": "The Catechism, quoting the Second Vatican Council, calls the Eucharist the 'source and ___' of the Christian life.",
-      "choices": ["Summit", "Beginning", "Center", "Foundation"],
+      "choices": [
+        "Summit",
+        "Beginning",
+        "Center",
+        "Foundation"
+      ],
       "correctAnswer": "Summit",
       "explanation": "CCC 1324 quotes Lumen Gentium: the Eucharist is 'the source and summit of the Christian life' -- the wellspring from which grace flows and the high point toward which the Christian life is oriented.",
       "hint": "It's the same word you'd use for the top of a mountain.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1324" },
-        { "type": "magisterial_document", "reference": "Vatican II, Lumen Gentium 11" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1324"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Lumen Gentium 11"
+        }
       ]
     },
     {
@@ -34,8 +45,14 @@
       "explanation": "CCC 1367, echoing the Council of Trent, teaches 'the victim is one and the same' -- Christ, offered in a bloody manner on the cross and in an unbloody manner in the Mass.",
       "hint": "The Mass doesn't repeat Calvary -- it makes that one sacrifice present again.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1367" },
-        { "type": "council", "reference": "Council of Trent" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1367"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent"
+        }
       ]
     },
     {
@@ -49,7 +66,10 @@
       "explanation": "Vatican II's Sacrosanctum Concilium actually states that 'the use of the Latin language is to be preserved in the Latin rites,' even while permitting wider use of the vernacular where helpful.",
       "hint": "The council preserved Latin even while opening the door to more vernacular use.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 36" }
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 36"
+        }
       ]
     },
     {
@@ -69,7 +89,10 @@
       "explanation": "The Mass forms 'one single act of worship' out of two parts: first Scripture is proclaimed and explained, then the Eucharist itself is celebrated, consecrated, and received.",
       "hint": "One part centers on Scripture, the other on the Eucharist itself.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1346" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1346"
+        }
       ]
     },
     {
@@ -83,7 +106,10 @@
       "explanation": "Beyond Sundays, the Church also designates certain Holy Days of Obligation throughout the year -- such as Christmas -- when Catholics are likewise obligated to attend Mass.",
       "hint": "There's a whole other category of obligatory Mass days beyond just Sundays.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 2042" }
+        {
+          "type": "ccc",
+          "reference": "CCC 2042"
+        }
       ]
     },
     {
@@ -97,7 +123,10 @@
       "explanation": "The Mass takes its very name from its closing words -- a dismissal that sends the congregation out to live and share what they've just received, not merely to go home.",
       "hint": "This word is also where English gets 'mission' and 'missionary.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1332" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1332"
+        }
       ]
     },
     {
@@ -117,7 +146,10 @@
       "explanation": "Sunday Mass draws readings from across salvation history -- Old Testament, New Testament letter, and Gospel -- woven together with a Responsorial Psalm as the congregation's sung response.",
       "hint": "Weekdays typically have two readings; Sundays add one more.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1349" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        }
       ]
     },
     {
@@ -131,7 +163,10 @@
       "explanation": "Vatican II's Sacrosanctum Concilium teaches that Christ 'is present in his word, since it is he himself who speaks when the holy scriptures are read in the Church' -- the Gospel receives special honor accordingly.",
       "hint": "Standing, among the different postures at Mass, marks the readings given the highest honor.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 7" }
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 7"
+        }
       ]
     },
     {
@@ -145,7 +180,10 @@
       "explanation": "The homily isn't an optional add-on speech -- the council explicitly treats it as part of the liturgical action, meant to connect the proclaimed word to the community's actual daily living.",
       "hint": "It's about applying Scripture to how people actually live day to day.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 52" }
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 52"
+        }
       ]
     },
     {
@@ -165,7 +203,10 @@
       "explanation": "Having just heard God's word proclaimed and explained, the assembly responds by professing together the faith that word calls them to -- a hinge between the two halves of the Mass.",
       "hint": "It comes right after the homily, as the assembly's shared response to what was just proclaimed.",
       "citations": [
-        { "type": "magisterial_document", "reference": "General Instruction of the Roman Missal 67-68" }
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 67-68"
+        }
       ]
     },
     {
@@ -179,7 +220,10 @@
       "explanation": "Vatican II restored this 'common prayer' after the Gospel and homily specifically so the people, often through a deacon or lay reader, could exercise their own priestly office by interceding for the Church and the world.",
       "hint": "This prayer is meant to actively involve the assembly, not just the priest.",
       "citations": [
-        { "type": "magisterial_document", "reference": "Vatican II, Sacrosanctum Concilium 53" }
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 53"
+        }
       ]
     },
     {
@@ -190,15 +234,30 @@
       "difficultyElo": 1820,
       "prompt": "Match each part of the Liturgy of the Word to its place or purpose.",
       "pairs": [
-        { "left": "First Reading", "right": "Usually taken from the Old Testament" },
-        { "left": "Responsorial Psalm", "right": "The congregation's sung response to the first reading" },
-        { "left": "Gospel", "right": "The high point, proclaimed with the assembly standing" },
-        { "left": "Homily", "right": "Explains and applies the readings to the community's life" }
+        {
+          "left": "First Reading",
+          "right": "Usually taken from the Old Testament"
+        },
+        {
+          "left": "Responsorial Psalm",
+          "right": "The congregation's sung response to the first reading"
+        },
+        {
+          "left": "Gospel",
+          "right": "The high point, proclaimed with the assembly standing"
+        },
+        {
+          "left": "Homily",
+          "right": "Explains and applies the readings to the community's life"
+        }
       ],
       "explanation": "Each element builds toward the next -- reading, response, the Gospel's high point, and then the homily drawing it all together for the assembly gathered that day.",
       "hint": "Notice the progression: read, respond, reach the high point, then explain.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1349" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        }
       ]
     },
     {
@@ -218,7 +277,10 @@
       "explanation": "After the bread and wine are consecrated in the Eucharistic Prayer, the Communion Rite -- the Our Father, the sign of peace, and the reception of Communion itself -- brings the Liturgy of the Eucharist to its completion.",
       "hint": "This is the part where the assembly actually receives what was just consecrated.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1352" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
       ]
     },
     {
@@ -232,7 +294,10 @@
       "explanation": "The Council of Trent's teaching, affirmed by the Catechism, is that this change of substance -- while the appearances of bread and wine remain -- is called transubstantiation.",
       "hint": "What changes is the deepest reality of the bread and wine, not their outward appearance.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1376" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
       ]
     },
     {
@@ -246,7 +311,10 @@
       "explanation": "This precise term, formally used at the Council of Trent, distinguishes the Church's teaching from a merely symbolic or partial understanding of Christ's presence in the Eucharist.",
       "hint": "It's a long theological word built from the Latin for 'substance.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1376" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
       ]
     },
     {
@@ -256,12 +324,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2050,
       "prompt": "Just before receiving Communion, the priest and the assembly exchange a sign of:",
-      "choices": ["Peace", "Repentance", "Farewell", "Silence"],
+      "choices": [
+        "Peace",
+        "Repentance",
+        "Farewell",
+        "Silence"
+      ],
       "correctAnswer": "Peace",
       "explanation": "The Sign of Peace, offered right before Communion, expresses reconciliation and unity among the assembly as they prepare to receive the one Body of Christ together.",
       "hint": "It's a gesture -- often a handshake -- expressing reconciliation, right before Communion.",
       "citations": [
-        { "type": "magisterial_document", "reference": "General Instruction of the Roman Missal 82" }
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 82"
+        }
       ]
     },
     {
@@ -275,7 +351,10 @@
       "explanation": "The Catechism teaches that anyone conscious of grave sin must first receive sacramental absolution before receiving Communion, except in a genuine emergency with no opportunity for confession -- 'intending to confess later' isn't sufficient.",
       "hint": "Confession is meant to come before Communion in this case, not simply intended for later.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1385" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1385"
+        }
       ]
     },
     {
@@ -286,15 +365,30 @@
       "difficultyElo": 2150,
       "prompt": "Match each term in the Liturgy of the Eucharist to its meaning.",
       "pairs": [
-        { "left": "Offertory", "right": "Bread and wine are brought forward and prepared" },
-        { "left": "Eucharistic Prayer", "right": "Contains the words of consecration" },
-        { "left": "Communion Rite", "right": "Includes the Our Father, sign of peace, and reception" },
-        { "left": "Transubstantiation", "right": "The change of bread and wine's whole substance into Christ" }
+        {
+          "left": "Offertory",
+          "right": "Bread and wine are brought forward and prepared"
+        },
+        {
+          "left": "Eucharistic Prayer",
+          "right": "Contains the words of consecration"
+        },
+        {
+          "left": "Communion Rite",
+          "right": "Includes the Our Father, sign of peace, and reception"
+        },
+        {
+          "left": "Transubstantiation",
+          "right": "The change of bread and wine's whole substance into Christ"
+        }
       ],
       "explanation": "Together these four elements move the assembly from ordinary bread and wine, through consecration, to actually receiving Christ himself in Communion.",
       "hint": "Follow the sequence: prepare, consecrate, then receive -- with one term naming what happens at consecration.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1376" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
       ]
     },
     {
@@ -304,12 +398,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2380,
       "prompt": "The liturgical year does not begin on January 1, but with the season of:",
-      "choices": ["Advent", "Lent", "Ordinary Time", "Christmas"],
+      "choices": [
+        "Advent",
+        "Lent",
+        "Ordinary Time",
+        "Christmas"
+      ],
       "correctAnswer": "Advent",
       "explanation": "The Church's own calendar starts with Advent, the season of preparation for Christ's coming -- both his birth at Christmas and his final coming at the end of time.",
       "hint": "This is the season of preparation that comes right before Christmas.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1168" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1168"
+        }
       ]
     },
     {
@@ -323,7 +425,10 @@
       "explanation": "Every other feast in the calendar draws its meaning from Easter -- the celebration of Christ's Resurrection is the foundation the whole liturgical year is built around.",
       "hint": "This is the feast every other feast in the calendar ultimately points back to.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1169" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1169"
+        }
       ]
     },
     {
@@ -337,7 +442,10 @@
       "explanation": "Lent's 40 days recall the 40 days Christ spent fasting in the desert, and the season prepares catechumens for Baptism and all the faithful for a renewed celebration of Easter.",
       "hint": "This penitential season begins on Ash Wednesday.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1438" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1438"
+        }
       ]
     },
     {
@@ -347,12 +455,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2420,
       "prompt": "The 50-day season of joyful celebration following Easter Sunday, culminating in Pentecost, is called:",
-      "choices": ["Eastertide (the Easter season)", "Advent", "Ordinary Time", "Holy Week"],
+      "choices": [
+        "Eastertide (the Easter season)",
+        "Advent",
+        "Ordinary Time",
+        "Holy Week"
+      ],
       "correctAnswer": "Eastertide (the Easter season)",
       "explanation": "The Church celebrates the Resurrection not for just one day but across fifty days of continuous rejoicing, ending with the descent of the Holy Spirit at Pentecost.",
       "hint": "This season stretches all the way from Easter Sunday to Pentecost.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1169" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1169"
+        }
       ]
     },
     {
@@ -366,7 +482,10 @@
       "explanation": "'Ordinary' here comes from 'ordinal' (numbered weeks), not from 'unimportant' -- Ordinary Time is a season of steady growth in discipleship, tracing the whole of Christ's public ministry.",
       "hint": "The name comes from counted, numbered weeks, not from the everyday sense of 'ordinary.'",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1163" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1163"
+        }
       ]
     },
     {
@@ -377,15 +496,30 @@
       "difficultyElo": 2450,
       "prompt": "Match each liturgical season to its meaning.",
       "pairs": [
-        { "left": "Advent", "right": "Preparing for Christ's coming, at Christmas and at the end of time" },
-        { "left": "Lent", "right": "40 days of penance preparing for Easter" },
-        { "left": "Eastertide", "right": "50 days of joyful celebration, ending at Pentecost" },
-        { "left": "Ordinary Time", "right": "Numbered weeks tracing Christ's public ministry" }
+        {
+          "left": "Advent",
+          "right": "Preparing for Christ's coming, at Christmas and at the end of time"
+        },
+        {
+          "left": "Lent",
+          "right": "40 days of penance preparing for Easter"
+        },
+        {
+          "left": "Eastertide",
+          "right": "50 days of joyful celebration, ending at Pentecost"
+        },
+        {
+          "left": "Ordinary Time",
+          "right": "Numbered weeks tracing Christ's public ministry"
+        }
       ],
       "explanation": "Together these seasons walk the whole Church, year after year, through the entire mystery of Christ -- his coming, his ministry, his death, and his Resurrection.",
       "hint": "Two seasons are penitential preparation, two are ongoing celebration or steady growth.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1168" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1168"
+        }
       ]
     },
     {
@@ -395,12 +529,20 @@
       "type": "multiple_choice",
       "difficultyElo": 2620,
       "prompt": "How many sacraments does the Catholic Church recognize?",
-      "choices": ["Seven", "Five", "Three", "Nine"],
+      "choices": [
+        "Seven",
+        "Five",
+        "Three",
+        "Nine"
+      ],
       "correctAnswer": "Seven",
       "explanation": "The Catechism teaches that 'the whole liturgical life of the Church revolves around the Eucharistic sacrifice and the sacraments' -- seven in all, instituted by Christ and entrusted to the Church.",
       "hint": "It's the same number as the deadly vices and the gifts of the Holy Spirit.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1113" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1113"
+        }
       ]
     },
     {
@@ -414,7 +556,10 @@
       "explanation": "These three sacraments lay the foundations of every Christian life -- Baptism gives new birth, Confirmation strengthens with the Spirit, and the Eucharist nourishes the disciple with Christ himself.",
       "hint": "These are the three sacraments that bring a person fully into the Church's life.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1212" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1212"
+        }
       ]
     },
     {
@@ -428,7 +573,10 @@
       "explanation": "This sacramental character marks the soul permanently, configuring the recipient to Christ in a lasting way -- which is why these three sacraments are received only once in a lifetime.",
       "hint": "It's a permanent spiritual 'mark,' not something physically visible.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1121" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
       ]
     },
     {
@@ -448,7 +596,10 @@
       "explanation": "These two sacraments address the wounds sin and illness leave in a Christian's life -- Penance heals the soul of sin, and Anointing of the Sick brings grace and comfort in illness.",
       "hint": "One heals the soul of sin; this other one heals the body and soul in sickness.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1421" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1421"
+        }
       ]
     },
     {
@@ -462,7 +613,10 @@
       "explanation": "These two sacraments are directed toward the good of others -- Matrimony builds up the family and Holy Orders serves the Church's mission -- rather than being primarily for the recipient's own sanctification alone.",
       "hint": "Both of these sacraments exist primarily to serve and build up others, not just the person receiving them.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1534" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1534"
+        }
       ]
     },
     {
@@ -473,14 +627,761 @@
       "difficultyElo": 2720,
       "prompt": "Match each family of sacraments to its members.",
       "pairs": [
-        { "left": "Sacraments of Initiation", "right": "Baptism, Confirmation, Eucharist" },
-        { "left": "Sacraments of Healing", "right": "Penance, Anointing of the Sick" },
-        { "left": "Sacraments at the Service of Communion", "right": "Holy Orders, Matrimony" }
+        {
+          "left": "Sacraments of Initiation",
+          "right": "Baptism, Confirmation, Eucharist"
+        },
+        {
+          "left": "Sacraments of Healing",
+          "right": "Penance, Anointing of the Sick"
+        },
+        {
+          "left": "Sacraments at the Service of Communion",
+          "right": "Holy Orders, Matrimony"
+        }
       ],
       "explanation": "The Catechism groups all seven sacraments into these three families, organized by the stage and dimension of Christian life each one serves.",
       "hint": "Three families: how you begin the Christian life, how you're healed, and how you serve others' good.",
       "citations": [
-        { "type": "ccc", "reference": "CCC 1210" }
+        {
+          "type": "ccc",
+          "reference": "CCC 1210"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-001",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "In Eucharistic Prayer II, the priest prays 'Make holy these gifts, we pray, by sending down your Spirit upon them like the dewfall.' This moment is called the epiclesis. Per CCC 1353, why is it theologically necessary?",
+      "choices": [
+        "It invokes the Holy Spirit's power to change the bread and wine and to unite the communicants, since the Spirit's action, not human words alone, effects the consecration",
+        "It is a purely decorative prayer with no doctrinal significance",
+        "It replaces the need for the Words of Institution",
+        "It is unique to Eucharistic Prayer II and has no equivalent in the other prayers"
+      ],
+      "correctAnswer": "It invokes the Holy Spirit's power to change the bread and wine and to unite the communicants, since the Spirit's action, not human words alone, effects the consecration",
+      "explanation": "CCC 1353 describes the epiclesis as the Church's petition asking the Father to send the Holy Spirit so that the offerings may become the Body and Blood of Christ, and so that the communicants may be made one body and one spirit -- the whole Eucharistic Prayer is Trinitarian, not a human action alone.",
+      "hint": "This prayer calls specifically on the Third Person of the Trinity, not a general blessing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1353"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-002",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The Roman Canon's 'Unde et memores' ('Therefore, O Lord, as we celebrate the memorial...') is the Mass's anamnesis. How does anamnesis differ from the epiclesis that comes before it in the same prayer?",
+      "choices": [
+        "Anamnesis is the Church's act of remembering and making present Christ's Paschal Mystery; epiclesis is the invocation calling down the Holy Spirit",
+        "Anamnesis and epiclesis are two names for the exact same prayer",
+        "Anamnesis only occurs in the Eastern liturgies, never in the Roman Rite",
+        "Epiclesis is the priest's personal reflection, while anamnesis is the congregation's spoken response"
+      ],
+      "correctAnswer": "Anamnesis is the Church's act of remembering and making present Christ's Paschal Mystery; epiclesis is the invocation calling down the Holy Spirit",
+      "explanation": "The epiclesis calls on the Holy Spirit to consecrate the gifts; the anamnesis that follows is the Church's remembrance -- not a mere mental recollection, but a liturgical act that makes Christ's saving death and resurrection present -- of the Paschal Mystery being celebrated.",
+      "hint": "One prayer calls on a divine Person; the other recalls a saving event.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1103"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-003",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: The General Instruction of the Roman Missal's (GIRM) rubrics on posture (standing, kneeling, sitting) and vesture exist purely as arbitrary custom, with no rationale connected to what is happening liturgically at each moment.",
+      "correctAnswer": false,
+      "explanation": "GIRM rubrics encode theological meaning: standing during the Gospel honors Christ's own words, kneeling during the Eucharistic Prayer expresses adoration, and specific vestments (like the priest's chasuble) signify the minister's sacred role rather than his private identity. These norms are deliberate, not arbitrary.",
+      "hint": "Ask what each posture or vestment expresses about the specific moment it belongs to.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 42-43"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-004",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1827,
+      "prompt": "Canon 849 of the Code of Canon Law establishes that Baptism is validly conferred using water, with the correct form of words invoking the Father, Son, and Holy Spirit -- water is the sacrament's ____, and the Trinitarian formula is its form.",
+      "correctAnswer": "matter",
+      "explanation": "Every sacrament requires valid matter (the physical element or action) and form (the words that specify its meaning) -- for Baptism, canon 849 specifies water as the matter and the Trinitarian invocation as the form, both required together for validity.",
+      "hint": "This is the physical element used, as distinguished from the words spoken over it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, canon 849"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-005",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Which canonical hour of the Divine Office traditionally includes the Magnificat (Mary's canticle from Luke 1:46-55) as its Gospel canticle?",
+      "choices": [
+        "Vespers (Evening Prayer)",
+        "Lauds (Morning Prayer)",
+        "Compline (Night Prayer)",
+        "The Office of Readings"
+      ],
+      "correctAnswer": "Vespers (Evening Prayer)",
+      "explanation": "Vespers, the Church's evening prayer, traditionally includes the Magnificat as its Gospel canticle, just as Lauds includes the Benedictus (Zechariah's canticle, Luke 1:68-79) -- each hour's canticle is chosen to fit its place in the daily rhythm of prayer.",
+      "hint": "This is the evening counterpart to Lauds's morning canticle, the Benedictus.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-55"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-006",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each liturgical term to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Epiclesis",
+          "right": "The invocation calling down the Holy Spirit upon the gifts"
+        },
+        {
+          "left": "Anamnesis",
+          "right": "The Church's act of remembering and making present the Paschal Mystery"
+        },
+        {
+          "left": "Proper time (per SC 102-105)",
+          "right": "The seasons built around specific mysteries of Christ, e.g. Advent, Lent, Easter"
+        },
+        {
+          "left": "Ordinary time",
+          "right": "The remaining weeks of the year, celebrating the mystery of Christ in its fullness rather than one specific aspect"
+        }
+      ],
+      "explanation": "Sacrosanctum Concilium 102-105 distinguishes proper time, which unfolds specific mysteries across the liturgical year, from Ordinary Time, which celebrates the whole mystery of Christ without emphasizing one particular aspect -- both are integral to the calendar, not a 'default' versus a 'special' season.",
+      "hint": "One column of terms belongs to the Eucharistic Prayer specifically; the other belongs to the calendar.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 102-105"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-001",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Many assume the GIRM mandates that Mass be celebrated facing the people (versus populum). What does GIRM article 299 actually say?",
+      "choices": [
+        "It expresses a preference for the altar to allow versus populum celebration where possible, without prohibiting ad orientem celebration",
+        "It strictly forbids ad orientem celebration everywhere in the Roman Rite",
+        "It requires versus populum only during the Easter season",
+        "It leaves the orientation question entirely unaddressed"
+      ],
+      "correctAnswer": "It expresses a preference for the altar to allow versus populum celebration where possible, without prohibiting ad orientem celebration",
+      "explanation": "GIRM 299 states it is desirable, where possible, for the altar to be positioned to allow Mass to be celebrated facing the people -- a preference, not an absolute mandate, and it does not prohibit ad orientem celebration, which remains a legitimate option in the Roman Rite.",
+      "hint": "The actual wording uses language of preference ('desirable, where possible'), not prohibition.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-002",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Sacrosanctum Concilium 14 calls for the faithful's 'full, conscious, and active participation' in the liturgy. A common misconception treats this as requiring constant external activity (talking, moving, performing roles). What does the Council actually mean?",
+      "choices": [
+        "Interior engagement and understanding of the rite, which may include external actions but is not defined by how busy a person appears",
+        "Every layperson must have a specific liturgical role or task at every Mass",
+        "Participation is measured by the volume of the congregation's singing alone",
+        "Silence during Mass is contrary to full, conscious, active participation"
+      ],
+      "correctAnswer": "Interior engagement and understanding of the rite, which may include external actions but is not defined by how busy a person appears",
+      "explanation": "SC 14's 'actuosa participatio' centers on the faithful understanding and interiorly uniting themselves to the mystery being celebrated -- external actions (responses, singing, gestures) can express this, but silence and interior attention are also genuine forms of the same participation, not its absence.",
+      "hint": "The Council is concerned with real engagement of mind and heart, not a minimum quota of visible activity.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 14"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-003",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: A parish may licitly use entirely gluten-free bread for a celiac communicant's Eucharistic host, since the matter only needs to resemble bread.",
+      "correctAnswer": false,
+      "explanation": "Valid matter for the Eucharist requires wheat bread; entirely gluten-free hosts (with no gluten at all) do not meet the Church's standard for valid matter and cannot be used. What is licitly permitted is low-gluten hosts, which contain a small amount of gluten sufficient for validity while being safe for most celiac communicants -- a real accommodation, but a different thing from gluten-free.",
+      "hint": "The Church distinguishes 'low-gluten' (still valid) from 'gluten-free' (not valid matter) -- these are not the same accommodation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1412"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-004",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Someone who was validly confirmed as a teenager, but who felt disconnected from the faith at the time, asks a priest to be 're-confirmed' now that they've had a genuine adult conversion. What should the priest explain?",
+      "choices": [
+        "Confirmation imprints an indelible sacramental character and cannot be repeated, though the person's ongoing spiritual growth doesn't require redoing a valid sacrament",
+        "Confirmation can be repeated as many times as a person's faith deepens",
+        "The original Confirmation must have been invalid if the person felt disconnected at the time",
+        "Only Baptism, not Confirmation, leaves a permanent character"
+      ],
+      "correctAnswer": "Confirmation imprints an indelible sacramental character and cannot be repeated, though the person's ongoing spiritual growth doesn't require redoing a valid sacrament",
+      "explanation": "Baptism, Confirmation, and Holy Orders each imprint an indelible spiritual character that cannot be erased or repeated, regardless of the recipient's later feelings about their disposition at the time -- a real conversion of heart deepens what was already validly received rather than requiring the sacrament again.",
+      "hint": "This is the same category of unrepeatable sacraments -- three of the seven leave a permanent mark.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-005",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector says, 'The Mass is just a symbolic reenactment of the Last Supper, not an actual sacrifice.' What is the Church's actual claim in response?",
+      "choices": [
+        "The Mass makes present, in an unbloody manner, the same one sacrifice of Calvary, not a new sacrifice or a mere dramatic reenactment",
+        "The Church agrees the Mass is purely symbolic and has never taught otherwise",
+        "The Mass is a new and separate sacrifice each time it is offered, distinct from Calvary",
+        "The word 'sacrifice' is used only in a loose, non-literal sense for the Mass"
+      ],
+      "correctAnswer": "The Mass makes present, in an unbloody manner, the same one sacrifice of Calvary, not a new sacrifice or a mere dramatic reenactment",
+      "explanation": "The Church teaches the Eucharistic sacrifice is not a repetition or new sacrifice, nor a mere symbolic reenactment, but the one sacrifice of Christ on Calvary made truly present under the sacramental signs, in an unbloody manner -- a real, not merely commemorative, participation in that single saving event.",
+      "hint": "The key word the Church insists on is 're-presentation' -- making present again -- not repetition or symbol.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-006",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each scenario or objection to the correct resolution.",
+      "pairs": [
+        {
+          "left": "'The GIRM requires Mass to face the people'",
+          "right": "GIRM 299 expresses a preference, not a mandate; ad orientem remains legitimate"
+        },
+        {
+          "left": "'Full participation means constant external activity'",
+          "right": "SC 14 means real interior engagement, not a quota of visible busyness"
+        },
+        {
+          "left": "A celiac communicant's host",
+          "right": "Low-gluten hosts are valid matter; entirely gluten-free hosts are not"
+        },
+        {
+          "left": "'The Mass is just a symbolic reenactment'",
+          "right": "It re-presents the one sacrifice of Calvary, not a new sacrifice or mere symbol"
+        }
+      ],
+      "explanation": "Each of these resolves a genuinely common misunderstanding by pointing to the actual governing text, rather than simply asserting the objector is wrong.",
+      "hint": "Every correct answer here names the actual rule or teaching, not just a rebuttal.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-001",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Of the Roman Missal's main Eucharistic Prayers, which is derived from the ancient anaphora attributed to St. Hippolytus of Rome, valued for its brevity and antiquity?",
+      "choices": [
+        "Eucharistic Prayer II",
+        "Eucharistic Prayer I (the Roman Canon)",
+        "Eucharistic Prayer III",
+        "Eucharistic Prayer IV"
+      ],
+      "correctAnswer": "Eucharistic Prayer II",
+      "explanation": "Eucharistic Prayer II is adapted from the ancient anaphora associated with Hippolytus's Apostolic Tradition, prized for its brevity and antiquity. The Roman Canon (EP I) is the Roman Rite's oldest continuously used prayer; EP III emphasizes universality across cultures; EP IV offers a sweeping salvation-history narrative.",
+      "hint": "This is the shortest of the main Eucharistic Prayers, often used at weekday Masses.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-002",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: The Roman Rite's Mass and the Byzantine Divine Liturgy of St. John Chrysostom differ in specific structural features -- such as where the epiclesis falls and the placement of a Great Entrance procession -- while both are affirmed as fully valid expressions of the one Eucharistic sacrifice.",
+      "correctAnswer": true,
+      "explanation": "The Byzantine Divine Liturgy places its epiclesis after the Words of Institution with a distinct theological emphasis, and includes a Great Entrance procession of the gifts not found in the same form in the Roman Rite's Offertory. These are real structural differences between two rites the Church holds as equally valid, not a difference in validity or dignity.",
+      "hint": "This is a structural comparison, not a question about which rite is more legitimate.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-003",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Why is the Easter Vigil traditionally considered the Church's primal setting for the sacraments of Christian initiation (Baptism, Confirmation, Eucharist)?",
+      "choices": [
+        "Because it liturgically joins new life in Christ through Baptism to the very night of his Resurrection, the source of that new life",
+        "Because it is the only night of the year canon law permits Baptisms",
+        "Because the Easter Vigil has no connection to Baptism in current liturgical law",
+        "Because Confirmation may only be received at the Easter Vigil"
+      ],
+      "correctAnswer": "Because it liturgically joins new life in Christ through Baptism to the very night of his Resurrection, the source of that new life",
+      "explanation": "The Easter Vigil's readings, Exsultet, and renewal of baptismal promises all trace the movement from death to new life -- making it the fitting, though not exclusive, primal setting for initiating new Christians into that same Paschal movement through Baptism, Confirmation, and first Eucharist.",
+      "hint": "Think about what the entire Vigil's readings and prayers are actually about.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1217"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-004",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "The Roman Canon includes a prayer beginning 'Hanc igitur' ('Therefore, Lord, we pray'), asking God to accept an offering on behalf of a specific group. What job does this prayer do within the Canon's overall structure?",
+      "choices": [
+        "It is an intercession applying the sacrifice being offered to a specific intention or community, distinct from the consecration itself",
+        "It is the moment of consecration where the bread and wine change",
+        "It is the final blessing that concludes the Mass",
+        "It is a scriptural reading proclaimed before the homily"
+      ],
+      "correctAnswer": "It is an intercession applying the sacrifice being offered to a specific intention or community, distinct from the consecration itself",
+      "explanation": "The Roman Canon is built from distinguishable component prayers, each doing a specific job: intercessions like 'Hanc igitur' apply the one sacrifice to particular people or intentions, while 'Quam oblationem' asks God to bless the offering before consecration, and the words of institution effect the consecration itself -- breaking the Canon into these parts shows a single fact isn't enough to describe the whole prayer.",
+      "hint": "This particular prayer is about intention and application, not about the change of the elements themselves.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-005",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Both the Liturgy of the Hours' psalmody and the Mass's lectionary follow a structured cycle rather than random selection. What principle do they share?",
+      "choices": [
+        "Scripture is prayed and proclaimed systematically over a set cycle, so the whole of the Church's prayer engages the full range of the Word rather than a few favorite passages",
+        "Neither has any fixed cycle; both are chosen freely by the presider each time",
+        "The lectionary follows a cycle, but the psalmody in the Hours is never repeated across the entire cycle",
+        "Only feast days use a fixed set of readings; ordinary days have none"
+      ],
+      "correctAnswer": "Scripture is prayed and proclaimed systematically over a set cycle, so the whole of the Church's prayer engages the full range of the Word rather than a few favorite passages",
+      "explanation": "The Liturgy of the Hours distributes the psalms across a four-week cycle, and the Mass lectionary distributes Scripture readings across multi-year cycles (Sunday: three years; weekday: two years) -- both express the same underlying logic that the Church's public prayer should draw systematically on the whole of Scripture, not a self-selected subset.",
+      "hint": "Both are organized around a repeating cycle for the same underlying reason.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 51"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-006",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each liturgical element to what this level shows about it.",
+      "pairs": [
+        {
+          "left": "Eucharistic Prayer II",
+          "right": "Derived from the ancient Hippolytan anaphora, valued for brevity"
+        },
+        {
+          "left": "The Byzantine Divine Liturgy's Great Entrance",
+          "right": "A real structural difference from the Roman Rite, not a difference in validity"
+        },
+        {
+          "left": "The Easter Vigil",
+          "right": "The Church's primal setting for the sacraments of initiation"
+        },
+        {
+          "left": "'Hanc igitur' in the Roman Canon",
+          "right": "An intercession applying the sacrifice to a specific intention, distinct from consecration"
+        }
+      ],
+      "explanation": "This level's whole method is breaking a single liturgical fact into working parts, or setting two real practices side by side -- a single isolated fact no longer suffices at this level.",
+      "hint": "Each right answer names a specific function or comparison, not just a general description.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-001",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The Syro-Malabar and Chaldean Catholic Churches both belong to which liturgical family, tracing its heritage to the ancient Church of the East in Mesopotamia?",
+      "choices": [
+        "The East Syriac (Chaldean) liturgical family",
+        "The Byzantine liturgical family",
+        "The Coptic (Alexandrian) liturgical family",
+        "The Armenian liturgical family"
+      ],
+      "correctAnswer": "The East Syriac (Chaldean) liturgical family",
+      "explanation": "The Chaldean Catholic Church and the Syro-Malabar Catholic Church (rooted in the ancient Christian community of India traditionally linked to St. Thomas the Apostle) both belong to the East Syriac liturgical tradition, distinct from the Byzantine, Alexandrian (Coptic/Ethiopian), Antiochene (West Syriac/Maronite), and Armenian families.",
+      "hint": "One of these two Churches traces its roots to St. Thomas's mission in India, but shares the same liturgical family as the other.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-002",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: The Eastern Catholic eucharistic prayers' characteristic emphasis on theosis (divinization) and the Roman Rite's more juridical and sacrificial emphasis represent two genuinely different theological accents within the same one Eucharistic faith, not a doctrinal disagreement needing resolution.",
+      "correctAnswer": true,
+      "explanation": "Orientale Lumen and CCC 1075 affirm that East and West bring different, complementary accents to the same Eucharistic mystery -- the East's stress on divinization and the West's stress on sacrifice and juridical clarity are legitimate emphases within one shared faith, not competing doctrines where one must be corrected.",
+      "hint": "This is the same 'complementary emphasis, not contradiction' pattern already seen with theosis and grace in the Church Fathers topic.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Orientale Lumen (1995)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1075"
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-003",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Sacrosanctum Concilium's ressourcement (return-to-the-sources) principle draws on the Church's most ancient liturgical witnesses. St. Justin Martyr's First Apology (ch. 65-67), written around 155 AD, describes which elements of the Sunday assembly that the Council's reform sought to recover?",
+      "choices": [
+        "Readings from the 'memoirs of the apostles,' a common prayer, and the president giving thanks over bread and wine mixed with water",
+        "A private Mass celebrated silently with no congregation present",
+        "A liturgy conducted entirely in a language unknown to the congregation",
+        "An annual, not weekly, celebration of the Eucharist"
+      ],
+      "correctAnswer": "Readings from the 'memoirs of the apostles,' a common prayer, and the president giving thanks over bread and wine mixed with water",
+      "explanation": "Justin Martyr's description -- readings, a homily, common prayers, and the president's thanksgiving over the gifts -- is one of the earliest detailed accounts of the Christian Sunday assembly, and the Council's ressourcement principle explicitly looked to sources like this to recover the liturgy's ancient shape.",
+      "hint": "Prerequisite: the Church Fathers level covering the earliest apologists, where Justin Martyr's own writings were introduced.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Justin Martyr, First Apology, ch. 65-67"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 50"
+        }
+      ],
+      "tags": [
+        "prerequisite:church-fathers-l2"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-004",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The liturgical calendar's Marian feasts (such as the Assumption) connect directly to which doctrine covered elsewhere in this app?",
+      "choices": [
+        "The Communion of Saints, since Mary's own glorification is celebrated as the pattern and pledge of what awaits the whole Church",
+        "The doctrine of transubstantiation",
+        "The doctrine of papal infallibility",
+        "The doctrine of Purgatory"
+      ],
+      "correctAnswer": "The Communion of Saints, since Mary's own glorification is celebrated as the pattern and pledge of what awaits the whole Church",
+      "explanation": "Marian feasts in the liturgical calendar are not celebrated in isolation from the rest of the Church -- they are understood through the Communion of Saints, with Mary's Assumption held up as the pattern and pledge of the glorification the whole Church hopes to share.",
+      "hint": "Prerequisite: Dogmas and Doctrine's Mary and the Communion of Saints level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 966"
+        }
+      ],
+      "tags": [
+        "prerequisite:dogmas-and-doctrine-l7"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-005",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: The precise post-Vatican II debate over how 'active participation' should be implemented in practice (sometimes framed as the 'Liturgical Movement' versus a 'reform of the reform') is a settled doctrinal question with one side officially declared correct by the Magisterium.",
+      "correctAnswer": false,
+      "explanation": "How 'active participation' is best implemented in concrete liturgical practice has been a live pastoral and historical discussion since the Council, not a doctrinal question the Magisterium has settled by declaring one implementation view simply correct and the other simply wrong -- it is properly a historical-judgment question, distinct from the doctrine of SC 14 itself.",
+      "hint": "This is a debate about implementation and reception, not about the actual text or doctrine of Sacrosanctum Concilium itself.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 14"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-006",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each Eastern liturgical fact to what this level says about it.",
+      "pairs": [
+        {
+          "left": "Syro-Malabar and Chaldean Catholic Churches",
+          "right": "Both belong to the East Syriac liturgical family"
+        },
+        {
+          "left": "Theosis emphasis (East) vs. sacrificial/juridical emphasis (West)",
+          "right": "Complementary accents within one shared Eucharistic faith"
+        },
+        {
+          "left": "The Assyrian Church of the East's Anaphora of Addai and Mari",
+          "right": "Recognized as valid -- a matter of licensed diversity, not doctrinal dispute"
+        },
+        {
+          "left": "The post-Vatican II 'active participation' implementation debate",
+          "right": "A historical-judgment question, not a settled doctrinal one"
+        }
+      ],
+      "explanation": "This level's task is engaging real, named diversity honestly -- distinguishing what the Church affirms as equally valid from what remains a live historical or pastoral question, rather than flattening either into a false certainty.",
+      "hint": "One of these four is explicit groundwork for an even fuller treatment at the next level.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-001",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Weighing the ad orientem versus versus populum question using everything built since level 7, what is the Church's actual, settled resolution?",
+      "choices": [
+        "Both are legitimate under current liturgical law; the choice is a matter of pastoral prudence, not doctrine",
+        "Versus populum has been declared doctrinally superior and ad orientem is now effectively forbidden",
+        "Ad orientem has been declared doctrinally superior and versus populum is now effectively forbidden",
+        "The question remains entirely undecided, with no governing norm at all"
+      ],
+      "correctAnswer": "Both are legitimate under current liturgical law; the choice is a matter of pastoral prudence, not doctrine",
+      "explanation": "As level 7 already established from GIRM 299 itself, the norm expresses a preference without prohibiting the alternative -- the Church's actual resolution is that both orientations are legitimate, and choosing between them is a matter of pastoral judgment in a given community, not a doctrinal dispute needing a winner.",
+      "hint": "Look back to level 7's treatment of GIRM 299 -- the resolution hasn't changed, just the weight this level asks you to carry it with.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299"
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-002",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The Assyrian Church of the East's Anaphora of Addai and Mari lacks an explicit spoken Institution Narrative ('This is my body... this is my blood'). Per the 2001 guidelines from the Pontifical Council for Promoting Christian Unity, why was it nonetheless recognized as a valid Eucharistic prayer?",
+      "choices": [
+        "The Institution Narrative's substance is present in a diffuse, euchological way throughout the prayer, and the anaphora's antiquity and consistent ecclesial use support its validity",
+        "The Institution Narrative was found to be unnecessary for any Eucharistic prayer whatsoever",
+        "The Assyrian Church of the East agreed to add a spoken Institution Narrative before the guidelines were issued",
+        "The ruling applies only to Catholics attending this liturgy, not to the Assyrian Church of the East's own members"
+      ],
+      "correctAnswer": "The Institution Narrative's substance is present in a diffuse, euchological way throughout the prayer, and the anaphora's antiquity and consistent ecclesial use support its validity",
+      "explanation": "This is the rare, precise case level 9 laid the groundwork for: the 2001 guidelines concluded the Words of Institution are present in a dispersed, prayerful (euchological) manner throughout the Anaphora of Addai and Mari rather than as one isolated spoken formula, and that the prayer's ancient, continuous use by a Church in full apostolic succession supports recognizing it as a valid anaphora -- a conclusion resting on real historical and theological study, not a loosening of what validity requires.",
+      "hint": "The key move here is 'present throughout the prayer,' not 'unnecessary altogether.'",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pontifical Council for Promoting Christian Unity, Guidelines for Admission to the Eucharist between the Chaldean Church and the Assyrian Church of the East (2001)"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-003",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Sacrosanctum Concilium 47 calls the Eucharist a 'memorial of his death and resurrection... a paschal banquet... a pledge of future glory.' Completing the argument from this premise, why does the entire liturgical year radiate outward from Easter?",
+      "choices": [
+        "Because every other feast and season draws its meaning from the Paschal Mystery this one sacrament makes present, rather than standing as an independent celebration",
+        "Because Easter is simply the oldest feast on the calendar chronologically",
+        "Because Sacrosanctum Concilium requires every liturgical season to have the exact same readings as Easter",
+        "Because the liturgical year has no actual center, and each season is unrelated to the others"
+      ],
+      "correctAnswer": "Because every other feast and season draws its meaning from the Paschal Mystery this one sacrament makes present, rather than standing as an independent celebration",
+      "explanation": "If the Eucharist itself is the memorial that makes Christ's death and resurrection present, and every liturgical celebration flows from and returns to the Eucharist, then the whole calendar -- Advent's preparation, Lent's penance, Ordinary Time's steady growth -- makes sense only as radiating outward from and back toward that one Paschal center, not as a series of unconnected observances.",
+      "hint": "Start from what SC 47 says the Eucharist actually is, then ask what that implies about everything built around it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 47"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-004",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Using the full weight of this topic's material -- anamnesis, the real sacrifice of Calvary made present, and the Eastern and Western traditions' shared Eucharistic faith -- which is the strongest single-sentence rebuttal to 'the Mass is just a symbol'?",
+      "choices": [
+        "The Mass makes really present, not merely represents in the imagination, the one sacrifice of Christ and his true Body and Blood, received as a real pledge of future glory",
+        "The Mass is a symbol, but a particularly moving and beautiful one, which is the highest praise any liturgy can receive",
+        "Symbols and reality are the same thing in Catholic theology, so calling the Mass a symbol is already a full and adequate answer",
+        "The question cannot be answered without first resolving the ad orientem debate"
+      ],
+      "correctAnswer": "The Mass makes really present, not merely represents in the imagination, the one sacrifice of Christ and his true Body and Blood, received as a real pledge of future glory",
+      "explanation": "This draws together the whole topic: the anamnesis is not a mental exercise but a liturgical act that makes present the Paschal Mystery (levels 6-7); the elements truly become Christ's Body and Blood (transubstantiation, covered elsewhere); and this reality, not a symbol standing in for something absent, is the shared Eucharistic faith of East and West alike (levels 8-9).",
+      "hint": "The strongest rebuttal names what actually happens, not just how beautiful or meaningful the ritual feels.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1374"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-005",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Following the Liturgy of the Hours structure taught since level 6, which psalm is traditionally prayed at Compline (Night Prayer) because of its theme of entrusting oneself to God before sleep?",
+      "choices": [
+        "Psalm 91 ('He who dwells in the shelter of the Most High')",
+        "Psalm 150 (the final psalm of praise)",
+        "Psalm 22 (the psalm of the Passion)",
+        "Psalm 137 ('By the rivers of Babylon')"
+      ],
+      "correctAnswer": "Psalm 91 ('He who dwells in the shelter of the Most High')",
+      "explanation": "Psalm 91, with its theme of refuge and protection through the night, is one of Compline's traditional psalms across the Roman Rite's four-week cycle -- praying it before sleep is a concrete way to close each day the same way this topic closes: entrusting oneself to God through the Church's own structured prayer.",
+      "hint": "This psalm's central image is taking shelter overnight under God's protection.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Psalm 91"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-006",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each capstone item to what this level resolves.",
+      "pairs": [
+        {
+          "left": "Ad orientem vs. versus populum",
+          "right": "Both legitimate; a matter of pastoral prudence, not doctrine"
+        },
+        {
+          "left": "The Anaphora of Addai and Mari's missing spoken Institution Narrative",
+          "right": "Present in a diffuse, euchological way; recognized valid by the 2001 PCPCU guidelines"
+        },
+        {
+          "left": "'The Mass is just a symbol'",
+          "right": "The Eucharist makes really present the one sacrifice and true Body and Blood of Christ"
+        },
+        {
+          "left": "Sacrosanctum Concilium 47's 'pledge of future glory'",
+          "right": "The reason the whole liturgical year radiates outward from Easter"
+        }
+      ],
+      "explanation": "Every item in this level rests on material already vetted across levels 6-9 -- the ceiling doesn't introduce new unvetted claims, it asks you to carry the accumulated material to its actual conclusion.",
+      "hint": "Nothing here should feel unfamiliar in its sourcing -- only in how much weight it's asked to carry.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 47"
+        }
       ]
     }
   ]
