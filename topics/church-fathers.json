@@ -1482,6 +1482,119 @@
       ]
     },
     {
+      "id": "church-fathers-l6-007",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "Augustine, against the Manichees, insists evil is privatio boni. What precise problem does this solve that his earlier Manichean view could not?",
+      "choices": [
+        "It removes the need for a second, evil principle alongside God, since evil is a lack in a good thing rather than a rival substance requiring its own source",
+        "It proves evil does not really exist",
+        "It shows matter itself is evil",
+        "It explains why God directly wills particular sins"
+      ],
+      "correctAnswer": "It removes the need for a second, evil principle alongside God, since evil is a lack in a good thing rather than a rival substance requiring its own source",
+      "explanation": "As a Manichee, Augustine had needed an evil principle to explain evil's existence as a rival substance. Privation dissolves the need: a lack is not a thing requiring its own cause the way a substance would, which is precisely the metaphysical move that let him leave dualism behind.",
+      "hint": "Ask what a dualist system needs a second principle FOR, and whether privation still needs it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Confessions VII"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-008",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1901,
+      "prompt": "True or False: In the Cappadocian settlement, 'ousia' (substance) names what is common to the three divine Persons, while 'hypostasis' names what distinguishes each.",
+      "correctAnswer": true,
+      "explanation": "True, and getting the pairing backwards is the commonest error in this level. Before the Cappadocians the two Greek words were near-synonyms, which is part of why the earlier debates generated so much talking past each other — fixing which word answers 'what' and which answers 'who' was the actual technical achievement.",
+      "hint": "One word answers 'what are they', the other 'who are they' — get the assignment right.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 252"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Basil, Letter 214"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-009",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "Chrysostom's 'synkatabasis' describes God's condescension in Scripture — speaking as though he has hands, or repents. What theological point does the term protect?",
+      "choices": [
+        "That such language accommodates human understanding without implying God literally has a body or changes his mind",
+        "That Scripture is unreliable wherever it uses such language",
+        "That God genuinely possesses physical attributes",
+        "That these passages should be removed from the lectionary"
+      ],
+      "correctAnswer": "That such language accommodates human understanding without implying God literally has a body or changes his mind",
+      "explanation": "Synkatabasis — God stooping to speak our language — lets Chrysostom hold Scripture's inerrancy and God's incorporeal, unchanging nature together. Anthropomorphic language is not an error to be corrected; it is a real accommodation doing real teaching work.",
+      "hint": "The term names a way of speaking down to a hearer's level without saying anything false.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 101"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. John Chrysostom, Homilies on Genesis"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-010",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1921,
+      "prompt": "Match each technical term to the Father who developed it and what it precisely protects.",
+      "pairs": [
+        {
+          "left": "Privatio boni",
+          "right": "Augustine — evil needs no rival substance to explain it"
+        },
+        {
+          "left": "Ousia / hypostasis",
+          "right": "The Cappadocians — one what, three whos"
+        },
+        {
+          "left": "Synkatabasis",
+          "right": "Chrysostom — Scripture's accommodating language, not literal description"
+        },
+        {
+          "left": "Homoousios",
+          "right": "Athanasius — same substance, ruling out any lesser, created divinity"
+        }
+      ],
+      "explanation": "Each term was coined or sharpened to close one specific loophole a vaguer word had left open. None of the four is decorative vocabulary; each is doing the load-bearing work of an argument.",
+      "hint": "Ask what imprecise word each term was introduced to replace.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 252"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        }
+      ]
+    },
+    {
       "id": "church-fathers-l7-001",
       "topic": "church-fathers",
       "level": 7,
@@ -1654,6 +1767,123 @@
           "type": "church_father",
           "reference": "Irenaeus of Lyons, Adversus Haereses, Book III, ch. 18",
           "quote": "He therefore passed through every age, becoming an infant for infants, thus sanctifying infants; a child for children, thus sanctifying those who are of this age... So likewise He was an old man for old men, that He might be a perfect Master for all."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-007",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "Someone claims that praying to saints is unnecessary since Christ alone mediates. Irenaeus's doctrine of recapitulation offers what kind of response?",
+      "choices": [
+        "It is not a direct response to this objection — recapitulation concerns Christ retracing and healing every stage of human life, not the communion of saints",
+        "It directly refutes the objection by showing saints are additional mediators",
+        "It supports the objection, since Christ alone recapitulates",
+        "It is irrelevant to any question about Christ's mediation"
+      ],
+      "correctAnswer": "It is not a direct response to this objection — recapitulation concerns Christ retracing and healing every stage of human life, not the communion of saints",
+      "explanation": "This level rewards knowing what an argument is actually for. Recapitulation answers a different question (how Christ's obedience heals what Adam's disobedience broke, stage by stage of a human life) and reaching for it here would be citing the wrong Father's argument for the objection actually raised.",
+      "hint": "Ask what recapitulation is an argument ABOUT before deciding whether it answers this.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 518"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus, Adversus Haereses III.18-19"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-008",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "A parish is debating whether almsgiving is optional generosity or a strict demand of justice. Which Father's argument is most directly on point?",
+      "choices": [
+        "John Chrysostom, who argued in his homilies on wealth that surplus riches withheld from the poor are, in a real sense, theft from them",
+        "Augustine's Confessions, on the theft of pears",
+        "Origen's allegorical method of scriptural interpretation",
+        "Athanasius's defence of the Son's divinity"
+      ],
+      "correctAnswer": "John Chrysostom, who argued in his homilies on wealth that surplus riches withheld from the poor are, in a real sense, theft from them",
+      "explanation": "Chrysostom's preaching on wealth is unusually blunt: what you possess beyond need belongs, in justice, to the one who lacks it. Matching a live pastoral question to the Father who actually addressed it, rather than to whichever Father comes to mind first, is the skill this level is testing.",
+      "hint": "Three of these four options are about something other than wealth and the poor.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2446"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. John Chrysostom, De Lazaro et Divite"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-009",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2038,
+      "prompt": "True or False: Athanasius's argument that Christ must be fully divine to save us would still work if Arius had been right that the Son is a creature.",
+      "correctAnswer": false,
+      "explanation": "False, and seeing why is the point of the level. Athanasius's whole argument is conditional on the Son actually being God: only God can bridge the gap divinisation requires. Remove that premise and the conclusion has nothing to stand on — which is why Arianism was treated as soteriologically fatal, not merely as a verbal imprecision.",
+      "hint": "Ask what the argument NEEDS to be true about the Son in order to work at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Athanasius, De Incarnatione 54"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-010",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2128,
+      "prompt": "Match each pastoral or apologetic scenario to the Father whose actual argument addresses it.",
+      "pairs": [
+        {
+          "left": "'Grace only helps after I've already tried'",
+          "right": "Augustine — grace precedes and enables the very effort"
+        },
+        {
+          "left": "'Christ didn't really need a human mind'",
+          "right": "Gregory of Nazianzus — what is not assumed is not healed"
+        },
+        {
+          "left": "'Riches are fine as long as I'm not attached'",
+          "right": "Chrysostom — surplus withheld from the poor is theft"
+        },
+        {
+          "left": "'A creature could still have saved us'",
+          "right": "Athanasius — only God can bridge the gap divinisation requires"
+        }
+      ],
+      "explanation": "Every scenario here has more than one Father who said something relevant; the skill is picking the one whose argument actually bears on THIS claim, not merely one who wrote about a nearby topic.",
+      "hint": "For each scenario, ask which Father's argument was built to answer exactly that claim.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Enchiridion"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Gregory of Nazianzus, Letter to Cledonius"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
         }
       ]
     },
@@ -1842,6 +2072,123 @@
       ]
     },
     {
+      "id": "church-fathers-l8-007",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Augustine's argument against Pelagius depends on establishing one claim about fallen human nature. Which, if granted, makes the rest of his case largely follow?",
+      "choices": [
+        "That the will, wounded by original sin, cannot of itself turn to God without prevenient grace already at work",
+        "That human beings are entirely incapable of any good act whatsoever",
+        "That infant baptism is a merely symbolic rite",
+        "That grace is given in proportion to merit already achieved"
+      ],
+      "correctAnswer": "That the will, wounded by original sin, cannot of itself turn to God without prevenient grace already at work",
+      "explanation": "Once the will's inability to initiate its own turning is granted, Pelagius's picture of unaided moral effort as sufficient collapses, and the necessity of grace at every stage — not just at the finish — follows fairly directly. Isolating the load-bearing premise is more useful than reciting the conclusion.",
+      "hint": "Ask which claim, if false, would make Pelagius's whole position reasonable again.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, De Gratia Christi"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-008",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Cyril of Alexandria pressed Nestorius on a specific soteriological consequence of dividing Christ into two subjects. What was it?",
+      "choices": [
+        "If the man Jesus and the Word are not one subject, then it is not truly God who suffered and died, and the exchange that saves us — God taking what is ours to give us what is his — fails",
+        "That dividing Christ into two subjects makes the Trinity into four persons",
+        "That it denies Mary was a real historical person",
+        "That it makes the Eucharist impossible to celebrate validly"
+      ],
+      "correctAnswer": "If the man Jesus and the Word are not one subject, then it is not truly God who suffered and died, and the exchange that saves us — God taking what is ours to give us what is his — fails",
+      "explanation": "Cyril's argument is soteriological before it is technical: unless the one who suffered is genuinely the Word made flesh, the saving exchange has no divine party to it. This is why Ephesus fought so hard over what could look like a narrow question of Christ's unity.",
+      "hint": "Ask what has to be true of the sufferer on the Cross for that suffering to save anyone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 468"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-009",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2314,
+      "prompt": "True or False: Augustine's City of God argues that Rome fell because she abandoned her old gods for Christianity.",
+      "correctAnswer": false,
+      "explanation": "False — that was the pagan charge Augustine was answering, not his own claim. He argues the reverse: the old gods never actually protected Rome even in her pagan centuries, citing catastrophes the gods failed to prevent long before Christ. He denies the premise rather than conceding it and arguing about degrees.",
+      "hint": "Whose argument is being described here — the objector's, or Augustine's reply to it?",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, City of God I.1"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 314"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-010",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2334,
+      "prompt": "Match each claim to the single premise this level shows it actually depends on.",
+      "pairs": [
+        {
+          "left": "Pelagianism",
+          "right": "That the will needs no prevenient grace to turn toward God"
+        },
+        {
+          "left": "Nestorius's division of Christ",
+          "right": "That the man Jesus and the Word are not strictly one subject"
+        },
+        {
+          "left": "The pagan charge against Rome's fall",
+          "right": "That the old gods had actually protected Rome before"
+        },
+        {
+          "left": "Arianism",
+          "right": "That the Son is a creature rather than fully God"
+        },
+        {
+          "left": "Rejecting divine images after the Incarnation",
+          "right": "That God did not truly take visible, depictable flesh"
+        }
+      ],
+      "explanation": "Every position here looks strong until its load-bearing premise is named and tested on its own. Learning to isolate that single premise is the actual skill this level is built to teach, more than memorising which Father answered which heresy.",
+      "hint": "For each row, ask: what ONE thing would have to be true for this claim to work?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 468"
+        }
+      ]
+    },
+    {
       "id": "church-fathers-l9-001",
       "topic": "church-fathers",
       "level": 9,
@@ -2017,6 +2364,115 @@
       ],
       "tags": [
         "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l9-007",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Applying Orange II's teaching that even the desire to believe is itself a gift of grace, how should someone respond to a friend who says 'I want to want to believe, but I don't even have that much'?",
+      "choices": [
+        "Point out that this half-desire is already a movement grace has begun, not a disqualifying deficiency to be overcome unaided first",
+        "Tell them to keep trying until the full desire arrives on its own",
+        "Explain that this shows they lack the predestined election",
+        "Advise them that nothing can be done until stronger desire appears"
+      ],
+      "correctAnswer": "Point out that this half-desire is already a movement grace has begun, not a disqualifying deficiency to be overcome unaided first",
+      "explanation": "Orange II located grace at the very beginning of the process, including the first faint motion toward belief. A wish to want to believe is not evidence grace is absent; on this doctrine it is exactly what grace beginning to work looks like from the inside.",
+      "hint": "Ask where, on Orange II's teaching, grace is located — only at the end, or already at the start.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 4"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l9-008",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2470,
+      "prompt": "True or False: Because theosis and Augustine's language of grace developed somewhat independently in East and West, they describe two different destinies for the redeemed.",
+      "correctAnswer": false,
+      "explanation": "False. Different vocabularies, same reality: Peter's 'partakers of the divine nature' and Augustine's justified soul indwelt by grace are converging descriptions of one destiny, sharing in God's own life, rather than two separate outcomes. Treating vocabulary differences as doctrinal differences is a common error in reading East against West.",
+      "hint": "Ask whether a difference in words always means a difference in what is meant.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Peter 1:4"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1996"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l9-009",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Orange II settled that grace precedes even the first motion of faith. What did it explicitly leave unresolved?",
+      "choices": [
+        "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+        "Whether grace is necessary at all for salvation",
+        "Whether infants require baptism",
+        "Whether God predestines anyone to hell"
+      ],
+      "correctAnswer": "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+      "explanation": "The council answered the sequencing question — grace goes first — without resolving the harder metaphysical question of exactly how grace and a free choice coexist without either grace overriding freedom or freedom operating independently of grace. That question occupied theologians for centuries after.",
+      "hint": "The council fixed WHO moves first, not HOW the two forces relate once both are in play.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 25"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l9-010",
+      "topic": "church-fathers",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each element of the Augustinian synthesis to what it actually establishes.",
+      "pairs": [
+        {
+          "left": "Orange II, Canon 4",
+          "right": "Even the desire to believe is already a work of grace"
+        },
+        {
+          "left": "Semi-Pelagianism condemned",
+          "right": "Unaided human initiative in seeking God is ruled out"
+        },
+        {
+          "left": "What Orange II left open",
+          "right": "The precise mechanics of grace and freedom together"
+        },
+        {
+          "left": "Theosis and Augustinian grace",
+          "right": "Converging vocabularies for one shared destiny"
+        }
+      ],
+      "explanation": "This level's whole point is precision about what a settled question actually settled, and what it deliberately did not. Overclaiming Orange II's scope is as much a mistake as denying its authority.",
+      "hint": "Two of these rows describe what WAS settled; one describes what was NOT.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 4"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        }
       ]
     }
   ]
