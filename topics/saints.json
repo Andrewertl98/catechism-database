@@ -1350,6 +1350,103 @@
       ]
     },
     {
+      "id": "saints-l6-007",
+      "topic": "saints",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "What is the difference between beatification and canonization in the process?",
+      "choices": [
+        "Beatification permits local or limited veneration; canonization declares the person a saint for the universal Church with a mandatory feast day",
+        "They are simply two names for the identical final step",
+        "Beatification happens after canonization, not before",
+        "Canonization requires no verified miracle at all"
+      ],
+      "correctAnswer": "Beatification permits local or limited veneration; canonization declares the person a saint for the universal Church with a mandatory feast day",
+      "explanation": "Beatification is an intermediate step — the person is declared 'Blessed' and may be venerated in a limited context (a diocese, a religious order) — while canonization extends that recognition and veneration to the whole Church, typically requiring an additional verified miracle beyond the one required for beatification.",
+      "hint": "Ask which step is limited in scope and which extends to the whole Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-008",
+      "topic": "saints",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: John Paul II's 1983 reform, Divinus Perfectionis Magister, reduced the number of required miracles and restructured the process to function more like a rigorous historical investigation.",
+      "correctAnswer": true,
+      "explanation": "True. The reform streamlined a process that had grown extremely lengthy, emphasizing careful historical and theological investigation of the candidate's life and reducing (though not eliminating) the number of miracles formally required at each stage.",
+      "hint": "Ask whether this reform made the process more or less historically rigorous, and simpler or more complex.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Divinus Perfectionis Magister, Pope St. John Paul II (1983)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-009",
+      "topic": "saints",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "What is an 'equipollent' canonization, as used for Hildegard of Bingen and a small number of other cases?",
+      "choices": [
+        "A recognition of existing, longstanding veneration and reputation for holiness, bypassing the usual formal process of beatification and a verified miracle",
+        "A canonization that requires double the usual number of miracles",
+        "A canonization performed by a diocese rather than the Pope",
+        "A purely honorary title carrying no actual recognition of sainthood"
+      ],
+      "correctAnswer": "A recognition of existing, longstanding veneration and reputation for holiness, bypassing the usual formal process of beatification and a verified miracle",
+      "explanation": "This route recognizes that a person has, in effect, already been venerated as a saint by the faithful for centuries, and the Pope simply extends that existing veneration to the universal Church — a real alternative to the standard process rather than an exception undermining it.",
+      "hint": "Ask what already existed, for centuries, before this kind of canonization is used.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-010",
+      "topic": "saints",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1827,
+      "prompt": "Match each term from this level to what it actually means.",
+      "pairs": [
+        {
+          "left": "Beatification",
+          "right": "Limited, local veneration granted as an intermediate step"
+        },
+        {
+          "left": "Canonization",
+          "right": "Universal Church veneration with a mandatory feast day"
+        },
+        {
+          "left": "Equipollent canonization",
+          "right": "Recognizing existing longstanding veneration, bypassing the usual steps"
+        },
+        {
+          "left": "Divinus Perfectionis Magister",
+          "right": "John Paul II's 1983 reform of the canonization process"
+        }
+      ],
+      "explanation": "Understanding these terms precisely is what separates informed discussion of how saints are actually recognized from vague impressions of 'the Church just decides someone is a saint' with no further structure behind it.",
+      "hint": "Two of these are stages in the standard process; two concern how that process itself works or can be bypassed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
       "id": "saints-l7-001",
       "topic": "saints",
       "level": 7,
@@ -1509,6 +1606,115 @@
       ]
     },
     {
+      "id": "saints-l7-007",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1920,
+      "prompt": "An objector says: 'Asking a saint to pray for you violates 1 Timothy 2:5, since Christ alone is mediator between God and man.'  What is the accurate response?",
+      "choices": [
+        "Asking a saint's intercession is the same kind of request as asking a living friend to pray for you — a request for prayer, not a rival mediation competing with Christ's unique mediation",
+        "The verse has been formally reinterpreted by the Church to permit multiple mediators",
+        "1 Timothy 2:5 does not actually appear in Catholic Bibles",
+        "The objection is correct and the practice should be discontinued"
+      ],
+      "correctAnswer": "Asking a saint's intercession is the same kind of request as asking a living friend to pray for you — a request for prayer, not a rival mediation competing with Christ's unique mediation",
+      "explanation": "The whole force of the objection rests on treating 'ask someone to pray for me' as identical to 'appoint a rival mediator to Christ.' It is not — every request for another Christian's prayer, living or dead, presupposes Christ's mediation rather than competing with it.",
+      "hint": "Ask whether requesting a living friend's prayers is also considered a violation of this verse.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2683"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-008",
+      "topic": "saints",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1950,
+      "prompt": "True or False: 2 Kings 13:21, where a dead man is restored to life upon touching Elisha's bones, provides Old Testament precedent for the Church's practice of venerating relics.",
+      "correctAnswer": true,
+      "explanation": "True. This account, along with the New Testament's description of healing occurring through cloths that touched Paul, is part of the scriptural basis for the Church's confidence that God can work through physical objects connected to holy people — not the objects' own inherent power, but God's action through them.",
+      "hint": "Ask what this narrative shows about God's power working through physical remains.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-009",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1970,
+      "prompt": "A family reports that a loved one's illness improved shortly after visiting a saint's shrine, though the illness was already responding to treatment. How should the Church's investigative process treat this?",
+      "choices": [
+        "With careful medical and theological scrutiny to rule out natural explanations before any claim of miraculous healing is entertained — the Church's own process is deliberately skeptical, not credulous",
+        "As automatically miraculous, since it followed the visit",
+        "As irrelevant to any canonization process",
+        "As proof the shrine itself has independent supernatural power"
+      ],
+      "correctAnswer": "With careful medical and theological scrutiny to rule out natural explanations before any claim of miraculous healing is entertained — the Church's own process is deliberately skeptical, not credulous",
+      "explanation": "The Church's own miracle investigations (often involving independent medical panels) are built to rule out natural or coincidental explanations first — a claimed miracle that could equally be explained by ongoing treatment would not survive this scrutiny, which is the opposite of automatic credulity.",
+      "hint": "Ask whether the Church's actual investigative process assumes a miracle or tries to rule one out first.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2003"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-010",
+      "topic": "saints",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each objection or scenario to the response this level builds.",
+      "pairs": [
+        {
+          "left": "'Praying to saints violates 1 Timothy 2:5'",
+          "right": "Same kind of request as asking a living friend to pray"
+        },
+        {
+          "left": "'Relics have no biblical basis'",
+          "right": "2 Kings 13:21 and Acts 19 provide real Old and New Testament precedent"
+        },
+        {
+          "left": "A reported healing during ongoing treatment",
+          "right": "Rigorous scrutiny to rule out natural causes first"
+        },
+        {
+          "left": "An early candidate with faithful service but no miracle",
+          "right": "Canonization requires more than virtue alone — a verified miracle, except in equipollent cases"
+        }
+      ],
+      "explanation": "Every row corrects an assumption in the same direction: that the Church's practices around saints are either biblically baseless or uncritically credulous, when the actual process is both scripturally grounded and deliberately rigorous.",
+      "hint": "Every row here answers a version of 'isn't this either unbiblical or superstitious.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2003"
+        }
+      ]
+    },
+    {
       "id": "saints-l8-001",
       "topic": "saints",
       "level": 8,
@@ -1657,6 +1863,111 @@
           "type": "ccc",
           "reference": "CCC 2684",
           "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-007",
+      "topic": "saints",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2090,
+      "prompt": "St. Thomas More refused to sign the Act of Succession's oath acknowledging Henry VIII as Supreme Head of the Church in England. What was his stated ground for refusal?",
+      "choices": [
+        "The oath required acknowledging a spiritual supremacy he believed belonged to the Pope alone, which he could not affirm in conscience regardless of the political cost",
+        "He objected only to the tax implications of the Act",
+        "He supported Henry's annulment but opposed the succession terms specifically",
+        "His refusal concerned a purely personal grievance against the king"
+      ],
+      "correctAnswer": "The oath required acknowledging a spiritual supremacy he believed belonged to the Pope alone, which he could not affirm in conscience regardless of the political cost",
+      "explanation": "More's own account frames this as a matter of conscience about a specific claim — royal supremacy over the Church — not a general political grievance, which is why his martyrdom is remembered as a witness to the primacy of conscience formed by truth over political convenience.",
+      "hint": "Ask what specific claim, not a general political complaint, the oath actually required affirming.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-008",
+      "topic": "saints",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2130,
+      "prompt": "True or False: The Church has canonized saints who lived with dramatically different intensities of physical asceticism, from severe fasting to ordinary daily life marked chiefly by charity.",
+      "correctAnswer": true,
+      "explanation": "True, and this matters against the assumption that all sanctity looks the same. Some canonized saints practiced extreme physical austerity; others, like many modern saints covered in level 5, are recognized chiefly for charity and fidelity in ordinary circumstances — the Church does not require one template of holiness.",
+      "hint": "Compare a medieval ascetic to one of the twentieth-century saints covered earlier in this topic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 40"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-009",
+      "topic": "saints",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2150,
+      "prompt": "St. Catherine of Siena's letters urging the papacy's return to Rome from Avignon had what documented historical consequence?",
+      "choices": [
+        "They contributed to Pope Gregory XI's actual decision to return the papacy to Rome in 1377, ending nearly seventy years of the Avignon Papacy",
+        "They were written after the papacy had already returned to Rome",
+        "They had no documented effect on the pope's actions",
+        "They concerned only a local Italian civic dispute unrelated to the papacy"
+      ],
+      "correctAnswer": "They contributed to Pope Gregory XI's actual decision to return the papacy to Rome in 1377, ending nearly seventy years of the Avignon Papacy",
+      "explanation": "This connects directly to Church History's own coverage of the Avignon Papacy: Catherine's persistent correspondence and personal visits are documented as a real factor in Gregory XI's decision, a case where a laywoman's spiritual authority had a concrete, traceable historical effect.",
+      "hint": "Recall which historical event, covered elsewhere in this database, her letters actually helped bring about.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-010",
+      "topic": "saints",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each founder or saint to their charism or documented consequence.",
+      "pairs": [
+        {
+          "left": "Benedict of Nursia",
+          "right": "Stability — a settled monastic life ordered by rule"
+        },
+        {
+          "left": "Francis of Assisi",
+          "right": "Radical poverty as gospel witness"
+        },
+        {
+          "left": "Thomas More",
+          "right": "Martyrdom for conscience over the Act of Succession's oath"
+        },
+        {
+          "left": "Catherine of Siena",
+          "right": "Contributing to the papacy's actual return to Rome in 1377"
+        }
+      ],
+      "explanation": "Two of these rows concern a founder's ongoing charism, lived out over centuries by others; two concern a single documented historical action. Holding both kinds of sanctity in view is part of what this level is building.",
+      "hint": "Two of these are lasting charisms; two are single documented historical acts.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
         }
       ]
     },
@@ -1819,6 +2130,111 @@
       ]
     },
     {
+      "id": "saints-l9-007",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2280,
+      "prompt": "Catherine of Siena's role in ending the Avignon Papacy, covered in this topic, connects directly to which fact covered in Church History?",
+      "choices": [
+        "The Avignon Papacy lasted from 1309 to 1377, a period covered in Church History's treatment of the medieval Church's institutional life",
+        "The Second Vatican Council's teaching on religious liberty",
+        "The Council of Trent's decree on seminaries",
+        "The 1054 Great Schism between Rome and Constantinople"
+      ],
+      "correctAnswer": "The Avignon Papacy lasted from 1309 to 1377, a period covered in Church History's treatment of the medieval Church's institutional life",
+      "explanation": "This level's whole purpose is making these cross-topic links explicit: a saint's biography and a historical period are not separate subjects, and Catherine's letters only make sense against the actual institutional crisis Church History documents independently.",
+      "hint": "Ask which historical period, not doctrinal event, this saint's action is directly tied to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-008",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2310,
+      "prompt": "The doctrine of the Communion of Saints (CCC 946-962) provides the doctrinal basis for which two practices covered across this topic?",
+      "choices": [
+        "Asking for the intercession of the saints, and venerating their relics",
+        "The canonization process's requirement of a miracle, and nothing else",
+        "The distinction between beatification and canonization only",
+        "The liturgical calendar's dating system exclusively"
+      ],
+      "correctAnswer": "Asking for the intercession of the saints, and venerating their relics",
+      "explanation": "The Communion of Saints names the real, living bond between the faithful on earth, the souls being purified, and the saints in glory — which is the doctrinal foundation underneath both intercessory prayer to saints and the honor given their physical remains, rather than either practice standing alone without a doctrinal basis.",
+      "hint": "Ask which two practices actually depend on there being a real, ongoing bond between the living and the dead in Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 946"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-009",
+      "topic": "saints",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2330,
+      "prompt": "True or False: Maximilian Kolbe and Edith Stein (Teresa Benedicta of the Cross), both killed at Auschwitz, are typically presented together as a shared witness against the same twentieth-century atrocity.",
+      "correctAnswer": true,
+      "explanation": "True. Though their lives and religious paths differed substantially — Kolbe a Franciscan friar, Stein a Jewish convert and Carmelite nun — both are frequently commemorated together as saints whose deaths bear witness against the Holocaust specifically.",
+      "hint": "Ask what specific historical atrocity both of their deaths are most often connected to in how they are remembered.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-010",
+      "topic": "saints",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each item to the topic or level this item cross-references, or the status it is given.",
+      "pairs": [
+        {
+          "left": "Catherine of Siena and the Avignon Papacy",
+          "right": "Church History's coverage of the medieval institutional Church"
+        },
+        {
+          "left": "The Little Way and the dark night",
+          "right": "The Prayer topic's own treatment of the same concepts"
+        },
+        {
+          "left": "Communion of Saints",
+          "right": "Doctrinal basis for both intercession and relic veneration"
+        },
+        {
+          "left": "Married, lay sanctity versus cloistered sanctity",
+          "right": "Equally real paths to holiness, not a hierarchy of one over the other"
+        }
+      ],
+      "explanation": "This level is deliberately built to show that Saints is not an isolated topic of biographical trivia — it draws on and reinforces material from History, Prayer, and core doctrine at every level, which is the actual point of studying the saints rather than merely their stories.",
+      "hint": "Every row connects material in this topic to something taught elsewhere in the app.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 946"
+        }
+      ]
+    },
+    {
       "id": "saints-l10-001",
       "topic": "saints",
       "level": 10,
@@ -1967,6 +2383,113 @@
           "type": "ccc",
           "reference": "CCC 828",
           "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l10-007",
+      "topic": "saints",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2470,
+      "prompt": "A hypothetical cause has decades of documented, quietly heroic charity but no verified miracle and no widespread existing veneration. Using this whole topic's material, what is the most accurate assessment?",
+      "choices": [
+        "A real and worthy life of virtue, but not yet sufficient for canonization under the ordinary process, which requires a verified miracle (or, rarely, the longstanding veneration an equipollent case requires)",
+        "The person should be canonized immediately on the strength of their charity alone",
+        "The lack of a miracle proves the person was not actually holy",
+        "This case is identical to an equipollent canonization"
+      ],
+      "correctAnswer": "A real and worthy life of virtue, but not yet sufficient for canonization under the ordinary process, which requires a verified miracle (or, rarely, the longstanding veneration an equipollent case requires)",
+      "explanation": "This draws directly on level 6's material: heroic virtue alone, however real, is not sufficient under the Church's ordinary process without a verified miracle — and this case, lacking longstanding widespread veneration too, does not qualify as equipollent either.",
+      "hint": "Recall from level 6 what the ordinary process requires beyond a life of virtue.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l10-008",
+      "topic": "saints",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2490,
+      "prompt": "Lumen Gentium chapter 5 teaches a universal call to holiness. Applied to a saint known for extraordinary physical austerity alongside one known chiefly for ordinary daily charity, what does this teaching imply?",
+      "choices": [
+        "Both callings are genuine paths to the same holiness, since the universal call is to holiness itself, not to any one specific form or intensity of ascetic practice",
+        "Only the ascetic represents authentic holiness under this teaching",
+        "Only the saint of ordinary charity represents authentic holiness",
+        "The teaching applies only to the ordained, not to either of these examples"
+      ],
+      "correctAnswer": "Both callings are genuine paths to the same holiness, since the universal call is to holiness itself, not to any one specific form or intensity of ascetic practice",
+      "explanation": "This is level 8's point (dramatically different intensities of asceticism among real canonized saints) read through Lumen Gentium's actual teaching: the call is universal in scope and singular in its object (holiness), not a call to one particular practice everyone must replicate identically.",
+      "hint": "Ask what exactly the universal call is TO — a specific practice, or a reality achievable through many different real paths.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 40"
+        }
+      ]
+    },
+    {
+      "id": "saints-l10-009",
+      "topic": "saints",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "St. Maximilian Kolbe's one documented act of self-offering at Auschwitz is sometimes framed as 'proving' every detail of his broader biography beyond dispute. What is the more careful position?",
+      "choices": [
+        "The act itself is extremely well documented and its historicity is not seriously disputed; this does not require treating every other biographical claim about him as equally certain",
+        "The act itself has never been verified by any independent witness",
+        "Every claim ever made about his life must be treated as equally certain because of this one act",
+        "The act is disputed precisely because so much else about his life is not"
+      ],
+      "correctAnswer": "The act itself is extremely well documented and its historicity is not seriously disputed; this does not require treating every other biographical claim about him as equally certain",
+      "explanation": "This is a general historical-method point applied to hagiography specifically: strong evidence for one specific, well-attested act does not automatically extend certainty to every other claim in a person's broader legend — the two questions can and should be evaluated separately.",
+      "hint": "Ask whether certainty about one specific, well-documented act logically requires certainty about everything else ever claimed about the same person.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l10-010",
+      "topic": "saints",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each capstone item to what this level actually asks of it.",
+      "pairs": [
+        {
+          "left": "A cause with virtue but no miracle",
+          "right": "Not yet sufficient; recall the ordinary process's actual requirements"
+        },
+        {
+          "left": "Ascetic and ordinary-charity saints together",
+          "right": "Both express one universal call to holiness, not competing standards"
+        },
+        {
+          "left": "Kolbe's documented act versus his wider legend",
+          "right": "Strong evidence for one claim does not certify every other claim"
+        },
+        {
+          "left": "Robert Bellarmine and the Galileo affair",
+          "right": "A live, unresolved historical-theological question, not a settled one"
+        }
+      ],
+      "explanation": "This closing level asks the reader to apply precision built across all ten levels rather than adding new facts: distinguishing sufficiency from worthiness, one calling from many paths, one well-evidenced claim from a whole legend, and a live scholarly question from a settled one.",
+      "hint": "None of these four rows introduces a brand-new fact -- each applies a distinction built earlier in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 40"
         }
       ]
     }
