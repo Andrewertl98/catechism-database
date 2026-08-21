@@ -149,6 +149,111 @@
       ]
     },
     {
+      "id": "church-latin-l1-007",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "'Sanctus, Sanctus, Sanctus,' sung by the whole assembly before the Eucharistic Prayer, means:",
+      "choices": [
+        "Holy, Holy, Holy",
+        "Blessed, Blessed, Blessed",
+        "Glory, Glory, Glory",
+        "Mercy, Mercy, Mercy"
+      ],
+      "correctAnswer": "Holy, Holy, Holy",
+      "explanation": "'Sanctus' is Latin for 'holy.' The threefold repetition comes straight from the angelic cry Isaiah hears in the temple, which the Church takes onto her own lips at every Mass.",
+      "hint": "The same word gives us 'sanctuary' and 'sanctify' -- a place and a process set apart.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 6:3"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l1-008",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1050,
+      "prompt": "In the phrase 'Corpus Christi,' what does 'Corpus' mean?",
+      "choices": [
+        "Body",
+        "Blood",
+        "Bread",
+        "Gift"
+      ],
+      "correctAnswer": "Body",
+      "explanation": "'Corpus' is Latin for 'body,' which is why the minister says 'Corpus Christi' -- 'the Body of Christ' -- when presenting the host.",
+      "hint": "English borrowed this word whole for a collected body of writing, and for the corps of an army.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l1-009",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1150,
+      "prompt": "True or False: 'Credo,' the Latin title of the Creed, is simply the verb meaning 'I believe.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Credo' is first person singular -- 'I believe' -- which is why the Creed is spoken in the singular even by a whole congregation: each person professes the faith personally, not merely as part of a crowd.",
+      "hint": "Notice it is not 'we believe.' The grammatical person is doing real theological work.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 166-167"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l1-010",
+      "topic": "church-latin",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1200,
+      "prompt": "Match each short Latin word heard at Mass to its English meaning.",
+      "pairs": [
+        {
+          "left": "Deus",
+          "right": "God"
+        },
+        {
+          "left": "Domine",
+          "right": "Lord (addressed directly)"
+        },
+        {
+          "left": "Pax",
+          "right": "Peace"
+        },
+        {
+          "left": "Gratia",
+          "right": "Grace"
+        }
+      ],
+      "explanation": "These four roots recur constantly in the liturgy. 'Domine' is the vocative -- the form used when speaking TO someone -- which is why it appears in direct address like 'Domine, non sum dignus.'",
+      "hint": "One of these is not a name for God at all, and one is God being spoken to rather than spoken about.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
       "id": "church-latin-l2-001",
       "topic": "church-latin",
       "level": 2,
@@ -291,6 +396,90 @@
       ]
     },
     {
+      "id": "church-latin-l2-007",
+      "topic": "church-latin",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1700,
+      "prompt": "The 'Salve Regina,' traditionally sung at the close of the day, opens by addressing Mary as:",
+      "choices": [
+        "Hail, Holy Queen",
+        "Hail, full of grace",
+        "Holy Mary, Mother of God",
+        "Queen of Heaven, rejoice"
+      ],
+      "correctAnswer": "Hail, Holy Queen",
+      "explanation": "'Salve Regina' is 'Hail, Holy Queen.' It is distinct from the 'Ave Maria' ('Hail Mary') and from the 'Regina Caeli' ('Queen of Heaven'), which replaces it during Eastertide.",
+      "hint": "'Regina' is the giveaway -- it is the same root behind 'reign' and 'regal.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l2-008",
+      "topic": "church-latin",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1740,
+      "prompt": "True or False: In 'Ave Maria, gratia plena,' the phrase 'gratia plena' means 'full of grace.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Gratia' is grace and 'plena' is full -- the Latin rendering of the angel's greeting at the Annunciation, and the phrase behind the Church's reflection on Mary's unique preparation for her role.",
+      "hint": "The second word survives in English as 'plenary' and 'plenty.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 490-491"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l2-009",
+      "topic": "church-latin",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1780,
+      "prompt": "The Glory Be ends 'et in saecula saeculorum. Amen' -- literally 'and unto ages of ____.'",
+      "correctAnswer": "ages",
+      "explanation": "'Saecula saeculorum' is a Hebrew-style superlative rendered literally into Latin: 'ages of ages,' meaning unending duration. English smooths it to 'world without end,' which loses the doubling that carries the force.",
+      "hint": "The Latin simply repeats the same noun in a different case -- the emphasis is in the repetition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1061-1062"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l2-010",
+      "topic": "church-latin",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1820,
+      "prompt": "'Veni, Sancte Spiritus' -- sung at Pentecost and at confirmations -- is a prayer of:",
+      "choices": [
+        "Invocation, asking the Holy Spirit to come",
+        "Thanksgiving after Communion",
+        "Penitence before confession",
+        "Dismissal at the end of Mass"
+      ],
+      "correctAnswer": "Invocation, asking the Holy Spirit to come",
+      "explanation": "'Veni' is an imperative: 'Come.' The whole sequence is an epiclesis in miniature -- a calling-down of the Spirit -- which is why it belongs to Pentecost and to the sacrament of Confirmation.",
+      "hint": "The first word is a command, and it is the same one in 'Veni, Veni Emmanuel.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1299"
+        }
+      ]
+    },
+    {
       "id": "church-latin-l3-001",
       "topic": "church-latin",
       "level": 3,
@@ -414,6 +603,105 @@
       ],
       "explanation": "These call-and-response exchanges, some in continuous use for over a thousand years, give the Mass its distinctive rhythm of dialogue between priest and people.",
       "hint": "Each Latin call has its own fixed, traditional response -- memorize the pairs as fixed units.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l3-007",
+      "topic": "church-latin",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "Before Communion the assembly says 'Domine, non sum dignus...' Which English rendering is it?",
+      "choices": [
+        "Lord, I am not worthy",
+        "Lord, have mercy on me",
+        "Lord, I believe; help my unbelief",
+        "Lord, to whom shall we go?"
+      ],
+      "correctAnswer": "Lord, I am not worthy",
+      "explanation": "'Non sum dignus' is 'I am not worthy.' The words are the centurion's, borrowed by the Church and placed on every communicant's lips immediately before receiving.",
+      "hint": "It is a quotation from a Roman soldier who asked Jesus to heal a servant from a distance.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 8:8"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l3-008",
+      "topic": "church-latin",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: 'Oremus,' said by the priest before a collect, means 'Let us pray.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Oremus' is first person plural hortatory -- 'let us pray.' It is an invitation to the whole assembly, not an announcement that the priest alone is about to pray.",
+      "hint": "The form is 'let us,' not 'I will' -- that distinction is the point of the word.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l3-009",
+      "topic": "church-latin",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "To 'Habemus ad Dominum' the priest has just said 'Sursum ____' -- 'Lift up your hearts.'",
+      "correctAnswer": "corda",
+      "explanation": "'Sursum corda' is 'hearts upward,' and the reply 'Habemus ad Dominum' means 'We have lifted them to the Lord.' The exchange opens the Preface of every Eucharistic Prayer.",
+      "hint": "The missing word is the plural of the same root behind 'cordial' and 'courage.'",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l3-010",
+      "topic": "church-latin",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each Latin phrase from the Order of Mass to the moment it belongs to.",
+      "pairs": [
+        {
+          "left": "Kyrie eleison",
+          "right": "The penitential act, near the start"
+        },
+        {
+          "left": "Sursum corda",
+          "right": "Opening the Eucharistic Prayer"
+        },
+        {
+          "left": "Agnus Dei",
+          "right": "The breaking of the bread, before Communion"
+        },
+        {
+          "left": "Ite, missa est",
+          "right": "The dismissal, at the end"
+        }
+      ],
+      "explanation": "Each phrase marks a hinge in the Mass: contrition, the lifting of hearts into the anaphora, the fraction, and the sending out. Knowing where a phrase sits is most of knowing what it does.",
+      "hint": "Put them in the order you would actually hear them, then match.",
       "citations": [
         {
           "type": "magisterial_document",
