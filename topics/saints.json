@@ -159,6 +159,115 @@
       ]
     },
     {
+      "id": "saints-l1-007",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 950,
+      "prompt": "What does the word 'saint' mean in its most basic sense, before it names a canonized individual?",
+      "choices": [
+        "Holy — set apart for God; the New Testament applies it to all the baptized, not only to a canonized few",
+        "A person who has performed a verified miracle",
+        "A member of the clergy specifically",
+        "A title given only after death"
+      ],
+      "correctAnswer": "Holy — set apart for God; the New Testament applies it to all the baptized, not only to a canonized few",
+      "explanation": "Paul routinely addresses his letters 'to the saints' in a given city, meaning the baptized faithful there — the word's baseline meaning is broader than 'a person the Church has formally canonized,' which is a later, narrower technical use of the same word.",
+      "hint": "Look at how Paul addresses the recipients of his letters.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 823"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 1:2"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-008",
+      "topic": "saints",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1050,
+      "prompt": "True or False: Canonization declares that a person is now in heaven; it does not make them holy — their holiness came first.",
+      "correctAnswer": true,
+      "explanation": "True. The Church's canonization process investigates and recognizes a life of heroic virtue already lived; it does not confer holiness retroactively. This is why the investigation focuses on the person's actual life and evidence, not on the ceremony itself.",
+      "hint": "Ask whether the ceremony creates the holiness, or recognizes something already true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-009",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "Why does the Church teach that honoring the saints does not compete with worship due to God alone?",
+      "choices": [
+        "The honor given the saints is a different kind of act (veneration) directed at creatures who reflect God's own holiness, not the adoration owed to God as Creator",
+        "Because the saints are considered divine themselves",
+        "Because veneration and adoration are simply the same act under different names",
+        "Because the Church has no actual teaching distinguishing the two"
+      ],
+      "correctAnswer": "The honor given the saints is a different kind of act (veneration) directed at creatures who reflect God's own holiness, not the adoration owed to God as Creator",
+      "explanation": "Honoring a saint is honoring what God's grace accomplished in a human life — closer to admiring a masterpiece for what it reveals about the artist than to worshipping the artist's tools. The distinction between dulia (honor to saints) and latria (adoration owed to God alone) exists precisely to keep this clear.",
+      "hint": "Ask what exactly is being honored when a saint is honored — the person alone, or what God did in them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-010",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1380,
+      "prompt": "Match each basic term about the saints to its meaning.",
+      "pairs": [
+        {
+          "left": "Saint (broad sense)",
+          "right": "Any baptized believer, set apart for God"
+        },
+        {
+          "left": "Saint (canonized sense)",
+          "right": "One the Church has formally recognized as certainly in heaven"
+        },
+        {
+          "left": "Canonization",
+          "right": "Recognizing holiness already lived, not creating it"
+        },
+        {
+          "left": "Veneration",
+          "right": "Honor given to a creature reflecting God's holiness, distinct from adoration"
+        }
+      ],
+      "explanation": "Keeping these four distinct answers most casual confusion about the saints in one pass: the word has two senses, the ceremony recognizes rather than creates, and the honor given is a different kind of act than worship of God.",
+      "hint": "Two rows concern the word 'saint' itself; two concern what the Church actually does and why.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 823"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        }
+      ]
+    },
+    {
       "id": "saints-l2-001",
       "topic": "saints",
       "level": 2,
@@ -303,6 +412,101 @@
       ]
     },
     {
+      "id": "saints-l2-007",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1730,
+      "prompt": "St. Perpetua and St. Felicity, martyred together at Carthage around 203 AD, are notable for what specific reason?",
+      "choices": [
+        "A noblewoman and her slave, martyred side by side as equals in the arena, with Perpetua's own prison diary surviving as an eyewitness account",
+        "They were martyred a century apart, never having met",
+        "Only Perpetua's death is historically documented; Felicity is a later legendary addition",
+        "They were martyred for a purely political charge unrelated to their faith"
+      ],
+      "correctAnswer": "A noblewoman and her slave, martyred side by side as equals in the arena, with Perpetua's own prison diary surviving as an eyewitness account",
+      "explanation": "The social barrier between a Roman noblewoman and her slave, otherwise absolute, is dissolved entirely in their shared martyrdom — and Perpetua's own account, written in prison before her death, is one of the earliest surviving texts by a Christian woman.",
+      "hint": "Notice what social distinction their shared death completely erased.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-008",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: St. Lawrence's martyrdom account describes him presenting the poor to the Roman prefect as 'the treasures of the Church' when ordered to hand over the Church's wealth.",
+      "correctAnswer": true,
+      "explanation": "True, and the story's point is theological as much as historical: it names where the Church's real wealth actually lies, against a Roman official's assumption that 'treasure' meant gold and silver.",
+      "hint": "Ask what the prefect expected to be handed over, and what Lawrence handed over instead.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-009",
+      "topic": "saints",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "St. Agnes of Rome, martyred as a young girl around 304 AD, is traditionally depicted with a ____ as her symbol, a play on her name's resemblance to the Latin word for that animal.",
+      "correctAnswer": "lamb",
+      "explanation": "'Agnes' resembles the Latin 'agnus,' lamb — and the lamb also evokes her innocence and her following of Christ, the Lamb of God, to death at a very young age.",
+      "hint": "Her name sounds like the Latin word for this animal, which also symbolizes Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-010",
+      "topic": "saints",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each early martyr to what they are remembered for.",
+      "pairs": [
+        {
+          "left": "Perpetua and Felicity",
+          "right": "Noblewoman and slave martyred together as equals"
+        },
+        {
+          "left": "St. Lawrence",
+          "right": "Presenting the poor as the Church's true treasures"
+        },
+        {
+          "left": "St. Agnes",
+          "right": "A young girl martyred, symbolized by a lamb"
+        },
+        {
+          "left": "St. Sebastian",
+          "right": "A Roman soldier martyred, depicted pierced by arrows"
+        }
+      ],
+      "explanation": "Each of these accounts does real theological work beyond simply recording a death: dissolving a social barrier, redefining treasure, or embodying innocence — the details survive because they carry meaning, not merely as historical trivia.",
+      "hint": "Ask what point, beyond the bare fact of death, each account is actually making.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
       "id": "saints-l3-001",
       "topic": "saints",
       "level": 3,
@@ -436,6 +640,101 @@
         {
           "type": "magisterial_document",
           "reference": "Alexander IV, canonizing St. Clare of Assisi (1255)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-007",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2010,
+      "prompt": "What distinguishes the Dominican charism, founded by St. Dominic de Guzmán, from the Franciscan?",
+      "choices": [
+        "A particular emphasis on study and preaching to combat doctrinal error, especially the Albigensian heresy",
+        "An emphasis on radical poverty above all else",
+        "A cloistered life with no public ministry",
+        "An emphasis on manual labor as the primary form of prayer"
+      ],
+      "correctAnswer": "A particular emphasis on study and preaching to combat doctrinal error, especially the Albigensian heresy",
+      "explanation": "Dominic founded the Order of Preachers specifically to answer the Cathar/Albigensian heresy with sound doctrine delivered by well-formed preachers, which is why the Dominican charism centers on study and preaching rather than on Francis's radical poverty as the defining note.",
+      "hint": "Ask what specific problem in the Church Dominic was responding to when he founded his order.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-008",
+      "topic": "saints",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2050,
+      "prompt": "True or False: St. Clare of Assisi's Poor Clares were founded as an active order engaged primarily in teaching and nursing.",
+      "correctAnswer": false,
+      "explanation": "False. The Poor Clares are a cloistered contemplative order, committed to radical poverty and enclosed prayer rather than active ministry outside the convent — a different form of religious life from active orders, though sharing Francis's commitment to poverty.",
+      "hint": "Ask whether this order's members live and work primarily inside or outside the convent walls.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 925"
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-009",
+      "topic": "saints",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2090,
+      "prompt": "St. Benedict's motto for monastic life is often summarized in Latin as 'ora et ____' — prayer and work.",
+      "correctAnswer": "labora",
+      "explanation": "Benedictine life balances prayer and manual or intellectual labor rather than treating one as more spiritual than the other — both are integrated into a single rhythm of monastic life, which is why Benedictine houses became centers of both prayer and practical learning across medieval Europe.",
+      "hint": "The missing word is Latin for 'work.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-010",
+      "topic": "saints",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2120,
+      "prompt": "Match each founder to the order or reform they are remembered for.",
+      "pairs": [
+        {
+          "left": "St. Benedict",
+          "right": "Western monasticism, 'ora et labora'"
+        },
+        {
+          "left": "St. Francis",
+          "right": "Radical poverty and the Friars Minor"
+        },
+        {
+          "left": "St. Dominic",
+          "right": "The Order of Preachers, combating doctrinal error"
+        },
+        {
+          "left": "St. Ignatius of Loyola",
+          "right": "The Society of Jesus, approved 1540"
+        }
+      ],
+      "explanation": "Each founder answered a distinct need of his own era — organized monastic life, radical poverty as gospel witness, a doctrinal crisis, and a missionary and educational order for a newly global Church — which is why their charisms differ so sharply rather than being interchangeable versions of 'founding an order.'",
+      "hint": "Ask what specific problem or need each founder was actually responding to in his own time.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
         }
       ]
     },
@@ -575,6 +874,105 @@
       ]
     },
     {
+      "id": "saints-l4-007",
+      "topic": "saints",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2370,
+      "prompt": "St. Catherine of Siena, though never formally educated in theology, was named a Doctor of the Church for what reason?",
+      "choices": [
+        "Her eminent doctrine, expressed through her writings and letters (including urging the pope's return to Rome from Avignon), meets the Church's actual criteria regardless of formal academic training",
+        "Because she held an official teaching position within the Church hierarchy",
+        "Because she was the first woman ever canonized",
+        "Because she authored a systematic theological treatise modeled on Aquinas's Summa"
+      ],
+      "correctAnswer": "Her eminent doctrine, expressed through her writings and letters (including urging the pope's return to Rome from Avignon), meets the Church's actual criteria regardless of formal academic training",
+      "explanation": "As covered in Church Fathers L5, the criteria for Doctor of the Church are canonized sanctity, eminent learning, and a papal or conciliar declaration — none of which requires ordination, a university degree, or an institutional teaching post, which is exactly what makes Catherine's case, and Thérèse's after her, possible.",
+      "hint": "Recall the actual three conditions for this title from earlier in this database.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-008",
+      "topic": "saints",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2410,
+      "prompt": "True or False: St. John of the Cross's 'dark night' describes a purification God brings about, not a sign of the soul's failure or abandonment.",
+      "correctAnswer": true,
+      "explanation": "True, and this echoes the Prayer topic's own treatment of the same material: the darkness is God's action, withdrawing sensible consolation so the soul's attachment shifts from spiritual gifts to God himself, not evidence that something has gone wrong.",
+      "hint": "Recall how this same concept was treated in the Prayer topic's discernment-of-spirits material.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2712"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-009",
+      "topic": "saints",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2440,
+      "prompt": "St. Thérèse of Lisieux called her approach to holiness the 'Little ____,' trusting in God's mercy through small acts of love rather than heroic deeds.",
+      "correctAnswer": "Way",
+      "explanation": "Her path is often mistaken for an easier alternative to heroic sanctity. It is not a lower bar — trusting entirely in mercy rather than one's own achievement is, for many people, considerably harder than a program of visible heroic effort.",
+      "hint": "This two-word phrase is her own name for her spiritual approach.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-010",
+      "topic": "saints",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2470,
+      "prompt": "Match each mystic or Doctor to the fact they are remembered for.",
+      "pairs": [
+        {
+          "left": "Teresa of Ávila",
+          "right": "The Interior Castle, mapping the soul's stages toward God"
+        },
+        {
+          "left": "John of the Cross",
+          "right": "The dark night as God's purifying action, not failure"
+        },
+        {
+          "left": "Catherine of Siena",
+          "right": "Urging the pope's return to Rome from Avignon"
+        },
+        {
+          "left": "Thérèse of Lisieux",
+          "right": "The Little Way — mercy trusted, not heroism achieved"
+        }
+      ],
+      "explanation": "None of these four held ecclesiastical office, and their influence on the Church's self-understanding of holiness has been immense regardless — a real counterweight to any assumption that sanctity's deepest insights require institutional authority to be recognized.",
+      "hint": "Ask what office, if any, each of these four held in the Church's institutional structure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2712"
+        }
+      ]
+    },
+    {
       "id": "saints-l5-001",
       "topic": "saints",
       "level": 5,
@@ -706,6 +1104,107 @@
         {
           "type": "magisterial_document",
           "reference": "John Paul II, canonizing St. Faustina Kowalska (2000)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-007",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "St. Josephine Bakhita's canonization carries a particular significance given her early life. What is it?",
+      "choices": [
+        "A woman who endured enslavement is honored by the Church as a saint, a direct answer in the Church's own life to the evil she suffered",
+        "She is remembered chiefly as a theologian who wrote extensively on the sacraments",
+        "She founded a large missionary order that still operates today",
+        "Her canonization concerned a miracle unrelated to her early life"
+      ],
+      "correctAnswer": "A woman who endured enslavement is honored by the Church as a saint, a direct answer in the Church's own life to the evil she suffered",
+      "explanation": "Her cause and canonization stand as a direct, embodied answer within the Church's own life to the evil of slavery she endured as a child — sanctity achieved not despite her suffering being erased, but carrying that history forward transformed by grace.",
+      "hint": "Ask what her canonization actually says, given what was done to her earlier in her life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2414"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-008",
+      "topic": "saints",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: St. Faustina Kowalska's visions of Christ, which gave rise to the Divine Mercy devotion, have been formally approved by the Church.",
+      "correctAnswer": true,
+      "explanation": "True. After an earlier period of caution, the Church formally approved the Divine Mercy devotion, and Pope John Paul II — who had personal devotion to it — canonized Faustina and established Divine Mercy Sunday, giving the devotion an official place in the universal liturgical calendar.",
+      "hint": "Recall which pope both canonized her and instituted a feast connected to her visions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-009",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2690,
+      "prompt": "What specific act is St. Maximilian Kolbe canonized for?",
+      "choices": [
+        "Volunteering to die in place of a stranger, a husband and father, condemned to starvation at Auschwitz",
+        "Founding a large missionary religious order",
+        "Writing extensively on Mariology before his death",
+        "Escaping the concentration camp and later publicizing conditions there"
+      ],
+      "correctAnswer": "Volunteering to die in place of a stranger, a husband and father, condemned to starvation at Auschwitz",
+      "explanation": "Kolbe offered his own life to spare a fellow prisoner he did not know, chosen for death in the man's place — a single, documented act of self-sacrificing charity at the cost of his own life, which is the specific ground of his canonization.",
+      "hint": "His canonization rests on one specific documented act, not a body of writings or a founded institution.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-010",
+      "topic": "saints",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each modern saint to what they are remembered for.",
+      "pairs": [
+        {
+          "left": "Maximilian Kolbe",
+          "right": "Died in place of a stranger at Auschwitz"
+        },
+        {
+          "left": "Teresa of Calcutta",
+          "right": "Founded the Missionaries of Charity for the poorest of the poor"
+        },
+        {
+          "left": "Faustina Kowalska",
+          "right": "Visions giving rise to the approved Divine Mercy devotion"
+        },
+        {
+          "left": "Josephine Bakhita",
+          "right": "A former slave, canonized as an embodied answer to that evil"
+        }
+      ],
+      "explanation": "All four lived within living memory, which matters: sanctity is not a phenomenon confined to the ancient or medieval Church, but continues to be recognized in people whose lives fall within the twentieth century.",
+      "hint": "Notice what all four of these saints have in common about when they lived.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2414"
         }
       ]
     },
