@@ -1672,7 +1672,7 @@
         "The Church has no teaching on this"
       ],
       "correctAnswer": "The Church entrusts such children to God's mercy and hopes for their salvation, a hope she teaches explicitly rather than merely permits",
-      "explanation": "The Catechism says the Church entrusts these children to God's mercy and allows us to hope there is a way of salvation for them, recalling Christ's tenderness toward children. On limbo specifically: it was never a defined doctrine but a theological hypothesis, the Catechism does not mention it at all, and the International Theological Commission's 2007 study -- approved for publication by Benedict XVI -- set it aside in favour of those grounds for hope. It is not the Church's teaching and should not be offered as though it were. In this conversation the accuracy is pastoral: a mother told the wrong thing here carries it for life.",
+      "explanation": "The Catechism says the Church entrusts these children to God's mercy and allows us to hope there is a way of salvation for them, recalling Christ's tenderness toward children. On limbo: it was never a defined doctrine, it is absent from the Catechism entirely, and the International Theological Commission's 2007 study -- published with Benedict XVI's approval -- declined to endorse it and affirmed grounds for hope instead. It is not the Church's answer and should not be offered as though it were. Note too what the liturgy was already doing: the Holy Innocents, killed by Herod and unbaptised, have been venerated as martyrs and saints since antiquity. In this conversation the accuracy is pastoral -- a mother told the wrong thing here carries it for life.",
       "hint": "Ask whether hope here is something the Church merely tolerates or something she actually teaches.",
       "citations": [
         {
@@ -1828,6 +1828,62 @@
         {
           "type": "ccc",
           "reference": "CCC 1257"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-013",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1960,
+      "prompt": "The Church keeps the feast of the Holy Innocents on 28 December, honouring the children Herod killed. What does that feast establish about unbaptised children?",
+      "choices": [
+        "That the Church has venerated unbaptised children as martyrs and saints since antiquity, long before any theory about their fate was proposed",
+        "That only children killed in that particular event can be saved",
+        "That the feast is symbolic and makes no claim about the children themselves",
+        "That baptism was not required in the apostolic age"
+      ],
+      "correctAnswer": "That the Church has venerated unbaptised children as martyrs and saints since antiquity, long before any theory about their fate was proposed",
+      "explanation": "This is a liturgical argument, and it carries real weight: how the Church prays expresses what she believes. She was already keeping a feast for unbaptised children held to be in glory centuries before limbo was proposed as a hypothesis. Their case is also the clearest instance of baptism of blood -- they died for Christ without ever receiving the sacrament, though they could not have chosen it.",
+      "hint": "Ask what the Church was already doing liturgically, before anyone theorised about the question.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 2:16-18"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1258"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Feast of the Holy Innocents (28 December)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-014",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1950,
+      "prompt": "True or False: Because the Holy Innocents could not consciously choose martyrdom, their veneration as saints tells us nothing about children who die without baptism today.",
+      "correctAnswer": false,
+      "explanation": "False, and the reasoning matters. The Innocents were incapable of an act of will, and the Church venerates them as martyrs regardless -- which shows she does not treat the absence of a personal choice as an obstacle to God's saving action. That is precisely the point at issue for any infant who dies unbaptised, which is why the ITC's 2007 study appealed to this feast among its liturgical grounds for hope.",
+      "hint": "Ask what the Innocents were capable of choosing, and whether the Church's veneration of them depended on it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1261"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1258"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Feast of the Holy Innocents (28 December)"
         }
       ]
     }
