@@ -154,6 +154,101 @@
       ]
     },
     {
+      "id": "dogmas-and-doctrine-l1-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1250,
+      "prompt": "The Church confesses that the three divine Persons are really distinct from one another. What distinguishes them?",
+      "choices": [
+        "Their relations of origin to one another — begetting, being begotten, and proceeding",
+        "Their differing degrees of divinity",
+        "The different works each performs in the world",
+        "The order in which they came into existence"
+      ],
+      "correctAnswer": "Their relations of origin to one another — begetting, being begotten, and proceeding",
+      "explanation": "The Persons are distinguished by relation alone, not by anything in the divine nature itself. The Father is Father in relation to the Son; the distinction is real, and it is entirely relational — which is why it does not divide the one God into parts.",
+      "hint": "What makes a father a father is not a substance he has, but whom he stands in relation to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 255"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: The Church confesses that Jesus Christ is true God and true man, not a mixture of the two producing something that is neither.",
+      "correctAnswer": true,
+      "explanation": "True. The Incarnation is not a blend. Christ is fully God and fully man, and if either is diluted the whole point collapses: only God can save, and only a man can stand in for men.",
+      "hint": "A mixture of two things is usually a third thing that is neither of them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 464"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1500,
+      "prompt": "The Nicene Creed confesses that the Holy Spirit 'proceeds from the Father ____ the Son' — the clause known in Latin as the Filioque.",
+      "correctAnswer": "and",
+      "explanation": "'Filioque' is literally 'and the Son.' The Latin Church added it to confess that the Spirit proceeds from the Father and the Son as from one principle — a phrase that became one of the long-running points of difference with the East.",
+      "hint": "The Latin word itself is the answer, translated.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 246-248"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1550,
+      "prompt": "Match each dogma to what it actually affirms.",
+      "pairs": [
+        {
+          "left": "Immaculate Conception",
+          "right": "Mary preserved from original sin from the first instant of her conception"
+        },
+        {
+          "left": "Hypostatic union",
+          "right": "One divine Person subsisting in two complete natures"
+        },
+        {
+          "left": "Consubstantiality",
+          "right": "The Son shares the very substance of the Father"
+        },
+        {
+          "left": "Resurrection of the body",
+          "right": "Our bodies, not only our souls, share in eternal life"
+        }
+      ],
+      "explanation": "Each is regularly misheard. The Immaculate Conception concerns Mary's conception rather than Christ's; consubstantiality concerns substance rather than mere likeness; the resurrection concerns the body rather than the soul's survival alone.",
+      "hint": "One of these is very often confused with the Virgin Birth.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 491"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 467"
+        }
+      ]
+    },
+    {
       "id": "dogmas-and-doctrine-l2-001",
       "topic": "dogmas-and-doctrine",
       "level": 2,
@@ -292,6 +387,90 @@
           "type": "scripture",
           "reference": "Genesis 1:31",
           "quote": "God looked at everything he had made, and found it very good."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1770,
+      "prompt": "Creation is the work of which divine Person?",
+      "choices": [
+        "All three — creation is the common work of the Holy Trinity",
+        "The Father alone",
+        "The Son alone, as the Word through whom all was made",
+        "The Spirit alone, as the giver of life"
+      ],
+      "correctAnswer": "All three — creation is the common work of the Holy Trinity",
+      "explanation": "The Church confesses creation as the inseparable work of the whole Trinity, even while Scripture names the Father as source, the Word as the one through whom all was made, and the Spirit as the giver of life. The outward works of God are never divided among the Persons.",
+      "hint": "The Creed names the Father as Creator, but the Prologue of John and the Creed's third article complicate any exclusive answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 292"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1800,
+      "prompt": "True or False: Having created the world, God now leaves it to run on its own; his upholding of creation ended when creation was finished.",
+      "correctAnswer": false,
+      "explanation": "False. God does not abandon what he creates. Creation is upheld in being at every moment; withdraw that sustaining and it would simply cease. This is the difference between the Christian doctrine of creation and a clockmaker god.",
+      "hint": "Consider whether creation is an event that finished or a relationship that continues.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 301"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1830,
+      "prompt": "The Church teaches that the human person is a unity of body and soul, so profoundly that the soul is called the '____' of the body.",
+      "correctAnswer": "form",
+      "explanation": "Calling the soul the form of the body rules out treating a person as a soul temporarily housed in matter. Body and soul are one nature, which is why the body's destiny is resurrection rather than disposal.",
+      "hint": "The term is borrowed from Aristotle and adopted by the Church precisely to prevent a dualist reading.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1850,
+      "prompt": "What does the Church teach about guardian angels?",
+      "choices": [
+        "From infancy to death, human life is surrounded by their watchful care and intercession",
+        "They are a pious legend with no doctrinal standing",
+        "They are assigned only to the baptised",
+        "They are the souls of the faithful departed"
+      ],
+      "correctAnswer": "From infancy to death, human life is surrounded by their watchful care and intercession",
+      "explanation": "Angels are purely spiritual creatures with intellect and will, not departed human souls — a distinction worth keeping, since the popular idea that people become angels confuses two quite different kinds of creature.",
+      "hint": "Note what angels are NOT: they were never human.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 336"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
         }
       ]
     },
@@ -443,6 +622,109 @@
       ]
     },
     {
+      "id": "dogmas-and-doctrine-l3-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2060,
+      "prompt": "Scripture presents Christ as the new Adam. What is the structure of the comparison?",
+      "choices": [
+        "As by one man's disobedience many were made sinners, so by one man's obedience many will be made righteous",
+        "As Adam was created first, so Christ was created before all things",
+        "As Adam named the animals, so Christ names the saved",
+        "As Adam was formed from earth, so Christ was formed from heaven"
+      ],
+      "correctAnswer": "As by one man's disobedience many were made sinners, so by one man's obedience many will be made righteous",
+      "explanation": "The parallel is obedience answering disobedience, and it explains why the Cross saves. Christ undoes the refusal at the root of the human situation by rendering the obedience Adam withheld.",
+      "hint": "The hinge word is a moral act, and its opposite.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 5:19"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 411"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2100,
+      "prompt": "True or False: The Ascension means Christ's humanity — not only his divinity — has entered heaven definitively.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the whole point of it. Christ does not shed his human nature on the way up. A man is now in glory, which is why the Ascension is a promise about our destiny and not merely a departure.",
+      "hint": "Ask what Christ took with him, and whether he left anything behind.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 665"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2130,
+      "prompt": "Christ said the Son of Man came not to be served but to serve, and to give his life as a ____ for many.",
+      "correctAnswer": "ransom",
+      "explanation": "The ransom image says the cost was real without specifying who was paid — a question Scripture leaves open and the Church has declined to answer as though it were a transaction between God and the devil.",
+      "hint": "The word implies a price paid to free a captive.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Mark 10:45"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 605"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each moment of the Paschal Mystery to what the Church confesses about it.",
+      "pairs": [
+        {
+          "left": "Passion and death",
+          "right": "The obedience by which the many are made righteous"
+        },
+        {
+          "left": "Descent to the dead",
+          "right": "Christ brings the Gospel to the righteous who died before him"
+        },
+        {
+          "left": "Resurrection",
+          "right": "Not a return to earthly life but entry into a glorified state"
+        },
+        {
+          "left": "Ascension",
+          "right": "Human nature definitively enters God's heavenly domain"
+        }
+      ],
+      "explanation": "Treating these as four moments of one mystery rather than four separate events is the point. Each is unintelligible alone: a death without resurrection is a defeat, a resurrection without ascension leaves the story unfinished.",
+      "hint": "They are consecutive, and each completes something the previous one began.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 571"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 631"
+        }
+      ]
+    },
+    {
       "id": "dogmas-and-doctrine-l4-001",
       "topic": "dogmas-and-doctrine",
       "level": 4,
@@ -585,6 +867,101 @@
       ]
     },
     {
+      "id": "dogmas-and-doctrine-l4-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2360,
+      "prompt": "What distinguishes actual grace from sanctifying grace?",
+      "choices": [
+        "Sanctifying grace is a habitual, abiding gift; actual graces are God's interventions at particular moments",
+        "Sanctifying grace is for the clergy; actual grace is for the laity",
+        "Sanctifying grace is earned; actual grace is free",
+        "They are two names for the same reality"
+      ],
+      "correctAnswer": "Sanctifying grace is a habitual, abiding gift; actual graces are God's interventions at particular moments",
+      "explanation": "One is a state, the other is an act. Sanctifying grace is a stable participation in God's own life; actual graces are the particular promptings that begin conversion or carry a person through a given moment.",
+      "hint": "One answers 'what am I?' and the other answers 'what is God doing right now?'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2000"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: The Church teaches that God has bound himself to the sacraments, so that grace can never reach anyone who, through no fault of their own, has not received them.",
+      "correctAnswer": false,
+      "explanation": "False, and the distinction is deliberate. The Church is bound to the sacraments as the ordinary means Christ entrusted to her; God is not bound by them. That is why the Church can affirm the necessity of baptism and still hope for those who never received it.",
+      "hint": "The sentence is true of the Church but not of God — notice which one the question names.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1257"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2430,
+      "prompt": "The Second Vatican Council calls the Eucharist the source and ____ of the Christian life.",
+      "correctAnswer": "summit",
+      "explanation": "Source and summit together, not one or the other: everything in the Church flows from the Eucharist and everything is ordered back toward it. Calling it merely one sacrament among seven misses the claim being made.",
+      "hint": "The pair names both where the Christian life begins and where it is heading.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1324"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each term about grace and the sacraments to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Ex opere operato",
+          "right": "Efficacy from the rite itself, not the minister's holiness"
+        },
+        {
+          "left": "Sacramental character",
+          "right": "An indelible seal, conferred once and never repeated"
+        },
+        {
+          "left": "Sanctifying grace",
+          "right": "A habitual share in God's own life"
+        },
+        {
+          "left": "Actual grace",
+          "right": "God's particular help at a given moment"
+        }
+      ],
+      "explanation": "Two of these describe where sacramental power comes from and what it permanently marks; two describe what grace is in the soul. Keeping the pairs apart prevents the common error of treating grace as a quantity dispensed by a rite.",
+      "hint": "Two are about the sacrament, two are about the soul.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    },
+    {
       "id": "dogmas-and-doctrine-l5-001",
       "topic": "dogmas-and-doctrine",
       "level": 5,
@@ -723,6 +1100,105 @@
           "type": "scripture",
           "reference": "1 Corinthians 15:52",
           "quote": "in an instant, in the blink of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised incorruptible, and we shall be changed."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2630,
+      "prompt": "The Church calls the life of heaven the 'beatific vision.' What does that name claim?",
+      "choices": [
+        "That the blessed see God as he is, face to face, and this seeing is itself their blessedness",
+        "That the blessed receive a vision of the whole history of the world",
+        "That the blessed enjoy every earthly good in perfected form",
+        "That the blessed are absorbed into God and cease to be distinct persons"
+      ],
+      "correctAnswer": "That the blessed see God as he is, face to face, and this seeing is itself their blessedness",
+      "explanation": "Heaven's joy is not a reward alongside God but God himself, seen directly. The persons remain themselves — this is communion, not absorption, which is what separates the Christian hope from accounts where the self dissolves.",
+      "hint": "The name joins two words: seeing, and being made happy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1028"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2670,
+      "prompt": "True or False: Purgatory is a second chance, where those who died refusing God may still change their minds.",
+      "correctAnswer": false,
+      "explanation": "False. Purgatory is for those who die in God's friendship but still imperfectly purified. It is not a reversal of a final refusal; it completes a choice already made, rather than reopening it.",
+      "hint": "Ask who purgatory is for — the question is about their state at death, not their destination.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1030"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1031"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2700,
+      "prompt": "The Catechism describes heaven as the perfect life of ____ with the Trinity and with all the blessed — a shared life, not a solitary reward.",
+      "correctAnswer": "communion",
+      "explanation": "Heaven is relational the whole way down. The saints are not each privately content; the blessedness is shared, which is why the communion of saints and the hope of heaven are ultimately the same doctrine.",
+      "hint": "The word also names the bond between the living and the dead in Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1024"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each teaching about the end to its precise content.",
+      "pairs": [
+        {
+          "left": "Particular judgment",
+          "right": "Immediately at death, each soul meets its definitive destiny"
+        },
+        {
+          "left": "Purgatory",
+          "right": "Purification of those who die in grace but imperfectly purified"
+        },
+        {
+          "left": "Hell",
+          "right": "Definitive self-exclusion from communion with God"
+        },
+        {
+          "left": "Last Judgment",
+          "right": "At the end of time, the resurrection of all and the revealing of all"
+        }
+      ],
+      "explanation": "Two of these happen to an individual, two at the end of history. Hell's definition matters most: the Church describes it as self-exclusion, which locates the cause in a creature's refusal rather than in God's withholding.",
+      "hint": "Two are personal and immediate; two are universal and final.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1022"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1033"
         }
       ]
     },
@@ -876,6 +1352,107 @@
       ]
     },
     {
+      "id": "dogmas-and-doctrine-l6-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Papal infallibility applies under specific conditions. Which describes them correctly?",
+      "choices": [
+        "When, as supreme pastor, he proclaims by definitive act a doctrine of faith or morals to be held by the whole Church",
+        "Whenever he speaks publicly on any matter",
+        "Whenever he writes an encyclical",
+        "In all his personal opinions on faith and morals"
+      ],
+      "correctAnswer": "When, as supreme pastor, he proclaims by definitive act a doctrine of faith or morals to be held by the whole Church",
+      "explanation": "The conditions are narrow and cumulative: acting as universal pastor, defining by a definitive act, on faith or morals, for the whole Church. Most papal teaching does not meet them, which does not make it unimportant — it makes it a different kind of teaching.",
+      "hint": "Four conditions must hold together; failing any one of them changes what kind of act it is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: The Church teaches there is an order or 'hierarchy' of truths, since they vary in their relation to the foundation of the Christian faith.",
+      "correctAnswer": true,
+      "explanation": "True, and it is often misread. A hierarchy of truths does not mean lower truths are optional; it means they are ordered to the central mysteries and understood through them. The Trinity and the Incarnation are foundational in a way a particular Marian dogma is not, without the latter being negotiable.",
+      "hint": "The claim is about how truths relate to the foundation, not about which ones may be dropped.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 90"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Lumen Gentium 22 teaches that the college of bishops has authority only when understood in a specific way. Which?",
+      "choices": [
+        "Together with the Roman Pontiff as its head, never apart from him",
+        "As a body that may act independently of the Pope",
+        "Only when a majority of bishops agree",
+        "Only during an ecumenical council"
+      ],
+      "correctAnswer": "Together with the Roman Pontiff as its head, never apart from him",
+      "explanation": "Collegiality and primacy are not competing forces to be balanced. The college is never without its head, which is why bishops teaching in union with the Pope carries a weight that the same bishops acting against him would not.",
+      "hint": "The college is defined by including someone in particular, not by counting numbers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 22"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each ecclesiological term to what it precisely means.",
+      "pairs": [
+        {
+          "left": "Subsistit in",
+          "right": "The Church of Christ subsists in the Catholic Church, with real elements found beyond her visible bounds"
+        },
+        {
+          "left": "Extraordinary magisterium",
+          "right": "A definitive defining act, whether papal or conciliar"
+        },
+        {
+          "left": "Ordinary universal magisterium",
+          "right": "Bishops worldwide, with the Pope, teaching one doctrine definitively"
+        },
+        {
+          "left": "Hierarchy of truths",
+          "right": "Doctrines ordered by their relation to the foundation of the faith"
+        }
+      ],
+      "explanation": "All four are routinely stretched past their meaning in argument. 'Subsistit in' is the sharpest example: it was chosen deliberately over 'is' to say the fullness is here without denying what is genuinely present elsewhere.",
+      "hint": "Two concern how the Church teaches, one where she is found, one how her doctrines relate.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 8"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 90"
+        }
+      ]
+    },
+    {
       "id": "dogmas-and-doctrine-l7-001",
       "topic": "dogmas-and-doctrine",
       "level": 7,
@@ -1021,6 +1598,119 @@
           "type": "council",
           "reference": "Council of Ephesus (431)",
           "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l7-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector cites the 'brothers of the Lord' in the Gospels against Mary's perpetual virginity. What is the Church's response?",
+      "choices": [
+        "The term renders a Semitic usage covering close kin generally, and the Church has always read it that way",
+        "The passages are late additions to the text",
+        "The Church concedes the point and treats the doctrine as optional",
+        "The brothers are understood as Joseph's children by Mary"
+      ],
+      "correctAnswer": "The term renders a Semitic usage covering close kin generally, and the Church has always read it that way",
+      "explanation": "Hebrew and Aramaic lacked a distinct word for cousin, so 'brother' covers a wider range of kinship than the English word. This is not a later rescue of an awkward text; it is how the Church has read those passages from the beginning.",
+      "hint": "The question is what the underlying language could and could not distinguish.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 500"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l7-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: The Church calls Mary Mother of the Church because she is mother of Christ the Head, and therefore mother of his members.",
+      "correctAnswer": true,
+      "explanation": "True, and the logic runs through Christ rather than around him. Mary's motherhood of the Church is derived from her motherhood of its Head; it is not a separate honour added on top.",
+      "hint": "The title follows from a relationship she already has, by way of who the Church is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 963"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 53"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l7-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objection runs: 'If a doctrine isn't stated explicitly in Scripture, the Church invented it.' What does the Church actually hold about how revelation is handed on?",
+      "choices": [
+        "Scripture and Tradition flow from one divine source and are handed on together; the Church does not draw certainty from Scripture alone",
+        "Tradition may add new revelation after the apostles",
+        "Scripture alone is authoritative, and Tradition is merely custom",
+        "Doctrine is decided by each generation's consensus"
+      ],
+      "correctAnswer": "Scripture and Tradition flow from one divine source and are handed on together; the Church does not draw certainty from Scripture alone",
+      "explanation": "The objection assumes a standard the Church never accepted, then finds her failing it. Public revelation closed with the apostles; understanding it deepens without anything new being added — which is a different claim from invention.",
+      "hint": "Ask whether the objection's own premise is one the Church ever held.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l7-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each common objection to the precise point that answers it.",
+      "pairs": [
+        {
+          "left": "'The Immaculate Conception means Mary needed no saviour'",
+          "right": "She was redeemed more perfectly, by preservation rather than rescue"
+        },
+        {
+          "left": "'Praying to Mary is worship'",
+          "right": "Hyperdulia is honour, not the adoration owed to God alone"
+        },
+        {
+          "left": "'Indulgences sell forgiveness'",
+          "right": "They remit temporal punishment for sin already forgiven"
+        },
+        {
+          "left": "'Mary as mediatrix rivals Christ'",
+          "right": "Her role neither obscures nor diminishes the one mediation of Christ"
+        }
+      ],
+      "explanation": "Each objection is answered by a distinction rather than a denial. Notice the pattern: the Church rarely says the objector has described something she does not do — she says they have described it imprecisely, and the precision is the answer.",
+      "hint": "None of these is answered by saying 'we don't do that.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 971"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1471"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 62"
         }
       ]
     }
