@@ -134,6 +134,111 @@
       ]
     },
     {
+      "id": "sacred-scripture-l1-007",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 950,
+      "prompt": "What does the Catechism teach about the human authors of Scripture?",
+      "choices": [
+        "God chose them and employed them as true authors, using their own faculties and powers, while he himself remains the book's principal author",
+        "They were mere secretaries with no real authorial role of their own",
+        "They wrote independently of any divine involvement",
+        "Their individual personalities and styles are absent from the text"
+      ],
+      "correctAnswer": "God chose them and employed them as true authors, using their own faculties and powers, while he himself remains the book's principal author",
+      "explanation": "Inspiration does not erase the human author's mind, style, or historical situation; it works through them. This is why Paul's letters sound like Paul and the Psalms carry real human anguish and joy, even while the whole is genuinely God's own word.",
+      "hint": "Ask whether inspiration bypasses the human writer or works through him.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 106"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-008",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1050,
+      "prompt": "True or False: The Catechism teaches that God is the author of both Testaments.",
+      "correctAnswer": true,
+      "explanation": "True, and it matters against a lingering assumption that the Old Testament is somehow a lesser or superseded text. Both Testaments have God as their author and both retain permanent value, even though the Old is read in light of the New's fulfillment of it.",
+      "hint": "Ask whether authorship of Scripture is divided between the Testaments or shared across both.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 121"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-009",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What does 'inerrancy' mean as the Church actually teaches it?",
+      "choices": [
+        "Scripture teaches, without error, the truth God wanted put into it for the sake of our salvation",
+        "Every sentence in the Bible is a precise scientific or historical claim",
+        "The Bible contains no figurative or poetic language whatsoever",
+        "Inerrancy applies only to the New Testament"
+      ],
+      "correctAnswer": "Scripture teaches, without error, the truth God wanted put into it for the sake of our salvation",
+      "explanation": "Dei Verbum's own careful wording is that Scripture teaches without error the truth for the sake of salvation — a claim about the saving truth God intended, not a blanket claim that every incidental detail is a modern scientific report.",
+      "hint": "The Church's own document qualifies exactly what the 'without error' claim is about.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l1-010",
+      "topic": "sacred-scripture",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1280,
+      "prompt": "Match each basic term about Scripture to what it actually claims.",
+      "pairs": [
+        {
+          "left": "Inspiration",
+          "right": "God as principal author, working through real human authors"
+        },
+        {
+          "left": "Inerrancy",
+          "right": "Scripture teaches without error the truth for our salvation"
+        },
+        {
+          "left": "Canon",
+          "right": "The complete, authoritative list of the Bible's books"
+        },
+        {
+          "left": "Old and New Testament",
+          "right": "Both authored by God, read together, neither superseding the other's authorship"
+        }
+      ],
+      "explanation": "Each of these terms is regularly overstated or understated in casual conversation. Precision here is what lets someone answer 'doesn't the Bible have errors' without either dodging the question or conceding more than the Church actually claims.",
+      "hint": "One concerns authorship, one concerns truthfulness, one concerns the list of books, one concerns both Testaments together.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 106"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121"
+        }
+      ]
+    },
+    {
       "id": "sacred-scripture-l2-001",
       "topic": "sacred-scripture",
       "level": 2,
@@ -271,6 +376,101 @@
       ]
     },
     {
+      "id": "sacred-scripture-l2-007",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "What is the literary genre of most of the Book of Psalms?",
+      "choices": [
+        "Poetry — prayers and hymns meant to be sung or recited, using Hebrew parallelism rather than rhyme",
+        "Legal code",
+        "Historical narrative with precise chronology",
+        "Prophetic oracle addressed to foreign nations"
+      ],
+      "correctAnswer": "Poetry — prayers and hymns meant to be sung or recited, using Hebrew parallelism rather than rhyme",
+      "explanation": "Hebrew poetry works by parallelism — restating, contrasting, or building on an idea in a second line — rather than by rhyme, which is why the Psalms translate into other languages more successfully than most poetry does: the structure survives translation.",
+      "hint": "Ask what structural device Hebrew poetry relies on instead of rhyme.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2588"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-008",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The Wisdom literature (Proverbs, Job, Ecclesiastes, and others) is primarily concerned with predicting future historical events.",
+      "correctAnswer": false,
+      "explanation": "False. Wisdom literature reflects on how to live well, on suffering, and on the meaning of life — practical and reflective, not predictive. Confusing it with prophetic literature misreads its entire purpose.",
+      "hint": "Ask whether these books are oriented toward the future or toward how to live now.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2500"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-009",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "The Book of Job wrestles above all with the question of innocent ____, without offering a single tidy resolution to the problem.",
+      "correctAnswer": "suffering",
+      "explanation": "Job is notable precisely for what it does not do: it never gives Job (or the reader) a clean explanation for his suffering. God's answer from the whirlwind reframes the question rather than answering it directly, which is part of why the book still speaks so powerfully to real grief.",
+      "hint": "The whole book centers on why a righteous man endures terrible loss.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2596"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l2-010",
+      "topic": "sacred-scripture",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each Old Testament category to its characteristic content.",
+      "pairs": [
+        {
+          "left": "Pentateuch",
+          "right": "Law and founding narrative, Genesis through Deuteronomy"
+        },
+        {
+          "left": "Historical books",
+          "right": "Israel's story from the conquest through the exile and return"
+        },
+        {
+          "left": "Wisdom literature",
+          "right": "Reflection on how to live, and on suffering and meaning"
+        },
+        {
+          "left": "Prophetic books",
+          "right": "God's word calling Israel to fidelity, not primarily prediction"
+        }
+      ],
+      "explanation": "Note the last two categories are both frequently misread the same way — as though their purpose were forecasting the future — when both are actually oriented toward present fidelity and present meaning.",
+      "hint": "Two of these four categories are commonly mistaken for being about predicting the future.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2500"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2585"
+        }
+      ]
+    },
+    {
       "id": "sacred-scripture-l3-001",
       "topic": "sacred-scripture",
       "level": 3,
@@ -404,6 +604,101 @@
           "type": "ccc",
           "reference": "CCC 125",
           "quote": "The Gospels are the heart of all the Scriptures 'because they are our principal source for the life and teaching of the Incarnate Word, our Saviour.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-007",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2010,
+      "prompt": "What distinguishes the Gospel of John most sharply from the Synoptic Gospels in its portrait of Jesus?",
+      "choices": [
+        "John emphasizes lengthy discourses and explicit statements of Jesus's divine identity ('I am' sayings), where the Synoptics favor parables and shorter sayings",
+        "John omits the crucifixion entirely",
+        "John is the only Gospel written by a non-eyewitness",
+        "John contains no miracles, unlike the Synoptics"
+      ],
+      "correctAnswer": "John emphasizes lengthy discourses and explicit statements of Jesus's divine identity ('I am' sayings), where the Synoptics favor parables and shorter sayings",
+      "explanation": "John's high Christology is stated openly and often (I am the bread of life, the light of the world, the good shepherd), where the Synoptics let Jesus's identity emerge more gradually through action and parable — a real difference in approach, not a contradiction between them.",
+      "hint": "Compare how directly each Gospel has Jesus state who he is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 516"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-008",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2050,
+      "prompt": "True or False: The Catechism describes the Gospels as arising in three identifiable stages: the life and teaching of Jesus, the apostolic preaching, and the written composition by the evangelists.",
+      "correctAnswer": true,
+      "explanation": "True, and this three-stage account is the Church's own careful answer to how eyewitness memory, oral proclamation, and finally written text relate to each other — it neither treats the Gospels as raw transcripts nor as late inventions disconnected from the events.",
+      "hint": "The three stages move from an event, through preaching, to a written text.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-009",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "The Catechism calls the Gospels the '____ of all the Scriptures,' because they are our principal source for Christ's life and teaching.",
+      "correctAnswer": "heart",
+      "explanation": "Calling the Gospels the heart of Scripture does not diminish the rest of the Bible; it names their central place, since everything else in Scripture is read in relation to the Christ the Gospels present directly.",
+      "hint": "The metaphor names the Gospels' central place among all of Scripture's books.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 125"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l3-010",
+      "topic": "sacred-scripture",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each Gospel to a distinguishing note about it.",
+      "pairs": [
+        {
+          "left": "Matthew",
+          "right": "Written with a strong eye to Jesus fulfilling Old Testament prophecy"
+        },
+        {
+          "left": "Mark",
+          "right": "The shortest Gospel, likely the earliest written"
+        },
+        {
+          "left": "Luke",
+          "right": "Paired with Acts, with particular attention to the marginalized"
+        },
+        {
+          "left": "John",
+          "right": "High Christology, extended discourses, and 'I am' sayings"
+        }
+      ],
+      "explanation": "Each evangelist writes with a real theological emphasis and a particular audience in mind, without contradicting the others — four true, complementary portraits of one Christ, not four competing or inconsistent accounts.",
+      "hint": "Each has one especially recognizable feature: brevity, fulfillment, companionship with a second book, or explicit theology.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 516"
         }
       ]
     },
@@ -550,6 +845,101 @@
       ]
     },
     {
+      "id": "sacred-scripture-l4-007",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2370,
+      "prompt": "What is the central theme of Paul's Letter to the Galatians?",
+      "choices": [
+        "Justification comes through faith in Christ, not through works of the Mosaic Law such as circumcision",
+        "The order of offices in the local church",
+        "The proper conduct of the Eucharistic assembly",
+        "A detailed philosophical argument for God's existence"
+      ],
+      "correctAnswer": "Justification comes through faith in Christ, not through works of the Mosaic Law such as circumcision",
+      "explanation": "Galatians is Paul at his most polemical, responding to a specific crisis: some were insisting Gentile converts be circumcised and keep the Mosaic Law. Paul's forceful response shaped how the Church has read the relationship of faith, grace, and the Law ever since.",
+      "hint": "This letter responds to a specific controversy about circumcision and the Mosaic Law.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1991"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-008",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: Revelation (the Apocalypse) is written primarily to satisfy curiosity about the precise timeline of future events.",
+      "correctAnswer": false,
+      "explanation": "False. Revelation is apocalyptic literature written to encourage a persecuted Church with the assurance that God's sovereignty will triumph — its symbolic imagery is meant to console and exhort suffering Christians, not to function as a coded almanac of future dates.",
+      "hint": "Ask what a persecuted first-century audience most needed to hear from this book.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 677"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-009",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2430,
+      "prompt": "The Letter to the Hebrews presents Christ as the perfect and eternal High ____, superior to the Levitical priesthood he fulfills.",
+      "correctAnswer": "Priest",
+      "explanation": "Hebrews' whole argument builds toward this: the old priesthood offered repeated sacrifices that could never fully take away sin, where Christ's single, perfect self-offering accomplishes once for all what the Levitical system could only foreshadow.",
+      "hint": "The letter compares Christ's role to the Old Testament priesthood, and finds him superior to it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1544"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-010",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each New Testament letter to its central theme.",
+      "pairs": [
+        {
+          "left": "Galatians",
+          "right": "Justification by faith, not by works of the Law"
+        },
+        {
+          "left": "Hebrews",
+          "right": "Christ as the perfect and eternal High Priest"
+        },
+        {
+          "left": "James",
+          "right": "Faith without works is dead"
+        },
+        {
+          "left": "Revelation",
+          "right": "Assurance of God's sovereignty for a persecuted Church"
+        }
+      ],
+      "explanation": "Read together, Galatians and James have sometimes been read as though they contradict each other on faith and works — they do not, once each is read for the specific error it is actually correcting rather than pitted against the other in the abstract.",
+      "hint": "Two of these letters are sometimes wrongly read as contradicting each other on faith and works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1991"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1815"
+        }
+      ]
+    },
+    {
       "id": "sacred-scripture-l5-001",
       "topic": "sacred-scripture",
       "level": 5,
@@ -683,6 +1073,107 @@
           "type": "ccc",
           "reference": "CCC 115-118",
           "quote": "According to an ancient tradition, one can distinguish between two senses of Scripture: the literal and the spiritual, the latter being subdivided into the allegorical, moral and anagogical senses."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-007",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2610,
+      "prompt": "Why does the Catechism insist that attention to the literal sense must come before any spiritual reading?",
+      "choices": [
+        "Because the spiritual senses build on and presuppose what the human author actually intended to convey, rather than replacing it",
+        "Because the spiritual senses are unnecessary once the literal sense is established",
+        "Because the literal sense is the only sense the Church actually endorses",
+        "Because the spiritual senses were invented independently of the literal text"
+      ],
+      "correctAnswer": "Because the spiritual senses build on and presuppose what the human author actually intended to convey, rather than replacing it",
+      "explanation": "A spiritual reading detached from the literal sense becomes arbitrary — anything could mean anything. Grounding the spiritual senses in the literal sense first is what keeps typology and allegory disciplined rather than free-floating.",
+      "hint": "Ask what would happen to spiritual interpretation if it had no anchor in what the text actually says.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-008",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: The 'moral sense' of Scripture concerns what a passage teaches us to do, for a just life.",
+      "correctAnswer": true,
+      "explanation": "True. Alongside the allegorical sense (Christ's presence in the text) and the anagogical sense (its meaning for our eternal destiny), the moral sense asks what a passage teaches about acting justly here and now — a practical dimension of reading Scripture.",
+      "hint": "Of the three spiritual senses, this one concerns present action.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1117"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-009",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2690,
+      "prompt": "What are the Catechism's three criteria for interpreting Scripture 'in accordance with the Spirit who inspired it'?",
+      "choices": [
+        "Attention to the content and unity of the whole of Scripture, reading within the living Tradition of the Church, and being attentive to the analogy of faith",
+        "Attention only to the original Hebrew or Greek grammar",
+        "Consulting only the earliest surviving manuscripts",
+        "Relying exclusively on a single Church Father's interpretation"
+      ],
+      "correctAnswer": "Attention to the content and unity of the whole of Scripture, reading within the living Tradition of the Church, and being attentive to the analogy of faith",
+      "explanation": "These three criteria work together to prevent an isolated verse from being read against the coherence of the whole: unity keeps a passage from contradicting the rest of the Bible, Tradition keeps interpretation from floating free of the Church's living understanding, and the analogy of faith checks a reading against the connection of all doctrines to each other.",
+      "hint": "One criterion concerns the whole Bible, one concerns the Church's living understanding, one concerns doctrine's own coherence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 112"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-010",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each sense of Scripture to its focus.",
+      "pairs": [
+        {
+          "left": "Literal sense",
+          "right": "What the human author intended to convey"
+        },
+        {
+          "left": "Allegorical sense",
+          "right": "How the events point to Christ"
+        },
+        {
+          "left": "Moral sense",
+          "right": "How the text teaches us to act justly"
+        },
+        {
+          "left": "Anagogical sense",
+          "right": "How the text points to our eternal destiny"
+        }
+      ],
+      "explanation": "The three spiritual senses do not compete with the literal sense; they build on it. A reading that skips the literal sense entirely, moving straight to allegory, has lost the anchor the Catechism insists on keeping.",
+      "hint": "Three of these are the 'spiritual senses,' built on the foundation of the first.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 117"
         }
       ]
     },
