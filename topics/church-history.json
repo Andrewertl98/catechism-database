@@ -1325,6 +1325,107 @@
       ]
     },
     {
+      "id": "church-history-l6-007",
+      "topic": "church-history",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "What was the core question at issue in the Chinese Rites controversy?",
+      "choices": [
+        "Whether Chinese Catholic converts could continue certain ancestral honoring and Confucian civic rites alongside their new faith",
+        "Whether Chinese converts needed to learn Latin",
+        "Whether missionaries should be permitted to enter China at all",
+        "Whether the Chinese Emperor could be baptized"
+      ],
+      "correctAnswer": "Whether Chinese Catholic converts could continue certain ancestral honoring and Confucian civic rites alongside their new faith",
+      "explanation": "Jesuit missionaries argued these rites were civic and familial customs rather than religious worship of false gods, and so compatible with the faith; other missionary orders disagreed sharply. Rome eventually sided against the Jesuit accommodation, with lasting consequences for the mission's reception in China.",
+      "hint": "The dispute concerns which practices count as religious worship versus civic custom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2104"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-008",
+      "topic": "church-history",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: The Jesuit reducciones in Paraguay were mission settlements that gave the indigenous Guaraní a significant degree of self-governance, relatively protected from colonial exploitation.",
+      "correctAnswer": true,
+      "explanation": "True. The reducciones organized community life, agriculture and defense with real Guaraní participation, and were frequently in tension with colonial slavers and settlers who wanted access to that labor and land — which is part of why the Jesuits' political enemies wanted the order suppressed.",
+      "hint": "Ask who benefited from these settlements existing, and who wanted them gone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2446"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-009",
+      "topic": "church-history",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "What ultimately led to Pope Clement XIV's 1773 suppression of the Society of Jesus?",
+      "choices": [
+        "Sustained political pressure from several European monarchies who saw the Jesuits as a threat to royal authority and colonial economic interests",
+        "A doctrinal condemnation of Jesuit theology by an ecumenical council",
+        "The Jesuits' own request to be dissolved",
+        "A finding that the Society had abandoned its vow of obedience to the Pope"
+      ],
+      "correctAnswer": "Sustained political pressure from several European monarchies who saw the Jesuits as a threat to royal authority and colonial economic interests",
+      "explanation": "This was fundamentally a political suppression rather than a doctrinal condemnation — Bourbon monarchs in France, Spain and Portugal pressed for it over years, and Clement XIV yielded to preserve peace with those courts. The order was restored in 1814 once that political pressure had passed.",
+      "hint": "Ask whether this was a doctrinal finding, or a matter of political pressure from outside the Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l6-010",
+      "topic": "church-history",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each 18th-century episode to what it actually concerned.",
+      "pairs": [
+        {
+          "left": "Chinese Rites controversy",
+          "right": "Whether ancestral rites were compatible with the faith"
+        },
+        {
+          "left": "Unigenitus (1713)",
+          "right": "Condemning Jansenist propositions"
+        },
+        {
+          "left": "Paraguay reducciones",
+          "right": "Guaraní self-governance under Jesuit mission structure"
+        },
+        {
+          "left": "Suppression of the Jesuits (1773)",
+          "right": "Yielding to sustained pressure from European monarchies"
+        }
+      ],
+      "explanation": "Two of these are doctrinal actions by the Church herself; two are the Church responding to external political and cultural pressure. Telling them apart matters for judging how much of this history is properly theological.",
+      "hint": "Two of these four are the Church teaching; two are the Church under external pressure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2104"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
       "id": "church-history-l7-001",
       "topic": "church-history",
       "level": 7,
@@ -1457,6 +1558,107 @@
           "type": "magisterial_document",
           "reference": "Leo XIII, Rerum Novarum (1891)",
           "quote": "the misery and wretchedness pressing so unjustly on the majority of the working class"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-007",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1920,
+      "prompt": "Why did Pope Pius IX refuse to leave the Vatican after Rome was annexed by the Kingdom of Italy in 1870?",
+      "choices": [
+        "He considered himself effectively a prisoner protesting the seizure of the Papal States, a status maintained by his successors until the 1929 Lateran Treaty",
+        "He was under formal house arrest by Italian authorities",
+        "He had taken a private vow never to leave Vatican grounds",
+        "Travel outside Rome was legally forbidden to him"
+      ],
+      "correctAnswer": "He considered himself effectively a prisoner protesting the seizure of the Papal States, a status maintained by his successors until the 1929 Lateran Treaty",
+      "explanation": "This was a self-imposed protest, the 'prisoner of the Vatican' stance, not a legal detention — and it lasted nearly sixty years across four pontificates until Mussolini's government and the Holy See settled the Roman Question with the Lateran Treaty in 1929.",
+      "hint": "Ask whether this was imposed from outside, or a stance the popes themselves chose to maintain.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2244"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-008",
+      "topic": "church-history",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1960,
+      "prompt": "True or False: Leo XIII's Testem Benevolentiae Nostrae (1899) condemned an actual, clearly-articulated American theological movement identical to what the letter describes.",
+      "correctAnswer": false,
+      "explanation": "False, and Leo XIII said so himself: he was warning against a tendency some held, described with care, while noting that if any American Catholics actually held the described opinions, they were not representative of the wider American Church. The letter is a caution against a real danger, not a condemnation of American Catholicism as it actually existed.",
+      "hint": "Read what the letter itself says about whether American Catholics actually held these views.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Testem Benevolentiae Nostrae, Pope Leo XIII (1899)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-009",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1990,
+      "prompt": "Rerum Novarum (1891) staked out a position between which two rival systems on the question of property and labor?",
+      "choices": [
+        "Socialism, which Leo XIII rejected for abolishing private property, and unrestrained capitalism, which he criticized for neglecting workers' welfare",
+        "Monarchism and democracy",
+        "Protestantism and Catholicism",
+        "Feudalism and industrialism, treated as equally acceptable"
+      ],
+      "correctAnswer": "Socialism, which Leo XIII rejected for abolishing private property, and unrestrained capitalism, which he criticized for neglecting workers' welfare",
+      "explanation": "Leo XIII defended the right to private property against socialist abolition while insisting that ownership carries real obligations to workers — a genuine third way, not a compromise splitting the difference, which is why the document founded a distinct tradition of Catholic social teaching rather than simply adopting either side.",
+      "hint": "The document rejects one system for going too far in one direction, and criticizes the other for going too far in the opposite direction.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2425"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-010",
+      "topic": "church-history",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2010,
+      "prompt": "Match each 19th-century document or event to what it actually did.",
+      "pairs": [
+        {
+          "left": "Pastor Aeternus (1870)",
+          "right": "Defined papal infallibility under specific conditions"
+        },
+        {
+          "left": "Loss of the Papal States (1870)",
+          "right": "Began the 'prisoner of the Vatican' period, ended in 1929"
+        },
+        {
+          "left": "Testem Benevolentiae Nostrae (1899)",
+          "right": "Warned against a tendency, not a condemnation of American Catholics as such"
+        },
+        {
+          "left": "Rerum Novarum (1891)",
+          "right": "Founded Catholic social teaching between socialism and unchecked capitalism"
+        }
+      ],
+      "explanation": "This century moved from asserting papal authority in its clearest form to engaging the era's largest social and political questions — a real breadth of concern within thirty years.",
+      "hint": "Two of these concern the papacy's own status; two concern the Church's teaching on society.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2244"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2425"
         }
       ]
     },
@@ -1599,6 +1801,107 @@
           "type": "magisterial_document",
           "reference": "Pius XI, Divini Redemptoris (1937)",
           "quote": "Communism is intrinsically wrong, and no one who would save Christian civilization may collaborate with it in any undertaking whatsoever."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-007",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2090,
+      "prompt": "What specifically made Mit Brennender Sorge (1937) notable in its distribution?",
+      "choices": [
+        "It was smuggled into Germany and read from Catholic pulpits on the same Sunday, before the Nazi regime could suppress it",
+        "It was the first papal encyclical ever written in German",
+        "It was read only to bishops in a private consistory",
+        "It was distributed exclusively outside Germany"
+      ],
+      "correctAnswer": "It was smuggled into Germany and read from Catholic pulpits on the same Sunday, before the Nazi regime could suppress it",
+      "explanation": "Getting the text into Germany and read simultaneously, before censors could react, was itself a significant clandestine operation — the delivery method is part of the document's historical weight, not incidental to it.",
+      "hint": "Ask how the document actually reached German Catholics under a hostile regime.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Mit Brennender Sorge, Pope Pius XI (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-008",
+      "topic": "church-history",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2130,
+      "prompt": "True or False: Divini Redemptoris (1937), issued days after Mit Brennender Sorge, condemned communism while also proposing a positive social program rather than only criticism.",
+      "correctAnswer": true,
+      "explanation": "True. The encyclical does not stop at condemning atheistic communism; it lays out Catholic social principles as the constructive alternative, continuing the line begun in Rerum Novarum. Reading it as pure condemnation without a positive program misses half of what it does.",
+      "hint": "Ask whether the document only criticizes, or also proposes something in place of what it rejects.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Divini Redemptoris, Pope Pius XI (1937)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-009",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2150,
+      "prompt": "The 1933 Reichskonkordat between the Holy See and Germany is frequently criticized in retrospect. What is the most historically accurate framing of that criticism?",
+      "choices": [
+        "It provided the new Nazi government early international legitimacy, even though it also secured specific legal guarantees for Catholic institutions the regime soon violated anyway",
+        "It explicitly endorsed Nazi racial ideology",
+        "It was negotiated after the war had already begun",
+        "It was rejected and never actually signed"
+      ],
+      "correctAnswer": "It provided the new Nazi government early international legitimacy, even though it also secured specific legal guarantees for Catholic institutions the regime soon violated anyway",
+      "explanation": "Both things are true and worth holding together: the treaty is criticized for the legitimacy it lent a new, still-consolidating regime, and it did secure real protections that regime broke almost immediately — which is exactly why Mit Brennender Sorge, protesting those violations, followed only four years later.",
+      "hint": "Ask what the treaty was meant to secure, and whether the other side actually honored it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2244"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-010",
+      "topic": "church-history",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each document to the persecution or ideology it responded to.",
+      "pairs": [
+        {
+          "left": "Mit Brennender Sorge (1937)",
+          "right": "Nazi violations of the Reichskonkordat and persecution of the Church in Germany"
+        },
+        {
+          "left": "Divini Redemptoris (1937)",
+          "right": "Atheistic communism"
+        },
+        {
+          "left": "Acerba Animi (1932)",
+          "right": "Persecution of the Church in Mexico"
+        },
+        {
+          "left": "Reichskonkordat (1933)",
+          "right": "An attempt to secure legal protection for German Catholics, soon violated"
+        }
+      ],
+      "explanation": "Three of these are direct condemnations; one is a treaty that failed to hold. Including the failed treaty alongside the condemnations is deliberate — understanding why it failed is part of understanding why the condemnations became necessary.",
+      "hint": "Three are responses after the fact; one is an attempt at prevention that did not work.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Mit Brennender Sorge, Pope Pius XI (1937)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Divini Redemptoris, Pope Pius XI (1937)"
         }
       ]
     },
@@ -1763,6 +2066,103 @@
       ]
     },
     {
+      "id": "church-history-l9-007",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2280,
+      "prompt": "In his 2005 address to the Roman Curia, Benedict XVI contrasted two ways of interpreting Vatican II. What were they?",
+      "choices": [
+        "A 'hermeneutic of rupture,' treating the council as a break with prior tradition, against a 'hermeneutic of reform in continuity,' treating it as renewal within the same faith",
+        "A liberal interpretation versus a traditionalist interpretation, treated as equally legitimate",
+        "An interpretation based on the documents versus one based on the bishops' private diaries",
+        "A Roman interpretation versus a global one"
+      ],
+      "correctAnswer": "A 'hermeneutic of rupture,' treating the council as a break with prior tradition, against a 'hermeneutic of reform in continuity,' treating it as renewal within the same faith",
+      "explanation": "Benedict named this distinction as the central interpretive question of the council's reception, and both progressive over-readings and traditionalist rejections of Vatican II, in his account, share the same mistaken premise: that the council represented a rupture rather than a development within one continuous tradition.",
+      "hint": "The key word in the correct pairing is 'rupture' versus 'continuity.'",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Address to the Roman Curia, Pope Benedict XVI (2005)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-008",
+      "topic": "church-history",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2320,
+      "prompt": "True or False: The Society of St. Pius X's principal doctrinal objection to Vatican II centers specifically on Dignitatis Humanae, the declaration on religious liberty.",
+      "correctAnswer": true,
+      "explanation": "True. Their central concern is whether that document's teaching on religious liberty is compatible with prior magisterial statements — a genuine and specific theological dispute, worth naming precisely rather than treating their objection as a vague general dissatisfaction with the council.",
+      "hint": "Their objection concerns one particular document, not the council as an undifferentiated whole.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2106"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-009",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2340,
+      "prompt": "What has Benedict XVI and other commentators identified as distinguishing Vatican II from earlier ecumenical councils?",
+      "choices": [
+        "It defined no new dogma and issued no anathemas, being pastoral rather than aimed at condemning a specific error",
+        "It was not attended by the Pope",
+        "Its documents were never formally promulgated",
+        "It was the first council to include lay observers, unlike any council before it"
+      ],
+      "correctAnswer": "It defined no new dogma and issued no anathemas, being pastoral rather than aimed at condemning a specific error",
+      "explanation": "Earlier councils typically convened to settle a specific error, attaching anathemas to their canons. Vatican II presented the faith pastorally to the modern world rather than condemning a named heresy — a structural difference worth understanding before reading the council for definitions it was not built to provide.",
+      "hint": "Ask what earlier councils typically attached to their canons, and whether this one did.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2106"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-010",
+      "topic": "church-history",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each term from Vatican II's reception debate to what it refers to.",
+      "pairs": [
+        {
+          "left": "Hermeneutic of rupture",
+          "right": "Reading the council as a break with prior tradition"
+        },
+        {
+          "left": "Hermeneutic of continuity",
+          "right": "Reading the council as renewal within the same faith"
+        },
+        {
+          "left": "Bologna School",
+          "right": "A historiographical approach emphasizing the council as a new beginning"
+        },
+        {
+          "left": "SSPX's central objection",
+          "right": "Dignitatis Humanae's teaching on religious liberty"
+        }
+      ],
+      "explanation": "Debates about Vatican II are frequently conducted in vague terms. Naming the actual schools and the actual document at issue turns a fog of opinion into a specific, checkable disagreement.",
+      "hint": "Two of these are competing interpretive lenses; one is a scholarly school; one is a specific document.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Address to the Roman Curia, Pope Benedict XVI (2005)"
+        }
+      ]
+    },
+    {
       "id": "church-history-l10-001",
       "topic": "church-history",
       "level": 10,
@@ -1920,6 +2320,111 @@
       ],
       "tags": [
         "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-history-l10-007",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2470,
+      "prompt": "What did the CDF's Libertatis Nuntius (1984) and Libertatis Conscientia (1986) together illustrate about the Church's engagement with liberation theology?",
+      "choices": [
+        "A pattern of criticizing a specific error (uncritical adoption of Marxist analysis) while affirming a genuine, related concern (the Church's preferential option for the poor)",
+        "A wholesale rejection of any concern for the poor as a legitimate theological theme",
+        "Two contradictory documents that were never reconciled",
+        "An uncritical endorsement of both documents' original sources"
+      ],
+      "correctAnswer": "A pattern of criticizing a specific error (uncritical adoption of Marxist analysis) while affirming a genuine, related concern (the Church's preferential option for the poor)",
+      "explanation": "The pairing follows a pattern seen elsewhere in this topic: identify the load-bearing error precisely — treating Marxist class analysis as the interpretive key to the Gospel — while explicitly retaining what was legitimate in the concern that gave rise to the movement. Neither document alone gives the full picture.",
+      "hint": "Ask whether the second document walks back the first, or completes it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Libertatis Nuntius, CDF (1984)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Libertatis Conscientia, CDF (1986)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-008",
+      "topic": "church-history",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2500,
+      "prompt": "True or False: Archbishop Óscar Romero was canonized by Pope Francis in 2018 as a martyr for the faith.",
+      "correctAnswer": true,
+      "explanation": "True. His cause had been debated for years over whether his 1980 assassination, while celebrating Mass, was a political killing or martyrdom in the technical theological sense — a real distinction the Church takes seriously rather than treating every violent death of a churchman as automatically a martyrdom.",
+      "hint": "His cause was genuinely contested on this exact distinction before the canonization.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-009",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2520,
+      "prompt": "Pope Francis's 2020 exhortation Querida Amazonia, following the Synod on the Amazon, is most accurately described as:",
+      "choices": [
+        "A pastoral reflection on the region's ecological, cultural and evangelical needs, notably declining to mandate the synod's proposal to ordain married men in remote areas",
+        "A binding decree implementing every proposal the synod had voted on",
+        "A document focused exclusively on ecology, with no pastoral content",
+        "A condemnation of the synod's entire process"
+      ],
+      "correctAnswer": "A pastoral reflection on the region's ecological, cultural and evangelical needs, notably declining to mandate the synod's proposal to ordain married men in remote areas",
+      "explanation": "Post-synodal exhortations are not obligated to enact every synod proposal, and this one is a clear case: Francis engaged the synod's concerns broadly while explicitly not adopting its most-discussed specific proposal, which surprised commentators expecting an automatic implementation.",
+      "hint": "Ask whether a post-synodal document is required to adopt every proposal a synod discussed.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Querida Amazonia, Pope Francis (2020)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-010",
+      "topic": "church-history",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each late 20th- or 21st-century document or event to what it actually did.",
+      "pairs": [
+        {
+          "left": "Libertatis Nuntius (1984)",
+          "right": "Criticized uncritical adoption of Marxist analysis in liberation theology"
+        },
+        {
+          "left": "Libertatis Conscientia (1986)",
+          "right": "Affirmed the legitimate concern for the poor within the same debate"
+        },
+        {
+          "left": "Canonization of Óscar Romero (2018)",
+          "right": "Recognized his death as martyrdom after years of contested cause"
+        },
+        {
+          "left": "Querida Amazonia (2020)",
+          "right": "Pastoral reflection declining to mandate the synod's married-clergy proposal"
+        }
+      ],
+      "explanation": "All four show the same pattern that recurs across the whole modern period covered in this topic: the Church engaging a real, live pastoral tension by affirming what is legitimate in a concern while declining to adopt the specific proposal or error attached to it.",
+      "hint": "Notice the recurring shape: engage the real concern, but do not adopt the specific error or proposal wholesale.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Libertatis Nuntius, CDF (1984)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Querida Amazonia, Pope Francis (2020)"
+        }
       ]
     }
   ]
