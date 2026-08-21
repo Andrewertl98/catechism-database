@@ -701,6 +701,119 @@
       ]
     },
     {
+      "id": "apologetics-l5-007",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2610,
+      "prompt": "Before engaging Islamic claims, what does the Church herself say about Muslims?",
+      "choices": [
+        "That they profess to hold the faith of Abraham and together with us adore the one, merciful God, mankind's judge on the last day",
+        "That their worship is directed to no real God at all",
+        "That the Church has no position on Islam",
+        "That Muslims are to be regarded as a Christian heresy"
+      ],
+      "correctAnswer": "That they profess to hold the faith of Abraham and together with us adore the one, merciful God, mankind's judge on the last day",
+      "explanation": "This is the Church's own starting point, and it is not a diplomatic softening before the real argument. Genuine disagreement about Christ is not diminished by first saying accurately what is shared. An apologetic that cannot state this has not understood the Church's position.",
+      "hint": "The Catechism's section on Muslims is warmer than most people expect. Start there.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 841"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l5-008",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2640,
+      "prompt": "Stating a position fairly comes before answering it. Which accurately describes what Islam holds about Jesus?",
+      "choices": [
+        "A great prophet, born of a virgin, who was not crucified and is not divine",
+        "An ordinary teacher with no special status",
+        "The Son of God, though not crucified",
+        "A figure Islam makes no claims about"
+      ],
+      "correctAnswer": "A great prophet, born of a virgin, who was not crucified and is not divine",
+      "explanation": "Islam honours Jesus highly — as prophet, as born of the Virgin Mary, as Messiah — while denying both the crucifixion and the divinity. Getting this right matters practically: an argument aimed at a position no Muslim holds convinces no one and damages the witness of the person making it.",
+      "hint": "Two of these claims Islam affirms strongly, and two it denies.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 841"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l5-009",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2670,
+      "prompt": "True or False: Because the Church acknowledges what is true and holy in other religions, she also holds that Christ is one saviour among several.",
+      "correctAnswer": false,
+      "explanation": "False, and holding both halves is the whole difficulty. The Church rejects nothing true and holy in other religions while confessing Christ as the unique mediator. Dropping either half is easier than carrying both, which is why relativism and dismissiveness are each more common than the actual Catholic position.",
+      "hint": "The Church affirms two things here that are harder to hold together than either alone.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Dominus Iesus, CDF (2000)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l5-010",
+      "topic": "apologetics",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2700,
+      "prompt": "Match each mode of engagement to what it properly addresses.",
+      "pairs": [
+        {
+          "left": "Ecumenism",
+          "right": "Restoring unity among divided Christians"
+        },
+        {
+          "left": "Interreligious dialogue",
+          "right": "Engagement with those who are not Christian"
+        },
+        {
+          "left": "Apologetics",
+          "right": "Giving a reasoned account of the faith to whoever asks"
+        },
+        {
+          "left": "Proclamation",
+          "right": "Announcing Christ directly to those who have not received him"
+        }
+      ],
+      "explanation": "Confusing these produces most of the bad practice in this area — treating a Muslim as a separated brother, or treating a Protestant as a non-Christian, or mistaking dialogue for an agreement to stop believing anything in particular.",
+      "hint": "One concerns divided Christians, one non-Christians, and two concern how the faith is offered.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio 1"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        }
+      ]
+    },
+    {
       "id": "apologetics-l6-001",
       "topic": "apologetics",
       "level": 6,
@@ -846,6 +959,100 @@
           "type": "ccc",
           "reference": "CCC 156",
           "quote": "miracles of Christ and the saints, prophecies, the Church's growth and holiness, and her fruitfulness and stability... adapted to the intelligence of all"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-007",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The Qur'an directs the People of the Gospel to judge by what was revealed in it (Surah 5:47), tells the People of the Scripture they stand on nothing until they uphold the Torah and the Gospel (5:68), and tells Muhammad to ask those who read the scripture before him if he is in doubt (10:94). What structural problem does this create for a later claim that those scriptures were corrupt?",
+      "choices": [
+        "It appeals to those scriptures as a standard, which presupposes they were reliable and available at the time the appeal was made",
+        "It shows the Qur'an rejects the earlier scriptures entirely",
+        "It proves the Torah and Gospel were lost before the seventh century",
+        "It creates no tension, since the appeal was purely rhetorical"
+      ],
+      "correctAnswer": "It appeals to those scriptures as a standard, which presupposes they were reliable and available at the time the appeal was made",
+      "explanation": "The difficulty is internal, which is what gives it force. One does not send a doubter to consult a text one regards as unreliable. The corruption claim has to explain why that instruction was given at all — and it must place the corruption before the instruction, not after.",
+      "hint": "Ask what an instruction to consult a text assumes about that text.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-008",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Applying the bibliographical test from earlier in this level to the claim that the Gospels were substantially corrupted after the seventh century, what does the manuscript evidence show?",
+      "choices": [
+        "Manuscripts predating the seventh century by centuries agree substantially with later ones, leaving no window for a wholesale later corruption",
+        "No manuscripts survive from before the seventh century",
+        "The earliest manuscripts differ so radically that no text can be reconstructed",
+        "The evidence is silent either way"
+      ],
+      "correctAnswer": "Manuscripts predating the seventh century by centuries agree substantially with later ones, leaving no window for a wholesale later corruption",
+      "explanation": "This is a question about evidence, not authority, which is why it can be examined by anyone. Copies from long before the seventh century exist and can be compared with later ones. A corruption thorough enough to remove the crucifixion and the divinity of Christ would have to appear in that comparison, and it does not.",
+      "hint": "The test is the same one applied to Tacitus earlier in this level: how many copies, and how close to the original.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-009",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: An argument drawn from an opponent's own accepted premises is weaker than one drawn from your own, because it does not appeal to your authorities.",
+      "correctAnswer": false,
+      "explanation": "False — it is usually stronger, precisely because it needs no shared authority. An internal argument asks only whether a position is consistent with itself. Quoting the Catechism to someone who does not accept it settles nothing; showing that their own premises pull in different directions does not depend on their accepting anything new.",
+      "hint": "Consider which kind of argument requires the other person to already agree with you.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l6-010",
+      "topic": "apologetics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Scripture says the word of the Lord endures forever, and the Qur'an says none can change the words of Allah (Surah 18:27). If both are granted, what follows for the corruption claim?",
+      "choices": [
+        "It sits awkwardly with both: a text God is said to have given and protected cannot also have been substantially lost",
+        "It follows straightforwardly, since preservation refers only to the Qur'an",
+        "It is confirmed, since only one book was promised protection",
+        "Nothing follows either way"
+      ],
+      "correctAnswer": "It sits awkwardly with both: a text God is said to have given and protected cannot also have been substantially lost",
+      "explanation": "This is the move worth learning: rather than chasing the corruption claim through the evidence, return to the original premise. If the earlier scriptures were given by God, and God's words cannot be changed, then the corruption claim is in tension with the very source being appealed to.",
+      "hint": "Go back to what was said about those scriptures in the first place, rather than arguing about manuscripts.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 40:8"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 1:25"
         }
       ]
     },
@@ -1001,6 +1208,119 @@
           "type": "ccc",
           "reference": "CCC 156",
           "quote": "miracles of Christ and the saints, prophecies, the Church's growth and holiness, and her fruitfulness and stability... adapted to the intelligence of all"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-007",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A Muslim friend says the Gospel was corrupted, so its testimony about the crucifixion cannot count. Walking the argument properly, which sequence is strongest?",
+      "choices": [
+        "Grant the Qur'an's own high view of the earlier scriptures, note that it directs people to consult them, and ask why God would send a doubter to a text he knew to be corrupt",
+        "Assert that the Bible is inspired and require that it be accepted on that basis",
+        "Point out inconsistencies in the Qur'an unrelated to this question",
+        "Argue that the corruption claim is offensive and decline to discuss it"
+      ],
+      "correctAnswer": "Grant the Qur'an's own high view of the earlier scriptures, note that it directs people to consult them, and ask why God would send a doubter to a text he knew to be corrupt",
+      "explanation": "The order matters as much as the content. Quoting Scripture as authoritative begs the question with someone who does not grant its authority. Beginning inside the other position, granting its premises, and following them where they lead requires nothing to be conceded in advance — and it keeps the conversation about the argument rather than about who is being insulted.",
+      "hint": "One of these requires the other person to accept your authority before the argument can start.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-008",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A Protestant friend holds that Scripture alone is the rule of faith. Which question exposes the difficulty most directly?",
+      "choices": [
+        "How is the list of which books belong in Scripture itself known from Scripture alone, given that no book contains that list",
+        "Why do Protestants reject the papacy",
+        "Why did the Reformation happen in the sixteenth century",
+        "Why do Protestant denominations differ from one another"
+      ],
+      "correctAnswer": "How is the list of which books belong in Scripture itself known from Scripture alone, given that no book contains that list",
+      "explanation": "The canon question is a genuine dilemma rather than a debating point. Either the list is derivable from Scripture alone — but no book of Scripture contains it — or it was discerned by an authority outside the text, which is what the principle denies. The other three questions are worth discussing but none of them puts the principle under its own weight.",
+      "hint": "Ask where the table of contents came from, and whether that source is itself Scripture.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-009",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: An internal argument succeeds when the other person is shown to be wrong, so the goal is to get them to concede the point in the conversation.",
+      "correctAnswer": false,
+      "explanation": "False, and this is where a good argument most often goes wrong. Winning a concession on the spot is rarely how anyone changes their mind; it usually hardens them. The purpose is to remove an obstacle and leave something worth thinking about later — apologetics aims at an invitation, not a scoreboard, and a person pushed into a corner has been given a reason to stop listening.",
+      "hint": "Recall what the first level of this topic said the goal of apologetics actually is.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-010",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each apologetic situation to the approach that actually fits it.",
+      "pairs": [
+        {
+          "left": "A claim that rests on the other side's own texts",
+          "right": "An internal argument granting their premises and following them"
+        },
+        {
+          "left": "A claim about what a manuscript record shows",
+          "right": "Evidence anyone can examine, independent of authority"
+        },
+        {
+          "left": "A claim that a doctrine was invented later",
+          "right": "The historical record of when it was already being disputed"
+        },
+        {
+          "left": "A wound rather than an argument",
+          "right": "Listening first; an argument answers the wrong thing"
+        }
+      ],
+      "explanation": "The fourth is the one most often mishandled. Some objections are not requests for information — the abuse crisis, a death, a hostile experience of the Church — and answering them with evidence, however sound, treats a person as a position. Recognising which kind of objection is in front of you comes before choosing a tool.",
+      "hint": "Only three of these four are actually asking a question.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
         }
       ]
     }
