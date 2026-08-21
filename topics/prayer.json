@@ -220,6 +220,71 @@
       ]
     },
     {
+      "id": "prayer-l1-011",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "Someone wants to begin praying daily but has never done it. What does the tradition actually advise as a first step?",
+      "choices": [
+        "Choose a short fixed time and keep it, even badly — faithfulness to the appointment matters more at the start than what happens in it",
+        "Wait until they feel moved to pray",
+        "Begin with an hour of silence",
+        "Read several books on prayer before attempting any"
+      ],
+      "correctAnswer": "Choose a short fixed time and keep it, even badly — faithfulness to the appointment matters more at the start than what happens in it",
+      "explanation": "The Catechism says plainly that we cannot pray at all times unless we pray at specific times, and that choosing the time and keeping it is where a life of prayer is actually built.\n\nTry it: pick five minutes and a place — the same five minutes tomorrow. Begin with the Sign of the Cross, say the Our Father slowly enough to mean it, and sit for what remains. If your mind wanders the whole time, you have still prayed.",
+      "hint": "The advice concerns when you will pray, before it concerns how.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2710"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-012",
+      "topic": "prayer",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1300,
+      "prompt": "A simple traditional pattern for personal prayer is remembered as ACTS. Match each letter to what it means.",
+      "pairs": [
+        {
+          "left": "Adoration",
+          "right": "Praising God for who he is, before asking anything"
+        },
+        {
+          "left": "Contrition",
+          "right": "Naming what you have done wrong and asking pardon"
+        },
+        {
+          "left": "Thanksgiving",
+          "right": "Naming specific things you have received"
+        },
+        {
+          "left": "Supplication",
+          "right": "Asking for what you and others need"
+        }
+      ],
+      "explanation": "The order is doing work. Beginning with adoration puts petition in its place — you are speaking to someone, not operating something. Many people who say they cannot pray have only ever done the fourth part.\n\nTry it: one sentence for each letter, in order. It takes under two minutes and it is a complete prayer.",
+      "hint": "Only one of these four is asking for something. Notice where it sits.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2644"
+        }
+      ]
+    },
+    {
       "id": "prayer-l2-001",
       "topic": "prayer",
       "level": 2,
@@ -445,6 +510,54 @@
       ]
     },
     {
+      "id": "prayer-l2-011",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1780,
+      "prompt": "What is a 'rule of life' in the Christian tradition?",
+      "choices": [
+        "A modest, written, realistic commitment about when and how you will pray, kept over time and reviewed rather than improvised daily",
+        "A vow binding under sin",
+        "A set of rules only for those in religious orders",
+        "A list of prayers that must be finished each day"
+      ],
+      "correctAnswer": "A modest, written, realistic commitment about when and how you will pray, kept over time and reviewed rather than improvised daily",
+      "explanation": "Improvised prayer collapses under a busy week, because the decision has to be made afresh every day and eventually the answer is no. A rule makes the decision once. The classic counsel is to make it smaller than you think you can manage — a rule you keep forms you, and one you abandon teaches you that you cannot pray.\n\nTry it: write one line. 'I will pray for ten minutes after the kettle boils, every weekday.' That is a rule of life.",
+      "hint": "The word 'rule' here is closer to a trellis than to a law.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2710"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2697"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-012",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1810,
+      "prompt": "True or False: A person who misses their prayer time for a week has broken their rule and should start again with a stricter one.",
+      "correctAnswer": false,
+      "explanation": "False on both counts. Missing is expected — the tradition treats prayer as a battle, not a streak. And responding to failure by tightening the rule is how most rules die: the new one is harder, so it breaks sooner, and the person concludes the fault is in them.\n\nThe counsel is to return without drama and, if a rule breaks repeatedly, make it smaller rather than stricter.",
+      "hint": "Ask what usually happens to a rule made harder after a failure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2742"
+        }
+      ]
+    },
+    {
       "id": "prayer-l3-001",
       "topic": "prayer",
       "level": 3,
@@ -660,6 +773,33 @@
         {
           "type": "ccc",
           "reference": "CCC 1675"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-011",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2080,
+      "prompt": "Someone finds the Rosary's repetition mechanical and distracting. What does the tradition say the repetition is for?",
+      "choices": [
+        "The vocal prayer occupies the surface of the mind so attention can rest on the mystery being contemplated — the words are the setting, not the subject",
+        "The number of prayers is what obtains the grace",
+        "Repetition is meant to induce an altered state",
+        "The repetition is a penance to be endured"
+      ],
+      "correctAnswer": "The vocal prayer occupies the surface of the mind so attention can rest on the mystery being contemplated — the words are the setting, not the subject",
+      "explanation": "Trying to attend fully to the words of every Hail Mary makes the Rosary impossible; that was never the intention. The Hail Marys are a rhythm within which the mind holds a scene from Christ's life.\n\nTry it: pray one decade only. Before it, read the Gospel passage for that mystery. Then let the words carry while you stay with the scene.",
+      "hint": "Ask what your attention is supposed to be resting on while your lips move.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708"
         },
         {
           "type": "ccc",
@@ -1115,6 +1255,48 @@
         {
           "type": "ccc",
           "reference": "CCC 2725"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-011",
+      "topic": "prayer",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2660,
+      "prompt": "Match each movement of lectio divina to what you actually do in it.",
+      "pairs": [
+        {
+          "left": "Lectio",
+          "right": "Read the passage slowly, more than once, noticing a word that stands out"
+        },
+        {
+          "left": "Meditatio",
+          "right": "Turn that word or phrase over; ask what it says to your life now"
+        },
+        {
+          "left": "Oratio",
+          "right": "Respond to God about it, in your own words"
+        },
+        {
+          "left": "Contemplatio",
+          "right": "Stop speaking and rest in his presence, without trying to produce anything"
+        }
+      ],
+      "explanation": "The fourth movement is where people assume they are failing, because nothing appears to be happening. Nothing is supposed to be happening — that is the point of it.\n\nTry it: take five verses, not a chapter. Fifteen minutes. If you only get as far as the second movement, that is a complete lectio.",
+      "hint": "Read, ponder, respond, rest. The last is the one that feels like doing nothing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2717"
         }
       ]
     },
@@ -1642,6 +1824,33 @@
         {
           "type": "ccc",
           "reference": "CCC 2729"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-011",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "The Ignatian Examen is a short daily review. What is it chiefly for?",
+      "choices": [
+        "Noticing where God was present and where you turned away during the day, so the pattern becomes visible over time",
+        "Producing a list of sins for confession",
+        "Assessing whether the day was productive",
+        "Deciding what to pray for tomorrow"
+      ],
+      "correctAnswer": "Noticing where God was present and where you turned away during the day, so the pattern becomes visible over time",
+      "explanation": "It is a review of a day for God's action in it, not an audit. Its power is cumulative: one Examen tells you little, a month of them shows you where you are consistently drawn and consistently defeated.\n\nTry it tonight, five steps, ten minutes: ask for light; give thanks for two specific things; walk through the day noticing where you felt most and least alive; name one thing you regret and ask pardon; choose one concrete thing for tomorrow.",
+      "hint": "Ask what accumulates from doing it every night for a month.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1779"
         }
       ]
     },
@@ -2202,6 +2411,119 @@
         {
           "type": "ccc",
           "reference": "CCC 2693"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-011",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2290,
+      "prompt": "In Ignatian discernment, what distinguishes true spiritual consolation from mere good feeling?",
+      "choices": [
+        "Consolation draws the person toward God, faith, hope and love, and leaves peace; a good feeling that draws toward self-absorption or away from God is not consolation whatever it feels like",
+        "Consolation is always more intense than ordinary happiness",
+        "Any pleasant feeling during prayer is consolation",
+        "Consolation can only occur during formal prayer"
+      ],
+      "correctAnswer": "Consolation draws the person toward God, faith, hope and love, and leaves peace; a good feeling that draws toward self-absorption or away from God is not consolation whatever it feels like",
+      "explanation": "The test is direction, not intensity. This matters because the enemy can offer something that feels excellent while drawing a person away — which is why discernment attends to where a movement leads rather than to how strong it is.",
+      "hint": "Ask what the movement is pulling you toward, not how good it feels.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2847"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-012",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2320,
+      "prompt": "Ignatius describes desolation as darkness, turmoil, and being drawn toward the low and earthly. What are the three classic reasons he gives for God permitting it?",
+      "choices": [
+        "Our own negligence; testing to see how we act without consolation; and to teach that consolation is a gift, not something we produce",
+        "Punishment, abandonment, and the withdrawal of grace",
+        "Illness, fatigue, and external circumstance alone",
+        "It is never permitted by God"
+      ],
+      "correctAnswer": "Our own negligence; testing to see how we act without consolation; and to teach that consolation is a gift, not something we produce",
+      "explanation": "Only the first of the three is the person's fault, which already corrects the usual assumption. The third is the one that reframes everything: someone who has never lost consolation may quietly believe they generated it. Losing it teaches otherwise, and that lesson cannot be taught while it is present.",
+      "hint": "One reason is the person's doing; two are God's teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2847"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-013",
+      "topic": "prayer",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: The Church teaches that trial and temptation are the same thing, since both involve difficulty.",
+      "correctAnswer": false,
+      "explanation": "False, and the Catechism says the Holy Spirit makes us discern between the two. A trial is necessary for the growth of the inner man and leads to life; temptation leads toward sin and death. They can feel identical from inside, which is precisely why discernment is needed rather than mere endurance.",
+      "hint": "They differ not in how hard they are but in where they lead.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2847"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-014",
+      "topic": "prayer",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2340,
+      "prompt": "Match each counsel for a time of desolation to its reason.",
+      "pairs": [
+        {
+          "left": "Change nothing decided in consolation",
+          "right": "Desolation makes abandonment look like realism"
+        },
+        {
+          "left": "Increase prayer rather than reduce it",
+          "right": "The impulse to withdraw is the thing to resist"
+        },
+        {
+          "left": "Speak to someone",
+          "right": "Secrecy is where discouragement grows strongest"
+        },
+        {
+          "left": "Remember consolation will return",
+          "right": "Desolation presents itself as permanent, and is not"
+        }
+      ],
+      "explanation": "Every one of these runs against what desolation itself suggests, which is the point. The counsels are not techniques for feeling better; they are a way of not making decisions in the dark that you would not make in the light.",
+      "hint": "Notice that each counsel is the opposite of what the state inclines you to do.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
         }
       ]
     },
