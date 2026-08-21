@@ -1668,11 +1668,11 @@
       "choices": [
         "The Church entrusts such children to God's mercy and hopes for their salvation, a hope she teaches explicitly rather than merely permits",
         "The Church teaches that unbaptised infants are certainly damned",
-        "The Church teaches limbo as a defined doctrine",
+        "The Church still proposes limbo as her answer to this question",
         "The Church has no teaching on this"
       ],
       "correctAnswer": "The Church entrusts such children to God's mercy and hopes for their salvation, a hope she teaches explicitly rather than merely permits",
-      "explanation": "The Catechism says the Church entrusts these children to God's mercy and allows us to hope there is a way of salvation for them, recalling Christ's tenderness toward children. Limbo was a theological opinion, never a defined doctrine. And in this conversation the accuracy is pastoral: a mother told the wrong thing here carries it for life.",
+      "explanation": "The Catechism says the Church entrusts these children to God's mercy and allows us to hope there is a way of salvation for them, recalling Christ's tenderness toward children. On limbo specifically: it was never a defined doctrine but a theological hypothesis, the Catechism does not mention it at all, and the International Theological Commission's 2007 study -- approved for publication by Benedict XVI -- set it aside in favour of those grounds for hope. It is not the Church's teaching and should not be offered as though it were. In this conversation the accuracy is pastoral: a mother told the wrong thing here carries it for life.",
       "hint": "Ask whether hope here is something the Church merely tolerates or something she actually teaches.",
       "citations": [
         {
@@ -1774,6 +1774,60 @@
         {
           "type": "ccc",
           "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-011",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Objection: 'You teach baptism is necessary for salvation, so everyone who never received it is lost.' What does the Church actually hold?",
+      "choices": [
+        "Alongside baptism of water she has always recognised baptism of blood and baptism of desire, so the necessity of baptism was never a claim that only the water-baptised can be saved",
+        "That only those baptised with water can be saved, without exception",
+        "That baptism is not really necessary after all",
+        "That the question cannot be answered"
+      ],
+      "correctAnswer": "Alongside baptism of water she has always recognised baptism of blood and baptism of desire, so the necessity of baptism was never a claim that only the water-baptised can be saved",
+      "explanation": "Those who die for the faith without having received it are baptised by their death for and with Christ — baptism of blood. Catechumens who die before receiving it are assured salvation by their explicit desire together with repentance and charity — baptism of desire. Neither is a modern softening; both are long-standing, and the objection depends on a version of the doctrine the Church has never taught.",
+      "hint": "The Church names three ways, not one. Two of them involve no water.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1258"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1259"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-012",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1960,
+      "prompt": "Someone asks about a person who never heard the Gospel at all, so could not have desired baptism explicitly. What does the Catechism say?",
+      "choices": [
+        "One who is ignorant of Christ and his Church but seeks the truth and does God's will as they understand it can be saved — an implicit desire for the baptism they would have sought had they known",
+        "Such a person is certainly lost, since desire must be explicit",
+        "Such a person is automatically saved regardless of how they live",
+        "The Church declines to address this case"
+      ],
+      "correctAnswer": "One who is ignorant of Christ and his Church but seeks the truth and does God's will as they understand it can be saved — an implicit desire for the baptism they would have sought had they known",
+      "explanation": "This is neither the rigorism that damns the unevangelised nor the indifferentism that makes the Gospel optional. Salvation still comes through Christ; what is not required is that the person knew his name. The two conditions in the text — seeking the truth and doing God's will as understood — are doing real work and should not be dropped when the passage is quoted.",
+      "hint": "The text sets conditions. Notice what they are before deciding how far it reaches.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1260"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1257"
         }
       ]
     }
