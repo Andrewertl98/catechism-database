@@ -1118,6 +1118,107 @@
       ]
     },
     {
+      "id": "councils-l5-007",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "Vatican II produced four documents ranked as constitutions, its highest category. Which set is correct?",
+      "choices": [
+        "Sacrosanctum Concilium, Lumen Gentium, Dei Verbum, Gaudium et Spes",
+        "Nostra Aetate, Unitatis Redintegratio, Dignitatis Humanae, Ad Gentes",
+        "Lumen Gentium, Humanae Vitae, Dei Verbum, Pastor Aeternus",
+        "Gaudium et Spes, Casti Connubii, Sacrosanctum Concilium, Nostra Aetate"
+      ],
+      "correctAnswer": "Sacrosanctum Concilium, Lumen Gentium, Dei Verbum, Gaudium et Spes",
+      "explanation": "Liturgy, the Church, divine revelation, and the Church in the modern world. The wrong options mix in declarations and decrees, which are real conciliar documents of lower rank, and papal encyclicals, which are not conciliar documents at all.",
+      "hint": "Four subjects: how the Church worships, what she is, how revelation reaches her, and how she meets the world.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-008",
+      "topic": "councils",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: Besides defining papal infallibility, Vatican I also taught that God can be known with certainty by the natural light of human reason.",
+      "correctAnswer": true,
+      "explanation": "True, and the second is easily forgotten. Dei Filius answered fideism as well as rationalism: reason alone cannot reach the mysteries of faith, but neither is it powerless before the question of God. The council that is remembered for limiting private judgement also defended reason's competence.",
+      "hint": "The council answered two opposite errors, not one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-009",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2690,
+      "prompt": "Vatican II differs from most earlier ecumenical councils in one structural respect. Which?",
+      "choices": [
+        "It defined no new dogma and issued no anathemas, being pastoral in purpose",
+        "It was attended only by bishops of the Latin rite",
+        "Its documents were never formally promulgated by a pope",
+        "It reversed definitions of earlier councils"
+      ],
+      "correctAnswer": "It defined no new dogma and issued no anathemas, being pastoral in purpose",
+      "explanation": "Earlier councils typically met to settle a specific error and attached anathemas to their canons. Vatican II was convened to present the faith to the modern world rather than to condemn a particular heresy — which is why reading it for new definitions, whether hopefully or anxiously, misreads what kind of council it was.",
+      "hint": "Consider what earlier councils attached to their canons, and whether this one did.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-010",
+      "topic": "councils",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each Vatican II constitution to its subject.",
+      "pairs": [
+        {
+          "left": "Sacrosanctum Concilium",
+          "right": "The sacred liturgy"
+        },
+        {
+          "left": "Lumen Gentium",
+          "right": "The Church herself"
+        },
+        {
+          "left": "Dei Verbum",
+          "right": "Divine revelation, Scripture and Tradition"
+        },
+        {
+          "left": "Gaudium et Spes",
+          "right": "The Church in the modern world"
+        }
+      ],
+      "explanation": "Each is titled by its own opening words in Latin, so the title is a genuine clue rather than a label chosen afterward. Lumen Gentium — light of the nations — is a claim about what the Church is, made in the first two words of the document about her.",
+      "hint": "Two of these titles translate as 'light of the nations' and 'the word of God'.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
       "id": "councils-l6-001",
       "topic": "councils",
       "level": 6,
@@ -1261,6 +1362,111 @@
           "type": "council",
           "reference": "First Council of Constantinople (381)",
           "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-007",
+      "topic": "councils",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2029,
+      "prompt": "Vatican II's documents carry three ranks: constitutions, decrees and declarations. What does the ranking indicate?",
+      "choices": [
+        "The weight and scope of the document, not whether it is authoritative — all were promulgated by the council",
+        "Which documents are binding and which are optional",
+        "The order in which they were debated",
+        "Which were approved unanimously"
+      ],
+      "correctAnswer": "The weight and scope of the document, not whether it is authoritative — all were promulgated by the council",
+      "explanation": "A declaration such as Nostra Aetate is not a lesser-authority text to be set aside; it is narrower in scope than a dogmatic constitution. Treating the ranking as a scale of optionality is a common way of quietly discarding documents one finds inconvenient.",
+      "hint": "The distinction concerns scope and weight, not whether a document counts.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-008",
+      "topic": "councils",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1979,
+      "prompt": "True or False: A council's canon ending 'anathema sit' was primarily a procedural formula marking a position as excluded from Catholic faith, rather than a personal curse.",
+      "correctAnswer": true,
+      "explanation": "True. The formula marks a proposition as incompatible with the faith and attaches a canonical consequence to holding it obstinately. Read as a curse hurled at individuals it sounds vindictive; read as what it is — a boundary marker in a legal text — it is doing the ordinary work of definition.",
+      "hint": "Ask whether the formula is aimed at a proposition or at a person.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-009",
+      "topic": "councils",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2029,
+      "prompt": "A council's teaching requires papal confirmation to bind the whole Church. What does this reflect about how the college of bishops acts?",
+      "choices": [
+        "The college has no authority apart from its head, so a conciliar act is incomplete without the Pope's confirmation",
+        "The Pope may alter a council's decrees at will after the fact",
+        "The bishops' authority derives entirely from the Pope personally",
+        "Confirmation is an administrative formality with no bearing on authority"
+      ],
+      "correctAnswer": "The college has no authority apart from its head, so a conciliar act is incomplete without the Pope's confirmation",
+      "explanation": "Collegiality and primacy are not rival forces held in balance. The college simply is not the college without its head, which is why confirmation completes a conciliar act rather than approving it from outside. It is also why gatherings of bishops that lacked it are not counted as ecumenical.",
+      "hint": "Ask what the college is, rather than who outranks whom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 22"
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-010",
+      "topic": "councils",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 2069,
+      "prompt": "Match each conciliar term to what it precisely denotes.",
+      "pairs": [
+        {
+          "left": "Canon",
+          "right": "A short condemnation of a specific proposition, often with anathema sit"
+        },
+        {
+          "left": "Chapter",
+          "right": "The positive doctrinal exposition the canons then defend"
+        },
+        {
+          "left": "Constitution",
+          "right": "A conciliar document of the highest weight and scope"
+        },
+        {
+          "left": "Reception",
+          "right": "The Church's living appropriation of what a council taught"
+        }
+      ],
+      "explanation": "The chapter–canon pairing is the one worth internalising: Trent states the doctrine positively in chapters and then fences it negatively in canons. Reading the canons alone yields a Church that only condemns, which is how Trent is most often caricatured.",
+      "hint": "Two of these are parts of a single document's structure, and they work as a pair.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
         }
       ]
     },
@@ -1416,6 +1622,121 @@
           "type": "council",
           "reference": "First Vatican Council, Pastor Aeternus (1870)",
           "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-007",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2264,
+      "prompt": "Someone argues: 'Vatican II contradicted earlier councils on religious liberty, so either it or they must be rejected.' What distinction answers this most precisely?",
+      "choices": [
+        "A development concerning the civil immunity of persons from coercion is not a reversal of a doctrinal definition about truth",
+        "Earlier councils never addressed religious matters",
+        "Vatican II defined religious liberty as a dogma, superseding earlier teaching",
+        "Councils routinely contradict one another and this is expected"
+      ],
+      "correctAnswer": "A development concerning the civil immunity of persons from coercion is not a reversal of a doctrinal definition about truth",
+      "explanation": "The claim depends on treating two different kinds of statement as the same kind. Dignitatis Humanae concerns what civil authority may coerce; it does not assert that one religion is as true as another. Sorting the level of a statement before comparing statements is most of the work in these disputes.",
+      "hint": "Ask what each statement is actually about — coercion by the state, or the truth of a claim.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dignitatis Humanae 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2106"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-008",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2264,
+      "prompt": "A parish council insists a Vatican II declaration may be ignored because 'it is only a declaration, not a constitution.' Where does this reasoning fail?",
+      "choices": [
+        "Rank indicates scope and weight, not whether a document was promulgated or must be received",
+        "It fails only if the declaration was approved unanimously",
+        "It succeeds — declarations are advisory",
+        "It fails because declarations outrank constitutions"
+      ],
+      "correctAnswer": "Rank indicates scope and weight, not whether a document was promulgated or must be received",
+      "explanation": "Every document the council promulgated was promulgated. The ranking tells you how far a text reaches, not whether it counts — and using rank as permission to discard is a move available to anyone, in any direction, which is a good sign it proves too much.",
+      "hint": "Notice the argument would let anyone discard whichever document they liked least.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-009",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2264,
+      "prompt": "Someone says: 'Nicaea was called by an emperor and voted on by bishops, so Christian doctrine was decided by politics.' What is the strongest response?",
+      "choices": [
+        "Convening a council and determining its content are different acts; the dispute Nicaea addressed presupposes a divinity already confessed and contested",
+        "The emperor had no involvement with Nicaea at all",
+        "The bishops did not vote on anything",
+        "Politics and doctrine cannot be distinguished, so the objection is unanswerable"
+      ],
+      "correctAnswer": "Convening a council and determining its content are different acts; the dispute Nicaea addressed presupposes a divinity already confessed and contested",
+      "explanation": "Two separable claims are bundled here. That an emperor summoned the bishops is true and unremarkable; that he settled what they defined does not follow. And a council convenes over a live controversy — there would have been nothing to argue about if the claim had originated there.",
+      "hint": "Separate who paid for the meeting from who determined its outcome.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-010",
+      "topic": "councils",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2304,
+      "prompt": "Match each claim to the conciliar distinction that answers it.",
+      "pairs": [
+        {
+          "left": "'Vatican II reversed earlier teaching'",
+          "right": "Development of doctrine is not reversal of a definition"
+        },
+        {
+          "left": "'A disciplinary decree can never change'",
+          "right": "Discipline governs practice; definitions are irreformable"
+        },
+        {
+          "left": "'Every papal statement is infallible'",
+          "right": "Pastor Aeternus sets four conditions that must hold together"
+        },
+        {
+          "left": "'A council binds the moment it votes'",
+          "right": "Papal confirmation completes the act; reception follows"
+        }
+      ],
+      "explanation": "Each of these confusions runs in both directions in practice — used to dismiss teaching one dislikes, and to inflate teaching one prefers. The distinctions are not defensive footnotes; they are what makes it possible to say precisely what the Church has and has not taught.",
+      "hint": "Each pairs a common overstatement with the precision that deflates it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
         }
       ]
     }
