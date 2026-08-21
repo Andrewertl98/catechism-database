@@ -1312,6 +1312,107 @@
       ]
     },
     {
+      "id": "liturgy-and-mass-l6-007",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "What is the specific function of the 'epiclesis' in the Eucharistic Prayer?",
+      "choices": [
+        "A calling-down of the Holy Spirit upon the gifts, and upon the assembly, so the offering becomes what it signifies",
+        "A recitation of the day's saint",
+        "A blessing given only at the very end of Mass",
+        "A private prayer said silently before Mass begins"
+      ],
+      "correctAnswer": "A calling-down of the Holy Spirit upon the gifts, and upon the assembly, so the offering becomes what it signifies",
+      "explanation": "The epiclesis makes explicit that the consecration is the Spirit's work, not a formula operating automatically apart from the Trinity's action. Eastern liturgies place particular emphasis here; the West includes it too, though its precise placement developed differently across the two traditions.",
+      "hint": "The Greek root concerns 'calling upon' — ask who is being called upon, and for what.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1105"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-008",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: The Roman Canon (Eucharistic Prayer I) is the oldest Eucharistic Prayer still in regular use in the Roman Rite.",
+      "correctAnswer": true,
+      "explanation": "True. Its core text dates to roughly the fourth century and it remained the Roman Rite's only Eucharistic Prayer for many centuries before others were introduced after Vatican II, which is part of why its language and structure differ noticeably from the newer options.",
+      "hint": "This prayer predates the other Eucharistic Prayers commonly used today by many centuries.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-009",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "According to Canon 849, what is the minimum required for a valid Baptism?",
+      "choices": [
+        "Real water, and the Trinitarian formula 'I baptize you in the name of the Father, and of the Son, and of the Holy Spirit'",
+        "A priest and a church building",
+        "Water and the recitation of the Creed",
+        "Oil, water, and a full catechetical program completed beforehand"
+      ],
+      "correctAnswer": "Real water, and the Trinitarian formula 'I baptize you in the name of the Father, and of the Son, and of the Holy Spirit'",
+      "explanation": "This minimal requirement is precisely why any person, in an emergency, can validly baptize — a nurse, a stranger, anyone — using ordinary water and the correct words, even absent a priest or any building at all.",
+      "hint": "Ask what would still make a baptism valid even performed by a layperson in an emergency.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1256"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-010",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1827,
+      "prompt": "Match each precise liturgical term to its meaning.",
+      "pairs": [
+        {
+          "left": "Epiclesis",
+          "right": "Calling down the Holy Spirit upon the gifts and assembly"
+        },
+        {
+          "left": "Roman Canon",
+          "right": "The oldest Eucharistic Prayer still in regular use"
+        },
+        {
+          "left": "Rubric",
+          "right": "An instruction governing how the liturgy is celebrated"
+        },
+        {
+          "left": "Canon 849's minimal requirements",
+          "right": "Water and the Trinitarian formula, sufficient for a valid Baptism"
+        }
+      ],
+      "explanation": "Getting these four precise is what separates informed discussion of the liturgy from casual impressions of it — each names a specific, checkable fact rather than a general vibe about how Mass 'feels.'",
+      "hint": "Two of these concern the Eucharistic Prayer specifically; two concern rules and minimums.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1105"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1256"
+        }
+      ]
+    },
+    {
       "id": "liturgy-and-mass-l7-001",
       "topic": "liturgy-and-mass",
       "level": 7,
@@ -1457,6 +1558,115 @@
           "type": "ccc",
           "reference": "CCC 1367",
           "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-007",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1920,
+      "prompt": "Does the GIRM (General Instruction of the Roman Missal) actually mandate that Mass be celebrated facing the people (versus populum)?",
+      "choices": [
+        "No — the GIRM presumes and accommodates both orientations; versus populum became the common practice after Vatican II by choice, not by explicit mandate",
+        "Yes, the GIRM explicitly forbids ad orientem celebration in any circumstance",
+        "Yes, Vatican II itself defined versus populum as doctrinally required",
+        "The question of orientation was never addressed by any Church document"
+      ],
+      "correctAnswer": "No — the GIRM presumes and accommodates both orientations; versus populum became the common practice after Vatican II by choice, not by explicit mandate",
+      "explanation": "This is a commonly misunderstood point: the widespread post-conciliar shift to facing the people was a pastoral choice encouraged by the reform, not a strict legal requirement overriding the alternative — the rubrics themselves still assume a priest might face either direction at certain points.",
+      "hint": "Ask whether a widespread practice and a strict legal mandate are necessarily the same thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-008",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1950,
+      "prompt": "True or False: A parish may licitly use entirely gluten-free bread for a celiac communicant's Communion.",
+      "correctAnswer": false,
+      "explanation": "False, and this is a real pastoral issue with real consequences. Valid matter for the Eucharist requires at least a trace of gluten; entirely gluten-free hosts are invalid matter. Low-gluten hosts (meeting strict Church guidelines) are the licit accommodation for celiac communicants, not a fully gluten-free substitute.",
+      "hint": "Ask whether 'gluten-free' and 'low-gluten' are the same category here.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1333"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-009",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1970,
+      "prompt": "Someone was validly confirmed as a teenager but felt disconnected from the faith at the time, going through the motions with no real intention. What does the Church hold about that Confirmation?",
+      "choices": [
+        "It remains valid and its indelible character remains, though its fruitfulness in the person's life depends on their disposition; it is never repeated even after a later, more genuine return to faith",
+        "It must be repeated once the person returns to genuine faith",
+        "It was automatically invalid due to the lack of felt devotion at the time",
+        "The Church has no teaching addressing this situation"
+      ],
+      "correctAnswer": "It remains valid and its indelible character remains, though its fruitfulness in the person's life depends on their disposition; it is never repeated even after a later, more genuine return to faith",
+      "explanation": "Validity and fruitfulness are different questions — the sacrament's validity depends on matter, form and the intention to do what the Church does, not on the depth of felt devotion in the moment. A later, more genuine conversion does not require repeating a valid sacrament that already imprinted its permanent character.",
+      "hint": "Recall from level 5 that this sacrament imprints a character that is never repeated — does that still apply here?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l7-010",
+      "topic": "liturgy-and-mass",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each scenario or objection to its correct resolution.",
+      "pairs": [
+        {
+          "left": "'The GIRM requires facing the people'",
+          "right": "Not mandated; both orientations are accommodated"
+        },
+        {
+          "left": "'Gluten-free bread works fine for celiacs'",
+          "right": "Invalid matter; low-gluten hosts are the licit option"
+        },
+        {
+          "left": "'My teenage Confirmation didn't feel real'",
+          "right": "Still valid; fruitfulness and validity are different questions"
+        },
+        {
+          "left": "'The Mass is just a symbolic reenactment'",
+          "right": "An actual sacrifice, making Calvary present, not merely dramatizing it"
+        }
+      ],
+      "explanation": "Every row here corrects a plausible-sounding but mistaken assumption with a precise distinction, which is the actual skill this level is teaching — not memorizing facts in isolation, but catching where a common assumption quietly overreaches what the Church actually holds.",
+      "hint": "Each row corrects an assumption that sounds reasonable but goes further than the Church's actual teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1333"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1362"
         }
       ]
     },
@@ -1609,6 +1819,111 @@
           "type": "ccc",
           "reference": "CCC 1352",
           "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-007",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2090,
+      "prompt": "The Roman Rite's Eucharistic Prayer II is derived from an ancient anaphora attributed to which early figure?",
+      "choices": [
+        "St. Hippolytus of Rome",
+        "St. Augustine of Hippo",
+        "St. Ignatius of Antioch",
+        "Pope St. Gregory the Great"
+      ],
+      "correctAnswer": "St. Hippolytus of Rome",
+      "explanation": "Eucharistic Prayer II draws on the Apostolic Tradition, a third-century text associated with Hippolytus — which is part of why this particular prayer, though shorter than the Roman Canon, is one of the most ancient in origin among the Missal's options.",
+      "hint": "This figure's associated text is a very early Roman church order, from the third century.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-008",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2130,
+      "prompt": "True or False: The Roman Rite's Mass and the Byzantine Divine Liturgy of St. John Chrysostom differ significantly in structure and style while both being fully valid, orthodox expressions of the one Eucharistic sacrifice.",
+      "correctAnswer": true,
+      "explanation": "True. The two rites differ substantially in language, gesture, music and structure, yet the Catholic Church recognizes both as authentic and valid celebrations of the same reality — a real diversity within unity that is easy to lose sight of when only one rite is familiar.",
+      "hint": "Ask whether liturgical uniformity across all rites was ever the Church's actual claim.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1201"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-009",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2150,
+      "prompt": "Why is the Easter Vigil traditionally the Church's primal setting for the sacraments of initiation?",
+      "choices": [
+        "It is the annual celebration of Christ's Resurrection, so being baptized into his death and rising is celebrated at the very feast that makes that death and rising present",
+        "It is simply the most convenient date administratively",
+        "Early converts were required by Roman law to be initiated on this date",
+        "It has no particular theological connection to Baptism"
+      ],
+      "correctAnswer": "It is the annual celebration of Christ's Resurrection, so being baptized into his death and rising is celebrated at the very feast that makes that death and rising present",
+      "explanation": "Baptism is entry into Christ's death and resurrection, so celebrating it at the Vigil that makes that same Paschal mystery present is not a scheduling convenience — it places the sign and the reality it points to at the same moment, which is exactly why RCIA (OCIA) candidates are traditionally received at this liturgy.",
+      "hint": "Ask what Baptism theologically unites a person to, and what feast celebrates that same reality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1217"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l8-010",
+      "topic": "liturgy-and-mass",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each liturgical element to what this level shows about it.",
+      "pairs": [
+        {
+          "left": "Eucharistic Prayer II",
+          "right": "Draws on a third-century anaphora attributed to Hippolytus"
+        },
+        {
+          "left": "Byzantine Divine Liturgy",
+          "right": "Structurally distinct from the Roman Rite, equally valid"
+        },
+        {
+          "left": "Easter Vigil",
+          "right": "The primal setting for initiation, theologically not merely by custom"
+        },
+        {
+          "left": "Liturgy of the Hours' psalmody",
+          "right": "Follows a structured cycle, like the Mass's lectionary"
+        }
+      ],
+      "explanation": "The final entry connects this level's material back to the broader pattern seen throughout this topic: the Church structures her prayer cyclically rather than arbitrarily, whether in the Mass's readings or in the Hours' recitation of the psalms.",
+      "hint": "One of these rows is less about a specific rite and more about a structural principle running through several of them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1201"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1217"
         }
       ]
     },
@@ -1776,6 +2091,111 @@
       ]
     },
     {
+      "id": "liturgy-and-mass-l9-007",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2280,
+      "prompt": "The Syro-Malabar and Chaldean Catholic Churches both trace their liturgical heritage to which ancient tradition?",
+      "choices": [
+        "The East Syriac (Chaldean) liturgical tradition, associated with the ancient Church of the East",
+        "The Byzantine tradition of Constantinople",
+        "The Coptic tradition of Alexandria",
+        "The Roman Latin tradition, adapted for use in India"
+      ],
+      "correctAnswer": "The East Syriac (Chaldean) liturgical tradition, associated with the ancient Church of the East",
+      "explanation": "Both churches are Eastern Catholic churches in full communion with Rome while retaining their own ancient liturgical patrimony — a live example of how full unity with the Pope does not require uniformity of rite, contrary to a common assumption that Catholic automatically means Roman Rite.",
+      "hint": "Both trace to a tradition historically associated with Persia and the ancient Church of the East, distinct from Byzantine or Latin roots.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1201"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-008",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2310,
+      "prompt": "True or False: The Eastern Catholic eucharistic prayers' characteristic emphasis on theosis fits within the same Catholic faith as the Western emphasis on grace and justification, rather than describing a genuinely different destiny.",
+      "correctAnswer": true,
+      "explanation": "True — this echoes a point made in Church Fathers about theosis and Augustinian grace: different theological vocabularies, converging on the same reality of sharing in God's own life, rather than two separate and incompatible eschatologies.",
+      "hint": "Recall the earlier point about theosis and Western grace language describing one destiny, not two.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1996"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-009",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2330,
+      "prompt": "Sacrosanctum Concilium's 'ressourcement' (return-to-the-sources) principle drew reform proposals from which resource above all?",
+      "choices": [
+        "The Church's own more ancient liturgical practices and patristic sources, not merely contemporary preference",
+        "Entirely new composition with no reference to earlier tradition",
+        "Protestant liturgical forms adopted wholesale",
+        "Popular devotional trends of the mid-twentieth century"
+      ],
+      "correctAnswer": "The Church's own more ancient liturgical practices and patristic sources, not merely contemporary preference",
+      "explanation": "Ressourcement means going back to older sources to reform present practice — not inventing something new from nothing, and not simply following contemporary taste. Much of the post-conciliar reform explicitly appealed to patristic and early-medieval precedent as its justification.",
+      "hint": "The word itself means returning to a source — ask which sources were actually being returned to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1091"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l9-010",
+      "topic": "liturgy-and-mass",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each Eastern liturgical fact to what this level says about it.",
+      "pairs": [
+        {
+          "left": "Syro-Malabar and Chaldean Churches",
+          "right": "East Syriac heritage, full communion with Rome without uniform rite"
+        },
+        {
+          "left": "Theosis language",
+          "right": "Converges with Western grace language on one shared destiny"
+        },
+        {
+          "left": "Ressourcement",
+          "right": "Reform grounded in ancient sources, not invented from nothing"
+        },
+        {
+          "left": "Marian feasts like the Assumption",
+          "right": "Connect directly to defined Marian dogma, not separate from it"
+        }
+      ],
+      "explanation": "A recurring theme across this level: apparent diversity — of rite, of vocabulary, of devotional emphasis — turns out on closer inspection to express one underlying unity of faith, rather than marking real division.",
+      "hint": "Every row here is an instance of apparent difference turning out to express the same underlying unity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1201"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1996"
+        }
+      ]
+    },
+    {
       "id": "liturgy-and-mass-l10-001",
       "topic": "liturgy-and-mass",
       "level": 10,
@@ -1929,6 +2349,117 @@
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 47",
           "quote": "a memorial of His death and resurrection: a sacrament of love, a sign of unity, a bond of charity"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-007",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2470,
+      "prompt": "Weighing the ad orientem versus versus populum question using everything built since level 7, what is the most accurate summary position?",
+      "choices": [
+        "Both are licit and neither is doctrinally superior; the GIRM accommodates both, and the post-conciliar preference for facing the people was pastoral, not a correction of previously invalid practice",
+        "Ad orientem celebration has been formally forbidden since Vatican II",
+        "Versus populum is a doctrinal requirement flowing directly from Sacrosanctum Concilium",
+        "The question was never addressed by any Church document and remains entirely a matter of private opinion"
+      ],
+      "correctAnswer": "Both are licit and neither is doctrinally superior; the GIRM accommodates both, and the post-conciliar preference for facing the people was pastoral, not a correction of previously invalid practice",
+      "explanation": "This draws directly on L7-007's point: the widespread shift was a pastoral choice, encouraged but not mandated, which means arguing that one orientation is doctrinally required overstates what any actual document says.",
+      "hint": "This is the same distinction from level 7, applied at full strength: pastoral preference is not the same as doctrinal mandate.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-008",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2480,
+      "prompt": "The Assyrian Church of the East's Anaphora of Addai and Mari lacks an explicit spoken Institution Narrative ('This is my body... this is my blood'). How did the Holy See address whether this anaphora is valid?",
+      "choices": [
+        "The Congregation for the Doctrine of the Faith recognized it as valid in 2001, holding that the words of institution are present in a dispersed, euchological way throughout the prayer rather than as one isolated formula",
+        "The Holy See declared the anaphora entirely invalid and unusable",
+        "The question has never been formally addressed by Rome",
+        "The anaphora was rewritten to insert the missing words"
+      ],
+      "correctAnswer": "The Congregation for the Doctrine of the Faith recognized it as valid in 2001, holding that the words of institution are present in a dispersed, euchological way throughout the prayer rather than as one isolated formula",
+      "explanation": "This 2001 determination is a genuinely advanced point in sacramental theology: it holds that the essential content can be present without one isolated verbal formula, distributed through the prayer's whole structure — a real nuance beyond the simpler picture of consecration as a single fixed sentence.",
+      "hint": "Ask whether the Church required the missing words to be added, or found another way the same content was already present.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1353"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-009",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Sacrosanctum Concilium 47 calls the Eucharist a 'memorial of his death and resurrection... a paschal banquet.' Using anamnesis from level 3, how should 'memorial' be understood here?",
+      "choices": [
+        "As a making-present of the Paschal mystery, not a mere psychological recollection of a past event",
+        "As a purely symbolic remembrance with no objective content",
+        "As referring only to a future event yet to occur",
+        "As a term with no connection to the anamnesis discussed earlier in this topic"
+      ],
+      "correctAnswer": "As a making-present of the Paschal mystery, not a mere psychological recollection of a past event",
+      "explanation": "This is the capstone application of L3's anamnesis material: the document's own word 'memorial' has to be read with the full theological weight established earlier in this topic, not with the thinner, merely psychological sense the English word can carry on its own.",
+      "hint": "This is level 3's term, applied directly to a conciliar document's own wording.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1362"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-010",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each capstone item to what this level resolves.",
+      "pairs": [
+        {
+          "left": "Ad orientem vs. versus populum",
+          "right": "Both licit; a pastoral preference, not a doctrinal mandate"
+        },
+        {
+          "left": "Anaphora of Addai and Mari",
+          "right": "Valid: institution words present dispersed through the prayer"
+        },
+        {
+          "left": "Sacrosanctum Concilium's 'memorial'",
+          "right": "Anamnesis's making-present, not mere psychological recall"
+        },
+        {
+          "left": "This topic as a whole",
+          "right": "Apparent liturgical diversity consistently expressing one underlying faith"
+        }
+      ],
+      "explanation": "The final row is the thread running through every level of this topic: whether the question was orientation, rite, vocabulary, or a missing formula, careful attention kept revealing one underlying reality rather than real division — which is itself a fitting note to end a topic about the liturgy on.",
+      "hint": "The last row names what every earlier row in this topic has actually been an example of.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1353"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1362"
         }
       ]
     }
