@@ -154,6 +154,105 @@
       ]
     },
     {
+      "id": "councils-l1-007",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What makes a council 'ecumenical' rather than local or regional?",
+      "choices": [
+        "It gathers the bishops of the whole Church in union with the Pope, and its teaching binds the universal Church",
+        "It is attended by more than three hundred bishops",
+        "It is held in a city with an apostolic see",
+        "It lasts longer than a single year"
+      ],
+      "correctAnswer": "It gathers the bishops of the whole Church in union with the Pope, and its teaching binds the universal Church",
+      "explanation": "The criterion is universality and union with the Pope, not size or setting. Many large and important synods were never ecumenical, because the college of bishops does not act as a college apart from its head.",
+      "hint": "The test is about who is gathered and with whom, not how many or where.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-008",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1300,
+      "prompt": "True or False: The Emperor Constantine convened the Council of Nicaea, but it was the assembled bishops who defined what the Church believed there.",
+      "correctAnswer": true,
+      "explanation": "True, and the distinction is worth holding onto. An emperor could summon bishops and pay for their travel; he could not settle a doctrinal question. Confusing convening with defining is the seed of the popular claim that Constantine decided Christian doctrine.",
+      "hint": "Separate who called the meeting from who determined its content.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-009",
+      "topic": "councils",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1350,
+      "prompt": "The creed recited at Mass on Sundays is more precisely called the Nicene-____ Creed, because a second council completed what the first began.",
+      "correctAnswer": "Constantinopolitan",
+      "explanation": "Nicaea in 325 settled the Son's divinity; Constantinople in 381 completed the confession of the Holy Spirit. The creed said at Mass is the product of both, which is why the double name is the accurate one.",
+      "hint": "The second council in the name is the one that met in 381.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 195"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-010",
+      "topic": "councils",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1400,
+      "prompt": "Match each of the first four councils to what it contributed to the Creed or to Christology.",
+      "pairs": [
+        {
+          "left": "Nicaea (325)",
+          "right": "The Son is consubstantial with the Father"
+        },
+        {
+          "left": "Constantinople I (381)",
+          "right": "The Holy Spirit is Lord and giver of life"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Mary is Theotokos, since Christ is one Person"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "One Person in two natures, unconfused and undivided"
+        }
+      ],
+      "explanation": "Read in order, they are a single argument rather than four separate events: establish the Son's divinity, then the Spirit's, then the unity of Christ's Person, then how the two natures relate within it.",
+      "hint": "They build on each other in sequence — each answers a question the previous one opened.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465-467"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
+      ]
+    },
+    {
       "id": "councils-l2-001",
       "topic": "councils",
       "level": 2,
@@ -290,6 +389,109 @@
           "type": "ccc",
           "reference": "CCC 884",
           "quote": "The college of bishops exercises power over the universal Church in a solemn manner in an ecumenical council."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-007",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1730,
+      "prompt": "What did the First Council of Constantinople (381) confess about the Holy Spirit?",
+      "choices": [
+        "That he is Lord and giver of life, who with the Father and the Son is adored and glorified",
+        "That he is a created power sent by the Son",
+        "That he is a mode of the Father's activity",
+        "That he proceeds from the Son alone"
+      ],
+      "correctAnswer": "That he is Lord and giver of life, who with the Father and the Son is adored and glorified",
+      "explanation": "The decisive phrase is that the Spirit is adored and glorified together with the Father and Son. Whatever is worshipped is God; the council settled the Spirit's divinity by settling how he is to be worshipped.",
+      "hint": "The clinching argument is about worship, not about a definition of substance.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 245"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-008",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1770,
+      "prompt": "True or False: A council's dogmatic definitions and its disciplinary decrees carry the same permanence, so neither can ever be altered.",
+      "correctAnswer": false,
+      "explanation": "False. A dogmatic definition is irreformable; disciplinary decrees govern practice and can be changed by later authority. Trent's seminary requirements and fasting rules are of a different order from its definition of justification, and treating them alike produces confusion in both directions.",
+      "hint": "Ask whether a rule about how the Church operates and a definition of what she believes are the same kind of statement.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-009",
+      "topic": "councils",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "The first six ecumenical councils were concerned above all with defending orthodox teaching about the person of ____.",
+      "correctAnswer": "Christ",
+      "explanation": "From 325 to 681 the councils circle one question: who Jesus Christ is. Divinity, then the Spirit's divinity as the Trinity is completed, then the unity of his Person, then his two natures, then his two wills. Later councils range more widely; the first six do not.",
+      "hint": "One subject runs through all six, from Nicaea to Constantinople III.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465-467"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-010",
+      "topic": "councils",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each council to the specific term or phrase it contributed.",
+      "pairs": [
+        {
+          "left": "Nicaea (325)",
+          "right": "Homoousios — of the same substance"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Theotokos — God-bearer"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "Without confusion, without change, without division, without separation"
+        },
+        {
+          "left": "Constantinople III (681)",
+          "right": "Two natural wills and two natural operations"
+        }
+      ],
+      "explanation": "Each council is remembered for a phrase because the phrase was the work. A general affirmation would have left the loophole open; the precise term is what closed it.",
+      "hint": "Two of these are single words, and two are formulas.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
         }
       ]
     },
@@ -433,6 +635,115 @@
       ]
     },
     {
+      "id": "councils-l3-007",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "The Fourth Lateran Council (1215) is remembered for a decree that shaped ordinary Catholic practice for centuries. Which?",
+      "choices": [
+        "That the faithful confess serious sins at least once a year and receive Communion at Easter",
+        "That Mass be celebrated only in Latin",
+        "That every diocese hold an annual synod of laity",
+        "That bishops be elected by popular vote"
+      ],
+      "correctAnswer": "That the faithful confess serious sins at least once a year and receive Communion at Easter",
+      "explanation": "The same council that used the word transubstantiated also set the minimum obligation that still stands in the precepts of the Church. Doctrine and practice were legislated together, which is characteristic of how councils actually work.",
+      "hint": "The obligation it created is still one of the precepts of the Church today.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1457"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-008",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2070,
+      "prompt": "True or False: The mutual excommunications of 1054 between Rome and Constantinople were lifted in 1965 by Pope Paul VI and Patriarch Athenagoras.",
+      "correctAnswer": true,
+      "explanation": "True. The mutual anathemas were consigned to oblivion in a joint declaration during the closing period of Vatican II. Lifting them did not restore full communion — the theological differences remained — but it removed a formal obstacle that had stood for nine centuries.",
+      "hint": "The gesture came during the final year of the Second Vatican Council.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-009",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2120,
+      "prompt": "Why did the reunion agreed at Florence (1439) fail to endure?",
+      "choices": [
+        "It was rejected by much of the Eastern clergy and faithful, who had not been party to the negotiations",
+        "The Pope repudiated it immediately",
+        "It was never actually signed by either side",
+        "It was overturned by a later ecumenical council"
+      ],
+      "correctAnswer": "It was rejected by much of the Eastern clergy and faithful, who had not been party to the negotiations",
+      "explanation": "An agreement signed by delegations still has to be received by the churches themselves. Florence is the standard illustration that reception is not a formality appended to a council's work but part of how that work becomes real.",
+      "hint": "Consider who signed the agreement and who then had to live under it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-010",
+      "topic": "councils",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each council or event to its place in East-West relations.",
+      "pairs": [
+        {
+          "left": "Nicaea II (787)",
+          "right": "The last council both East and West recognise as ecumenical"
+        },
+        {
+          "left": "1054",
+          "right": "Mutual excommunications, lifted only in 1965"
+        },
+        {
+          "left": "Lyon II (1274)",
+          "right": "A reunion agreed by delegates and not received at home"
+        },
+        {
+          "left": "Florence (1439)",
+          "right": "A second reunion attempt, also rejected in the East"
+        }
+      ],
+      "explanation": "The pattern across four centuries is the same twice over: agreements reached by negotiators, not received by the faithful. It is why modern ecumenism moves slowly and at the level of the churches rather than through summits.",
+      "hint": "Two of these are reunion attempts that failed the same way.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Lyon (1274)"
+        }
+      ]
+    },
+    {
       "id": "councils-l4-001",
       "topic": "councils",
       "level": 4,
@@ -566,6 +877,101 @@
           "type": "council",
           "reference": "Council of Trent (1545-1563)",
           "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-007",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2370,
+      "prompt": "Which of Trent's reforms had the greatest long-term effect on the formation of parish clergy?",
+      "choices": [
+        "Requiring every diocese to establish a seminary for training priests",
+        "Requiring bishops to be at least fifty years old",
+        "Abolishing all religious orders",
+        "Requiring priests to hold a university doctorate"
+      ],
+      "correctAnswer": "Requiring every diocese to establish a seminary for training priests",
+      "explanation": "Much of what Trent addressed was not doctrinal error but formation. Poorly trained, often absent clergy were a real cause of the crisis, and the seminary decree changed the ordinary shape of Catholic priesthood more durably than most of its canons.",
+      "hint": "The answer concerns an institution most dioceses still operate.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-008",
+      "topic": "councils",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: Trent commissioned a catechism, published in 1566, intended chiefly for parish priests rather than for children.",
+      "correctAnswer": true,
+      "explanation": "True. The Roman Catechism, or Catechism of the Council of Trent, was written as a resource for pastors preaching and instructing. Its audience explains its tone: it assumes a reader who must explain the faith to others, not one meeting it for the first time.",
+      "hint": "Consider who most needed a reliable reference in a period of contested preaching.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-009",
+      "topic": "councils",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2430,
+      "prompt": "Trent's decree on justification teaches that it is not the remission of sins alone, but also the sanctification and renewal of the ____ man.",
+      "correctAnswer": "interior",
+      "explanation": "The word 'interior' carries the disagreement. If justification changed only a person's standing before God, nothing interior would need renewing. Trent insists the change reaches into the person, which is why it can speak of growth in justification at all.",
+      "hint": "The contested question was whether anything changes inside the person, or only their legal standing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification"
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-010",
+      "topic": "councils",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each area of Trent's work to what it actually did there.",
+      "pairs": [
+        {
+          "left": "Justification",
+          "right": "Defined it as real interior renewal, not imputation alone"
+        },
+        {
+          "left": "Scripture and Tradition",
+          "right": "Received both from one source with equal devotion"
+        },
+        {
+          "left": "Clerical formation",
+          "right": "Required a seminary in every diocese"
+        },
+        {
+          "left": "Sacraments",
+          "right": "Affirmed seven, all instituted by Christ"
+        }
+      ],
+      "explanation": "Two of these are doctrinal definitions and two are reforms of practice. Trent is often remembered only for the first kind, which makes it look purely reactive; the disciplinary half is what actually reshaped Catholic life for four centuries.",
+      "hint": "Two answer what the Church believes; two change how she operates.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification"
         }
       ]
     },
