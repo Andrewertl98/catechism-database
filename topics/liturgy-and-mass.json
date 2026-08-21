@@ -138,6 +138,107 @@
       ]
     },
     {
+      "id": "liturgy-and-mass-l1-007",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What does the word 'liturgy' itself literally mean?",
+      "choices": [
+        "A public work or service, originally a work done on behalf of and for the people",
+        "A private devotion said alone",
+        "A written text with no performative sense",
+        "A specifically Latin word with no Greek root"
+      ],
+      "correctAnswer": "A public work or service, originally a work done on behalf of and for the people",
+      "explanation": "'Leitourgia' in Greek meant a public work undertaken for the community. The Church adopted the word precisely because the Mass is not a private devotion happening to be witnessed by others — it is public, communal action from the start.",
+      "hint": "The Greek root concerns something done publicly, for others.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1069"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-008",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: The Mass is considered complete and valid even if no one besides the priest is present.",
+      "correctAnswer": true,
+      "explanation": "True. A priest may licitly celebrate Mass with no congregation present in certain circumstances, since the Mass's validity rests on Christ's action through the priest, not on attendance numbers — though the Church still strongly encourages the faithful's presence and participation.",
+      "hint": "Ask what makes the Mass valid: attendance, or the sacramental action itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-009",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1350,
+      "prompt": "What is the tabernacle, found in every Catholic church?",
+      "choices": [
+        "The receptacle where the consecrated Eucharist is reserved between Masses",
+        "The chair where the priest sits during the readings",
+        "The vessel used to hold holy water at the entrance",
+        "The cloth covering the altar during Mass"
+      ],
+      "correctAnswer": "The receptacle where the consecrated Eucharist is reserved between Masses",
+      "explanation": "The tabernacle's purpose is reservation, chiefly so the Eucharist can be brought to the sick and dying and so the faithful can adore Christ present there outside of Mass — which is also why a sanctuary lamp burns nearby whenever the Eucharist is reserved.",
+      "hint": "Its purpose concerns what happens to the Eucharist after Mass ends.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1379"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l1-010",
+      "topic": "liturgy-and-mass",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1420,
+      "prompt": "Match each basic term to what it names.",
+      "pairs": [
+        {
+          "left": "Liturgy",
+          "right": "Public communal worship, not private devotion"
+        },
+        {
+          "left": "Tabernacle",
+          "right": "Where the Eucharist is reserved between Masses"
+        },
+        {
+          "left": "Sanctuary lamp",
+          "right": "Burns to signal the Eucharist is present"
+        },
+        {
+          "left": "Ite, missa est",
+          "right": "The dismissal giving the Mass its name"
+        }
+      ],
+      "explanation": "These four terms are the ones a first-time visitor to a Catholic church would most need explained, and they connect directly: the lamp signals what the tabernacle holds, and the dismissal that names the Mass sends the assembly out to live what the liturgy just did.",
+      "hint": "One signals, one holds, one names, one sends.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1069"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1379"
+        }
+      ]
+    },
+    {
       "id": "liturgy-and-mass-l2-001",
       "topic": "liturgy-and-mass",
       "level": 2,
@@ -271,6 +372,101 @@
           "type": "ccc",
           "reference": "CCC 1349",
           "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-007",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "Why does the Church use a three-year cycle (Years A, B, C) for Sunday Mass readings?",
+      "choices": [
+        "So the faithful hear a much broader portion of Scripture over time, rather than the same limited set of readings every year",
+        "Because the Bible has exactly three sections",
+        "To match the three Synoptic Gospels one per year, with John excluded entirely",
+        "Purely by historical accident, with no intended benefit"
+      ],
+      "correctAnswer": "So the faithful hear a much broader portion of Scripture over time, rather than the same limited set of readings every year",
+      "explanation": "Vatican II specifically called for richer scriptural fare at Mass, and the three-year Sunday cycle (plus a two-year weekday cycle) was designed to deliver on that call — a concrete structural response to a stated goal, not an arbitrary scheme.",
+      "hint": "Ask what problem a longer reading cycle actually solves compared to a one-year repeat.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-008",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: The Responsorial Psalm is meant to be a meditative response to the first reading, not merely a musical interlude.",
+      "correctAnswer": true,
+      "explanation": "True. The Psalm is chosen specifically to resonate with the first reading and is meant to help the assembly meditate on the word of God just proclaimed — treating it as filler between readings misses its actual liturgical function.",
+      "hint": "Ask why this particular Psalm is paired with this particular first reading, rather than being random.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1177"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-009",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "The book from which the Gospel is proclaimed at Mass is called the ____, and it is often carried in procession and incensed as a sign of honor.",
+      "correctAnswer": "Evangeliary",
+      "explanation": "The Evangeliary (or Book of the Gospels) is treated with particular reverence — processed, incensed, sometimes kissed by the deacon or priest — because it contains Christ's own words in a special way, distinct from the ordinary lectionary used for the other readings.",
+      "hint": "This book is specifically for the Gospel readings alone, distinct from the lectionary used for the other readings.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1154"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l2-010",
+      "topic": "liturgy-and-mass",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each element of the Liturgy of the Word to its purpose.",
+      "pairs": [
+        {
+          "left": "First reading",
+          "right": "Usually from the Old Testament, chosen to resonate with the Gospel"
+        },
+        {
+          "left": "Responsorial Psalm",
+          "right": "A meditative response to the first reading"
+        },
+        {
+          "left": "Second reading",
+          "right": "A semi-continuous reading from the New Testament epistles"
+        },
+        {
+          "left": "Homily",
+          "right": "Highly recommended exposition connecting the readings to life"
+        }
+      ],
+      "explanation": "Notice the different pairing logic: the first reading and Gospel are chosen together to echo each other, while the second reading runs through an epistle more or less continuously across weeks, independent of that day's theme.",
+      "hint": "Three of these are chosen to relate to the day's theme; one runs on its own separate track.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1154"
         }
       ]
     },
@@ -412,6 +608,105 @@
       ]
     },
     {
+      "id": "liturgy-and-mass-l3-007",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "What is the theological significance of the priest's words 'Do this in memory of me' at the Last Supper?",
+      "choices": [
+        "Christ commands the apostles and their successors to re-present this same sacrifice, not merely to recall it as a past event",
+        "Christ asks only that his followers remember him privately in prayer",
+        "The words apply only to the original apostles, with no ongoing command",
+        "The words concern only the washing of feet, not the bread and wine"
+      ],
+      "correctAnswer": "Christ commands the apostles and their successors to re-present this same sacrifice, not merely to recall it as a past event",
+      "explanation": "'Anamnesis' — memorial in the biblical sense — is not mere recollection but a making-present of the reality it commemorates. This is why every Mass is not a new sacrifice added to Calvary but the one sacrifice of Christ made present again.",
+      "hint": "Distinguish remembering an event happened from making that event present again.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1362"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 22:19"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-008",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: The Church teaches that Christ is present in the Eucharist only symbolically, representing his body and blood rather than being them.",
+      "correctAnswer": false,
+      "explanation": "False. The Church teaches the real, true and substantial presence of Christ's Body, Blood, Soul and Divinity under the appearances of bread and wine — not a symbol pointing to an absent reality, but Christ himself truly present.",
+      "hint": "Ask whether the Church's language is about pointing to Christ, or about Christ actually being there.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1374"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-009",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "The part of the Mass where the priest and people offer the bread and wine, along with their own lives and labors, to God is called the ____.",
+      "correctAnswer": "Offertory",
+      "explanation": "At the Offertory the bread and wine — 'fruit of the earth and work of human hands' — are presented, and the faithful are invited to unite their own daily lives to that offering, which is then transformed at the consecration into something far greater than what was placed on the altar.",
+      "hint": "This part happens right after the Liturgy of the Word, before the Eucharistic Prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1350"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l3-010",
+      "topic": "liturgy-and-mass",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each term in the Liturgy of the Eucharist to its meaning.",
+      "pairs": [
+        {
+          "left": "Anamnesis",
+          "right": "Making present, not merely recalling, the one sacrifice of Calvary"
+        },
+        {
+          "left": "Transubstantiation",
+          "right": "The whole substance of bread and wine becomes Christ's Body and Blood"
+        },
+        {
+          "left": "Offertory",
+          "right": "Presenting the gifts, and one's own life, to God"
+        },
+        {
+          "left": "Real Presence",
+          "right": "Christ truly present, not merely symbolized"
+        }
+      ],
+      "explanation": "These four terms together explain why Catholics describe the Mass as a sacrifice rather than only a meal, and why the consecrated elements are treated with the reverence due to Christ himself rather than as symbols of him.",
+      "hint": "Ask, for each term, whether it concerns an action, a change, an offering, or a presence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1362"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1374"
+        }
+      ]
+    },
+    {
       "id": "liturgy-and-mass-l4-001",
       "topic": "liturgy-and-mass",
       "level": 4,
@@ -549,6 +844,101 @@
       ]
     },
     {
+      "id": "liturgy-and-mass-l4-007",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2370,
+      "prompt": "What is the theological purpose of the liturgical year, according to the Catechism?",
+      "choices": [
+        "To unfold the whole mystery of Christ across the year so the faithful are formed by living through it, not simply reminded of past events",
+        "To commemorate historical events with no bearing on present spiritual life",
+        "To provide a calendar with no deeper theological purpose",
+        "To replace the need for personal prayer throughout the year"
+      ],
+      "correctAnswer": "To unfold the whole mystery of Christ across the year so the faithful are formed by living through it, not simply reminded of past events",
+      "explanation": "The Church does not merely commemorate the Incarnation, Passion and Resurrection as history; she makes the faithful actual participants in that mystery as the year unfolds, in a way analogous to how the Eucharist makes Calvary present rather than merely recalling it.",
+      "hint": "Compare this to how the Mass relates to Calvary — recollection, or something more.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-008",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2400,
+      "prompt": "True or False: Advent is primarily a season of penance identical in character to Lent.",
+      "correctAnswer": false,
+      "explanation": "False. Advent carries a penitential and preparatory tone but a distinctly different character from Lent — one of expectant joy looking toward both Christ's first coming at Bethlehem and his final coming in glory, rather than Lent's more austere focus on repentance before the Passion.",
+      "hint": "Ask what Advent is actually preparing the faithful to receive, and compare its tone to Lent's.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 524"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-009",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2430,
+      "prompt": "The three days from Holy Thursday evening through Easter Sunday are together called the Easter ____, the summit of the entire liturgical year.",
+      "correctAnswer": "Triduum",
+      "explanation": "The Triduum — Holy Thursday, Good Friday, and the Easter Vigil into Easter Sunday — is a single liturgical unit rather than three separate days, beginning with the Mass of the Lord's Supper and not formally concluding until Easter Vigil's Vespers, which is why the Mass on Holy Thursday has no formal dismissal.",
+      "hint": "The Latin word means 'three days'.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1168"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-010",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each liturgical season to its central character.",
+      "pairs": [
+        {
+          "left": "Advent",
+          "right": "Expectant joy, preparing for both comings of Christ"
+        },
+        {
+          "left": "Lent",
+          "right": "Penance and preparation for the Paschal mystery"
+        },
+        {
+          "left": "Easter",
+          "right": "Fifty days of joyful celebration culminating in Pentecost"
+        },
+        {
+          "left": "Ordinary Time",
+          "right": "The mystery of Christ in its fullness, not a lesser or empty season"
+        }
+      ],
+      "explanation": "The last pairing corrects a common misreading of the name: 'ordinary' here means 'ordinal' — counted in order — not 'plain' or 'unimportant'. Ordinary Time still unfolds real mysteries of Christ's public ministry.",
+      "hint": "One season's name is frequently misunderstood, and the misunderstanding is worth correcting explicitly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1168"
+        }
+      ]
+    },
+    {
       "id": "liturgy-and-mass-l5-001",
       "topic": "liturgy-and-mass",
       "level": 5,
@@ -678,6 +1068,105 @@
           "type": "ccc",
           "reference": "CCC 1210",
           "quote": "There are seven [sacraments]: Baptism, Confirmation (or Chrismation), the Eucharist, Penance, the Anointing of the Sick, Holy Orders and Matrimony. The seven sacraments touch all the stages and all the important moments of Christian life."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-007",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "Why are Baptism, Confirmation and Eucharist grouped as the 'Sacraments of Christian Initiation'?",
+      "choices": [
+        "Together they lay the foundations of every Christian life, incorporating a person fully into Christ and the Church",
+        "Because they must all be received on the same day",
+        "Because they are the only three sacraments a lay Catholic ever receives",
+        "Because they were instituted at the same historical moment"
+      ],
+      "correctAnswer": "Together they lay the foundations of every Christian life, incorporating a person fully into Christ and the Church",
+      "explanation": "The grouping is about theological function, not scheduling: these three together complete a person's initiation into the Christian life, which is why the Eastern Churches often celebrate all three together even for infants, while the Latin Church typically spaces them out.",
+      "hint": "Ask what these three accomplish together that no other sacrament accomplishes.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1212"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-008",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: A sacrament that imprints a permanent character can, in principle, be received more than once by the same person.",
+      "correctAnswer": false,
+      "explanation": "False, and this is precisely what the character means: an indelible seal on the soul, which is why Baptism, Confirmation and Holy Orders are never repeated, even for someone who later leaves the faith and returns, or who is later ordained to a higher order.",
+      "hint": "Ask what 'indelible' itself implies about repetition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-009",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2690,
+      "prompt": "Anointing of the Sick and Penance are together classified as the Sacraments of ____, addressing wounds of body and soul after Baptism.",
+      "correctAnswer": "Healing",
+      "explanation": "These two sacraments presuppose that a baptized Christian can still be wounded — by sin, or by illness — after the new life of Baptism has begun, and provide specific remedies for each kind of wound rather than treating either as a failure of Baptism itself.",
+      "hint": "Both sacraments address something that goes wrong after Baptism, not before it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1421"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-010",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each family of sacraments to its members and purpose.",
+      "pairs": [
+        {
+          "left": "Initiation",
+          "right": "Baptism, Confirmation, Eucharist — founding the Christian life"
+        },
+        {
+          "left": "Healing",
+          "right": "Penance, Anointing of the Sick — remedies for sin and illness"
+        },
+        {
+          "left": "Service of Communion",
+          "right": "Matrimony, Holy Orders — building up others in the Church"
+        },
+        {
+          "left": "Character-imprinting",
+          "right": "Baptism, Confirmation, Holy Orders — received only once"
+        }
+      ],
+      "explanation": "Note the fourth grouping cuts across the first three: it is not a fourth family alongside them, but a feature shared by specific sacraments already listed in the other families. Baptism belongs to initiation AND to the character group at once.",
+      "hint": "One of these four rows is not a fourth family, but a cross-cutting feature of some sacraments already named above.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1212"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1421"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
         }
       ]
     },
