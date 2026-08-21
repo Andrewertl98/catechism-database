@@ -147,6 +147,107 @@
       ]
     },
     {
+      "id": "church-history-l1-007",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "On the day of Pentecost, described in Acts 2, what happened to the apostles?",
+      "choices": [
+        "They received the Holy Spirit and began preaching boldly in many languages",
+        "They fled Jerusalem in fear",
+        "They were arrested by the Sanhedrin",
+        "They returned to their former occupations"
+      ],
+      "correctAnswer": "They received the Holy Spirit and began preaching boldly in many languages",
+      "explanation": "Pentecost is the Church's birthday: the same men who had scattered at Christ's arrest now preach publicly without fear, in languages understood by pilgrims from many nations. That reversal is itself part of the evidence something real had happened to them.",
+      "hint": "This is the event the Church still celebrates fifty days after Easter.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 2:1-4"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-008",
+      "topic": "church-history",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 900,
+      "prompt": "True or False: The Council of Jerusalem, described in Acts 15, decided that Gentile converts did not need to be circumcised according to the Mosaic Law.",
+      "correctAnswer": true,
+      "explanation": "True, and it is the first council in Christian history. The apostles gathered, deliberated, and issued a decision binding on the whole Church — a small-scale preview of every ecumenical council that followed.",
+      "hint": "This was the first time the apostles gathered to settle a disputed question together.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 15:1-29"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-009",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 950,
+      "prompt": "According to tradition, where were Peter and Paul both martyred?",
+      "choices": [
+        "Rome",
+        "Jerusalem",
+        "Antioch",
+        "Corinth"
+      ],
+      "correctAnswer": "Rome",
+      "explanation": "Both apostles died in Rome under Nero, which is part of why the Roman church has always held a place of particular honor — she is the church where two of the greatest apostles gave their lives.",
+      "hint": "This is also the city where the Bishop of Rome's authority is traditionally located.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 552"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-010",
+      "topic": "church-history",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1000,
+      "prompt": "Match each apostolic-era event to what it established.",
+      "pairs": [
+        {
+          "left": "Pentecost",
+          "right": "The Church's public birth, empowered by the Holy Spirit"
+        },
+        {
+          "left": "The Council of Jerusalem",
+          "right": "Gentiles could enter the Church without circumcision"
+        },
+        {
+          "left": "Peter and Paul's martyrdom in Rome",
+          "right": "A lasting mark of honor on the Roman church"
+        },
+        {
+          "left": "Stephen's stoning",
+          "right": "The Church's first martyr"
+        }
+      ],
+      "explanation": "All four events happen within a few decades of the Resurrection, and together they establish structure (a council), mission (to the Gentiles), witness (martyrdom), and the Spirit's empowering presence — the whole shape of what follows for two thousand years.",
+      "hint": "One is about power given, one about a boundary removed, one about a place honored, one about a first death.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 7:54-60"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 766"
+        }
+      ]
+    },
+    {
       "id": "church-history-l2-001",
       "topic": "church-history",
       "level": 2,
@@ -286,6 +387,101 @@
           "type": "scripture",
           "reference": "Acts 7:54-60",
           "quote": "Then he fell to his knees and cried out in a loud voice, 'Lord, do not hold this sin against them'; and when he said this, he fell asleep."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-007",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1230,
+      "prompt": "Why were Christians in the Roman Empire frequently accused of atheism?",
+      "choices": [
+        "They refused to worship the emperor or the traditional Roman gods, which pagans understood as a rejection of the gods entirely",
+        "They denied the existence of any god at all",
+        "They refused to build temples of any kind",
+        "They rejected the concept of an afterlife"
+      ],
+      "correctAnswer": "They refused to worship the emperor or the traditional Roman gods, which pagans understood as a rejection of the gods entirely",
+      "explanation": "From the Roman side, refusing to honor the recognized gods looked exactly like atheism — worshipping an invisible God nobody else recognized did not register as worship at all to outside eyes. The charge reveals as much about Roman categories as about Christian belief.",
+      "hint": "Ask what 'atheism' meant to a Roman, not what it means today.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2113"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-008",
+      "topic": "church-history",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1270,
+      "prompt": "True or False: Roman persecution of Christians was a single continuous policy enforced uniformly across the whole empire for three centuries.",
+      "correctAnswer": false,
+      "explanation": "False. Persecution was sporadic and regional for most of this period — intense under some emperors, absent under others, often driven by local officials or mob pressure rather than a standing imperial policy. The empire-wide persecutions under Decius and Diocletian were the exception, not the norm.",
+      "hint": "Ask whether every emperor in this period actively persecuted Christians.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-009",
+      "topic": "church-history",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1300,
+      "prompt": "The Roman catacombs served primarily as underground ____ for Christians, not as hiding places from persecution as popular legend often claims.",
+      "correctAnswer": "burial sites",
+      "explanation": "Roman law actually protected burial places, including Christian ones, even during persecution — the catacombs were legally recognized cemeteries. The romantic image of Christians hiding for Mass in the catacombs during raids is largely a later invention.",
+      "hint": "Ask what Roman law actually protected, regardless of a group's religion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2299"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-010",
+      "topic": "church-history",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1320,
+      "prompt": "Match each term from the age of the martyrs to its meaning.",
+      "pairs": [
+        {
+          "left": "Apologist",
+          "right": "A writer who defended the faith with reasoned argument"
+        },
+        {
+          "left": "Catacombs",
+          "right": "Legally protected underground Christian burial sites"
+        },
+        {
+          "left": "Martyr",
+          "right": "One who bears witness to Christ even unto death"
+        },
+        {
+          "left": "Lapsi",
+          "right": "Christians who denied the faith under persecution to save their lives"
+        }
+      ],
+      "explanation": "The last term matters because it created a real pastoral crisis: what should happen to a lapsed Christian who later wanted to return? That question shaped the early Church's whole theology of penance and reconciliation.",
+      "hint": "Three of these describe faithful responses to persecution; one describes a failure of nerve under it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1447"
         }
       ]
     },
@@ -431,6 +627,101 @@
       ]
     },
     {
+      "id": "church-history-l3-007",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1650,
+      "prompt": "What changed for the Church in 313 AD with the Edict of Milan?",
+      "choices": [
+        "Christianity was granted legal toleration throughout the Roman Empire, ending centuries of periodic persecution",
+        "Christianity became the empire's only legal religion",
+        "The New Testament canon was formally closed",
+        "The Bishop of Rome was granted civil authority over Italy"
+      ],
+      "correctAnswer": "Christianity was granted legal toleration throughout the Roman Empire, ending centuries of periodic persecution",
+      "explanation": "Milan granted toleration, not establishment — Christianity became one legal religion among others, not yet the empire's exclusive faith. That distinction is easy to blur, and getting it right avoids overstating how quickly the political situation actually changed.",
+      "hint": "Toleration and establishment are two different things — which one happened in 313?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-008",
+      "topic": "church-history",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1680,
+      "prompt": "True or False: St. Monica prayed for her son Augustine's conversion for many years before it finally happened.",
+      "correctAnswer": true,
+      "explanation": "True. Augustine describes his mother's decades of prayer and tears in the Confessions, and her perseverance became a model held up for anyone praying for a wayward loved one across a very long time.",
+      "hint": "This detail is recorded by Augustine himself, in the same book that describes his own conversion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2571"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-009",
+      "topic": "church-history",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1710,
+      "prompt": "St. Benedict of Nursia founded the monastery of Monte ____ around 529 AD, and his Rule became the foundation of Western monasticism.",
+      "correctAnswer": "Cassino",
+      "explanation": "Benedict's Rule — pray and work, ora et labora — shaped monastic life across the West for over a millennium, and Monte Cassino remained a center of learning and prayer for most of that time.",
+      "hint": "This monastery still exists today in central Italy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-010",
+      "topic": "church-history",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1735,
+      "prompt": "Match each fourth- and fifth-century figure or event to what it is remembered for.",
+      "pairs": [
+        {
+          "left": "Edict of Milan (313)",
+          "right": "Legal toleration of Christianity in the Roman Empire"
+        },
+        {
+          "left": "St. Monica",
+          "right": "Decades of prayer for her son's conversion"
+        },
+        {
+          "left": "St. Benedict",
+          "right": "Founding Western monasticism at Monte Cassino"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "Confessions and City of God, shaping Western theology"
+        }
+      ],
+      "explanation": "This century moves the Church from persecuted minority to a settled institution shaping education, monastic life and theology for a thousand years afterward — a genuinely fast transition by any historical measure.",
+      "hint": "Two of these are about the institutional Church; two are about individual holiness and conversion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
       "id": "church-history-l4-001",
       "topic": "church-history",
       "level": 4,
@@ -568,6 +859,107 @@
       ]
     },
     {
+      "id": "church-history-l4-007",
+      "topic": "church-history",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What was the primary purpose of the medieval university, as institutions like Paris and Bologna developed?",
+      "choices": [
+        "To organize the systematic study of theology, law, medicine and the arts under a structured curriculum with degrees",
+        "To train soldiers for the Crusades",
+        "To replace monastic schools entirely",
+        "To serve only the sons of nobility"
+      ],
+      "correctAnswer": "To organize the systematic study of theology, law, medicine and the arts under a structured curriculum with degrees",
+      "explanation": "The university is a medieval Christian invention, growing out of cathedral schools, and it is where scholastic theology — including Aquinas's work — was actually done. The degree structure, faculties and much of the vocabulary of higher education today descend directly from this period.",
+      "hint": "Ask what institution still exists today, using much of the same vocabulary this period invented.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l4-008",
+      "topic": "church-history",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2090,
+      "prompt": "True or False: The Great Schism of 1054 was primarily caused by a single theological dispute settled in one dramatic confrontation, with no earlier history of tension.",
+      "correctAnswer": false,
+      "explanation": "False. 1054's mutual excommunications were the culmination of centuries of gradually diverging practice, language, and authority between Rome and Constantinople — the Filioque dispute was real but was not a sudden rupture out of nowhere. Reading it as one clean break misses the slow drift that preceded it.",
+      "hint": "Ask whether centuries of difference in language, custom and authority preceded 1054, or appeared only that year.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l4-009",
+      "topic": "church-history",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2120,
+      "prompt": "The Council of Trent's decree establishing seminaries addressed what practical problem in the pre-Reformation Church?",
+      "choices": [
+        "Many parish priests were poorly educated and inconsistently formed, since there was no standard system for training clergy",
+        "There were too many priests relative to the lay population",
+        "Priests were forbidden from any theological education",
+        "Seminaries already existed and Trent only renamed them"
+      ],
+      "correctAnswer": "Many parish priests were poorly educated and inconsistently formed, since there was no standard system for training clergy",
+      "explanation": "Poor clerical formation was a real and serious contributor to the crisis the Reformation exposed. Trent's seminary decree was not a side note to its doctrinal work — it was a direct structural response to a genuine failure, and dioceses still operate seminaries built on this decree today.",
+      "hint": "Ask what kind of training existed for parish priests before this decree.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1567"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l4-010",
+      "topic": "church-history",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2148,
+      "prompt": "Match each medieval or Reformation-era development to its lasting effect.",
+      "pairs": [
+        {
+          "left": "Medieval universities",
+          "right": "Structured higher education and scholastic theology"
+        },
+        {
+          "left": "The Great Schism (1054)",
+          "right": "Centuries of drift culminating in mutual excommunication"
+        },
+        {
+          "left": "Council of Trent's seminary decree",
+          "right": "Standardized, ongoing clerical formation"
+        },
+        {
+          "left": "St. Thomas Aquinas's Summa",
+          "right": "A model synthesis of faith and reason still studied today"
+        }
+      ],
+      "explanation": "None of these four happened suddenly. Each is the visible result of a slower process — centuries of theological drift, or generations of unaddressed formation gaps — which is worth remembering whenever a historical event is described as a single clean turning point.",
+      "hint": "Ask, for each, what decades or centuries of slower change lie behind the named event.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1567"
+        }
+      ]
+    },
+    {
       "id": "church-history-l5-001",
       "topic": "church-history",
       "level": 5,
@@ -701,6 +1093,101 @@
           "type": "council",
           "reference": "Second Vatican Council (1962-1965)",
           "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l5-007",
+      "topic": "church-history",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2460,
+      "prompt": "What social and political situation directly preceded Pope Leo XIII's 1891 encyclical Rerum Novarum?",
+      "choices": [
+        "Rapid industrialization was producing harsh factory conditions for workers, with rival ideologies proposing socialist revolution or unregulated capitalism as the only answers",
+        "A sudden decline in Church attendance across Europe",
+        "The final dissolution of the Papal States",
+        "A famine affecting agricultural workers specifically"
+      ],
+      "correctAnswer": "Rapid industrialization was producing harsh factory conditions for workers, with rival ideologies proposing socialist revolution or unregulated capitalism as the only answers",
+      "explanation": "Leo XIII was answering a real and urgent crisis: industrial workers facing brutal conditions, with socialism offering revolution and laissez-faire capitalism offering indifference. Rerum Novarum charted a distinct Catholic path between the two, which is why it is remembered as the founding document of modern Catholic social teaching.",
+      "hint": "Ask what economic transformation was underway across Europe in the late nineteenth century.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2421"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l5-008",
+      "topic": "church-history",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2500,
+      "prompt": "True or False: Vatican II's Sacrosanctum Concilium called for full, conscious and active participation by the faithful in the liturgy.",
+      "correctAnswer": true,
+      "explanation": "True, and this phrase is the document's own stated aim for liturgical reform — not a slogan added afterward. Much of what changed in Catholic worship after the council is an attempt, well or poorly executed depending on the parish, to realize this specific goal.",
+      "hint": "This exact phrase is the constitution's own words about what liturgical renewal should achieve.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1141"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l5-009",
+      "topic": "church-history",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2530,
+      "prompt": "Vatican II's document on the Church's relationship with non-Christian religions is titled ____ Aetate, Latin for 'in our time.'",
+      "correctAnswer": "Nostra",
+      "explanation": "The title, like every conciliar document, is simply its own opening words. 'Nostra Aetate' — in our age — signals a document addressing the Church's posture toward other religions specifically in the conditions of the modern world.",
+      "hint": "The full title translates as 'in our age.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l5-010",
+      "topic": "church-history",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2560,
+      "prompt": "Match each modern-era document to what it primarily addressed.",
+      "pairs": [
+        {
+          "left": "Pastor Aeternus (1870)",
+          "right": "Papal infallibility under specific conditions"
+        },
+        {
+          "left": "Rerum Novarum (1891)",
+          "right": "The condition of industrial workers and the origin of Catholic social teaching"
+        },
+        {
+          "left": "Sacrosanctum Concilium (1963)",
+          "right": "Full, conscious and active participation in the liturgy"
+        },
+        {
+          "left": "Nostra Aetate (1965)",
+          "right": "The Church's relationship to non-Christian religions"
+        }
+      ],
+      "explanation": "Spanning less than a century, these four documents cover four very different concerns — papal authority, economic justice, worship, and interreligious relations — showing how much ground the Church's teaching authority actually addresses beyond doctrine narrowly defined.",
+      "hint": "One is about the papacy, one about workers, one about worship, one about other religions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2421"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1141"
         }
       ]
     },
