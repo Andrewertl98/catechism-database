@@ -149,6 +149,115 @@
       ]
     },
     {
+      "id": "heresies-l1-007",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "Montanism, a second-century movement, claimed that its leaders were receiving new prophecies binding on the whole Church. What does the Church hold about public revelation?",
+      "choices": [
+        "It is complete in Christ; no new public revelation is to be expected before his glorious return",
+        "It continues through any sincerely prayerful believer",
+        "It ended with the death of the last Old Testament prophet",
+        "It is reopened whenever a council is convened"
+      ],
+      "correctAnswer": "It is complete in Christ; no new public revelation is to be expected before his glorious return",
+      "explanation": "Christian revelation is complete in Christ. Private revelations may help the Church live it more fully in a given age, but they never add to it or correct it -- which is exactly the claim Montanism made and the Church rejected.",
+      "hint": "The question is whether anything essential is still missing from what Christ gave.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-008",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Docetism took its name from a Greek word meaning 'to seem,' because it taught that Christ only appeared to have a body and only seemed to suffer.",
+      "correctAnswer": true,
+      "explanation": "True. 'Dokein' is 'to seem.' The name is the error: if Christ merely appeared to have flesh, then he merely appeared to die, and the Cross saves no one. This is why John's letters insist so bluntly on Christ come in the flesh.",
+      "hint": "The name is a description of the claim, not a place or a person.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-009",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Simon Magus, in Acts 8, attempted to buy the power of conferring the Holy Spirit. What lasting term did the Church take from his name?",
+      "choices": [
+        "Simony — buying or selling spiritual goods or offices",
+        "Schism — breaking communion with the Church",
+        "Apostasy — the total repudiation of the faith",
+        "Sacrilege — the profaning of sacred things"
+      ],
+      "correctAnswer": "Simony — buying or selling spiritual goods or offices",
+      "explanation": "Simony is named for Simon Magus. Peter's response names the underlying error precisely: what God gives cannot be purchased, because it was never a commodity in the first place.",
+      "hint": "The word is still used today for one specific kind of corruption in the Church.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 8:18-24"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2121"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-010",
+      "topic": "heresies",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1380,
+      "prompt": "Match each early error to the truth it denied.",
+      "pairs": [
+        {
+          "left": "Arianism",
+          "right": "That the Son is fully divine, of one substance with the Father"
+        },
+        {
+          "left": "Docetism",
+          "right": "That Christ had a real body and truly suffered"
+        },
+        {
+          "left": "Modalism",
+          "right": "That Father, Son and Spirit are three distinct Persons"
+        },
+        {
+          "left": "Marcionism",
+          "right": "That the God of Israel and the Father of Jesus are the same God"
+        }
+      ],
+      "explanation": "Each denies a different thing: Arianism the Son's divinity, Docetism his humanity, Modalism the distinction of Persons, Marcionism the unity of the two Testaments. Naming what was denied is more useful than memorising who denied it.",
+      "hint": "Two concern who Christ is, one concerns the Trinity, one concerns Scripture.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 254"
+        }
+      ]
+    },
+    {
       "id": "heresies-l2-001",
       "topic": "heresies",
       "level": 2,
@@ -306,6 +415,117 @@
       ]
     },
     {
+      "id": "heresies-l2-007",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1700,
+      "prompt": "Chalcedon confessed Christ as one Person in two natures. What is the technical term for that union?",
+      "choices": [
+        "The hypostatic union",
+        "The communication of idioms",
+        "The beatific vision",
+        "The economy of salvation"
+      ],
+      "correctAnswer": "The hypostatic union",
+      "explanation": "'Hypostasis' means person or subsistence. The hypostatic union names the joining of divine and human natures in the one Person of the Word -- not a blending of natures, and not two persons side by side.",
+      "hint": "The term names what the natures are united IN, and that is a person.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 468"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-008",
+      "topic": "heresies",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1750,
+      "prompt": "True or False: The Church teaches Christ has two wills, one divine and one human, because a complete human nature necessarily includes a human will.",
+      "correctAnswer": true,
+      "explanation": "True, and the reasoning matters more than the fact. Constantinople III did not add a second will to Christ; it drew out what a complete human nature already entails. Deny the human will and you have denied the completeness of the humanity.",
+      "hint": "Ask what a human nature must include to be a human nature at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 475"
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-009",
+      "topic": "heresies",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "Eutyches, whose teaching Chalcedon condemned, held that after the Incarnation Christ had only ____ nature.",
+      "correctAnswer": "one",
+      "explanation": "Eutyches taught the human nature was absorbed into the divine like a drop of water in the sea, leaving one nature. Chalcedon answered that the two natures remain, unconfused and unchanged, in one Person.",
+      "hint": "The name of his error, Monophysitism, contains the answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-010",
+      "topic": "heresies",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each heresy to the council that answered it.",
+      "pairs": [
+        {
+          "left": "Arianism",
+          "right": "First Council of Nicaea (325)"
+        },
+        {
+          "left": "Nestorianism",
+          "right": "Council of Ephesus (431)"
+        },
+        {
+          "left": "Monophysitism",
+          "right": "Council of Chalcedon (451)"
+        },
+        {
+          "left": "Monothelitism",
+          "right": "Third Council of Constantinople (680-681)"
+        }
+      ],
+      "explanation": "The sequence is not accidental: each council answers the error the previous settlement made possible. Establish the Son's divinity, and the question becomes how divinity and humanity relate in one Person; settle that, and the question becomes whether the humanity has its own will.",
+      "hint": "They run in chronological order, and each answers a question the one before it opened.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
+        }
+      ]
+    },
+    {
       "id": "heresies-l3-001",
       "topic": "heresies",
       "level": 3,
@@ -449,6 +669,119 @@
       ]
     },
     {
+      "id": "heresies-l3-007",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2010,
+      "prompt": "Nicaea II answered iconoclasm by distinguishing two things the iconoclasts had treated as one. Which distinction?",
+      "choices": [
+        "Veneration shown to an image, which passes to its prototype, versus adoration due to God alone",
+        "Public liturgical images versus private devotional ones",
+        "Images of Christ versus images of the saints",
+        "Painted images versus carved statues"
+      ],
+      "correctAnswer": "Veneration shown to an image, which passes to its prototype, versus adoration due to God alone",
+      "explanation": "The honour given an image passes to the one depicted; it does not stop at the wood and paint. That is why venerating an icon is not idolatry, and why the distinction between veneration and the adoration owed to God alone is the whole of the answer.",
+      "hint": "The question is not which images are allowed, but what the act of honouring one actually does.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-008",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2040,
+      "prompt": "True or False: The Fourth Lateran Council (1215) is the council that used the term 'transubstantiated' of the Eucharist.",
+      "correctAnswer": true,
+      "explanation": "True. Lateran IV used the term, and Trent later defined it at length against Reformation denials. The word does not explain the change so much as fence it: the substance becomes Christ's Body and Blood while the appearances remain.",
+      "hint": "The same council that dealt with the Cathars also gave this word its conciliar footing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-009",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2110,
+      "prompt": "Lateran IV taught that between Creator and creature no similarity can be noted without a greater dissimilarity being noted between them. Why does this matter for judging heresies?",
+      "choices": [
+        "It sets a limit on all God-talk: analogies genuinely say something true, yet always fall shorter than they succeed",
+        "It forbids using any analogy for God whatsoever",
+        "It means human language about God is simply meaningless",
+        "It applies only to images, not to words"
+      ],
+      "correctAnswer": "It sets a limit on all God-talk: analogies genuinely say something true, yet always fall shorter than they succeed",
+      "explanation": "The principle cuts both ways. It rules out saying nothing true about God, and it rules out pressing an analogy as if it were a description. A great many heresies are an analogy taken too literally and then defended past its breaking point.",
+      "hint": "It is a rule about how far a comparison can be pushed, not a ban on comparing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-010",
+      "topic": "heresies",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each medieval figure or movement to what was actually at issue.",
+      "pairs": [
+        {
+          "left": "Cathars",
+          "right": "Dualism: matter as the work of an evil principle"
+        },
+        {
+          "left": "Iconoclasts",
+          "right": "Whether images may be venerated at all"
+        },
+        {
+          "left": "John Wycliffe",
+          "right": "Denial of transubstantiation"
+        },
+        {
+          "left": "Waldensians",
+          "right": "Preaching without authorisation, before doctrine was the issue"
+        }
+      ],
+      "explanation": "The Waldensian case is the instructive one: the initial condemnation concerned unauthorised preaching, not yet doctrinal error. Not every medieval condemnation was about a heresy in the strict sense, and flattening them together misreads the history.",
+      "hint": "One of these four was not, at first, condemned for what it taught.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        }
+      ]
+    },
+    {
       "id": "heresies-l4-001",
       "topic": "heresies",
       "level": 4,
@@ -569,6 +902,101 @@
         {
           "type": "magisterial_document",
           "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-007",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2370,
+      "prompt": "Against 'sola scriptura,' what does the Church hold about the relationship of Scripture and Tradition?",
+      "choices": [
+        "Both are to be accepted and honoured with equal devotion, flowing from the same divine wellspring",
+        "Tradition outranks Scripture where the two appear to differ",
+        "Scripture is authoritative and Tradition merely customary",
+        "Tradition applies only to liturgy, never to doctrine"
+      ],
+      "correctAnswer": "Both are to be accepted and honoured with equal devotion, flowing from the same divine wellspring",
+      "explanation": "The Church does not derive her certainty about revealed truth from Scripture alone. Scripture and Tradition are not rivals with one refereeing the other; they flow from a single source and are received together.",
+      "hint": "The claim is about a shared origin, not about which one wins a dispute.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-008",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2410,
+      "prompt": "True or False: The Church teaches that God predestines no one to hell.",
+      "correctAnswer": true,
+      "explanation": "True, and it is the precise point on which Catholic teaching parts from double predestination. Hell requires a wilful turning away from God persisted in to the end. God permits that free refusal; he does not decree it.",
+      "hint": "The distinction is between God permitting a refusal and God authoring it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-009",
+      "topic": "heresies",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2430,
+      "prompt": "Trent taught that justification is not merely the remission of sins but also the sanctification and ____ of the interior man.",
+      "correctAnswer": "renewal",
+      "explanation": "The word carries the whole disagreement. If justification were only a declaration leaving the sinner unchanged, renewal would be beside the point. Trent insists something real happens to the person, not only to their standing.",
+      "hint": "The contested question was whether anything actually changes in the person, or only their legal status.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-010",
+      "topic": "heresies",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each Reformation-era position to the Catholic teaching it denied.",
+      "pairs": [
+        {
+          "left": "Sola scriptura",
+          "right": "Scripture and Tradition received together from one source"
+        },
+        {
+          "left": "Zwingli on the Eucharist",
+          "right": "The true, real and substantial presence of Christ"
+        },
+        {
+          "left": "Anabaptist practice",
+          "right": "The validity and fittingness of infant baptism"
+        },
+        {
+          "left": "Double predestination",
+          "right": "That God predestines no one to hell"
+        }
+      ],
+      "explanation": "Setting each against the specific teaching it denied is more useful than a general label. It also shows the disagreements were not all of one kind: one is about authority, one about the sacrament, one about who may receive it, one about God's own will.",
+      "hint": "Each pairs with a different area: authority, Eucharist, baptism, and God's will.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
         }
       ]
     },
@@ -708,6 +1136,107 @@
         {
           "type": "magisterial_document",
           "reference": "Dominus Iesus (2000)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-007",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2610,
+      "prompt": "The Catechism distinguishes heresy, apostasy and schism precisely. Which describes schism?",
+      "choices": [
+        "Refusal of submission to the Roman Pontiff or of communion with the members of the Church subject to him",
+        "The obstinate denial of a truth which must be believed with divine and catholic faith",
+        "The total repudiation of the Christian faith",
+        "Deliberate neglect of revealed truth without denying it"
+      ],
+      "correctAnswer": "Refusal of submission to the Roman Pontiff or of communion with the members of the Church subject to him",
+      "explanation": "Schism is about communion, not content: a schismatic may hold every doctrine and still be in schism. Heresy is the obstinate denial of a truth to be believed; apostasy is repudiating the faith entirely. Collapsing the three makes any of them impossible to discuss accurately.",
+      "hint": "One of these three can occur while a person still believes everything the Church teaches.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-008",
+      "topic": "heresies",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2650,
+      "prompt": "True or False: Because heresy requires obstinacy, someone who holds an erroneous belief in good faith, having never been shown otherwise, is not formally a heretic.",
+      "correctAnswer": true,
+      "explanation": "True. Heresy in the strict sense requires obstinate denial after the truth is known to be required. This is why the Church distinguishes material from formal heresy, and why the word is far narrower than its casual use online suggests.",
+      "hint": "The definition contains a word about the will, not only about the intellect.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-009",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2690,
+      "prompt": "Dominus Iesus addressed a modern religious relativism. What did it actually insist upon?",
+      "choices": [
+        "That Christ is the unique and universal mediator of salvation, however God's grace may reach those outside visible communion",
+        "That no one outside visible membership in the Church can be saved",
+        "That all religions are equally valid paths to God",
+        "That interreligious dialogue should be abandoned"
+      ],
+      "correctAnswer": "That Christ is the unique and universal mediator of salvation, however God's grace may reach those outside visible communion",
+      "explanation": "The document holds two things together that relativism and rigorism each drop one of: salvation is always through Christ, and grace can reach people who never visibly joined the Church. Denying either produces a different error.",
+      "hint": "It refuses both the claim that all paths are equal and the claim that grace cannot reach outsiders.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Dominus Iesus, CDF (2000)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-010",
+      "topic": "heresies",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each modern error to the precise thing it gets wrong.",
+      "pairs": [
+        {
+          "left": "Modernism",
+          "right": "Treats doctrine as a product of evolving religious experience"
+        },
+        {
+          "left": "Feeneyism",
+          "right": "Reads 'no salvation outside the Church' as excluding all invisible grace"
+        },
+        {
+          "left": "Religious relativism",
+          "right": "Treats Christ as one mediator among several"
+        },
+        {
+          "left": "Marxist liberation theology",
+          "right": "Adopts class struggle as the governing interpretive key"
+        }
+      ],
+      "explanation": "Two of these err by narrowing and two by broadening. Feeneyism narrows salvation past what the Church teaches; relativism broadens it until Christ is optional. Modernism dissolves doctrine into experience; the Marxist reading subordinates the Gospel to an external analysis.",
+      "hint": "Two make the Church's claim too small, two make it too vague.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Dominus Iesus, CDF (2000)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Libertatis Nuntius, CDF (1984)"
         }
       ]
     },
@@ -856,6 +1385,111 @@
         {
           "type": "council",
           "reference": "Council of Trent, Decree on Justification"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-007",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2029,
+      "prompt": "Nicaea II's answer to iconoclasm turns on a distinction the Greek makes more sharply than English: 'proskynesis' offered to images versus 'latria' reserved to God. Why was having two words essential rather than merely convenient?",
+      "choices": [
+        "Because with one word covering both, any honour paid an image is automatically describable as the worship owed to God alone -- the iconoclast case depends on that collapse",
+        "Because Greek was the liturgical language of the East",
+        "Because the distinction applies only to images of Christ",
+        "Because it allowed images while forbidding statues"
+      ],
+      "correctAnswer": "Because with one word covering both, any honour paid an image is automatically describable as the worship owed to God alone -- the iconoclast case depends on that collapse",
+      "explanation": "The iconoclast argument is only valid if honouring and adoring are the same act. Two words let the Church say what is actually happening: honour passes through the image to its prototype, while adoration terminates in God alone.",
+      "hint": "Ask what the objection requires in order to work, then notice which word does that work.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-008",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2029,
+      "prompt": "Orange II condemned semi-Pelagianism specifically over sequencing. What exactly did it settle?",
+      "choices": [
+        "That even the beginning of faith and the first desire for it are themselves the work of grace, not a human initiative grace then rewards",
+        "That grace is unnecessary for the beginning of faith",
+        "That human freedom plays no part in salvation at all",
+        "That grace is given only after baptism"
+      ],
+      "correctAnswer": "That even the beginning of faith and the first desire for it are themselves the work of grace, not a human initiative grace then rewards",
+      "explanation": "Semi-Pelagianism conceded that grace was needed for everything after the first step, and kept the first step for man. Orange II moved grace to the very beginning. What it did not settle is the inner mechanics of how grace and freedom meet -- that remained open.",
+      "hint": "The dispute was about who moves first, not about whether grace is needed at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-009",
+      "topic": "heresies",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1979,
+      "prompt": "True or False: Chalcedon's 'without confusion, without change' is aimed at Monophysitism, while 'without division, without separation' is aimed at Nestorianism.",
+      "correctAnswer": true,
+      "explanation": "True. The four adverbs are two pairs answering opposite errors in one breath: the first pair stops the natures being blended, the second stops them being pulled into two subjects. Either error alone could be answered with half the formula; both together require all four.",
+      "hint": "Two of the adverbs guard against mixing, two against splitting.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-010",
+      "topic": "heresies",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 2069,
+      "prompt": "Match each precise conciliar term to the error it was coined or deployed against.",
+      "pairs": [
+        {
+          "left": "Homoousios",
+          "right": "Arian subordination of the Son"
+        },
+        {
+          "left": "Theotokos",
+          "right": "Nestorian division of Christ into two subjects"
+        },
+        {
+          "left": "Two natural wills",
+          "right": "Monothelite denial of a human will in Christ"
+        },
+        {
+          "left": "Transubstantiation",
+          "right": "Denial that the substance becomes Christ's Body and Blood"
+        }
+      ],
+      "explanation": "Each term is a fence, not an explanation. None of them makes the mystery comprehensible; each rules out one specific misreading, which is why the precise word matters more than a general affirmation would.",
+      "hint": "Each was chosen because a vaguer word had already been shown to leave a loophole.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
         }
       ]
     },
@@ -1011,6 +1645,117 @@
           "type": "council",
           "reference": "Second Council of Nicaea (787)",
           "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-007",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2264,
+      "prompt": "A well-meaning post says: 'All religions are just different paths up the same mountain -- the summit is the same.' Which error is this closest to, and why?",
+      "choices": [
+        "Religious relativism -- it makes Christ one route among several rather than the unique mediator",
+        "Modalism -- it confuses the Persons of the Trinity",
+        "Donatism -- it ties validity to the minister's worthiness",
+        "Docetism -- it denies Christ's real humanity"
+      ],
+      "correctAnswer": "Religious relativism -- it makes Christ one route among several rather than the unique mediator",
+      "explanation": "The image is generous in intent and specific in what it denies. If every path arrives, the Incarnation is a local preference rather than the way God actually saved the world. The Church holds both that Christ is the unique mediator and that his grace can reach those who never visibly joined the Church -- which the mountain image cannot express.",
+      "hint": "Ask what the metaphor implies about whether Christ was necessary.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Dominus Iesus, CDF (2000)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-008",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2264,
+      "prompt": "A documentary claims: 'Jesus was just a wise teacher until the Council of Nicaea voted him divine in 325.' What is wrong with this, historically and doctrinally?",
+      "choices": [
+        "Nicaea defined language for a divinity already confessed and disputed; it settled how to state it, not whether to invent it",
+        "Nicaea did not discuss Christ's divinity at all",
+        "The claim is accurate but incomplete",
+        "Nicaea rejected Christ's divinity and a later council reversed it"
+      ],
+      "correctAnswer": "Nicaea defined language for a divinity already confessed and disputed; it settled how to state it, not whether to invent it",
+      "explanation": "The dispute Nicaea addressed only makes sense because the Son's divinity was already being confessed and already being contested. A council convenes over a live controversy; there would have been nothing to argue about had the claim been introduced there.",
+      "hint": "Consider what Arius was arguing against, and when.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-009",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2264,
+      "prompt": "A spiritual writer teaches that the body is a prison the soul escapes at death, and that holiness means despising the physical. Which ancient error is being recommitted?",
+      "choices": [
+        "Gnostic dualism -- treating matter as evil rather than as created good",
+        "Pelagianism -- overestimating unaided human effort",
+        "Nestorianism -- dividing Christ into two subjects",
+        "Iconoclasm -- rejecting the veneration of images"
+      ],
+      "correctAnswer": "Gnostic dualism -- treating matter as evil rather than as created good",
+      "explanation": "Scripture's verdict on creation is that God saw everything he had made and found it very good. Christian asceticism disciplines the body precisely because it is good and destined for resurrection, not because it is a prison to be escaped.",
+      "hint": "Ask what the Church confesses about the body at the very end of the Creed.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 364"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-010",
+      "topic": "heresies",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2304,
+      "prompt": "Match each contemporary statement to the historical error it repeats.",
+      "pairs": [
+        {
+          "left": "'The Father, Son and Spirit are three hats God wears'",
+          "right": "Modalism"
+        },
+        {
+          "left": "'A priest in mortal sin cannot confect a valid Eucharist'",
+          "right": "Donatism"
+        },
+        {
+          "left": "'Take the first step toward God and grace will meet you'",
+          "right": "Semi-Pelagianism"
+        },
+        {
+          "left": "'Christ could not really have been afraid in Gethsemane'",
+          "right": "A denial of Christ's complete human nature"
+        }
+      ],
+      "explanation": "None of these announce themselves as heresy, and most are said devoutly. That is the point of this level: errors survive by being restated in language that sounds pious, and recognising the shape matters more than knowing the historical label.",
+      "hint": "Each is a modern phrasing of something a council already answered.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
         }
       ]
     }
