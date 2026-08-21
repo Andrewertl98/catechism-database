@@ -851,6 +851,86 @@
       ]
     },
     {
+      "id": "church-latin-l4-007",
+      "topic": "church-latin",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2370,
+      "prompt": "'Dei Verbum,' the title of Vatican II's Dogmatic Constitution on Divine Revelation, means:",
+      "choices": [
+        "Word of God",
+        "Work of God",
+        "Way of God",
+        "People of God"
+      ],
+      "correctAnswer": "Word of God",
+      "explanation": "'Verbum' is 'word' -- the same root behind 'verbal.' Council documents are titled by their own opening words in Latin, so the title is a genuine clue to the subject rather than a label chosen afterwards.",
+      "hint": "The second word is the root of 'verbal' and 'verbatim.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 101"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l4-008",
+      "topic": "church-latin",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2410,
+      "prompt": "True or False: 'Motu proprio,' describing certain papal documents, literally means 'on his own initiative' -- issued by the pope himself rather than in response to a petition.",
+      "correctAnswer": true,
+      "explanation": "True. 'Motu proprio' is 'by his own motion.' The phrase describes how a document came about, not what it teaches -- a procedural label rather than a doctrinal weight class.",
+      "hint": "'Motu' shares a root with 'motion' -- the phrase is about who set it moving.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 882"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l4-009",
+      "topic": "church-latin",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 2430,
+      "prompt": "'Lex orandi, lex ____' -- 'the law of praying is the law of believing' -- names the link between liturgy and doctrine.",
+      "correctAnswer": "credendi",
+      "explanation": "'Credendi' is 'of believing,' from the same root as 'Credo.' The maxim holds that how the Church prays expresses and safeguards what she believes, which is why liturgical texts are treated as doctrinally serious rather than merely devotional.",
+      "hint": "The missing word comes from the same verb as the title of the Creed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1124"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l4-010",
+      "topic": "church-latin",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2440,
+      "prompt": "'Nihil obstat,' printed alongside an imprimatur, means:",
+      "choices": [
+        "Nothing hinders — no doctrinal error was found",
+        "Nothing is certain — the matter remains open",
+        "Nothing is required — reading is optional",
+        "Nothing is added — the text is unabridged"
+      ],
+      "correctAnswer": "Nothing hinders — no doctrinal error was found",
+      "explanation": "'Nihil obstat' is the censor's finding that nothing stands in the way of publication. It is a negative clearance, not an endorsement: it says no doctrinal error was found, not that the Church recommends the book.",
+      "hint": "'Obstat' is the root of 'obstacle' -- the phrase is about the absence of one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 890"
+        }
+      ]
+    },
+    {
       "id": "church-latin-l5-001",
       "topic": "church-latin",
       "level": 5,
@@ -989,6 +1069,101 @@
           "type": "ccc",
           "reference": "CCC 1113",
           "quote": "There are seven sacraments in the Church: Baptism, Confirmation or Chrismation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l5-007",
+      "topic": "church-latin",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2610,
+      "prompt": "'Ex opere operato,' describing how the sacraments act, is best rendered:",
+      "choices": [
+        "By the very fact of the action being performed",
+        "By the worthiness of the minister",
+        "By the fervour of the recipient",
+        "By the authority of the bishop"
+      ],
+      "correctAnswer": "By the very fact of the action being performed",
+      "explanation": "'Ex opere operato' means the sacrament's efficacy comes from Christ's saving work through the rite itself, not from the holiness of the minister. It is precisely what protects a communicant from having to assess the priest's interior state.",
+      "hint": "The phrase locates the power in the act, not in either person involved.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l5-008",
+      "topic": "church-latin",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: 'Sensus fidei,' the 'sense of the faith' belonging to the whole body of believers, refers to a supernatural instinct for the truth of the faith, not merely to majority opinion among Catholics.",
+      "correctAnswer": true,
+      "explanation": "True. The sensus fidei is described as a supernatural appreciation of the faith aroused by the Holy Spirit in the whole People of God. It is not a poll: a widespread opinion is not automatically the sensus fidei, which is why the term cannot be used to overrule what the Church teaches.",
+      "hint": "Ask whether an instinct given by the Spirit and a headcount of opinions are the same thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 91-93"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l5-009",
+      "topic": "church-latin",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2690,
+      "prompt": "'Opus Dei,' St. Benedict's name for the Liturgy of the Hours, means 'the ____ of God.'",
+      "correctAnswer": "work",
+      "explanation": "'Opus' is 'work.' Benedict calls the Hours the Work of God because for a monk the sung prayer of the Church is not a break from labour but the central labour itself -- the term reorders what counts as productive.",
+      "hint": "Same root as 'opera' -- literally, works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l5-010",
+      "topic": "church-latin",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2710,
+      "prompt": "Match each Latin term of art to what it actually names.",
+      "pairs": [
+        {
+          "left": "Ex cathedra",
+          "right": "A pope teaching definitively from the chair of Peter"
+        },
+        {
+          "left": "Ex opere operato",
+          "right": "Sacramental efficacy from the rite itself, not the minister"
+        },
+        {
+          "left": "Sensus fidei",
+          "right": "The believing instinct of the whole People of God"
+        },
+        {
+          "left": "Lex orandi",
+          "right": "The Church's rule of prayer, expressing her belief"
+        }
+      ],
+      "explanation": "All four are frequently misused. Each names something narrow and specific: a rare mode of papal teaching, a claim about where sacramental power comes from, a Spirit-given instinct rather than an opinion poll, and the doctrinal seriousness of liturgical texts.",
+      "hint": "Two are about the sacraments and the papacy; two are about where the faith is sensed and expressed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
         }
       ]
     },
@@ -1138,6 +1313,86 @@
           "type": "ccc",
           "reference": "CCC 1381",
           "quote": "Seeing, touching, tasting are in thee deceived; how says trusty hearing? that shall be believed."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-007",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Pange Lingua's final two stanzas -- 'Tantum ergo Sacramentum veneremur cernui, et antiquum documentum novo cedat ritui' -- make a claim about the relationship between the old covenant and the new. Which is it?",
+      "choices": [
+        "The ancient document yields to a new rite, fulfilment rather than contradiction",
+        "The ancient document is shown to have been false all along",
+        "The new rite is a temporary concession, with the older form still normative",
+        "The two rites are unrelated and simply coexist"
+      ],
+      "correctAnswer": "The ancient document yields to a new rite, fulfilment rather than contradiction",
+      "explanation": "'Cedat' is 'let it yield' -- a word for giving place, not for being refuted. The line names succession and fulfilment: the older figure gives way because what it pointed toward has arrived, which is precisely the Church's reading of the Old Testament's relation to the New.",
+      "hint": "Everything turns on 'cedat.' Yielding is not the same as being disproved.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128-129"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-008",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 2470,
+      "prompt": "True or False: In Veni Creator Spiritus, the title itself contains an imperative and a description -- 'Come, Creator Spirit' -- naming the Holy Spirit as Creator, not only as sanctifier.",
+      "correctAnswer": true,
+      "explanation": "True. 'Veni' is the imperative and 'Creator' modifies 'Spiritus.' The hymn ascribes creative work to the Spirit rather than reserving creation to the Father, which matches the Creed's own confession of the Spirit as Lord and giver of life.",
+      "hint": "Look at what word is doing the describing, and what it claims the Spirit does.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 291"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-009",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2520,
+      "prompt": "The Dies Irae line 'quaerens me, sedisti lassus' -- 'seeking me, you sat down weary' -- draws its force from alluding to which specific Gospel scene?",
+      "choices": [
+        "Christ, tired from the journey, sitting at Jacob's well",
+        "Christ asleep in the boat during the storm",
+        "Christ weeping over Jerusalem",
+        "Christ resting after the feeding of the five thousand"
+      ],
+      "correctAnswer": "Christ, tired from the journey, sitting at Jacob's well",
+      "explanation": "The line borrows the detail of a wearied Christ seated at the well in John 4, and reads that physical tiredness as the cost of seeking one soul. The hymn's power is in taking a small narrative detail and making it personal to the singer.",
+      "hint": "The scene involves a well, a foreign woman, and an explicitly tired Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 4:6"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-010",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 2530,
+      "prompt": "O Salutaris Hostia opens by addressing the Eucharist as the 'saving ____' -- the Latin word 'Hostia,' meaning a sacrificial offering.",
+      "correctAnswer": "victim",
+      "explanation": "'Hostia' is the sacrificial victim, not merely 'host' in the sense of bread. English keeps the word but drops its meaning, which is why the hymn's opening line sounds gentler in translation than the Latin actually is.",
+      "hint": "The English word we kept looks harmless; the Latin one names something offered in sacrifice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367"
         }
       ]
     }
