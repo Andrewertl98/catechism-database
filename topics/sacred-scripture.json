@@ -1321,6 +1321,107 @@
       ]
     },
     {
+      "id": "sacred-scripture-l6-007",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1740,
+      "prompt": "What historical role did the Council of Rome (382) and the 'Decree of Damasus' play in the canon's history?",
+      "choices": [
+        "They are among the earliest surviving witnesses listing essentially the same 73-book canon later reaffirmed at Trent, evidence the canon was not a late Counter-Reformation invention",
+        "They formally closed the canon for the first time in Christian history, with nothing settled beforehand",
+        "They rejected several books that Trent later added back in",
+        "They concern only the New Testament, not the Old"
+      ],
+      "correctAnswer": "They are among the earliest surviving witnesses listing essentially the same 73-book canon later reaffirmed at Trent, evidence the canon was not a late Counter-Reformation invention",
+      "explanation": "This is the historical answer to the claim that Trent 'added books' in reaction to the Reformation: a substantially matching list appears over a millennium earlier, which means Trent was reaffirming a canon already long in use, not inventing one.",
+      "hint": "Ask how many centuries before Trent this list already existed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-008",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1780,
+      "prompt": "True or False: Codex Sinaiticus and Codex Vaticanus, two of the oldest surviving nearly-complete Greek Bibles, both date from the fourth century.",
+      "correctAnswer": true,
+      "explanation": "True. These two codices are foundational witnesses for establishing the earliest recoverable text of the Greek Bible, and their fourth-century date places them remarkably close to the New Testament's own composition compared to most other ancient literature's manuscript record.",
+      "hint": "Both are dated to the same century, one associated with Egypt, the other traditionally with the Vatican Library.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-009",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "The 'Two-Source Hypothesis' proposes that Matthew and Luke drew on which two sources to explain the Synoptic Gospels' overlapping material?",
+      "choices": [
+        "The Gospel of Mark, and a hypothetical sayings collection scholars call 'Q'",
+        "The Gospel of John and an early creed",
+        "Two independent oral traditions with no written source at all",
+        "The Letters of Paul and the Book of Acts"
+      ],
+      "correctAnswer": "The Gospel of Mark, and a hypothetical sayings collection scholars call 'Q'",
+      "explanation": "'Q' (from German 'Quelle,' source) is a scholarly hypothesis, not a surviving document, proposed to explain material Matthew and Luke share that is absent from Mark. It remains the leading explanation among several competing theories for the Synoptic relationships.",
+      "hint": "One source is a Gospel we still have; the other is hypothesized but never found.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-010",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1827,
+      "prompt": "Match each term from this level to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Synod of Rome (382)",
+          "right": "An early witness to essentially the same canon Trent later reaffirmed"
+        },
+        {
+          "left": "Codex Sinaiticus / Vaticanus",
+          "right": "Two of the oldest surviving nearly-complete Greek Bible manuscripts"
+        },
+        {
+          "left": "The 'Q' source",
+          "right": "A hypothesized, never-recovered sayings collection"
+        },
+        {
+          "left": "Dei Verbum 11",
+          "right": "States Scripture teaches, without error, the truth for our salvation"
+        }
+      ],
+      "explanation": "Together these four items give a real, checkable answer to 'how do we actually know what's in the Bible and where it came from' — early lists, ancient manuscripts, scholarly source theory, and the Church's own doctrinal statement about what the text claims to do.",
+      "hint": "Two of these concern the canon's history; two concern the text's composition and its own teaching about itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
       "id": "sacred-scripture-l7-001",
       "topic": "sacred-scripture",
       "level": 7,
@@ -1475,6 +1576,111 @@
       ]
     },
     {
+      "id": "sacred-scripture-l7-007",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1920,
+      "prompt": "An objector says: 'The Gospels contradict each other on small details, like the exact wording of the inscription over the cross, so they can't be trusted at all.'  What is the accurate response?",
+      "choices": [
+        "Minor variation in incidental detail among independent witnesses is normal and does not undermine agreement on the substantial facts; ancient historians did not expect verbatim uniformity",
+        "The Gospels never differ on any detail whatsoever",
+        "The differences prove the events never happened",
+        "Only one Gospel's account of the inscription should be considered accurate, and the others are simply wrong"
+      ],
+      "correctAnswer": "Minor variation in incidental detail among independent witnesses is normal and does not undermine agreement on the substantial facts; ancient historians did not expect verbatim uniformity",
+      "explanation": "Four independent witnesses to the same event nearly always vary slightly on incidental wording while agreeing on substance — a total absence of such variation would actually be more suspicious, suggesting collusion rather than independent testimony.",
+      "hint": "Ask what perfectly identical wording across four independent accounts would actually suggest.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-008",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "An objector claims: 'The Gospel of Mark ends abruptly at 16:8 with the women afraid, so the Resurrection appearances must be later additions with no basis.'  How should this be addressed?",
+      "choices": [
+        "Mark's abrupt original ending is a real textual question addressed on its own terms in level 10 of this topic, and does not affect the independent, earlier attestation of the Resurrection in Paul's letters",
+        "Mark 16:9-20 is universally accepted as certainly original with no scholarly dispute",
+        "The claim proves the Resurrection was invented after Mark was written",
+        "This detail has no bearing on the reliability of any other Gospel"
+      ],
+      "correctAnswer": "Mark's abrupt original ending is a real textual question addressed on its own terms in level 10 of this topic, and does not affect the independent, earlier attestation of the Resurrection in Paul's letters",
+      "explanation": "This is a genuine textual-critical question, not a threat to the Resurrection's attestation — 1 Corinthians 15, written earlier than Mark, already contains a creedal formula naming the Resurrection and witnesses, independent of how Mark's Gospel happens to end.",
+      "hint": "Ask whether the earliest evidence for the Resurrection depends on Mark's ending specifically.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-009",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1970,
+      "prompt": "True or False: The apparent tension between James 2:24 ('a person is justified by works and not by faith alone') and Paul's teaching on justification by faith is resolved by recognizing they are answering different questions about faith.",
+      "correctAnswer": true,
+      "explanation": "True. James addresses a faith that is mere intellectual assent producing no fruit — dead faith — while Paul addresses whether observance of the Mosaic Law's works earns justification. They are not contradicting each other on the same question; they are answering two different questions the word 'faith' can raise.",
+      "hint": "Ask whether 'works' and 'faith' mean exactly the same thing in each author's argument.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 2:24"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1815"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l7-010",
+      "topic": "sacred-scripture",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each objection to its accurate response.",
+      "pairs": [
+        {
+          "left": "'The Gospels contradict each other on small details'",
+          "right": "Normal variation among independent witnesses on incidental detail"
+        },
+        {
+          "left": "'Mark's abrupt ending disproves the Resurrection'",
+          "right": "A real textual question, unrelated to Paul's earlier, independent attestation"
+        },
+        {
+          "left": "'James contradicts Paul on faith'",
+          "right": "Different questions about faith, not a real contradiction"
+        },
+        {
+          "left": "'The Bible alone is self-interpreting'",
+          "right": "Genuinely disputed passages like this one show interpretation needs more than the text alone"
+        }
+      ],
+      "explanation": "The fourth row uses this very level's own material as its evidence: real, sincere disagreement among readers of James and Paul over centuries is itself a demonstration that the text alone did not settle every dispute, which is exactly the sola scriptura difficulty covered elsewhere in this database.",
+      "hint": "One row uses the disagreement discussed in this level as evidence for a larger point about biblical interpretation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1815"
+        }
+      ]
+    },
+    {
       "id": "sacred-scripture-l8-001",
       "topic": "sacred-scripture",
       "level": 8,
@@ -1619,6 +1825,107 @@
           "type": "council",
           "reference": "Second Vatican Council, Dei Verbum 12",
           "quote": "The interpreter must investigate what meaning the sacred writer intended to express and actually expressed in particular circumstances by using contemporary literary forms."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-007",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2090,
+      "prompt": "According to Dei Verbum 12, what must an interpreter attend to alongside literary form and historical context when reading Scripture?",
+      "choices": [
+        "The content and unity of Scripture as a whole, and the living Tradition of the Church",
+        "Only the original autograph manuscripts, none of which survive",
+        "Only a single Church Father's interpretation, treated as final",
+        "Contemporary popular opinion about the passage's meaning"
+      ],
+      "correctAnswer": "The content and unity of Scripture as a whole, and the living Tradition of the Church",
+      "explanation": "Dei Verbum 12 explicitly requires reading historical-critical findings together with the whole of Scripture and the Church's living Tradition — the historical method is genuinely valued, but never treated as sufficient on its own, apart from the Church's ongoing interpretive life.",
+      "hint": "The document names two things beyond historical method itself that interpretation must attend to.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 12"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-008",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2120,
+      "prompt": "True or False: The Alexandrian school's emphasis on allegory and the Antiochene school's emphasis on literal-historical reading were simply incompatible, with the Church eventually declaring one wrong.",
+      "correctAnswer": false,
+      "explanation": "False. Both schools contributed genuine insight, and the Church has never condemned either emphasis wholesale — she draws on the literal grounding the Antiochenes stressed and the christological depth the Alexandrians pursued, which is exactly why the Catechism's four senses of Scripture include both a literal and several spiritual senses rather than picking one school over the other.",
+      "hint": "Ask whether the Catechism's own senses of Scripture, covered earlier in this topic, favor only one of these emphases.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-009",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2150,
+      "prompt": "Given the binding of Isaac (Genesis 22), which correctly matches a historical-critical reading to a typological reading, without setting the two against each other?",
+      "choices": [
+        "Historically, the narrative reflects ancient Israel's rejection of child sacrifice; typologically, it foreshadows the Father offering his own Son, who (unlike Isaac) is not spared",
+        "The historical-critical reading proves the typological reading false",
+        "Only the typological reading is theologically acceptable; the historical reading should be discarded",
+        "The two readings address identical questions and cannot both be held"
+      ],
+      "correctAnswer": "Historically, the narrative reflects ancient Israel's rejection of child sacrifice; typologically, it foreshadows the Father offering his own Son, who (unlike Isaac) is not spared",
+      "explanation": "These are two different, complementary levels of reading the same text: one asks what the passage meant in its ancient Near Eastern context, the other asks how the same passage points forward to Christ. Neither displaces the other, and holding both is exactly what CCC 128-130 does with this narrative.",
+      "hint": "Ask whether a historical reading and a typological reading have to compete, or can both be true at once.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l8-010",
+      "topic": "sacred-scripture",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each method or school to its central working concern.",
+      "pairs": [
+        {
+          "left": "Historical-critical method",
+          "right": "The text's original historical and literary context"
+        },
+        {
+          "left": "Alexandrian school",
+          "right": "Allegorical depth, Christ present throughout the text"
+        },
+        {
+          "left": "Antiochene school",
+          "right": "Literal-historical grounding before spiritual reading"
+        },
+        {
+          "left": "Documentary Hypothesis",
+          "right": "Proposes four source traditions compiled into the Pentateuch"
+        }
+      ],
+      "explanation": "None of these approaches is, by itself, the Church's whole method of reading Scripture — each contributes one genuine concern, and Dei Verbum 12's own instruction is to hold historical method together with unity and Tradition rather than let any one approach stand alone.",
+      "hint": "Ask what specific concern each method or school contributes, without assuming any one of them is sufficient alone.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 12"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
         }
       ]
     },
@@ -1789,6 +2096,115 @@
       ]
     },
     {
+      "id": "sacred-scripture-l9-007",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2280,
+      "prompt": "The 'New Perspective on Paul' (associated with E.P. Sanders and N.T. Wright) primarily reframes which traditional debate?",
+      "choices": [
+        "It argues Paul's 'works of the law' language targeted specifically Jewish identity markers like circumcision and food laws, not works-righteousness in general",
+        "It denies Paul wrote any of the letters attributed to him",
+        "It argues justification by faith is not a genuine Pauline teaching",
+        "It concerns only the dating of Paul's letters, not their content"
+      ],
+      "correctAnswer": "It argues Paul's 'works of the law' language targeted specifically Jewish identity markers like circumcision and food laws, not works-righteousness in general",
+      "explanation": "This is a live scholarly reframing, not settled Church teaching: the New Perspective proposes Paul's target in Galatians and Romans was covenant boundary markers distinguishing Jew from Gentile, rather than the broader question of earning salvation by any good works whatsoever. Catholic scholars have engaged it with a mix of appreciation and critique rather than uniform acceptance or rejection.",
+      "hint": "Ask what specific target this scholarly reframing proposes for Paul's argument, versus the traditional reading.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1991"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-008",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2310,
+      "prompt": "The Church's typological reading of Isaac (CCC 128-130) as a foreshadowing of Christ can be compared to which other Old Testament type covered elsewhere in this app's content?",
+      "choices": [
+        "The Passover lamb, whose blood spares the firstborn and prefigures Christ the Lamb of God",
+        "The Tower of Babel, which has no christological typology attached to it",
+        "The book of Ecclesiastes, which is Wisdom literature rather than typological narrative",
+        "The genealogies in Chronicles, which serve a purely historical function"
+      ],
+      "correctAnswer": "The Passover lamb, whose blood spares the firstborn and prefigures Christ the Lamb of God",
+      "explanation": "Both Isaac and the Passover lamb involve a beloved life offered or spared, prefiguring the true offering of Christ — the same typological pattern (a foreshadowing later fulfilled) recurring across different Old Testament narratives, rather than being a one-off reading unique to Genesis 22.",
+      "hint": "Ask which of these other options also involves a sacrificial offering that spares a life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-009",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2330,
+      "prompt": "True or False: The Mass lectionary's multi-year cycle of readings, covered in the Liturgy topic, has no real connection to the canon and interpretation questions covered in this topic.",
+      "correctAnswer": false,
+      "explanation": "False. The lectionary's structure presupposes a settled canon (which books to draw readings from) and embodies the Church's own interpretive practice of pairing Old and New Testament readings typologically — the two topics describe the same body of Scripture from different angles, not two unrelated subjects.",
+      "hint": "Ask what a reading cycle presupposes about which books exist to be read from, and how they are paired.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l9-010",
+      "topic": "sacred-scripture",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each item to the status or connection this level gives it.",
+      "pairs": [
+        {
+          "left": "New Perspective on Paul",
+          "right": "A live scholarly reframing, engaged critically, not settled Church teaching"
+        },
+        {
+          "left": "Isaac and the Passover lamb",
+          "right": "The same typological pattern recurring across different narratives"
+        },
+        {
+          "left": "Dei Verbum on Scripture and Tradition",
+          "right": "One sacred deposit of the word of God, not two separate sources"
+        },
+        {
+          "left": "The Mass lectionary",
+          "right": "Presupposes the canon and embodies the Church's typological reading practice"
+        }
+      ],
+      "explanation": "Each row connects this level's material to something covered elsewhere — a scholarly debate, another Old Testament type, a conciliar document, and the liturgy — which is the actual skill an advanced level should be building: seeing how one topic's material bears on material learned elsewhere.",
+      "hint": "Every row here links this level's material to something taught in a different level or a different topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1991"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128"
+        }
+      ]
+    },
+    {
       "id": "sacred-scripture-l10-001",
       "topic": "sacred-scripture",
       "level": 10,
@@ -1939,6 +2355,117 @@
           "type": "ccc",
           "reference": "CCC 120",
           "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books. This complete list is called the canon of Scripture."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-007",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "The Comma Johanneum (1 John 5:7-8), an explicitly Trinitarian formula absent from the earliest Greek manuscripts, is best understood how?",
+      "choices": [
+        "As a later scribal addition not present in the earliest textual witnesses; its absence from critical editions does not weaken Trinitarian doctrine, which rests on far broader scriptural and traditional grounds",
+        "As certainly original, proving all modern critical editions are corrupt",
+        "As proof the doctrine of the Trinity has no scriptural basis at all",
+        "As a passage every Catholic must affirm as inspired scriptural text regardless of manuscript evidence"
+      ],
+      "correctAnswer": "As a later scribal addition not present in the earliest textual witnesses; its absence from critical editions does not weaken Trinitarian doctrine, which rests on far broader scriptural and traditional grounds",
+      "explanation": "Textual criticism can identify a later addition without threatening the doctrine that addition was trying to state explicitly — the Trinity is established across many other texts and the whole shape of the New Testament's witness, not dependent on this one contested verse.",
+      "hint": "Ask whether Trinitarian doctrine depends on this single verse, or rests on much broader evidence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 249"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-008",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "Given that Mark 16:9-20 is absent from the earliest and best manuscripts (Sinaiticus, Vaticanus), how do modern Catholic Bibles typically present it?",
+      "choices": [
+        "Included in the text, usually with a footnote or bracket noting its uncertain textual status, rather than being silently removed or silently treated as certainly original",
+        "Removed entirely from all Catholic Bibles",
+        "Presented with no acknowledgment of any textual question",
+        "Replaced with an entirely different ending composed by modern editors"
+      ],
+      "correctAnswer": "Included in the text, usually with a footnote or bracket noting its uncertain textual status, rather than being silently removed or silently treated as certainly original",
+      "explanation": "This is the Church's actual practice with contested passages: transparency rather than either suppression or false certainty — the reader is told the manuscript evidence is contested, and can weigh it, rather than the difficulty being hidden in either direction.",
+      "hint": "Ask whether the honest response to genuine manuscript uncertainty is to hide it or to disclose it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-009",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2520,
+      "prompt": "A friend says: 'I heard verses were added to the Bible later — doesn't that mean it's unreliable?' Drawing on this whole level, what is the most accurate response?",
+      "choices": [
+        "A small number of specific, well-identified passages have disputed textual status, honestly flagged in modern critical editions and Catholic Bibles — this is precisely the kind of transparency that makes the text's overall reliability checkable, not evidence against it",
+        "No such textual questions exist anywhere in the Bible",
+        "The entire Bible's text is equally uncertain throughout",
+        "This proves the doctrine of inspiration is false"
+      ],
+      "correctAnswer": "A small number of specific, well-identified passages have disputed textual status, honestly flagged in modern critical editions and Catholic Bibles — this is precisely the kind of transparency that makes the text's overall reliability checkable, not evidence against it",
+      "explanation": "The honest answer names the real, specific, limited cases (the Comma Johanneum, Mark's ending, the pericope adulterae) rather than either denying the issue exists or overgeneralizing it into a claim that nothing in the Bible can be trusted — precision protects the case better than either extreme.",
+      "hint": "Ask whether the accurate response minimizes the real cases, exaggerates them, or names them specifically.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-010",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each textual question to the Church's actual resolution.",
+      "pairs": [
+        {
+          "left": "Comma Johanneum",
+          "right": "Later addition; Trinitarian doctrine rests on far broader grounds"
+        },
+        {
+          "left": "Mark 16:9-20",
+          "right": "Included with a footnote noting its uncertain status"
+        },
+        {
+          "left": "Pericope adulterae (John 7:53-8:11)",
+          "right": "Unsettled manuscript history, still transmitted with a note"
+        },
+        {
+          "left": "Critical editions (Nestle-Aland, Biblia Hebraica)",
+          "right": "Scholarly tools for establishing the most reliable text from all evidence"
+        }
+      ],
+      "explanation": "This level closes the topic on the same principle running through all ten levels: precision and honesty about real textual and interpretive questions is what protects Scripture's claim to reliability, rather than either denying the questions exist or letting them go unanswered.",
+      "hint": "Every row here shows a real, specific difficulty met with disclosure rather than denial.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 249"
         }
       ]
     }
