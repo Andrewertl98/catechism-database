@@ -193,6 +193,33 @@
       ]
     },
     {
+      "id": "prayer-l1-010",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1250,
+      "prompt": "The Catechism says humility is the foundation of prayer. Why?",
+      "choices": [
+        "Because we do not know how to pray as we ought, so prayer begins by receiving rather than achieving",
+        "Because God rewards those who think poorly of themselves",
+        "Because prayer should always use formal language",
+        "Because only the humble are permitted to pray"
+      ],
+      "correctAnswer": "Because we do not know how to pray as we ought, so prayer begins by receiving rather than achieving",
+      "explanation": "Humility here is not self-deprecation but accuracy. Paul says plainly that we do not know how to pray as we ought and that the Spirit himself intercedes — so the first move in prayer is admitting it is not a skill we bring, which is why beginners and mystics start in the same place.",
+      "hint": "The reason concerns what we lack, not what we deserve.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559"
+        },
+        {
+          "type": "scripture",
+          "reference": "Romans 8:26"
+        }
+      ]
+    },
+    {
       "id": "prayer-l2-001",
       "topic": "prayer",
       "level": 2,
@@ -391,6 +418,29 @@
           "type": "ccc",
           "reference": "CCC 2855",
           "quote": "The doxology takes up again, by inclusion, the first three petitions to our Father: the glorification of his name, the coming of his reign, and the power of his saving will."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-010",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "The Catechism says calling God 'Our Father' requires purifying our heart of certain false images. Which?",
+      "choices": [
+        "Images drawn from our own experience of fathers or authority, which may distort rather than reveal who God is",
+        "Any image of God as personal at all",
+        "Images taken from Scripture rather than philosophy",
+        "Images of God as merciful rather than just"
+      ],
+      "correctAnswer": "Images drawn from our own experience of fathers or authority, which may distort rather than reveal who God is",
+      "explanation": "The word Father is given by Christ, but everyone hears it through a particular history. For someone whose father was absent or cruel, the word carries freight that has to be purified rather than ignored — the Catechism names this directly rather than assuming the word lands cleanly.",
+      "hint": "The purification concerns what we bring to the word, not the word itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2779"
         }
       ]
     },
@@ -597,6 +647,27 @@
       ]
     },
     {
+      "id": "prayer-l3-010",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2120,
+      "prompt": "True or False: Popular devotions such as the Rosary are meant to lead toward the liturgy and flow from it, not to substitute for it.",
+      "correctAnswer": true,
+      "explanation": "True. The Church values popular devotion highly while keeping its relation to the liturgy clear: devotions prepare for the sacraments and extend their effect into daily life. A Rosary prayed during Mass, rather than participation in the Mass, inverts that order.",
+      "hint": "Ask which one the other is ordered toward.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1675"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
       "id": "prayer-l4-001",
       "topic": "prayer",
       "level": 4,
@@ -794,6 +865,33 @@
           "type": "ccc",
           "reference": "CCC 1174",
           "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-010",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2440,
+      "prompt": "Why is the Liturgy of the Hours described as the prayer of the whole Church rather than a private devotion?",
+      "choices": [
+        "It is Christ's own prayer continuing in his Body, so the one praying it prays with and for the whole Church, alone or not",
+        "Because it must always be prayed in a group",
+        "Because only the ordained may pray it",
+        "Because it consists entirely of Scripture"
+      ],
+      "correctAnswer": "It is Christ's own prayer continuing in his Body, so the one praying it prays with and for the whole Church, alone or not",
+      "explanation": "This is why a monk praying Vigils at three in the morning with no one present is not praying privately. The Hours sanctify the whole course of day and night, and the one praying them stands in for more than himself — which is what makes it liturgy rather than devotion.",
+      "hint": "Whose prayer is it, before it is anyone's in particular?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1175"
         }
       ]
     },
@@ -1000,6 +1098,27 @@
       ]
     },
     {
+      "id": "prayer-l5-010",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2710,
+      "prompt": "True or False: Since contemplative prayer is a gift, there is nothing a person can usefully do about it.",
+      "correctAnswer": false,
+      "explanation": "False, and both halves matter. Contemplation cannot be produced by any technique; it is given. But a person can dispose themselves — fidelity to set times, silence, purification of heart, humility. Disposing is real work that does not cause the gift, which is precisely why it must be done without expecting to earn anything.",
+      "hint": "Distinguish preparing to receive something from producing it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2713"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        }
+      ]
+    },
+    {
       "id": "prayer-l6-001",
       "topic": "prayer",
       "level": 6,
@@ -1139,6 +1258,115 @@
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 83-89",
           "quote": "By tradition going back to early Christian times, the divine office is devised so that the whole course of the day and night is made holy by the praises of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-007",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "CCC 2725 calls prayer 'a battle'. Against what, principally?",
+      "choices": [
+        "Against ourselves and against the tempter — prayer is opposed by our own distraction and dryness as much as by anything external",
+        "Against those who oppose the Church",
+        "Against doubt about doctrine",
+        "Against the demands of ordinary work"
+      ],
+      "correctAnswer": "Against ourselves and against the tempter — prayer is opposed by our own distraction and dryness as much as by anything external",
+      "explanation": "Naming prayer a battle sets expectations correctly. Someone who assumes prayer should feel natural concludes from difficulty that they are doing it wrong, or that God is absent. The Catechism says the difficulty is normal and is itself part of the thing.",
+      "hint": "The opposition named is nearer than any enemy outside.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-008",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "CCC 2729 treats distraction in prayer. What does it say the distraction reveals?",
+      "choices": [
+        "What we are actually attached to — so noticing it becomes information rather than merely a failure",
+        "That the person is not called to prayer",
+        "That prayer should be shortened until distraction stops",
+        "That distraction is a sin requiring confession"
+      ],
+      "correctAnswer": "What we are actually attached to — so noticing it becomes information rather than merely a failure",
+      "explanation": "To set out to hunt distractions is to fall into their trap; the counsel is simply to turn back to the Lord. But what the mind runs to shows where the heart already is, and that is worth knowing rather than only regretting.",
+      "hint": "Ask whether what distracts you is random.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2729"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-009",
+      "topic": "prayer",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: According to the Catechism, dryness in prayer is a sign that something has gone wrong and prayer should be changed or reduced.",
+      "correctAnswer": false,
+      "explanation": "False. Dryness is when the heart is separated from God with no taste for spiritual things — and the Catechism treats it as the moment of faith rather than a malfunction. It is the hour of sheer faith clinging to Jesus in his agony and tomb, which is not a state to be escaped by technique.",
+      "hint": "Ask what remains when consolation is gone, and whether that is a lesser thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-010",
+      "topic": "prayer",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each difficulty in prayer to what the Catechism says about it.",
+      "pairs": [
+        {
+          "left": "Distraction",
+          "right": "Reveals our attachments; turn back rather than hunt it"
+        },
+        {
+          "left": "Dryness",
+          "right": "The hour of sheer faith, not a malfunction"
+        },
+        {
+          "left": "Acedia",
+          "right": "A spiritual sloth from lax vigilance and careless heart"
+        },
+        {
+          "left": "Discouragement at unanswered prayer",
+          "right": "Met by filial trust, not by concluding God did not hear"
+        }
+      ],
+      "explanation": "The Catechism treats all four as ordinary rather than exceptional. Someone who has been told prayer should be consoling will read each of these as evidence of personal failure; someone who expects them recognises the terrain.",
+      "hint": "All four are described as normal features of a praying life, not as signs of failure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2729"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2734"
         }
       ]
     },
@@ -1297,6 +1525,127 @@
       ]
     },
     {
+      "id": "prayer-l7-007",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Someone prayed for years that a family member would recover, and they died. They ask whether God heard. What does the Catechism's teaching on filial trust actually say?",
+      "choices": [
+        "Prayer is not a mechanism for obtaining outcomes; God answers as a Father, and the answer may not be the granting — which is not the same as not being heard",
+        "The prayer must have lacked sufficient faith",
+        "God always grants what is asked if the request is good",
+        "Unanswered prayer shows the person prayed incorrectly"
+      ],
+      "correctAnswer": "Prayer is not a mechanism for obtaining outcomes; God answers as a Father, and the answer may not be the granting — which is not the same as not being heard",
+      "explanation": "The two wrong answers that blame the person do real damage and are commonly said. Christ's own prayer in Gethsemane was not granted in the form asked. Whether to say any of this to someone freshly bereaved is a separate question — often the answer is not yet.",
+      "hint": "Consider a prayer in Scripture that was heard and not granted.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2734"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2735"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 22:42"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-008",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Someone says they have stopped praying because they no longer feel anything when they do. What is the most useful response?",
+      "choices": [
+        "Feelings are not the measure; the Catechism treats dryness as the hour of sheer faith, and perseverance without consolation is prayer at its most costly",
+        "They should find a method that restores the feeling",
+        "The absence of feeling means God has withdrawn",
+        "They should wait until the desire returns before praying again"
+      ],
+      "correctAnswer": "Feelings are not the measure; the Catechism treats dryness as the hour of sheer faith, and perseverance without consolation is prayer at its most costly",
+      "explanation": "Equating prayer with felt experience is the assumption underneath this, and it will eventually stop anyone praying. The last option is the most damaging in practice: waiting for desire to return usually means never returning at all.",
+      "hint": "Ask what is actually being measured when someone says prayer 'isn't working'.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2742"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-009",
+      "topic": "prayer",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: Praying at fixed times, even when one does not feel like it, is a lesser form of prayer than praying spontaneously when moved.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism urges praying at regular hours precisely because feeling is unreliable, and a life ordered by set times of prayer is how 'pray always' becomes possible for someone with work and children. Spontaneity is good; depending on it alone means praying only when it is easy.",
+      "hint": "Ask which of the two survives a difficult month.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2742"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2743"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-010",
+      "topic": "prayer",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each thing someone says about prayer to what actually answers it.",
+      "pairs": [
+        {
+          "left": "'God knows already, so why ask?'",
+          "right": "Asking changes the one asking, and God wills to be asked"
+        },
+        {
+          "left": "'My prayer wasn't answered'",
+          "right": "Heard is not the same as granted; Gethsemane shows the difference"
+        },
+        {
+          "left": "'I feel nothing when I pray'",
+          "right": "Dryness is the hour of faith, not evidence of absence"
+        },
+        {
+          "left": "'I'm too distracted to pray well'",
+          "right": "Turn back gently; distraction reveals attachment, not disqualification"
+        }
+      ],
+      "explanation": "Each of these is usually said with real discouragement rather than as an argument. The answers matter, and the manner of giving them matters as much — delivered as corrections they confirm the person's suspicion that they were doing it wrong.",
+      "hint": "All four are more often confessions than objections.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2734"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2729"
+        }
+      ]
+    },
+    {
       "id": "prayer-l8-001",
       "topic": "prayer",
       "level": 8,
@@ -1447,6 +1796,131 @@
           "type": "ccc",
           "reference": "CCC 2667",
           "quote": "The most usual formulation... 'Lord Jesus Christ, Son of God, have mercy on us sinners'... combines the Christological hymn of Philippians 2:6-11 with the cry of the publican and the blind men begging for light."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-007",
+      "topic": "prayer",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "The Jesus Prayer — 'Lord Jesus Christ, Son of God, have mercy on me, a sinner' — is valued in the tradition chiefly because:",
+      "choices": [
+        "It unites the invocation of the holy name with the humility of the tax collector, and can be prayed continually until it accompanies the breath",
+        "It is the shortest possible prayer",
+        "It replaces the need for liturgical prayer",
+        "It guarantees contemplative experience when repeated enough"
+      ],
+      "correctAnswer": "It unites the invocation of the holy name with the humility of the tax collector, and can be prayed continually until it accompanies the breath",
+      "explanation": "The prayer joins two things: the holy Name, which the tradition holds is itself powerful, and the publican's plea, which keeps the one praying in the truth about himself. The last option is precisely the error to avoid — no repetition produces contemplation, which is given and not extracted.",
+      "hint": "Two Gospel elements are combined here: a name, and a sinner's words.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2667"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2668"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 18:13"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-008",
+      "topic": "prayer",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2130,
+      "prompt": "True or False: Prayer addressed to the Holy Spirit is unusual in the tradition, since prayer is normally offered to the Father through the Son.",
+      "correctAnswer": false,
+      "explanation": "False. The ordinary movement of liturgical prayer is to the Father through the Son in the Spirit, but the Church also prays to the Spirit directly — Veni Creator, Veni Sancte Spiritus — and the Catechism treats invoking him as the simplest and most direct way to enter prayer at all.",
+      "hint": "Recall two hymns sung at Pentecost and at confirmations.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2670"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2671"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-009",
+      "topic": "prayer",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2160,
+      "prompt": "What is the danger in treating apophatic prayer as simply superior to kataphatic prayer?",
+      "choices": [
+        "It mistakes a difference of mode for a scale of value, and can lead someone to abandon images before they are actually being drawn beyond them",
+        "Apophatic prayer is forbidden",
+        "Kataphatic prayer is only for beginners",
+        "Images are always obstacles to God"
+      ],
+      "correctAnswer": "It mistakes a difference of mode for a scale of value, and can lead someone to abandon images before they are actually being drawn beyond them",
+      "explanation": "The Incarnation makes imageless prayer a strange thing to treat as automatically higher; God gave himself an image. Emptying the mind on purpose because one has read that the advanced do so is a technique, and the whole point of apophatic prayer is that it is not one.",
+      "hint": "Ask whether God's own self-revelation was imageless.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2717"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-010",
+      "topic": "prayer",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each guide for prayer to what the Catechism says it provides.",
+      "pairs": [
+        {
+          "left": "The family",
+          "right": "The first place where prayer is learned, day by day"
+        },
+        {
+          "left": "Ordained ministers",
+          "right": "Formation of the faithful in the life of prayer"
+        },
+        {
+          "left": "Consecrated life",
+          "right": "A form of life ordered wholly toward contemplation"
+        },
+        {
+          "left": "A spiritual director",
+          "right": "Personal accompaniment in discernment"
+        }
+      ],
+      "explanation": "The first is easy to overlook and hardest to substitute for. The Catechism calls the family the domestic church and the first school of prayer — nothing later fully replaces having seen adults pray.",
+      "hint": "One of these comes before any institution and is the hardest to replace.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2686"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2687"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
         }
       ]
     },
@@ -1619,6 +2093,119 @@
       ]
     },
     {
+      "id": "prayer-l9-007",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2280,
+      "prompt": "Ignatian discernment distinguishes consolation from desolation. What is the standard counsel about decisions made in desolation?",
+      "choices": [
+        "Do not change a resolution made in consolation while in desolation; hold the earlier course until clarity returns",
+        "Act quickly on whatever desolation suggests",
+        "Treat desolation as proof the earlier decision was wrong",
+        "Suspend all prayer until desolation lifts"
+      ],
+      "correctAnswer": "Do not change a resolution made in consolation while in desolation; hold the earlier course until clarity returns",
+      "explanation": "The rule protects against a predictable failure: desolation makes abandonment look like realism. Ignatius counsels holding to what was decided in light rather than revising it in darkness, and if anything increasing prayer rather than reducing it.",
+      "hint": "The counsel concerns which state you should be in when you decide.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2729"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-008",
+      "topic": "prayer",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2310,
+      "prompt": "True or False: Thérèse of Lisieux's 'Little Way' proposes an easier path than the Carmelite mysticism of Teresa of Ávila and John of the Cross.",
+      "correctAnswer": false,
+      "explanation": "False. It is not a reduction of the demand but a relocation of it: since she could not perform great deeds, she would do small ones with complete love, and would let herself be carried rather than climb. Confidence in mercy replaces achievement — which is harder for most people than heroic effort, not easier.",
+      "hint": "Ask whether accepting that you cannot climb is a lower standard or a different one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2558"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-009",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2330,
+      "prompt": "What did John of the Cross mean by saying the dark night is God's work rather than the soul's failure?",
+      "choices": [
+        "It is a purification God brings about, withdrawing sensible consolation so attachment shifts from the gifts to the Giver",
+        "It is punishment for unconfessed sin",
+        "It is a psychological condition to be treated",
+        "It means the person has stopped praying properly"
+      ],
+      "correctAnswer": "It is a purification God brings about, withdrawing sensible consolation so attachment shifts from the gifts to the Giver",
+      "explanation": "This reverses the natural reading. The one experiencing it concludes they have failed or been abandoned; John says the darkness is the action of God on a soul that has been attached to consolations rather than to him. The distinction from ordinary dryness or from depression is exactly what a director is for.",
+      "hint": "Ask who is doing something in the night, on his account.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2712"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-010",
+      "topic": "prayer",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each school of spirituality to its characteristic emphasis.",
+      "pairs": [
+        {
+          "left": "Carmelite",
+          "right": "Interior ascent, purification, and infused contemplation"
+        },
+        {
+          "left": "Ignatian",
+          "right": "Imaginative engagement with Scripture and discernment of spirits"
+        },
+        {
+          "left": "Benedictine",
+          "right": "Lectio divina within a rhythm of ordered common prayer and work"
+        },
+        {
+          "left": "Franciscan",
+          "right": "Poverty, creation, and the humanity of Christ as the way in"
+        }
+      ],
+      "explanation": "These are complementary routes rather than rival systems, and the tradition assumes people differ in which one fits. Insisting everyone pray in one manner is a good way to convince someone with a different temperament that they cannot pray at all.",
+      "hint": "One is imaginative, one ascetical and interior, one liturgical and rhythmic, one incarnational.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2683"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2693"
+        }
+      ]
+    },
+    {
       "id": "prayer-l10-001",
       "topic": "prayer",
       "level": 10,
@@ -1764,6 +2351,123 @@
           "type": "ccc",
           "reference": "CCC 2705",
           "quote": "Meditation is above all a quest. The mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-007",
+      "topic": "prayer",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2470,
+      "prompt": "How should someone tell the difference between the dark night described by John of the Cross and clinical depression?",
+      "choices": [
+        "Not alone — the tradition assumes a director, and the distinction has practical consequences, since one calls for perseverance and the other for treatment",
+        "By the duration alone",
+        "The two are the same phenomenon under different names",
+        "By whether the person still attends Mass"
+      ],
+      "correctAnswer": "Not alone — the tradition assumes a director, and the distinction has practical consequences, since one calls for perseverance and the other for treatment",
+      "explanation": "This matters more than most points in this topic. Reading depression as a spiritual purification can keep someone from care they need; reading purification as pathology can medicate away something God is doing. The classic signs John gives are real but they are not self-administered, and the Church's own respect for medicine applies here.",
+      "hint": "Notice that both wrong readings cause harm, in opposite directions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1503"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-008",
+      "topic": "prayer",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2500,
+      "prompt": "True or False: Since infused contemplation cannot be produced by any method, a person's own effort in prayer is ultimately irrelevant.",
+      "correctAnswer": false,
+      "explanation": "False, and this is the hinge of the whole topic. What is given cannot be earned, and disposing oneself is still real work — fidelity when nothing is felt, silence kept, the heart purified. The tradition holds both without resolving the tension: God gives freely, and he ordinarily gives to those who kept showing up.",
+      "hint": "The tradition holds two things here that sound as though only one can be true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2713"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-009",
+      "topic": "prayer",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2520,
+      "prompt": "A person reports that after years of discursive meditation they can no longer meditate, feel drawn to simply rest in God's presence, and are troubled by having no thoughts. What does the tradition suggest?",
+      "choices": [
+        "These are the classic signs of a transition from meditation toward contemplative prayer, which should be received rather than resisted by forcing discursive method",
+        "They should redouble their efforts at discursive meditation",
+        "They have lost the ability to pray and should begin again as a beginner",
+        "They are certainly experiencing the dark night of the spirit"
+      ],
+      "correctAnswer": "These are the classic signs of a transition from meditation toward contemplative prayer, which should be received rather than resisted by forcing discursive method",
+      "explanation": "The inability to meditate combined with a drawing toward simple loving attention is the described pattern. The right response is not to force the earlier method back — but note the last option overreaches: naming this the dark night of the spirit is a stronger claim than the signs support, which is where a director matters.",
+      "hint": "Two options here are wrong by resisting the change, and one by over-diagnosing it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2711"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-010",
+      "topic": "prayer",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each state to what it actually is.",
+      "pairs": [
+        {
+          "left": "Ordinary dryness",
+          "right": "A normal season of prayer; persevere without changing course"
+        },
+        {
+          "left": "Acedia",
+          "right": "Sloth arising from lax vigilance; met by renewed discipline"
+        },
+        {
+          "left": "Dark night",
+          "right": "God's purifying withdrawal of consolation; discerned with a director"
+        },
+        {
+          "left": "Depression",
+          "right": "An illness calling for treatment, not only spiritual counsel"
+        }
+      ],
+      "explanation": "These are frequently confused with one another, and each confusion has a cost. The last row is the one this app most wants right: a person told to pray harder through an illness has been failed, and the Church's own regard for medicine gives no ground for that advice.",
+      "hint": "Only one of these four is answered by anything other than prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1503"
         }
       ]
     }
