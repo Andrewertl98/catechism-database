@@ -134,6 +134,101 @@
       ]
     },
     {
+      "id": "apologetics-l1-007",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1050,
+      "prompt": "True or False: Apologetics is only for scholars and trained theologians, not for ordinary Catholics.",
+      "correctAnswer": false,
+      "explanation": "False. Peter's charter is addressed to every believer, not to specialists. Being ready to explain the hope that is in you does not require a degree; it requires knowing why you actually believe what you say you believe.",
+      "hint": "Consider who the letter was originally written to.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l1-008",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1250,
+      "prompt": "The Catechism teaches that faith seeks understanding. What follows for someone with real questions about the faith?",
+      "choices": [
+        "Questions are proper to faith, which by its nature seeks deeper understanding of what it believes",
+        "Questions indicate weak faith and should be suppressed",
+        "Questions are permitted only for those preparing for baptism",
+        "Questions should be directed only to clergy, never pursued personally"
+      ],
+      "correctAnswer": "Questions are proper to faith, which by its nature seeks deeper understanding of what it believes",
+      "explanation": "Faith is not the end of thinking. It is precisely because a believer holds something to be true that they want to understand it better — which is why suppressing honest questions tends to weaken faith rather than protect it.",
+      "hint": "The phrase is 'faith seeking understanding,' not 'faith replacing it.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 158"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l1-009",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1300,
+      "prompt": "Peter tells Christians to make their defense with gentleness and ____, ruling out contempt toward the person asking.",
+      "correctAnswer": "reverence",
+      "explanation": "The manner is part of the instruction, not an optional refinement of it. An argument delivered with contempt has already failed at what it was for, however sound its content.",
+      "hint": "The word suggests treating the other person as owed respect, not as an opponent.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l1-010",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1350,
+      "prompt": "Match each approach to whether it belongs in Catholic apologetics.",
+      "pairs": [
+        {
+          "left": "Stating the other position as its holder would recognise it",
+          "right": "Belongs — accuracy is the precondition of a real answer"
+        },
+        {
+          "left": "Answering a wound with an argument",
+          "right": "Does not belong — it treats a person as a position"
+        },
+        {
+          "left": "Admitting what you do not know",
+          "right": "Belongs — credibility depends on it"
+        },
+        {
+          "left": "Overstating the evidence to win the point",
+          "right": "Does not belong — it trades the truth for the argument"
+        }
+      ],
+      "explanation": "The last is the most tempting and the most damaging. Apologetics that overstates its case gives the other person a real reason to distrust everything else said, and they will be right to.",
+      "hint": "Two of these serve the truth; two serve winning.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2469"
+        }
+      ]
+    },
+    {
       "id": "apologetics-l2-001",
       "topic": "apologetics",
       "level": 2,
@@ -272,6 +367,101 @@
           "type": "scripture",
           "reference": "1 Corinthians 15:3-8",
           "quote": "that Christ died for our sins in accordance with the scriptures; that he was buried; that he was raised on the third day in accordance with the scriptures; that he appeared to Cephas, then to the Twelve. After that, he appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-007",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1710,
+      "prompt": "Against the claim that the Resurrection was a later legend, what does 1 Corinthians 15:3-8 contribute?",
+      "choices": [
+        "Paul hands on a formula he himself received, naming named witnesses — material datable to within a few years of the events",
+        "It is the latest New Testament text, written long after the events",
+        "It records a private vision with no witnesses",
+        "It makes no claim about witnesses at all"
+      ],
+      "correctAnswer": "Paul hands on a formula he himself received, naming named witnesses — material datable to within a few years of the events",
+      "explanation": "Paul explicitly presents this as tradition he received rather than composed, which places the content earlier than the letter carrying it. Legends require time; this leaves very little of it, and it names people who could be asked.",
+      "hint": "Notice the words 'received' and 'handed on' — they point behind the letter itself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-008",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: Saying the Son is 'begotten, not made' means Christians believe the Son had a beginning in time.",
+      "correctAnswer": false,
+      "explanation": "False, and the phrase exists to rule out exactly that. Begetting here names an eternal relation of origin, not an event. A made thing begins; a begotten Son shares the Father's own nature eternally — which is the whole difference Nicaea was defending.",
+      "hint": "The contrast is with 'made,' and the point of the contrast is what each word implies about beginnings.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-009",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "Against the charge that Christians worship three gods, the Creed confesses one God in three ____.",
+      "correctAnswer": "Persons",
+      "explanation": "The charge only lands if 'Person' meant a separate being. It does not: the three are distinguished by relation, not by dividing the one divine nature into thirds. One God, three Persons, is not a contradiction unless the same word is used in the same sense twice — and it is not.",
+      "hint": "One what, and three what? The two words are deliberately different.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-010",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each objection to the Creed to the response that meets it.",
+      "pairs": [
+        {
+          "left": "'The Trinity is three gods'",
+          "right": "One nature, three Persons distinguished by relation"
+        },
+        {
+          "left": "'The Resurrection is a late legend'",
+          "right": "An early creedal formula naming living witnesses"
+        },
+        {
+          "left": "'The virgin birth was added centuries later'",
+          "right": "It appears in the earliest infancy material we have"
+        },
+        {
+          "left": "'The apostles invented it and knew it'",
+          "right": "They accepted death rather than retract what they claimed to have seen"
+        }
+      ],
+      "explanation": "The last is worth stating carefully. People die for false beliefs constantly; the argument is narrower — these particular people were positioned to know whether the specific claim was true, and had every worldly reason to recant.",
+      "hint": "The final one is not 'sincere people don't die for lies' — that would prove far too much.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 253"
         }
       ]
     },
@@ -418,6 +608,115 @@
       ]
     },
     {
+      "id": "apologetics-l3-007",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2030,
+      "prompt": "Sola scriptura holds that Scripture alone is the rule of faith. Applying that principle to itself, what problem appears?",
+      "choices": [
+        "No book of Scripture teaches it, so by its own standard the doctrine cannot be established",
+        "It is taught only in the Old Testament, not the New",
+        "It is taught in Scripture but contradicted by Tradition",
+        "No problem appears; Scripture teaches it explicitly"
+      ],
+      "correctAnswer": "No book of Scripture teaches it, so by its own standard the doctrine cannot be established",
+      "explanation": "This is the self-referential form of the dilemma. A rule stating that only Scripture may establish doctrine must itself be established from Scripture — and no text teaches it. It either fails its own test or admits an exception, and an exception is the thing it was formulated to exclude.",
+      "hint": "Apply the rule to the rule and see whether it survives.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l3-008",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2070,
+      "prompt": "Paul tells the Thessalonians to hold fast to the traditions they were taught, 'either by an oral statement or by a letter of ours.' Why does this matter for the sola scriptura question?",
+      "choices": [
+        "Scripture itself names oral teaching alongside written as binding, which is the position sola scriptura denies",
+        "It shows oral teaching replaced the written entirely",
+        "It applies only to Thessalonica and to no other church",
+        "It concerns liturgical custom rather than doctrine"
+      ],
+      "correctAnswer": "Scripture itself names oral teaching alongside written as binding, which is the position sola scriptura denies",
+      "explanation": "The force here is that the text is doing the opposite of what the principle needs. Scripture does not merely fail to teach sola scriptura; in this passage it places oral and written transmission side by side as equally to be held.",
+      "hint": "Read what the verse puts on either side of 'either... or.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Thessalonians 2:15"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 9"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l3-009",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2110,
+      "prompt": "True or False: Saying Tradition is binding means the Church may add new revelation to what the apostles handed on.",
+      "correctAnswer": false,
+      "explanation": "False, and the misunderstanding is common enough to be worth stating plainly. Public revelation closed with the apostles. Tradition is the handing on of that deposit and the growth in understanding it, not a channel through which new content arrives — which is precisely what the Church condemned in Montanism and again in Modernism.",
+      "hint": "Ask whether deepening the understanding of something and adding to it are the same act.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 9"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l3-010",
+      "topic": "apologetics",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each part of the sola scriptura dilemma to what it establishes.",
+      "pairs": [
+        {
+          "left": "The canon question",
+          "right": "No book lists the books; the list came from outside the text"
+        },
+        {
+          "left": "The self-reference question",
+          "right": "The rule cannot be established by its own standard"
+        },
+        {
+          "left": "2 Thessalonians 2:15",
+          "right": "Scripture itself binds oral teaching alongside written"
+        },
+        {
+          "left": "The interpretation question",
+          "right": "A text read in contradictory ways needs more than the text to settle it"
+        }
+      ],
+      "explanation": "Four independent pressures on one principle. They are worth keeping distinct: each stands alone, so answering one does not answer the others, and an argument that runs them together is easier to deflect than four that are made separately.",
+      "hint": "Each concerns a different thing: the list, the rule itself, a specific verse, and how disputes get settled.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 113"
+        }
+      ]
+    },
+    {
       "id": "apologetics-l4-001",
       "topic": "apologetics",
       "level": 4,
@@ -555,6 +854,119 @@
           "type": "magisterial_document",
           "reference": "Humani Generis, Pope Pius XII (1950)",
           "quote": "the Teaching Authority of the Church does not forbid that, in conformity with the present state of human sciences and sacred theology, research and discussions... take place with regard to the doctrine of evolution, in as far as it inquires into the origin of the human body as coming from pre-existent and living matter — for the Catholic faith obliges us to hold that souls are immediately created by God."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l4-007",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "Every Christian body condemned contraception until the Lambeth Conference of 1930, which permitted it in limited cases; Pius XI answered within months in Casti Connubii. What does this history show about a Scripture-alone rule of faith?",
+      "choices": [
+        "The reversal came with no new biblical data, so the text alone did not settle the question either before or after",
+        "It shows Scripture explicitly permits contraception",
+        "It shows Scripture explicitly forbids contraception by name",
+        "It shows the question is not a moral one at all"
+      ],
+      "correctAnswer": "The reversal came with no new biblical data, so the text alone did not settle the question either before or after",
+      "explanation": "Nothing was discovered in Scripture between 1929 and 1930. The same texts yielded a universal Christian prohibition and then, for many, its opposite — which suggests the text was not functioning as the thing that settled it. This is a historical observation, not a slur: it shows what a rule of faith has to be able to do.",
+      "hint": "Ask what changed in the Bible between the two dates.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Casti Connubii, Pope Pius XI (1930)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2370"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l4-008",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2410,
+      "prompt": "A Scripture-alone rule faces a difficulty with genuinely new moral questions — embryo experimentation, gene editing, artificial reproduction. What is the difficulty?",
+      "choices": [
+        "Scripture does not address them explicitly, so a rule admitting only explicit scriptural teaching has no way to reach a binding answer",
+        "Scripture addresses each of them by name",
+        "The questions are not moral questions",
+        "The difficulty applies equally to a Church claiming teaching authority"
+      ],
+      "correctAnswer": "Scripture does not address them explicitly, so a rule admitting only explicit scriptural teaching has no way to reach a binding answer",
+      "explanation": "The dilemma is sharp: either such questions are left undecided, or they are decided by reasoning from principle under an authority — which is the second horn the principle was meant to exclude. Note the last option is not the answer: a Church claiming to teach with authority has a mechanism here, whether or not one accepts it.",
+      "hint": "The question is not what the right answer is, but whether the rule can produce one at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2270"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l4-009",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2430,
+      "prompt": "True or False: Pointing out that a principle cannot settle a question is the same as claiming those who hold it are immoral.",
+      "correctAnswer": false,
+      "explanation": "False, and keeping the two apart is what makes the argument usable. The claim is about what a rule of faith is capable of, not about anyone's sincerity or character. Most people who hold sola scriptura reach sound moral conclusions; the question is whether the principle is doing that work, or whether something else is and the principle is being credited.",
+      "hint": "Distinguish a claim about a method from a claim about the people using it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2478"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l4-010",
+      "topic": "apologetics",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each objection to the response that actually answers it.",
+      "pairs": [
+        {
+          "left": "'The Church added books to the Bible'",
+          "right": "Those books were in the Greek Old Testament the early Church used"
+        },
+        {
+          "left": "'Constantine invented Christ's divinity'",
+          "right": "Nicaea settled how to state a divinity already confessed and disputed"
+        },
+        {
+          "left": "'Faith and science are at war'",
+          "right": "The Big Bang was proposed by a Catholic priest"
+        },
+        {
+          "left": "'Evil disproves an all-good God'",
+          "right": "God permits evil only to draw a greater good from it"
+        }
+      ],
+      "explanation": "Three of these are settled by historical record and one by a distinction. Knowing which kind of answer an objection needs matters: bringing a philosophical argument to a historical claim, or the reverse, misses in both directions.",
+      "hint": "Only one of these four is answered by reasoning rather than by evidence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
         }
       ]
     },
