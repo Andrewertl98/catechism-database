@@ -169,6 +169,119 @@
       ]
     },
     {
+      "id": "church-fathers-l1-007",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "St. Clement of Rome wrote to the Corinthian church around 96 AD, intervening in a dispute where presbyters had been deposed. Why is that letter historically significant?",
+      "choices": [
+        "It is very early evidence of the Roman church intervening authoritatively in another church's affairs",
+        "It is the earliest surviving Christian text of any kind",
+        "It was later included in the New Testament canon",
+        "It records the first use of the word Trinity"
+      ],
+      "correctAnswer": "It is very early evidence of the Roman church intervening authoritatively in another church's affairs",
+      "explanation": "What makes 1 Clement notable is not its theology but its posture: Rome writes to Corinth expecting to be heeded, at a date when the apostle John may still have been alive. Whatever weight one gives that, it is early data rather than later inference.",
+      "hint": "The significance lies in who is writing to whom, and in what tone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Clement of Rome, Letter to the Corinthians (c. 96)"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-008",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1420,
+      "prompt": "True or False: St. Ignatius of Antioch's letters contain the earliest surviving use of the phrase 'the catholic Church'.",
+      "correctAnswer": true,
+      "explanation": "True. Writing to the Smyrnaeans around 107 AD, Ignatius says that where the bishop is, there the people should be, just as where Jesus Christ is, there is the catholic Church. The word means 'according to the whole' — universal — long before it functioned as the name of one communion.",
+      "hint": "He is writing on the road to his own execution, urging unity around the bishop.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 830"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans (c. 107)"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-009",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "St. Polycarp of Smyrna is a particularly important witness for one reason above others. Which?",
+      "choices": [
+        "He was a disciple of the apostle John, forming a direct personal link between the apostles and the second-century Church",
+        "He wrote the largest body of work of any early Father",
+        "He presided at the Council of Nicaea",
+        "He compiled the first list of New Testament books"
+      ],
+      "correctAnswer": "He was a disciple of the apostle John, forming a direct personal link between the apostles and the second-century Church",
+      "explanation": "Irenaeus, who knew Polycarp as a boy, appeals to exactly this: Polycarp had been taught by those who saw the Lord. It is a short chain, and the Fathers used it as evidence rather than as sentiment.",
+      "hint": "His importance is about who taught him, not what he wrote.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus, Adversus Haereses III.3.4"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-010",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1500,
+      "prompt": "Match each earliest Christian writing to what it gives us.",
+      "pairs": [
+        {
+          "left": "The Didache",
+          "right": "An early church order with baptismal and eucharistic instruction"
+        },
+        {
+          "left": "1 Clement",
+          "right": "Rome writing authoritatively to Corinth, c. 96"
+        },
+        {
+          "left": "Ignatius' letters",
+          "right": "Bishop, presbyters and deacons already distinct, c. 107"
+        },
+        {
+          "left": "The Martyrdom of Polycarp",
+          "right": "The earliest detailed account of a martyr's death outside Scripture"
+        }
+      ],
+      "explanation": "These four are the reason claims about second-century Christianity are checkable rather than speculative. Each is early, and together they show a Church with structure, sacraments and a martyr's memory well before Constantine.",
+      "hint": "One is a manual, one a letter about a dispute, one a bundle of letters, one an eyewitness account.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1345"
+        }
+      ]
+    },
+    {
       "id": "church-fathers-l2-001",
       "topic": "church-fathers",
       "level": 2,
@@ -329,6 +442,113 @@
       ]
     },
     {
+      "id": "church-fathers-l2-007",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1720,
+      "prompt": "St. Justin Martyr's First Apology (c. 155) describes the Sunday gathering in detail. Why does that description matter?",
+      "choices": [
+        "It shows the shape of the Mass — readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution — already fixed by the mid-second century",
+        "It is the first description of a Christian funeral",
+        "It proves the liturgy was originally in Latin",
+        "It shows there was no fixed order of worship"
+      ],
+      "correctAnswer": "It shows the shape of the Mass — readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution — already fixed by the mid-second century",
+      "explanation": "Justin is explaining Christian worship to a hostile emperor, so he has no motive to invent continuity. A Catholic reading his account recognises the structure of Sunday Mass immediately, which is a stronger argument for liturgical continuity than any later assertion.",
+      "hint": "He is describing it to outsiders, which is why the detail is trustworthy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1345"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Justin Martyr, First Apology 65-67"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-008",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1760,
+      "prompt": "True or False: Tertullian's question 'What has Athens to do with Jerusalem?' expressed the settled view of the Fathers that philosophy has no place in theology.",
+      "correctAnswer": false,
+      "explanation": "False. It expressed Tertullian's view, and it was not the settled one — Justin held that seeds of the Word were scattered among the philosophers, and the Cappadocians and Augustine used philosophy extensively. Tertullian is a Father, not the Fathers, and quoting him as though he spoke for all of them misrepresents a genuine disagreement.",
+      "hint": "Ask whether other Fathers agreed with him on this.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 39"
+        },
+        {
+          "type": "church_father",
+          "reference": "Tertullian, De Praescriptione Haereticorum 7"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-009",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "Origen produced the ____, a six-column parallel edition of the Old Testament comparing the Hebrew with Greek versions — an early monument of textual scholarship.",
+      "correctAnswer": "Hexapla",
+      "explanation": "The name means 'sixfold'. Origen's willingness to compare the Hebrew against the Greek, and to note where they differed, is the ancestor of critical biblical scholarship — undertaken by a man usually remembered for allegory.",
+      "hint": "The Greek prefix for 'six' gives the name.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "church_father",
+          "reference": "Origen, Hexapla"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-010",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each second- and third-century figure to their characteristic contribution.",
+      "pairs": [
+        {
+          "left": "Justin Martyr",
+          "right": "Reasoned defence to the emperor; seeds of the Word among the philosophers"
+        },
+        {
+          "left": "Irenaeus",
+          "right": "Apostolic succession as the test of true teaching"
+        },
+        {
+          "left": "Tertullian",
+          "right": "Latin theological vocabulary, and suspicion of philosophy"
+        },
+        {
+          "left": "Origen",
+          "right": "Systematic exegesis and textual comparison of the Scriptures"
+        }
+      ],
+      "explanation": "Two of these looked outward to argue with the wider world and two looked inward to secure the Church's own reading of Scripture. Both tasks were already necessary within a century of the apostles.",
+      "hint": "Two are apologists addressing outsiders; two are chiefly concerned with Scripture and succession.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 113"
+        }
+      ]
+    },
+    {
       "id": "church-fathers-l3-001",
       "topic": "church-fathers",
       "level": 3,
@@ -485,6 +705,113 @@
       ]
     },
     {
+      "id": "church-fathers-l3-007",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2020,
+      "prompt": "St. Jerome's greatest labour was the Vulgate. What made his approach distinctive?",
+      "choices": [
+        "He translated the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+        "He translated from Latin into Greek",
+        "He worked entirely from the Septuagint",
+        "He produced the first vernacular translation"
+      ],
+      "correctAnswer": "He translated the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+      "explanation": "Augustine worried that going behind the Septuagint would unsettle congregations who knew it. Jerome went to the Hebrew anyway. The disagreement is a useful corrective to the idea that the Fathers formed a единый bloc — they argued, in writing, at length.",
+      "hint": "The controversy was about which language he translated from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Jerome, Prologues to the Vulgate"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-008",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2060,
+      "prompt": "True or False: St. Basil the Great founded a complex outside Caesarea providing housing, a hospital and care for the poor — an early institutional charity.",
+      "correctAnswer": true,
+      "explanation": "True; it became known as the Basiliad. The same bishop who wrote against the Arians on the divinity of the Spirit built a hospital, and the Fathers generally saw no distance between those two activities. Chrysostom makes the same point when he says honouring Christ in the Eucharist is inseparable from honouring him in the poor.",
+      "hint": "He is remembered for a monastic rule, a doctrinal fight, and a building.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Basil the Great"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-009",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2100,
+      "prompt": "St. Gregory of Nyssa taught that the soul's approach to God is an endless progress into greater love — a doctrine known by the Greek term ____.",
+      "correctAnswer": "epektasis",
+      "explanation": "From Paul's straining forward to what lies ahead. Since God is infinite, arrival is not the shape of the journey: the blessed go on receiving more of him for ever, and satisfaction and desire increase together rather than one ending the other.",
+      "hint": "The word comes from Philippians 3:13, 'straining forward'.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Philippians 3:13"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Gregory of Nyssa, Life of Moses"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-010",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2120,
+      "prompt": "Match each Golden Age Father to what he is chiefly remembered for.",
+      "pairs": [
+        {
+          "left": "Athanasius",
+          "right": "Defending Nicaea through repeated exiles"
+        },
+        {
+          "left": "Basil the Great",
+          "right": "A monastic rule, the Spirit's divinity, and the Basiliad"
+        },
+        {
+          "left": "Gregory of Nazianzus",
+          "right": "The Theological Orations on the Trinity"
+        },
+        {
+          "left": "John Chrysostom",
+          "right": "Preaching, and Christ in the Eucharist inseparable from Christ in the poor"
+        }
+      ],
+      "explanation": "Every one of these men held office in a contested Church and several were exiled for it. Their doctrinal work was done under political pressure rather than in scholarly quiet, which is worth remembering when reading their sharper passages.",
+      "hint": "One is defined by exile, one by breadth of activity, one by preaching, one by trinitarian precision.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        }
+      ]
+    },
+    {
       "id": "church-fathers-l4-001",
       "topic": "church-fathers",
       "level": 4,
@@ -631,6 +958,119 @@
       ]
     },
     {
+      "id": "church-fathers-l4-007",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2320,
+      "prompt": "St. Vincent of Lérins offered a test for identifying authentic tradition. What was it?",
+      "choices": [
+        "What has been believed everywhere, always, and by all — universality, antiquity, and consent",
+        "Whatever the majority of bishops hold at a given moment",
+        "Whatever can be found explicitly in Scripture",
+        "Whatever the oldest available manuscript supports"
+      ],
+      "correctAnswer": "What has been believed everywhere, always, and by all — universality, antiquity, and consent",
+      "explanation": "Quod ubique, quod semper, quod ab omnibus. Vincent knew the test needed qualification, since doctrine visibly develops, and he addressed that too — growth in understanding is legitimate so long as it is growth in the same sense and the same judgement, not a change into something else.",
+      "hint": "Three tests: where, when, and by whom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of Lérins, Commonitorium 2"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-008",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2360,
+      "prompt": "True or False: St. Ephrem the Syrian, a Doctor of the Church, wrote most of his theology in hymns rather than treatises.",
+      "correctAnswer": true,
+      "explanation": "True. Ephrem taught doctrine in sung poetry in Syriac, and the Church has recognised it as theology by naming him a Doctor. It is a useful counterweight to the assumption that serious theology must be argumentative prose — the same instinct behind the Church's Latin hymns.",
+      "hint": "His medium was the same one the Church still uses at Vespers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1156"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Ephrem the Syrian"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-009",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2390,
+      "prompt": "St. John Damascene's defence of images rested on a specifically Christological argument. What was it?",
+      "choices": [
+        "The invisible God has become visible in the flesh, so depicting the incarnate Christ affirms rather than violates the Incarnation",
+        "Images are permitted because most believers were illiterate",
+        "The commandment against images applied only to the Old Covenant as a legal matter",
+        "Images may be venerated because they sometimes work miracles"
+      ],
+      "correctAnswer": "The invisible God has become visible in the flesh, so depicting the incarnate Christ affirms rather than violates the Incarnation",
+      "explanation": "He turns the objection into a Christological test: to refuse an image of Christ is, at the limit, to doubt that God really took visible flesh. That is why iconoclasm was answered as a question about the Incarnation rather than about art.",
+      "hint": "The argument turns on something that changed with the Incarnation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1159"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 476"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l4-010",
+      "topic": "church-fathers",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2420,
+      "prompt": "Match each later Father to what he contributed.",
+      "pairs": [
+        {
+          "left": "Leo the Great",
+          "right": "The Tome, decisive at Chalcedon on the two natures"
+        },
+        {
+          "left": "Gregory the Great",
+          "right": "Pastoral rule, liturgical reform, 'servant of the servants of God'"
+        },
+        {
+          "left": "Maximus the Confessor",
+          "right": "Christ's two wills, defended at the cost of tongue and hand"
+        },
+        {
+          "left": "John Damascene",
+          "right": "The Christological defence of sacred images"
+        }
+      ],
+      "explanation": "Two of these are Western and two Eastern, and the pairing is worth noticing: the same era produced a pope reforming Roman liturgy and a monk mutilated in Constantinople for a distinction about Christ's will.",
+      "hint": "Two shaped the Latin West; two fought Eastern controversies.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 475"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1159"
+        }
+      ]
+    },
+    {
       "id": "church-fathers-l5-001",
       "topic": "church-fathers",
       "level": 5,
@@ -764,6 +1204,109 @@
         {
           "type": "magisterial_document",
           "reference": "Leo XIII, Aeterni Patris (1879)"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-007",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "What are the three conditions for being named a Doctor of the Church?",
+      "choices": [
+        "Canonised sanctity, eminent learning, and a declaration by the pope or an ecumenical council",
+        "Martyrdom, antiquity, and episcopal office",
+        "Authorship of a systematic theological work and priestly ordination",
+        "Founding a religious order and being canonised"
+      ],
+      "correctAnswer": "Canonised sanctity, eminent learning, and a declaration by the pope or an ecumenical council",
+      "explanation": "Eminens doctrina is the distinguishing condition; the Church has many learned saints and thirty-odd Doctors. Note what is not required: neither ordination nor antiquity, which is why Catherine of Siena, Teresa of Ávila and Thérèse of Lisieux are among them.",
+      "hint": "One of the three conditions rules out most saints, and the other two rule out most scholars.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-008",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: The first women declared Doctors of the Church were named in 1970, more than nineteen centuries into the Church's life.",
+      "correctAnswer": true,
+      "explanation": "True. Paul VI declared Teresa of Ávila and Catherine of Siena Doctors in 1970; Thérèse of Lisieux followed in 1997 and Hildegard of Bingen in 2012. The lateness is a real feature of the history and is better acknowledged plainly than explained away.",
+      "hint": "The year is within living memory for many people.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-009",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2690,
+      "prompt": "St. Hildegard of Bingen, a twelfth-century Benedictine abbess, composer and writer, was named a Doctor of the Church in the year ____.",
+      "correctAnswer": "2012",
+      "explanation": "Benedict XVI named her, eight and a half centuries after her death. That a medieval abbess best known for visionary writing and music should be recognised for eminent doctrine says something about how broadly the Church understands teaching.",
+      "hint": "It happened during Benedict XVI's pontificate.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l5-010",
+      "topic": "church-fathers",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each Doctor of the Church to what distinguishes them.",
+      "pairs": [
+        {
+          "left": "Thérèse of Lisieux",
+          "right": "The Little Way; a cloistered life of twenty-four years"
+        },
+        {
+          "left": "Catherine of Siena",
+          "right": "A laywoman who urged the pope's return from Avignon"
+        },
+        {
+          "left": "Teresa of Ávila",
+          "right": "The Interior Castle and Carmelite reform"
+        },
+        {
+          "left": "Hildegard of Bingen",
+          "right": "Visionary writing, music and natural science"
+        }
+      ],
+      "explanation": "None of the four was ordained, none held office in the hierarchy, and one never left her convent. The category of Doctor is about the Church learning from someone, and it has never been restricted to those with authority to govern.",
+      "hint": "All four are women, and none of them held any office in the Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
         }
       ]
     },
