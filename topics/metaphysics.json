@@ -138,6 +138,113 @@
       ]
     },
     {
+      "id": "metaphysics-l1-007",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "Metaphysics asks a question the empirical sciences do not. Which?",
+      "choices": [
+        "Not how things behave, but what it is for anything to exist at all",
+        "How accurately instruments can measure natural processes",
+        "Which religious claims are historically attested",
+        "How human beings ought to act"
+      ],
+      "correctAnswer": "Not how things behave, but what it is for anything to exist at all",
+      "explanation": "The sciences describe how things within the world behave. Metaphysics asks what being itself is — a question no measurement can settle, because any measurement already presupposes something there to measure.",
+      "hint": "One of these questions is presupposed by every experiment rather than answered by one.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 33"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-008",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: When we call God good or wise, the words mean exactly what they mean when applied to a human being.",
+      "correctAnswer": false,
+      "explanation": "False. Such words are used analogically: they say something genuinely true of God, but not in the same mode. Between Creator and creature no likeness can be noted without a greater unlikeness. Insisting the words mean exactly the same thing produces a God who is a very large creature; insisting they mean nothing produces silence.",
+      "hint": "There are three possibilities — same meaning, unrelated meaning, and something between. Only one is right.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        },
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-009",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1300,
+      "prompt": "Classical theology says God is not one being among many but Being ____ — existence in itself, not a thing that happens to exist.",
+      "correctAnswer": "itself",
+      "explanation": "This is why God cannot be counted alongside creatures as one more item in an inventory. Asking whether the universe contains God, the way it contains galaxies, misunderstands the claim: the question is about the source of there being anything at all.",
+      "hint": "The claim is not that God is the greatest existing thing, but something stronger about existence.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l1-010",
+      "topic": "metaphysics",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1400,
+      "prompt": "Match each foundational term to what it names.",
+      "pairs": [
+        {
+          "left": "Essence",
+          "right": "What a thing is"
+        },
+        {
+          "left": "Existence",
+          "right": "That a thing is"
+        },
+        {
+          "left": "Non-contradiction",
+          "right": "Nothing can both be and not be in the same respect at once"
+        },
+        {
+          "left": "Analogy",
+          "right": "Words said truly of God, but not in a creaturely mode"
+        }
+      ],
+      "explanation": "These four recur throughout the topic. The essence/existence pair is the one to hold onto: in every creature they are distinct, which is why nothing in the world explains its own existence.",
+      "hint": "Two of these are a matched pair answering 'what' and 'whether'.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
       "id": "metaphysics-l2-001",
       "topic": "metaphysics",
       "level": 2,
@@ -276,6 +383,105 @@
           "type": "magisterial_document",
           "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
           "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-007",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1730,
+      "prompt": "Why does change require something that persists through it?",
+      "choices": [
+        "Otherwise there is no change but simple replacement — one thing ceasing and another beginning, with nothing that became different",
+        "Because all change is gradual",
+        "Because matter cannot be destroyed",
+        "Because time flows continuously"
+      ],
+      "correctAnswer": "Otherwise there is no change but simple replacement — one thing ceasing and another beginning, with nothing that became different",
+      "explanation": "For a leaf to change from green to brown, the leaf must still be there to have changed. A subject persisting in potency, receiving a new act, is what distinguishes change from annihilation followed by creation.",
+      "hint": "Ask what would be missing if nothing carried over from before to after.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-008",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1770,
+      "prompt": "True or False: Because God is pure act with no unrealised potency, classical theology concludes God cannot change.",
+      "correctAnswer": true,
+      "explanation": "True, and the reasoning is worth following rather than memorising. To change is to move from potency to act. Something with no unrealised potency has nowhere to move — not because God is frozen or inert, but because there is no unrealised fullness for him to acquire.",
+      "hint": "Change means acquiring something not yet possessed. Ask what is left to acquire.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 212"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-009",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "A thing's potency is not nothing, but neither is it actual: the oak is really in the acorn as a genuine ____, not merely as someone's prediction.",
+      "correctAnswer": "potency",
+      "explanation": "Potency is a real feature of a thing, midway between actuality and sheer nothingness. An acorn can become an oak and a stone cannot, and that difference is in the acorn now — which is why potency cannot be reduced to what an observer expects.",
+      "hint": "The difference between an acorn and a stone is real before either becomes anything.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l2-010",
+      "topic": "metaphysics",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each example to what it illustrates.",
+      "pairs": [
+        {
+          "left": "An acorn that could become an oak",
+          "right": "Potency — a real capacity not yet realised"
+        },
+        {
+          "left": "A grown oak standing in a field",
+          "right": "Act — a capacity actually realised"
+        },
+        {
+          "left": "God as pure act",
+          "right": "No unrealised capacity, therefore no change"
+        },
+        {
+          "left": "A stone that cannot become an oak",
+          "right": "The absence of that potency, showing potency is real"
+        }
+      ],
+      "explanation": "The last pairing carries the argument. If potency were merely a way of talking about expectations, there would be no difference between an acorn and a stone — and there plainly is.",
+      "hint": "One of these four is included to show that potency is not just a figure of speech.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 212"
         }
       ]
     },
@@ -422,6 +628,109 @@
       ]
     },
     {
+      "id": "metaphysics-l3-007",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2040,
+      "prompt": "Aquinas' First Way concerns a causal series ordered 'per se' rather than 'per accidens'. What is the difference?",
+      "choices": [
+        "In a per se series the members depend on the first simultaneously, here and now; in a per accidens series each merely precedes the next in time",
+        "A per se series is longer than a per accidens series",
+        "A per se series concerns living things only",
+        "There is no real difference between them"
+      ],
+      "correctAnswer": "In a per se series the members depend on the first simultaneously, here and now; in a per accidens series each merely precedes the next in time",
+      "explanation": "A hand moves a stick which moves a stone: remove the hand and the whole series stops at once. A father begets a son who begets a grandson: the grandfather can die and the series continues. The argument concerns the first kind, which is why 'but who caused God' and 'the universe could be infinitely old' both miss it.",
+      "hint": "One series collapses instantly if the first member is removed; the other does not.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 34"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-008",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2080,
+      "prompt": "True or False: Aquinas' arguments require that the universe had a beginning in time.",
+      "correctAnswer": false,
+      "explanation": "False, and Aquinas says so explicitly. He held the world's temporal beginning is known by faith, not demonstrated by reason, and he framed his arguments so they would work even on the assumption of an eternal universe. The dependence at issue is present-tense, not first in a sequence.",
+      "hint": "Ask whether a universe with no beginning would still need something to sustain it now.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 34"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-009",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 2110,
+      "prompt": "The ____ cause of a bronze statue is the shape or pattern that makes this bronze a statue rather than a lump.",
+      "correctAnswer": "formal",
+      "explanation": "Material and formal causes answer different questions about the same object: what it is made of, and what makes it this rather than merely that stuff. Modern usage has narrowed 'cause' to the efficient cause alone, which is why the fourfold scheme sounds strange at first.",
+      "hint": "Of the four causes, this one concerns the pattern rather than the stuff, the maker, or the purpose.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l3-010",
+      "topic": "metaphysics",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each objection to a causal argument with what it misses.",
+      "pairs": [
+        {
+          "left": "'What caused God?'",
+          "right": "The argument concludes to something whose existence is not received"
+        },
+        {
+          "left": "'The universe may be eternal'",
+          "right": "A per se series concerns present dependence, not temporal order"
+        },
+        {
+          "left": "'Science will find the real cause'",
+          "right": "It asks a different question — how things behave, not why anything is"
+        },
+        {
+          "left": "'The series could be infinite'",
+          "right": "An infinite per se series still explains nothing without a first member"
+        }
+      ],
+      "explanation": "All four objections treat the argument as being about a very long chain of events in time. It is not; it is about what sustains anything in being at this moment, which is why length is irrelevant to it.",
+      "hint": "Every one of these reads the argument as a claim about history.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 34"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
       "id": "metaphysics-l4-001",
       "topic": "metaphysics",
       "level": 4,
@@ -555,6 +864,111 @@
           "type": "magisterial_document",
           "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
           "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-007",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "Classical metaphysics defines truth as the conformity of intellect and thing. What follows about the world?",
+      "choices": [
+        "Things are intelligible in themselves, so knowledge is a mind conforming to what is really there rather than imposing order on it",
+        "Truth is whatever a community agrees on",
+        "Truth exists only in propositions, never in things",
+        "The mind creates the order it finds"
+      ],
+      "correctAnswer": "Things are intelligible in themselves, so knowledge is a mind conforming to what is really there rather than imposing order on it",
+      "explanation": "If truth is conformity, then things must have a nature to conform to. This is why the transcendental of truth is a claim about being before it is a claim about statements — the world is knowable because it is intelligible, not merely because we are clever.",
+      "hint": "Conformity requires two terms. Ask what the intellect is conforming to.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 41"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-008",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2410,
+      "prompt": "True or False: Because goodness is convertible with being, anything that exists is good insofar as it exists.",
+      "correctAnswer": true,
+      "explanation": "True, and it has a sharp consequence: nothing that exists is evil in its very being. A corrupt thing is a good thing lacking a good it should have — which is exactly the privation account, arrived at from the transcendentals rather than from Genesis.",
+      "hint": "If this is true, ask what is left for evil to be.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-009",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2430,
+      "prompt": "Why are the transcendentals said to be 'convertible' with being rather than being species of it?",
+      "choices": [
+        "They are not kinds of being but being itself considered under different aspects, so they add nothing to it and exclude nothing",
+        "They are the four highest categories of things that exist",
+        "They can be exchanged for one another in argument",
+        "They apply only to spiritual beings"
+      ],
+      "correctAnswer": "They are not kinds of being but being itself considered under different aspects, so they add nothing to it and exclude nothing",
+      "explanation": "Unity, truth and goodness do not divide being into classes the way species divide a genus. They name the same reality regarded as undivided, as knowable, and as desirable — which is why every being has all of them rather than some being true and others good.",
+      "hint": "They do not carve being into parts. Ask what else they could be doing.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l4-010",
+      "topic": "metaphysics",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each transcendental to the aspect of being it names.",
+      "pairs": [
+        {
+          "left": "Unity",
+          "right": "Being as undivided in itself"
+        },
+        {
+          "left": "Truth",
+          "right": "Being as knowable to an intellect"
+        },
+        {
+          "left": "Goodness",
+          "right": "Being as desirable to a will"
+        },
+        {
+          "left": "Beauty",
+          "right": "Being as pleasing when perceived"
+        }
+      ],
+      "explanation": "Truth and goodness are relational: they name being as it stands toward a knower and toward a desirer. That is why a purely mind-independent account of truth, or of goodness, is harder to state than it first appears.",
+      "hint": "Two of these involve a relation to someone; two do not.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
         }
       ]
     },
@@ -711,6 +1125,113 @@
       ]
     },
     {
+      "id": "metaphysics-l5-007",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2620,
+      "prompt": "What do the Five Ways actually conclude to, and what do they not?",
+      "choices": [
+        "Each ends at something 'all call God' — an unmoved mover, a necessary being — not at the Trinity, which is known only by revelation",
+        "They demonstrate the Trinity philosophically",
+        "They prove the God of the Bible in every detail",
+        "They establish only that belief in God is permissible"
+      ],
+      "correctAnswer": "Each ends at something 'all call God' — an unmoved mover, a necessary being — not at the Trinity, which is known only by revelation",
+      "explanation": "Overstating the conclusion is the commonest way these arguments are misused. They reach a first cause and no further; that this cause is Father, Son and Spirit is revealed, not deduced. Claiming more invites the fair reply that the arguments have not delivered it.",
+      "hint": "Ask what a purely philosophical argument could establish about a mystery known only by revelation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 34"
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-008",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: Since reason can reach God's existence, the Church holds that revelation about God is unnecessary.",
+      "correctAnswer": false,
+      "explanation": "False, and Vatican I taught both halves. Reason can attain God's existence in principle; revelation remains morally necessary so that these truths can be known by everyone, readily, with firm certainty and without admixture of error. In principle attainable and in practice reliably attained are different claims.",
+      "hint": "Distinguish what reason can do in principle from what people actually manage without help.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 38"
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-009",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 2690,
+      "prompt": "The argument from contingency reasons that if everything were contingent, there would be nothing now; so there must be something ____ — existing of itself.",
+      "correctAnswer": "necessary",
+      "explanation": "A contingent thing has existence received rather than owned. If every existing thing were like that, existence would have to come from somewhere else at every point and never actually be grounded. The argument is about a present dependency, not about a first event long ago.",
+      "hint": "The contrast term for contingent is not 'eternal' but something stronger.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 34"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l5-010",
+      "topic": "metaphysics",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each claim in natural theology to its precise scope.",
+      "pairs": [
+        {
+          "left": "Reason can know God exists",
+          "right": "Taught by Vatican I as attainable in principle"
+        },
+        {
+          "left": "Revelation is morally necessary",
+          "right": "So the truth is known by all, readily and without error"
+        },
+        {
+          "left": "The Five Ways",
+          "right": "Conclude to a first cause, not to the Trinity"
+        },
+        {
+          "left": "Faith and reason",
+          "right": "Two wings, neither reducible to the other"
+        }
+      ],
+      "explanation": "The Church's position is a narrow path between rationalism, which makes revelation redundant, and fideism, which makes reason irrelevant. Dei Filius condemned both, and each of these four claims is doing work to hold that line.",
+      "hint": "Two of these guard against rationalism and two against fideism.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
       "id": "metaphysics-l6-001",
       "topic": "metaphysics",
       "level": 6,
@@ -860,6 +1381,115 @@
       ]
     },
     {
+      "id": "metaphysics-l6-007",
+      "topic": "metaphysics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "Divine simplicity holds that God has no parts. What does this rule out?",
+      "choices": [
+        "Any composition in God — of matter and form, essence and existence, or substance and attribute; God does not HAVE goodness, he IS it",
+        "That God can be described in more than one way",
+        "That God knows individual creatures",
+        "That God acts in history"
+      ],
+      "correctAnswer": "Any composition in God — of matter and form, essence and existence, or substance and attribute; God does not HAVE goodness, he IS it",
+      "explanation": "Anything composed depends on its parts and on whatever assembled them, so a composite God would be a caused God. Simplicity is why divine attributes are not components: they are the one divine reality named from our side in different ways.",
+      "hint": "Ask what a composite thing depends on, and whether that can be true of the first cause.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l6-008",
+      "topic": "metaphysics",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1831,
+      "prompt": "True or False: Saying creation is a 'radical dependence' means the universe needed a push at the beginning and has run on its own since.",
+      "correctAnswer": false,
+      "explanation": "False. On the essence/existence account, a creature does not own its existing; it receives it. What is received must go on being given, so creation is a present-tense relation of dependence rather than a past event. Withdraw the giving and there is not a ruin but nothing at all.",
+      "hint": "Ask whether existence is something a creature has once, or receives continuously.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 338"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 301"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l6-009",
+      "topic": "metaphysics",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1881,
+      "prompt": "Why does hylomorphism say prime matter cannot exist on its own?",
+      "choices": [
+        "Because to exist is to be something definite, and prime matter is pure potency with no form — so it is a principle of things, not a thing",
+        "Because it is too small to observe",
+        "Because God has not created it yet",
+        "Because it exists only inside stars"
+      ],
+      "correctAnswer": "Because to exist is to be something definite, and prime matter is pure potency with no form — so it is a principle of things, not a thing",
+      "explanation": "Prime matter is what persists through substantial change, considered apart from any form it happens to have. Considered that way it is not stuff of a very basic kind; it is a principle we distinguish in thought, and asking where a lump of it is mistakes an analysis for an inventory.",
+      "hint": "Ask whether something with no form at all could be any particular thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l6-010",
+      "topic": "metaphysics",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1921,
+      "prompt": "Match each term to what it precisely denotes.",
+      "pairs": [
+        {
+          "left": "Substantial form",
+          "right": "What makes a thing the kind of thing it is"
+        },
+        {
+          "left": "Accidental form",
+          "right": "A modification a thing can gain or lose while remaining itself"
+        },
+        {
+          "left": "Prime matter",
+          "right": "Pure potency, a principle rather than a thing"
+        },
+        {
+          "left": "Divine simplicity",
+          "right": "No composition in God of any kind"
+        }
+      ],
+      "explanation": "The substantial/accidental distinction is the one that does daily work: a tree painted white is still a tree, a tree burned to ash is not. Everything hylomorphism says about the soul depends on getting that difference right first.",
+      "hint": "Two of these concern what a thing IS; one what it merely has; one concerns God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        }
+      ]
+    },
+    {
       "id": "metaphysics-l7-001",
       "topic": "metaphysics",
       "level": 7,
@@ -1005,6 +1635,119 @@
           "type": "ccc",
           "reference": "CCC 365",
           "quote": "The unity of soul and body is so profound that one has to consider the soul to be the 'form' of the body"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l7-007",
+      "topic": "metaphysics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "An objector argues that since mental states correlate exactly with brain states, the mind just is the brain. What does hylomorphism reply?",
+      "choices": [
+        "Correlation is exactly what it predicts — the soul is the form of THIS body, so of course thinking has a bodily aspect; correlation would refute a ghost-in-the-machine dualism, not this",
+        "The correlations are not real",
+        "The soul operates independently of the brain entirely",
+        "Neuroscience cannot study the mind at all"
+      ],
+      "correctAnswer": "Correlation is exactly what it predicts — the soul is the form of THIS body, so of course thinking has a bodily aspect; correlation would refute a ghost-in-the-machine dualism, not this",
+      "explanation": "The objection lands on Descartes, not on Aquinas. If soul and body were two things loosely joined, tight correlation would be surprising. On the hylomorphic account they are one substance, and the finding is what the theory expects — which is why the argument has to be answered by asking which view it targets.",
+      "hint": "Ask which theory of the soul the objection would actually damage.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l7-008",
+      "topic": "metaphysics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2088,
+      "prompt": "How does the soul as substantial form bear on the resurrection of the body?",
+      "choices": [
+        "Since the soul is the form of this body, the risen body is the same person's body — identity is secured by the form, not by tracking the original atoms",
+        "The risen body will be composed of the identical atoms as before",
+        "The resurrection concerns the soul only",
+        "Bodily identity cannot be maintained on this account"
+      ],
+      "correctAnswer": "Since the soul is the form of this body, the risen body is the same person's body — identity is secured by the form, not by tracking the original atoms",
+      "explanation": "The atoms in a living body are replaced many times over a lifetime without anyone becoming a different person, so material continuity was never what identity rested on. The same principle answers the old objection about scattered or consumed remains.",
+      "hint": "You are not made of the same atoms you were as a child. Ask what made you the same person anyway.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 997"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 999"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l7-009",
+      "topic": "metaphysics",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2038,
+      "prompt": "True or False: On the Catholic account, a human being is a soul that happens to be using a body.",
+      "correctAnswer": false,
+      "explanation": "False, and the Church rejects this explicitly. The unity of body and soul is so profound that the soul is called the form of the body — one nature, not a pilot in a vessel. This is why the body is destined for resurrection rather than discarded, and why despising the body is a Gnostic instinct rather than a Christian one.",
+      "hint": "Ask whether this description would make the resurrection of the body necessary or pointless.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 364"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l7-010",
+      "topic": "metaphysics",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2128,
+      "prompt": "Match each position on soul and body to what hylomorphism says about it.",
+      "pairs": [
+        {
+          "left": "Cartesian dualism",
+          "right": "Two substances joined; makes their interaction a mystery"
+        },
+        {
+          "left": "Eliminative materialism",
+          "right": "One substance, but denies the reality of mind"
+        },
+        {
+          "left": "Hylomorphism",
+          "right": "One substance, form and matter, neither reducible to the other"
+        },
+        {
+          "left": "'Ghost in the machine'",
+          "right": "A caricature of dualism, not a description of this view"
+        }
+      ],
+      "explanation": "Hylomorphism is regularly attacked as though it were the first position and defended as though it were the second. Naming what it is not is most of the work of stating what it is.",
+      "hint": "Two of these are rival theories, one is the Catholic account, and one is a caricature.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
         }
       ]
     }
