@@ -128,6 +128,109 @@
       ]
     },
     {
+      "id": "answering-objections-l1-007",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Objection: 'Jesus said call no man father, so calling a priest Father is unbiblical.' What is the response?",
+      "choices": [
+        "Paul calls himself a father to the Corinthians through the gospel, so the phrase cannot be an absolute ban on the word",
+        "The verse applies only to biological fathers",
+        "The verse was mistranslated from the Greek",
+        "The objection is correct and the practice should stop"
+      ],
+      "correctAnswer": "Paul calls himself a father to the Corinthians through the gospel, so the phrase cannot be an absolute ban on the word",
+      "explanation": "Scripture interprets Scripture here. If the saying were an absolute prohibition, Paul violated it in writing, and so does anyone addressing a male parent. Christ is warning against claiming a fatherhood that belongs to God — the objection reads a warning about pride as a rule about vocabulary.",
+      "hint": "Someone in the New Testament uses the word about himself. That constrains how the saying can be read.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 4:15"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-008",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1300,
+      "prompt": "True or False: Asking a saint to pray for you is a different act from asking God to grant something.",
+      "correctAnswer": true,
+      "explanation": "True. Asking someone to pray for you is a request for intercession, not an act of worship — the same thing you do when you ask a friend to pray. The objection usually assumes the two are the same act, and it collapses once that assumption is named.",
+      "hint": "Compare it to asking a living friend to pray for you.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 956"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2683"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-009",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 1250,
+      "prompt": "Objection: 'Faith is believing without evidence.' The Catechism instead calls faith an act of the intellect assenting to divine truth, moved by the ____ — not a leap taken blindly.",
+      "correctAnswer": "will",
+      "explanation": "Faith engages both intellect and will. The Church explicitly rejects the idea that faith is a blind impulse, holding instead that there are motives of credibility making the assent reasonable — a definition the objection assumes cannot exist.",
+      "hint": "Two faculties are involved: one assents, the other moves it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 155"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l1-010",
+      "topic": "answering-objections",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1400,
+      "prompt": "Match each common objection to the point that answers it.",
+      "pairs": [
+        {
+          "left": "'Catholics worship Mary'",
+          "right": "Honour given to a creature differs in kind from adoration of God"
+        },
+        {
+          "left": "'Confession to a priest is unbiblical'",
+          "right": "Christ gave the apostles authority to forgive and retain sins"
+        },
+        {
+          "left": "'Calling priests Father is forbidden'",
+          "right": "Paul uses the term of himself in the same Scriptures"
+        },
+        {
+          "left": "'Faith means believing without evidence'",
+          "right": "Faith is a reasoned assent, not a blind impulse"
+        }
+      ],
+      "explanation": "Each of these is answered from Scripture or from the Church's own definition rather than by appeal to authority. That matters practically: the person raising them usually does not grant the authority, so an answer resting on it settles nothing.",
+      "hint": "Three are answered from the Bible itself, one from a definition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 971"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 20:23"
+        }
+      ]
+    },
+    {
       "id": "answering-objections-l2-001",
       "topic": "answering-objections",
       "level": 2,
@@ -266,6 +369,113 @@
           "type": "ccc",
           "reference": "CCC 366",
           "quote": "The Church teaches that every spiritual soul is created immediately by God - it is not 'produced' by the parents"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-007",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1730,
+      "prompt": "Objection: 'Genesis says six days, so Catholics must reject an ancient universe.' What does the Church actually hold?",
+      "choices": [
+        "Genesis uses figurative language while affirming a primeval event; the Church makes no claim about the age of the universe",
+        "Catholics must hold that creation took six twenty-four-hour days",
+        "Genesis is a myth with no historical reference at all",
+        "The Church has never addressed the question"
+      ],
+      "correctAnswer": "Genesis uses figurative language while affirming a primeval event; the Church makes no claim about the age of the universe",
+      "explanation": "The Catechism says outright that the account uses figurative language and that it affirms something real about the beginning. Holding both is the Catholic position: neither a literalism the text does not require, nor a dismissal that empties it.",
+      "hint": "The Church affirms two things here that the objection assumes cannot both be held.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 390"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 337"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-008",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1770,
+      "prompt": "True or False: Because scientific study of origins has advanced so far, the Church regards such research as a threat to faith.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism treats discoveries about the origins of the universe and of life as an invitation to greater admiration for the Creator. Framing science as a rival requires a view of God the Church does not hold — as one cause among others inside the universe rather than its source.",
+      "hint": "Consider whether learning how something works competes with the question of why it exists at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 283"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-009",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1790,
+      "prompt": "A miracle is not a violation of nature by an outsider, but an act of the ____ of nature, who is not bound by what he made.",
+      "correctAnswer": "author",
+      "explanation": "The objection pictures God as an intruder breaking rules he is subject to. On the Christian account the regularities of nature exist because he sustains them, so his acting differently is not a violation of a law over him — which is why the argument from natural law against miracles assumes the conclusion it needs.",
+      "hint": "Ask who the laws of nature belong to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 548"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l2-010",
+      "topic": "answering-objections",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1820,
+      "prompt": "Match each science-and-faith objection to what actually answers it.",
+      "pairs": [
+        {
+          "left": "'Genesis requires a young universe'",
+          "right": "The account uses figurative language while affirming a real beginning"
+        },
+        {
+          "left": "'Miracles violate natural law'",
+          "right": "The author of nature is not bound by what he sustains"
+        },
+        {
+          "left": "'Neuroscience disproves the soul'",
+          "right": "Describing a mechanism does not settle what the thing is"
+        },
+        {
+          "left": "'Science and religion are at war'",
+          "right": "The historical record does not support a standing conflict"
+        }
+      ],
+      "explanation": "Three of these rest on a category error and one on a historical claim. Sorting which kind of mistake is in front of you decides whether the answer is a distinction or a fact, and offering the wrong kind misses in both directions.",
+      "hint": "Only one of these four is settled by history rather than by a distinction.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
         }
       ]
     },
@@ -412,6 +622,119 @@
       ]
     },
     {
+      "id": "answering-objections-l3-007",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2030,
+      "prompt": "The Exsultet calls Adam's sin a 'happy fault' that earned so great a Redeemer. What is the claim, and what is it not?",
+      "choices": [
+        "That God draws a greater good from evil he permits — not that the evil was good, nor that it was necessary",
+        "That sin is good because it produced redemption",
+        "That the Fall was part of God's positive will",
+        "That evil and good are ultimately the same"
+      ],
+      "correctAnswer": "That God draws a greater good from evil he permits — not that the evil was good, nor that it was necessary",
+      "explanation": "The phrase is easily misused in both directions. It does not baptise the sin, and it does not make the sin required for the Incarnation. It says God's response to evil so exceeds the evil that the Church can sing about the outcome without approving the cause.",
+      "hint": "Ask what exactly is being called happy — the fault, or what God did about it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 412"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 324"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-008",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 2070,
+      "prompt": "True or False: The right first response to someone in acute grief asking 'why did God let this happen' is to present the free-will defence.",
+      "correctAnswer": false,
+      "explanation": "False, and getting this wrong does real damage. In grief the words are usually not a request for an argument. A philosophical answer delivered then tells the person their pain has been heard as a debating position — the correct response is presence, and the argument belongs to a different conversation, if it belongs at all.",
+      "hint": "Ask whether the question is being asked as a question.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 12:15"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1506"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-009",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 2110,
+      "prompt": "Why does the Church say evil is a privation rather than a thing?",
+      "choices": [
+        "Because everything that exists is created good; evil is the absence of a good that ought to be there, not a rival substance",
+        "Because evil is an illusion with no real effects",
+        "Because evil was created by a lesser deity",
+        "Because evil exists only in human perception"
+      ],
+      "correctAnswer": "Because everything that exists is created good; evil is the absence of a good that ought to be there, not a rival substance",
+      "explanation": "Privation is not a denial that evil is real — blindness is real, and it is the absence of sight. The doctrine rules out dualism: if evil were a substance, something would have had to create it, and God creates only good.",
+      "hint": "Compare it to blindness or a wound — real, and defined by what is missing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l3-010",
+      "topic": "answering-objections",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 2150,
+      "prompt": "Match each formulation about evil to what it actually maintains.",
+      "pairs": [
+        {
+          "left": "Privation",
+          "right": "Evil is the absence of a due good, not a created substance"
+        },
+        {
+          "left": "Free-will defence",
+          "right": "Genuine freedom makes real refusal possible"
+        },
+        {
+          "left": "Felix culpa",
+          "right": "God draws a greater good from evil he permits"
+        },
+        {
+          "left": "Divine permission",
+          "right": "God permits moral evil without causing it"
+        }
+      ],
+      "explanation": "These are complementary rather than competing, and none of them is offered as an explanation of any particular person's suffering. Treating a general account of why evil is possible as an answer to a specific grief is the most common misuse of all four.",
+      "hint": "All four address why evil is possible, not why a given thing happened.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        }
+      ]
+    },
+    {
       "id": "answering-objections-l4-001",
       "topic": "answering-objections",
       "level": 4,
@@ -548,6 +871,119 @@
           "type": "magisterial_document",
           "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)",
           "quote": "We reprove, then, by virtue of Our Apostolic Authority, all the practices abovementioned as absolutely unworthy of the Christian name."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-007",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2380,
+      "prompt": "Someone says: 'The abuse crisis shows the Church's claims are false.' What is the honest response?",
+      "choices": [
+        "Name the evil without qualification, acknowledge that those who abused and those who concealed it betrayed the people they were ordained to serve, and recognise the objection is usually not a syllogism",
+        "Point out that abuse rates are comparable in other institutions",
+        "Explain that the Church's holiness is Christ's, so the failures of members are irrelevant",
+        "Note that most accusations concern decades past"
+      ],
+      "correctAnswer": "Name the evil without qualification, acknowledge that those who abused and those who concealed it betrayed the people they were ordained to serve, and recognise the objection is usually not a syllogism",
+      "explanation": "The other three answers are each partly true and all three function as deflections. Comparative statistics say other children were also failed. An appeal to the Church's holiness, offered here, sounds like the institution excusing itself. And the Church's own teaching is that scandal is graver, not lesser, when given by those whose office is to teach — so the argument that clergy failures do not matter is one the Church herself rejects.",
+      "hint": "Three of these options are true statements that would still be wrong to say.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2284"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-008",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2420,
+      "prompt": "True or False: Because scandal given by those in office is graver, the Church's own teaching intensifies rather than lessens the charge against clergy who abused.",
+      "correctAnswer": true,
+      "explanation": "True, and it is worth saying plainly. Scandal is grave in proportion to the authority of the one giving it. The Church does not possess a doctrine that softens what was done; her own moral theology makes it worse, which is the opposite of what an outsider expects to hear.",
+      "hint": "Ask whether the Church's teaching on scandal makes an ordained abuser's guilt greater or smaller.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-009",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 2440,
+      "prompt": "How should the distinction between the Church's holiness and her members' sin be used?",
+      "choices": [
+        "It explains how the Church can be holy while containing sinners; it never functions as a reply to someone harmed by those sinners",
+        "It shows that the failures of members are unimportant",
+        "It proves the institution bears no responsibility for what its ministers do",
+        "It should be the first thing said whenever the abuse crisis is raised"
+      ],
+      "correctAnswer": "It explains how the Church can be holy while containing sinners; it never functions as a reply to someone harmed by those sinners",
+      "explanation": "The distinction is true and it has a proper use, which is theological. Deployed to a victim it becomes an evasion wearing doctrine as cover. Knowing a true thing and knowing when saying it would be wrong are different competencies, and this topic requires the second.",
+      "hint": "The question is not whether the distinction is true, but what it can and cannot be used for.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-010",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2450,
+      "prompt": "Match each historical charge to what the record actually shows.",
+      "pairs": [
+        {
+          "left": "The Galileo affair",
+          "right": "A real failure, publicly acknowledged and studied by John Paul II"
+        },
+        {
+          "left": "The slave trade",
+          "right": "Condemned by Gregory XVI in In Supremo Apostolatus (1839)"
+        },
+        {
+          "left": "The Day of Pardon (2000)",
+          "right": "A formal request for forgiveness for sins of the Church's members"
+        },
+        {
+          "left": "The abuse crisis",
+          "right": "Grave evil, made graver by the office of those who committed it"
+        }
+      ],
+      "explanation": "Two of these are answered by pointing to a documented record; two require admitting fault without qualification. An apologetic that can only do the first kind is not honest, and people can tell.",
+      "hint": "Two of these are defended with evidence; two are not to be defended at all.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
         }
       ]
     },
@@ -690,6 +1126,119 @@
           "type": "scripture",
           "reference": "1 Peter 3:15",
           "quote": "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-007",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2630,
+      "prompt": "Before answering a serious objection, what should you be able to do?",
+      "choices": [
+        "State the objection in a form its holder would accept as fair, including its strongest version",
+        "Identify the objector's motive for raising it",
+        "Locate a magisterial text that condemns it",
+        "Establish that the objector is not qualified to raise it"
+      ],
+      "correctAnswer": "State the objection in a form its holder would accept as fair, including its strongest version",
+      "explanation": "If you cannot state it fairly, you do not yet know what you are answering, and the person will recognise that before you do. Answering a weakened version is worse than saying nothing: it teaches them the real objection has no answer, since you avoided it.",
+      "hint": "The test is whether the other person would recognise their own position in your description of it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-008",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 2670,
+      "prompt": "True or False: Saying 'I don't know' to an objection damages your credibility and should be avoided.",
+      "correctAnswer": false,
+      "explanation": "False — it is usually the opposite. Admitting a limit makes everything else you claim more believable, and improvising an answer you cannot support hands the other person a genuine reason to distrust the rest. 'I don't know, but I will find out' also leaves the conversation open, which pretending never does.",
+      "hint": "Consider what an obviously improvised answer does to the credibility of your earlier ones.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2469"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-009",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 2700,
+      "prompt": "An objection is raised with real anger. What does the anger most often indicate?",
+      "choices": [
+        "That the objection is carrying an injury, and the injury has to be heard before any argument can be",
+        "That the person is arguing in bad faith and should be disengaged from",
+        "That the argument must be answered more forcefully to be heard",
+        "That the topic should be avoided entirely"
+      ],
+      "correctAnswer": "That the objection is carrying an injury, and the injury has to be heard before any argument can be",
+      "explanation": "Anger at the Church is very often anger about something that actually happened — to them or to someone they love. An argument delivered over it, however sound, communicates that the injury was heard as a debating position. Nothing is lost by listening first; a great deal is lost by not.",
+      "hint": "Ask what an angry objection is usually about, underneath the words.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 12:15"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-010",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 2720,
+      "prompt": "Match each dialogue habit to the reason it matters.",
+      "pairs": [
+        {
+          "left": "Stating the objection at its strongest",
+          "right": "Otherwise you answer something they did not say"
+        },
+        {
+          "left": "Admitting what you do not know",
+          "right": "Improvised answers discredit your sound ones"
+        },
+        {
+          "left": "Listening before answering anger",
+          "right": "An injury heard as an argument is not heard"
+        },
+        {
+          "left": "Leaving the conversation open",
+          "right": "A question can be returned to; a quarrel usually cannot"
+        }
+      ],
+      "explanation": "None of these concerns the content of any argument, and all four decide whether the content ever gets a hearing. Most failed apologetic conversations fail here rather than on the merits.",
+      "hint": "All four are about the conditions of a conversation, not its substance.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
         }
       ]
     },
@@ -838,6 +1387,119 @@
           "type": "ccc",
           "reference": "CCC 159",
           "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-007",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Philosophers distinguish a theodicy from a defence. What is the difference, and why does it matter?",
+      "choices": [
+        "A theodicy proposes God's actual reasons for permitting evil; a defence shows only that permitting it is not contradictory — the second claims far less and is far harder to refute",
+        "They are two names for the same argument",
+        "A defence claims more than a theodicy",
+        "A theodicy is philosophical and a defence is scriptural"
+      ],
+      "correctAnswer": "A theodicy proposes God's actual reasons for permitting evil; a defence shows only that permitting it is not contradictory — the second claims far less and is far harder to refute",
+      "explanation": "Claiming less is a strength here. To refute a defence one must show the position is actually incoherent; to refute a theodicy one need only show the proposed reason is inadequate. Reaching for a theodicy where a defence suffices takes on a burden the argument never required.",
+      "hint": "Ask which one has to be right about God's reasons, and which only has to be possible.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 309"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 324"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-008",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The problem of divine hiddenness argues that a loving God would make his existence unmistakable to every sincere seeker. What does the Catholic tradition hold about the manner of revelation?",
+      "choices": [
+        "God gives sufficient light for those who seek and enough obscurity to leave the response free; coercive evidence would compel rather than invite",
+        "God has made his existence unmistakable, so no one is sincerely uncertain",
+        "God deliberately conceals himself from most people",
+        "The question cannot be addressed"
+      ],
+      "correctAnswer": "God gives sufficient light for those who seek and enough obscurity to leave the response free; coercive evidence would compel rather than invite",
+      "explanation": "The objection assumes the goal is maximal certainty. If what God seeks is love freely given, evidence that made refusal impossible would defeat the purpose — the tradition holds there is enough light for the willing and enough shadow that assent remains a free act.",
+      "hint": "Ask what kind of response overwhelming evidence would make possible, and whether that is what is being sought.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 35"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 154"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-009",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: An argument that proves too much is defective even if its conclusion happens to be true.",
+      "correctAnswer": true,
+      "explanation": "True, and this is worth applying to one's own arguments most of all. 'People do not die for what they know is false' would establish the truth of any belief held by a martyr, which is plainly wrong. The resurrection argument must be stated more narrowly — those particular people were positioned to know whether the specific claim was true.",
+      "hint": "Test an argument by asking what else it would prove if it worked.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-010",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each precise term to what it denotes.",
+      "pairs": [
+        {
+          "left": "Theodicy",
+          "right": "An account of God's actual reasons for permitting evil"
+        },
+        {
+          "left": "Defence",
+          "right": "A demonstration that permitting evil is not contradictory"
+        },
+        {
+          "left": "Methodological naturalism",
+          "right": "Science studies natural causes as a working method"
+        },
+        {
+          "left": "Metaphysical naturalism",
+          "right": "The claim that nothing beyond nature exists"
+        }
+      ],
+      "explanation": "Both pairs turn on the same skill: noticing when a modest claim is being swapped for an ambitious one. Science's working method does not entail that nothing else exists, and a defence does not entail knowing God's reasons.",
+      "hint": "In each pair, one term claims much more than the other.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 309"
         }
       ]
     },
@@ -993,6 +1655,125 @@
           "type": "ccc",
           "reference": "CCC 159",
           "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-007",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "A grieving mother whose baby died before baptism asks whether her child is lost. What does the Church actually say?",
+      "choices": [
+        "The Church entrusts such children to God's mercy and hopes for their salvation, a hope she teaches explicitly rather than merely permits",
+        "The Church teaches that unbaptised infants are certainly damned",
+        "The Church teaches limbo as a defined doctrine",
+        "The Church has no teaching on this"
+      ],
+      "correctAnswer": "The Church entrusts such children to God's mercy and hopes for their salvation, a hope she teaches explicitly rather than merely permits",
+      "explanation": "The Catechism says the Church entrusts these children to God's mercy and allows us to hope there is a way of salvation for them, recalling Christ's tenderness toward children. Limbo was a theological opinion, never a defined doctrine. And in this conversation the accuracy is pastoral: a mother told the wrong thing here carries it for life.",
+      "hint": "Ask whether hope here is something the Church merely tolerates or something she actually teaches.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1261"
+        },
+        {
+          "type": "scripture",
+          "reference": "Mark 10:14"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-008",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Someone says: 'A loving God would not send anyone to hell.' Which response is both accurate and least likely to be misheard?",
+      "choices": [
+        "Hell is definitive self-exclusion from communion with God, freely chosen and persisted in; God predestines no one to it",
+        "Hell is a necessary punishment God imposes on the wicked",
+        "Hell is probably empty, so the objection does not arise",
+        "The Church no longer teaches that hell exists"
+      ],
+      "correctAnswer": "Hell is definitive self-exclusion from communion with God, freely chosen and persisted in; God predestines no one to it",
+      "explanation": "The Catechism's own language places the cause in the creature's free refusal rather than in a divine sentence. The objection pictures God assigning people to torment; the doctrine describes a refusal God permits because he will not coerce love. The third option is not the Church's teaching and should not be offered as comfort.",
+      "hint": "Notice where the Catechism locates the cause — in a decree, or in a refusal.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1033"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-009",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Someone who was abused by a priest says the Church has no right to speak to them about God. What is the right response?",
+      "choices": [
+        "Accept it without argument, say plainly that what was done was evil and should never have happened, and offer nothing further unless it is asked for",
+        "Explain that the Church's holiness does not depend on her ministers",
+        "Point out that the Church has instituted safeguarding reforms",
+        "Encourage them to distinguish the institution from the faith"
+      ],
+      "correctAnswer": "Accept it without argument, say plainly that what was done was evil and should never have happened, and offer nothing further unless it is asked for",
+      "explanation": "The last three are true and every one of them, said here, is a defence of the institution offered to someone the institution harmed. This is not an objection to be answered. The only fitting response acknowledges the wrong and does not ask anything of them — including that they keep listening.",
+      "hint": "Ask who each possible answer is actually serving.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l7-010",
+      "topic": "answering-objections",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each situation to what it actually calls for.",
+      "pairs": [
+        {
+          "left": "A curious question asked in good faith",
+          "right": "A clear answer, at the length the question invites"
+        },
+        {
+          "left": "An objection carrying real injury",
+          "right": "Listening, and no argument until it is asked for"
+        },
+        {
+          "left": "A claim resting on a factual error",
+          "right": "The record, offered without triumph"
+        },
+        {
+          "left": "A question you cannot answer",
+          "right": "Saying so, and finding out"
+        }
+      ],
+      "explanation": "The whole topic reduces to telling these apart before choosing a response. Most damage in apologetics is done by giving a good answer of the wrong kind — and the second row is where it happens most.",
+      "hint": "Only two of these four call for an argument at all.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
         }
       ]
     }
