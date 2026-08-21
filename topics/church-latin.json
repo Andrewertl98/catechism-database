@@ -1395,6 +1395,900 @@
           "reference": "CCC 1367"
         }
       ]
+    },
+    {
+      "id": "church-latin-l7-001",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2560,
+      "prompt": "The Vulgate opens John's Gospel: 'In principio erat Verbum.' Which is the correct word-for-word English?",
+      "choices": [
+        "In the beginning was the Word",
+        "In the beginning God made the Word",
+        "From the beginning came the Word",
+        "In the first principle was the Word"
+      ],
+      "correctAnswer": "In the beginning was the Word",
+      "explanation": "'Principio' is ablative of 'principium' (beginning), governed by 'in.' The line deliberately echoes Genesis's own opening, in both Hebrew and the Vulgate's own rendering of it -- John is signalling a second creation account before saying anything else.",
+      "hint": "'Principium' is the same root behind 'principal' and 'prince' -- a first thing.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:1"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-002",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2590,
+      "prompt": "True or False: The Vulgate's 'Et Verbum caro factum est' ('And the Word became flesh') uses 'caro' -- the same root behind 'carnal' and 'incarnation.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Caro, carnis' is flesh, and 'incarnatio' is literally a taking-on of flesh. The single word 'caro' carries the entire weight of the doctrine: not a spirit merely appearing human, but the Word truly becoming flesh.",
+      "hint": "The word survives in English almost unchanged, in a very different context.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:14"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-003",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 2600,
+      "prompt": "At the Gospel's proclamation, the deacon or priest may recall the Vulgate's own words for John the Baptist's cry: 'Ecce ____ Dei' -- 'Behold the Lamb of God.'",
+      "correctAnswer": "Agnus",
+      "explanation": "This is the same word already met in Level 1's 'Agnus Dei,' now seen in its full Scriptural setting -- John the Baptist's own words at the Jordan, which the Mass places on the priest's lips again just before Communion.",
+      "hint": "The word is the same one that opens the litany sung before Communion.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:29"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-004",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2570,
+      "prompt": "The Vulgate's Great Commission reads 'Euntes ergo docete omnes gentes, baptizantes eos in nomine Patris, et Filii, et Spiritus Sancti.' What does 'omnes gentes' mean?",
+      "choices": [
+        "All nations",
+        "All the elect only",
+        "Only the Jewish people",
+        "All the apostles"
+      ],
+      "correctAnswer": "All nations",
+      "explanation": "'Gens, gentis' is a people or nation -- the same root behind 'gentile' and 'genealogy.' 'Omnes gentes' makes the command's universal scope explicit in the Latin exactly as it is in the Greek behind it: every nation, not one people alone.",
+      "hint": "The word is the root of 'gentile' -- ask what that word means about scope.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-005",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2610,
+      "prompt": "True or False: The Vulgate's rendering of the Our Father's address, 'Pater noster qui es in caelis,' places 'noster' (our) directly after 'Pater,' matching the prayer's familiar English word order.",
+      "correctAnswer": true,
+      "explanation": "True, and the word order matters devotionally as much as grammatically: the Father is named first, and 'ours' immediately follows -- a shared, familial address before anything is asked for.",
+      "hint": "Compare the Latin word order to the English you already know by heart.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9-13"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-006",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2580,
+      "prompt": "Paul's earliest creedal formula, quoted at 1 Corinthians 15:3-8, opens (in most Latin renderings) with 'Christus mortuus est pro peccatis nostris.' What does 'pro peccatis nostris' mean?",
+      "choices": [
+        "For our sins",
+        "Instead of our sins",
+        "Before our sins",
+        "Without our sins"
+      ],
+      "correctAnswer": "For our sins",
+      "explanation": "'Pro' with the ablative here carries the sense of 'on behalf of' or 'for the sake of' -- the same preposition behind English 'pro-' words like 'pro bono.' The phrase names exactly what the earliest creed says Christ's death accomplished, and for whom.",
+      "hint": "'Pro' commonly means 'on behalf of' when paired with the ablative case.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:3-8"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-007",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 2600,
+      "prompt": "Mary's response to the angel, rendered in Latin as 'Fiat mihi secundum verbum tuum,' means 'let it be done to me according to thy ____.'",
+      "correctAnswer": "word",
+      "explanation": "'Fiat' -- 'let it be done' -- is the same verb form behind 'fiat lux,' 'let there be light.' Mary's own 'fiat' answers God's first creative word with a human word of total consent, which is why this single line is treated as the hinge of the whole Gospel account.",
+      "hint": "'Verbum' is the same word that opens John's Gospel.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:34-35"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-008",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 2620,
+      "prompt": "True or False: The Vulgate's Magnificat opens 'Magnificat anima mea Dominum' -- 'My soul magnifies the Lord' -- with 'anima' meaning 'soul.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Anima' is soul, the root behind 'animate' and 'animal' (a living, ensouled thing). Mary's whole soul, not merely her words, is described as the subject doing the magnifying.",
+      "hint": "The word survives in English in 'animate' -- something given life.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-55"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-009",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 2600,
+      "prompt": "Zechariah's canticle, the Benedictus, opens 'Benedictus Dominus Deus Israel.' What does 'Benedictus' mean here?",
+      "choices": [
+        "Blessed",
+        "Beloved",
+        "Begotten",
+        "Believed"
+      ],
+      "correctAnswer": "Blessed",
+      "explanation": "'Benedictus' -- 'well-spoken-of' -- is the same root behind 'benediction' and 'benefit.' The canticle takes its common name directly from this opening word, exactly as the Magnificat and Nunc Dimittis take theirs from their own first Latin words.",
+      "hint": "The word gives us 'benediction' -- a blessing spoken well.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:67-79"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-010",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 2610,
+      "prompt": "Match each Vulgate phrase to its source and meaning.",
+      "pairs": [
+        {
+          "left": "In principio erat Verbum",
+          "right": "John 1:1 -- In the beginning was the Word"
+        },
+        {
+          "left": "Ecce Agnus Dei",
+          "right": "John 1:29 -- Behold the Lamb of God"
+        },
+        {
+          "left": "Fiat mihi secundum verbum tuum",
+          "right": "Luke 1:38 -- Let it be done to me according to thy word"
+        },
+        {
+          "left": "Magnificat anima mea Dominum",
+          "right": "Luke 1:46 -- My soul magnifies the Lord"
+        }
+      ],
+      "explanation": "Every one of these phrases is famous enough to have entered the Church's own vocabulary as a name: the Magnificat is named for its first word, and 'fiat' has become an ordinary English word for an authoritative decree, on the strength of Mary's one-word consent.",
+      "hint": "Two of these phrases have given their opening word as the common name for the whole text.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:1"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-55"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-001",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2630,
+      "prompt": "Augustine's most famous line, from the opening of the Confessions, reads 'Cor nostrum inquietum est, donec requiescat in te.' What does it say?",
+      "choices": [
+        "Our heart is restless until it rests in you",
+        "Our heart is silent until it speaks of you",
+        "Our mind is troubled until it understands you",
+        "Our soul is weak until it serves you"
+      ],
+      "correctAnswer": "Our heart is restless until it rests in you",
+      "explanation": "'Inquietum' -- literally 'un-quieted' -- names the restlessness, and 'requiescat' -- 'may it rest' -- names the only cure Augustine will accept for it. The whole Confessions is essentially one long argument for this single opening sentence.",
+      "hint": "'Requiescat' is the same root behind the funeral prayer 'requiescat in pace' -- rest in peace.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Confessions I.1"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 30"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-002",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2660,
+      "prompt": "True or False: Tertullian's phrase 'Anima naturaliter Christiana' -- 'the soul is naturally Christian' -- claims every person is born already believing explicit Christian doctrine.",
+      "correctAnswer": false,
+      "explanation": "False. Tertullian's point is narrower and more interesting: even pagan speech unconsciously invokes the true God in moments of surprise or fear, suggesting the soul has a natural orientation toward him -- not that doctrine is innate, but that the soul's deepest instincts already point where explicit faith later leads.",
+      "hint": "Ask whether 'naturally oriented toward' and 'already explicitly believing' are the same claim.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Tertullian, Apologeticus 17"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 28"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-003",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2650,
+      "prompt": "St. Vincent of Lérins gave the classic test for authentic tradition in Latin as 'quod ubique, quod semper, quod ab ____' -- what has been believed everywhere, always, and by all.",
+      "correctAnswer": "omnibus",
+      "explanation": "'Omnibus' is dative/ablative plural of 'omnis,' all -- the same root that gives English 'omnibus' (a vehicle for everyone) and 'omniscient.' The threefold test names where, when, and by whom, in that order.",
+      "hint": "This word gives English a word for a vehicle that carries everyone.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of Lérins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-004",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2670,
+      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio Scripturarum ignoratio Christi est.' What does it claim?",
+      "choices": [
+        "Ignorance of the Scriptures is ignorance of Christ",
+        "Knowledge of Scripture replaces the need to know Christ personally",
+        "The Scriptures are too difficult for ordinary believers to understand",
+        "Christ is known only apart from the Scriptures"
+      ],
+      "correctAnswer": "Ignorance of the Scriptures is ignorance of Christ",
+      "explanation": "Vatican II found this fourth-century line important enough to quote directly, urging all the faithful toward frequent reading of Scripture on the strength of Jerome's own maxim -- a patristic voice given fresh authority eight centuries later.",
+      "hint": "The same word, 'ignoratio,' appears twice, once about Scripture and once about Christ.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 25"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-005",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2640,
+      "prompt": "True or False: The maxim 'Extra Ecclesiam nulla salus' (outside the Church there is no salvation), already met in Level 4, is traditionally attributed to St. Cyprian of Carthage.",
+      "correctAnswer": true,
+      "explanation": "True. Cyprian's third-century formulation is the origin of the phrase; its later, careful interpretation -- distinguishing formal from invincible ignorance -- is a separate development this database covers elsewhere, but the phrase itself is genuinely patristic in origin, not a later invention.",
+      "hint": "This is the same Latin phrase from Level 4 -- the new information here is who first said it.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Cyprian of Carthage, Epistle 73"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-006",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2660,
+      "prompt": "Why does this database treat 'Roma locuta, causa finita est' ('Rome has spoken, the matter is settled') with caution when attributing it to Augustine?",
+      "choices": [
+        "It is a later summary of Augustine's actual argument, not a sentence he wrote verbatim in this exact form",
+        "Because Augustine never discussed Rome's authority at all",
+        "Because the phrase is entirely modern in origin, with no patristic root",
+        "Because the phrase was formally condemned by a later council"
+      ],
+      "correctAnswer": "It is a later summary of Augustine's actual argument, not a sentence he wrote verbatim in this exact form",
+      "explanation": "Augustine did argue, in the Pelagian controversy, that Rome's judgment settled the matter -- but the pithy Latin tag itself is a later distillation of that argument, not a verified direct quotation. This level's whole point is telling the two apart: real influence does not always come with an exact matching sentence.",
+      "hint": "Ask whether a phrase capturing someone's real argument is the same as a verified direct quotation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-007",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2680,
+      "prompt": "Jerome's maxim on Scripture and Christ was important enough for the Second Vatican Council to quote directly, in the document Dei ____.",
+      "correctAnswer": "Verbum",
+      "explanation": "'Dei Verbum' -- 'the Word of God' -- is Vatican II's constitution on divine revelation, and its own title uses the same word, 'Verbum,' that opens John's Gospel in Latin.",
+      "hint": "This is the same word met at the very start of this level, in John's Gospel.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 25"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-008",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2620,
+      "prompt": "True or False: Reading a Church Father's Latin directly, rather than only a translation, can surface a precise word choice -- like Augustine's 'inquietum' -- that an English rendering may soften or lose.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the whole reason a level on Patristic Latin belongs in this topic. 'Restless' is a fair translation of 'inquietum,' but the Latin's own shape -- 'un-quieted,' built from the same root as 'requiescat' two words later -- creates an echo within the sentence that translation alone does not preserve.",
+      "hint": "Compare 'inquietum' and 'requiescat' -- do they share a root in the Latin the way 'restless' and 'rest' barely do in English?",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Confessions I.1"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 108"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-009",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2650,
+      "prompt": "What does reading Vincent of Lérins's threefold test in its original Latin word order -- ubique, semper, ab omnibus -- preserve that a looser paraphrase might lose?",
+      "choices": [
+        "The deliberate sequence: place, then time, then people, building the case cumulatively in that specific order",
+        "Nothing; word order carries no meaning in Latin",
+        "That the three tests must be applied in reverse order",
+        "That only the third test, 'ab omnibus,' actually matters"
+      ],
+      "correctAnswer": "The deliberate sequence: place, then time, then people, building the case cumulatively in that specific order",
+      "explanation": "Vincent builds his case in a specific order -- everywhere, then always, then by everyone -- moving from geography to history to universal human witness. A paraphrase that reorders the three loses the sense of a case being built, term by term.",
+      "hint": "Ask whether the three tests are simply listed, or built up in a deliberate sequence.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of Lérins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-010",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2690,
+      "prompt": "Match each patristic Latin phrase to the Father it is genuinely attributed to.",
+      "pairs": [
+        {
+          "left": "Cor nostrum inquietum est, donec requiescat in te",
+          "right": "St. Augustine of Hippo"
+        },
+        {
+          "left": "Anima naturaliter Christiana",
+          "right": "Tertullian"
+        },
+        {
+          "left": "Quod ubique, quod semper, quod ab omnibus",
+          "right": "St. Vincent of Lérins"
+        },
+        {
+          "left": "Extra Ecclesiam nulla salus",
+          "right": "St. Cyprian of Carthage"
+        }
+      ],
+      "explanation": "Each of these phrases is genuinely traceable to the Father named, unlike 'Roma locuta' discussed earlier in this level -- the distinction between a verified quotation and a later summary is worth carrying into how any of these four phrases gets used or repeated.",
+      "hint": "All four of these, unlike the example discussed earlier in this level, are genuinely verified to their named author.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-001",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2700,
+      "prompt": "'Dominus vobiscum' -- 'The Lord be with you' -- fuses 'cum' with the pronoun 'vobis' as 'vobiscum,' placing 'cum' after the pronoun rather than before it. What is this an example of?",
+      "choices": [
+        "A regular feature of Latin grammar: the personal pronouns place 'cum' after themselves (mecum, tecum, secum, nobiscum, vobiscum), reversing the usual preposition-then-noun order",
+        "A unique, one-off exception found only in this specific liturgical phrase",
+        "An error introduced by a medieval copyist",
+        "A feature found only in ecclesiastical, not classical, Latin"
+      ],
+      "correctAnswer": "A regular feature of Latin grammar: the personal pronouns place 'cum' after themselves (mecum, tecum, secum, nobiscum, vobiscum), reversing the usual preposition-then-noun order",
+      "explanation": "This is ordinary classical Latin grammar, not a liturgical peculiarity -- 'cum' regularly follows rather than precedes the personal pronouns as one fused word, in exactly the pattern 'vobiscum' shows.",
+      "hint": "Compare 'vobiscum' to 'mecum' and 'tecum' -- the same pattern, different pronoun each time.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-002",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2730,
+      "prompt": "True or False: In the Agnus Dei, 'qui tollis peccata mundi,' the verb 'tollis' is second person singular -- addressing Christ directly as 'thou who takest away' rather than describing him in the third person.",
+      "correctAnswer": true,
+      "explanation": "True, and the grammar itself carries theology: English translations often render this 'who takes away,' which sounds like a description, where the Latin's second-person 'tollis' makes the whole line a direct address to Christ -- the same pattern already met in 'Domine, non sum dignus' earlier in this topic.",
+      "hint": "Compare this to the second-person address already met in 'Domine, non sum dignus.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:29"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-003",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2710,
+      "prompt": "Many Collects in the Roman Missal close with a purpose clause introduced by 'ut' followed by a subjunctive verb (for example, '...ut mereamur' -- 'that we may deserve/attain'). What does 'ut + subjunctive' signal here?",
+      "choices": [
+        "Purpose -- the goal or result the prayer is asking God to bring about",
+        "A simple statement of fact with no request involved",
+        "A direct command addressed to the congregation",
+        "A quotation from an earlier speaker"
+      ],
+      "correctAnswer": "Purpose -- the goal or result the prayer is asking God to bring about",
+      "explanation": "'Ut' triggering the subjunctive is a standard Latin purpose construction: 'so that' something may result. Recognizing this pattern lets a reader spot the actual request buried at the end of a long Collect, rather than losing it in the sentence's length.",
+      "hint": "'Ut' with the subjunctive typically answers the question 'to what end?'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1156"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-004",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2720,
+      "prompt": "In 'Sursum corda,' 'corda' is the direct object of an implied command verb, 'levate' -- lift. 'Corda' is accusative plural of 'cor, cordis,' meaning ____.",
+      "correctAnswer": "heart",
+      "explanation": "'Cor, cordis' is heart -- the root behind 'cordial' and 'courage.' 'Sursum corda' compresses an entire imperative sentence ('Lift up your hearts') into two words, with the verb itself left understood.",
+      "hint": "The root gives English 'cordial' and 'courage' -- both, in different ways, about the heart.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-005",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2740,
+      "prompt": "True or False: 'Credo in unum Deum,' the Creed's opening, uses 'credo' with 'in' plus the accusative, a construction distinct from ordinary Latin verbs of believing, which normally take the dative alone.",
+      "correctAnswer": true,
+      "explanation": "True, and it is a real, noticed feature of Christian Latin: classical Latin more often expresses trust in a person with the simple dative, while 'credere in' with the accusative is a construction that develops and spreads specifically in Christian usage -- the grammar itself marking out something distinctively Christian about the act of faith.",
+      "hint": "Ask whether this exact grammatical construction was already standard in classical, pre-Christian Latin.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 150"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-006",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2700,
+      "prompt": "'Corpus Christi' and 'Corpus Domini' are both genitive constructions -- 'Body of Christ,' 'Body of the Lord.' What does the genitive case do grammatically in both phrases?",
+      "choices": [
+        "Shows possession or close relation -- whose body it is",
+        "Marks the subject performing an action",
+        "Marks the direct object receiving an action",
+        "Indicates the location where something happens"
+      ],
+      "correctAnswer": "Shows possession or close relation -- whose body it is",
+      "explanation": "The genitive is Latin's possessive case, here linking 'body' to whose body is meant. Recognizing the genitive by its typical endings (-i, -is, and others depending on declension) is one of the most useful single skills for reading any Latin liturgical phrase.",
+      "hint": "Ask what relationship 'of' typically expresses in English -- that is the genitive's usual job.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1331"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-007",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2730,
+      "prompt": "'Et cum spiritu tuo' -- 'and with your spirit' -- uses 'tuo,' the ablative singular form matching 'spiritu' in gender, number, and case: this agreement is called ____.",
+      "correctAnswer": "concord",
+      "explanation": "Concord (or agreement) is the rule that an adjective or possessive must match the noun it modifies in gender, number and case -- which is why 'tuo' takes this particular ending to match the masculine ablative singular noun 'spiritu,' rather than a different ending that would match some other noun.",
+      "hint": "This grammatical term names the requirement that a modifying word 'agree' with the noun it describes.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-008",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2710,
+      "prompt": "True or False: 'Ite, missa est' uses 'missa' as a passive participle related to the verb 'mittere,' to send -- the same root that gives the Mass its own name.",
+      "correctAnswer": true,
+      "explanation": "True, and this closes a loop from Level 1 of this topic: 'missa,' 'sent,' is a form of the same verb that gives English 'mission' and 'missionary' -- the dismissal literally sends the assembly out, which is exactly why the Mass takes its name from this one word.",
+      "hint": "This is the same root discussed in Level 1, where the Mass's own name was first explained.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1332"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-009",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2740,
+      "prompt": "Composing a short original sentence, 'Gratias tibi ago' ('I give thanks to you'), what case is 'tibi'?",
+      "choices": [
+        "Dative -- the indirect object, to or for whom the thanks are given",
+        "Genitive -- showing possession",
+        "Ablative -- showing means or manner",
+        "Vocative -- direct address"
+      ],
+      "correctAnswer": "Dative -- the indirect object, to or for whom the thanks are given",
+      "explanation": "'Ago' (I do/give) takes 'gratias' as its direct object (accusative) and 'tibi' as its indirect object (dative) -- to whom the thanks are directed. Recognizing this pattern is what lets a reader compose, not merely recognize, a simple original Latin sentence.",
+      "hint": "Ask who is receiving the thanks, as distinct from what is being given.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2637"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l9-010",
+      "topic": "church-latin",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2750,
+      "prompt": "Match each grammatical feature to the phrase that illustrates it.",
+      "pairs": [
+        {
+          "left": "Fused preposition + pronoun",
+          "right": "Vobiscum -- cum placed after the pronoun"
+        },
+        {
+          "left": "Second-person direct address",
+          "right": "Qui tollis -- 'thou who takest away'"
+        },
+        {
+          "left": "Purpose clause (ut + subjunctive)",
+          "right": "'...ut mereamur' -- 'that we may attain'"
+        },
+        {
+          "left": "Genitive of possession",
+          "right": "Corpus Christi -- 'Body of Christ'"
+        }
+      ],
+      "explanation": "None of these four features is unique to liturgical Latin -- all are ordinary classical grammar. Recognizing them is what turns memorized phrases into a language that can actually be read, rather than a set of vocabulary flashcards.",
+      "hint": "Ask, for each row, what grammatical job the highlighted word or ending is doing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-001",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2760,
+      "prompt": "Vatican II's Sacrosanctum Concilium 36 states that 'the use of the Latin language... is to be preserved' in which context?",
+      "choices": [
+        "The Latin rites, even while permitting the vernacular's wider use in the liturgy",
+        "Only in private prayer, never in any public liturgy",
+        "Only for the Extraordinary Form, with no bearing on the ordinary liturgy",
+        "Nowhere -- the document abolishes Latin's liturgical use entirely"
+      ],
+      "correctAnswer": "The Latin rites, even while permitting the vernacular's wider use in the liturgy",
+      "explanation": "The council that authorized the vernacular's expanded use is the same council that explicitly preserved Latin's place -- these are not opposed decisions but two parts of one balanced reform, easily lost when only one half is remembered.",
+      "hint": "Ask whether the same document that expanded the vernacular's use also abolished Latin, or held both together.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-002",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2780,
+      "prompt": "True or False: The official reference edition (editio typica) of the Roman Missal and other liturgical books remains published in Latin, even in dioceses that celebrate exclusively in the vernacular.",
+      "correctAnswer": true,
+      "explanation": "True. Every vernacular translation is measured against this Latin reference text, which is why translation revisions are checked against the editio typica rather than against an earlier vernacular version -- Latin remains the standard against which fidelity is judged.",
+      "hint": "Ask what a vernacular translation is actually checked against for accuracy.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-003",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2770,
+      "prompt": "Beyond the liturgy, in what other capacity does the Holy See continue to use Latin as an official language?",
+      "choices": [
+        "The Code of Canon Law and many formal Vatican documents are promulgated with Latin as their official text",
+        "Latin has no remaining official use anywhere outside the liturgy",
+        "Latin is used only for internal Vatican correspondence, never for published law",
+        "Latin was replaced by Italian as the Holy See's official legal language"
+      ],
+      "correctAnswer": "The Code of Canon Law and many formal Vatican documents are promulgated with Latin as their official text",
+      "explanation": "Canon law's official text remains Latin, and many papal documents carry a Latin title and an authoritative Latin text alongside vernacular translations -- Latin's role as the Church's working legal and administrative language continues well beyond the sanctuary.",
+      "hint": "Ask what legal text this database has cited by its Latin title throughout this whole topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-004",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 2790,
+      "prompt": "A language preserved specifically because it does not change with everyday usage, keeping doctrinal formulas stable across centuries and translations, is sometimes called a 'sacred' or ____ language.",
+      "correctAnswer": "liturgical",
+      "explanation": "A language no longer spoken as anyone's native tongue stops shifting in the way living vernaculars constantly do -- which is part of why the Church has valued Latin's very fixedness as an asset for doctrinal precision, not merely kept it out of custom.",
+      "hint": "The word describes the language's specific role in worship, distinct from a 'dead' language spoken nowhere.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-005",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2800,
+      "prompt": "True or False: Everything covered across this entire topic -- vocabulary, prayers, Mass responses, magisterial texts, hymns, Scripture, patristic Latin and grammar -- serves one underlying purpose: enabling direct access to the Church's own words, rather than only a translation of them.",
+      "correctAnswer": true,
+      "explanation": "True, and this is worth stating plainly at the topic's close. Every level, from 'Agnus Dei' meaning 'Lamb of God' to a purpose clause in a Collect, has aimed at the same thing: letting the reader meet the Church's prayer, teaching and Scripture in the words she herself actually uses, not only in someone else's rendering of them.",
+      "hint": "Ask what single goal every level of this topic, however different in content, has actually been building toward.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-006",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2760,
+      "prompt": "Reading 'Ite, missa est' with the grammar covered in level 9, the Mass's own name emerges from which single word?",
+      "choices": [
+        "'Missa' -- the passive participle of 'mittere,' to send",
+        "'Ite' -- the imperative meaning 'go'",
+        "'Est' -- the verb 'to be'",
+        "None of these three words relates to the Mass's name"
+      ],
+      "correctAnswer": "'Missa' -- the passive participle of 'mittere,' to send",
+      "explanation": "This draws directly on level 9's own material: 'missa,' sent, gives the Mass its name because the dismissal -- being sent out to live what was just celebrated -- was considered the defining final act of the whole liturgy.",
+      "hint": "This is exactly the word discussed for this reason two levels ago.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1332"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-007",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2770,
+      "prompt": "Drawing on level 8's distinction between a verified quotation and a later summary, how should a Latin tag encountered online, with no clear source given, generally be treated?",
+      "choices": [
+        "With the same caution shown toward 'Roma locuta, causa finita est' -- worth checking against an actual source before treating it as a verbatim quotation",
+        "As certainly authentic, since it is written in Latin",
+        "As certainly false, since it lacks a citation",
+        "As irrelevant to verify, since the meaning is what matters"
+      ],
+      "correctAnswer": "With the same caution shown toward 'Roma locuta, causa finita est' -- worth checking against an actual source before treating it as a verbatim quotation",
+      "explanation": "This is the whole discipline this topic has tried to model: an appealing Latin phrase is not thereby a verified quotation, and the habit of checking a source is worth carrying forward past this topic entirely.",
+      "hint": "Recall the specific example from level 8 used to teach exactly this caution.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-008",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2790,
+      "prompt": "True or False: A grasp of basic Latin grammar, such as recognizing the genitive case or a purpose clause, makes newly encountered Latin phrases easier to read, rather than being useful only for the specific phrases already memorized.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the payoff of level 9's grammar work specifically: recognizing that a genitive shows possession, or that 'ut' with a subjunctive signals purpose, transfers to any new Latin phrase built the same way -- the difference between having memorized a phrasebook and having begun to read a language.",
+      "hint": "Ask whether grammar knowledge, unlike a memorized vocabulary list, transfers to sentences never seen before.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-009",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2780,
+      "prompt": "Considering this topic as a whole, why does the Church maintain Latin's place rather than simply completing a full transition to the vernacular everywhere?",
+      "choices": [
+        "Latin provides a stable, precise, and unifying reference across the whole Latin Church, even while the vernacular carries the ordinary daily experience of worship for most of the faithful",
+        "Because the vernacular is considered doctrinally inferior to Latin",
+        "Because Vatican II required every Mass to be celebrated exclusively in Latin",
+        "Because no accurate vernacular translation of any liturgical text has ever been possible"
+      ],
+      "correctAnswer": "Latin provides a stable, precise, and unifying reference across the whole Latin Church, even while the vernacular carries the ordinary daily experience of worship for most of the faithful",
+      "explanation": "Both things are true at once, exactly as Sacrosanctum Concilium held them together at the start of this level: the vernacular is not a lesser accommodation, and Latin is not a relic being merely tolerated -- each serves a real and different purpose in the Church's actual life.",
+      "hint": "Ask whether this topic has anywhere suggested Latin and the vernacular are in competition, or serving different purposes.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l10-010",
+      "topic": "church-latin",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2800,
+      "prompt": "Match each capstone item to what this level closes out.",
+      "pairs": [
+        {
+          "left": "Sacrosanctum Concilium 36",
+          "right": "Latin preserved in the Latin rites, alongside the vernacular's wider use"
+        },
+        {
+          "left": "The editio typica",
+          "right": "The Latin reference text every vernacular translation is checked against"
+        },
+        {
+          "left": "Canon law's official Latin text",
+          "right": "Latin's continuing role beyond the sanctuary, in the Church's law"
+        },
+        {
+          "left": "This entire topic's real purpose",
+          "right": "Direct access to the Church's own words, not only a translation of them"
+        }
+      ],
+      "explanation": "Ten levels ago this topic began with 'Agnus Dei' meaning 'Lamb of God.' It closes here having covered prayers, responses, magisterial documents, hymns, Scripture, the Fathers, and grammar itself -- all in service of the same single aim named in the final row.",
+      "hint": "The last row names the purpose every earlier row, and every earlier level of this whole topic, has served.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
     }
   ]
 }
