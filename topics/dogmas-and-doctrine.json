@@ -962,6 +962,73 @@
       ]
     },
     {
+      "id": "dogmas-and-doctrine-l4-011",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 2410,
+      "prompt": "Match each way the Church recognises baptism to what it means.",
+      "pairs": [
+        {
+          "left": "Baptism of water",
+          "right": "The sacrament itself, the ordinary means Christ entrusted to the Church"
+        },
+        {
+          "left": "Baptism of blood",
+          "right": "Death for the faith before receiving the sacrament"
+        },
+        {
+          "left": "Baptism of desire",
+          "right": "A catechumen's explicit desire, with repentance and charity"
+        },
+        {
+          "left": "Implicit desire",
+          "right": "Seeking truth and doing God's will while ignorant of the Gospel"
+        }
+      ],
+      "explanation": "All four are the Church's own teaching, and holding them together is what lets her say baptism is necessary without claiming that only the water-baptised are saved. The Church is bound to the sacraments; God is not bound by them.",
+      "hint": "One is the sacrament; the other three are how God acts where the sacrament was not received.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1257"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1258"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1259"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1260"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-012",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 2440,
+      "prompt": "True or False: Baptism of desire and baptism of blood are modern concessions, introduced to soften an older and harsher teaching.",
+      "correctAnswer": false,
+      "explanation": "False. Both are long-standing in the Church's tradition, not recent adjustments. The martyr who dies unbaptised and the catechumen who dies before Easter were discussed by the Fathers, and the Catechism states both plainly. Presenting them as modern softening concedes a history that did not happen.",
+      "hint": "Ask whether the early Church had martyrs who died before they could be baptised.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1258"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1259"
+        }
+      ]
+    },
+    {
       "id": "dogmas-and-doctrine-l5-001",
       "topic": "dogmas-and-doctrine",
       "level": 5,
