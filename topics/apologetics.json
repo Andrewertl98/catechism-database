@@ -229,6 +229,54 @@
       ]
     },
     {
+      "id": "apologetics-l1-011",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "Apologetics generally moves through three stages in order. Which sequence describes it?",
+      "choices": [
+        "Open the possibility that what they hold might not be true, then set out the evidence for the Catholic faith, then call them to conversion and repentance",
+        "Set out the evidence, call for conversion, and only then address their objections",
+        "Call for conversion first, so the evidence is heard by someone already willing",
+        "Present evidence alone, since conversion is not the apologist's concern"
+      ],
+      "correctAnswer": "Open the possibility that what they hold might not be true, then set out the evidence for the Catholic faith, then call them to conversion and repentance",
+      "explanation": "The order is not arbitrary. Evidence for a claim is inaudible to someone certain they already have the truth -- it sounds like special pleading, and gets filed away rather than weighed. Something has to unsettle the existing certainty first. Only then does evidence do work. And evidence alone converts nobody: it can establish that something is true without moving anyone to act on it, which is why the third stage exists at all.",
+      "hint": "Ask why someone completely certain they are right would bother weighing your evidence.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l1-012",
+      "topic": "apologetics",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: The first stage of apologetics means manufacturing doubt by any means, since the goal is to unsettle the other person's confidence.",
+      "correctAnswer": false,
+      "explanation": "False, and the distinction is the difference between apologetics and manipulation. You are not inventing a problem; you are showing a real tension that is already there in what they hold, and inviting them to look at it. If the tension is not genuine, you have not opened a door -- you have misled someone, and the faith is not served by that.",
+      "hint": "Ask whether the difficulty you are pointing to was there before you arrived.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2469"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
       "id": "apologetics-l2-001",
       "topic": "apologetics",
       "level": 2,
@@ -1941,6 +1989,71 @@
         {
           "type": "ccc",
           "reference": "CCC 856"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-015",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1970,
+      "prompt": "A friend has never questioned their position and shows no interest in yours. You lay out the historical evidence for the Resurrection and then urge them to be received into the Church. Why does this usually fail?",
+      "choices": [
+        "Both later stages were attempted before the first: with no doubt opened, evidence reads as special pleading and the call to conversion as presumption",
+        "The evidence for the Resurrection is too weak to persuade anyone",
+        "Conversion should never be mentioned in a conversation",
+        "The friend has not read enough to follow the argument"
+      ],
+      "correctAnswer": "Both later stages were attempted before the first: with no doubt opened, evidence reads as special pleading and the call to conversion as presumption",
+      "explanation": "This is the most common way a well-prepared apologist fails, and it is a sequencing error rather than a content one. Everything said may be true and well argued. Delivered to someone with no live question, it arrives as an answer to something they were not asking -- and the invitation, offered before anything has been unsettled, sounds like being told to change their life on your say-so.",
+      "hint": "Nothing here is false. Ask what was skipped.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l7-016",
+      "topic": "apologetics",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each stage of an apologetic conversation to what actually belongs in it.",
+      "pairs": [
+        {
+          "left": "Opening a real question",
+          "right": "Showing a tension already present in what they hold"
+        },
+        {
+          "left": "Offering the evidence",
+          "right": "Historical, manuscript and philosophical grounds, once there is a question to answer"
+        },
+        {
+          "left": "The call to conversion",
+          "right": "An invitation to repentance and to Christ, made when it can actually be heard"
+        },
+        {
+          "left": "Knowing when to stop",
+          "right": "Leaving a question with someone rather than pressing for a concession"
+        }
+      ],
+      "explanation": "The fourth is not a stage but a discipline running through all three. Each stage can be ruined by continuing past the point where the other person is still listening, and a conversation left open can be returned to -- one that ended badly usually cannot.",
+      "hint": "Three of these are steps in order; the fourth applies at every step.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1428"
         }
       ]
     }
