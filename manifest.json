@@ -129,7 +129,7 @@
     },
     {
       "file": "topics/apologetics.json",
-      "levels": 7,
+      "levels": 10,
       "name": "Apologetics",
       "questionCounts": {
         "1": 12,
@@ -138,7 +138,10 @@
         "4": 10,
         "5": 10,
         "6": 14,
-        "7": 16
+        "7": 16,
+        "8": 10,
+        "9": 10,
+        "10": 10
       },
       "slug": "apologetics"
     },
@@ -248,7 +251,7 @@
     }
   ],
   "totals": {
-    "questions": 1307,
+    "questions": 1337,
     "topics": 14
   }
 }
