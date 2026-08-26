@@ -1758,6 +1758,259 @@
           "reference": "Second Council of Orange (529)"
         }
       ]
+    },
+    {
+      "id": "heresies-l8-001",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "\"Every believer's sincere interpretation of doctrine is equally valid, and dogma simply evolves to match the needs of each age\" -- Pius X's 1907 encyclical against Modernism condemned this specifically as what?",
+      "choices": [
+        "The reduction of dogma to a changeable expression of inner religious feeling, rather than a fixed deposit of revealed truth handed on and only ever more deeply understood, never altered in substance",
+        "The claim that doctrine can never be more deeply understood over time",
+        "The claim that the Magisterium has no teaching authority whatsoever",
+        "A purely disciplinary matter with no doctrinal content"
+      ],
+      "correctAnswer": "The reduction of dogma to a changeable expression of inner religious feeling, rather than a fixed deposit of revealed truth handed on and only ever more deeply understood, never altered in substance",
+      "explanation": "Pascendi Dominici Gregis named and answered Modernism precisely because it let doctrine be re-described as a report on the believer's evolving religious experience rather than a truth revealed once and handed on -- the same distinction the Church makes today between authentic development of doctrine (deeper understanding of a fixed truth) and doctrinal drift (the truth itself changing).",
+      "hint": "The error isn't that understanding deepens over time -- it's making the truth itself just a report of feeling.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius X, Pascendi Dominici Gregis (1907)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-002",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "\"All religions are basically equal paths to God, so it doesn't really matter which one a person practices\" restates which named error, addressed directly by the Congregation for the Doctrine of the Faith in 2000?",
+      "choices": [
+        "Religious indifferentism",
+        "Donatism",
+        "Iconoclasm",
+        "Monophysitism"
+      ],
+      "correctAnswer": "Religious indifferentism",
+      "explanation": "Dominus Iesus (2000) was written specifically against the growing assumption that religious traditions are more or less interchangeable routes to the same end -- reaffirming that the Church holds the fullness of the means of salvation while still recognizing, as Vatican II did, whatever is true and good in other traditions as coming from Christ.",
+      "hint": "This error says the specific religion someone picks barely matters.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Dominus Iesus (2000)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2108"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-003",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "John Paul II's 1993 encyclical Veritatis Splendor was written most directly against which claim?",
+      "choices": [
+        "That moral truth is not objective but is instead constructed by individual conscience or by cultural consensus, with no acts being intrinsically wrong regardless of intention or circumstance",
+        "That the Ten Commandments no longer apply to Christians under grace",
+        "That conscience should be ignored entirely in moral decision-making",
+        "That the Church has no authority to teach on moral matters at all"
+      ],
+      "correctAnswer": "That moral truth is not objective but is instead constructed by individual conscience or by cultural consensus, with no acts being intrinsically wrong regardless of intention or circumstance",
+      "explanation": "Veritatis Splendor answers a strand of moral theology that had begun treating conscience as the sole and self-sufficient source of moral truth rather than as the faculty that discerns an objective truth existing prior to and independent of it -- and it explicitly reaffirms that some acts are intrinsically evil regardless of intention or circumstance.",
+      "hint": "The dispute is whether moral truth exists independently of what conscience or culture decides.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1750"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-004",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "\"If you have enough faith, God will make you materially wealthy and physically healthy -- suffering only happens to those whose faith is deficient\" is answered directly by which scriptural teaching?",
+      "choices": [
+        "\"No one can serve two masters... You cannot serve God and mammon\" (Matthew 6:24), read alongside Christ's own teaching that his followers must take up their cross, not escape it",
+        "The parable of the wedding feast",
+        "The genealogy of Christ in Matthew's Gospel",
+        "The instruction to render to Caesar what is Caesar's"
+      ],
+      "correctAnswer": "\"No one can serve two masters... You cannot serve God and mammon\" (Matthew 6:24), read alongside Christ's own teaching that his followers must take up their cross, not escape it",
+      "explanation": "The prosperity gospel inverts the New Testament's own witness -- Christ was not materially wealthy, promised his followers persecution rather than ease (John 15:20), and explicitly warned against treating wealth as a sign of divine favor to be pursued as an end. Suffering faithfully carried, not escaped through enough faith, is the New Testament's own pattern.",
+      "hint": "Look for the verse that names wealth itself as a rival master to God, not a reward for enough faith.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:24"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2544"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-005",
+      "topic": "heresies",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or false: the Catechism treats practical atheism -- living as though God does not exist, while not formally denying his existence -- as morally neutral, since no explicit denial of faith has been made.",
+      "correctAnswer": false,
+      "explanation": "The Catechism explicitly names practical atheism (or practical materialism) as a real moral danger distinct from, but as serious as, formal atheism -- a life that functionally excludes God from its concerns and priorities, whatever it says it believes on paper.",
+      "hint": "The Catechism does not let 'I never actually said I don't believe' off the hook.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2124-2126"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-006",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A popular spirituality that blends Christian language with horoscopes, crystals, and channeling \"universal energy,\" while insisting it's all compatible with being Catholic, runs into which Catechism teaching most directly?",
+      "choices": [
+        "Its condemnation of divination and the occult -- horoscopes, astrology, and consulting other hidden powers over one's future or fortune -- as contrary to the honor and trust owed to God alone",
+        "Its teaching on the just war doctrine",
+        "Its teaching on the canon of Scripture",
+        "Its teaching on liturgical vestment colors"
+      ],
+      "correctAnswer": "Its condemnation of divination and the occult -- horoscopes, astrology, and consulting other hidden powers over one's future or fortune -- as contrary to the honor and trust owed to God alone",
+      "explanation": "This kind of syncretism rarely presents itself as a rival religion -- it presents itself as harmless add-ons to an existing faith. The Catechism's section on the first commandment addresses exactly this pattern, naming astrology, palm reading, and recourse to mediums as offenses against the honor and trust owed to God alone, regardless of how the practitioner frames it.",
+      "hint": "This section is under the first commandment, on what's owed to God alone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2116"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-007",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "\"Since God is merciful, we can be certain that literally everyone, including the unrepentant, ends up saved in the end\" is a real and recurring error. How does the Catechism actually respond to it?",
+      "choices": [
+        "It affirms that the Church can and does hope and pray for the salvation of all, while also teaching that Scripture's warnings about a real possibility of hell must be taken seriously and not presumed away -- hope is not the same as a guarantee",
+        "It affirms with certainty that some specific named individuals are in hell",
+        "It denies that hell exists at all",
+        "It teaches that only baptized Catholics can possibly be saved"
+      ],
+      "correctAnswer": "It affirms that the Church can and does hope and pray for the salvation of all, while also teaching that Scripture's warnings about a real possibility of hell must be taken seriously and not presumed away -- hope is not the same as a guarantee",
+      "explanation": "This is a precise, easily-missed distinction: the Church has never taught that anyone in particular is certainly in hell, and she can rightly hope and pray for the salvation of all -- but turning that hope into a flat guarantee (\"apokatastasis,\" universal salvation as settled doctrine) presumes on a mercy Scripture itself warns must not be presumed on.",
+      "hint": "There's a real difference between hoping and praying for something, and treating it as already guaranteed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1058"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-008",
+      "topic": "heresies",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "John Paul II's 1994 apostolic letter Ordinatio Sacerdotalis responded to the claim that the male priesthood is merely a changeable custom by declaring that the Church has no authority whatsoever to confer priestly ordination on ______, and that this judgment is to be held definitively by all the Church's faithful.",
+      "correctAnswer": "women",
+      "explanation": "Ordinatio Sacerdotalis exists precisely because this question kept being framed as open-ended custom rather than settled teaching -- John Paul II closed that framing directly, declaring the reservation of priestly ordination to men a matter to be held definitively, not a discipline awaiting a future change.",
+      "hint": "The document is a direct response to the question of who can be ordained a priest.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Ordinatio Sacerdotalis (1994)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-009",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Pope Francis's Evangelii Gaudium names a temptation it calls \"spiritual worldliness\" -- reducing the Gospel to a purely therapeutic, feel-good message with no real demand for conversion. What does the document say this ultimately seeks?",
+      "choices": [
+        "Human glory and personal well-being rather than the glory of God -- a Christianity emptied of the cross, repentance, and the call to holiness, however religious its language sounds",
+        "The abolition of the sacraments entirely",
+        "A return to a purely ritualistic, works-based religion with no interior conversion at all",
+        "The replacement of Scripture with purely private revelations"
+      ],
+      "correctAnswer": "Human glory and personal well-being rather than the glory of God -- a Christianity emptied of the cross, repentance, and the call to holiness, however religious its language sounds",
+      "explanation": "This is the same error apologetics literature elsewhere calls Christianity reduced to therapy: comforting language kept, the actual demand of the Gospel -- repentance, the cross, real conversion of life -- quietly dropped. Evangelii Gaudium names it directly as seeking human glory and personal well-being rather than God's glory.",
+      "hint": "The document is naming what's left when the comforting parts of the Gospel stay but the demanding parts quietly disappear.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pope Francis, Evangelii Gaudium, nn. 93-97 (2013)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-010",
+      "topic": "heresies",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each present-day error to the magisterial response that answers it.",
+      "pairs": [
+        {
+          "left": "\"Dogma just evolves with each generation's feelings\"",
+          "right": "Pascendi Dominici Gregis, against Modernism"
+        },
+        {
+          "left": "\"All religions are basically equal paths to God\"",
+          "right": "Dominus Iesus, against religious indifferentism"
+        },
+        {
+          "left": "\"Moral truth is whatever conscience or culture decides\"",
+          "right": "Veritatis Splendor, on objective moral truth"
+        },
+        {
+          "left": "\"The male priesthood is just changeable custom\"",
+          "right": "Ordinatio Sacerdotalis"
+        }
+      ],
+      "explanation": "None of these present themselves under their historical labels -- they show up as reasonable-sounding modern assumptions. Recognizing the shape of the error, and knowing that the Magisterium has already named and answered it directly, matters more than memorizing a list of condemned propositions.",
+      "hint": "Each is a modern-sounding claim the Magisterium has already answered by name.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius X, Pascendi Dominici Gregis (1907)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Dominus Iesus (2000)"
+        }
+      ]
     }
   ]
 }

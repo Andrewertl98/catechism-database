@@ -2289,6 +2289,228 @@
           "reference": "CCC 1140"
         }
       ]
+    },
+    {
+      "id": "church-latin-l6-011",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "The Advent hymn 'Veni, veni, Emmanuel' takes its name and its refrain directly from the 'O Antiphons' -- seven antiphons sung at Vespers on the days leading up to Christmas. What does 'Emmanuel' itself mean, per the Gospel's own translation of the name?",
+      "choices": [
+        "'God with us'",
+        "'Prince of Peace'",
+        "'Root of David'",
+        "'Morning Star'"
+      ],
+      "correctAnswer": "'God with us'",
+      "explanation": "Matthew's Gospel quotes Isaiah's prophecy of a child called Emmanuel and immediately glosses the name for the reader: 'which means, God with us.' The hymn's refrain -- 'Gaude, gaude, Emmanuel nascetur pro te, Israel,' 'Rejoice, rejoice, Emmanuel shall be born for thee, O Israel' -- leans on that same title Matthew already unpacks.",
+      "hint": "Matthew's Gospel translates this exact name for its readers right after quoting the prophecy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 1:23",
+          "quote": "‘Behold, the virgin shall conceive and bear a son, and they shall call his name Emmanuel,’ which means, God with us."
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 7:14"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-012",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "The first O Antiphon, 'O Sapientia' ('O Wisdom'), addresses Christ as Wisdom 'reaching from end to end and ordering all things mightily and sweetly.' Which Old Testament book most directly supplies this description of Wisdom's cosmic reach?",
+      "choices": [
+        "The Book of Wisdom (Wisdom 8:1)",
+        "The Book of Judges",
+        "The Book of Ruth",
+        "The Book of Tobit"
+      ],
+      "correctAnswer": "The Book of Wisdom (Wisdom 8:1)",
+      "explanation": "Wisdom 8:1 describes divine Wisdom as reaching 'from end to end mightily, and ordering all things sweetly' -- exactly the phrase the antiphon borrows almost word for word, applying to Christ what the Old Testament already says of Wisdom personified.",
+      "hint": "Look for the book that personifies Wisdom herself, spanning the whole created order.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Wisdom 8:1"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:2-3"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-013",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "'O Adonai' addresses Christ by the Hebrew title for 'Lord,' recalling that he appeared to Moses 'in the flame of the burning bush' and gave him the Law on Sinai. What is the point of calling Christ by this specific Old Testament title?",
+      "choices": [
+        "It identifies Christ with the very LORD who revealed himself to Moses and gave Israel the Law -- not a separate, later figure, but the same divine 'I AM' now coming in the flesh",
+        "It refers only to Christ's human ancestry through the tribe of Levi",
+        "It is simply an honorific title with no connection to the Old Testament",
+        "It refers to Christ's future role as an earthly king of Israel alone"
+      ],
+      "correctAnswer": "It identifies Christ with the very LORD who revealed himself to Moses and gave Israel the Law -- not a separate, later figure, but the same divine 'I AM' now coming in the flesh",
+      "explanation": "This is one of the boldest of the seven antiphons theologically: it applies the divine name revealed at the burning bush directly to the Christ-child about to be born, making an explicit claim about his divine identity within a text otherwise soaked in Old Testament imagery.",
+      "hint": "This antiphon is making a claim about who was actually present at the burning bush and Sinai.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 33:22"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-014",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 2530,
+      "prompt": "'O Radix Jesse' -- 'O Root of Jesse' -- takes its title from Isaiah's prophecy that a shoot shall come forth from the stump of ______, the father of King David, from whose apparently dead line new life would spring.",
+      "correctAnswer": "Jesse",
+      "explanation": "Isaiah pictures David's royal line as a tree cut down to a stump -- yet Isaiah 11:1 promises a shoot will still spring from that stump's roots. Naming Christ 'Root of Jesse' claims him as the fulfillment of that promise: life returning to a line that looked finished.",
+      "hint": "This is King David's father's name -- the promised shoot springs from his 'stump.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:1"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:10"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-015",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "'O Clavis David' -- 'O Key of David' -- calls Christ the one 'who opens and no man shuts, who shuts and no man opens.' This image is drawn from Isaiah's description of a royal steward, and is applied to Christ directly in which New Testament book?",
+      "choices": [
+        "Revelation, where the risen Christ is described holding 'the key of David... who opens and no one shall shut, who shuts and no one opens'",
+        "The Acts of the Apostles, describing Peter's ministry",
+        "The Letter to the Hebrews, describing the Temple veil",
+        "The Gospel of Mark, describing the empty tomb"
+      ],
+      "correctAnswer": "Revelation, where the risen Christ is described holding 'the key of David... who opens and no one shall shut, who shuts and no one opens'",
+      "explanation": "Isaiah 22:22 originally describes Eliakim, a steward given 'the key of the house of David' with authority over who enters the king's court. Revelation 3:7 applies that same image directly to the risen Christ, and the antiphon in turn applies it to the Christ still awaited in Advent -- the one with final authority over the gates of the kingdom.",
+      "hint": "Look for the New Testament's most direct, explicit reuse of the 'key of David' image, addressed to the risen Christ himself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 3:7"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 22:22"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-016",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "'O Oriens' -- 'O Dawn' or 'O Rising Sun' -- calls Christ 'the splendor of eternal light,' come to give light to those who sit in darkness. Which Gospel canticle, prayed daily at Morning Prayer, uses this same 'dawn' image for Christ?",
+      "choices": [
+        "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
+        "The Magnificat",
+        "The Nunc Dimittis",
+        "The Te Deum"
+      ],
+      "correctAnswer": "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
+      "explanation": "Zechariah's canticle, prayed every morning in the Church's Liturgy of the Hours, already closes on exactly this image -- Christ as the dawn breaking on those in darkness -- itself echoing Isaiah's earlier promise that 'the people who walked in darkness have seen a great light.'",
+      "hint": "This canticle is prayed every single day at Morning Prayer, and it ends on an image of light breaking over darkness.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:78-79"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 9:2"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-017",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 2510,
+      "prompt": "'O Rex Gentium' -- 'O King of the Nations' -- calls Christ the one all peoples desire, and 'the cornerstone who makes both one.' Isaiah 2:4's vision of nations beating swords into plowshares under this king's rule points toward which New Testament theme?",
+      "choices": [
+        "Christ as the one who breaks down the dividing wall of hostility, making Jew and Gentile one people rather than two",
+        "The eventual disarmament of every earthly nation-state",
+        "The abolition of all civil government",
+        "The reunification of the northern and southern kingdoms of Israel alone"
+      ],
+      "correctAnswer": "Christ as the one who breaks down the dividing wall of hostility, making Jew and Gentile one people rather than two",
+      "explanation": "Isaiah's 'king of the nations' looks toward every people, not Israel alone, being brought under one peace. Ephesians reads this fulfilled in Christ specifically as the reconciliation of Jew and Gentile into 'one new man' -- the 'cornerstone' language of the antiphon points to exactly this same reconciling role.",
+      "hint": "Paul's letters describe Christ uniting two groups that were previously divided -- not literal disarmament.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Ephesians 2:14-16"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 2:4"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-018",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 2520,
+      "prompt": "Match each O Antiphon's Latin title to the Old Testament image it draws on.",
+      "pairs": [
+        {
+          "left": "O Sapientia (O Wisdom)",
+          "right": "Wisdom reaching from end to end, ordering all things (Wisdom 8:1)"
+        },
+        {
+          "left": "O Radix Jesse (O Root of Jesse)",
+          "right": "A shoot springing from the stump of Jesse (Isaiah 11:1)"
+        },
+        {
+          "left": "O Clavis David (O Key of David)",
+          "right": "The steward's key over the house of David (Isaiah 22:22)"
+        },
+        {
+          "left": "O Oriens (O Dawn)",
+          "right": "Light dawning on a people walking in darkness (Isaiah 9:2)"
+        }
+      ],
+      "explanation": "Each of the seven O Antiphons takes a specific Old Testament image -- Wisdom, a royal line, a steward's key, a rising dawn -- and applies it to the Christ still awaited, so that the last week before Christmas prays through the whole of the Old Testament's hope in miniature.",
+      "hint": "Each Latin title names an Old Testament image the antiphon is applying to Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 9:2"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:1"
+        }
+      ]
     }
   ]
 }

@@ -1739,6 +1739,275 @@
           "reference": "CCC 884"
         }
       ]
+    },
+    {
+      "id": "councils-l8-001",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Trent's decree on justification directly answers 'faith alone, apart from any cooperation of the will, saves.' What did the council actually anathematize?",
+      "choices": [
+        "Anyone who says that justifying faith is nothing but confidence in divine mercy, to the exclusion of fear and of any cooperation in preparing for and preserving grace",
+        "Anyone who says that faith plays any role whatsoever in justification",
+        "Anyone who says that grace is necessary for salvation",
+        "Anyone who says that good works are possible before baptism"
+      ],
+      "correctAnswer": "Anyone who says that justifying faith is nothing but confidence in divine mercy, to the exclusion of fear and of any cooperation in preparing for and preserving grace",
+      "explanation": "Trent's Decree on Justification (Session 6) does not deny that faith is necessary -- it denies that faith reduces to a bare confidence excluding any real, grace-enabled human cooperation. The canon is aimed at a specific claim, not at faith's importance itself.",
+      "hint": "Trent is precise about what it rejects -- not faith itself, but faith reduced to bare confidence with no cooperation at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Decree on Justification, Canon 12 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1989"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-002",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Against the Reformers' shorter Old Testament, Trent's Session 4 (1546) formally settled which question?",
+      "choices": [
+        "The full canon of Scripture, affirming books such as Tobit, Judith, Wisdom, Sirach, Baruch, and 1-2 Maccabees as canonical alongside the rest of the Old and New Testaments",
+        "Whether Scripture alone, apart from Tradition, is a sufficient rule of faith",
+        "The exact wording of the Latin Vulgate translation",
+        "Whether the Gospels were written before or after Paul's letters"
+      ],
+      "correctAnswer": "The full canon of Scripture, affirming books such as Tobit, Judith, Wisdom, Sirach, Baruch, and 1-2 Maccabees as canonical alongside the rest of the Old and New Testaments",
+      "explanation": "Session 4 gave a formal, dogmatic list of the canonical books -- the same list already in liturgical and conciliar use for over a millennium -- precisely because several of the Reformers had begun setting aside books they judged doctrinally inconvenient (2 Maccabees' support for prayer for the dead, for instance).",
+      "hint": "This session produced an actual numbered list of books, not a principle about how to read them.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 4, Decree Concerning the Canonical Scriptures (1546)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-003",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Trent's Session 4 addressed the relationship between Scripture and Tradition. Which best states its actual position, as opposed to the caricature often given of it?",
+      "choices": [
+        "Revealed truth is contained in written Scripture and unwritten apostolic Tradition together, both to be received with equal reverence -- not Tradition added on top as a separate, second source of new content",
+        "Tradition is a second, equal source of revelation that adds doctrines Scripture never mentions",
+        "Scripture is sufficient on its own and Tradition is merely a helpful historical commentary",
+        "The council declined to address Scripture and Tradition at all"
+      ],
+      "correctAnswer": "Revealed truth is contained in written Scripture and unwritten apostolic Tradition together, both to be received with equal reverence -- not Tradition added on top as a separate, second source of new content",
+      "explanation": "A common Protestant caricature of Trent has Rome inventing doctrines out of thin air and calling it 'Tradition.' What the council actually says is closer to what Vatican II's Dei Verbum would later make explicit: Scripture and Tradition flow from the same apostolic wellspring and are received together, not two competing streams.",
+      "hint": "The council is not describing two rival sources of brand-new content -- it is describing one deposit, handed on in two forms.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 4, Decree Concerning the Canonical Scriptures (1546)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-004",
+      "topic": "councils",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or false: Trent's Session 7 canon on the sacraments anathematizes anyone who says there are more or fewer than seven sacraments instituted by Christ.",
+      "correctAnswer": true,
+      "explanation": "Session 7's first canon on the sacraments in general directly answers Reformers who reduced the sacraments to two (baptism and the Eucharist) or three, defining that Christ instituted exactly seven: baptism, confirmation, Eucharist, penance, anointing of the sick, holy orders, and matrimony.",
+      "hint": "This is one of Trent's most direct, numbered responses to the Reformation.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 7, Decree on the Sacraments, Canon 1 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1113"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-005",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Trent's Session 13 (1551) responded most directly to which Eucharistic claim?",
+      "choices": [
+        "That Christ's presence in the Eucharist is merely symbolic or spiritual, not a true, real, and substantial presence under the appearances of bread and wine",
+        "That the Mass should be celebrated only in the vernacular language",
+        "That the Eucharist should be received under both species by the laity in every circumstance",
+        "That the priesthood was abolished at the Reformation"
+      ],
+      "correctAnswer": "That Christ's presence in the Eucharist is merely symbolic or spiritual, not a true, real, and substantial presence under the appearances of bread and wine",
+      "explanation": "Session 13 defines transubstantiation by name -- the whole substance of bread and wine is converted into the whole substance of Christ's body and blood, with only the appearances (species) remaining -- directly against Reformers who held varying degrees of symbolic or spiritual-only presence.",
+      "hint": "This is the session that gives 'transubstantiation' its conciliar definition.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 13, Decree on the Most Holy Eucharist (1551)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-006",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Against the objection that crediting good works with any merit denies grace, what did Trent's Session 6 actually teach?",
+      "choices": [
+        "That the good works of the justified, performed in and through grace, truly merit an increase of grace and eternal life -- as fruit of a life already grafted onto Christ, not as a human achievement independent of grace",
+        "That good works earn salvation entirely apart from grace, as a wage owed for labor",
+        "That good works are irrelevant to salvation once a person has faith",
+        "That only works done before baptism carry any merit"
+      ],
+      "correctAnswer": "That the good works of the justified, performed in and through grace, truly merit an increase of grace and eternal life -- as fruit of a life already grafted onto Christ, not as a human achievement independent of grace",
+      "explanation": "Trent is careful here in a way both sides of later polemics often flatten: merit is real, but it is never a transaction independent of grace -- it is grace bearing fruit through a person already united to Christ, the branch drawing life from the vine.",
+      "hint": "Trent affirms merit, but ties it tightly to grace already at work -- not human achievement standing on its own.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Decree on Justification, ch. 16 and Canon 32 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2010"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-007",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Session 25 (1563), issued at Trent's very close, reaffirmed which two connected teachings the Reformers had rejected together?",
+      "choices": [
+        "Purgatory, and the practice of aiding the souls there through the prayers and suffrages of the faithful, especially the sacrifice of the Mass",
+        "The primacy of the Pope and the doctrine of papal infallibility",
+        "The perpetual virginity of Mary and the Immaculate Conception",
+        "The canon of the New Testament and apostolic succession"
+      ],
+      "correctAnswer": "Purgatory, and the practice of aiding the souls there through the prayers and suffrages of the faithful, especially the sacrifice of the Mass",
+      "explanation": "Purgatory and prayer for the dead stand or fall together -- if there is no intermediate purification after death, praying for the dead makes no sense, which is exactly why Reformers who rejected purgatory (partly on the grounds that 2 Maccabees, which supports the practice, wasn't canonical to them) rejected both at once.",
+      "hint": "One of these teachings only makes practical sense if the other is true.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 25, Decree on Purgatory (1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1032"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-008",
+      "topic": "councils",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "Trent's Session 25 taught that images of Christ, the Virgin, and the saints are to be kept and honored, because the honor shown to them is referred to the ______ they represent, not terminated in the image or relic itself.",
+      "correctAnswer": "prototypes",
+      "explanation": "This is the same principle the Second Council of Nicaea (787) had already established against the iconoclasts: honor paid to an image passes through to the person depicted. Trent restates it against Reformers who read any veneration of images as idolatry, distinguishing sharply between the worship (latria) owed to God alone and the veneration (dulia) given to saints and their images.",
+      "hint": "The word describes the person an image represents -- honor passes through the image to them.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 25, On the Invocation, Veneration, and Relics of Saints, and on Sacred Images (1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-009",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Trent's Session 23 (1563) on Holy Orders responds most directly to which Reformation claim?",
+      "choices": [
+        "That the ministerial priesthood is not a sacrament instituted by Christ but merely a functional office the community assigns, with no distinct sacramental power to consecrate and forgive sins",
+        "That bishops and priests should not be permitted to marry under any circumstance",
+        "That ordination should be reserved to those of noble birth",
+        "That the sacrament of Holy Orders can be repeated as often as needed"
+      ],
+      "correctAnswer": "That the ministerial priesthood is not a sacrament instituted by Christ but merely a functional office the community assigns, with no distinct sacramental power to consecrate and forgive sins",
+      "explanation": "Several Reformers held to a 'priesthood of all believers' that collapsed the ordained ministry into a community-appointed function rather than a sacrament conferring a distinct, indelible character. Trent responds by affirming Holy Orders as truly and properly a sacrament, instituted by Christ, conferring a real share in his priesthood.",
+      "hint": "The dispute here is whether ordination confers something real and permanent, or is just the community assigning a job.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 23, Doctrine on the Sacrament of Order (1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1536"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-010",
+      "topic": "councils",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each Trent session to the specific point it was written to settle.",
+      "pairs": [
+        {
+          "left": "Session 4 (1546)",
+          "right": "The full canon of Scripture, and Scripture read within Tradition"
+        },
+        {
+          "left": "Session 6 (1547)",
+          "right": "Justification: real cooperation with grace, and merit as its fruit"
+        },
+        {
+          "left": "Session 13 (1551)",
+          "right": "Transubstantiation -- Christ's true, substantial Eucharistic presence"
+        },
+        {
+          "left": "Session 25 (1563)",
+          "right": "Purgatory, prayer for the dead, and the veneration of saints and images"
+        }
+      ],
+      "explanation": "Trent did not respond to the Reformation all at once -- across nearly two decades and multiple sessions, it took up one contested point at a time, in each case defining Catholic teaching with more precision than had ever been formally required before.",
+      "hint": "Each session answers one specific, contested claim from the Reformation.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1965"
+        }
+      ]
     }
   ]
 }
