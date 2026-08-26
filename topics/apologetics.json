@@ -2056,6 +2056,709 @@
           "reference": "CCC 1428"
         }
       ]
+    },
+    {
+      "id": "apologetics-l8-001",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "The argument from contingency reasons: some things exist that could have not existed (contingent beings); a contingent being's existence must be explained by something else; this cannot regress forever, so a necessary being must exist. Which specific metaphysical distinction from Metaphysics' 'Natural Theology' unit does the premise 'a contingent being's existence must be explained by something else' actually depend on?",
+      "choices": [
+        "The real distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
+        "The distinction between matter and form",
+        "The distinction between substance and accident",
+        "The distinction between act and habit"
+      ],
+      "correctAnswer": "The real distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
+      "explanation": "This is exactly the cross-topic connection this level exists to make explicit: the contingency argument isn't a free-floating piece of apologetic rhetoric -- its key premise IS the essence/existence distinction, which is why a full defense of the argument requires the metaphysics behind it, not just the argument's surface structure.",
+      "hint": "Ask what it would mean for a thing's very definition to already include the fact that it exists -- contingent things don't have that.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 44"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-002",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each of Aquinas's Five Ways to the metaphysical principle it presupposes.",
+      "pairs": [
+        {
+          "left": "Ex motu (from motion)",
+          "right": "Act and potency -- nothing moves from potency to act except by something already in act"
+        },
+        {
+          "left": "Ex causa efficiente (from efficient cause)",
+          "right": "Causality -- nothing can be the efficient cause of itself"
+        },
+        {
+          "left": "Ex contingentia (from contingency)",
+          "right": "The essence/existence distinction -- contingent beings need an explanation for their existence"
+        },
+        {
+          "left": "Ex gradibus (from degrees of perfection)",
+          "right": "The transcendentals -- degrees of a perfection require a maximum by which lesser degrees are measured"
+        }
+      ],
+      "explanation": "None of the Five Ways is a free-standing rhetorical move -- each one is a specific application of a metaphysical principle this app teaches as its own subject. Knowing the argument's label without knowing which principle it leans on leaves a defender unable to answer the one objection that actually attacks the premise.",
+      "hint": "Each of the Five Ways leans on one specific metaphysical principle, not a generic 'everything needs a cause' intuition.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-003",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Apologists cite unbroken apostolic succession -- an identifiable line of bishops in historical continuity with the apostles -- as a motive of credibility for the Catholic Church's claims. Why does this function as evidence at all, rather than simply asserting the Church's authority?",
+      "choices": [
+        "Because Lumen Gentium's ecclesiology grounds WHY continuity of office matters theologically (bishops in union with the successor of Peter as a real, Christ-willed structure, not incidental church politics), the historical, checkable fact of that continuity becomes genuine evidence for the claim, not a bare assertion",
+        "Because apostolic succession is purely a matter of historical record with no theological significance at all",
+        "Because any organization with a long unbroken leadership succession automatically has divine authority",
+        "Because apostolic succession is a doctrine invented after the fact to justify existing Church structures"
+      ],
+      "correctAnswer": "Because Lumen Gentium's ecclesiology grounds WHY continuity of office matters theologically (bishops in union with the successor of Peter as a real, Christ-willed structure, not incidental church politics), the historical, checkable fact of that continuity becomes genuine evidence for the claim, not a bare assertion",
+      "explanation": "This is the connection to Dogmas' ecclesiology this level requires: apostolic succession only works as a motive of credibility because there is a theological reason (Christ's own institution of the apostolic office, per Lumen Gentium) that continuity of office should matter in the first place -- otherwise it would just be an interesting historical fact about an organization, with no bearing on truth claims.",
+      "hint": "Ask why a long unbroken leadership line would count as evidence for anything at all -- what has to be true first for it to matter.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 20-22 (1964)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-004",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Two real, named approaches exist within Catholic apologetics: the classical/demonstrative method (Garrigou-Lagrange's Thomistic approach, building strict metaphysical proofs) and the cumulative/evidential method (associated with Newman, weighing converging probabilities toward moral certainty). What do BOTH approaches hold in common, per Vatican I's Dei Filius?",
+      "choices": [
+        "That God's existence can be known with certainty by the natural light of human reason from created things -- both methods affirm this shared conviction, differing only on the best path to demonstrate it, not on whether reason can reach it at all",
+        "Nothing -- the two methods are simply incompatible with each other",
+        "That God's existence cannot actually be known by reason, only by faith, in both approaches",
+        "That the classical method is the only one the Church has ever permitted"
+      ],
+      "correctAnswer": "That God's existence can be known with certainty by the natural light of human reason from created things -- both methods affirm this shared conviction, differing only on the best path to demonstrate it, not on whether reason can reach it at all",
+      "explanation": "This is exactly the kind of question this level's diversity-ledger entry requires: the Church has never mandated one single apologetic method (Dei Filius states the conclusion -- reason can know God with certainty -- without mandating one specific argumentative path to it), so classical and cumulative-case apologists are real, legitimate, differing schools united on the same underlying conviction, not rival heresies.",
+      "hint": "Ask what both schools agree reason CAN do, even while disagreeing on the best way to show it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 and Canon 1 (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-005",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or false: because the Church permits both classical and cumulative-case apologetic methods, a Catholic is free to argue for God's existence in absolutely any way at all, with no method ever being a misapplication of the Church's actual teaching.",
+      "correctAnswer": false,
+      "explanation": "Permitting real diversity between two sound, named traditions is not the same as endorsing every possible argument. A 'god of the gaps' argument -- inserting God as a placeholder wherever science currently lacks an explanation -- is a real misapplication of act/potency reasoning (it treats God as one more link in the same causal chain, competing with natural causes, rather than the transcendent cause of the whole chain's existing at all) and is not one of the Church's two legitimate methods.",
+      "hint": "The Church licensing two real schools is not the same as licensing every possible argument anyone might construct.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 32"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-006",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Why exactly does a 'god of the gaps' argument (inserting God wherever current science hasn't yet explained something) misuse act/potency reasoning, rather than being just a weaker version of a legitimate argument?",
+      "choices": [
+        "Because act/potency reasoning argues from the fact that ANYTHING changes or exists contingently at all -- not from a specific temporary gap in scientific explanation -- so it does not shrink as science advances the way a 'gaps' argument does, and treating God as competing with natural causes for the same explanatory slot misunderstands what the argument is actually claiming",
+        "Because act/potency reasoning is itself a discredited pre-scientific theory with no remaining validity",
+        "Because 'god of the gaps' arguments are actually identical to the classical demonstrative method Garrigou-Lagrange used",
+        "Because science has already fully explained everything, leaving no room for any argument from contingency"
+      ],
+      "correctAnswer": "Because act/potency reasoning argues from the fact that ANYTHING changes or exists contingently at all -- not from a specific temporary gap in scientific explanation -- so it does not shrink as science advances the way a 'gaps' argument does, and treating God as competing with natural causes for the same explanatory slot misunderstands what the argument is actually claiming",
+      "explanation": "This is the precise, often-missed distinction: the classical arguments from motion and contingency do not need an unexplained gap to work -- they work on the fact that change and contingent existence occur at all, fully explained scientifically or not. A 'god of the gaps' move shrinks as science advances; the metaphysical argument does not, because it was never competing with scientific explanation in the first place.",
+      "hint": "Ask whether the classical argument needs science to be INCOMPLETE somewhere, or whether it works regardless of how much science explains.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-007",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2193,
+      "prompt": "Aquinas's argument ex gradibus reasons from degrees of perfection found in things (more or less good, true, noble) to a real maximum by which lesser degrees are measured -- an application of what this app's Metaphysics topic calls the ______, the properties (being, unity, truth, goodness) convertible with being itself.",
+      "correctAnswer": "transcendentals",
+      "explanation": "This ties the fourth of the Five Ways directly to Metaphysics' own vocabulary: degrees of perfection only make sense as measurements against a real maximum if goodness (and being itself) admit of degrees in the first place -- exactly what the transcendentals unit teaches.",
+      "hint": "This is the same word used in Metaphysics' level 4 for being, unity, truth, and goodness as convertible properties.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-008",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "A critic says: 'apostolic succession is just a story the Church tells about itself -- there's no way to actually check it historically.' What is the accurate correction, without overclaiming?",
+      "choices": [
+        "Lists of bishops in historical succession are a matter of documented historical record, checkable the same way any other line of historical office-holders is -- the apologetic weight isn't in that bare historical fact alone, but in combining it with the theological claim (grounded in Lumen Gentium) about why that continuity of office matters at all",
+        "Apostolic succession cannot be checked historically in any way and must simply be accepted on faith alone",
+        "The historical record of apostolic succession is entirely fabricated with no documentary basis whatsoever",
+        "Apostolic succession is a purely spiritual reality with no historical dimension at all"
+      ],
+      "correctAnswer": "Lists of bishops in historical succession are a matter of documented historical record, checkable the same way any other line of historical office-holders is -- the apologetic weight isn't in that bare historical fact alone, but in combining it with the theological claim (grounded in Lumen Gentium) about why that continuity of office matters at all",
+      "explanation": "The correction has to avoid two opposite overclaims: pretending the historical record alone proves a theological claim, and conceding (wrongly) that the historical record can't be checked at all. The honest apologetic move keeps the historical fact and the theological interpretation of that fact as two distinct, both-real components.",
+      "hint": "Separate what's checkable as plain history from what requires the theological claim layered on top of it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-009",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "How would a classical (Garrigou-Lagrange-style) apologist and a cumulative-case (Newman-style) apologist differ in HOW they would each open a defense of God's existence with a skeptical friend, while still agreeing on the underlying Vatican I conviction?",
+      "choices": [
+        "The classical apologist would likely start with a single, tightly reasoned metaphysical demonstration (e.g., the argument from contingency laid out step by step); the cumulative-case apologist would likely start by assembling several converging, mutually reinforcing lines of evidence (design, religious experience, historical fruitfulness) toward a cumulative moral certainty -- two different roads to the same destination Dei Filius affirms is reachable",
+        "The classical apologist would refuse to use any argument at all, relying only on personal testimony",
+        "The cumulative-case apologist would deny that God's existence can be known with certainty at all",
+        "There is no actual difference in method between the two approaches"
+      ],
+      "correctAnswer": "The classical apologist would likely start with a single, tightly reasoned metaphysical demonstration (e.g., the argument from contingency laid out step by step); the cumulative-case apologist would likely start by assembling several converging, mutually reinforcing lines of evidence (design, religious experience, historical fruitfulness) toward a cumulative moral certainty -- two different roads to the same destination Dei Filius affirms is reachable",
+      "explanation": "This is a live, practical illustration of the licensed methodological diversity: one road is a single strict demonstration; the other accumulates multiple lines of evidence toward moral certainty. Both are legitimate, both are aimed at the same Vatican I-affirmed conclusion, and knowing both means being able to meet different people where their actual doubts sit.",
+      "hint": "One method builds one tight argument; the other builds several converging lines of evidence toward the same conclusion.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l8-010",
+      "topic": "apologetics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "This level has connected Apologetics to Metaphysics (the Five Ways' underlying principles) and to Dogmas (apostolic succession's ecclesiological grounding). What does this pattern of cross-topic dependence show about how apologetics actually works, as opposed to a common misconception?",
+      "choices": [
+        "Apologetics is not a free-standing set of rhetorical tricks or debate techniques -- its arguments only hold up because they rest on real metaphysical and doctrinal content taught elsewhere; a defender who knows only the argument's surface structure, without the content underneath it, cannot actually defend it against a probing question",
+        "Apologetics has no real connection to metaphysics or doctrine and is purely a communication skill",
+        "Metaphysics and Dogmas are actually the same subject as Apologetics with no meaningful distinction",
+        "Cross-topic connections in this app are arbitrary and could just as easily point anywhere else"
+      ],
+      "correctAnswer": "Apologetics is not a free-standing set of rhetorical tricks or debate techniques -- its arguments only hold up because they rest on real metaphysical and doctrinal content taught elsewhere; a defender who knows only the argument's surface structure, without the content underneath it, cannot actually defend it against a probing question",
+      "explanation": "This is the level's own point, made explicit: an apologetic argument that can't survive its own follow-up question isn't actually doing apologetic work. The Five Ways need the metaphysics; apostolic succession needs the ecclesiology. Knowing the label of an argument without the content it depends on is exactly the gap a sharp interlocutor will find.",
+      "hint": "Ask what happens when someone who knows only the argument's name, not its underlying content, gets a real follow-up question.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-001",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "John Henry Newman's 'illative sense' (An Essay in Aid of a Grammar of Assent, ch. 9) describes how the mind reaches real, reasonable certainty on questions too rich for strict syllogistic proof alone. How does this differ from the classical demonstrative method (level 8)?",
+      "choices": [
+        "Rather than one tightly linked chain of premises to a single conclusion, the illative sense weighs many converging, mutually reinforcing probabilities -- none individually a strict proof -- until their cumulative weight yields genuine, reasonable certitude, the way a judge or historian reasons from many partial clues rather than one deductive chain",
+        "The illative sense is simply another name for the exact same syllogistic method used in the classical arguments",
+        "The illative sense denies that certainty about God is possible at all",
+        "The illative sense relies purely on emotional feeling with no role for reason whatsoever"
+      ],
+      "correctAnswer": "Rather than one tightly linked chain of premises to a single conclusion, the illative sense weighs many converging, mutually reinforcing probabilities -- none individually a strict proof -- until their cumulative weight yields genuine, reasonable certitude, the way a judge or historian reasons from many partial clues rather than one deductive chain",
+      "explanation": "Newman is explicit that this is still real reasoning, not a retreat into feeling -- it is simply the kind of reasoning ordinary life already uses constantly (a judge weighing circumstantial evidence, a historian weighing sources), applied to religious assent. It stands alongside, not against, the classical demonstrative method licensed in level 8.",
+      "hint": "Think of how a detective or a historian reasons from many partial clues, none alone conclusive, to a confident conclusion.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-002",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A cumulative case for the Catholic faith might combine: a specific saint's documented heroic virtue, the historical fruitfulness and growth of the Global South Church, and a classical metaphysical argument. Which motives of credibility are being combined in such a case?",
+      "choices": [
+        "The holiness of the saints and the Church's own fruitfulness and stability across history, alongside reason's independent case for God's existence -- several distinct, mutually reinforcing lines of evidence, each real but none alone sufficient as a stand-alone demonstrative proof",
+        "Only one motive of credibility is ever really at work no matter how many examples are cited",
+        "None of these actually count as motives of credibility in Catholic apologetics",
+        "These examples are unrelated to each other and cannot be combined into any single case"
+      ],
+      "correctAnswer": "The holiness of the saints and the Church's own fruitfulness and stability across history, alongside reason's independent case for God's existence -- several distinct, mutually reinforcing lines of evidence, each real but none alone sufficient as a stand-alone demonstrative proof",
+      "explanation": "This is Newman's method in practice: no single motive here is being asked to carry the whole case alone. Holiness, historical fruitfulness, and metaphysical argument are distinct, real lines of evidence that reinforce each other cumulatively -- exactly the kind of case a classical single-chain demonstration doesn't attempt to build.",
+      "hint": "Ask whether any ONE of these three pieces of evidence is being presented as, by itself, a complete proof -- or whether they're working together.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-003",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or false: the heroic sanctity of a canonized saint functions, within a cumulative case, as a stand-alone demonstrative proof of the Catholic faith's truth, sufficient on its own without any other evidence.",
+      "correctAnswer": false,
+      "explanation": "This is the precise distinction this level requires: a saint's sanctity is genuine evidence, contributing real weight within a cumulative case, but the Church has never treated it as a stand-alone demonstrative proof the way the classical Five Ways are presented. Overclaiming it as sufficient by itself would be exactly the kind of overstatement this level's citation-risk notes exist to prevent.",
+      "hint": "Ask whether this evidence is being presented as ONE piece among several, or as a complete proof by itself.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-004",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Metaphysics' 'Schools of Catholic Philosophy' unit distinguishes Thomism (being said analogically of God and creatures) from Scotism (being said univocally). How might these two schools frame an argument from design or finality differently, while still reaching the same conclusion?",
+      "choices": [
+        "A Thomist would frame design language carefully, noting that God's 'purposiveness' is affirmed only analogically (God is not a craftsman planning the way a creature does, but truly the source of all order in a higher, properly divine way); a Scotist, holding being univocal, could speak of divine purposiveness in terms closer to how the term applies to creatures -- two different technical framings of the same underlying design argument",
+        "The two schools would reach entirely opposite conclusions about whether design in nature points to God at all",
+        "Only Thomism permits any argument from design whatsoever",
+        "There is no actual difference between how the two schools would frame this argument"
+      ],
+      "correctAnswer": "A Thomist would frame design language carefully, noting that God's 'purposiveness' is affirmed only analogically (God is not a craftsman planning the way a creature does, but truly the source of all order in a higher, properly divine way); a Scotist, holding being univocal, could speak of divine purposiveness in terms closer to how the term applies to creatures -- two different technical framings of the same underlying design argument",
+      "explanation": "This connects directly to Metaphysics L9's own content: the analogical-versus-univocal dispute isn't confined to abstract metaphysics -- it actually shapes how each school would technically word a design argument, even though both schools fully agree that design in nature does point toward God.",
+      "hint": "This is the same analogical-versus-univocal dispute from Metaphysics, now applied to how each school would technically word a design argument.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 44 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-005",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2377,
+      "prompt": "Fides et Ratio explicitly affirms that the Church does not bind herself to one philosophical system, licensing real methodological pluralism -- which is why the classical and cumulative-case apologetic approaches can be tagged _______-within-orthodoxy rather than one being simply correct and the other simply wrong.",
+      "correctAnswer": "contested",
+      "explanation": "This is the exact tag this level's own curriculum plan uses: 'contested-within-orthodoxy' names a real, Church-permitted difference of approach, distinct from a settled doctrine on one hand and an actual heresy on the other -- the same category level 8 used for the classical-versus-evidential methodological divide itself.",
+      "hint": "This is the same tag used earlier in this topic for the classical-versus-evidential methodological divide.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 21, 76 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-006",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Why does the historical growth and vitality of the Global South Church function as a genuine motive of credibility within a cumulative case, rather than being merely a sociological curiosity?",
+      "choices": [
+        "Because it is a real, checkable instance of the Church's continued fruitfulness and vitality across radically different cultures and centuries -- one of the traditional motives of credibility (fruitfulness, stability, expansion) applied to recent history rather than only to the early Church, contributing genuine weight to a cumulative case without being asked to prove anything by itself",
+        "Because numerical growth alone, in any organization, automatically proves that organization's teachings are true",
+        "Because this has nothing to do with any traditional motive of credibility and is a modern invention",
+        "Because the Global South Church's growth is the sole and sufficient proof of Catholicism's truth"
+      ],
+      "correctAnswer": "Because it is a real, checkable instance of the Church's continued fruitfulness and vitality across radically different cultures and centuries -- one of the traditional motives of credibility (fruitfulness, stability, expansion) applied to recent history rather than only to the early Church, contributing genuine weight to a cumulative case without being asked to prove anything by itself",
+      "explanation": "This keeps the argument honest in both directions: it is a real instance of a traditional, named motive of credibility (fruitfulness and stability), not a novel invention -- but it contributes to a cumulative case rather than standing as a bare numbers-based proof, since numerical growth alone, in any organization, wouldn't demonstrate truth.",
+      "hint": "This is the same category of evidence (fruitfulness, stability) the early Church's growth under persecution already illustrated at level 7 -- just a more recent instance.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-007",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each element of a cumulative case to the kind of evidence it supplies.",
+      "pairs": [
+        {
+          "left": "A saint's documented heroic virtue",
+          "right": "The motive of credibility of holiness"
+        },
+        {
+          "left": "The Global South Church's historical growth",
+          "right": "The motives of credibility of fruitfulness and stability"
+        },
+        {
+          "left": "The classical argument from contingency",
+          "right": "A metaphysical demonstration, independent of historical evidence"
+        },
+        {
+          "left": "Newman's illative sense",
+          "right": "The method of weighing all these converging lines together toward moral certainty"
+        }
+      ],
+      "explanation": "A cumulative case is not one argument repeated three times -- it is several genuinely different kinds of evidence (a life of holiness, a historical pattern, a metaphysical demonstration), held together by a specific reasoning method (the illative sense) suited to weighing exactly this kind of converging, non-syllogistic evidence.",
+      "hint": "Each piece of evidence in a cumulative case is a genuinely different KIND of evidence, not the same argument restated.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-008",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A skeptic objects: 'a cumulative case is just a way of dressing up weak individual arguments to look stronger together -- if none of them proves anything alone, stacking them proves nothing either.' What is the accurate response to this objection?",
+      "choices": [
+        "This mistakes how cumulative, probabilistic reasoning actually works: many independent, converging lines of evidence pointing the same direction can rationally warrant a confidence no single line could justify alone -- the same reasoning pattern courts, historians, and everyday judgment already rely on, not a rhetorical trick unique to apologetics",
+        "The objection is entirely correct, and cumulative-case reasoning has no rational force at all",
+        "Cumulative-case reasoning is valid only when used for religious arguments and invalid everywhere else",
+        "Each individual piece of evidence in a cumulative case is actually a complete, independent proof, contradicting the premise of the objection"
+      ],
+      "correctAnswer": "This mistakes how cumulative, probabilistic reasoning actually works: many independent, converging lines of evidence pointing the same direction can rationally warrant a confidence no single line could justify alone -- the same reasoning pattern courts, historians, and everyday judgment already rely on, not a rhetorical trick unique to apologetics",
+      "explanation": "This is the correct apologetic answer to a genuinely serious objection: converging independent evidence really can warrant more confidence than any single piece alone, which is precisely why courts weigh circumstantial evidence and historians weigh multiple sources. Cumulative-case apologetics is applying an already-trusted reasoning pattern, not inventing a special exemption for religious claims.",
+      "hint": "Ask whether this kind of reasoning -- many partial clues converging -- is trusted anywhere else in ordinary life, like a courtroom.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-009",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Both the Thomist demonstrative approach and Newman's cumulative-case approach ultimately serve the same end, per Dei Filius. What is that shared end, even though the two methods look very different in practice?",
+      "choices": [
+        "Showing that belief in God is reasonable and can be held with genuine certainty by the exercise of human reason -- the same conviction underlying both level 8's classical method and level 9's cumulative-case method, arrived at by two legitimately different roads",
+        "Proving mathematically that no reasonable person could ever doubt God's existence under any circumstances",
+        "Replacing the need for faith entirely with pure philosophical demonstration",
+        "Demonstrating that only one of the two methods is actually legitimate, with the other merely tolerated"
+      ],
+      "correctAnswer": "Showing that belief in God is reasonable and can be held with genuine certainty by the exercise of human reason -- the same conviction underlying both level 8's classical method and level 9's cumulative-case method, arrived at by two legitimately different roads",
+      "explanation": "This closes the loop between levels 8 and 9: both methods exist to serve the same Dei Filius conviction that reason can reach real certainty about God, differing only in the shape of the road taken there -- one tightly linked chain, or many converging lines -- not in the destination or in whether the destination is reachable at all.",
+      "hint": "Ask what both methods are ultimately trying to show, regardless of which road each one takes to get there.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l9-010",
+      "topic": "apologetics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Why does this level deliberately draw on Church History, Saints, and Metaphysics content the app teaches separately, rather than re-explaining that material inline?",
+      "choices": [
+        "Because a genuine cumulative case IS the integration of real content from multiple domains -- treating it as one more isolated 'apologetics fact' rather than actually reaching back into what the user already learned elsewhere would defeat the entire point of what a cumulative case is supposed to demonstrate",
+        "Because there was no space left in the Apologetics topic to include the material directly",
+        "Because Church History, Saints, and Metaphysics are actually the same subject as Apologetics",
+        "Because cross-topic references are simply a stylistic preference with no substantive reason behind them"
+      ],
+      "correctAnswer": "Because a genuine cumulative case IS the integration of real content from multiple domains -- treating it as one more isolated 'apologetics fact' rather than actually reaching back into what the user already learned elsewhere would defeat the entire point of what a cumulative case is supposed to demonstrate",
+      "explanation": "This is the level's own methodological point made explicit: a cumulative case is not a list of apologetics trivia -- it is the actual practice of drawing multiple real domains of knowledge together toward one conclusion. Re-teaching everything inline here, instead of drawing on what the user already knows from Saints, Church History, and Metaphysics, would just be another isolated argument, not a real demonstration of cumulative reasoning.",
+      "hint": "Ask what a 'cumulative case' would even mean if it never actually drew on knowledge from anywhere else.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-001",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "1 Peter 3:15 charges believers to 'always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.' A coworker asks, with genuine curiosity rather than hostility, 'why do you actually believe any of this?' Which response best honors both the content and the tone this verse actually requires?",
+      "choices": [
+        "\"Honestly, a few things together -- I've never found a better explanation for why anything exists at all than a first cause, and I've seen real, lasting goodness in people living this out that I can't just wave away. I'd genuinely be glad to talk about it more if you're interested.\"",
+        "\"You wouldn't understand unless you had faith already, so there's no point explaining.\"",
+        "\"It doesn't matter what I believe or why -- all religions are basically the same anyway.\"",
+        "\"If you don't already see it, you're not thinking clearly, and I don't have time to walk you through it.\""
+      ],
+      "correctAnswer": "\"Honestly, a few things together -- I've never found a better explanation for why anything exists at all than a first cause, and I've seen real, lasting goodness in people living this out that I can't just wave away. I'd genuinely be glad to talk about it more if you're interested.\"",
+      "explanation": "This is exactly what this whole topic has been building toward: a real, honest sentence combining more than one motive of credibility (a metaphysical argument and observed fruitfulness/holiness), offered with warmth and an open door -- not a debate-ending mic drop, and not a dismissive refusal to engage either.",
+      "hint": "Look for the answer that actually gives a real reason, warmly, and leaves the door open rather than shutting the conversation down.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-002",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Aquinas raises five objections against God's existence in ST I q.2 a.3 before answering them (the famous 'if evil exists, God cannot' objection, among others, is answered later in the article by the principle that God permits evil only to draw good from it). Given the pattern of the other four objections (each claiming some observed fact makes God's existence unnecessary or impossible), which of the following best completes a FIFTH, unstated objection in that same pattern: 'Further, it seems God does not exist, because everything we observe can be explained by ______, without needing to suppose anything further.'",
+      "choices": [
+        "nature and human reason acting according to fewer principles (an economy-of-explanation objection -- if natural causes fully account for the world, positing God as an additional cause is superfluous)",
+        "the direct observation of God's absence through a telescope",
+        "mathematical proof that infinite regress is logically impossible",
+        "the fact that different religions disagree with one another"
+      ],
+      "correctAnswer": "nature and human reason acting according to fewer principles (an economy-of-explanation objection -- if natural causes fully account for the world, positing God as an additional cause is superfluous)",
+      "explanation": "This is in fact very close to Aquinas's actual second objection: that everything observable can be accounted for by other principles (nature and human reason/will) supposing God did not exist, making God an unneeded extra premise. Aquinas's own reply is that these very principles (nature, reason) themselves require a first, unmoved source to operate at all -- exactly the contingency and motion arguments this topic has spent two levels building.",
+      "hint": "This objection claims that natural explanation alone already covers everything, making God an unnecessary extra step.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-003",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A friend says, 'I just don't feel anything when I pray -- how am I supposed to know God is even there?' Weighing the classical, cumulative-case, and experiential approaches this topic has covered, what is the Church's actual integrated response, rather than a ranking of one approach as the only correct one?",
+      "choices": [
+        "All three remain legitimate and available -- the classical and cumulative-case arguments do not depend on a felt religious experience at all, so their force stands even when consolation is absent, while the lack of felt experience is itself a real and ancient feature of prayer (the 'dark night') rather than proof of God's absence; which approach to lead with in this particular conversation is a pastoral judgment call, not a settled doctrinal ranking",
+        "Feeling nothing in prayer definitively proves that God does not exist",
+        "Only the experiential approach has any validity, and the classical and cumulative-case arguments are irrelevant to this concern",
+        "The Church teaches that anyone who doesn't feel God's presence in prayer has committed a sin"
+      ],
+      "correctAnswer": "All three remain legitimate and available -- the classical and cumulative-case arguments do not depend on a felt religious experience at all, so their force stands even when consolation is absent, while the lack of felt experience is itself a real and ancient feature of prayer (the 'dark night') rather than proof of God's absence; which approach to lead with in this particular conversation is a pastoral judgment call, not a settled doctrinal ranking",
+      "explanation": "This is exactly the kind of question this level exists to model: the object-level answer (which argument to use) is a prudential, pastoral judgment, not itself a doctrinal question -- but the reassurance that absence of felt consolation doesn't undermine reason's independent case for God is a real, substantive point worth making before anything else.",
+      "hint": "Notice this has two layers -- a real doctrinal point (the arguments don't depend on feelings) and a genuinely open pastoral judgment call (which to lead with).",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-004",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A skeptic grants: 'fine, maybe your arguments show SOME kind of first cause or designer exists -- but that's generic theism, not Christianity specifically. Nothing gets you from there to the Trinity, the Incarnation, or the Church.' What is the accurate next step in the Church's own apologetic structure, per Dei Filius's natural/supernatural distinction?",
+      "choices": [
+        "The objection is correct as far as it goes, and the Church agrees: natural reason alone, unaided, can establish that God exists and some of his attributes, but the specifically Christian content (Trinity, Incarnation) is known only through revelation, received by faith -- apologetics' further task is then to give reasonable grounds (motives of credibility) for trusting that this specific revelation is authentic, not to deduce Trinitarian doctrine from pure philosophy",
+        "The objection is entirely mistaken, since the Five Ways actually prove the Trinity directly",
+        "Christianity adds nothing beyond generic theism, so the objection has no real force",
+        "The Church denies that reason can establish even generic theism, making the whole objection moot"
+      ],
+      "correctAnswer": "The objection is correct as far as it goes, and the Church agrees: natural reason alone, unaided, can establish that God exists and some of his attributes, but the specifically Christian content (Trinity, Incarnation) is known only through revelation, received by faith -- apologetics' further task is then to give reasonable grounds (motives of credibility) for trusting that this specific revelation is authentic, not to deduce Trinitarian doctrine from pure philosophy",
+      "explanation": "This is the honest, precise answer rather than an overclaim: Dei Filius itself distinguishes natural knowledge of God (available to unaided reason) from supernatural revelation (received only by faith, though not against reason). The objection correctly identifies that the Five Ways don't get you to the Trinity -- the further apologetic step is arguing for revelation's credibility (motives of credibility: miracles, prophecy, the Church's own historical case), not pretending philosophy alone proves revealed doctrine.",
+      "hint": "Don't overclaim -- ask what the classical arguments were actually built to prove, and what a further, different kind of argument is needed for.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2-3 (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36-38"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-005",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "1 Peter 3:15 pairs 'always be ready to give an explanation' with two qualities that govern HOW that explanation is given: gentleness and ______ -- ruling out both a cold, purely intellectual recitation and a combative, argument-to-win posture.",
+      "correctAnswer": "reverence",
+      "explanation": "The verse doesn't just license apologetics -- it constrains its tone. 'Gentleness and reverence' means the goal is never simply winning an argument; it is honoring both the truth being defended and the person being spoken to, which is the same posture this whole capstone level has been modeling in its sample answers.",
+      "hint": "This is the second of the two qualities 1 Peter 3:15 pairs with 'gentleness.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-006",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or false: per Dei Filius, a truth genuinely revealed by God and a truth genuinely discoverable by unaided human reason could actually contradict each other, since faith and reason operate in totally separate, unrelated domains.",
+      "correctAnswer": false,
+      "explanation": "Dei Filius and Fides et Ratio both insist that faith and reason cannot genuinely contradict each other, since both ultimately come from the same God who is Truth itself -- an apparent conflict signals an error somewhere in the reasoning or the interpretation of revelation, not a real clash between two independent and opposed sources of truth. This is the same 'two wings' unity Metaphysics L9 already covered.",
+      "hint": "This is the same 'two wings, one flight toward truth' principle already covered in Metaphysics -- ask whether real conflict between them is actually possible.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 4 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-007",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Given partial premises of the argument from religious experience -- 'across cultures and centuries, an enormous number of people report a genuine encounter with a transcendent reality; the best explanation of this widespread, cross-cultural pattern is...' -- what missing premise does the argument need to reach 'a real transcendent reality exists,' and why would the argument fail without it?",
+      "choices": [
+        "...that the reports are not all better explained by some purely natural, universal alternative (mass psychological projection, cultural conditioning alone) -- without ruling out that alternative explanation, the pattern of experience alone doesn't establish that anything real beyond the human mind is actually being encountered",
+        "...that every single person who has ever lived has personally reported such an experience",
+        "...that religious experience is scientifically measurable with laboratory instruments",
+        "...that only Catholic mystics' experiences count as evidence, excluding all others"
+      ],
+      "correctAnswer": "...that the reports are not all better explained by some purely natural, universal alternative (mass psychological projection, cultural conditioning alone) -- without ruling out that alternative explanation, the pattern of experience alone doesn't establish that anything real beyond the human mind is actually being encountered",
+      "explanation": "This is the honest gap a cumulative-case apologist has to acknowledge and address, not skip past: a widespread pattern of experience is suggestive, but by itself doesn't rule out a purely natural explanation. The argument needs that alternative explanation shown inadequate (e.g., the sheer cross-cultural diversity and consistency of certain features) before the experiential evidence adds real cumulative weight.",
+      "hint": "Ask what the argument would need to rule out before 'lots of people report this' can support 'therefore something real is being encountered.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 32-33"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-008",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each apologetic approach surveyed across this topic to what it is best suited to answer.",
+      "pairs": [
+        {
+          "left": "Classical/demonstrative (the Five Ways)",
+          "right": "A single, precise metaphysical challenge to God's existence"
+        },
+        {
+          "left": "Cumulative-case (Newman's illative sense)",
+          "right": "A skeptic weighing many kinds of evidence together toward overall confidence"
+        },
+        {
+          "left": "Motives of credibility for revelation specifically",
+          "right": "\"Fine, maybe God exists -- why trust Christianity in particular?\""
+        },
+        {
+          "left": "A real, warm, personal answer with gentleness and reverence",
+          "right": "A friend or coworker asking sincerely, in conversation, why you believe"
+        }
+      ],
+      "explanation": "This whole topic's real skill isn't memorizing one master argument -- it's recognizing which tool actually fits the question being asked. A friend's sincere question and a philosopher's technical objection call for genuinely different responses, even though both are answered by the same underlying Catholic apologetic tradition.",
+      "hint": "Match each situation to the tool actually built for that kind of question -- not every question calls for the same tool.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-009",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "This entire topic began at 'Faith and Reason' (level 1) and ends here, at 'The Reason for Your Hope.' What has changed about what 'giving a reason' actually means, from where the topic started to where it ends?",
+      "choices": [
+        "It has moved from defining and recognizing arguments in the abstract to actually being able to construct, combine, and deploy them -- with the right method for the right person -- in a real conversation, with real warmth, closing the arc from information to something genuinely usable this week",
+        "Nothing has actually changed; the topic simply repeats the same content with more difficult vocabulary",
+        "The topic has moved from apologetics to an entirely unrelated subject",
+        "The topic has concluded that reasoned arguments for the faith are ultimately worthless"
+      ],
+      "correctAnswer": "It has moved from defining and recognizing arguments in the abstract to actually being able to construct, combine, and deploy them -- with the right method for the right person -- in a real conversation, with real warmth, closing the arc from information to something genuinely usable this week",
+      "explanation": "This is the deliberate arc of the whole topic: from vocabulary and recognition, through construction and cross-topic integration, to this level's actual point -- a real, gentle, reverent sentence a person could say this week. Apologetics that stays theoretical hasn't finished the job this topic set out to do.",
+      "hint": "Ask what this level's own sample answers actually looked like, compared to level 1's -- not just harder vocabulary, but a different KIND of task.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-010",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A friend, after hearing a real, gentle explanation of why you believe, says 'that actually makes more sense than I expected -- but I'm still not there.' What does this whole topic suggest is the right next move, consistent with 1 Peter 3:15's own tone?",
+      "choices": [
+        "Accept that genuine assent takes time and isn't forced by a single conversation, keep the door open for further honest conversation, and let the relationship -- not a single decisive argument -- carry the ongoing work, exactly as the cumulative-case model and the gentleness-and-reverence charge both suggest",
+        "Treat the conversation as a failure and stop engaging with this person on the subject entirely",
+        "Escalate to increasingly aggressive arguments until the friend is forced to agree",
+        "Conclude that since one conversation didn't convince them, none of the arguments given were actually valid"
+      ],
+      "correctAnswer": "Accept that genuine assent takes time and isn't forced by a single conversation, keep the door open for further honest conversation, and let the relationship -- not a single decisive argument -- carry the ongoing work, exactly as the cumulative-case model and the gentleness-and-reverence charge both suggest",
+      "explanation": "This is the topic's real closing point: apologetics well done is not a single winning move that forces assent -- it's patient, honest, cumulative work offered with real charity, trusting that reason genuinely can lead somewhere true without needing to force the outcome in one sitting.",
+      "hint": "Ask what tone and pace this whole topic -- especially its cumulative-case reasoning and its gentleness-and-reverence charge -- has modeled throughout.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
     }
   ]
 }
