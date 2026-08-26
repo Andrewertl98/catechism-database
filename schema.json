@@ -129,6 +129,16 @@
         "tags": {
           "type": "array",
           "items": { "type": "string" }
+        },
+        "audit_status": {
+          "type": "string",
+          "enum": ["audited", "community", "pending"],
+          "description": "Set to 'audited' only once a credentialed theological reviewer has actually approved this specific question -- see sign_audit_manifest.swift, which reads exactly this field to build manifest.json's signed auditedQuestionIDs list. Omit entirely for unreviewed content; the app and this field both default to 'pending' when absent. Setting this by hand does NOT itself unlock anything in the app -- AuditManifestVerifier only trusts IDs that are also present in manifest.json's cryptographically signed auditedQuestionIDs list, precisely so a stray edit here (or a compromised GitHub account) can't forge an audited claim."
+        },
+        "contributors": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "GitHub handles of contributors, shown on the in-app credits screen. Optional; omitted entirely for most content so far."
         }
       },
       "allOf": [
