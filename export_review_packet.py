@@ -26,14 +26,14 @@ import argparse, json, glob, os, sys
 # are the ones a reviewer's time should go to first.
 HARD_GATED = {
     "dogmas-and-doctrine", "councils", "heresies",
-    "apologetics", "answering-objections",
+    "apologetics", "answering-objections", "metaphysics",
 }
 
 TYPE_LABEL = {
     "multiple_choice": "Multiple choice",
     "true_false": "True / false",
     "matching_pairs": "Matching pairs",
-    "fill_in_blank": "Fill in the blank",
+    "fill_blank": "Fill in the blank",
 }
 
 
