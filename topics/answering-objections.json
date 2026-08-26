@@ -1886,6 +1886,709 @@
           "reference": "Roman Missal, Feast of the Holy Innocents (28 December)"
         }
       ]
+    },
+    {
+      "id": "answering-objections-l8-001",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "The logical problem of evil argues: (1) an all-good, all-powerful God would eliminate all evil; (2) evil exists; therefore (3) no such God exists. Plantinga's free-will defense denies premise (1). Which premise does the EVIDENTIAL problem of evil (arguing the sheer amount and severity of evil makes God's existence improbable, not logically impossible) leave untouched, meaning the free-will defense alone does not fully answer it?",
+      "choices": [
+        "The evidential version doesn't claim evil is strictly logically incompatible with God's existence at all -- it grants premise (1) can be denied, and instead argues about probability given the observed SCALE and severity of evil, a separate challenge the free-will defense's logical point doesn't by itself resolve",
+        "The evidential problem denies that evil exists at all, unlike the logical problem",
+        "The evidential problem and the logical problem are actually identical in every respect",
+        "The free-will defense fully answers both versions in exactly the same way with no remaining work to do"
+      ],
+      "correctAnswer": "The evidential version doesn't claim evil is strictly logically incompatible with God's existence at all -- it grants premise (1) can be denied, and instead argues about probability given the observed SCALE and severity of evil, a separate challenge the free-will defense's logical point doesn't by itself resolve",
+      "explanation": "This is the precise anatomy this level requires: the free-will defense succeeds against the LOGICAL problem (it shows no strict contradiction between God and evil's existence), but the evidential problem grants that much and asks a different, probabilistic question about the sheer amount of evil observed -- which needs further resources (soul-making, greater goods, eschatological hope) the free-will defense alone doesn't supply.",
+      "hint": "Ask whether the two versions of the argument are even making the same KIND of claim -- one is about logical possibility, the other about probability.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 309-314"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-002",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Lumen Gentium 16 teaches that those who, through no fault of their own, do not know the Gospel but sincerely seek God and follow their conscience, can attain salvation. Catholic theologians have proposed a real range of positions (from a stricter to a broader reading) on exactly how this happens and how it relates to the Church's necessity for salvation. What is settled here, and what remains open?",
+      "choices": [
+        "LG 16's actual teaching -- that such salvation is possible by God's grace, through ways known to him -- is settled doctrine; the further theological question of exactly how this relates to the Church's own instrumental role in that salvation is a genuinely contested-within-orthodoxy range among faithful theologians, not itself dogmatically settled",
+        "Everything about this question, including every theologian's precise explanation of the mechanism, is settled dogma with no room for differing theological accounts",
+        "LG 16 itself is merely one theologian's opinion with no magisterial weight",
+        "The Church teaches that no one outside the Church can be saved under any circumstances, contradicting LG 16"
+      ],
+      "correctAnswer": "LG 16's actual teaching -- that such salvation is possible by God's grace, through ways known to him -- is settled doctrine; the further theological question of exactly how this relates to the Church's own instrumental role in that salvation is a genuinely contested-within-orthodoxy range among faithful theologians, not itself dogmatically settled",
+      "explanation": "This is the exact distinction this level requires: the conciliar paragraph itself (LG 16) is settled Magisterial teaching, while the further theological project of explaining precisely how it coheres with the Church's necessity for salvation spans a real range of positions among orthodox theologians -- two different things that must not be blended into one answer.",
+      "hint": "Separate what the council itself actually says from the further theological explanation of exactly how it works.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 16 (1964)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 847"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-003",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Published research on why people leave the Catholic Church groups reasons into broad categories. Match each documented category to the response it actually calls for.",
+      "pairs": [
+        {
+          "left": "Moral disagreement (e.g., with a specific Church teaching)",
+          "right": "A patient, reasoned explanation of the teaching's actual grounds -- not a demand to simply comply"
+        },
+        {
+          "left": "Hurt by a person in the Church (scandal, abuse, a bad pastoral experience)",
+          "right": "Acknowledgment of real harm and pastoral accompaniment first, not an argument or apologetic at all"
+        },
+        {
+          "left": "Intellectual doubt (a specific unanswered question)",
+          "right": "A real, honest answer to the specific question, not a generic reassurance"
+        },
+        {
+          "left": "Simply drifted away (no dramatic break, gradual disengagement)",
+          "right": "An invitation back into practice and community, since there may be no single objection to actually answer"
+        }
+      ],
+      "explanation": "This is the whole point of naming these categories precisely rather than treating every departure the same: offering an apologetic argument to someone who was hurt by a person, or offering pastoral comfort alone to someone with a real unanswered intellectual question, both miss what the person in front of you actually needs.",
+      "hint": "Each category needs a genuinely different KIND of response -- not every departure is actually an intellectual objection needing an argument.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2472"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-004",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "A bioethics objection states: 'the Church's opposition to certain reproductive technologies is arbitrary religious rule-following with no real reasoning behind it.' What does this objection actually miss, once connected to the natural-law premises taught elsewhere in this app?",
+      "choices": [
+        "The Church's teaching here is grounded in a reasoned account of the human person and the proper meaning of the marital and procreative act, not an arbitrary rule -- whatever one concludes about the argument's soundness, it is a genuine philosophical and theological argument from premises about human nature, answerable on those terms rather than dismissible as bare rule-following",
+        "The objection is entirely correct, and there is no reasoning behind the Church's teaching here at all",
+        "The Church has no teaching on reproductive technology whatsoever",
+        "This is purely a matter of Church discipline with no doctrinal content, changeable at any time"
+      ],
+      "correctAnswer": "The Church's teaching here is grounded in a reasoned account of the human person and the proper meaning of the marital and procreative act, not an arbitrary rule -- whatever one concludes about the argument's soundness, it is a genuine philosophical and theological argument from premises about human nature, answerable on those terms rather than dismissible as bare rule-following",
+      "explanation": "The precise correction this level requires isn't to settle the underlying bioethics debate itself, but to correct the objection's actual claim -- that there's no reasoning at all behind the teaching. There is a real argument here, built on premises about human nature and the person, and it deserves engagement on those terms rather than dismissal as arbitrary.",
+      "hint": "The objection claims there's NO reasoning behind the teaching at all -- ask whether that specific claim is actually true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2366"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-005",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "An objection asks: 'if an AI could pass every behavioral test for consciousness, wouldn't Catholic teaching have to grant it a soul, just like a human?' Against the Catholic anthropological premise that a human soul is the substantial form of a living, biologically human body, why does this objection's inference not follow?",
+      "choices": [
+        "Because on this account, ensoulment is tied to being a particular kind of living organism (a human being), not to passing an external behavioral test -- an AI system, however sophisticated its outputs, is not a living organism of the human species, so the premises that ground human ensoulment do not automatically transfer to it",
+        "Because the Church has already officially declared that specific AI systems do have souls",
+        "Because behavioral tests are actually a reliable and sufficient way to detect the presence of a human soul",
+        "Because the question of AI and souls has no connection to any existing Catholic teaching on the soul"
+      ],
+      "correctAnswer": "Because on this account, ensoulment is tied to being a particular kind of living organism (a human being), not to passing an external behavioral test -- an AI system, however sophisticated its outputs, is not a living organism of the human species, so the premises that ground human ensoulment do not automatically transfer to it",
+      "explanation": "This is a live, contemporary objection that still yields to a precise, existing premise: on the classical account (already taught in this app's Metaphysics content), a soul is the substantial form of a specific kind of living body. A behavioral test measures outputs, not whether the entity in question is the right kind of thing to begin with -- so the inference from 'passes the test' to 'therefore has a soul like a human's' doesn't actually follow from these premises.",
+      "hint": "Ask what the argument actually claims ensoulment depends on -- passing a test, or being a certain kind of living thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-006",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "An objection states: 'the Catholic Church supported slavery for centuries.' What does the actual documented record, without flattening its real complexity in either direction, show?",
+      "choices": [
+        "The historical record is genuinely mixed and requires real precision: individual Catholics, including clergy, were involved in slavery and the slave trade across centuries -- a real prudential and moral failure -- while the Magisterium also issued clear doctrinal condemnations, most notably Gregory XVI's 1839 In Supremo Apostolatus condemning the slave trade specifically; both facts are true and neither should be flattened away to defend or to indict the Church wholesale",
+        "The Church never had any involvement whatsoever with slavery at any point in her history",
+        "The Church's teaching has always uniformly and unambiguously condemned all forms of slavery from the apostolic era onward with total consistency",
+        "In Supremo Apostolatus actually endorsed slavery rather than condemning it"
+      ],
+      "correctAnswer": "The historical record is genuinely mixed and requires real precision: individual Catholics, including clergy, were involved in slavery and the slave trade across centuries -- a real prudential and moral failure -- while the Magisterium also issued clear doctrinal condemnations, most notably Gregory XVI's 1839 In Supremo Apostolatus condemning the slave trade specifically; both facts are true and neither should be flattened away to defend or to indict the Church wholesale",
+      "explanation": "This is exactly the kind of objection where overcorrecting in either direction fails: pretending the Church has a spotless record ignores real documented complicity, while treating the whole institution as uniformly pro-slavery ignores real, dated, named magisterial condemnation. Precision, not defensiveness, is the actual apologetic task here.",
+      "hint": "Resist the pull to flatten this into either 'the Church is spotless' or 'the Church was uniformly complicit' -- the real record has both.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Gregory XVI, In Supremo Apostolatus (1839)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-007",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or false: because Lumen Gentium 16 leaves room for salvation outside explicit Church membership, this means the Church's own necessity for salvation (extra ecclesiam nulla salus, rightly understood) has been quietly abandoned as a teaching.",
+      "correctAnswer": false,
+      "explanation": "This is precisely the false inference this level guards against: LG 16's teaching about invincible ignorance and CCC 846-848's careful restatement of the Church's necessity for salvation are both held together, not one replacing the other. The Church's necessity is affirmed even while acknowledging that culpability for not belonging to her visibly can, in specific cases, be absent.",
+      "hint": "The Church holds both of these together -- ask whether affirming one really requires abandoning the other.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 846-848"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 16 (1964)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-008",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2193,
+      "prompt": "Plantinga's free-will defense answers the logical problem of evil by arguing that a world containing creatures with genuine ______ -- who can therefore also choose wrongly -- may be of greater overall value than a world with no such creatures at all, even though it permits real moral evil.",
+      "correctAnswer": "freedom",
+      "explanation": "The defense's whole force rests on this premise: genuine freedom (the capacity to really choose, including choosing wrongly) is itself a real good, valuable enough that a world containing it, moral evil and all, isn't automatically worse than a world of morally neutral automatons incapable of either love or sin.",
+      "hint": "This is the capacity that makes real love -- and real moral evil -- possible at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-009",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Why does this level insist on distinguishing 'settled' (LG 16 itself, the reality of the Church's necessity), 'contested-within-orthodoxy' (the precise theological mechanism reconciling the two), and simply answering objections with vocabulary, rather than just giving one flattened talking point per objection?",
+      "choices": [
+        "Because collapsing these different categories into one flattened answer would either overclaim settled status for a genuinely open theological question, or understate real Church teaching as if it were merely one opinion among others -- both are real errors this level exists to prevent",
+        "Because the distinction has no practical importance and exists only to make the material harder",
+        "Because the Church actually has no settled teaching on any of these questions at all",
+        "Because every one of these questions is equally settled with no genuine theological openness anywhere"
+      ],
+      "correctAnswer": "Because collapsing these different categories into one flattened answer would either overclaim settled status for a genuinely open theological question, or understate real Church teaching as if it were merely one opinion among others -- both are real errors this level exists to prevent",
+      "explanation": "This is the level's own methodological point: precision about WHICH KIND of claim is being made -- settled dogma, live theological debate, or historical-prudential judgment -- is itself part of giving an honest answer, not an academic nicety layered on top of the real content.",
+      "hint": "Ask what goes wrong if a settled teaching gets treated as merely one opinion, or an open debate gets treated as settled dogma.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 88-90"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l8-010",
+      "topic": "answering-objections",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Someone hears the evidential problem of evil and the salvation-outside-the-Church question addressed in this level and concludes: 'so basically everything in Catholic teaching is up for grabs and nothing is really settled.' What is the error in this conclusion?",
+      "choices": [
+        "It mistakes the presence of SOME genuinely open questions (a theological mechanism, a probabilistic weighing of evil's scale) for the absence of ANY settled teaching at all -- this level's whole method depends on most of its content being firmly settled (LG 16's actual words, the reality of moral evil's origin in free will), with only specific, named, narrower questions left open",
+        "The conclusion is entirely correct -- nothing in Catholic teaching is actually settled",
+        "This level has never addressed any genuinely open theological questions at all",
+        "The distinction between settled and open questions is purely arbitrary with no real basis"
+      ],
+      "correctAnswer": "It mistakes the presence of SOME genuinely open questions (a theological mechanism, a probabilistic weighing of evil's scale) for the absence of ANY settled teaching at all -- this level's whole method depends on most of its content being firmly settled (LG 16's actual words, the reality of moral evil's origin in free will), with only specific, named, narrower questions left open",
+      "explanation": "This is the overcorrection in the OPPOSITE direction from overclaiming settledness -- concluding that any acknowledged openness anywhere means nothing is ever settled. The honest picture, which this whole level has modeled, is a mix: firmly settled teaching, a few named live debates, and pastoral-prudential judgment calls, each correctly labeled rather than collapsed into either extreme.",
+      "hint": "Ask whether acknowledging a FEW open questions really implies that EVERYTHING is open.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 88-90"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-001",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A skeptic asks: 'if salvation is available to sincere non-Catholics through no fault of their own (LG 16), why does the Church claim any one Church is actually necessary at all?' Drawing on Dogmas' ecclesiology (the Church as sacrament and body) together with Apologetics' motives of credibility, what is the fuller answer?",
+      "choices": [
+        "The Church's necessity is instrumental and willed by Christ (per Dogmas' ecclesiology -- the Church as the ordinary means Christ established for grace to reach the world), while God's mercy is not thereby limited only to those who visibly belong to her; the motives of credibility (apostolic succession, historical fruitfulness, the Church's own claims about her founding) are then what give reasoned grounds for believing THIS Church in particular carries that unique, willed role, rather than treating all religious paths as interchangeable",
+        "The Church's necessity claim is simply inconsistent with LG 16 and should be abandoned",
+        "Only explicit, visible Church membership can ever result in salvation, contradicting LG 16 entirely",
+        "Apologetics has no bearing on this question at all, since it concerns only ecclesiology"
+      ],
+      "correctAnswer": "The Church's necessity is instrumental and willed by Christ (per Dogmas' ecclesiology -- the Church as the ordinary means Christ established for grace to reach the world), while God's mercy is not thereby limited only to those who visibly belong to her; the motives of credibility (apostolic succession, historical fruitfulness, the Church's own claims about her founding) are then what give reasoned grounds for believing THIS Church in particular carries that unique, willed role, rather than treating all religious paths as interchangeable",
+      "explanation": "This is the genuine cross-topic synthesis this level requires (prerequisite: Dogmas L6, Apologetics L8-9): the Church's necessity and God's wider mercy are not actually in tension once necessity is understood as instrumental rather than as a hard limit on where grace can reach; apologetics then supplies the reasoned case for why this particular Church, not religious indifferentism, is the object of that claim.",
+      "hint": "This connects the Church's INSTRUMENTAL necessity (Dogmas) to the REASONED CASE for this particular Church (Apologetics) -- two different pieces of the same answer.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 14, 16 (1964)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-002",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "John Hick's Irenaean 'soul-making' theodicy -- a real, named position from outside the Catholic tradition, engaged fairly rather than dismissed as heresy -- holds that a world with real struggle and difficulty is necessary for souls to develop moral and spiritual maturity, in contrast to the Augustinian privation theodicy. What is the key structural difference between the two?",
+      "choices": [
+        "Augustinian theodicy explains evil as a privation (a lack of due good) in a creation originally good, with moral evil rooted in misused free will; Hick's soul-making theodicy instead treats the world's hardship as a positive, necessary environment FOR growth, making struggle itself instrumentally valuable rather than a privation to be explained away",
+        "The two theodicies are actually identical positions with different names",
+        "Hick's theodicy denies that evil exists at all, unlike Augustine's",
+        "Augustinian theodicy is a Protestant invention with no roots in Catholic tradition"
+      ],
+      "correctAnswer": "Augustinian theodicy explains evil as a privation (a lack of due good) in a creation originally good, with moral evil rooted in misused free will; Hick's soul-making theodicy instead treats the world's hardship as a positive, necessary environment FOR growth, making struggle itself instrumentally valuable rather than a privation to be explained away",
+      "explanation": "This is engaging a real, named, non-Catholic theological tradition fairly and precisely, per the level's own instruction -- Hick's account is a serious, structurally different answer, not a strawman, even though the Catholic tradition has generally favored the Augustinian privation account (already taught in Heresies and Metaphysics) as more consistent with a good creation and the reality of the Fall.",
+      "hint": "Ask whether each theodicy treats hardship as something to be explained AWAY, or as something with its own positive purpose.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 385"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-003",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A bioethics objection concerns human dignity at the edges of life (e.g., a person with profound cognitive disability, or someone in a persistent unresponsive state). Using the hylomorphic body-soul unity taught in Metaphysics, what grounds the claim that such a person retains full human dignity?",
+      "choices": [
+        "On hylomorphism, the soul is the substantial form of the whole living human body, present in its entirety wherever the body lives -- dignity attaches to being a living member of the human species with a rational soul as its form, not to the CURRENT EXERCISE of cognitive functions, so diminished or absent function does not mean a diminished or absent soul",
+        "Human dignity is entirely a function of currently demonstrable cognitive ability, which hylomorphism confirms",
+        "Hylomorphism has no bearing on questions of human dignity at all",
+        "Only persons with fully functioning cognitive abilities possess a substantial form at all"
+      ],
+      "correctAnswer": "On hylomorphism, the soul is the substantial form of the whole living human body, present in its entirety wherever the body lives -- dignity attaches to being a living member of the human species with a rational soul as its form, not to the CURRENT EXERCISE of cognitive functions, so diminished or absent function does not mean a diminished or absent soul",
+      "explanation": "This is the precise cross-topic dependency this level requires (prerequisite: Metaphysics L6-7): hylomorphism distinguishes having a rational soul (a matter of what kind of being one is) from currently exercising rational operations (a matter of function, which illness or injury can impair) -- the whole weight of the bioethics argument rests on that distinction actually being sound metaphysics, not merely an assertion.",
+      "hint": "This is the same distinction between HAVING a capacity by nature and currently EXERCISING it -- already covered in Metaphysics.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2276"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-004",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or false: the Church's teaching on the Church's necessity for salvation and her acknowledgment of colonial-era prudential failures both belong to the same category of settled dogma, with no distinction between what the Magisterium has doctrinally defined and what is a historical-moral judgment about past conduct.",
+      "correctAnswer": false,
+      "explanation": "These are genuinely different categories, exactly as this level's own method requires distinguishing: the Church's doctrinal condemnation of the slave trade (In Supremo Apostolatus) is settled Magisterial teaching, while an assessment of how thoroughly that teaching was actually lived out by colonial-era Catholics on the ground is a historical-judgment-not-doctrinal question -- both real, but not the same kind of claim.",
+      "hint": "Ask whether 'what the Church teaches is right' and 'how well people actually lived that teaching out historically' are the same kind of question.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Gregory XVI, In Supremo Apostolatus (1839)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-005",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Hans Urs von Balthasar's 'dare we hope that all may be saved?' is a real, debated theological question among faithful Catholic theologians. How does this differ from the Church's actual, settled teaching on the existence of hell?",
+      "choices": [
+        "The existence of hell as a real possibility, and the reality that some may in fact be lost, remains settled Catholic teaching; von Balthasar's question is narrower and different -- whether a Christian may reasonably HOPE (not assert as certain) that, in the end, all in fact freely respond to grace, a hope the Church has never dogmatically forbidden but also never guaranteed",
+        "Von Balthasar's position asserts as settled dogma that hell is empty and no one is actually damned",
+        "The Church has officially adopted von Balthasar's hope as defined dogma, replacing the traditional teaching on hell",
+        "There is no difference at all between hoping all might be saved and asserting that hell does not exist"
+      ],
+      "correctAnswer": "The existence of hell as a real possibility, and the reality that some may in fact be lost, remains settled Catholic teaching; von Balthasar's question is narrower and different -- whether a Christian may reasonably HOPE (not assert as certain) that, in the end, all in fact freely respond to grace, a hope the Church has never dogmatically forbidden but also never guaranteed",
+      "explanation": "This is the precise distinction this level requires, and the same category of care already shown regarding limbo and the unbaptized in Answering Objections' earlier levels: hell's real possibility is settled; hoping (not asserting) universal salvation is a genuinely debated theological question the Church has neither dogmatized nor condemned as heresy.",
+      "hint": "The dispute is about whether one may HOPE for an outcome, not about whether hell is real -- those are two different claims.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1058"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-006",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Someone describes a real deconstruction pattern: 'I was taught that any romantic thought outside marriage was basically as bad as the act itself, and it left me constantly anxious and unable to see myself as anything but dirty.' Drawing on Dogmas' 'Conscience and the Moral Act' unit (object, intention, circumstances; the distinction between mortal and venial sin), what precise correction addresses this without importing that unit's proportionalism warning incorrectly?",
+      "choices": [
+        "This describes a real pastoral distortion, not the Church's actual teaching: not every failure to perfectly master one's thoughts is a mortal sin equal in gravity to a fully deliberate act -- full knowledge and deliberate consent are both required for mortal sin, and ordinary, unwanted, resisted temptation is not itself sin at all; correcting this distortion does not require weakening the objective wrongness of any act, only correctly applying the Church's own careful distinctions about culpability",
+        "The correction requires concluding that no thought or intention is ever sinful under any circumstances, which would misapply the proportionalism rejection to something it doesn't address",
+        "The correction requires agreeing that the original harsh teaching was entirely correct and needs no adjustment",
+        "This has no connection to the object/intention/circumstances framework at all"
+      ],
+      "correctAnswer": "This describes a real pastoral distortion, not the Church's actual teaching: not every failure to perfectly master one's thoughts is a mortal sin equal in gravity to a fully deliberate act -- full knowledge and deliberate consent are both required for mortal sin, and ordinary, unwanted, resisted temptation is not itself sin at all; correcting this distortion does not require weakening the objective wrongness of any act, only correctly applying the Church's own careful distinctions about culpability",
+      "explanation": "This is the careful move the curriculum plan specifically warns is needed: correcting a real pastoral overreach (treating every unwanted thought as gravely sinful) using the Church's OWN existing distinctions about full knowledge and deliberate consent -- without smuggling in proportionalism (which was rejected in Dogmas L9) to argue that the underlying moral teaching itself was too strict.",
+      "hint": "Fix the pastoral overreach using the Church's OWN distinctions about culpability -- don't use this as a backdoor to reopen the proportionalism question Dogmas L9 already settled.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1857-1860"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-007",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2377,
+      "prompt": "Gregory XVI's 1839 In Supremo Apostolatus specifically and directly condemned the ______ trade, giving the Church's colonial-era failures a clear doctrinal counterpoint: individual Catholics' complicity was a real, documented moral failure against an already-existing Magisterial condemnation, not evidence of an approving official teaching.",
+      "correctAnswer": "slave",
+      "explanation": "Precision here matters for the historical-judgment-versus-doctrine distinction this level draws: the Magisterium's own teaching (this 1839 condemnation, building on earlier statements) stood against the practice even while many individual Catholics remained complicit -- a real gap between official teaching and lived practice, not a gap in the teaching itself.",
+      "hint": "This is the trade Gregory XVI's 1839 document specifically condemns.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Gregory XVI, In Supremo Apostolatus (1839)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-008",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each contested or sensitive question to its correct tag.",
+      "pairs": [
+        {
+          "left": "\"Dare we hope all are saved?\" (von Balthasar)",
+          "right": "Contested-within-orthodoxy -- a real, debated theological hope, not settled either way"
+        },
+        {
+          "left": "The reality that hell is a real possibility",
+          "right": "Settled Catholic doctrine"
+        },
+        {
+          "left": "How thoroughly colonial-era Catholics actually lived out the Church's own anti-slavery teaching",
+          "right": "Historical-judgment-not-doctrinal"
+        },
+        {
+          "left": "The Church's doctrinal condemnation of the slave trade itself (In Supremo Apostolatus)",
+          "right": "Settled Catholic doctrine"
+        }
+      ],
+      "explanation": "Every genuinely difficult question in this level needs exactly this kind of sorting -- settled dogma, live theological debate, or a judgment about historical conduct -- since collapsing any two of these categories together produces either an overclaim or an understatement of what the Church actually teaches.",
+      "hint": "Ask, for each item: is this a claim about what happened historically, a settled doctrine, or a live theological debate?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-009",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Why does this level engage John Hick's Irenaean theodicy and von Balthasar's hope for universal salvation fairly, by name, rather than only presenting positions already fully settled by the Magisterium?",
+      "choices": [
+        "Because real intellectual honesty in apologetics requires engaging serious, real positions -- Catholic and non-Catholic -- as they actually are, clearly labeled for their actual status (a legitimate internal theological hope, or a fairly-engaged outside tradition), rather than only ever presenting a flattened, uncontested version of Catholic teaching that a real interlocutor would never actually encounter",
+        "Because the Church has secretly adopted both of these positions as settled dogma",
+        "Because Hick's and von Balthasar's positions are actually indistinguishable from official Catholic teaching",
+        "Because presenting contested or outside positions serves no purpose in apologetics"
+      ],
+      "correctAnswer": "Because real intellectual honesty in apologetics requires engaging serious, real positions -- Catholic and non-Catholic -- as they actually are, clearly labeled for their actual status (a legitimate internal theological hope, or a fairly-engaged outside tradition), rather than only ever presenting a flattened, uncontested version of Catholic teaching that a real interlocutor would never actually encounter",
+      "explanation": "This is the reason Answering Objections exists as its own topic, distinct from a simple catechism recitation: real conversations involve real, serious positions, and answering only strawmen or only fully-settled questions would leave a user unprepared for the actual, harder conversations this topic is named for.",
+      "hint": "Ask what would happen if this topic only ever presented positions the Church had already fully settled -- would that prepare anyone for a real, hard conversation?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2494"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l9-010",
+      "topic": "answering-objections",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "This level has repeatedly required drawing on Dogmas, Metaphysics, Church History, and Apologetics content taught elsewhere in the app, rather than re-explaining it inline. What does this pattern show about what makes an objection genuinely hard to answer well?",
+      "choices": [
+        "The hardest real objections rarely stay inside one neat topical box -- a salvation-exclusivity question needs ecclesiology AND apologetics; a bioethics question needs metaphysics; a historical question needs real historical record -- so answering them well requires actually integrating knowledge across domains, not reciting one memorized talking point",
+        "Hard objections are hard purely because they use unfamiliar vocabulary, with no deeper cross-domain content actually required",
+        "Every objection in this topic can be fully answered using only Answering Objections' own content, with no need for any other topic",
+        "There is no real pattern here; the cross-references are arbitrary"
+      ],
+      "correctAnswer": "The hardest real objections rarely stay inside one neat topical box -- a salvation-exclusivity question needs ecclesiology AND apologetics; a bioethics question needs metaphysics; a historical question needs real historical record -- so answering them well requires actually integrating knowledge across domains, not reciting one memorized talking point",
+      "explanation": "This is this level's own name and point made explicit: contested ground is contested precisely because it sits at the intersection of several domains at once. A one-line talking point memorized in isolation collapses the first time a real interlocutor pushes on the part it didn't actually address.",
+      "hint": "Ask why a memorized one-line answer to a hard objection tends to fall apart the moment someone pushes back with a follow-up question.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2494"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-001",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Published research on religious disaffiliation identifies a common aggregate pattern: 'I stopped believing gradually, not because of one dramatic event, but because practicing felt increasingly disconnected from the rest of my life, and no one ever seemed to notice I'd stopped.' Given this pattern (not any one named individual's story), what does the actual response require, that a purely doctrinal argument would miss?",
+      "choices": [
+        "Since no single intellectual objection is actually being raised here, the honest first response is not a doctrinal argument at all but a real question and renewed relationship -- asking what disconnected practice from life, and re-extending genuine community and attention, since the described pattern is relational and practical, not primarily a dispute over a specific claim",
+        "The correct response is a rigorous philosophical proof of God's existence, since any deconversion is ultimately an intellectual failure",
+        "Nothing can be done in this case, since gradual drift can never be addressed",
+        "The correct response is to argue that the person never really believed in the first place"
+      ],
+      "correctAnswer": "Since no single intellectual objection is actually being raised here, the honest first response is not a doctrinal argument at all but a real question and renewed relationship -- asking what disconnected practice from life, and re-extending genuine community and attention, since the described pattern is relational and practical, not primarily a dispute over a specific claim",
+      "explanation": "This is the whole point of naming this pattern precisely: 'drifted away, unnoticed' calls for attention and relationship, not a rebuttal to an objection that was never actually made. Reaching for an apologetic argument here would answer a question nobody asked, while missing the real, sayable next step -- genuine interest and re-invitation.",
+      "hint": "Ask whether this pattern actually contains a specific claim to rebut, or something else entirely that needs a different kind of response.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2226"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-002",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A grieving friend, having just lost a parent, asks 'why would God let this happen?' -- not as an abstract philosophy question but in real pain. Weighing the classical theodicy content this app teaches and the pastoral demands of the moment, what is the single best opening sentence?",
+      "choices": [
+        "\"I don't have a tidy answer that would fix this right now, and I'm not going to pretend I do -- I'm just really sorry, and I'm here with you.\"",
+        "\"Well, evil exists because of the misuse of free will, and this is a great example of the evidential problem of evil in action.\"",
+        "\"Everything happens for a reason, so try not to be too sad about it.\"",
+        "\"This is a great opportunity for you to grow spiritually from the suffering.\""
+      ],
+      "correctAnswer": "\"I don't have a tidy answer that would fix this right now, and I'm not going to pretend I do -- I'm just really sorry, and I'm here with you.\"",
+      "explanation": "This is a genuinely open pastoral-prudential judgment, not a doctrinal ranking -- but the whole app's theodicy content still matters, precisely because it means the person offering comfort isn't privately panicked by the question and can stay present rather than reaching for a rushed theological argument the moment isn't asking for. The right opening move here is presence, not proof.",
+      "hint": "Ask what a grieving person actually needs in this exact moment -- an argument, or a person who stays present.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-003",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "John Paul II's Salvifici Doloris teaches that human suffering, united to Christ's own suffering on the Cross, can take on a real redemptive dimension rather than being sheer waste. Applied carefully -- without minimizing real grief -- to 'why would a good God let my mother suffer,' what does this actually offer, and what does it NOT claim?",
+      "choices": [
+        "It offers a real, if mysterious, hope that suffering united to Christ is not meaningless and can bear a real spiritual fruit -- it does NOT claim the suffering itself was good, was deserved, or should not be grieved; the two truths (real grief, and real hope of redemptive meaning) are held together, not traded one for the other",
+        "It claims that suffering is not really evil at all and grief is therefore inappropriate",
+        "It claims that the sufferer must have specifically deserved the suffering as just punishment",
+        "It offers no comfort of any kind and simply restates the reality of pain"
+      ],
+      "correctAnswer": "It offers a real, if mysterious, hope that suffering united to Christ is not meaningless and can bear a real spiritual fruit -- it does NOT claim the suffering itself was good, was deserved, or should not be grieved; the two truths (real grief, and real hope of redemptive meaning) are held together, not traded one for the other",
+      "explanation": "This is the precise, careful use of a real, rare, precisely-cited source this level allows -- deployed to hold two truths together rather than resolve the tension by denying either one. Grief remains fully appropriate; hope of redemptive meaning is also real. Neither cancels the other.",
+      "hint": "Ask whether this teaching is meant to replace grief with an explanation, or to sit alongside real grief without erasing it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Salvifici Doloris, n. 19 (1984)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-004",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A coworker asks: 'if a machine could pass every test we have for a mind -- carry on a conversation, express apparent preferences, even seem to reflect on itself -- what would actually make a human soul different?' Give a response that resolves the underlying metaphysics AND is something a non-specialist could actually say.",
+      "choices": [
+        "\"Passing a behavior test tells you the machine's outputs LOOK like a mind's -- it doesn't tell you whether there's something it's actually like to BE that machine, whether it has genuine understanding rather than pattern-matching. A soul isn't about acting mind-like from the outside; it's about really being a subject on the inside -- and that's not something any test on outputs alone can settle.\"",
+        "\"Machines can never be programmed to talk at all, so this scenario could never actually happen.\"",
+        "\"If it passes every test, then it definitely does have a soul just like a human, no further discussion needed.\"",
+        "\"Souls don't actually exist, so the question doesn't really mean anything.\""
+      ],
+      "correctAnswer": "\"Passing a behavior test tells you the machine's outputs LOOK like a mind's -- it doesn't tell you whether there's something it's actually like to BE that machine, whether it has genuine understanding rather than pattern-matching. A soul isn't about acting mind-like from the outside; it's about really being a subject on the inside -- and that's not something any test on outputs alone can settle.\"",
+      "explanation": "This resolves the actual metaphysical gap (behavioral output versus genuine interior subjectivity and understanding) in language a real conversation could use, without needing technical vocabulary like 'hylomorphism' to make the point land -- exactly the kind of translation this capstone level asks for.",
+      "hint": "The key distinction is between what a test can measure from OUTSIDE (behavior) and what a soul actually concerns -- something on the INSIDE no behavioral test reaches.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 33"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-005",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A friend says, in a real conversation: 'the Church just cares more about controlling what people do in the bedroom than about actual justice issues.' What hidden premise does this objection rest on, and what is the accurate correction?",
+      "choices": [
+        "It assumes the Church's actual teaching and public priorities can be reduced to sexual ethics alone -- the hidden premise doesn't survive contact with the Church's actual, sustained teaching on poverty, migrants, the death penalty, war, and the environment (Catholic Social Teaching); the honest opener acknowledges the perception is understandable given media coverage, while inviting a closer look at the fuller record",
+        "The premise is entirely correct, and the Church genuinely has no teaching on justice issues",
+        "The correct response is to argue that sexual ethics doesn't actually matter to Catholic teaching at all",
+        "The objection should be dismissed outright with no acknowledgment of why the perception exists"
+      ],
+      "correctAnswer": "It assumes the Church's actual teaching and public priorities can be reduced to sexual ethics alone -- the hidden premise doesn't survive contact with the Church's actual, sustained teaching on poverty, migrants, the death penalty, war, and the environment (Catholic Social Teaching); the honest opener acknowledges the perception is understandable given media coverage, while inviting a closer look at the fuller record",
+      "explanation": "This models the level's real task: name the hidden premise precisely (a reduction of the Church's whole moral vision to one topic), correct it honestly with real content (Catholic Social Teaching's actual breadth), while not dismissing why the perception exists in the first place -- opening a conversation rather than winning a point.",
+      "hint": "Ask what the objection is secretly ASSUMING about the full scope of the Church's teaching -- then check whether that assumption survives a look at the actual record.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2401-2402"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-006",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Role-play capstone: a friend says, 'I left because a priest treated my family terribly when we needed help most, and nobody in the parish ever followed up.' What is the correct response, per this level's own repeated principle?",
+      "choices": [
+        "\"That sounds like it was genuinely wrong, and I'm sorry that happened to you and your family -- that failure was real, and it was a failure of a person, not what the Church actually teaches people deserve. I'd like to actually stay in touch, if that's alright, rather than let this be another place where you got dropped.\"",
+        "\"Well, technically the priest's personal failures don't affect Church doctrine, so you should come back regardless of how you were treated.\"",
+        "\"You should forgive and forget and return to Mass as soon as possible without dwelling on it.\"",
+        "\"That's unfortunate, but here's a solid philosophical proof for God's existence that should resolve the issue.\""
+      ],
+      "correctAnswer": "\"That sounds like it was genuinely wrong, and I'm sorry that happened to you and your family -- that failure was real, and it was a failure of a person, not what the Church actually teaches people deserve. I'd like to actually stay in touch, if that's alright, rather than let this be another place where you got dropped.\"",
+      "explanation": "This is exactly the case this whole level has been building toward: someone hurt by a person needs acknowledgment and continued relationship, not a doctrinal correction, a demand to return, or -- worst of all -- an argument that misses the actual wound entirely. The correct answer names the failure honestly and offers the one thing actually missing the first time: follow-up.",
+      "hint": "This is the exact 'hurt by a person' category from level 8's matching exercise -- the correct response there was acknowledgment and accompaniment, not an argument.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2284"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-007",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or false: because this capstone level emphasizes accompaniment, relationship, and pastoral sensitivity, it follows that no real content or argument ever matters in these conversations -- only tone and presence.",
+      "correctAnswer": false,
+      "explanation": "This level does not abandon content -- it insists on using the RIGHT content at the right moment, with the right tone. A hidden false premise still needs to be actually named and corrected; a real theological resource (like Salvifici Doloris) still needs to be actually true and accurately applied. Tone without substance would be just as incomplete as substance without tone -- this level asks for both together.",
+      "hint": "Ask whether any of this level's example answers actually dropped all content in favor of pure tone, or whether they combined real content with the right tone.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-008",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "Salvifici Doloris teaches that suffering, united to Christ's own passion, can share in the ______ work of the Cross -- a real spiritual fruitfulness, not mere meaningless pain, though this truth is offered as a source of hope alongside real grief, never as a replacement for it.",
+      "correctAnswer": "redemptive",
+      "explanation": "This is the encyclical's own central claim, carefully bounded: suffering can share in Christ's redemptive work -- a real, hope-giving truth -- without that truth being used to minimize or explain away the real grief a person is actually carrying.",
+      "hint": "This is the word describing the saving work Christ's own suffering on the Cross accomplished.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Salvifici Doloris, n. 19 (1984)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-009",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each hard conversation to the kind of response it actually calls for.",
+      "pairs": [
+        {
+          "left": "A friend hurt by a person in the Church",
+          "right": "Acknowledgment of real wrong and renewed relationship, not an argument"
+        },
+        {
+          "left": "A grieving friend asking why God allowed a death",
+          "right": "Presence and honesty about not having a tidy answer, offered with real theological hope underneath"
+        },
+        {
+          "left": "A coworker's sincere 'why do you believe any of this' question",
+          "right": "A real, warm reason, combining more than one motive of credibility"
+        },
+        {
+          "left": "A stated hidden premise reducing Church teaching to one issue",
+          "right": "Naming the premise honestly and correcting it with the fuller record"
+        }
+      ],
+      "explanation": "This is the whole topic's real capstone skill: recognizing that different hard conversations, even when they sound similar on the surface, call for genuinely different responses -- and that getting the KIND of response right matters as much as getting the content right.",
+      "hint": "Match each situation to the kind of response actually suited to it -- not every hard conversation calls for the same tool.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-010",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Across all ten levels, Answering Objections has moved from naming common questions to this level's real, hard, personal conversations. What is the topic's own final, integrating point about what 'answering an objection' actually means?",
+      "choices": [
+        "A real answer is never just a correct proposition recited at a person -- it requires knowing which kind of claim is actually settled, contested, or historical; drawing on content from across the whole app when a question genuinely needs it; and delivering all of that with the gentleness and reverence 1 Peter 3:15 requires, aimed at an actual person rather than at winning an abstract argument",
+        "Answering an objection means winning the argument as decisively and quickly as possible",
+        "Answering an objection means avoiding any real content and relying only on personal warmth",
+        "Every objection in this topic has the exact same correct response regardless of context"
+      ],
+      "correctAnswer": "A real answer is never just a correct proposition recited at a person -- it requires knowing which kind of claim is actually settled, contested, or historical; drawing on content from across the whole app when a question genuinely needs it; and delivering all of that with the gentleness and reverence 1 Peter 3:15 requires, aimed at an actual person rather than at winning an abstract argument",
+      "explanation": "This is the topic's own capstone synthesis: correctness, precision about what kind of claim is being made, cross-topic integration, and a real person's actual situation all have to come together at once. Any one of these alone -- content without tone, tone without content, precision without care for the actual person in front of you -- falls short of what this whole topic has been building toward.",
+      "hint": "Ask what this whole topic's best answers, across all ten levels, actually had in common.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15"
+        }
+      ]
     }
   ]
 }
