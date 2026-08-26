@@ -1750,6 +1750,477 @@
           "reference": "CCC 366"
         }
       ]
+    },
+    {
+      "id": "metaphysics-l8-001",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Aquinas holds that no two angels can belong to the same species -- each angel is its own species. Given that individuation among bodily things comes from matter (this particular chunk of matter, marked out by quantity, makes two otherwise-identical statues two things rather than one), what does this imply about angels, who have no matter at all?",
+      "choices": [
+        "Since angels lack the matter that individuates members of a species from one another, each angel cannot merely be one instance of a shared angelic nature -- it must simply BE its own distinct nature, making every angel its own species",
+        "Angels must therefore all be numerically identical to one another",
+        "Angels must be composed of a finer, invisible kind of matter to remain individually distinct",
+        "The question of angelic individuation has no bearing on their nature as pure spirits"
+      ],
+      "correctAnswer": "Since angels lack the matter that individuates members of a species from one another, each angel cannot merely be one instance of a shared angelic nature -- it must simply BE its own distinct nature, making every angel its own species",
+      "explanation": "This follows directly from Act and Potency (level 2) and Causality (level 3): matter is what makes two things of the same kind numerically distinct. Remove matter entirely, as with angels, and the only way to have many distinct angels is for each one to differ in kind, not just in number -- an implication most people never draw out even after granting that angels are immaterial.",
+      "hint": "Ask what actually makes two members of the same species different individuals in the first place -- then ask what happens when that's taken away entirely.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-002",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2244,
+      "prompt": "True or false: the Catechism teaches that angels are purely spiritual creatures, possessing intelligence and will, but denies that they are properly personal beings since personhood requires a body.",
+      "correctAnswer": false,
+      "explanation": "The Catechism explicitly calls angels 'personal and immortal creatures' -- personhood, on this account, tracks having intellect and will, not having a body. This is a live philosophical distinction: human persons are body-soul composites, but bodiliness is not what makes something a person in the first place.",
+      "hint": "The Catechism uses the word 'personal' about angels directly -- check what it actually says.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330",
+          "quote": "As purely spiritual creatures, angels have intelligence and will: they are personal and immortal creatures, surpassing in perfection all visible creatures, as the splendor of their glory bears witness."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-003",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Human souls are 'subsistent forms' that are nonetheless the form OF a body (hylomorphism -- soul and body as one substance). How does an angel's status as a subsistent form differ from this?",
+      "choices": [
+        "An angel's form does not inform any matter at all -- it does not complete a body to make one substance the way a human soul does; it simply IS a complete substance on its own, with no material principle whatsoever",
+        "There is no real difference -- angels are simply human souls that never received a body",
+        "Angels have bodies made of a rarer kind of matter than humans do",
+        "An angel's form is less real or less actual than a human soul's form"
+      ],
+      "correctAnswer": "An angel's form does not inform any matter at all -- it does not complete a body to make one substance the way a human soul does; it simply IS a complete substance on its own, with no material principle whatsoever",
+      "explanation": "A human soul is a subsistent form that is still ordered to informing a body -- it is the form of something. An angel's form is not the form OF anything material; it is a complete substance in itself. This is why the death and eventual resurrection of the body matters for humans in a way that has no angelic parallel at all.",
+      "hint": "The human soul, even though subsistent, is still ordered toward a body in a way an angel's nature never is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-004",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "How does angelic knowledge differ from human knowledge, on the classical account this topic has been building toward since 'Being and Reason' (level 1)?",
+      "choices": [
+        "Angels know by direct intellectual intuition, grasping truths immediately and wholly, rather than by the step-by-step discursive reasoning -- gathering evidence, moving premise to conclusion -- that embodied human knowers require",
+        "Angels do not possess genuine knowledge at all, only instinct",
+        "Angels know only what has been directly revealed to them by God, with no natural capacity to reason",
+        "There is no meaningful difference between angelic and human knowledge"
+      ],
+      "correctAnswer": "Angels know by direct intellectual intuition, grasping truths immediately and wholly, rather than by the step-by-step discursive reasoning -- gathering evidence, moving premise to conclusion -- that embodied human knowers require",
+      "explanation": "Human reasoning is discursive because we are embodied knowers who must move from sense experience, step by step, toward abstract truth. An angel's intellect, not tied to a body's sensory apparatus, is traditionally held to grasp intelligible truth immediately -- one more consequence of the same immateriality this whole level has been tracing out.",
+      "hint": "Ask which kind of knowing needs a body's senses to gather evidence first, and which doesn't.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-005",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2354,
+      "prompt": "The Catechism teaches that Satan and the other demons were created good by God but became evil by their own doing -- a free, ______ choice made at the moment of testing, not a nature God made evil from the start.",
+      "correctAnswer": "irrevocable",
+      "explanation": "This is a load-bearing distinction against any dualism that would make an evil spiritual principle co-equal with God: the Church teaches a radical evil spirit is a fallen good creature, not an eternal rival power. The Catechism specifically calls the angels' choice irrevocable -- unlike embodied humans, who reason discursively over time and can repent, an angel's intellect grasps its choice totally and at once, which is part of why classical theology holds that choice, once made, cannot be undone.",
+      "hint": "The word describes a choice that, once made by a purely intellectual nature, cannot be taken back.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 392-393"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-006",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "A skeptic asks: 'if angels have no bodies, how can Scripture describe them appearing, moving, and even wrestling (as with Jacob), as if they were located somewhere?' What is the standard Catholic philosophical answer?",
+      "choices": [
+        "An angel is present at a place through the exercise of its power and operation there, not through occupying space the way a body does -- 'location' for a pure spirit means acting at a place, not filling it with extended matter",
+        "Angels temporarily grow physical bodies made of ordinary matter whenever they need to appear",
+        "These accounts describe hallucinations rather than any real angelic presence",
+        "Angels are actually made of a very thin, gas-like matter, which is why they can be located"
+      ],
+      "correctAnswer": "An angel is present at a place through the exercise of its power and operation there, not through occupying space the way a body does -- 'location' for a pure spirit means acting at a place, not filling it with extended matter",
+      "explanation": "This is a classic application of act and potency to a hard case: a body is 'in' a place by filling it with extended matter, but a pure spirit, having no extension, can only be 'in' a place by acting there. Scripture's angelic appearances describe a real, active presence without requiring angels to have bodies after all.",
+      "hint": "Ask what 'being somewhere' could possibly mean for something that has no size or shape to begin with.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 32:24-30"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-007",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Colossians 1:16 lists 'thrones, dominions, principalities, powers' as created through and for Christ. Philosophically, what does the existence of a real hierarchy of angelic natures (not just angels as a single undifferentiated group) fit with, from earlier in this topic?",
+      "choices": [
+        "The Transcendentals (level 4): if each angel is its own species, a real hierarchy of distinct kinds -- greater and lesser degrees of perfection, closeness to God, and scope of operation -- follows naturally rather than needing a separate explanation",
+        "It contradicts the claim that angels are immaterial",
+        "It implies angels are actually organized into a democracy with elected leaders",
+        "It has no connection to anything else in the topic"
+      ],
+      "correctAnswer": "The Transcendentals (level 4): if each angel is its own species, a real hierarchy of distinct kinds -- greater and lesser degrees of perfection, closeness to God, and scope of operation -- follows naturally rather than needing a separate explanation",
+      "explanation": "Once every angel is granted to be its own species (this level's opening claim), a graded hierarchy of angelic natures -- traditionally systematized as the nine choirs -- stops being an arbitrary add-on and becomes almost expected: distinct species differ in degree of perfection by definition, the same transcendental logic already covered when this topic discussed being, goodness, and perfection as convertible.",
+      "hint": "This connects back to the level about being, goodness, and degrees of perfection as really the same thing looked at differently.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Colossians 1:16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 328"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-008",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2334,
+      "prompt": "Match each claim about angels to the metaphysical principle it depends on.",
+      "pairs": [
+        {
+          "left": "Each angel is its own species",
+          "right": "Individuation within a species requires matter, which angels lack"
+        },
+        {
+          "left": "An angel's form is a complete substance on its own",
+          "right": "Unlike a human soul, it is not the form OF any body"
+        },
+        {
+          "left": "Angels know by immediate intuition, not step-by-step reasoning",
+          "right": "Discursive reasoning is a feature of embodied, sense-dependent knowers"
+        },
+        {
+          "left": "An angel can be 'at' a place without occupying space",
+          "right": "Location for a pure spirit means exercising power there, not filling extension"
+        }
+      ],
+      "explanation": "Every one of these claims about angels is really the same metaphysical principle -- act, potency, matter, and form -- applied consistently to a case with no matter at all. Nothing here is arbitrary theology bolted onto philosophy; it is the philosophy already built in earlier levels, followed through to its actual conclusion.",
+      "hint": "Each claim about angels is really the same handful of metaphysical principles from earlier levels, applied consistently.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-009",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "Why does classical theology hold that a fallen angel's rebellion, unlike a human sinner's, cannot be repented of and undone?",
+      "choices": [
+        "Because an angel's intellect grasps a choice totally and immediately rather than discursively over time, its act of will is correspondingly total and fixed at once -- there is no gradual process of reconsideration the way an embodied, time-bound human deliberates and can still change course",
+        "Because God specifically decided to forgive humans but not angels, for no philosophical reason",
+        "Because angels are incapable of choice altogether",
+        "Because demons are more numerous than angels who remained faithful"
+      ],
+      "correctAnswer": "Because an angel's intellect grasps a choice totally and immediately rather than discursively over time, its act of will is correspondingly total and fixed at once -- there is no gradual process of reconsideration the way an embodied, time-bound human deliberates and can still change course",
+      "explanation": "This ties directly back to the earlier question on angelic cognition: because an angel doesn't reason step by step the way humans do, its choice isn't provisional or revisable in the way a human decision, made over time and under changing information, can be. The finality is a consequence of the very same immateriality that makes angels angels in the first place, not an arbitrary extra harshness.",
+      "hint": "This connects to how angels know things -- all at once, not gradually -- and what that implies about how they choose.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 393"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l8-010",
+      "topic": "metaphysics",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2294,
+      "prompt": "The Catechism assigns angels a real role in salvation history -- guarding, announcing, and serving -- rather than treating them as a philosophical curiosity with no bearing on ordinary faith. What does CCC 336 specifically affirm?",
+      "choices": [
+        "That from infancy to death, human life is surrounded by the watchful care and intercession of angels, each person having an angel as guardian and shepherd leading them to life",
+        "That angels only appear during the Old Testament period and have no role in the life of the Church today",
+        "That belief in guardian angels is a pious legend with no basis in Catholic teaching",
+        "That every human being eventually becomes an angel after death"
+      ],
+      "correctAnswer": "That from infancy to death, human life is surrounded by the watchful care and intercession of angels, each person having an angel as guardian and shepherd leading them to life",
+      "explanation": "This is the point of grounding all this metaphysics in the Catechism rather than treating it as philosophy for its own sake: the doctrine of guardian angels is not decorative. It is the same metaphysical picture built across this whole level -- real, personal, immaterial creatures -- applied to something the Church actually asks the faithful to trust and pray with.",
+      "hint": "This is the Catechism's teaching on guardian angels specifically.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 336"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-001",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Leo XIII's 1879 encyclical Aeterni Patris commended one philosopher's synthesis of faith and reason as a privileged guide for Catholic formation. Which philosopher, and what does 'privileged' mean here?",
+      "choices": [
+        "St. Thomas Aquinas -- 'privileged' means specially recommended and fruitful, not the only philosophy a Catholic may ever hold, since the Church has never canonized one philosophical system as the single permissible one",
+        "St. Augustine -- and 'privileged' means it is the only system a Catholic may hold",
+        "Aristotle -- and 'privileged' means the Church requires seminary formation to use no other philosopher",
+        "Plato -- and 'privileged' means all other schools are formally condemned"
+      ],
+      "correctAnswer": "St. Thomas Aquinas -- 'privileged' means specially recommended and fruitful, not the only philosophy a Catholic may ever hold, since the Church has never canonized one philosophical system as the single permissible one",
+      "explanation": "Aeterni Patris is often remembered as making Thomism mandatory, which overstates it. Leo XIII commends Aquinas's synthesis as an especially sound and fruitful guide, particularly for seminary formation -- but 'privileged' is not the same as 'exclusively permitted,' which is exactly why Scotist, Bonaventurian, and other schools have remained fully Catholic traditions in good standing ever since.",
+      "hint": "The word to focus on is 'privileged' -- ask whether that means 'only' or something weaker.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-002",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "John Paul II's Fides et Ratio (1998) explicitly addresses the Church's relationship to philosophical schools. What does it actually say about philosophical pluralism within the Catholic tradition?",
+      "choices": [
+        "The Church does not bind herself to any one philosophical school, even while recognizing certain principles (found pre-eminently, though not exclusively, in Aquinas) as perennially valid for defending the truth of the faith",
+        "The Church requires every Catholic philosopher to be a strict Thomist with no deviation permitted",
+        "Philosophy has no proper role in theology at all and should be avoided",
+        "All philosophical schools are equally arbitrary and none has any special claim to soundness"
+      ],
+      "correctAnswer": "The Church does not bind herself to any one philosophical school, even while recognizing certain principles (found pre-eminently, though not exclusively, in Aquinas) as perennially valid for defending the truth of the faith",
+      "explanation": "Fides et Ratio holds a real tension without collapsing it: it does not canonize one system, yet it does not treat all philosophies as equally sound either. It names Thomistic principles as especially reliable without making adherence to every detail of Thomism a condition of orthodoxy -- precisely the space in which Scotist and other schools have always operated.",
+      "hint": "Look for the answer that holds two things together: no single mandatory system, but not empty relativism either.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 43-44 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-003",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Bl. John Duns Scotus, a Franciscan and fully Catholic philosopher, differed from Aquinas on several real points -- among them, holding that 'being' is said univocally (in exactly the same sense) of God and creatures, against Aquinas's view that it is said analogically. What does this dispute illustrate about legitimate philosophical diversity in the Church?",
+      "choices": [
+        "Catholic thinkers can disagree in real, substantive ways on how best to explain a shared truth of faith (that God truly is, and that creatures truly participate in being) without either side being heretical -- the dispute is philosophical, not doctrinal",
+        "Scotus was formally condemned for this position",
+        "This dispute means the Church has no coherent teaching on God's nature at all",
+        "Aquinas's view was later declared heretical in favor of Scotus's"
+      ],
+      "correctAnswer": "Catholic thinkers can disagree in real, substantive ways on how best to explain a shared truth of faith (that God truly is, and that creatures truly participate in being) without either side being heretical -- the dispute is philosophical, not doctrinal",
+      "explanation": "This is the clearest possible illustration of the difference this level is teaching between legitimate philosophical schools and heresy: both Scotus and Aquinas affirm the same revealed truths about God and creation, and both are honored figures in the Church's tradition, but they explain the metaphysics of that truth differently. Disagreement here is a live philosophical question, not a doctrinal fracture.",
+      "hint": "Ask whether both thinkers still affirm the same revealed truths -- they do; they just explain the metaphysics differently.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 44 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-004",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "St. Bonaventure and the Franciscan tradition emphasized a theory of divine ______ -- that the human mind grasps intelligible truth only with God's direct illuminating assistance -- in contrast to the more Aristotelian, sense-based account of knowledge Aquinas developed.",
+      "correctAnswer": "illumination",
+      "explanation": "Augustinian illumination theory holds that the mind cannot reach unchanging truth by its own natural power alone; it needs a special divine light. Aquinas's more Aristotelian account instead grounds knowledge in abstraction from sense experience, with a much lighter role for direct divine assistance in ordinary knowing. Both remain live, fully Catholic positions.",
+      "hint": "The word describes divine light making truth graspable to the mind.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 74 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-005",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Francisco Suárez, a 16th-century Jesuit, produced a later, highly influential synthesis often called Suarezian scholasticism -- distinct from strict Thomism on several metaphysical questions, including the real distinction between essence and existence. What does the Church's acceptance of a THIRD major school, centuries after Aquinas and Scotus, show about how 'schools of Catholic philosophy' actually work?",
+      "choices": [
+        "The list of legitimate Catholic philosophical schools was never permanently closed at two -- new syntheses can be received into the tradition as genuinely Catholic so long as they remain compatible with revealed doctrine, not fixed forever at whichever schools existed first",
+        "Suárez's work was rejected by the Church as incompatible with Catholic teaching",
+        "Only philosophers who lived before the Reformation can found a legitimate Catholic school",
+        "The Church requires all three schools to be taught as one single unified system"
+      ],
+      "correctAnswer": "The list of legitimate Catholic philosophical schools was never permanently closed at two -- new syntheses can be received into the tradition as genuinely Catholic so long as they remain compatible with revealed doctrine, not fixed forever at whichever schools existed first",
+      "explanation": "Suárez shows this isn't a closed, ancient list -- the Church's philosophical tradition keeps developing new syntheses, provided they serve rather than contradict revealed truth. This is the same distinction Heresies (level 8) drew against Modernism: development of a school of thought's tools is not the same error as claiming revealed dogma itself changes.",
+      "hint": "Ask whether the Church has ever formally closed the list of acceptable schools, or whether new ones keep being received.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 62 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-006",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Fides et Ratio famously opens by calling faith and reason 'like two wings on which the human spirit rises to the contemplation of truth.' What two errors does the encyclical warn against in describing their relationship?",
+      "choices": [
+        "Fideism (faith alone, distrusting or bypassing reason) and rationalism (reason alone, refusing anything reason cannot independently verify) -- each severs one wing and calls the result flight",
+        "Only Modernism is warned against; reason is treated as entirely reliable on its own",
+        "Only rationalism is warned against; the encyclical has no concerns about fideism",
+        "Scholasticism and Neo-Platonism are the two errors named"
+      ],
+      "correctAnswer": "Fideism (faith alone, distrusting or bypassing reason) and rationalism (reason alone, refusing anything reason cannot independently verify) -- each severs one wing and calls the result flight",
+      "explanation": "The 'two wings' image only works if both are actually needed -- the encyclical spends real space warning against fideism (which makes faith irrational, needing no reasoned support at all) and rationalism (which treats unaided human reason as needing nothing beyond itself), naming both as failures to keep faith and reason working together as this whole topic has been arguing they should.",
+      "hint": "The metaphor needs both wings -- ask what happens, and what each failure is called, when you try to fly with only one.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, Prologue and n. 52-55 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-007",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or false: because the Church tolerates multiple philosophical schools, she therefore has no philosophical positions at all that a Catholic thinker cannot deny.",
+      "correctAnswer": false,
+      "explanation": "Fides et Ratio is explicit that some principles -- the reality of truth, the human capacity to know it, the existence of a real created order distinct from God -- are not optional philosophical opinions a Catholic thinker may simply reject, even while real diversity remains on how best to explain and systematize those shared commitments. Pluralism operates inside a real boundary, not in place of one.",
+      "hint": "Pluralism among schools that all still affirm certain basics is different from having no boundaries at all.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 4-6 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-008",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each philosopher or school to its distinctive position.",
+      "pairs": [
+        {
+          "left": "St. Thomas Aquinas",
+          "right": "Being is said of God and creatures analogically, not univocally"
+        },
+        {
+          "left": "Bl. John Duns Scotus",
+          "right": "Being is said univocally of God and creatures"
+        },
+        {
+          "left": "St. Bonaventure",
+          "right": "Divine illumination is needed for the mind to grasp unchanging truth"
+        },
+        {
+          "left": "Francisco Suárez",
+          "right": "A later synthesis proposing its own account of essence and existence"
+        }
+      ],
+      "explanation": "None of these four disagreements makes any of these four thinkers heretical -- all four are honored figures within the Catholic philosophical tradition, disagreeing on real metaphysical questions while affirming the same revealed truths those questions serve.",
+      "hint": "Each of these four holds a distinctive, real position on a shared metaphysical question -- none of the four positions is a doctrinal error.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 44, 62, 74 (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-009",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "This entire topic has moved from 'Being and Reason' (level 1) through act and potency, causality, the transcendentals, natural theology, essence and existence, angelic natures, and finally to the schools that have argued over how best to explain all of it. What is Fides et Ratio's own summary of philosophy's proper relationship to theology, which this whole arc has been building toward?",
+      "choices": [
+        "Philosophy is not a rival to theology or a replacement for revelation, but a genuine, necessary partner -- reason has real, proper work to do in understanding what faith already holds to be true, without either side swallowing the other",
+        "Philosophy should be abandoned entirely in favor of faith alone",
+        "Theology is merely philosophy with religious language added on top, with no distinct subject matter of its own",
+        "Philosophy and theology have no relationship to each other and should be studied in total isolation"
+      ],
+      "correctAnswer": "Philosophy is not a rival to theology or a replacement for revelation, but a genuine, necessary partner -- reason has real, proper work to do in understanding what faith already holds to be true, without either side swallowing the other",
+      "explanation": "This is the whole point of ending the topic here: every metaphysical tool this topic built -- act and potency, causality, the transcendentals, angelic natures -- exists to help reason do real work alongside faith, not to replace it or be replaced by it. The schools disagree on method and detail; none of them, rightly practiced, treats philosophy as faith's rival.",
+      "hint": "This is the encyclical's own answer to why philosophy matters to a believer at all -- not as a rival to faith, but genuine partner work.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, Prologue (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l9-010",
+      "topic": "metaphysics",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A student objects: 'if even Aquinas and Scotus disagree on something as basic as how being applies to God, doesn't that mean metaphysics is just opinion, with nothing objectively knowable at all?' What is the accurate response, per everything this topic has covered?",
+      "choices": [
+        "No -- both thinkers agree that being, causality, and objective truth are real and knowable; they disagree on the best technical account of how analogy or univocity precisely works, which is a narrower, genuine dispute inside a much larger shared realism, not evidence that nothing is knowable at all",
+        "Yes -- this disagreement proves that all metaphysical claims are equally arbitrary",
+        "The disagreement proves the Church has no coherent view of God whatsoever",
+        "Only one of the two men can be considered a real philosopher at all"
+      ],
+      "correctAnswer": "No -- both thinkers agree that being, causality, and objective truth are real and knowable; they disagree on the best technical account of how analogy or univocity precisely works, which is a narrower, genuine dispute inside a much larger shared realism, not evidence that nothing is knowable at all",
+      "explanation": "This is the correct final move for anyone using this material apologetically: pointing to real disagreement among serious thinkers to conclude 'therefore nothing is really knowable' is a non sequitur. Genuine, bounded disagreement about technical details is entirely compatible with -- and, if anything, presupposes -- a much larger shared confidence that being, truth, and causality are real and available to reason in the first place.",
+      "hint": "Ask how much these two thinkers actually agree on before getting to the point where they disagree.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 4-6, 44 (1998)"
+        }
+      ]
     }
   ]
 }
