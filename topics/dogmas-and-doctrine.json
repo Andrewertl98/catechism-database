@@ -1780,6 +1780,754 @@
           "reference": "Second Vatican Council, Lumen Gentium 62"
         }
       ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "A priest in unconfessed mortal sin validly celebrates Mass. Does the Eucharist he confects still become the Body and Blood of Christ, and does it still spiritually benefit an unrepentant recipient who receives it unworthily?",
+      "choices": [
+        "The sacrament is still valid ex opere operato (by the work worked -- Christ's own action through the rite, not the minister's holiness), but its fruitfulness for the recipient (ex opere operantis) depends on the recipient's own disposition -- an unrepentant recipient receives Christ truly present, but to no spiritual benefit, indeed to their own judgment",
+        "The sacrament is invalid, since a priest in mortal sin cannot confect the Eucharist at all",
+        "The sacrament's validity and its fruit both depend entirely on the priest's personal holiness",
+        "The sacrament is valid, and automatically benefits any recipient regardless of that recipient's own disposition"
+      ],
+      "correctAnswer": "The sacrament is still valid ex opere operato (by the work worked -- Christ's own action through the rite, not the minister's holiness), but its fruitfulness for the recipient (ex opere operantis) depends on the recipient's own disposition -- an unrepentant recipient receives Christ truly present, but to no spiritual benefit, indeed to their own judgment",
+      "explanation": "This is exactly the distinction Trent settled against Donatism (already covered in Heresies) and against Protestant objections that a corrupt minister's sin could void a sacrament: validity flows from Christ's own action through the rite (ex opere operato), not from the minister's or even the recipient's holiness -- but genuine spiritual fruit still depends on the recipient's disposition (ex opere operantis), which is why St. Paul warns of eating and drinking judgment on oneself.",
+      "hint": "Separate the question 'did it really happen' from the question 'did it do the recipient any good.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1127-1128"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 11:27-29"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each scenario to the kind of grace primarily at work in it.",
+      "pairs": [
+        {
+          "left": "A baptized person in a state of grace, sharing in the divine life itself",
+          "right": "Sanctifying grace -- a stable, abiding participation in God's own life"
+        },
+        {
+          "left": "A momentary interior prompting that moves someone to consider returning to the sacraments",
+          "right": "Actual grace -- a passing divine help for a particular act"
+        },
+        {
+          "left": "The grace remaining in a soul between one good act and the next",
+          "right": "Sanctifying grace -- it is a state, not a single event"
+        },
+        {
+          "left": "The grace that first moves an unbeliever's will toward seeking baptism",
+          "right": "Actual grace -- a transient impulse enabling a particular movement toward God"
+        }
+      ],
+      "explanation": "Sanctifying grace is a lasting share in divine life a soul possesses or lacks at a given moment; actual grace is God's momentary help for a particular act. Confusing the two is a common source of error -- expecting sanctifying grace to feel like a series of dramatic promptings, or mistaking a passing actual grace for the permanent state of justification.",
+      "hint": "One is a lasting state you're either in or not; the other is a passing nudge toward a particular act.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2000"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "The Church teaches that a soul in grace can truly merit an increase of grace and eternal life (merit de condigno) -- yet also teaches this never collapses into Pelagianism, the claim that a person earns salvation by unaided effort. How does the Catechism hold both together?",
+      "choices": [
+        "The merit is real, but its whole possibility rests on grace already given -- a person merits strictly as an adopted child already united to Christ by grace, so the merit itself is, at its root, God's own gift returning to God, not an achievement independent of grace",
+        "It doesn't hold both together -- the Church's teaching on merit is simply inconsistent",
+        "Merit de condigno means the person earns salvation entirely without grace, while de congruo merit involves grace",
+        "The Church denies that any real merit is possible for a creature under any circumstances"
+      ],
+      "correctAnswer": "The merit is real, but its whole possibility rests on grace already given -- a person merits strictly as an adopted child already united to Christ by grace, so the merit itself is, at its root, God's own gift returning to God, not an achievement independent of grace",
+      "explanation": "CCC 2011 states this precisely: 'the merit of good works is to be attributed in the first place to the grace of God, then to the faithful.' Merit de condigno (strict proportionate merit) is possible only because grace already establishes the relationship in which it can occur -- which is exactly what keeps this from becoming Pelagianism, already named and rejected as a heresy.",
+      "hint": "The Catechism explicitly names WHO gets credit first, before crediting the person's own cooperation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2007-2011"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Trent's Canon 9 (already covered in Councils) anathematizes reducing justifying faith to bare confidence with no cooperation. What remains a live, Church-permitted internal question, even after Trent, about exactly HOW grace and human free will cooperate?",
+      "choices": [
+        "Whether grace moves the will by a prior, efficacious 'physical premotion' that then makes free cooperation certain (the Bañezian/Thomist account), or whether grace is efficacious because God foresees how a truly free will would freely respond to it (the Molinist/congruist account) -- a real dispute Rome has left open between two schools, condemning neither",
+        "Whether grace is necessary for salvation at all",
+        "Whether justifying faith requires any cooperation whatsoever",
+        "Whether Christ's grace is sufficient to save"
+      ],
+      "correctAnswer": "Whether grace moves the will by a prior, efficacious 'physical premotion' that then makes free cooperation certain (the Bañezian/Thomist account), or whether grace is efficacious because God foresees how a truly free will would freely respond to it (the Molinist/congruist account) -- a real dispute Rome has left open between two schools, condemning neither",
+      "explanation": "This is a genuinely open, contested-within-orthodoxy question, not a settled dogma like the ones surrounding it -- the Congregatio de Auxiliis debated exactly this for years, and Pope Paul V's 1607 resolution permitted both the Dominican/Thomist and Jesuit/Molinist schools to continue holding their own positions, condemning neither. Unlike Pelagianism or the sola fide question Trent settles, this is a live internal debate about mechanics, not a closed doctrinal question.",
+      "hint": "This is the one question in this level that the Church has deliberately left open between two schools, rather than settled either way.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2008"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul V, decree ending the Congregatio de Auxiliis (1607)",
+          "note": "For the technical detail of each school's account, standard secondary syntheses (e.g. Garrigou-Lagrange's work on grace) are the usual reference, since the primary conciliar documents involved remain untranslated scholastic Latin."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or false: the congruism-versus-Bañezianism debate over how grace and free will cooperate is the same kind of error as semi-Pelagianism, and the Church actually condemns one side of it.",
+      "correctAnswer": false,
+      "explanation": "This is worth stating precisely: semi-Pelagianism (already covered as a named heresy) claims a person can take the first step toward God under their own power, with grace only meeting them partway -- a real error the Second Council of Orange condemned. Congruism and Bañezian Thomism both fully affirm grace's absolute priority and necessity; they only differ on the technical mechanics of how grace and a genuinely free will cooperate. Treating this live internal debate as equivalent to a condemned heresy would be a real category error.",
+      "hint": "Ask whether both schools in this debate actually deny grace's priority -- they don't; semi-Pelagianism does.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Semi-Pelagianism holds that a person can take the first step toward God by their own natural power, with grace only assisting afterward. Precisely where does this depart from the Augustinian-Thomist consensus Trent and Orange both defend?",
+      "choices": [
+        "It denies that even the very first movement of the will toward God -- the beginning of faith itself -- requires grace, placing the initiative with unaided human nature rather than with God's prior initiative",
+        "It denies that grace is needed at any point in the Christian life",
+        "It denies that free will exists at all",
+        "It denies that good works matter for salvation"
+      ],
+      "correctAnswer": "It denies that even the very first movement of the will toward God -- the beginning of faith itself -- requires grace, placing the initiative with unaided human nature rather than with God's prior initiative",
+      "explanation": "This is the precise point of departure: semi-Pelagianism does not deny grace altogether (that would be full Pelagianism) -- it denies grace's priority even at the very start, letting nature take the first step alone. The Second Council of Orange's canons specifically target this exact claim, insisting the very beginning of faith is itself a grace.",
+      "hint": "The dispute is about who takes the very FIRST step -- not whether grace matters at all afterward.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 5 (529)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 2193,
+      "prompt": "The Catechism describes justification as detaching us from sin, which is contrary to the love of God, and _____ the interior man through sanctifying grace -- the same grace that also enables real, if grace-dependent, merit.",
+      "correctAnswer": "purifying",
+      "explanation": "CCC 1989's language ties purification and merit together in a single movement: justification is not merely a legal declaration but a real interior renewal, which is precisely why merit that follows it (level 8's whole theme) is a real fruit of an actual change, not a courtroom fiction.",
+      "hint": "The word describes what justification does to the interior man, alongside detaching him from sin.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1989"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "A well-meaning Catholic says: 'Trent condemned sola fide, so cooperation with grace is basically a human achievement alongside faith.' What precise correction does Trent's own text require?",
+      "choices": [
+        "Trent condemns reducing faith to bare confidence with NO cooperation at all -- it does not make cooperation a separate, independent human achievement running alongside grace; the cooperation itself is enabled and sustained by grace throughout, not a parallel human contribution",
+        "Trent teaches that cooperation with grace is entirely a human achievement, unrelated to grace",
+        "Trent actually agrees with sola fide as commonly understood",
+        "Trent has no teaching on cooperation with grace at all"
+      ],
+      "correctAnswer": "Trent condemns reducing faith to bare confidence with NO cooperation at all -- it does not make cooperation a separate, independent human achievement running alongside grace; the cooperation itself is enabled and sustained by grace throughout, not a parallel human contribution",
+      "explanation": "This is exactly the overcorrection this level exists to prevent: Trent's canon does real, precise work (ruling out faith-as-bare-confidence) without swinging to the opposite error of making cooperation an independent human contribution running alongside grace rather than within and because of it.",
+      "hint": "Trent is ruling out one specific claim -- it isn't installing a rival claim in its place.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Canon 9 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Why does the Church insist that even the merit a justified soul truly earns (merit de condigno) still ultimately traces back to grace, rather than treating grace and merit as two separate, competing explanations for the same reward?",
+      "choices": [
+        "Because the soul's capacity to merit at all -- its adoption as God's child, its union with Christ -- is itself something grace established first; merit is grace's own fruit working through a real, free human response, not an alternative account competing with grace for credit",
+        "Because merit and grace are unrelated concepts that happen to appear in the same paragraph of the Catechism",
+        "Because the Church denies any real difference between grace and merit at all",
+        "Because merit only applies to actions performed before receiving any grace"
+      ],
+      "correctAnswer": "Because the soul's capacity to merit at all -- its adoption as God's child, its union with Christ -- is itself something grace established first; merit is grace's own fruit working through a real, free human response, not an alternative account competing with grace for credit",
+      "explanation": "This closes the loop this whole level has been building: sacraments work by Christ's action (ex opere operato), sanctifying grace is a real interior state, and even genuine merit is grace bearing fruit through a free response -- three different vocabulary sets describing the same underlying truth, that grace has priority throughout while human freedom remains real and engaged.",
+      "hint": "Ask what had to be true about the soul BEFORE it could merit anything at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l8-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Summing up this level: a sacrament's validity (ex opere operato), a soul's sanctifying grace, and a soul's merit are three distinct theological categories. What single thread connects all three, and keeps all three from collapsing into either Pelagianism or a faith-alone-with-no-real-interior-change account?",
+      "choices": [
+        "In each case, grace has the effective priority -- the sacrament works by Christ's action, sanctifying grace is a real state grace alone establishes, and merit is grace's own fruit through free cooperation -- so a real, interior change always precedes and grounds whatever a person then genuinely does or receives",
+        "Nothing connects the three categories; they are unrelated technical terms",
+        "All three are simply different words for the exact same single reality with no distinctions at all",
+        "Human effort alone accounts for all three, with grace playing only a minor supporting role"
+      ],
+      "correctAnswer": "In each case, grace has the effective priority -- the sacrament works by Christ's action, sanctifying grace is a real state grace alone establishes, and merit is grace's own fruit through free cooperation -- so a real, interior change always precedes and grounds whatever a person then genuinely does or receives",
+      "explanation": "This is the level's capstone point: three distinct technical vocabularies (sacramental causality, grace, merit) all encode the same underlying commitment Trent, Orange, and the Catechism share -- grace goes first, and it is real enough to actually change the soul, not merely to cover over an unchanged one.",
+      "hint": "Look for the answer that keeps grace's priority in all three cases, while still leaving room for a real human response.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6 (1547)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Veritatis Splendor teaches that the moral quality of an act depends on three sources together: the object chosen, the intention behind it, and the circumstances. If someone gives money to the poor (a good object) specifically in order to be seen and praised (a bad intention), what is the act's actual moral quality?",
+      "choices": [
+        "The act is not good overall -- a bad intention can corrupt an act whose object is otherwise good, since all three sources (object, intention, circumstances) must be good together for the act itself to be good",
+        "The act is fully good, since giving to the poor is always good regardless of intention",
+        "Intention is irrelevant to morality; only the object chosen ever matters",
+        "The act is morally neutral, since good and bad elements simply cancel out"
+      ],
+      "correctAnswer": "The act is not good overall -- a bad intention can corrupt an act whose object is otherwise good, since all three sources (object, intention, circumstances) must be good together for the act itself to be good",
+      "explanation": "This is the settled framework Veritatis Splendor teaches, not one option among several: a good intention cannot redeem an intrinsically evil object, but neither can a good object alone guarantee a good act if the intention is corrupt -- all three sources must be rightly ordered together.",
+      "hint": "A good object alone doesn't settle the question -- ask what all three sources need to be, together.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1750-1754"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 74-78 (1993)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Proportionalism argues that an act's rightness can be judged by weighing its good and bad consequences against each other, so that even lying could be justified if it produces a greater good (e.g., lying to save a life). What is the Church's actual, SETTLED teaching on this theory, per Veritatis Splendor?",
+      "choices": [
+        "Proportionalism is a rejected error, not a legitimate parallel school of Catholic moral theology -- some acts (including direct lies) are intrinsically evil by their object and cannot be justified by any calculation of consequences, however proportionate the reasoning seems",
+        "Proportionalism is a fully approved, legitimate Catholic school, on equal footing with the traditional object/intention/circumstances framework",
+        "The Church has never addressed proportionalism at all",
+        "Proportionalism is correct specifically in emergency situations, though not in ordinary ones"
+      ],
+      "correctAnswer": "Proportionalism is a rejected error, not a legitimate parallel school of Catholic moral theology -- some acts (including direct lies) are intrinsically evil by their object and cannot be justified by any calculation of consequences, however proportionate the reasoning seems",
+      "explanation": "This is worth being precise about, since it's the level's highest-risk point: unlike level 8's congruism-versus-Bañezianism (a live, Church-permitted internal debate), proportionalism is not held open by the Magisterium as one legitimate school among others. Veritatis Splendor names and rejects it directly, holding that certain acts remain wrong regardless of how favorable the calculated balance of consequences appears.",
+      "hint": "This is not a live debate the way grace's mechanics were in the previous level -- the Church has actually settled this one.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 75-77 (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1756"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A person acts on a conscience that is sincerely, but wrongly, mistaken -- through no fault of their own (invincible ignorance) -- versus a person whose conscience is wrong because they culpably avoided knowing better (vincible ignorance). How does the Church's teaching on moral responsibility differ between these two cases?",
+      "choices": [
+        "Invincible ignorance can excuse a person from personal guilt for the wrong act, since they could not have known better through no fault of their own; vincible ignorance does not excuse in the same way, since the person bears some responsibility for the ignorance itself",
+        "Both cases are treated identically -- ignorance of any kind always fully excuses moral responsibility",
+        "Neither case ever excuses moral responsibility under any circumstances",
+        "Vincible ignorance excuses fully, while invincible ignorance never does"
+      ],
+      "correctAnswer": "Invincible ignorance can excuse a person from personal guilt for the wrong act, since they could not have known better through no fault of their own; vincible ignorance does not excuse in the same way, since the person bears some responsibility for the ignorance itself",
+      "explanation": "This distinction matters because it keeps two true things together: an objectively wrong act remains objectively wrong regardless of the agent's sincerity, while personal culpability for that wrongness can still be reduced or removed depending on whether the agent's ignorance was avoidable.",
+      "hint": "Ask whether the person COULD have known better if they had tried -- that's the difference between the two kinds of ignorance.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 62-64 (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1793-1794"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or false: 'fundamental option' theory -- the idea that a person's basic, deep orientation toward or away from God is what really determines mortal sin, largely independent of individual serious acts -- is affirmed by Veritatis Splendor as compatible with, and even clarifying, traditional Catholic teaching on mortal sin.",
+      "correctAnswer": false,
+      "explanation": "Veritatis Splendor explicitly rejects using fundamental option theory to sever a person's deep orientation from concrete, freely chosen acts -- a grave act, freely and knowingly chosen with full consent, is itself capable of altering a person's fundamental orientation, not something the 'fundamental option' can be quarantined from. This connects directly back to the mortal/venial sin distinction already taught at the Last Things level.",
+      "hint": "The theory tries to separate deep orientation from concrete individual acts -- the encyclical specifically will not allow that separation.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 65-70 (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1857-1861"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Veritatis Splendor grounds conscience's judgments in the natural law -- a moral order genuinely knowable by human reason, prior to and independent of any specifically revealed command. What follows from conscience being answerable to natural law, rather than conscience simply generating truth on its own?",
+      "choices": [
+        "Conscience is the faculty that discerns and applies an objective moral order it did not invent -- so a conscience can genuinely err about that order, and being sincere does not by itself make a conscience's judgment correct",
+        "Conscience creates moral truth freely, and no judgment of conscience can ever be mistaken",
+        "Natural law only applies to baptized Christians, not to all human beings",
+        "Conscience and natural law are entirely unrelated to one another"
+      ],
+      "correctAnswer": "Conscience is the faculty that discerns and applies an objective moral order it did not invent -- so a conscience can genuinely err about that order, and being sincere does not by itself make a conscience's judgment correct",
+      "explanation": "This is the load-bearing point underneath the whole level: if conscience answers to a real, discoverable order (the natural law), then sincerity and correctness are two different things, which is exactly what makes the invincible/vincible ignorance distinction meaningful in the first place.",
+      "hint": "If conscience is discerning something real rather than inventing it, sincerity alone can't guarantee it got the answer right.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 40-53 (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1954-1960"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2377,
+      "prompt": "Veritatis Splendor teaches that certain acts are wrong 'always and per se, in other words, on account of their very ______, and quite apart from the ulterior intentions of the one acting and the circumstances' -- the technical basis for calling an act intrinsically evil.",
+      "correctAnswer": "object",
+      "explanation": "This is the encyclical's own precise language (n. 80) for what 'intrinsically evil' actually means: the wrongness attaches to the object of the act itself, prior to and regardless of whatever good intention or mitigating circumstance might surround it -- the exact principle proportionalism, rejected in this same level, denies.",
+      "hint": "This is the first of the three sources of morality named earlier in this level.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 80 (1993)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A pastor must decide, in a genuinely hard case, how best to walk with someone in an irregular situation toward eventual full conformity with Church teaching -- a real question of pastoral prudence. How does this kind of question differ from the proportionalism question this level already settled?",
+      "choices": [
+        "The moral principle itself (e.g., that a given act remains objectively wrong) is settled and not up for renegotiation; the pastoral question is instead about the prudential, practical path of accompanying a real person toward it -- a different kind of question from whether the principle is true at all",
+        "There is no real difference -- both are equally open questions the Church has left undecided",
+        "Pastoral prudence means the underlying moral principle changes case by case",
+        "Pastoral questions are always doctrinal questions in disguise"
+      ],
+      "correctAnswer": "The moral principle itself (e.g., that a given act remains objectively wrong) is settled and not up for renegotiation; the pastoral question is instead about the prudential, practical path of accompanying a real person toward it -- a different kind of question from whether the principle is true at all",
+      "explanation": "This is the distinction this level is built to keep sharp: a settled doctrinal principle (like the rejection of proportionalism) is not the same kind of question as a genuinely open pastoral-prudential judgment about how best to accompany a particular person in a particular circumstance. Blurring the two -- treating pastoral flexibility as if it renegotiated the principle -- is exactly the mistake to avoid.",
+      "hint": "Ask whether the TRUTH of the principle is in question, or just the best PRACTICAL way to walk someone toward living it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1783-1785"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Someone argues: 'if circumstances and intention both matter to an act's morality, then nothing is ever wrong in itself -- it all just depends on the situation.' Where does this argument go wrong, per this level's whole framework?",
+      "choices": [
+        "It ignores that the OBJECT of an act is itself one of the three sources, and that some objects are wrong regardless of intention or circumstance -- circumstances and intention can make an otherwise good act bad, but they cannot make an intrinsically evil object good",
+        "It is entirely correct -- morality really does reduce to circumstances alone",
+        "Intention and circumstances are irrelevant to morality and should be ignored entirely",
+        "The Church has no teaching on how object, intention, and circumstances relate to one another"
+      ],
+      "correctAnswer": "It ignores that the OBJECT of an act is itself one of the three sources, and that some objects are wrong regardless of intention or circumstance -- circumstances and intention can make an otherwise good act bad, but they cannot make an intrinsically evil object good",
+      "explanation": "This is a common one-directional misreading of the three-sources framework: circumstances and intention genuinely affect an act's morality, but that influence only runs one way for intrinsically evil objects -- they can never redeem what is wrong by its object, only ever further corrupt or (for otherwise-neutral acts) shape what would otherwise be acceptable.",
+      "hint": "Ask whether the three sources work symmetrically in both directions, or only in one direction for certain acts.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 81 (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1756"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each moral-theology claim to its status in Catholic teaching.",
+      "pairs": [
+        {
+          "left": "Proportionalism (consequences alone can justify any act)",
+          "right": "Settled error, rejected by Veritatis Splendor"
+        },
+        {
+          "left": "Fundamental option theory (deep orientation independent of concrete acts)",
+          "right": "Settled error, rejected by Veritatis Splendor"
+        },
+        {
+          "left": "Congruism vs. Bañezian premotion (how grace and will cooperate)",
+          "right": "Live, Church-permitted internal debate (see level 8)"
+        },
+        {
+          "left": "How best to pastorally accompany someone toward a settled moral truth",
+          "right": "Genuinely open prudential question, not a doctrinal one"
+        }
+      ],
+      "explanation": "Not every disputed-sounding question in Catholic moral and doctrinal theology has the same status -- some are genuinely settled and rejected, some are genuinely still open between legitimate schools, and some are practical questions about applying a settled truth, not about the truth itself. Confusing these categories is the single most common error a well-meaning explainer makes.",
+      "hint": "Ask, for each item, whether the Church has actually closed the question, left it open between schools, or left open only how to apply it pastorally.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 65-77 (1993)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l9-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Why did Veritatis Splendor need to be written at all -- what was actually at stake, given that the Church had always taught object, intention, and circumstances mattered to morality?",
+      "choices": [
+        "Some Catholic moral theologians had begun using the three-sources language itself to argue for proportionalist conclusions -- using the Church's own traditional vocabulary to smuggle in a rejected calculus of consequences -- so the encyclical had to state precisely what the traditional framework does and does not permit",
+        "The Church had never before addressed the relationship between object, intention, and circumstances",
+        "The encyclical was written to introduce an entirely new moral framework replacing the traditional one",
+        "Nothing was actually at stake; the encyclical merely repeated settled teaching with no new occasion"
+      ],
+      "correctAnswer": "Some Catholic moral theologians had begun using the three-sources language itself to argue for proportionalist conclusions -- using the Church's own traditional vocabulary to smuggle in a rejected calculus of consequences -- so the encyclical had to state precisely what the traditional framework does and does not permit",
+      "explanation": "This is worth knowing precisely because it shows why this level's distinctions matter in practice: proportionalism did not present itself as a rival framework from outside the tradition -- it was argued for using the Church's own traditional terms, redefined at the edges. Veritatis Splendor's task was precision against exactly that kind of internal redefinition, the same pattern Heresies (level 8) named in modern errors that restate old claims in respectable-sounding new language.",
+      "hint": "The error this encyclical answers didn't come from outside the tradition -- it came from redefining the tradition's own words.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 4-5, 75 (1993)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Nearly every liturgical prayer in the Roman Rite closes with some form of 'through Christ our Lord, in the unity of the Holy Spirit.' What theological logic does this closing formula actually express, rather than merely decorate?",
+      "choices": [
+        "Prayer to the Father is offered THROUGH Christ, the one mediator, and IN the Holy Spirit, who unites the Church to Christ -- the doxology is the Trinity's own inner structure of relation made audible in worship, not an arbitrary formula",
+        "The formula is simply a customary way to end a prayer with no theological content",
+        "It expresses that the Father, Son, and Spirit are three separate gods being addressed in sequence",
+        "It indicates that Christ and the Holy Spirit are lesser intermediaries than the Father"
+      ],
+      "correctAnswer": "Prayer to the Father is offered THROUGH Christ, the one mediator, and IN the Holy Spirit, who unites the Church to Christ -- the doxology is the Trinity's own inner structure of relation made audible in worship, not an arbitrary formula",
+      "explanation": "This closes the loop the topic opened at the Creed level: the Trinity was first taught as a set of propositions (one God, three Persons); here, that same structure turns out to already be built into the Church's most ordinary prayer, prayed through Christ and in the Spirit toward the Father, exactly the pattern the doctrine describes.",
+      "hint": "Ask what role each Person plays in the formula -- through whom, and in whom, is the prayer offered?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2664-2665"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "CCC 460, echoing the Fathers, says 'the Son of God became man so that we might become God.' A different tradition reads a nearly identical-sounding line as teaching that faithful humans eventually become gods equal to God, ruling their own worlds. What precisely does the Catholic doctrine of divinization (theosis) affirm instead?",
+      "choices": [
+        "A real participation in the divine nature by grace (2 Peter 1:4) -- the creature is truly elevated and shares in God's own life -- while remaining absolutely a creature, never becoming ontologically equal to or independent of the one God who alone possesses divine nature by nature rather than by gift",
+        "That believers literally become additional, separate gods equal in nature to the Father",
+        "That divinization is a purely symbolic metaphor with no real change in the person at all",
+        "That only the ordained clergy can be divinized, not the laity"
+      ],
+      "correctAnswer": "A real participation in the divine nature by grace (2 Peter 1:4) -- the creature is truly elevated and shares in God's own life -- while remaining absolutely a creature, never becoming ontologically equal to or independent of the one God who alone possesses divine nature by nature rather than by gift",
+      "explanation": "This is the precision point the curriculum plan flags as the one to get exactly right: 'participation by grace' and 'ontological equality with God' sound similar in casual speech but are two entirely different claims. Catholic theosis is real but always creaturely and gift-based; it never dissolves the Creator/creature distinction the way an exaltation doctrine making believers into gods in their own right would.",
+      "hint": "Ask whether the creature ever stops being a creature in this account -- Catholic teaching says no, always.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Peter 1:4"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Complete the argument: 'If holiness -- real, deep union with God -- were reserved only for clergy and religious, then the ordinary layperson's vocation would have no genuine share in the Church's own call... but Lumen Gentium 39-42 actually teaches...'",
+      "choices": [
+        "...that all the faithful, of whatever state or rank, are called to the fullness of the Christian life and to the perfection of charity -- holiness is universal to every baptized person's vocation, not a special track reserved to a few",
+        "...that only priests and religious are truly called to holiness, and the laity's vocation is of a fundamentally lower order",
+        "...that holiness is impossible to attain in this life for anyone",
+        "...that Lumen Gentium declines to address the question of universal holiness at all"
+      ],
+      "correctAnswer": "...that all the faithful, of whatever state or rank, are called to the fullness of the Christian life and to the perfection of charity -- holiness is universal to every baptized person's vocation, not a special track reserved to a few",
+      "explanation": "This is one of Vatican II's most practically significant teachings: holiness is not a specialist's project. It follows directly from the divine indwelling this level has already covered -- every baptized person genuinely shares in Trinitarian life, so the call to live that out fully cannot be limited to a subset of the baptized.",
+      "hint": "This is Vatican II's 'universal call to holiness' teaching -- ask who, specifically, it says the call reaches.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 39-42 (1964)"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "Praying the Sign of the Cross -- 'In the name of the Father, and of the Son, and of the Holy Spirit' -- names three Persons under a single 'name' (singular), a small grammatical detail that itself guards against modalism (they are not masks of one Person) and _______ (they are not three separate gods) in a single gesture.",
+      "correctAnswer": "tritheism",
+      "explanation": "The prayer's own grammar is doing real theological work: 'name,' singular, over three Persons named individually, holds unity of nature and real distinction of Persons together in one breath -- exactly the balance modalism (collapsing the three into one Person wearing masks) and tritheism (splitting the one God into three separate gods) each fail to hold.",
+      "hint": "This is the error of treating the three Persons as three separate gods rather than one God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 232-233"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "What does the Catechism teach concretely changes at baptism regarding the Trinity's own presence in the baptized person, not merely as a legal status but as a real indwelling?",
+      "choices": [
+        "The Holy Trinity itself comes to dwell in the soul in a new way -- the baptized person becomes, in a real and not merely titular sense, a temple of the Holy Spirit and a dwelling of the Father and the Son, sharing in the very love that unites the Persons",
+        "Nothing changes at baptism beyond an external legal membership in the Church",
+        "Only the Holy Spirit indwells the baptized; the Father and Son remain entirely external to the soul",
+        "Divine indwelling is a later medieval invention with no basis in the Catechism"
+      ],
+      "correctAnswer": "The Holy Trinity itself comes to dwell in the soul in a new way -- the baptized person becomes, in a real and not merely titular sense, a temple of the Holy Spirit and a dwelling of the Father and the Son, sharing in the very love that unites the Persons",
+      "explanation": "This is what makes 'sanctifying grace' (level 8's vocabulary) and 'divinization' (this level's vocabulary) point to the same reality: baptism is not a change in legal status alone but a real new presence of the Trinity within the soul, which is why the Church can speak of the baptized sharing, however creaturely, in the Trinity's own inner life of love.",
+      "hint": "Ask whether this indwelling is described as merely symbolic, or as something the Catechism treats as real.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1997-1999"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A devout Catholic prays constantly and sincerely 'to Jesus,' rarely addressing the Father or the Holy Spirit by name. Does the Catechism treat this as a problem needing correction, or as a perfectly adequate form of Christian prayer?",
+      "choices": [
+        "The Catechism affirms that authentic Christian prayer is properly Trinitarian in its full shape -- prayer to Jesus is entirely legitimate and good, but the Church's own tradition of prayer (as in the doxology) draws the whole Trinity in, and catechesis should help a believer's prayer life grow into that fuller shape rather than stopping at devotion to Jesus alone",
+        "The Catechism condemns praying to Jesus directly as improper and requires addressing only the Father",
+        "The Catechism treats the three Persons as fully interchangeable, so it makes no difference at all how one prays",
+        "The Catechism has no teaching whatsoever on the shape of Christian prayer"
+      ],
+      "correctAnswer": "The Catechism affirms that authentic Christian prayer is properly Trinitarian in its full shape -- prayer to Jesus is entirely legitimate and good, but the Church's own tradition of prayer (as in the doxology) draws the whole Trinity in, and catechesis should help a believer's prayer life grow into that fuller shape rather than stopping at devotion to Jesus alone",
+      "explanation": "This is a genuinely practical, not merely academic, conclusion for this level: prayer to Jesus is not wrong, but the fullness the Church's own liturgical tradition models is explicitly Trinitarian -- through Christ, in the Spirit, to the Father -- and a believer's prayer life has room to grow into that whole shape.",
+      "hint": "This isn't a question of right versus wrong prayer -- it's a question of a fuller versus a narrower shape of the same true devotion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2664-2672"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or false: because divinization means a real participation in the divine nature, the Catechism teaches that the distinction between Creator and creature is eventually erased in the life of a saint in heaven.",
+      "correctAnswer": false,
+      "explanation": "This is the single most important guardrail on this level's whole theme: however real and complete a saint's participation in divine life becomes, the Creator/creature distinction is never erased -- the saint remains, eternally, a creature graced to share in God's life, not God. Losing this distinction is exactly what would collapse Catholic theosis into the exaltation doctrines this level explicitly distinguishes itself from.",
+      "hint": "This is the exact line Catholic theosis draws against a Mormon-style exaltation reading -- ask whether that line ever moves.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Peter 1:4"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each element of Trinitarian prayer and life to what it concretely expresses.",
+      "pairs": [
+        {
+          "left": "\"Through Christ our Lord, in the unity of the Holy Spirit\"",
+          "right": "The Trinity's inner relations, made audible in the Church's ordinary worship"
+        },
+        {
+          "left": "Divine indwelling at baptism",
+          "right": "A real, not merely titular, new presence of the Trinity in the soul"
+        },
+        {
+          "left": "2 Peter 1:4's \"participation in the divine nature\"",
+          "right": "Real elevation by grace, while the Creator/creature distinction remains absolute"
+        },
+        {
+          "left": "The universal call to holiness (Lumen Gentium 39-42)",
+          "right": "Every baptized person, not only clergy and religious, is called to the fullness of charity"
+        }
+      ],
+      "explanation": "Every item here traces back to the same source: the Trinity, first taught propositionally at the Creed level, actually reaching into how the Church prays, what happens at baptism, what divinization means, and who is called to holiness. Doctrine that stays abstract has failed this level's whole point.",
+      "hint": "Each of these is the same Trinitarian doctrine showing up in a different, concrete part of Christian life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1997-1999"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "This topic began at the Creed level naming the Trinity as one God in three Persons -- a claim about God's own inner life, seemingly abstract. What has this final level demonstrated about that claim?",
+      "choices": [
+        "That the doctrine is not merely a speculative proposition to be affirmed but the actual shape of the Church's prayer, the reality of baptismal indwelling, the meaning of divinization, and the universal call to holiness -- dogma that reaches all the way into how a believer actually lives and prays this week",
+        "That the doctrine of the Trinity has no practical bearing on Christian life or prayer at all",
+        "That the earlier Creed-level teaching was actually mistaken and needs correction here",
+        "That prayer and doctrine are entirely separate concerns with no real connection"
+      ],
+      "correctAnswer": "That the doctrine is not merely a speculative proposition to be affirmed but the actual shape of the Church's prayer, the reality of baptismal indwelling, the meaning of divinization, and the universal call to holiness -- dogma that reaches all the way into how a believer actually lives and prays this week",
+      "explanation": "This is the whole point of ending the topic here rather than at a purely propositional level: dogma, rightly taught, is never merely information to be affirmed -- it is the actual shape of a life. The Trinity named at the Creed level and the Trinity prayed to this week are the same reality, not two different subjects.",
+      "hint": "This is the level's own capstone point -- ask what kind of thing dogma turns out to actually be, by the end of this arc.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2565"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A skeptic says: 'Trinitarian doctrine is a fourth-century philosophical invention with no connection to how ordinary Christians actually pray.' Drawing on this entire level, what is the most direct rebuttal?",
+      "choices": [
+        "The Church's most ordinary, constantly repeated prayers -- the Sign of the Cross, the doxology closing the liturgy -- are themselves structured Trinitarianly, addressing the Father, through the Son, in the Spirit, in a pattern of worship that predates and is presupposed by the fourth-century councils' precise vocabulary rather than being invented by them",
+        "The skeptic is entirely correct, and Trinitarian prayer only began after the fourth-century councils invented the doctrine",
+        "There is no connection between doctrine and prayer, so the objection cannot really be answered",
+        "Trinitarian prayer was invented in the Middle Ages, unrelated to the fourth-century councils"
+      ],
+      "correctAnswer": "The Church's most ordinary, constantly repeated prayers -- the Sign of the Cross, the doxology closing the liturgy -- are themselves structured Trinitarianly, addressing the Father, through the Son, in the Spirit, in a pattern of worship that predates and is presupposed by the fourth-century councils' precise vocabulary rather than being invented by them",
+      "explanation": "This is the strongest apologetic point this level yields: the councils (already covered in Councils and Heresies) gave the Trinity precise technical vocabulary in response to specific errors, but the Church's Trinitarian pattern of worship -- baptizing and praying in the name of Father, Son, and Spirit -- is attested from the New Testament and sub-apostolic era onward, before that vocabulary existed. The doctrine clarified an already-existing pattern of worship; it did not invent one from nothing.",
+      "hint": "Ask which came first -- the technical vocabulary, or the pattern of prayer the vocabulary was later developed to defend.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 232"
+        }
+      ]
     }
   ]
 }
