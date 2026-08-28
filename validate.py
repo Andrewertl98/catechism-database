@@ -50,6 +50,30 @@ AUTHORITATIVE_CITATION_TYPES = {"ccc", "scripture", "council", "magisterial_docu
 
 LEVELS = ["1", "2", "3", "4", "5"]
 
+# The six doctrinally load-bearing topics hard-gated behind theological
+# reviewer sign-off -- mirrors export_review_packet.py's HARD_GATED set. The
+# gate itself is level-based, not whole-topic (see ContentDatabase.swift's
+# hardGateAppliesFromLevel = 6): levels 1-5 of these topics shipped at
+# launch and are already fully live, unreviewed L6+ is what's actually held
+# back. miniGameEligible follows the same boundary -- L1-5 content from
+# these topics is fine to tag (MINI-GAMES-SPEC.md explicitly names Heresies
+# L1-5's Arianism/Docetism/iconoclasm as source material); L6+ is not,
+# since a timed/binary format shouldn't surface content the app itself
+# hasn't cleared for users yet.
+HARD_GATED_TOPICS = {
+    "dogmas-and-doctrine", "councils", "heresies",
+    "apologetics", "answering-objections", "metaphysics",
+}
+HARD_GATE_APPLIES_FROM_LEVEL = 6
+
+# multiple_choice/true_false feed the timed "Heresy or Orthodox" sort;
+# matching_pairs feeds the untimed "Saint / Feast-Day" game. The taxonomy's
+# "timed/binary formats only for unambiguous propositions" restriction in
+# MINI-GAMES-SPEC.md specifically targets the timed game -- untimed factual
+# pairing doesn't carry the same "trains fast pattern-matching over real
+# understanding" risk, so matching_pairs is eligible too, just never timed.
+MINI_GAME_ELIGIBLE_TYPES = {"multiple_choice", "true_false", "matching_pairs"}
+
 
 class LoadError(Exception):
     pass
@@ -77,6 +101,27 @@ def check_citation_policy(question: dict, location: str, errors: list[str]) -> N
             f"{location}: question '{question.get('id', '?')}' has no authoritative "
             f"Magisterial citation (ccc / scripture / council / magisterial_document / catechism). "
             f"Church Fathers alone are not sufficient."
+        )
+
+
+def check_mini_game_eligibility(question: dict, file_slug: str, location: str, errors: list[str]) -> None:
+    """miniGameEligible: true is only legal on multiple_choice/true_false
+    questions outside the six hard-gated topics -- see MINI-GAMES-SPEC.md's
+    content-type taxonomy and schema.json's field description."""
+    if not question.get("miniGameEligible"):
+        return
+    if file_slug in HARD_GATED_TOPICS and question.get("level", 0) >= HARD_GATE_APPLIES_FROM_LEVEL:
+        errors.append(
+            f"{location}: question '{question.get('id', '?')}' has miniGameEligible: true "
+            f"but is level {question.get('level')} of hard-gated topic '{file_slug}' -- "
+            f"mini-game content can't come from a level still awaiting theological "
+            f"reviewer sign-off (levels below {HARD_GATE_APPLIES_FROM_LEVEL} are fine)."
+        )
+    if question.get("type") not in MINI_GAME_ELIGIBLE_TYPES:
+        errors.append(
+            f"{location}: question '{question.get('id', '?')}' has miniGameEligible: true "
+            f"but type '{question.get('type')}' -- only multiple_choice and true_false "
+            f"are eligible for a timed/binary mini-game format."
         )
 
 
@@ -145,6 +190,7 @@ def main() -> None:
                 )
 
             check_citation_policy(q, path.name, errors)
+            check_mini_game_eligibility(q, file_slug, path.name, errors)
 
             if not q.get("hint"):
                 warnings.append(
