@@ -2492,6 +2492,78 @@
           "reference": "Second Vatican Council, Lumen Gentium 40"
         }
       ]
+    },
+    {
+      "id": "saints-l1-011",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1000,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Patrick",
+          "right": "March 17"
+        },
+        {
+          "left": "St. Joseph",
+          "right": "March 19"
+        },
+        {
+          "left": "St. Anthony of Padua",
+          "right": "June 13"
+        },
+        {
+          "left": "St. Francis of Assisi",
+          "right": "October 4"
+        }
+      ],
+      "explanation": "The Church marks a saint's feast day, most often the date of their death -- their 'birth' into eternal life -- as a day for the whole Church to honor them and ask their intercession.",
+      "hint": "One of these dates is also a national holiday for the country whose patron he is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "saints-l1-012",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1000,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Nicholas",
+          "right": "December 6"
+        },
+        {
+          "left": "St. Francis Xavier",
+          "right": "December 3"
+        },
+        {
+          "left": "St. Teresa of Ávila",
+          "right": "October 15"
+        },
+        {
+          "left": "St. Thérèse of Lisieux",
+          "right": "October 1"
+        }
+      ],
+      "explanation": "Two Carmelite Doctors of the Church, one Jesuit missionary, and the historical bishop behind a much later folk legend -- each honored on the day the Church assigns them.",
+      "hint": "Two of these four are Doctors of the Church, and share part of the same name.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
     }
   ]
 }
