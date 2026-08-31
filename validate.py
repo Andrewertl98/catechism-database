@@ -67,12 +67,16 @@ HARD_GATED_TOPICS = {
 HARD_GATE_APPLIES_FROM_LEVEL = 6
 
 # multiple_choice/true_false feed the timed "Heresy or Orthodox" sort;
-# matching_pairs feeds the untimed "Saint / Feast-Day" game. The taxonomy's
-# "timed/binary formats only for unambiguous propositions" restriction in
-# MINI-GAMES-SPEC.md specifically targets the timed game -- untimed factual
-# pairing doesn't carry the same "trains fast pattern-matching over real
-# understanding" risk, so matching_pairs is eligible too, just never timed.
-MINI_GAME_ELIGIBLE_TYPES = {"multiple_choice", "true_false", "matching_pairs"}
+# matching_pairs feeds the untimed "Saint / Feast-Day," "Church Latin
+# Match," and "Prayer Match" games. fill_blank feeds the untimed "Prayer
+# Fill-In" game, added Sep 1, 2026 -- reciting a known prayer's missing
+# word is real recall, not a reflex test, same "never timed" reasoning
+# matching_pairs already established. The taxonomy's "timed/binary formats
+# only for unambiguous propositions" restriction in MINI-GAMES-SPEC.md
+# specifically targets the timed games (Heresy or Orthodox, Virtue or
+# Vice) -- untimed factual pairing/recall doesn't carry the same "trains
+# fast pattern-matching over real understanding" risk.
+MINI_GAME_ELIGIBLE_TYPES = {"multiple_choice", "true_false", "matching_pairs", "fill_blank"}
 
 
 class LoadError(Exception):
@@ -120,8 +124,8 @@ def check_mini_game_eligibility(question: dict, file_slug: str, location: str, e
     if question.get("type") not in MINI_GAME_ELIGIBLE_TYPES:
         errors.append(
             f"{location}: question '{question.get('id', '?')}' has miniGameEligible: true "
-            f"but type '{question.get('type')}' -- only multiple_choice and true_false "
-            f"are eligible for a timed/binary mini-game format."
+            f"but type '{question.get('type')}' -- only multiple_choice, true_false, "
+            f"matching_pairs, and fill_blank are eligible for a mini-game."
         )
 
 
