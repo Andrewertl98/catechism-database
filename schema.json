@@ -4,14 +4,21 @@
   "title": "FIDES Topic Content File",
   "description": "Schema for a single topics/<slug>.json content file in the FIDES catechism-database. Every question must carry at least one authoritative Magisterial citation (CCC, Scripture, Council text, or magisterial document) -- Church Fathers alone are never sufficient.",
   "type": "object",
-  "required": ["topic", "questions"],
+  "required": [
+    "topic",
+    "questions"
+  ],
   "additionalProperties": false,
   "properties": {
-    "topic": { "$ref": "#/definitions/topicSlug" },
+    "topic": {
+      "$ref": "#/definitions/topicSlug"
+    },
     "questions": {
       "type": "array",
       "minItems": 1,
-      "items": { "$ref": "#/definitions/question" }
+      "items": {
+        "$ref": "#/definitions/question"
+      }
     }
   },
   "definitions": {
@@ -31,7 +38,8 @@
         "answering-objections",
         "prayer",
         "church-latin",
-        "virtues-and-vices"
+        "virtues-and-vices",
+        "our-lady"
       ]
     },
     "question": {
@@ -65,7 +73,12 @@
         },
         "type": {
           "type": "string",
-          "enum": ["multiple_choice", "true_false", "matching_pairs", "fill_blank"]
+          "enum": [
+            "multiple_choice",
+            "true_false",
+            "matching_pairs",
+            "fill_blank"
+          ]
         },
         "difficultyElo": {
           "type": "integer",
@@ -79,13 +92,18 @@
         },
         "choices": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "minItems": 2,
           "maxItems": 6,
           "description": "Used by multiple_choice only."
         },
         "correctAnswer": {
-          "type": ["string", "boolean"],
+          "type": [
+            "string",
+            "boolean"
+          ],
           "description": "Used by multiple_choice (string, must match a choice), true_false (boolean), and fill_blank (string). Omitted for matching_pairs, where 'pairs' itself is the answer key."
         },
         "pairs": {
@@ -93,11 +111,18 @@
           "minItems": 2,
           "items": {
             "type": "object",
-            "required": ["left", "right"],
+            "required": [
+              "left",
+              "right"
+            ],
             "additionalProperties": false,
             "properties": {
-              "left": { "type": "string" },
-              "right": { "type": "string" }
+              "left": {
+                "type": "string"
+              },
+              "right": {
+                "type": "string"
+              }
             }
           },
           "description": "Used by matching_pairs only."
@@ -115,12 +140,20 @@
         "citations": {
           "type": "array",
           "minItems": 1,
-          "items": { "$ref": "#/definitions/citation" },
+          "items": {
+            "$ref": "#/definitions/citation"
+          },
           "contains": {
             "type": "object",
             "properties": {
               "type": {
-                "enum": ["ccc", "scripture", "council", "magisterial_document", "catechism"]
+                "enum": [
+                  "ccc",
+                  "scripture",
+                  "council",
+                  "magisterial_document",
+                  "catechism"
+                ]
               }
             }
           },
@@ -128,16 +161,24 @@
         },
         "tags": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
         "audit_status": {
           "type": "string",
-          "enum": ["audited", "community", "pending"],
+          "enum": [
+            "audited",
+            "community",
+            "pending"
+          ],
           "description": "Set to 'audited' only once a credentialed theological reviewer has actually approved this specific question -- see sign_audit_manifest.swift, which reads exactly this field to build manifest.json's signed auditedQuestionIDs list. Omit entirely for unreviewed content; the app and this field both default to 'pending' when absent. Setting this by hand does NOT itself unlock anything in the app -- AuditManifestVerifier only trusts IDs that are also present in manifest.json's cryptographically signed auditedQuestionIDs list, precisely so a stray edit here (or a compromised GitHub account) can't forge an audited claim."
         },
         "contributors": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "description": "GitHub handles of contributors, shown on the in-app credits screen. Optional; omitted entirely for most content so far."
         },
         "miniGameEligible": {
@@ -147,37 +188,92 @@
       },
       "allOf": [
         {
-          "if": { "properties": { "type": { "const": "multiple_choice" } } },
-          "then": { "required": ["choices", "correctAnswer"] }
-        },
-        {
-          "if": { "properties": { "type": { "const": "true_false" } } },
+          "if": {
+            "properties": {
+              "type": {
+                "const": "multiple_choice"
+              }
+            }
+          },
           "then": {
-            "required": ["correctAnswer"],
-            "properties": { "correctAnswer": { "type": "boolean" } }
+            "required": [
+              "choices",
+              "correctAnswer"
+            ]
           }
         },
         {
-          "if": { "properties": { "type": { "const": "matching_pairs" } } },
-          "then": { "required": ["pairs"] }
+          "if": {
+            "properties": {
+              "type": {
+                "const": "true_false"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "correctAnswer"
+            ],
+            "properties": {
+              "correctAnswer": {
+                "type": "boolean"
+              }
+            }
+          }
         },
         {
-          "if": { "properties": { "type": { "const": "fill_blank" } } },
+          "if": {
+            "properties": {
+              "type": {
+                "const": "matching_pairs"
+              }
+            }
+          },
           "then": {
-            "required": ["correctAnswer"],
-            "properties": { "correctAnswer": { "type": "string" } }
+            "required": [
+              "pairs"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "fill_blank"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "correctAnswer"
+            ],
+            "properties": {
+              "correctAnswer": {
+                "type": "string"
+              }
+            }
           }
         }
       ]
     },
     "citation": {
       "type": "object",
-      "required": ["type", "reference"],
+      "required": [
+        "type",
+        "reference"
+      ],
       "additionalProperties": false,
       "properties": {
         "type": {
           "type": "string",
-          "enum": ["ccc", "scripture", "council", "magisterial_document", "church_father", "catechism"]
+          "enum": [
+            "ccc",
+            "scripture",
+            "council",
+            "magisterial_document",
+            "church_father",
+            "catechism"
+          ]
         },
         "reference": {
           "type": "string",
