@@ -1,0 +1,757 @@
+{
+  "topic": "our-lady",
+  "questions": [
+    {
+      "id": "our-lady-l1-001",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Which angel was sent to announce to Mary that she would conceive and bear a son?",
+      "choices": ["Gabriel", "Michael", "Raphael", "Uriel"],
+      "correctAnswer": "Gabriel",
+      "explanation": "Luke names the angel Gabriel, sent from God to Nazareth. The same Gabriel had earlier announced the birth of John the Baptist to Zechariah in the Temple, which is part of how Luke ties the two births together.",
+      "hint": "The same angel appears earlier in Luke's first chapter, announcing another birth in the Temple.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:26-27",
+          "quote": "In the sixth month, the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-002",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 900,
+      "prompt": "Mary's answer to the angel — 'Behold, I am the ____ of the Lord. May it be done to me according to your word' — is known as her fiat.",
+      "correctAnswer": "handmaid",
+      "explanation": "'Fiat' is simply the Latin for 'let it be done.' Mary's consent is genuinely free: the Incarnation waits on a real yes from a real person, which is why the Church has always treated this moment as the pattern of all obedient faith.",
+      "hint": "The word means a servant, and it is the title she gives herself rather than one given to her.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:38",
+          "quote": "Mary said, 'Behold, I am the handmaid of the Lord. May it be done to me according to your word.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-003",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 900,
+      "prompt": "Mary's song of praise during her visit to Elizabeth is traditionally called the:",
+      "choices": ["Magnificat", "Benedictus", "Nunc Dimittis", "Te Deum"],
+      "correctAnswer": "Magnificat",
+      "explanation": "It takes its name from its first word in Latin — 'Magnificat anima mea Dominum,' 'My soul magnifies the Lord.' The Church prays it every single day at Evening Prayer, which makes it perhaps the most frequently recited passage of Scripture after the Psalms.",
+      "hint": "Each of these four canticles is named from its opening word in Latin; this one means 'magnifies.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-47",
+          "quote": "And Mary said: 'My soul proclaims the greatness of the Lord; my spirit rejoices in God my savior.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-004",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: In the Magnificat, Mary says that God has 'thrown down the rulers from their thrones but lifted up the lowly.'",
+      "correctAnswer": true,
+      "explanation": "True. The Magnificat is far more pointed than its gentle reputation suggests — it is a song about God overturning the world's order, filling the hungry and sending the rich away empty. Mary sings it as a young woman of no status in an occupied province.",
+      "hint": "The song is a good deal more political than most people remember it being.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:52-53",
+          "quote": "He has thrown down the rulers from their thrones but lifted up the lowly. The hungry he has filled with good things; the rich he has sent away empty."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-005",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 900,
+      "prompt": "When Mary arrived at Elizabeth's house, what happened according to Luke?",
+      "choices": [
+        "The infant John leapt in Elizabeth's womb, and she was filled with the Holy Spirit",
+        "Elizabeth did not recognize her until Mary explained",
+        "Zechariah regained his speech immediately",
+        "An angel appeared to them both"
+      ],
+      "correctAnswer": "The infant John leapt in Elizabeth's womb, and she was filled with the Holy Spirit",
+      "explanation": "John the Baptist begins his work of pointing to Christ before either child is born. Elizabeth's cry — 'Blessed are you among women, and blessed is the fruit of your womb' — became the second half of the Hail Mary.",
+      "hint": "The first person to react to Christ's presence in this scene had not yet been born.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:41-42",
+          "quote": "When Elizabeth heard Mary's greeting, the infant leaped in her womb, and Elizabeth, filled with the holy Spirit, cried out in a loud voice and said, 'Most blessed are you among women, and blessed is the fruit of your womb.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-006",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The prayer 'Hail Mary' is composed partly of words spoken by the angel Gabriel and partly of words spoken by Elizabeth.",
+      "correctAnswer": true,
+      "explanation": "True. 'Hail, full of grace, the Lord is with you' is Gabriel's greeting; 'blessed are you among women, and blessed is the fruit of your womb' is Elizabeth's. The petition 'Holy Mary, Mother of God, pray for us sinners' was added by the Church later.",
+      "hint": "Two different speakers from Luke's first chapter supply the opening of this prayer.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "And coming to her, he said, 'Hail, favored one! The Lord is with you.'"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:42",
+          "quote": "Most blessed are you among women, and blessed is the fruit of your womb."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-007",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 950,
+      "prompt": "At the wedding at Cana, what does Mary say to the servants?",
+      "choices": [
+        "\"Do whatever he tells you.\"",
+        "\"My son will provide.\"",
+        "\"Bring the wine to the steward.\"",
+        "\"Wait for his hour.\""
+      ],
+      "correctAnswer": "\"Do whatever he tells you.\"",
+      "explanation": "These are the last recorded words of Mary in Scripture, and they point away from herself entirely. Every authentic Marian devotion has the same shape: it ends at her Son, not at her.",
+      "hint": "Her final recorded words in all of Scripture direct attention somewhere other than herself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 2:5",
+          "quote": "His mother said to the servers, 'Do whatever he tells you.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-008",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 900,
+      "prompt": "From the Cross, Jesus said to the beloved disciple, 'Behold, your ____' — entrusting Mary to him, and him to Mary.",
+      "correctAnswer": "mother",
+      "explanation": "The Church has always read this as more than a practical arrangement for a widow's care. In giving his mother to the disciple, Christ gives her to every disciple — which is the root of calling Mary our mother at all.",
+      "hint": "He says one word to Mary about the disciple, and the matching word to the disciple about Mary.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 19:26-27",
+          "quote": "When Jesus saw his mother and the disciple there whom he loved, he said to his mother, 'Woman, behold, your son.' Then he said to the disciple, 'Behold, your mother.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-009",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 1000,
+      "prompt": "True or False: Mary is described as being present with the apostles in prayer before Pentecost.",
+      "correctAnswer": true,
+      "explanation": "True. Acts places her in the upper room with the Eleven, the women, and Jesus' relatives, devoted to prayer as they await the Spirit. She is present at the beginning of Christ's life and at the beginning of the Church's.",
+      "hint": "Look at what Acts says about the upper room in the days between the Ascension and Pentecost.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:14",
+          "quote": "All these devoted themselves with one accord to prayer, together with some women, and Mary the mother of Jesus, and his brothers."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l1-010",
+      "topic": "our-lady",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1000,
+      "prompt": "Match each moment in Mary's life to where it is recorded.",
+      "pairs": [
+        { "left": "The Annunciation", "right": "Luke 1 — Gabriel comes to Nazareth" },
+        { "left": "The Visitation", "right": "Luke 1 — Elizabeth's greeting and the Magnificat" },
+        { "left": "The wedding at Cana", "right": "John 2 — 'Do whatever he tells you'" },
+        { "left": "At the foot of the Cross", "right": "John 19 — 'Behold, your mother'" }
+      ],
+      "explanation": "Luke gives us the infancy narratives; John gives us Mary at the beginning and the end of Jesus' public ministry. Between them, almost everything Scripture says about her directly.",
+      "hint": "Two of these come from Luke's opening chapter and two from John's Gospel.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:26-56"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 2:1-11; 19:25-27"
+        }
+      ],
+      "audit_status": "pending"
+    },
+
+    {
+      "id": "our-lady-l2-001",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1100,
+      "prompt": "The dogma of the Immaculate Conception teaches that Mary was preserved from original sin from what moment?",
+      "choices": [
+        "The first instant of her own conception",
+        "The Annunciation",
+        "Her birth",
+        "The birth of Christ"
+      ],
+      "correctAnswer": "The first instant of her own conception",
+      "explanation": "The dogma concerns Mary's own conception, not Christ's — the single most common confusion about it. Pius IX defined it in 1854: she was preserved free from all stain of original sin from the first instant, by a singular grace, and in view of the merits of Christ.",
+      "hint": "The name of the dogma tells you the moment; the confusion is over whose conception is meant.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-002",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1200,
+      "prompt": "True or False: The Immaculate Conception means Mary did not need to be redeemed by Christ.",
+      "correctAnswer": false,
+      "explanation": "False, and Ineffabilis Deus is explicit about it: she was preserved 'in view of the merits of Jesus Christ.' She is redeemed more completely than anyone else, not less — saved by being kept from the pit rather than lifted out of it. Mary herself calls God 'my savior' in the Magnificat.",
+      "hint": "The defining document says the grace was granted in view of something; ask in view of what.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "in view of the merits of Jesus Christ, the Savior of the human race"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:47",
+          "quote": "my spirit rejoices in God my savior"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-003",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The title 'Theotokos,' defined at the Council of Ephesus in 431, means:",
+      "choices": [
+        "God-bearer, or Mother of God",
+        "Ever-virgin",
+        "Queen of Heaven",
+        "Full of grace"
+      ],
+      "correctAnswer": "God-bearer, or Mother of God",
+      "explanation": "Ephesus defined the title against Nestorius, who preferred 'Christotokos,' Mother of Christ. The point of the definition is not primarily about Mary but about her Son: whoever was born of her was one divine Person, so she is truly the mother of God the Son made man.",
+      "hint": "The Greek splits into 'God' and 'bearer.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God (for she bore in a fleshly way the Word of God become flesh), let him be anathema."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-004",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Calling Mary 'Mother of God' means the Church teaches that she is the origin of the divine nature.",
+      "correctAnswer": false,
+      "explanation": "False, and this is exactly the objection Ephesus anticipated. A mother is mother of a person, not of a nature — no human mother originates her child's soul either. Mary is mother of the Person of the Word, who is God, and who took his human nature from her.",
+      "hint": "Ask what any mother is the mother of: a nature, or a person?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "begotten before the ages from the Father as regards his divinity, and in the last days the same, for us and for our salvation, from Mary the virgin, the God-bearer, as regards his humanity"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-005",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1200,
+      "prompt": "The dogma of the Assumption, defined by Pope Pius XII in 1950, teaches that Mary:",
+      "choices": [
+        "Was taken up body and soul into heavenly glory at the end of her earthly life",
+        "Did not die and was never on earth after Pentecost",
+        "Ascended into heaven by her own power",
+        "Appeared to the apostles after her death"
+      ],
+      "correctAnswer": "Was taken up body and soul into heavenly glory at the end of her earthly life",
+      "explanation": "Munificentissimus Deus defines that she was assumed body and soul into heavenly glory. Note the careful wording 'having completed the course of her earthly life' — the definition deliberately does not settle whether she died first, a question the Church has left open.",
+      "hint": "The word 'assumed' is passive on purpose: she is taken up rather than rising by her own power.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)",
+          "quote": "the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-006",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "What distinguishes Christ's Ascension from Mary's Assumption?",
+      "choices": [
+        "Christ ascends by his own divine power; Mary is taken up by God's power",
+        "Christ's happened bodily, Mary's only spiritually",
+        "One is defined dogma and the other is private opinion",
+        "There is no real distinction between them"
+      ],
+      "correctAnswer": "Christ ascends by his own divine power; Mary is taken up by God's power",
+      "explanation": "The grammar carries the theology. Christ ascends — active — because he is God. Mary is assumed — passive — because she is a creature receiving a gift. Both are bodily and both are taught by the Church; the difference is who is acting.",
+      "hint": "Compare the two words themselves: one is something you do, the other something done to you.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Acts 1:9",
+          "quote": "When he had said this, as they were looking on, he was lifted up, and a cloud took him from their sight."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-007",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1200,
+      "prompt": "The dogma of Mary's perpetual virginity holds that she was a virgin before, during, and ____ the birth of Christ.",
+      "correctAnswer": "after",
+      "explanation": "The traditional formula is 'ever-virgin' — ante partum, in partu, post partum. The Lateran Council of 649 stated it in exactly those three moments, and it is professed in the Creed's 'born of the Virgin Mary.'",
+      "hint": "The formula names three moments in sequence; you have the first two.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)",
+          "quote": "the holy Ever-Virgin and immaculate Mary... conceived without seed... and incorruptibly bore him, her virginity remaining equally inviolate after the birth"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-008",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: All four Marian dogmas were defined by popes in the nineteenth and twentieth centuries.",
+      "correctAnswer": false,
+      "explanation": "False. Only two were: the Immaculate Conception (1854) and the Assumption (1950). Theotokos was defined by the Council of Ephesus in 431, and perpetual virginity was taught by councils in the early Church, notably the Lateran Council of 649. Two are ancient conciliar definitions, two are modern papal ones.",
+      "hint": "Two of the four are more than a thousand years older than the other two.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-009",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1350,
+      "prompt": "Why does the Church insist that the Marian dogmas are ultimately statements about Christ?",
+      "choices": [
+        "Because each one protects something true about who Christ is and what he did",
+        "Because Mary is not important enough to define doctrine about",
+        "Because the dogmas were originally written about Christ and later applied to Mary",
+        "Because Marian doctrine is a matter of private devotion only"
+      ],
+      "correctAnswer": "Because each one protects something true about who Christ is and what he did",
+      "explanation": "Theotokos guards the unity of Christ's person. The Immaculate Conception guards the completeness of his redemption. The Assumption shows what his resurrection means for a redeemed creature. Marian doctrine has always developed as a defense of Christology, never in competition with it.",
+      "hint": "Ask what each dogma would leave unprotected about Christ if it were denied.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 65 (1964)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l2-010",
+      "topic": "our-lady",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1300,
+      "prompt": "Match each Marian dogma to what it affirms.",
+      "pairs": [
+        { "left": "Theotokos", "right": "She is truly the Mother of God the Son made man" },
+        { "left": "Immaculate Conception", "right": "Preserved from original sin from her own conception" },
+        { "left": "Perpetual Virginity", "right": "Virgin before, during, and after the birth of Christ" },
+        { "left": "The Assumption", "right": "Taken body and soul into heavenly glory" }
+      ],
+      "explanation": "These four are the whole of what the Church has dogmatically defined about Mary. Everything else — her titles, the apparitions, the devotions — is real but does not carry the same weight of definition.",
+      "hint": "Two of these concern her conception and her body; two concern her motherhood and her virginity.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+
+    {
+      "id": "our-lady-l3-001",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "In Luke's account of the Visitation, Elizabeth asks, 'How does this happen to me, that the mother of my Lord should come to me?' Which Old Testament scene does this deliberately echo?",
+      "choices": [
+        "David bringing the Ark of the Covenant to Jerusalem",
+        "Solomon dedicating the Temple",
+        "Moses receiving the Law at Sinai",
+        "Elijah on Mount Carmel"
+      ],
+      "correctAnswer": "David bringing the Ark of the Covenant to Jerusalem",
+      "explanation": "David asks almost the same question of the Ark: 'How can the ark of the Lord come to me?' Luke is building a deliberate parallel — Mary carrying Christ is the new Ark carrying the presence of God.",
+      "hint": "Someone else in Scripture asks nearly this exact question, and the answer he is asking about is an object, not a person.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:43",
+          "quote": "And how does this happen to me, that the mother of my Lord should come to me?"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-002",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: Both the Ark of the Covenant in 2 Samuel and Mary in Luke's Gospel remain for a period of three months before returning home.",
+      "correctAnswer": true,
+      "explanation": "True, and it is one of several details Luke lines up. The Ark stays three months in the house of Obed-edom; Mary stays about three months with Elizabeth. David also 'leaps' before the Ark, as John leaps in the womb.",
+      "hint": "Count the time each one stays, in the house of someone in the hill country of Judah.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:11",
+          "quote": "The ark of the Lord remained in the house of Obed-edom the Gittite for three months."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:56",
+          "quote": "Mary remained with her about three months and then returned to her home."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-003",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1350,
+      "prompt": "The Ark of the Covenant contained the tablets of the Law, a jar of manna, and Aaron's staff. Why do the Fathers see this as a figure of Mary?",
+      "choices": [
+        "She carried the Word made flesh, the true bread from heaven, and the great high priest",
+        "She was made of gold, as the Ark was overlaid with gold",
+        "She was kept in the Temple as a child",
+        "She was carried by the Levites as the Ark was"
+      ],
+      "correctAnswer": "She carried the Word made flesh, the true bread from heaven, and the great high priest",
+      "explanation": "The Ark held the Law written on stone, the manna, and the staff of the priest. Mary held in her womb the Word himself, the living Bread come down from heaven, and the eternal High Priest — the reality each of those objects only pointed toward.",
+      "hint": "Take the three contents one at a time and ask what each one prefigures in Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Hebrews 9:4",
+          "quote": "in which were the gold jar containing the manna, the staff of Aaron that had sprouted, and the tablets of the covenant"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 6:51",
+          "quote": "I am the living bread that came down from heaven."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-004",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1300,
+      "prompt": "Genesis 3:15, in which God tells the serpent he will put enmity between it and the woman and between their offspring, is traditionally called the ____ — the first announcement of the Gospel.",
+      "correctAnswer": "protoevangelium",
+      "explanation": "The word means simply 'first gospel.' The Church reads the woman of Genesis 3:15 in light of Mary and her offspring in light of Christ — the promise of a victory over the serpent, made at the very moment of the fall.",
+      "hint": "Greek: 'proto' for first, and the same root as 'evangelist.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-005",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Early Fathers such as St. Irenaeus called Mary the 'New Eve.' What is the parallel they draw?",
+      "choices": [
+        "Eve's disobedience at a tree brought death; Mary's obedience brought the author of life",
+        "Both women were created without a human mother",
+        "Both were tempted by the serpent and refused",
+        "Eve was the mother of Cain and Mary the mother of Abel's line"
+      ],
+      "correctAnswer": "Eve's disobedience at a tree brought death; Mary's obedience brought the author of life",
+      "explanation": "Irenaeus put it memorably: the knot of Eve's disobedience was loosed by Mary's obedience. It is the same logic Paul uses in calling Christ the new Adam — the pattern of the fall run in reverse.",
+      "hint": "The comparison is between two answers given by two women, not between their circumstances.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies III.22.4",
+          "quote": "the knot of Eve's disobedience was loosed by the obedience of Mary"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 56 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-006",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "In the kingdom of Judah, the 'gebirah' or queen mother held a real office at court. Why does this matter for understanding Mary?",
+      "choices": [
+        "The queen in Davidic Israel was the king's mother, not his wife, and she interceded with him for the people",
+        "It shows that queenship was purely honorary and carried no authority",
+        "It proves Mary was of royal blood on her mother's side",
+        "It explains why Jesus called her 'woman' rather than 'mother'"
+      ],
+      "correctAnswer": "The queen in Davidic Israel was the king's mother, not his wife, and she interceded with him for the people",
+      "explanation": "Solomon has a throne brought in for Bathsheba at his right hand, and she comes to him bearing a petition. If Christ is the Davidic king, the office of queen mother belongs to his mother — which is what the Church means by calling Mary Queen, and why intercession is bound up in the title.",
+      "hint": "Look at who sits at Solomon's right hand in 1 Kings, and what she is doing there.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Kings 2:19",
+          "quote": "The king stood up to meet her and paid her homage. Then he sat down upon his throne, and a throne was provided for the king's mother, who sat at his right."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-007",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: The woman clothed with the sun in Revelation 12 has been read by the Church as referring both to Mary and to the Church herself.",
+      "correctAnswer": true,
+      "explanation": "True. Catholic reading holds both together rather than choosing: the woman who bears the male child who will rule the nations is Mary, and she is also the People of God bringing forth Christ into the world. Scripture's images routinely carry more than one true meaning.",
+      "hint": "The question is whether the Church treats these two readings as rivals or as compatible.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 12:1",
+          "quote": "A great sign appeared in the sky, a woman clothed with the sun, with the moon beneath her feet, and on her head a crown of twelve stars."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 63-65 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-008",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "In Revelation 11:19 the Ark of the Covenant is seen in God's temple, and the very next verse describes the woman clothed with the sun. Why do Catholic readers treat that sequence as significant?",
+      "choices": [
+        "The original text has no chapter break there, so the Ark and the woman are presented together",
+        "It proves the physical Ark was recovered in the first century",
+        "It shows the woman is a symbol of the Temple building",
+        "The two images are unrelated and the order is coincidental"
+      ],
+      "correctAnswer": "The original text has no chapter break there, so the Ark and the woman are presented together",
+      "explanation": "Chapter and verse divisions were added many centuries after the text was written. Read continuously, John sees the Ark of the Covenant and immediately describes a woman bearing a son — the same Ark-and-Mary identification Luke makes in the Visitation.",
+      "hint": "Ask when chapter numbers were added to the Bible, relative to when Revelation was written.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 11:19",
+          "quote": "Then God's temple in heaven was opened, and the ark of his covenant could be seen in the temple."
+        },
+        {
+          "type": "scripture",
+          "reference": "Revelation 12:1-2"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-009",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "What does it mean to read Mary 'typologically' in the Old Testament?",
+      "choices": [
+        "Persons and things in Israel's history genuinely prefigure what God would later do in her",
+        "The Old Testament authors consciously intended to write about Mary",
+        "Any Old Testament woman can be treated as a symbol of Mary",
+        "The Old Testament passages are allegories with no historical basis"
+      ],
+      "correctAnswer": "Persons and things in Israel's history genuinely prefigure what God would later do in her",
+      "explanation": "A type is not a code to be cracked or a meaning invented after the fact. The Ark and the queen mother were real things with real functions, and God shaped that history so it pointed forward. The reality does not cancel the figure; it fulfills it.",
+      "hint": "The question is whether the Old Testament realities are historically real, invented, or merely symbolic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 16 (1965)",
+          "quote": "God, the inspirer and author of both Testaments, wisely arranged that the New Testament be hidden in the Old and the Old be made manifest in the New."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l3-010",
+      "topic": "our-lady",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1450,
+      "prompt": "Match each Old Testament figure to what it prefigures about Mary.",
+      "pairs": [
+        { "left": "The Ark of the Covenant", "right": "She carries the real presence of God within her" },
+        { "left": "Eve", "right": "A woman's answer at a tree, reversed by obedience" },
+        { "left": "The queen mother of Judah", "right": "The king's mother holds an office of intercession" },
+        { "left": "The woman of Genesis 3:15", "right": "Enmity with the serpent, and offspring who crushes it" }
+      ],
+      "explanation": "Four different threads of Israel's history — worship, the fall, the monarchy, and the first promise — all converge on the same person. That convergence is the argument; no single one of them would carry it alone.",
+      "hint": "Each comes from a different part of Israel's story: the tabernacle, the garden, the court, and the first promise after the fall.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9-11"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Kings 2:19"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 55 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    }
+  ]
+}
