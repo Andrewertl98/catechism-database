@@ -8,7 +8,12 @@
       "type": "multiple_choice",
       "difficultyElo": 850,
       "prompt": "Which angel was sent to announce to Mary that she would conceive and bear a son?",
-      "choices": ["Gabriel", "Michael", "Raphael", "Uriel"],
+      "choices": [
+        "Gabriel",
+        "Michael",
+        "Raphael",
+        "Uriel"
+      ],
       "correctAnswer": "Gabriel",
       "explanation": "Luke names the angel Gabriel, sent from God to Nazareth. The same Gabriel had earlier announced the birth of John the Baptist to Zechariah in the Temple, which is part of how Luke ties the two births together.",
       "hint": "The same angel appears earlier in Luke's first chapter, announcing another birth in the Temple.",
@@ -47,7 +52,12 @@
       "type": "multiple_choice",
       "difficultyElo": 900,
       "prompt": "Mary's song of praise during her visit to Elizabeth is traditionally called the:",
-      "choices": ["Magnificat", "Benedictus", "Nunc Dimittis", "Te Deum"],
+      "choices": [
+        "Magnificat",
+        "Benedictus",
+        "Nunc Dimittis",
+        "Te Deum"
+      ],
       "correctAnswer": "Magnificat",
       "explanation": "It takes its name from its first word in Latin — 'Magnificat anima mea Dominum,' 'My soul magnifies the Lord.' The Church prays it every single day at Evening Prayer, which makes it perhaps the most frequently recited passage of Scripture after the Psalms.",
       "hint": "Each of these four canticles is named from its opening word in Latin; this one means 'magnifies.'",
@@ -199,10 +209,22 @@
       "difficultyElo": 1000,
       "prompt": "Match each moment in Mary's life to where it is recorded.",
       "pairs": [
-        { "left": "The Annunciation", "right": "Luke 1 — Gabriel comes to Nazareth" },
-        { "left": "The Visitation", "right": "Luke 1 — Elizabeth's greeting and the Magnificat" },
-        { "left": "The wedding at Cana", "right": "John 2 — 'Do whatever he tells you'" },
-        { "left": "At the foot of the Cross", "right": "John 19 — 'Behold, your mother'" }
+        {
+          "left": "The Annunciation",
+          "right": "Luke 1 — Gabriel comes to Nazareth"
+        },
+        {
+          "left": "The Visitation",
+          "right": "Luke 1 — Elizabeth's greeting and the Magnificat"
+        },
+        {
+          "left": "The wedding at Cana",
+          "right": "John 2 — 'Do whatever he tells you'"
+        },
+        {
+          "left": "At the foot of the Cross",
+          "right": "John 19 — 'Behold, your mother'"
+        }
       ],
       "explanation": "Luke gives us the infancy narratives; John gives us Mary at the beginning and the end of Jesus' public ministry. Between them, almost everything Scripture says about her directly.",
       "hint": "Two of these come from Luke's opening chapter and two from John's Gospel.",
@@ -218,7 +240,6 @@
       ],
       "audit_status": "pending"
     },
-
     {
       "id": "our-lady-l2-001",
       "topic": "our-lady",
@@ -455,10 +476,22 @@
       "difficultyElo": 1300,
       "prompt": "Match each Marian dogma to what it affirms.",
       "pairs": [
-        { "left": "Theotokos", "right": "She is truly the Mother of God the Son made man" },
-        { "left": "Immaculate Conception", "right": "Preserved from original sin from her own conception" },
-        { "left": "Perpetual Virginity", "right": "Virgin before, during, and after the birth of Christ" },
-        { "left": "The Assumption", "right": "Taken body and soul into heavenly glory" }
+        {
+          "left": "Theotokos",
+          "right": "She is truly the Mother of God the Son made man"
+        },
+        {
+          "left": "Immaculate Conception",
+          "right": "Preserved from original sin from her own conception"
+        },
+        {
+          "left": "Perpetual Virginity",
+          "right": "Virgin before, during, and after the birth of Christ"
+        },
+        {
+          "left": "The Assumption",
+          "right": "Taken body and soul into heavenly glory"
+        }
       ],
       "explanation": "These four are the whole of what the Church has dogmatically defined about Mary. Everything else — her titles, the apparitions, the devotions — is real but does not carry the same weight of definition.",
       "hint": "Two of these concern her conception and her body; two concern her motherhood and her virginity.",
@@ -478,7 +511,6 @@
       ],
       "audit_status": "pending"
     },
-
     {
       "id": "our-lady-l3-001",
       "topic": "our-lady",
@@ -726,10 +758,22 @@
       "difficultyElo": 1450,
       "prompt": "Match each Old Testament figure to what it prefigures about Mary.",
       "pairs": [
-        { "left": "The Ark of the Covenant", "right": "She carries the real presence of God within her" },
-        { "left": "Eve", "right": "A woman's answer at a tree, reversed by obedience" },
-        { "left": "The queen mother of Judah", "right": "The king's mother holds an office of intercession" },
-        { "left": "The woman of Genesis 3:15", "right": "Enmity with the serpent, and offspring who crushes it" }
+        {
+          "left": "The Ark of the Covenant",
+          "right": "She carries the real presence of God within her"
+        },
+        {
+          "left": "Eve",
+          "right": "A woman's answer at a tree, reversed by obedience"
+        },
+        {
+          "left": "The queen mother of Judah",
+          "right": "The king's mother holds an office of intercession"
+        },
+        {
+          "left": "The woman of Genesis 3:15",
+          "right": "Enmity with the serpent, and offspring who crushes it"
+        }
       ],
       "explanation": "Four different threads of Israel's history — worship, the fall, the monarchy, and the first promise — all converge on the same person. That convergence is the argument; no single one of them would carry it alone.",
       "hint": "Each comes from a different part of Israel's story: the tabernacle, the garden, the court, and the first promise after the fall.",
@@ -749,6 +793,799 @@
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 55 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-001",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "At the Presentation in the Temple, Simeon tells Mary that a sword will pierce her. What does he say this will reveal?",
+      "choices": [
+        "The thoughts of many hearts",
+        "The hour of Christ's return",
+        "The identity of the Messiah to Israel's rulers",
+        "The date of the Temple's destruction"
+      ],
+      "correctAnswer": "The thoughts of many hearts",
+      "explanation": "Simeon's prophecy links Mary's suffering to the division Christ will cause: he is set for the fall and rise of many, a sign to be contradicted. Her sorrow is not incidental to the story of salvation but bound into it.",
+      "hint": "The sword is mentioned in the same sentence as what will be laid bare in people.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:34-35",
+          "quote": "Behold, this child is destined for the fall and rise of many in Israel, and to be a sign that will be contradicted (and you yourself a sword will pierce) so that the thoughts of many hearts may be revealed."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-002",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1500,
+      "prompt": "True or False: Luke twice records that Mary 'kept all these things, reflecting on them in her heart.'",
+      "correctAnswer": true,
+      "explanation": "True — once after the shepherds' visit and once after finding Jesus in the Temple. Luke is quietly telling us his likely source, and painting Mary as the first Christian contemplative: someone who does not yet fully understand and keeps pondering anyway.",
+      "hint": "The phrase appears twice in Luke's second chapter, bracketing the infancy narrative.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:19",
+          "quote": "And Mary kept all these things, reflecting on them in her heart."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 2:51",
+          "quote": "and his mother kept all these things in her heart"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-003",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1550,
+      "prompt": "When told his mother and brothers were outside, Jesus said, 'Whoever does the will of God is my brother and sister and mother.' How does the Church read this?",
+      "choices": [
+        "Not as a rejection of Mary but as praise of exactly what she did",
+        "As evidence that Jesus was estranged from his family",
+        "As proof that Mary had other biological children",
+        "As a rebuke of Mary's lack of faith"
+      ],
+      "correctAnswer": "Not as a rejection of Mary but as praise of exactly what she did",
+      "explanation": "Jesus defines his true family as those who do God's will — and Mary is the person in Scripture who said 'may it be done to me according to your word.' She qualifies on the very grounds he names, and more fully than anyone.",
+      "hint": "Ask whether Mary meets the standard Jesus sets in that sentence, or fails it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Mark 3:35",
+          "quote": "For whoever does the will of God is my brother and sister and mother."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:38",
+          "quote": "May it be done to me according to your word."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-004",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1550,
+      "prompt": "A woman in the crowd cried out, 'Blessed is the womb that carried you.' Jesus replied, 'Rather, blessed are those who hear the word of God and observe it.' What is the Catholic reading?",
+      "choices": [
+        "Mary is blessed most of all precisely because she heard and kept God's word",
+        "Jesus is correcting the crowd's mistaken honour of his mother",
+        "Physical motherhood is presented as worthless",
+        "The saying has no bearing on Mary at all"
+      ],
+      "correctAnswer": "Mary is blessed most of all precisely because she heard and kept God's word",
+      "explanation": "Jesus redirects the blessing from biology to discipleship — and Mary is the model of exactly that discipleship. Luke has already shown her hearing the word and keeping it, twice. The saying elevates her on better grounds rather than demoting her.",
+      "hint": "Luke has already described Mary doing the very thing Jesus calls blessed.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 11:27-28",
+          "quote": "While he was speaking, a woman from the crowd called out and said to him, 'Blessed is the womb that carried you and the breasts at which you nursed.' He replied, 'Rather, blessed are those who hear the word of God and observe it.'"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 58 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-005",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1500,
+      "prompt": "At Cana, Jesus answers his mother, 'Woman, how does your concern affect me? My ____ has not yet come.' He then works the sign anyway.",
+      "correctAnswer": "hour",
+      "explanation": "'The hour' in John means the Passion. The exchange is strange until you notice that Mary proceeds as though he had agreed — 'do whatever he tells you' — and he does act. John presents her intercession as genuinely moving the moment forward.",
+      "hint": "In John's Gospel this word always points ahead to the Cross.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 2:4",
+          "quote": "And Jesus said to her, 'Woman, how does your concern affect me? My hour has not yet come.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-006",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "John records Jesus addressing his mother as 'Woman' at Cana and again from the Cross. Why is that address significant rather than cold?",
+      "choices": [
+        "It links her to the woman of Genesis 3:15 and the woman of Revelation 12",
+        "It was the ordinary way a Jewish son addressed his mother",
+        "It shows John did not know her name",
+        "It indicates she had no legal standing as a widow"
+      ],
+      "correctAnswer": "It links her to the woman of Genesis 3:15 and the woman of Revelation 12",
+      "explanation": "'Woman' is not how a son normally addressed his mother, which is exactly why John uses it at both ends of the ministry. He is placing Mary in the line of the woman promised at the fall and the woman seen in glory at the end.",
+      "hint": "The same unusual word appears at the beginning of Genesis and near the end of Revelation.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 2:4; 19:26"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15"
+        },
+        {
+          "type": "scripture",
+          "reference": "Revelation 12:1"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-007",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1500,
+      "prompt": "True or False: All four Gospels place Mary at the foot of the Cross.",
+      "correctAnswer": false,
+      "explanation": "False. Only John records her there. The Synoptics name women watching from a distance but do not include Mary among them. John's account is the source of 'Behold, your mother' and of the Church's reading of Mary as mother of all disciples.",
+      "hint": "Only one evangelist gives us 'Behold, your mother.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 19:25-27",
+          "quote": "Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala."
+        },
+        {
+          "type": "scripture",
+          "reference": "Mark 15:40"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-008",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1550,
+      "prompt": "When Jesus was found in the Temple at twelve, what did Mary and Joseph do with his answer?",
+      "choices": [
+        "They did not understand it, and Mary kept it in her heart",
+        "They understood immediately and rejoiced",
+        "They rebuked him publicly before the teachers",
+        "They asked the teachers to explain it to them"
+      ],
+      "correctAnswer": "They did not understand it, and Mary kept it in her heart",
+      "explanation": "Luke says plainly that they did not understand what he said to them. Mary's faith is not portrayed as effortless comprehension — she holds what she cannot yet make sense of, which is a far more useful model for ordinary believers.",
+      "hint": "Luke is candid about how much his parents grasped in the moment.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:50-51",
+          "quote": "But they did not understand what he said to them. He went down with them and came to Nazareth, and was obedient to them; and his mother kept all these things in her heart."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-009",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Lumen Gentium describes Mary's role in salvation as one of cooperation. How does the Council qualify it?",
+      "choices": [
+        "Her cooperation is entirely subordinate to and dependent on Christ's one mediation",
+        "Her cooperation is equal in kind to Christ's",
+        "Her cooperation replaces the need for Christ's mediation in some cases",
+        "The Council avoided the language of cooperation entirely"
+      ],
+      "correctAnswer": "Her cooperation is entirely subordinate to and dependent on Christ's one mediation",
+      "explanation": "The Council is careful in exactly the place people expect it to overreach: Mary's role neither adds to nor takes from Christ's sole mediation, but flows entirely from it, as light passes through a window without competing with the sun.",
+      "hint": "The Council's qualification concerns where her role gets its power from.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60 (1964)",
+          "quote": "no creature could ever be counted along with the Incarnate Word and Redeemer; but... the unique mediation of the Redeemer does not exclude but rather gives rise to a manifold cooperation which is but a sharing in this one source."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l4-010",
+      "topic": "our-lady",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1600,
+      "prompt": "Match each Gospel moment to what it shows about Mary.",
+      "pairs": [
+        {
+          "left": "Simeon's prophecy",
+          "right": "Her suffering is bound into her Son's mission"
+        },
+        {
+          "left": "Finding him in the Temple",
+          "right": "She holds in faith what she does not yet understand"
+        },
+        {
+          "left": "The wedding at Cana",
+          "right": "Her intercession moves him to act"
+        },
+        {
+          "left": "'Behold, your mother'",
+          "right": "She is given to the disciple, and so to the Church"
+        }
+      ],
+      "explanation": "Taken together these show a Mary who suffers, does not always understand, intercedes, and is entrusted to us — a real person of faith rather than a serene figure standing outside the story.",
+      "hint": "One is about sorrow, one about incomprehension, one about asking, and one about being given.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:34-35, 50-51"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 2:1-11; 19:26-27"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-001",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1550,
+      "prompt": "The Marian title 'Stella Maris' means:",
+      "choices": [
+        "Star of the Sea",
+        "Morning Star",
+        "Queen of Heaven",
+        "Gate of Heaven"
+      ],
+      "correctAnswer": "Star of the Sea",
+      "explanation": "The image is navigational: a sailor in danger fixes on a star that does not move. St. Bernard's famous counsel — 'look to the star, call upon Mary' — uses exactly that logic for anyone tossed about in the storms of life.",
+      "hint": "Latin: 'stella' is a star and 'maris' is of the sea.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Bernard of Clairvaux, Homilies in Praise of the Virgin Mother II"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 68 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-002",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Why is Mary called 'Seat of Wisdom' (Sedes Sapientiae)?",
+      "choices": [
+        "Because she bore in her lap the Wisdom of God incarnate",
+        "Because she was educated in the Temple",
+        "Because she taught the apostles after Pentecost",
+        "Because she authored part of Luke's Gospel"
+      ],
+      "correctAnswer": "Because she bore in her lap the Wisdom of God incarnate",
+      "explanation": "The title comes from the image of Mary enthroned with the child on her knee: the throne on which Wisdom himself sits. Paul calls Christ the wisdom of God, and the title makes her the seat of that Wisdom rather than a source of wisdom herself.",
+      "hint": "Think of the classical image of Mary seated with the child on her lap, and who he is.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 1:24",
+          "quote": "Christ the power of God and the wisdom of God"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-003",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Pope Pius XII established the feast of the Queenship of Mary in the 1954 encyclical:",
+      "choices": [
+        "Ad Caeli Reginam",
+        "Munificentissimus Deus",
+        "Mystici Corporis Christi",
+        "Ineffabilis Deus"
+      ],
+      "correctAnswer": "Ad Caeli Reginam",
+      "explanation": "The title translates as 'To the Queen of Heaven.' Her queenship follows from her Son's kingship and from the Davidic office of queen mother — she reigns as mother of the King, not as a rival authority.",
+      "hint": "The Latin title of the encyclical names the very thing the feast celebrates.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Ad Caeli Reginam (1954)"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Kings 2:19"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-004",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1550,
+      "prompt": "The long list of Marian titles prayed as a litany — Mystical Rose, Tower of David, Gate of Heaven, Morning Star — is called the Litany of ____, after the Italian shrine where it became popular.",
+      "correctAnswer": "Loreto",
+      "explanation": "The litany's titles are drawn largely from Scripture and the Fathers, many of them images from the Song of Songs and the Old Testament applied to Mary. Popes have added invocations over the centuries, so it is still a living text.",
+      "hint": "The shrine is in the Marche region of Italy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Song of Songs 4:4"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-005",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1650,
+      "prompt": "True or False: 'Mediatrix' is one of the four defined Marian dogmas.",
+      "correctAnswer": false,
+      "explanation": "False. The four defined dogmas are Theotokos, the Immaculate Conception, perpetual virginity, and the Assumption. Lumen Gentium does use the title Mediatrix — alongside Advocate, Helper and Benefactress — but immediately adds that it takes nothing from Christ's sole mediation, and it has never been dogmatically defined.",
+      "hint": "Count the defined dogmas covered back in level two and see whether this is among them.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 62 (1964)",
+          "quote": "the Blessed Virgin is invoked in the Church under the titles of Advocate, Helper, Benefactress, and Mediatrix. This, however, is so understood that it neither takes away anything from nor adds anything to the dignity and efficacy of Christ the one Mediator."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-006",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The devotion to Our Lady of Sorrows contemplates seven sorrows. Which is traditionally the first?",
+      "choices": [
+        "The prophecy of Simeon",
+        "The flight into Egypt",
+        "Meeting Jesus on the way to Calvary",
+        "The burial of Jesus"
+      ],
+      "correctAnswer": "The prophecy of Simeon",
+      "explanation": "The sequence begins in the Temple, forty days after the birth, with the sword Simeon foretells — and ends at the tomb. The devotion refuses to treat Mary's life as untroubled, which is much of why it has consoled the grieving for centuries.",
+      "hint": "The first sorrow comes long before Calvary, in the Temple.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:34-35"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 19:25"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-007",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1650,
+      "prompt": "What does Lumen Gentium say about how devotion to Mary differs from the worship given to God?",
+      "choices": [
+        "It differs essentially, not merely in degree",
+        "It differs only in the amount of honour offered",
+        "It is the same worship directed through a different channel",
+        "The Council declined to distinguish them"
+      ],
+      "correctAnswer": "It differs essentially, not merely in degree",
+      "explanation": "This is the hinge of the whole question. Veneration of Mary and adoration of God are not two amounts of the same thing but two different kinds of act. The Council says so explicitly, precisely because the confusion is so common.",
+      "hint": "The question is whether the difference is one of quantity or of kind.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)",
+          "quote": "This cult... differs essentially from the cult of adoration which is offered to the Incarnate Word, as well to the Father and the Holy Spirit, and it is most favorable to it."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-008",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1650,
+      "prompt": "True or False: Lumen Gentium warns against both exaggeration and excessive narrowness in Marian devotion.",
+      "correctAnswer": true,
+      "explanation": "True, and the balance is deliberate. The Council cautions theologians and preachers against 'all false exaggeration' on one side and 'too summary an attitude' on the other. Neither inflating Mary nor ignoring her is treated as the safe option.",
+      "hint": "The Council addresses two opposite errors in the same breath, not one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 67 (1964)",
+          "quote": "let them carefully refrain from whatever might by word or deed lead the separated brethren or any others whatsoever into error about the true doctrine of the Church."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-009",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1700,
+      "prompt": "Many Marian titles — Gate of Heaven, Ark of the Covenant, Tower of David — are drawn from images originally applied to something else. To what?",
+      "choices": [
+        "Israel, the Temple, and the holy city",
+        "The Roman Empire",
+        "The apostles as a group",
+        "The angelic hierarchy"
+      ],
+      "correctAnswer": "Israel, the Temple, and the holy city",
+      "explanation": "The Litany's imagery is largely the vocabulary of Israel's worship transposed onto a person. That is not decorative: it is the same typological logic that reads Mary as the Ark, applied across the whole tradition of Old Testament figures.",
+      "hint": "Ask where the language of gates, towers, and arks comes from in the Old Testament.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Song of Songs 4:4"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 28:17"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 16 (1965)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l5-010",
+      "topic": "our-lady",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1650,
+      "prompt": "Match each Marian title to what it means.",
+      "pairs": [
+        {
+          "left": "Stella Maris",
+          "right": "Star of the Sea — a fixed point for the storm-tossed"
+        },
+        {
+          "left": "Sedes Sapientiae",
+          "right": "Seat of Wisdom — she bore Wisdom incarnate"
+        },
+        {
+          "left": "Auxilium Christianorum",
+          "right": "Help of Christians"
+        },
+        {
+          "left": "Regina Caeli",
+          "right": "Queen of Heaven — mother of the King"
+        }
+      ],
+      "explanation": "Every one of these is a Latin phrase still prayed in the Church's liturgy and litanies. Knowing what they mean turns a list of unfamiliar words into a set of claims you can actually weigh.",
+      "hint": "Each is Latin; translate the second word of each first.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Ad Caeli Reginam (1954)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 62, 68 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-001",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1650,
+      "prompt": "When the Church approves a Marian apparition, what is it actually saying?",
+      "choices": [
+        "That it is worthy of belief, without obliging any Catholic to believe it",
+        "That every Catholic must accept it as an article of faith",
+        "That it adds a new truth to public Revelation",
+        "That the visionary is guaranteed to be a saint"
+      ],
+      "correctAnswer": "That it is worthy of belief, without obliging any Catholic to believe it",
+      "explanation": "Approved apparitions are private revelation. The Catechism is direct about this: such revelations do not improve or complete Christ's definitive Revelation, and a Catholic is entirely free not to accept any of them. Public Revelation closed with the death of the last apostle.",
+      "hint": "Ask whether a Catholic is obliged to believe in Lourdes the way they are obliged to believe in the Resurrection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67",
+          "quote": "Christian faith cannot accept 'revelations' that claim to surpass or correct the Revelation of which Christ is the fulfillment... It is not their role to improve or complete Christ's definitive Revelation."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-002",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1650,
+      "prompt": "At Lourdes in 1858, the lady told St. Bernadette Soubirous, 'I am the Immaculate Conception.' Why did that strike the Church as significant?",
+      "choices": [
+        "The dogma had been defined only four years earlier, and Bernadette did not understand the phrase",
+        "It was the first time the phrase had ever been used",
+        "It contradicted the definition Pius IX had given",
+        "Bernadette was a trained theologian who recognised it immediately"
+      ],
+      "correctAnswer": "The dogma had been defined only four years earlier, and Bernadette did not understand the phrase",
+      "explanation": "Pius IX defined the Immaculate Conception in 1854; the apparitions were in 1858. Bernadette reported the phrase without knowing what it meant and had to repeat it on the way to the parish priest so as not to forget it — which is much of why her account was taken seriously.",
+      "hint": "Compare the date of the dogma's definition with the date of the apparitions.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-003",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1700,
+      "prompt": "To whom did Our Lady of Guadalupe appear in 1531?",
+      "choices": [
+        "St. Juan Diego",
+        "St. Martin de Porres",
+        "St. Rose of Lima",
+        "St. Toribio de Mogrovejo"
+      ],
+      "correctAnswer": "St. Juan Diego",
+      "explanation": "Juan Diego was an indigenous convert; the image on his tilma appeared as the sign given to a doubting bishop. The apparition's cultural setting is much of its meaning — she appears as one of the conquered people, speaking their language, and Guadalupe became the patronal image of the Americas.",
+      "hint": "The visionary was an indigenous Mexican convert, later canonised in 2002.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-004",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1700,
+      "prompt": "The Fatima apparitions of 1917 were reported by three children. What are their names?",
+      "choices": [
+        "Lúcia, Francisco, and Jacinta",
+        "Bernadette, Marie, and Toinette",
+        "Catherine, Zoé, and Louise",
+        "Melanie, Maximin, and Pierre"
+      ],
+      "correctAnswer": "Lúcia, Francisco, and Jacinta",
+      "explanation": "Lúcia dos Santos and her cousins Francisco and Jacinta Marto reported six apparitions in 1917, culminating in the events of October 13 witnessed by a very large crowd. Francisco and Jacinta were canonised in 2017, a hundred years afterward.",
+      "hint": "Two of the three were siblings, cousins of the third, and were canonised in 2017.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-005",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The Miraculous Medal comes from apparitions to St. Catherine Labouré in Paris in 1830.",
+      "correctAnswer": true,
+      "explanation": "True — at the convent on the Rue du Bac. Catherine reported being shown a medal to be struck, bearing the invocation 'O Mary, conceived without sin, pray for us who have recourse to thee.' That phrasing predates the 1854 definition of the Immaculate Conception by more than two decades.",
+      "hint": "The Paris street name is often used as shorthand for this apparition.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-006",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "What was unusual about the 1879 apparition at Knock, in Ireland?",
+      "choices": [
+        "The figures were silent and gave no message",
+        "It was witnessed by only one person",
+        "It occurred during Mass inside the church",
+        "It was reported entirely in Latin"
+      ],
+      "correctAnswer": "The figures were silent and gave no message",
+      "explanation": "Knock delivered no words at all — Mary, Joseph, and St. John appeared beside an altar with a lamb, witnessed by a group of villagers in the rain. It sits oddly among apparitions precisely because there is no message to interpret, only a tableau.",
+      "hint": "Most famous apparitions are known for what was said; this one is known for what was not.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-007",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1750,
+      "prompt": "True or False: A Catholic who does not believe in the apparitions at Fatima is failing in the faith.",
+      "correctAnswer": false,
+      "explanation": "False. Approved private revelations may be believed with human faith, but they are never required. The obligation of faith attaches to public Revelation — Scripture and Tradition — and never to an apparition, however well attested.",
+      "hint": "Ask what kind of revelation an apparition is, and what the Church can require belief in.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67",
+          "quote": "It is not their role to improve or complete Christ's definitive Revelation, but to help live more fully by it in a certain period of history."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-008",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "What do the approved apparitions consistently call for?",
+      "choices": [
+        "Prayer, penance, and conversion of life",
+        "New doctrines not found in Scripture",
+        "Withdrawal from the sacramental life of the Church",
+        "Predictions of precise dates for the end of the world"
+      ],
+      "correctAnswer": "Prayer, penance, and conversion of life",
+      "explanation": "The consistency is itself part of why the Church takes them seriously. Approved apparitions do not announce new doctrine; they urge what the Gospel already urges. An alleged apparition teaching something new, or fixing dates, is treated with suspicion for exactly that reason.",
+      "hint": "Ask what the messages have in common, and whether any of them teach something the Gospel does not.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        },
+        {
+          "type": "scripture",
+          "reference": "Mark 1:15",
+          "quote": "This is the time of fulfillment. The kingdom of God is at hand. Repent, and believe in the gospel."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-009",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1700,
+      "prompt": "Because Revelation was complete with the death of the last apostle, apparitions belong to the category of ____ revelation.",
+      "correctAnswer": "private",
+      "explanation": "The distinction does real work: public Revelation is closed and binding, private revelation is neither. It is what lets the Church approve Lourdes without adding anything to the deposit of faith.",
+      "hint": "It contrasts with 'public' Revelation, which closed with the apostles.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        },
+        {
+          "type": "scripture",
+          "reference": "Jude 1:3",
+          "quote": "the faith that was once for all handed down to the holy ones"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-010",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1750,
+      "prompt": "Match each approved apparition to its visionary or distinguishing detail.",
+      "pairs": [
+        {
+          "left": "Guadalupe (1531)",
+          "right": "St. Juan Diego and the image on the tilma"
+        },
+        {
+          "left": "Rue du Bac (1830)",
+          "right": "St. Catherine Labouré and the Miraculous Medal"
+        },
+        {
+          "left": "Lourdes (1858)",
+          "right": "St. Bernadette and 'I am the Immaculate Conception'"
+        },
+        {
+          "left": "Knock (1879)",
+          "right": "A silent apparition with no message given"
+        }
+      ],
+      "explanation": "Four apparitions across three centuries and three continents, each approved, none required to be believed. What they share is not spectacle but a call back to prayer and repentance.",
+      "hint": "Order them by date and the details fall into place.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
         }
       ],
       "audit_status": "pending"
