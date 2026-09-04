@@ -1589,6 +1589,506 @@
         }
       ],
       "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-001",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "The Rosary's twenty mysteries are divided into four sets. Which pope added the Luminous Mysteries in 2002?",
+      "choices": [
+        "John Paul II",
+        "Paul VI",
+        "Benedict XVI",
+        "Pius XII"
+      ],
+      "correctAnswer": "John Paul II",
+      "explanation": "In Rosarium Virginis Mariae, John Paul II added the Luminous Mysteries (the Baptism, Cana, the Proclamation of the Kingdom, the Transfiguration, and the Institution of the Eucharist) to fill what he called a gap between the infancy narratives and the Passion — the public ministry itself.",
+      "hint": "The same pope wrote an entire encyclical letter on the Rosary in 2002.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Rosarium Virginis Mariae (2002)",
+          "quote": "This lacuna is in some sense filled by the addition of other mysteries which I feel it fitting to call the 'mysteries of light.'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-002",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1750,
+      "prompt": "True or False: Praying the Rosary is a form of adoration owed to God alone.",
+      "correctAnswer": false,
+      "explanation": "False. The Rosary is a meditation on the life of Christ prayed through Mary's eyes, and the honour it involves is veneration, not adoration — the same essential distinction Lumen Gentium draws between the cult given to Mary and the cult given to God.",
+      "hint": "Recall the distinction from level five between two different kinds of honour.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Rosarium Virginis Mariae (2002)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-003",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 1700,
+      "prompt": "The Rosary prayer traditionally said at noon, evening, and morning, recalling the Annunciation and the Incarnation, is called the ____.",
+      "correctAnswer": "Angelus",
+      "explanation": "It takes its name from its opening word, 'Angelus Domini nuntiavit Mariae' — 'The Angel of the Lord declared unto Mary.' The prayer walks through the Annunciation in three short exchanges, each followed by a Hail Mary.",
+      "hint": "Latin for 'angel' is the first word of the prayer.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:26-38"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-004",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "The Memorare begins, 'Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to your protection...' What does it ask?",
+      "choices": [
+        "That she was ever left unaided, and asks her intercession on that basis",
+        "For a specific worldly favor guaranteed by reciting the prayer",
+        "For Mary to forgive the one praying",
+        "For release from purgatory"
+      ],
+      "correctAnswer": "That she was ever left unaided, and asks her intercession on that basis",
+      "explanation": "The prayer's whole argument is an appeal to her track record of intercession, not a guarantee attached to the words themselves. It asks her to hear the prayer 'in her mercy,' the same posture the Church takes toward every act of intercession.",
+      "hint": "The prayer's opening line is itself a claim being made as the basis for the request that follows.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 62 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-005",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1800,
+      "prompt": "True or False: Marian consecration, as taught by St. Louis de Montfort, means giving Mary something that belongs to God alone.",
+      "correctAnswer": false,
+      "explanation": "False. Consecration to Mary entrusts oneself to her care precisely in order to belong more fully to Christ through her — de Montfort calls it the surest, easiest, shortest way to Jesus, not a rival claim on what is owed to God.",
+      "hint": "Ask what the stated purpose of the practice is, and whether it competes with belonging to Christ.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-006",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "The brown scapular is associated with which apparition tradition?",
+      "choices": [
+        "Our Lady of Mount Carmel",
+        "Our Lady of Guadalupe",
+        "Our Lady of Fatima",
+        "Our Lady of Lourdes"
+      ],
+      "correctAnswer": "Our Lady of Mount Carmel",
+      "explanation": "Tradition holds it was given to St. Simon Stock in the thirteenth century. The Church's own caution applies here as everywhere with sacramentals: it is a sign of entrustment to Mary and a reminder to live as a Christian, not an object with automatic power on its own.",
+      "hint": "The devotion is tied to the Carmelite religious order and a specific mountain in Scripture.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 67"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-007",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1800,
+      "prompt": "What warning does the Church give about sacramentals like the scapular or the Miraculous Medal?",
+      "choices": [
+        "They are signs that dispose one to grace, never guarantees that work automatically",
+        "They are equal in effect to the sacraments themselves",
+        "They have no spiritual value at all and are merely cultural custom",
+        "Only priests may possess or use them"
+      ],
+      "correctAnswer": "They are signs that dispose one to grace, never guarantees that work automatically",
+      "explanation": "A sacramental disposes the person who uses it with faith and devotion to receive grace; it does not act automatically the way a magic object would. Confusing the two — treating a medal as if it forces an outcome — is precisely the superstition the Church warns against.",
+      "hint": "Ask whether wearing the item is presented as sufficient by itself, or as a help toward something the person must still do.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1667"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-008",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 1750,
+      "prompt": "The Salve Regina, prayed at the end of Compline for much of the liturgical year, addresses Mary as 'our life, our sweetness, and our ____.'",
+      "correctAnswer": "hope",
+      "explanation": "The title fits her role exactly: not the source of life or the object of hope, which belong to God, but the one through whom that life and hope reach us — the same subordinate, derivative role Lumen Gentium insists on throughout.",
+      "hint": "The word describes what a Christian looks forward to in Christ, applied here to Mary's role in bringing it about.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 62 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-009",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1850,
+      "prompt": "Why does John Paul II say the Rosary is 'Christocentric' even though it is addressed largely to Mary?",
+      "choices": [
+        "Each mystery is a scene from Christ's life, contemplated through Mary who lived it closest",
+        "Because half the prayers in it are addressed directly to Jesus",
+        "Because it was originally composed as a prayer to Christ and only later given to Mary",
+        "It is not actually Christocentric; the term is a later reinterpretation"
+      ],
+      "correctAnswer": "Each mystery is a scene from Christ's life, contemplated through Mary who lived it closest",
+      "explanation": "The Hail Marys are, in John Paul II's phrase, the 'succession of Hail Marys' that forms the warp on which the real content is woven: the mysteries of Christ. Mary is the means of contemplation, not its final object.",
+      "hint": "Ask what is actually being pictured and meditated on during each of the twenty mysteries.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Rosarium Virginis Mariae (2002)",
+          "quote": "Although the Hail Mary is addressed to Mary, it is to Jesus that the act of love is ultimately directed."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-010",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1800,
+      "prompt": "Match each Marian prayer or devotion to what it actually does.",
+      "pairs": [
+        {
+          "left": "The Rosary",
+          "right": "Meditates on the mysteries of Christ's life through Mary"
+        },
+        {
+          "left": "The Angelus",
+          "right": "Recalls the Annunciation three times a day"
+        },
+        {
+          "left": "The Memorare",
+          "right": "Appeals to her record of never leaving anyone unaided"
+        },
+        {
+          "left": "Marian consecration",
+          "right": "Entrusts oneself to her so as to belong more fully to Christ"
+        }
+      ],
+      "explanation": "Every genuine Marian devotion, examined closely, turns out to point at Christ rather than compete with him. That is the test Lumen Gentium gives for whether a devotion is healthy.",
+      "hint": "Each answer names where the devotion ultimately points, not just what words it uses.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Rosarium Virginis Mariae (2002)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60, 62 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-001",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1850,
+      "prompt": "The Council of Ephesus (431) defined Theotokos primarily to refute which teaching?",
+      "choices": [
+        "Nestorius's view that Christ was two separate persons, divine and human, loosely joined",
+        "Arius's view that the Son was a created being",
+        "Pelagius's view that grace was not necessary for salvation",
+        "The Monophysite view that Christ had only one nature"
+      ],
+      "correctAnswer": "Nestorius's view that Christ was two separate persons, divine and human, loosely joined",
+      "explanation": "Nestorius preferred 'Christotokos' because he feared Theotokos implied Mary generated the divine nature. Ephesus's answer is that she is mother of one Person who is both God and man — so denying the title, properly understood, ends up dividing Christ into two persons.",
+      "hint": "This heresy is named after the Patriarch of Constantinople who objected to the title Theotokos specifically.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-002",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: The Council of Chalcedon (451) reaffirmed Ephesus's use of Theotokos while also defining Christ's two natures.",
+      "correctAnswer": true,
+      "explanation": "True. Chalcedon's own formula names Christ as 'begotten... from Mary the virgin, the God-bearer' in the same breath as defining two natures in one Person — showing that Theotokos and the two-natures doctrine were never seen as being in tension, but as supporting each other.",
+      "hint": "Read Chalcedon's own definition closely; it uses the Greek word for God-bearer directly.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "begotten before the ages from the Father as regards his divinity, and in the last days the same, for us and for our salvation, from Mary the virgin, the God-bearer, as regards his humanity"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-003",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1900,
+      "prompt": "The Lateran Council of 649, under Pope St. Martin I, condemned anyone who denied Mary's virginity in which three moments?",
+      "choices": [
+        "Before, during, and after the birth of Christ",
+        "Only before the conception of Christ",
+        "Only at the moment of the Annunciation",
+        "Only after the Ascension"
+      ],
+      "correctAnswer": "Before, during, and after the birth of Christ",
+      "explanation": "This is the conciliar basis of 'ever-virgin.' The council's canon explicitly anathematizes denying any of the three moments, which is why the doctrine is stated as a single continuous claim rather than three separate ones.",
+      "hint": "You covered this three-part formula back in level two; the council is the source of it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)",
+          "quote": "conceived without seed... and incorruptibly bore him, her virginity remaining equally inviolate after the birth"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-004",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "What is the theological reasoning connecting the Immaculate Conception to Christ's own sinlessness, as reflected in Vatican II?",
+      "choices": [
+        "She is prepared by grace to be a fitting dwelling for the Son, since nothing sinful could bear him worthily",
+        "She earned the privilege through her own merit before conceiving Christ",
+        "The connection is purely devotional and has no doctrinal basis",
+        "It shows Christ's human nature came only from the Father, not from Mary"
+      ],
+      "correctAnswer": "She is prepared by grace to be a fitting dwelling for the Son, since nothing sinful could bear him worthily",
+      "explanation": "Lumen Gentium calls her 'enriched from the first instant of her conception with the splendor of an entirely unique holiness' precisely because she was to be the Mother of God. The preparation serves the Incarnation; it is not a private honour detached from it.",
+      "hint": "Ask what purpose the Council gives for the grace, not just what the grace consists of.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 56 (1964)",
+          "quote": "enriched from the first instant of her conception with the splendor of an entirely unique holiness"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-005",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1900,
+      "prompt": "Munificentissimus Deus (1950) teaches the Assumption as a preview of the general resurrection promised to 'those who have ____ Christ,' since she already shares bodily in what all the redeemed await.",
+      "correctAnswer": "believed in",
+      "explanation": "Pius XII presents the Assumption as the first full instance of what Christ's resurrection means for everyone united to him — a preview, not an exception, of the destiny of every believer.",
+      "hint": "The phrase names the basic condition every Christian shares with Mary.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:20",
+          "quote": "But now Christ has been raised from the dead, the firstfruits of those who have fallen asleep."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-006",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1950,
+      "prompt": "True or False: The Council of Ephesus condemned Nestorius in person, present and defending himself at the council.",
+      "correctAnswer": false,
+      "explanation": "False. Nestorius refused to appear when first summoned, and the council opened and condemned him in his absence, before the delegation supporting him from Antioch had even arrived — a genuinely messy piece of conciliar history that later councils had to help sort out.",
+      "hint": "Ask whether he actually showed up when the council first convened.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-007",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "What does it mean that the Marian dogmas were defined at different points across fifteen centuries — 431, 649, 1854, 1950?",
+      "choices": [
+        "Doctrine develops in clarity and explicit definition over time without changing in substance",
+        "The Church kept inventing new doctrines as it went along",
+        "Earlier councils were later found to be mistaken and had to be corrected",
+        "Only the two ancient definitions are actually binding"
+      ],
+      "correctAnswer": "Doctrine develops in clarity and explicit definition over time without changing in substance",
+      "explanation": "This is the same principle behind every doctrine's history: the Church does not invent new truths but comes to understand and formally state, with increasing precision, what was implicit in Revelation from the beginning. The gap between Ephesus and 1950 reflects growth in clarity, not addition of new content.",
+      "hint": "Ask whether the later definitions could contradict the earlier ones, or only make something more precise.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-008",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2000,
+      "prompt": "Lumen Gentium 53 calls Mary a member of the Church who is also, in some sense, distinct from it. How does it phrase this?",
+      "choices": [
+        "She is a 'preeminent and altogether singular member of the Church,' and its 'model'",
+        "She stands entirely outside the Church, above its ordinary membership",
+        "She is described only as one believer among equals, with no special status",
+        "The Council avoided addressing her relationship to the Church at all"
+      ],
+      "correctAnswer": "She is a 'preeminent and altogether singular member of the Church,' and its 'model'",
+      "explanation": "The Council holds two things together deliberately: she is genuinely a member of the Church, redeemed like every other member, and also its highest exemplar — 'type' of the Church, as the text also calls her, in her hearing and doing God's word.",
+      "hint": "The Council's own wording pairs 'member' with two intensifying adjectives rather than removing her from membership entirely.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
+          "quote": "the Blessed Virgin is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer... She is also, however, joined to the Church by reason of the human race... a preeminent and altogether singular member of the Church."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-009",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 2000,
+      "prompt": "Vatican II chose to place its teaching on Mary as the final chapter of Lumen Gentium, the constitution on the Church, rather than in a separate document. What did that decision signal?",
+      "choices": [
+        "That Mariology is properly understood within ecclesiology, not as a separate treatise standing apart from it",
+        "That the bishops considered Marian doctrine a minor topic unworthy of its own document",
+        "That the decision was purely a matter of scheduling, with no theological meaning",
+        "That Mary is to be understood primarily as an institution rather than a person"
+      ],
+      "correctAnswer": "That Mariology is properly understood within ecclesiology, not as a separate treatise standing apart from it",
+      "explanation": "The vote was close and debated at the time precisely because it was seen as substantive. Placing her within the document on the Church, rather than in a freestanding Mariological constitution, reflects the same principle running through this whole topic: everything true about Mary serves and clarifies the doctrine of Christ and his Church.",
+      "hint": "Ask why locating a teaching inside one document rather than a separate one would itself carry meaning.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium, Chapter VIII (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-010",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1950,
+      "prompt": "Match each council or document to what it actually defined about Mary.",
+      "pairs": [
+        {
+          "left": "Council of Ephesus (431)",
+          "right": "Theotokos, against Nestorius dividing Christ into two persons"
+        },
+        {
+          "left": "Lateran Council (649)",
+          "right": "Perpetual virginity before, during, and after the birth"
+        },
+        {
+          "left": "Ineffabilis Deus (1854)",
+          "right": "The Immaculate Conception"
+        },
+        {
+          "left": "Munificentissimus Deus (1950)",
+          "right": "The Assumption, body and soul, into glory"
+        }
+      ],
+      "explanation": "Four documents spanning 431 to 1950, each defining one dogma with precision, none of them adding anything not already implicit in what the Church had always believed about her.",
+      "hint": "Order them by date: two ancient councils, then two modern papal definitions.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
     }
   ]
 }
