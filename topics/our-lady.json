@@ -2089,6 +2089,531 @@
         }
       ],
       "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-001",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2000,
+      "prompt": "The Church distinguishes 'latria,' 'dulia,' and 'hyperdulia.' What does latria mean?",
+      "choices": [
+        "The adoration owed to God alone",
+        "Veneration owed to the saints",
+        "The special veneration given to Mary",
+        "Honor given to sacred images and relics"
+      ],
+      "correctAnswer": "The adoration owed to God alone",
+      "explanation": "Latria is never given to any creature — not to Mary, not to the greatest saint, not to an angel. The whole point of the three-word distinction is to make the line impossible to blur: one word for God alone, and two further words dividing up everything owed to creatures.",
+      "hint": "This is the only one of the three terms that can never, under any circumstance, apply to a creature.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 25 (1563)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-002",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2000,
+      "prompt": "'Hyperdulia' is the term for the veneration given specifically to:",
+      "choices": [
+        "Mary alone, as greater than the veneration given to any other saint",
+        "God the Father specifically",
+        "Relics of the True Cross",
+        "Icons in Eastern liturgy generally"
+      ],
+      "correctAnswer": "Mary alone, as greater than the veneration given to any other saint",
+      "explanation": "Hyperdulia is still dulia — the honor owed to a creature, not adoration — but raised to its highest degree because of who she is in relation to Christ. It is a difference of degree within veneration, never a crossing over into adoration.",
+      "hint": "The Greek prefix means 'above' or 'beyond' — beyond ordinary dulia, but still short of latria.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-003",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2050,
+      "prompt": "True or False: Because hyperdulia is a greater degree of honor than dulia, it is a step closer to latria and can shade into it under the right circumstances.",
+      "correctAnswer": false,
+      "explanation": "False, and this is the exact misunderstanding the three-term distinction exists to block. Latria differs from dulia and hyperdulia in kind, not in degree — no amount of veneration, however great, becomes adoration. Hyperdulia is the ceiling of dulia, not a floor under latria.",
+      "hint": "Ask whether the difference between latria and the other two terms is a difference of amount or a difference of kind.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-004",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "Scripture mentions 'brothers' of Jesus, including James and Joseph. What is the traditional Catholic response to this, given the dogma of Mary's perpetual virginity?",
+      "choices": [
+        "The Hebrew and Aramaic behind 'brother' covered a wide range of kin, and the same Gospels identify these two as sons of a different Mary",
+        "The Church denies these verses are authentic Scripture",
+        "The Church teaches Joseph had children from a previous marriage, and this is the only response ever offered",
+        "The Church has no response and treats this as an open contradiction"
+      ],
+      "correctAnswer": "The Hebrew and Aramaic behind 'brother' covered a wide range of kin, and the same Gospels identify these two as sons of a different Mary",
+      "explanation": "Matthew's own Gospel names 'Mary the mother of James and Joseph' as a distinct woman present at the crucifixion — not the mother of Jesus. Hebrew and Aramaic had no separate word for 'cousin' or 'kinsman'; 'ah' (and the Greek 'adelphos' used to translate it) regularly covered brothers, cousins, and other close relatives, as it does in the Septuagint's own use of the same word for Lot, Abraham's nephew.",
+      "hint": "Compare Matthew 27:56 to Matthew 13:55 and ask whose sons James and Joseph actually are.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 27:56",
+          "quote": "Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee."
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 13:8",
+          "quote": "Let there be no strife between you and me... for we are kinsmen."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Jerome, Against Helvidius"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-005",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2050,
+      "prompt": "True or False: The Gospels name the 'brothers of the Lord' as James and Joseph without ever separately identifying a mother named Mary who is distinct from Jesus' mother.",
+      "correctAnswer": false,
+      "explanation": "False. Matthew 27:56 and Mark 15:40 both explicitly name 'Mary the mother of James and Joseph/Joses' as a woman present at the crucifixion, standing alongside Mary Magdalene and Mary the mother of Jesus is not listed as her — the traditional identification of this second Mary is the wife of Clopas from John 19:25.",
+      "hint": "Check whether the Gospels actually name a second Mary as the mother of James and Joseph.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 27:56"
+        },
+        {
+          "type": "scripture",
+          "reference": "Mark 15:40"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 19:25",
+          "quote": "standing by the cross of Jesus were his mother... and Mary the wife of Clopas"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-006",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "An objection runs: 'If Mary is called Mediatrix, doesn't that make her a second mediator alongside Christ, contradicting 1 Timothy 2:5?' What is the accurate Catholic response?",
+      "choices": [
+        "Her mediation is entirely derivative, flowing from and dependent on Christ's one mediation, never alongside or independent of it",
+        "1 Timothy 2:5 has been formally reinterpreted by the Church and no longer applies",
+        "There are in fact two equal mediators, and the objection correctly identifies a real tension",
+        "The title Mediatrix was withdrawn after Vatican II"
+      ],
+      "correctAnswer": "Her mediation is entirely derivative, flowing from and dependent on Christ's one mediation, never alongside or independent of it",
+      "explanation": "Lumen Gentium answers this directly: her role 'flows forth from the superabundance of the merits of Christ' and depends entirely on it — the same relationship a beam of light has to its source, not two separate lights. Paul's 'one mediator' and Mary's intercession are not in competition because her intercession is not a second, independent channel.",
+      "hint": "Ask whether her mediation is presented as a second source alongside Christ's, or as something running through his.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5",
+          "quote": "For there is one God. There is also one mediator between God and men, the man Christ Jesus."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60 (1964)",
+          "quote": "the maternal duty of Mary toward men in no way obscures or diminishes this unique mediation of Christ, but rather shows its power."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-007",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 2100,
+      "prompt": "The Council of Ephesus's condemnation of Nestorius is sometimes mistaken for elevating Mary above her actual role. What did Ephesus actually intend to protect?",
+      "choices": [
+        "The unity of Christ's person — that one and the same Son is both God and man",
+        "Mary's own sinlessness",
+        "The primacy of the Bishop of Rome",
+        "The canon of Scripture"
+      ],
+      "correctAnswer": "The unity of Christ's person — that one and the same Son is both God and man",
+      "explanation": "This is worth restating precisely because the objection recurs: Ephesus is a Christological council that uses a Marian title as its instrument. Get the title wrong, and you have actually gotten Christ wrong — split him into two persons rather than exalted his mother.",
+      "hint": "Ask what the council was actually trying to settle, using Mary's title as the test case.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-008",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 2050,
+      "prompt": "St. Jerome's fourth-century treatise responding to the claim that Mary had other children by Joseph is titled Against ____.",
+      "correctAnswer": "Helvidius",
+      "explanation": "Helvidius argued from the 'brothers of the Lord' passages that Mary bore other children after Jesus. Jerome's rebuttal — arguing from the same linguistic point about Hebrew and Aramaic kinship terms used in level nine's earlier question — became the standard patristic answer, still used today.",
+      "hint": "The title is simply 'Against' the name of the man Jerome is refuting.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 27:56",
+          "quote": "Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Jerome, Against Helvidius"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-009",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 2100,
+      "prompt": "True or False: Because Mary's title 'Mother of God' answers a fifth-century Christological dispute, it has no bearing on ordinary Catholic devotion today.",
+      "correctAnswer": false,
+      "explanation": "False. The title is prayed daily in the Hail Mary and in the Church's liturgy precisely because the doctrine it defends — who Christ really is — remains true every day, not only in the fifth century. A dogma settled once does not become inert; it keeps doing its work every time it is prayed.",
+      "hint": "Ask whether a settled dogma stops mattering once the historical controversy that produced it has ended.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l9-010",
+      "topic": "our-lady",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 2100,
+      "prompt": "Match each common objection to Marian doctrine with its accurate Catholic answer.",
+      "pairs": [
+        {
+          "left": "\"Catholics worship Mary\"",
+          "right": "Latria is owed to God alone; Mary receives hyperdulia, a different kind of honor"
+        },
+        {
+          "left": "\"Jesus had actual siblings, so Mary was not ever-virgin\"",
+          "right": "'Brothers' in Hebrew/Aramaic covered wider kin, and a second Mary is named as their mother"
+        },
+        {
+          "left": "\"Calling her Mediatrix contradicts 1 Timothy 2:5\"",
+          "right": "Her mediation flows entirely from and depends on Christ's one mediation"
+        },
+        {
+          "left": "\"Ephesus wrongly elevated Mary\"",
+          "right": "The council's real subject was the unity of Christ's own person"
+        }
+      ],
+      "explanation": "Every one of these objections trades on collapsing a real distinction the Church actually makes. Restoring the distinction — kind versus degree, derivative versus independent, Mary's title versus Mary's person — answers each one without denying anything either side is trying to protect.",
+      "hint": "Each answer restores a distinction that the objection quietly erases.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 27:56"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-001",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2150,
+      "prompt": "Which Marian solemnity falls on January 1st, at the very start of the liturgical year's civil calendar?",
+      "choices": [
+        "Mary, Mother of God",
+        "The Immaculate Conception",
+        "The Assumption",
+        "Our Lady of Guadalupe"
+      ],
+      "correctAnswer": "Mary, Mother of God",
+      "explanation": "The Church opens the new civil year celebrating the very title Ephesus defined in 431 — a deliberate placement, since every other Marian feast in the calendar ultimately depends on this one.",
+      "hint": "It is the same title defined at the Council of Ephesus, now placed as the year's first Marian solemnity.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-002",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: The Solemnity of the Immaculate Conception (December 8th) falls during Advent, the season of preparation for Christ's coming.",
+      "correctAnswer": true,
+      "explanation": "True, and the placement is deliberate: nine months before September 8th's feast of Mary's Nativity, and squarely inside Advent, connecting the preparation of Mary herself to the Church's own preparation for Christmas.",
+      "hint": "Count nine months forward from December 8th and see what feast you land on.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-003",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What is the liturgical significance of August 15th's Solemnity of the Assumption?",
+      "choices": [
+        "It is a Holy Day of Obligation celebrating the dogma defined in 1950",
+        "It is a minor optional memorial with no fixed date",
+        "It commemorates the Annunciation rather than the Assumption despite its name",
+        "It was removed from the calendar after Vatican II"
+      ],
+      "correctAnswer": "It is a Holy Day of Obligation celebrating the dogma defined in 1950",
+      "explanation": "It ranks among the Church's most solemn feasts, obligatory in most of the world, and is the oldest of the great Marian feasts historically — kept in Jerusalem centuries before Pius XII gave it dogmatic definition.",
+      "hint": "This is the feast tied to the dogma studied back in level two and level eight.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-004",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 2150,
+      "prompt": "Pope Paul VI instituted the feast of Mary, Mother of the ____, to be celebrated on the Monday after Pentecost, highlighting her spiritual motherhood of every believer.",
+      "correctAnswer": "Church",
+      "explanation": "The title itself comes from John 19:27 — the disciple receiving Mary as mother, and so every disciple after him. Placing the feast immediately after Pentecost ties her motherhood of the Church directly to the Church's own birth.",
+      "hint": "This is the same title used as this level's own heading.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 19:26-27"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 53 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-005",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "In what sense is Mary called an 'eschatological icon' of the Church, in the Church's own theological language?",
+      "choices": [
+        "She already shows, in her own body, the glory the whole Church hopes to share at the end of time",
+        "She is a symbol with no connection to actual future events",
+        "The term means she predicted the end of the world",
+        "It refers only to her appearance in medieval icons"
+      ],
+      "correctAnswer": "She already shows, in her own body, the glory the whole Church hopes to share at the end of time",
+      "explanation": "The Assumption means the general resurrection has already happened, bodily, for one member of the Church. She stands at the end of the story the rest of the Church is still living — which is exactly what 'eschatological icon' means: a living image of where all of this is going.",
+      "hint": "'Eschatological' concerns the last things; ask what she already possesses that everyone else still awaits.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 68 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-006",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2200,
+      "prompt": "True or False: Lumen Gentium calls Mary a 'sign of sure hope and comfort for the pilgrim People of God' while it is still journeying through history.",
+      "correctAnswer": true,
+      "explanation": "True — the Council's very last words on Mary. She is not presented as a figure safely finished with the story, but as a living sign of hope for a Church that has not yet arrived.",
+      "hint": "This is the Council's own closing line on the whole of Marian doctrine.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 68 (1964)",
+          "quote": "In the meantime the Mother of Jesus, in the glory which she possesses in body and soul in heaven, is the image and beginning of the Church as it is to be perfected in the world to come. Likewise she shines forth on earth... as a sign of sure hope and comfort to the pilgrim People of God."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-007",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2250,
+      "prompt": "Having covered her titles, her place in Scripture and typology, the apparitions, devotion, the councils, and the common objections, what is the single thread this whole topic has been arguing?",
+      "choices": [
+        "Every true thing about Mary exists to reveal and safeguard something true about Christ",
+        "Mary's role is independent of and equal to Christ's own",
+        "Marian doctrine developed with no real connection to Christology",
+        "The various titles and devotions are optional cultural additions with no doctrinal weight"
+      ],
+      "correctAnswer": "Every true thing about Mary exists to reveal and safeguard something true about Christ",
+      "explanation": "From Theotokos protecting the unity of Christ's person, to the Immaculate Conception showing the completeness of his redemption, to the Assumption previewing his own resurrection's meaning for the redeemed — every genuine Marian claim, examined closely, turns out to be in service of Christ, never in competition with him.",
+      "hint": "Look back across every level: what does each dogma, title, and devotion ultimately protect or reveal?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60, 65 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-008",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 2250,
+      "prompt": "A student objects: 'If Marian doctrine is really all about Christ, why does the Church spend so much time on Mary specifically, rather than just teaching about Jesus directly?' What is the accurate response?",
+      "choices": [
+        "Because Christ himself entered the world through her, so understanding him rightly requires understanding his relationship to her rightly",
+        "The objection is correct and Marian doctrine should be minimized",
+        "Marian doctrine developed as a rival devotion that later needed to be tied back to Christ artificially",
+        "There is no real answer; the Church has never addressed this tension"
+      ],
+      "correctAnswer": "Because Christ himself entered the world through her, so understanding him rightly requires understanding his relationship to her rightly",
+      "explanation": "The Incarnation is not incidental to Mary — it happened through her, in her flesh, by her free consent. A Christology that tried to bypass her would be trying to bypass the very way God chose to become man. Studying her rightly is not a detour from Christ; it is one of the more direct routes to him.",
+      "hint": "Ask how the Incarnation itself actually happened, and whether Mary's role in it was optional.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:38"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-009",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 2200,
+      "prompt": "True or False: This topic has now covered all four defined Marian dogmas, the Old and New Testament typology behind them, her many titles, the approved apparitions, the Rosary and other devotions, the councils that defined the dogmas, and the common objections raised against Marian doctrine.",
+      "correctAnswer": true,
+      "explanation": "True — that is the full arc of this ten-level topic, ending here at Mary's place in the Church's liturgical year and her identity as its eschatological icon: the living sign of what the whole pilgrim Church still hopes to become.",
+      "hint": "This question is simply checking whether you can name back everything this topic has actually covered.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 68 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l10-010",
+      "topic": "our-lady",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 2250,
+      "prompt": "Match each major Marian solemnity to its date or placement in the liturgical year.",
+      "pairs": [
+        {
+          "left": "Mary, Mother of God",
+          "right": "January 1st, opening the civil year"
+        },
+        {
+          "left": "The Immaculate Conception",
+          "right": "December 8th, during Advent"
+        },
+        {
+          "left": "The Assumption",
+          "right": "August 15th, a Holy Day of Obligation"
+        },
+        {
+          "left": "Mary, Mother of the Church",
+          "right": "The Monday after Pentecost"
+        }
+      ],
+      "explanation": "The Church's calendar is not arbitrary: each Marian feast is placed where it is to say something — the year opens with the title that protects Christ's identity, and her motherhood of the Church is celebrated the moment the Church itself is born at Pentecost.",
+      "hint": "Think through the liturgical year in order and place each feast in its season.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 53 (1964)"
+        }
+      ],
+      "audit_status": "pending"
     }
   ]
 }
