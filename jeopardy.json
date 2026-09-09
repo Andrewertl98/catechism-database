@@ -1,0 +1,250 @@
+{
+  "game": "jeopardy",
+  "description": "Category boards. Each board has categories, each with clues at rising point values. The player picks a cell, reads the clue, and types the answer (the 'in the form of a question' phrasing is accepted but not required). Every clue carries an authoritative citation.",
+  "boards": [
+    {
+      "id": "jeo-board-1",
+      "title": "Foundations",
+      "categories": [
+        {
+          "title": "The Sacraments",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The gateway to the other sacraments, it frees from original sin and makes one a member of the Church.",
+              "answer": "Baptism",
+              "acceptedAnswers": ["What is Baptism", "the sacrament of Baptism"],
+              "explanation": "Baptism regenerates the person as a child of God and cannot be repeated.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1213" }]
+            },
+            {
+              "value": 400,
+              "clue": "This sacrament seals the baptized with the Gift of the Holy Spirit and completes baptismal grace.",
+              "answer": "Confirmation",
+              "acceptedAnswers": ["What is Confirmation", "the sacrament of Confirmation"],
+              "explanation": "Confirmation more perfectly binds the Christian to the Church and strengthens them for witness.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1285" }]
+            },
+            {
+              "value": 600,
+              "clue": "Also called Penance and Confession, this sacrament restores a person to grace after grave sin.",
+              "answer": "Reconciliation",
+              "acceptedAnswers": ["What is Reconciliation", "Confession", "Penance", "the sacrament of Penance", "the sacrament of Reconciliation"],
+              "explanation": "Through the priest's absolution God grants pardon and peace to the contrite sinner.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1422" }]
+            }
+          ]
+        },
+        {
+          "title": "Salvation History",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "God set a rainbow in the sky as the sign of His covenant with this man after the flood.",
+              "answer": "Noah",
+              "acceptedAnswers": ["Who is Noah"],
+              "explanation": "The covenant with Noah remains in force as long as the world lasts, embracing all living creatures.",
+              "citations": [{ "type": "scripture", "reference": "Genesis 9:12-13" }]
+            },
+            {
+              "value": 400,
+              "clue": "At this mountain Moses received the Law, and the covenant was sealed with the blood of sacrifice.",
+              "answer": "Sinai",
+              "acceptedAnswers": ["What is Sinai", "Mount Sinai", "Mt. Sinai", "Horeb"],
+              "explanation": "The Sinai covenant made Israel a priestly people belonging to God.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2060" }]
+            },
+            {
+              "value": 600,
+              "clue": "God promised this king that his throne and his house would be established forever, a promise fulfilled in Christ.",
+              "answer": "David",
+              "acceptedAnswers": ["Who is David", "King David"],
+              "explanation": "The everlasting kingdom promised to David is realized in the reign of his descendant, the Messiah.",
+              "citations": [{ "type": "scripture", "reference": "2 Samuel 7:16" }]
+            }
+          ]
+        },
+        {
+          "title": "The Creed",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The Creed professed at Sunday Mass takes its name from councils held in 325 and 381.",
+              "answer": "the Nicene Creed",
+              "acceptedAnswers": ["What is the Nicene Creed", "Nicene Creed", "the Nicene-Constantinopolitan Creed"],
+              "explanation": "It draws on the great councils of Nicaea and Constantinople and is common to East and West.",
+              "citations": [{ "type": "ccc", "reference": "CCC 195" }]
+            },
+            {
+              "value": 400,
+              "clue": "Added at Nicaea, this term means 'of the same substance' and affirms that the Son is fully God.",
+              "answer": "consubstantial",
+              "acceptedAnswers": ["What is consubstantial", "homoousios", "of the same substance", "one in being"],
+              "explanation": "Against Arius, Nicaea confessed the Son as consubstantial with the Father.",
+              "citations": [{ "type": "ccc", "reference": "CCC 465" }]
+            },
+            {
+              "value": 600,
+              "clue": "The Creed names these four marks of the Church.",
+              "answer": "one, holy, catholic, and apostolic",
+              "acceptedAnswers": ["What are one, holy, catholic, and apostolic", "one holy catholic and apostolic", "the four marks"],
+              "explanation": "These four inseparable marks identify the Church Christ founded.",
+              "citations": [{ "type": "ccc", "reference": "CCC 811" }]
+            }
+          ]
+        },
+        {
+          "title": "Prayer",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The Lord taught this prayer of seven petitions when the disciples asked Him how to pray.",
+              "answer": "the Our Father",
+              "acceptedAnswers": ["What is the Our Father", "the Lord's Prayer", "Our Father", "the Lord's Prayer (Our Father)", "Pater Noster"],
+              "explanation": "The Catechism calls the Lord's Prayer the summary of the whole Gospel.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2759" }]
+            },
+            {
+              "value": 400,
+              "clue": "One of the three major expressions of prayer, it rests wordlessly in God's presence, a 'gaze of faith.'",
+              "answer": "contemplation",
+              "acceptedAnswers": ["What is contemplation", "contemplative prayer", "contemplative"],
+              "explanation": "Contemplative prayer is a silent love that keeps its eyes fixed on Jesus.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2724" }]
+            },
+            {
+              "value": 600,
+              "clue": "This Old Testament book of 150 prayers is prayed daily by the Church in the Liturgy of the Hours.",
+              "answer": "the Psalms",
+              "acceptedAnswers": ["What are the Psalms", "Psalms", "the Book of Psalms", "the Psalter"],
+              "explanation": "The Psalms are the masterwork of prayer in the Old Testament and remain the Church's own.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2585" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jeo-board-2",
+      "title": "Deeper Waters",
+      "categories": [
+        {
+          "title": "Doctors & Fathers",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This bishop of Hippo wrote the Confessions and The City of God.",
+              "answer": "Augustine",
+              "acceptedAnswers": ["Who is Augustine", "St. Augustine", "Augustine of Hippo"],
+              "explanation": "Augustine is among the most influential of the Western Fathers and Doctors of the Church.",
+              "citations": [{ "type": "ccc", "reference": "CCC 30" }]
+            },
+            {
+              "value": 400,
+              "clue": "The Angelic Doctor, this Dominican wrote the Summa Theologiae and the Corpus Christi hymns.",
+              "answer": "Thomas Aquinas",
+              "acceptedAnswers": ["Who is Thomas Aquinas", "St. Thomas Aquinas", "Aquinas", "Thomas"],
+              "explanation": "The Catechism quotes Aquinas's Eucharistic hymn Adoro te devote.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1381" }]
+            },
+            {
+              "value": 600,
+              "clue": "This deacon and later bishop of Alexandria stood almost alone against Arianism and was exiled five times.",
+              "answer": "Athanasius",
+              "acceptedAnswers": ["Who is Athanasius", "St. Athanasius", "Athanasius of Alexandria"],
+              "explanation": "Athanasius defended the Nicene confession of Christ's full divinity through decades of exile.",
+              "citations": [{ "type": "council", "reference": "First Council of Nicaea (325)" }]
+            }
+          ]
+        },
+        {
+          "title": "The Mass",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The Mass has two principal parts: the Liturgy of the Word and this.",
+              "answer": "the Liturgy of the Eucharist",
+              "acceptedAnswers": ["What is the Liturgy of the Eucharist", "Liturgy of the Eucharist"],
+              "explanation": "Word and Eucharist together form one single act of worship.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1346" }]
+            },
+            {
+              "value": 400,
+              "clue": "The change of the whole substance of bread and wine into Christ's Body and Blood is called this.",
+              "answer": "transubstantiation",
+              "acceptedAnswers": ["What is transubstantiation"],
+              "explanation": "The appearances of bread and wine remain, but the reality is now Christ Himself.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1376" }]
+            },
+            {
+              "value": 600,
+              "clue": "The Mass is not a new sacrifice but the making-present of this one event.",
+              "answer": "the sacrifice of the Cross",
+              "acceptedAnswers": ["What is the sacrifice of the Cross", "the Cross", "Calvary", "Christ's sacrifice on the Cross", "the Paschal sacrifice"],
+              "explanation": "The Eucharist re-presents the one sacrifice of Calvary and applies its fruit.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1366" }]
+            }
+          ]
+        },
+        {
+          "title": "Mary",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This dogma holds that Mary, from the first instant of her conception, was preserved free from original sin.",
+              "answer": "the Immaculate Conception",
+              "acceptedAnswers": ["What is the Immaculate Conception", "Immaculate Conception"],
+              "explanation": "Mary was preserved immaculate by a singular grace, in view of the merits of Christ.",
+              "citations": [{ "type": "ccc", "reference": "CCC 491" }]
+            },
+            {
+              "value": 400,
+              "clue": "At the end of her earthly life, Mary was taken body and soul into heavenly glory; this is called her ___.",
+              "answer": "Assumption",
+              "acceptedAnswers": ["What is the Assumption", "the Assumption"],
+              "explanation": "The Assumption is a singular sharing in her Son's Resurrection and anticipates the glory of all the redeemed.",
+              "citations": [{ "type": "ccc", "reference": "CCC 966" }]
+            },
+            {
+              "value": 600,
+              "clue": "The Council of Ephesus in 431 defended this title of Mary, meaning 'God-bearer.'",
+              "answer": "Theotokos",
+              "acceptedAnswers": ["What is Theotokos", "Mother of God", "God-bearer"],
+              "explanation": "Because her Son is one divine person, Mary is truly Mother of God.",
+              "citations": [{ "type": "ccc", "reference": "CCC 495" }]
+            }
+          ]
+        },
+        {
+          "title": "The Last Things",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The four last things are death, judgment, heaven, and this.",
+              "answer": "hell",
+              "acceptedAnswers": ["What is hell"],
+              "explanation": "Hell is the state of definitive self-exclusion from communion with God.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1035" }]
+            },
+            {
+              "value": 400,
+              "clue": "This is the final purification of those who die in God's grace but are still imperfectly purified.",
+              "answer": "purgatory",
+              "acceptedAnswers": ["What is purgatory"],
+              "explanation": "The purification of purgatory is entirely different from the punishment of the damned.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1030" }]
+            },
+            {
+              "value": 600,
+              "clue": "At the end of time Christ returns in glory and all the dead rise for this event.",
+              "answer": "the Last Judgment",
+              "acceptedAnswers": ["What is the Last Judgment", "the General Judgment", "the Final Judgment", "the Last Judgement"],
+              "explanation": "The Last Judgment reveals the ultimate meaning of the whole work of creation and salvation.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1038" }]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -154,6 +154,101 @@ def check_accepted_answers(question: dict, location: str, errors: list[str]) -> 
         )
 
 
+AUX_GAME_FILES = ("who-am-i.json", "guess-the-book.json", "jeopardy.json")
+
+
+def _has_authoritative_citation(citations: list) -> bool:
+    return any(c.get("type") in AUTHORITATIVE_CITATION_TYPES for c in (citations or []))
+
+
+def validate_aux_games(errors: list[str], warnings: list[str]) -> None:
+    """Structural + citation checks for the standalone mini-game content
+    files (Who Am I?, Guess the Book, Jeopardy). These live at the repo root,
+    not in topics/, and are not questions -- but the same 'every item carries
+    an authoritative Magisterial citation' rule applies. Absent files are
+    fine (a build without that game just shows nothing)."""
+    seen: dict[str, str] = {}
+
+    def check_id(item_id: str, where: str) -> None:
+        if not item_id:
+            errors.append(f"{where}: item is missing an 'id'")
+        elif item_id in seen:
+            errors.append(f"{where}: duplicate id '{item_id}' (also in {seen[item_id]})")
+        else:
+            seen[item_id] = where
+
+    # ── who-am-i.json ─────────────────────────────────────────────────────
+    path = REPO_ROOT / "who-am-i.json"
+    if path.exists():
+        try:
+            data = load_json(path)
+        except LoadError as e:
+            errors.append(str(e))
+            data = None
+        for item in (data or {}).get("items", []):
+            qid = item.get("id", "")
+            check_id(qid, f"who-am-i.json:{qid or '?'}")
+            if item.get("answerKind") not in ("person", "thing"):
+                errors.append(f"who-am-i.json:{qid}: answerKind must be 'person' or 'thing'")
+            if not str(item.get("answer", "")).strip():
+                errors.append(f"who-am-i.json:{qid}: missing 'answer'")
+            clues = item.get("clues") or []
+            if not (2 <= len(clues) <= 6) or any(not str(c).strip() for c in clues):
+                errors.append(f"who-am-i.json:{qid}: 'clues' must be 2-6 non-empty strings (got {len(clues)})")
+            if not _has_authoritative_citation(item.get("citations")):
+                errors.append(f"who-am-i.json:{qid}: no authoritative Magisterial citation")
+
+    # ── guess-the-book.json ──────────────────────────────────────────────
+    path = REPO_ROOT / "guess-the-book.json"
+    if path.exists():
+        try:
+            data = load_json(path)
+        except LoadError as e:
+            errors.append(str(e))
+            data = None
+        for item in (data or {}).get("items", []):
+            qid = item.get("id", "")
+            check_id(qid, f"guess-the-book.json:{qid or '?'}")
+            if item.get("testament") not in ("OT", "NT"):
+                errors.append(f"guess-the-book.json:{qid}: testament must be 'OT' or 'NT'")
+            if not str(item.get("book", "")).strip():
+                errors.append(f"guess-the-book.json:{qid}: missing 'book'")
+            if not str(item.get("passage", "")).strip():
+                errors.append(f"guess-the-book.json:{qid}: missing 'passage'")
+            if not _has_authoritative_citation(item.get("citations")):
+                errors.append(f"guess-the-book.json:{qid}: no authoritative Magisterial citation")
+
+    # ── jeopardy.json ────────────────────────────────────────────────────
+    path = REPO_ROOT / "jeopardy.json"
+    if path.exists():
+        try:
+            data = load_json(path)
+        except LoadError as e:
+            errors.append(str(e))
+            data = None
+        for board in (data or {}).get("boards", []):
+            bid = board.get("id", "?")
+            check_id(bid, f"jeopardy.json:{bid}")
+            cats = board.get("categories") or []
+            if not cats:
+                errors.append(f"jeopardy.json:{bid}: board has no categories")
+            for cat in cats:
+                ctitle = cat.get("title", "?")
+                clues = cat.get("clues") or []
+                if not clues:
+                    errors.append(f"jeopardy.json:{bid}/{ctitle}: category has no clues")
+                for clue in clues:
+                    label = f"jeopardy.json:{bid}/{ctitle}/{clue.get('value', '?')}"
+                    if not isinstance(clue.get("value"), int):
+                        errors.append(f"{label}: 'value' must be an integer")
+                    if not str(clue.get("clue", "")).strip():
+                        errors.append(f"{label}: missing 'clue' text")
+                    if not str(clue.get("answer", "")).strip():
+                        errors.append(f"{label}: missing 'answer'")
+                    if not _has_authoritative_citation(clue.get("citations")):
+                        errors.append(f"{label}: no authoritative Magisterial citation")
+
+
 def answer_length_tell(question: dict) -> tuple[str, int] | None:
     """Returns (question id, char gap) when a multiple_choice question's
     correct answer is both the single longest choice AND >=30% longer than
@@ -276,6 +371,8 @@ def main() -> None:
 
     for slug in sorted(manifest_slugs - set(actual_counts.keys())):
         warnings.append(f"manifest.json lists topic '{slug}' but topics/{slug}.json has no valid questions")
+
+    validate_aux_games(errors, warnings)
 
     if length_tells and mc_total:
         worst = sorted(length_tells, key=lambda t: t[1], reverse=True)[:5]
