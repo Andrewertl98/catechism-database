@@ -154,6 +154,28 @@ def check_accepted_answers(question: dict, location: str, errors: list[str]) -> 
         )
 
 
+def answer_length_tell(question: dict) -> tuple[str, int] | None:
+    """Returns (question id, char gap) when a multiple_choice question's
+    correct answer is both the single longest choice AND >=30% longer than
+    the next-longest -- i.e. "pick the longest option" is a reliable shortcut
+    past the theology. Returns None otherwise. Aggregated by the caller into
+    one summary line rather than a warning per question: this is a systemic
+    authoring pattern (see the app's known-bugs 1.8), not a set of outliers."""
+    if question.get("type") != "multiple_choice":
+        return None
+    choices = question.get("choices") or []
+    correct = question.get("correctAnswer")
+    if len(choices) < 2 or correct not in choices:
+        return None
+    lengths = sorted((len(c) for c in choices), reverse=True)
+    correct_len = len(correct)
+    if correct_len < lengths[0] or lengths[0] == lengths[1] or lengths[1] == 0:
+        return None
+    if (correct_len - lengths[1]) / correct_len >= 0.30:
+        return (question.get("id", "?"), correct_len - lengths[1])
+    return None
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate the FIDES catechism-database.")
     parser.add_argument("--ci", action="store_true", help="CI-friendly output; same checks, exits non-zero on failure.")
@@ -176,6 +198,8 @@ def main() -> None:
     manifest_slugs = {t["slug"] for t in manifest.get("topics", [])}
     seen_ids: dict[str, str] = {}
     actual_counts: dict[str, dict[str, int]] = {}
+    length_tells: list[tuple[str, int]] = []
+    mc_total = 0
 
     topic_files = sorted(TOPICS_DIR.glob("*.json"))
     if not topic_files:
@@ -222,6 +246,11 @@ def main() -> None:
             check_mini_game_eligibility(q, file_slug, path.name, errors)
             check_accepted_answers(q, path.name, errors)
 
+            mc_total += 1 if q.get("type") == "multiple_choice" else 0
+            tell = answer_length_tell(q)
+            if tell:
+                length_tells.append(tell)
+
             if not q.get("hint"):
                 warnings.append(
                     f"{path.name}: question '{qid}' has no 'hint' field — the "
@@ -247,6 +276,16 @@ def main() -> None:
 
     for slug in sorted(manifest_slugs - set(actual_counts.keys())):
         warnings.append(f"manifest.json lists topic '{slug}' but topics/{slug}.json has no valid questions")
+
+    if length_tells and mc_total:
+        worst = sorted(length_tells, key=lambda t: t[1], reverse=True)[:5]
+        worst_str = ", ".join(f"{qid} (+{gap})" for qid, gap in worst)
+        warnings.append(
+            f"answer-length tell: {len(length_tells)} of {mc_total} multiple_choice questions "
+            f"have the correct answer as the longest choice by 30%+ over the next-longest -- "
+            f'"pick the longest" partly works. Systemic, not per-question; a distractor-padding '
+            f"pass is tracked in the app's known-bugs 1.8. Worst offenders: {worst_str}."
+        )
 
     if warnings:
         print("Warnings:")
