@@ -1,0 +1,204 @@
+{
+  "game": "guess-the-book",
+  "description": "Identify the book of the Bible a passage comes from. Passages are quoted from the New American Bible, revised edition. The player types the book name; acceptedAnswers carries the ordinary variants (numbered-book spellings, common short forms).",
+  "items": [
+    {
+      "id": "gtb-001",
+      "testament": "OT",
+      "book": "Genesis",
+      "acceptedAnswers": [],
+      "passage": "In the beginning, when God created the heavens and the earth—and the earth was without form or shape, with darkness over the abyss and a mighty wind sweeping over the waters—",
+      "explanation": "The opening of Genesis: God creates an ordered cosmos out of nothing, freely and by His word.",
+      "citations": [
+        { "type": "scripture", "reference": "Genesis 1:1-2" }
+      ]
+    },
+    {
+      "id": "gtb-002",
+      "testament": "OT",
+      "book": "Exodus",
+      "acceptedAnswers": [],
+      "passage": "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall not have other gods beside me.",
+      "explanation": "The first of the Ten Commandments, given at Sinai after the deliverance from Egypt.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 20:2-3" }
+      ]
+    },
+    {
+      "id": "gtb-003",
+      "testament": "OT",
+      "book": "Psalms",
+      "acceptedAnswers": ["Psalm", "the Psalms"],
+      "passage": "The LORD is my shepherd; there is nothing I lack. In green pastures he makes me lie down; to still waters he leads me; he restores my soul.",
+      "explanation": "Psalm 23, the shepherd psalm, trusts God's provision and guidance through every danger.",
+      "citations": [
+        { "type": "scripture", "reference": "Psalm 23:1-3" }
+      ]
+    },
+    {
+      "id": "gtb-004",
+      "testament": "OT",
+      "book": "Isaiah",
+      "acceptedAnswers": [],
+      "passage": "For a child is born to us, a son is given to us; upon his shoulder dominion rests. They name him Wonderful Counselor, God-Hero, Father-Forever, Prince of Peace.",
+      "explanation": "Isaiah's prophecy of the messianic king, read by the Church at Christmas.",
+      "citations": [
+        { "type": "scripture", "reference": "Isaiah 9:5" }
+      ]
+    },
+    {
+      "id": "gtb-005",
+      "testament": "OT",
+      "book": "Proverbs",
+      "acceptedAnswers": [],
+      "passage": "Trust in the LORD with all your heart, on your own intelligence do not rely; in all your ways be mindful of him, and he will make straight your paths.",
+      "explanation": "A proverb on the wisdom of entrusting one's whole life to God rather than to one's own cleverness.",
+      "citations": [
+        { "type": "scripture", "reference": "Proverbs 3:5-6" }
+      ]
+    },
+    {
+      "id": "gtb-006",
+      "testament": "OT",
+      "book": "Ecclesiastes",
+      "acceptedAnswers": ["Qoheleth"],
+      "passage": "There is an appointed time for everything, and a time for every affair under the heavens. A time to be born, and a time to die; a time to plant, and a time to uproot the plant.",
+      "explanation": "Qoheleth reflects on the seasons of human life, all of them held within God's providence.",
+      "citations": [
+        { "type": "scripture", "reference": "Ecclesiastes 3:1-2" }
+      ]
+    },
+    {
+      "id": "gtb-007",
+      "testament": "OT",
+      "book": "Job",
+      "acceptedAnswers": [],
+      "passage": "Naked I came forth from my mother's womb, and naked shall I go back again. The LORD gave and the LORD has taken away; blessed be the name of the LORD!",
+      "explanation": "Job's response to catastrophic loss, holding to worship without cursing God.",
+      "citations": [
+        { "type": "scripture", "reference": "Job 1:21" }
+      ]
+    },
+    {
+      "id": "gtb-008",
+      "testament": "OT",
+      "book": "Jonah",
+      "acceptedAnswers": [],
+      "passage": "But the LORD sent a large fish to swallow Jonah, and he remained in the belly of the fish three days and three nights.",
+      "explanation": "Jonah's three days in the fish, which the Lord names as a sign of His own three days in the tomb.",
+      "citations": [
+        { "type": "scripture", "reference": "Jonah 2:1" }
+      ]
+    },
+    {
+      "id": "gtb-009",
+      "testament": "NT",
+      "book": "Matthew",
+      "acceptedAnswers": [],
+      "passage": "Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are they who mourn, for they will be comforted.",
+      "explanation": "The opening of the Beatitudes in the Sermon on the Mount.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 5:3-4" }
+      ]
+    },
+    {
+      "id": "gtb-010",
+      "testament": "NT",
+      "book": "John",
+      "acceptedAnswers": ["Gospel of John"],
+      "passage": "In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things came to be through him.",
+      "explanation": "The prologue of John's Gospel, proclaiming the eternity and divinity of the Word made flesh.",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:1-3" }
+      ]
+    },
+    {
+      "id": "gtb-011",
+      "testament": "NT",
+      "book": "Luke",
+      "acceptedAnswers": ["Gospel of Luke"],
+      "passage": "Do not be afraid; for behold, I proclaim to you good news of great joy that will be for all the people. For today in the city of David a savior has been born for you who is Messiah and Lord.",
+      "explanation": "The angel's announcement to the shepherds on the night of the Nativity.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 2:10-11" }
+      ]
+    },
+    {
+      "id": "gtb-012",
+      "testament": "NT",
+      "book": "Acts",
+      "acceptedAnswers": ["Acts of the Apostles", "the Acts of the Apostles"],
+      "passage": "When the time for Pentecost was fulfilled, they were all in one place together. And suddenly there came from the sky a noise like a strong driving wind, and it filled the entire house.",
+      "explanation": "The descent of the Holy Spirit on the apostles at Pentecost, the birthday of the Church's mission.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 2:1-2" }
+      ]
+    },
+    {
+      "id": "gtb-013",
+      "testament": "NT",
+      "book": "Romans",
+      "acceptedAnswers": [],
+      "passage": "We know that all things work for good for those who love God, who are called according to his purpose.",
+      "explanation": "Paul's assurance that God draws good even out of suffering for those united to Him.",
+      "citations": [
+        { "type": "scripture", "reference": "Romans 8:28" }
+      ]
+    },
+    {
+      "id": "gtb-014",
+      "testament": "NT",
+      "book": "1 Corinthians",
+      "acceptedAnswers": ["First Corinthians", "1 Cor", "One Corinthians"],
+      "passage": "If I speak in human and angelic tongues but do not have love, I am a resounding gong or a clashing cymbal. Love is patient, love is kind.",
+      "explanation": "Paul's hymn to charity, the greatest of the theological virtues and the form of all the rest.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Corinthians 13:1,4" }
+      ]
+    },
+    {
+      "id": "gtb-015",
+      "testament": "NT",
+      "book": "Philippians",
+      "acceptedAnswers": [],
+      "passage": "I have the strength for everything through him who empowers me.",
+      "explanation": "Paul, writing from prison, on the sufficiency of Christ's grace in every circumstance.",
+      "citations": [
+        { "type": "scripture", "reference": "Philippians 4:13" }
+      ]
+    },
+    {
+      "id": "gtb-016",
+      "testament": "NT",
+      "book": "Hebrews",
+      "acceptedAnswers": [],
+      "passage": "Faith is the realization of what is hoped for and evidence of things not seen. Because of it the ancients were well attested.",
+      "explanation": "The definition of faith that opens Hebrews' roll-call of the faithful of the old covenant.",
+      "citations": [
+        { "type": "scripture", "reference": "Hebrews 11:1-2" }
+      ]
+    },
+    {
+      "id": "gtb-017",
+      "testament": "NT",
+      "book": "James",
+      "acceptedAnswers": [],
+      "passage": "So also faith of itself, if it does not have works, is dead. Indeed someone might say, “You have faith and I have works.” Demonstrate your faith to me without works, and I will demonstrate my faith to you from my works.",
+      "explanation": "James on the inseparability of living faith and charitable works.",
+      "citations": [
+        { "type": "scripture", "reference": "James 2:17-18" }
+      ]
+    },
+    {
+      "id": "gtb-018",
+      "testament": "NT",
+      "book": "Revelation",
+      "acceptedAnswers": ["the Apocalypse", "Apocalypse", "the Book of Revelation"],
+      "passage": "Then I saw a new heaven and a new earth. The former heaven and the former earth had passed away, and the sea was no more. I also saw the holy city, a new Jerusalem, coming down out of heaven from God.",
+      "explanation": "John's vision of the consummation of all things, when God will dwell with His people fully and forever.",
+      "citations": [
+        { "type": "scripture", "reference": "Revelation 21:1-2" }
+      ]
+    }
+  ]
+}

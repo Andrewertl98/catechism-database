@@ -1,0 +1,310 @@
+{
+  "game": "who-am-i",
+  "description": "Progressive-clue identification game. Each item is a figure (answerKind 'person') or a thing (answerKind 'thing'); clues run vague to specific and are revealed one at a time. Every item carries at least one authoritative citation, same rule as the question bank.",
+  "items": [
+    {
+      "id": "wai-001",
+      "answerKind": "person",
+      "answer": "Moses",
+      "acceptedAnswers": [],
+      "clues": [
+        "As an infant I was hidden, then drawn out of the water and raised in a household not my own.",
+        "In exile I met God in a bush that burned without being consumed.",
+        "I was sent back to demand freedom for a people enslaved for generations.",
+        "On a mountain I received the Law written by God's own finger.",
+        "I led the people forty years through the desert but did not myself enter the promised land."
+      ],
+      "explanation": "Moses led Israel out of Egypt and mediated the covenant at Sinai; the Catechism presents him as a foreshadowing of Christ the one Mediator.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 3:1-15" },
+        { "type": "ccc", "reference": "CCC 2085" }
+      ]
+    },
+    {
+      "id": "wai-002",
+      "answerKind": "person",
+      "answer": "David",
+      "acceptedAnswers": ["King David"],
+      "clues": [
+        "I was the youngest of my brothers, out watching the sheep when the prophet came to anoint me.",
+        "As a boy I faced a giant with a sling and five smooth stones.",
+        "I danced before the Ark of the Covenant as it entered my city.",
+        "I sinned gravely, then wrote a psalm of repentance that the Church still prays.",
+        "God promised that my throne and my house would endure forever."
+      ],
+      "explanation": "David, Israel's great king and psalmist, is the ancestor and type of the Messiah; the Catechism calls him the model of prayer in repentance.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Samuel 16:1-13" },
+        { "type": "ccc", "reference": "CCC 2579" }
+      ]
+    },
+    {
+      "id": "wai-003",
+      "answerKind": "person",
+      "answer": "John the Baptist",
+      "acceptedAnswers": ["St. John the Baptist", "the Baptist"],
+      "clues": [
+        "My birth was announced to my father in the Temple, and he was struck silent until he named me.",
+        "I leapt in my mother's womb when the Mother of the Lord came to visit.",
+        "I lived in the wilderness, clothed in camel's hair, eating locusts and wild honey.",
+        "I baptized in the Jordan and told the crowds to prepare the way of the Lord.",
+        "Pointing to Him, I said, 'Behold, the Lamb of God.'"
+      ],
+      "explanation": "John the Baptist is the last of the prophets and the immediate precursor of the Lord, sent to prepare His way.",
+      "citations": [
+        { "type": "scripture", "reference": "John 1:29-34" },
+        { "type": "ccc", "reference": "CCC 523" }
+      ]
+    },
+    {
+      "id": "wai-004",
+      "answerKind": "person",
+      "answer": "Peter",
+      "acceptedAnswers": ["St. Peter", "Simon Peter", "Simon"],
+      "clues": [
+        "I was a fisherman on the Sea of Galilee when I was called to fish for men.",
+        "I walked on water toward the Lord, then began to sink when I doubted.",
+        "I confessed Him as the Christ, the Son of the living God.",
+        "He gave me a new name and the keys of the kingdom of heaven.",
+        "I denied Him three times before the cock crowed, then wept bitterly."
+      ],
+      "explanation": "Simon Peter, given his name by Christ, is the rock on which the Church is built and the first among the apostles.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 16:13-19" },
+        { "type": "ccc", "reference": "CCC 552" }
+      ]
+    },
+    {
+      "id": "wai-005",
+      "answerKind": "person",
+      "answer": "Paul",
+      "acceptedAnswers": ["St. Paul", "Saul", "Saul of Tarsus", "Paul of Tarsus"],
+      "clues": [
+        "I was a Pharisee, zealous for the Law, and I held the coats of those who stoned the first martyr.",
+        "On a road, a light from heaven threw me to the ground and a voice asked why I was persecuting Him.",
+        "I was blind for three days until a disciple laid hands on me.",
+        "I carried the Gospel across the Roman world and wrote letters to the churches I founded.",
+        "I called myself the least of the apostles, born out of due time."
+      ],
+      "explanation": "Paul, once a persecutor, became the apostle to the Gentiles after his encounter with the risen Christ on the road to Damascus.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 9:1-19" },
+        { "type": "ccc", "reference": "CCC 442" }
+      ]
+    },
+    {
+      "id": "wai-006",
+      "answerKind": "person",
+      "answer": "Augustine",
+      "acceptedAnswers": ["St. Augustine", "Augustine of Hippo", "St. Augustine of Hippo"],
+      "clues": [
+        "My mother wept and prayed for my conversion for many years.",
+        "In my youth I chased pleasure and false philosophies, and prayed to be made chaste, but 'not yet.'",
+        "In a garden I heard a child's voice chanting 'take up and read.'",
+        "The bishop of Milan baptized me, and I became a bishop myself, in North Africa.",
+        "I wrote that our hearts are restless until they rest in God."
+      ],
+      "explanation": "Augustine of Hippo, Doctor of the Church, recounts his conversion in the Confessions; the Catechism quotes his restless-heart prayer.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 30" }
+      ]
+    },
+    {
+      "id": "wai-007",
+      "answerKind": "person",
+      "answer": "Stephen",
+      "acceptedAnswers": ["St. Stephen"],
+      "clues": [
+        "I was one of the seven chosen to serve at table so the apostles could devote themselves to preaching.",
+        "I was full of grace and power and worked wonders among the people.",
+        "Brought before the council, my face was like the face of an angel.",
+        "As I was stoned, I saw the heavens opened and the Son of Man standing at God's right hand.",
+        "I died praying that the sin would not be held against my killers."
+      ],
+      "explanation": "Stephen, a deacon, is the Church's first martyr; his dying prayer for his persecutors echoes Christ's own.",
+      "citations": [
+        { "type": "scripture", "reference": "Acts 7:54-60" },
+        { "type": "ccc", "reference": "CCC 2635" }
+      ]
+    },
+    {
+      "id": "wai-008",
+      "answerKind": "person",
+      "answer": "Thérèse of Lisieux",
+      "acceptedAnswers": ["St. Thérèse", "Therese of Lisieux", "St. Therese", "Thérèse", "the Little Flower"],
+      "clues": [
+        "I entered a Carmelite convent at fifteen and never left it.",
+        "I taught a 'little way' of trust and small acts of love rather than great deeds.",
+        "I died of tuberculosis at twenty-four, promising to spend my heaven doing good on earth.",
+        "My autobiography, Story of a Soul, was read around the world after my death.",
+        "Though I never left my cloister, I am a patroness of missionaries, and a Doctor of the Church."
+      ],
+      "explanation": "Thérèse of Lisieux, the 'Little Flower,' taught that holiness is reached through confidence and love in ordinary things; the Catechism quotes her definition of prayer.",
+      "citations": [
+        { "type": "ccc", "reference": "CCC 2558" }
+      ]
+    },
+    {
+      "id": "wai-009",
+      "answerKind": "person",
+      "answer": "Mary",
+      "acceptedAnswers": ["the Blessed Virgin Mary", "the Virgin Mary", "Blessed Virgin Mary", "Our Lady", "the Blessed Mother"],
+      "clues": [
+        "An angel greeted me as 'full of grace' and told me not to be afraid.",
+        "I asked how this could be, since I had no husband, and was told the Holy Spirit would overshadow me.",
+        "I answered, 'Let it be done to me according to your word.'",
+        "I visited my kinswoman and sang that all generations would call me blessed.",
+        "At a wedding I told the servants, 'Do whatever He tells you.'"
+      ],
+      "explanation": "Mary's free 'yes' at the Annunciation made her the Mother of God; her fiat is the model of faith and obedience.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:26-38" },
+        { "type": "ccc", "reference": "CCC 494" }
+      ]
+    },
+    {
+      "id": "wai-010",
+      "answerKind": "person",
+      "answer": "Athanasius",
+      "acceptedAnswers": ["St. Athanasius", "Athanasius of Alexandria"],
+      "clues": [
+        "I was a young deacon at a great council in 325 that met to answer a priest named Arius.",
+        "I spent much of my life as bishop of Alexandria, and was exiled five times for my stand.",
+        "The saying went that it was 'me against the world' when almost every see wavered.",
+        "I insisted the Son is of the same substance as the Father, not a creature.",
+        "I wrote that God became man so that man might become God by grace."
+      ],
+      "explanation": "Athanasius defended the full divinity of Christ against Arianism, the teaching the Council of Nicaea condemned with the term consubstantial.",
+      "citations": [
+        { "type": "council", "reference": "First Council of Nicaea (325)" },
+        { "type": "ccc", "reference": "CCC 465" }
+      ]
+    },
+    {
+      "id": "wai-011",
+      "answerKind": "person",
+      "answer": "Solomon",
+      "acceptedAnswers": ["King Solomon"],
+      "clues": [
+        "I was the son of a great king and a king myself, and God appeared to me in a dream at Gibeon.",
+        "Offered anything, I asked not for long life or riches but for an understanding heart.",
+        "I settled a dispute between two women by proposing to divide a living child with a sword.",
+        "I built the Temple in Jerusalem, a house for the name of the Lord.",
+        "My later years were marked by foreign wives and the idolatry they drew me into."
+      ],
+      "explanation": "Solomon, David's son, asked God for wisdom to govern and built the first Temple; his fall warns that wisdom is kept only by fidelity.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Kings 3:5-14" },
+        { "type": "ccc", "reference": "CCC 2580" }
+      ]
+    },
+    {
+      "id": "wai-012",
+      "answerKind": "person",
+      "answer": "Mary Magdalene",
+      "acceptedAnswers": ["St. Mary Magdalene", "Mary of Magdala"],
+      "clues": [
+        "The Lord had driven seven demons out of me.",
+        "I stood by the cross when most of the apostles had fled.",
+        "I came to the tomb while it was still dark and found the stone rolled away.",
+        "I mistook the risen Lord for the gardener until He spoke my name.",
+        "He sent me to announce the Resurrection to the apostles themselves."
+      ],
+      "explanation": "Mary Magdalene was the first witness of the Resurrection and was sent by Christ to tell the apostles, earning the title 'apostle to the apostles.'",
+      "citations": [
+        { "type": "scripture", "reference": "John 20:11-18" },
+        { "type": "ccc", "reference": "CCC 641" }
+      ]
+    },
+    {
+      "id": "wai-013",
+      "answerKind": "thing",
+      "answer": "the Eucharist",
+      "acceptedAnswers": ["Eucharist", "the Holy Eucharist", "Holy Communion", "the Blessed Sacrament", "Communion"],
+      "clues": [
+        "I was instituted at a supper on the night before He died.",
+        "He said the bread was His body and the cup His blood, and told them to do this in memory of Him.",
+        "He had already promised that whoever eats this bread would live forever.",
+        "The Church calls me the source and summit of the whole Christian life.",
+        "Under the appearances of bread and wine, Christ is truly, really, and substantially present."
+      ],
+      "explanation": "The Eucharist makes present the one sacrifice of Christ and gives His true Body and Blood; it is the source and summit of the Church's life.",
+      "citations": [
+        { "type": "scripture", "reference": "John 6:51-58" },
+        { "type": "ccc", "reference": "CCC 1324" }
+      ]
+    },
+    {
+      "id": "wai-014",
+      "answerKind": "thing",
+      "answer": "Baptism",
+      "acceptedAnswers": ["the Sacrament of Baptism", "Holy Baptism"],
+      "clues": [
+        "John administered a version of me in the Jordan, but mine as a sacrament came later.",
+        "The Lord's command was to make disciples of all nations by way of me, in the name of the Trinity.",
+        "I am the gateway to the other sacraments and cannot be repeated.",
+        "Through me, original sin and all personal sins are forgiven and one is born again of water and the Spirit.",
+        "I make a person a member of Christ and of His Church, and mark the soul permanently."
+      ],
+      "explanation": "Baptism frees from sin, regenerates as a child of God, and incorporates into the Church; it is the necessary gateway to the sacramental life.",
+      "citations": [
+        { "type": "scripture", "reference": "Matthew 28:18-20" },
+        { "type": "ccc", "reference": "CCC 1213" }
+      ]
+    },
+    {
+      "id": "wai-015",
+      "answerKind": "thing",
+      "answer": "the Ark of the Covenant",
+      "acceptedAnswers": ["Ark of the Covenant", "the Ark"],
+      "clues": [
+        "I was built to exact measure from acacia wood and overlaid inside and out with gold.",
+        "Two golden cherubim faced each other above my cover, the mercy seat.",
+        "I carried the tablets of the Law, a jar of manna, and Aaron's staff that budded.",
+        "I went before the people into battle and around the walls of Jericho.",
+        "The Fathers see me fulfilled in the Virgin, who carried the Word made flesh."
+      ],
+      "explanation": "The Ark held the signs of God's covenant and marked His presence among Israel; Christian tradition sees Mary as the new Ark, bearing Christ Himself.",
+      "citations": [
+        { "type": "scripture", "reference": "Exodus 25:10-22" },
+        { "type": "ccc", "reference": "CCC 2676" }
+      ]
+    },
+    {
+      "id": "wai-016",
+      "answerKind": "thing",
+      "answer": "the Rosary",
+      "acceptedAnswers": ["Rosary", "the Holy Rosary"],
+      "clues": [
+        "I am prayed on a string of beads divided into groups of ten.",
+        "My central prayer repeats an angel's greeting and a kinswoman's blessing, ending with a plea for prayers at the hour of death.",
+        "Each decade is joined to a scene from the life of Christ and His Mother, called a mystery.",
+        "There are now four sets of these mysteries: Joyful, Luminous, Sorrowful, and Glorious.",
+        "The Church commends me as a compendium of the whole Gospel prayed alongside Mary."
+      ],
+      "explanation": "The Rosary meditates on the mysteries of Christ's life through vocal prayer centered on the Hail Mary; the Church holds it up as a summary of the Gospel.",
+      "citations": [
+        { "type": "scripture", "reference": "Luke 1:28,42" },
+        { "type": "ccc", "reference": "CCC 971" }
+      ]
+    },
+    {
+      "id": "wai-017",
+      "answerKind": "thing",
+      "answer": "the Cross",
+      "acceptedAnswers": ["Cross", "the Holy Cross", "the cross of Christ"],
+      "clues": [
+        "I was an instrument of Roman execution reserved for slaves and rebels.",
+        "The Lord told His followers they must take me up daily and follow Him.",
+        "On me the one sacrifice that takes away the sin of the world was offered.",
+        "St. Paul said I am folly to those perishing but the power of God to those being saved.",
+        "The Church venerates me solemnly once a year, on Good Friday."
+      ],
+      "explanation": "The Cross is the altar of Christ's redeeming sacrifice; what the world counts as defeat is the power and wisdom of God.",
+      "citations": [
+        { "type": "scripture", "reference": "1 Corinthians 1:18" },
+        { "type": "ccc", "reference": "CCC 617" }
+      ]
+    }
+  ]
+}
