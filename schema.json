@@ -106,6 +106,13 @@
           ],
           "description": "Used by multiple_choice (string, must match a choice), true_false (boolean), and fill_blank (string). Omitted for matching_pairs, where 'pairs' itself is the answer key."
         },
+        "acceptedAnswers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Optional, fill_blank only. Extra answers graded correct alongside 'correctAnswer'. Grading already ignores case, surrounding whitespace, a single leading article, and trailing sentence punctuation, so list only genuinely different wordings a careful reader might give (e.g. 'Holy Spirit' for 'Paraclete'). Never use it to accept a substantively different answer."
+        },
         "pairs": {
           "type": "array",
           "minItems": 2,
