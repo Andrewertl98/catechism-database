@@ -129,6 +129,31 @@ def check_mini_game_eligibility(question: dict, file_slug: str, location: str, e
         )
 
 
+def check_accepted_answers(question: dict, location: str, errors: list[str]) -> None:
+    """'acceptedAnswers' is a fill_blank-only convenience -- extra exact
+    answers graded correct alongside 'correctAnswer'. It's meaningless on any
+    other type, and an empty list is just noise."""
+    if "acceptedAnswers" not in question:
+        return
+    qid = question.get("id", "?")
+    if question.get("type") != "fill_blank":
+        errors.append(
+            f"{location}: question '{qid}' has 'acceptedAnswers' but type "
+            f"'{question.get('type')}' -- the field only applies to fill_blank."
+        )
+    values = question.get("acceptedAnswers")
+    if not isinstance(values, list) or not values or any(not str(v).strip() for v in values):
+        errors.append(
+            f"{location}: question '{qid}' has an empty or blank entry in "
+            f"'acceptedAnswers' -- omit the field entirely if there are no alternates."
+        )
+    elif str(question.get("correctAnswer", "")).strip().lower() in {str(v).strip().lower() for v in values}:
+        errors.append(
+            f"{location}: question '{qid}' repeats its own correctAnswer in "
+            f"'acceptedAnswers' -- correctAnswer is always accepted already."
+        )
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate the FIDES catechism-database.")
     parser.add_argument("--ci", action="store_true", help="CI-friendly output; same checks, exits non-zero on failure.")
@@ -195,6 +220,7 @@ def main() -> None:
 
             check_citation_policy(q, path.name, errors)
             check_mini_game_eligibility(q, file_slug, path.name, errors)
+            check_accepted_answers(q, path.name, errors)
 
             if not q.get("hint"):
                 warnings.append(
