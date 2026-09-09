@@ -245,6 +245,494 @@
           ]
         }
       ]
+    },
+    {
+      "id": "jeo-board-3",
+      "title": "Councils & Heresies",
+      "categories": [
+        {
+          "title": "Ecumenical Councils",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This council of 325 gave the Creed the word 'consubstantial' and condemned the priest Arius.",
+              "answer": "Nicaea",
+              "acceptedAnswers": ["What is Nicaea", "the First Council of Nicaea", "Nicaea I", "the Council of Nicaea"],
+              "explanation": "Nicaea confessed the Son as true God from true God, of one substance with the Father.",
+              "citations": [{ "type": "ccc", "reference": "CCC 465" }]
+            },
+            {
+              "value": 400,
+              "clue": "This council of 451 defined that Christ is one divine person in two natures, human and divine, unconfused and undivided.",
+              "answer": "Chalcedon",
+              "acceptedAnswers": ["What is Chalcedon", "the Council of Chalcedon"],
+              "explanation": "Chalcedon safeguarded both the full humanity and full divinity of the one Christ.",
+              "citations": [{ "type": "ccc", "reference": "CCC 467" }]
+            },
+            {
+              "value": 600,
+              "clue": "This council, held from 1962 to 1965, produced Lumen Gentium and Sacrosanctum Concilium.",
+              "answer": "the Second Vatican Council",
+              "acceptedAnswers": ["What is the Second Vatican Council", "Vatican II", "the Second Vatican Council (Vatican II)"],
+              "explanation": "Vatican II renewed the Church's self-understanding and its liturgy without changing the deposit of faith.",
+              "citations": [{ "type": "magisterial_document", "reference": "Lumen Gentium (1964)" }]
+            }
+          ]
+        },
+        {
+          "title": "Early Heresies",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This heresy taught that the Son is the highest creature but not truly God.",
+              "answer": "Arianism",
+              "acceptedAnswers": ["What is Arianism", "Arian heresy"],
+              "explanation": "Against Arius, the Church confessed the Son as consubstantial with the Father.",
+              "citations": [{ "type": "ccc", "reference": "CCC 465" }]
+            },
+            {
+              "value": 400,
+              "clue": "From a Greek word for 'to seem,' this early error denied that Christ had a real human body and really suffered.",
+              "answer": "Docetism",
+              "acceptedAnswers": ["What is Docetism"],
+              "explanation": "The first heresies denied not so much Christ's divinity as his true humanity.",
+              "citations": [{ "type": "ccc", "reference": "CCC 465" }]
+            },
+            {
+              "value": 600,
+              "clue": "Condemned at Ephesus in 431, this held that Mary is mother only of the human Christ, so she should not be called 'Mother of God.'",
+              "answer": "Nestorianism",
+              "acceptedAnswers": ["What is Nestorianism"],
+              "explanation": "Because her Son is one divine person, Mary is truly the Mother of God (Theotokos).",
+              "citations": [{ "type": "ccc", "reference": "CCC 466" }]
+            }
+          ]
+        },
+        {
+          "title": "Reform & Trent",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This council, 1545 to 1563, answered the Protestant Reformation and reformed Church discipline.",
+              "answer": "the Council of Trent",
+              "acceptedAnswers": ["What is the Council of Trent", "Trent"],
+              "explanation": "Trent clarified doctrine on Scripture, justification, and the sacraments, and reformed clergy formation.",
+              "citations": [{ "type": "council", "reference": "Council of Trent (1545-1563)" }]
+            },
+            {
+              "value": 400,
+              "clue": "Trent affirmed that Christ instituted exactly this many sacraments.",
+              "answer": "seven",
+              "acceptedAnswers": ["What is seven", "7", "seven sacraments"],
+              "explanation": "The seven sacraments touch all the stages and important moments of Christian life.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1113" }]
+            },
+            {
+              "value": 600,
+              "clue": "The Catechism acknowledges that from the Church's beginnings 'certain rifts' arose, wounding this unity Christ willed.",
+              "answer": "the unity of the Church",
+              "acceptedAnswers": ["What is the unity of the Church", "the Church's unity", "Christian unity", "the unity of Christians"],
+              "explanation": "Divisions among Christians contradict Christ's will; the movement to restore unity is called ecumenism.",
+              "citations": [{ "type": "ccc", "reference": "CCC 817" }]
+            }
+          ]
+        },
+        {
+          "title": "The Marks of the Church",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The Church is 'one' because its source is the unity of this.",
+              "answer": "the Trinity",
+              "acceptedAnswers": ["What is the Trinity", "the Holy Trinity", "one God in three persons"],
+              "explanation": "The Church's unity flows from and images the unity of Father, Son, and Holy Spirit.",
+              "citations": [{ "type": "ccc", "reference": "CCC 813" }]
+            },
+            {
+              "value": 400,
+              "clue": "The Church is 'catholic' — meaning universal — because it has the fullness of Christ and is sent to these.",
+              "answer": "all nations",
+              "acceptedAnswers": ["What are all nations", "the whole human race", "all peoples", "the whole world"],
+              "explanation": "Catholicity means the Church carries the whole faith to the whole world.",
+              "citations": [{ "type": "ccc", "reference": "CCC 831" }]
+            },
+            {
+              "value": 600,
+              "clue": "The Church is 'apostolic' because it is founded on these and hands on their teaching.",
+              "answer": "the apostles",
+              "acceptedAnswers": ["Who are the apostles", "the twelve apostles", "the Twelve"],
+              "explanation": "The Church keeps the teaching of the apostles and is guided by their successors, the bishops.",
+              "citations": [{ "type": "ccc", "reference": "CCC 857" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jeo-board-4",
+      "title": "Sacred Scripture",
+      "categories": [
+        {
+          "title": "The Pentateuch",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The first book of the Bible, telling of creation, the fall, and the flood.",
+              "answer": "Genesis",
+              "acceptedAnswers": ["What is Genesis"],
+              "explanation": "Genesis lays the foundation: God creates freely and well, and humanity falls.",
+              "citations": [{ "type": "scripture", "reference": "Genesis 1:1" }]
+            },
+            {
+              "value": 400,
+              "clue": "In this book Israel is delivered from Egypt and receives the Law at Sinai.",
+              "answer": "Exodus",
+              "acceptedAnswers": ["What is Exodus"],
+              "explanation": "The Exodus is the founding act of God's covenant with Israel.",
+              "citations": [{ "type": "scripture", "reference": "Exodus 20:2" }]
+            },
+            {
+              "value": 600,
+              "clue": "Its name means 'second law'; it is Moses' farewell address on the plains of Moab, and contains the Shema.",
+              "answer": "Deuteronomy",
+              "acceptedAnswers": ["What is Deuteronomy"],
+              "explanation": "Deuteronomy calls each generation to renew the covenant as if it stood at Sinai itself.",
+              "citations": [{ "type": "scripture", "reference": "Deuteronomy 6:4" }]
+            }
+          ]
+        },
+        {
+          "title": "The Gospels",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This Gospel, written for a Jewish-Christian audience, opens with a genealogy 'of Jesus Christ, the son of David, the son of Abraham.'",
+              "answer": "Matthew",
+              "acceptedAnswers": ["What is Matthew", "the Gospel of Matthew"],
+              "explanation": "Matthew presents Jesus as the promised Messiah and new Moses.",
+              "citations": [{ "type": "scripture", "reference": "Matthew 1:1" }]
+            },
+            {
+              "value": 400,
+              "clue": "The shortest and most fast-paced Gospel, traditionally linked to the preaching of Peter in Rome.",
+              "answer": "Mark",
+              "acceptedAnswers": ["What is Mark", "the Gospel of Mark"],
+              "explanation": "Mark drives toward the cross and the centurion's confession that Jesus is the Son of God.",
+              "citations": [{ "type": "scripture", "reference": "Mark 1:1" }]
+            },
+            {
+              "value": 600,
+              "clue": "This Gospel alone opens with the prologue 'In the beginning was the Word.'",
+              "answer": "John",
+              "acceptedAnswers": ["What is John", "the Gospel of John"],
+              "explanation": "John proclaims the eternal Word made flesh and full of grace and truth.",
+              "citations": [{ "type": "scripture", "reference": "John 1:1" }]
+            }
+          ]
+        },
+        {
+          "title": "St. Paul's Letters",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Paul's longest letter, to the Christians in the imperial capital, on righteousness through faith.",
+              "answer": "Romans",
+              "acceptedAnswers": ["What is Romans"],
+              "explanation": "Romans is Paul's fullest account of the gospel of grace for Jew and Gentile alike.",
+              "citations": [{ "type": "scripture", "reference": "Romans 1:16-17" }]
+            },
+            {
+              "value": 400,
+              "clue": "This letter contains the hymn to love: 'Love is patient, love is kind.'",
+              "answer": "1 Corinthians",
+              "acceptedAnswers": ["What is 1 Corinthians", "First Corinthians", "1 Cor"],
+              "explanation": "Chapter 13 sets charity above every gift and every work.",
+              "citations": [{ "type": "scripture", "reference": "1 Corinthians 13:4" }]
+            },
+            {
+              "value": 600,
+              "clue": "Written from prison, this letter has the hymn 'he emptied himself, taking the form of a slave.'",
+              "answer": "Philippians",
+              "acceptedAnswers": ["What is Philippians"],
+              "explanation": "The Christ-hymn of Philippians 2 traces the descent and exaltation of the Lord.",
+              "citations": [{ "type": "scripture", "reference": "Philippians 2:6-7" }]
+            }
+          ]
+        },
+        {
+          "title": "How We Got the Bible",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Scripture and this form one sacred deposit of the word of God, from a single divine wellspring.",
+              "answer": "Sacred Tradition",
+              "acceptedAnswers": ["What is Sacred Tradition", "Tradition", "Apostolic Tradition"],
+              "explanation": "Scripture and Tradition are to be accepted and honored with equal devotion and reverence.",
+              "citations": [{ "type": "ccc", "reference": "CCC 97" }]
+            },
+            {
+              "value": 400,
+              "clue": "This Latin translation of the whole Bible was made largely by St. Jerome and became the Church's standard text.",
+              "answer": "the Vulgate",
+              "acceptedAnswers": ["What is the Vulgate", "Vulgate"],
+              "explanation": "Jerome's warning still stands: ignorance of the Scriptures is ignorance of Christ.",
+              "citations": [{ "type": "ccc", "reference": "CCC 133" }]
+            },
+            {
+              "value": 600,
+              "clue": "The complete list of the 73 books the Church holds as inspired Scripture is called this.",
+              "answer": "the canon of Scripture",
+              "acceptedAnswers": ["What is the canon of Scripture", "the canon", "the biblical canon", "the canon of the Bible"],
+              "explanation": "The canon was discerned by apostolic Tradition and settled definitively by the Church.",
+              "citations": [{ "type": "ccc", "reference": "CCC 120" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jeo-board-5",
+      "title": "The Communion of Saints",
+      "categories": [
+        {
+          "title": "The Twelve Apostles",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This fisherman was given a new name meaning 'rock' and the keys of the kingdom.",
+              "answer": "Peter",
+              "acceptedAnswers": ["Who is Peter", "St. Peter", "Simon Peter"],
+              "explanation": "On Peter and his successors Christ builds and governs His Church.",
+              "citations": [{ "type": "ccc", "reference": "CCC 552" }]
+            },
+            {
+              "value": 400,
+              "clue": "This apostle would not believe until he saw the wounds, then confessed 'My Lord and my God.'",
+              "answer": "Thomas",
+              "acceptedAnswers": ["Who is Thomas", "St. Thomas", "Thomas the Apostle", "Doubting Thomas"],
+              "explanation": "Thomas's confession is one of Scripture's clearest professions of Christ's divinity.",
+              "citations": [{ "type": "ccc", "reference": "CCC 644" }]
+            },
+            {
+              "value": 600,
+              "clue": "This tax collector rose from his customs post at a single word and is credited with the first Gospel.",
+              "answer": "Matthew",
+              "acceptedAnswers": ["Who is Matthew", "St. Matthew", "Levi"],
+              "explanation": "Matthew left everything to follow the Lord who came to call sinners.",
+              "citations": [{ "type": "scripture", "reference": "Matthew 9:9" }]
+            }
+          ]
+        },
+        {
+          "title": "Martyrs",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This deacon, the Church's first martyr, was stoned while praying for his killers.",
+              "answer": "Stephen",
+              "acceptedAnswers": ["Who is Stephen", "St. Stephen"],
+              "explanation": "Stephen's death, forgiving his persecutors, echoes Christ's own.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2635" }]
+            },
+            {
+              "value": 400,
+              "clue": "This Polish Franciscan took a condemned stranger's place in the Auschwitz starvation bunker.",
+              "answer": "Maximilian Kolbe",
+              "acceptedAnswers": ["Who is Maximilian Kolbe", "St. Maximilian Kolbe", "Kolbe"],
+              "explanation": "Kolbe's offering fulfills the Lord's word that no love is greater than to lay down one's life.",
+              "citations": [{ "type": "scripture", "reference": "John 15:13" }]
+            },
+            {
+              "value": 600,
+              "clue": "This English Lord Chancellor was beheaded for refusing to accept the king as head of the Church.",
+              "answer": "Thomas More",
+              "acceptedAnswers": ["Who is Thomas More", "St. Thomas More", "More"],
+              "explanation": "More died 'the king's good servant, but God's first,' witnessing to conscience bound by truth.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1816" }]
+            }
+          ]
+        },
+        {
+          "title": "Doctors of the Church",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This bishop of Hippo, converted after a wayward youth, wrote the Confessions.",
+              "answer": "Augustine",
+              "acceptedAnswers": ["Who is Augustine", "St. Augustine", "Augustine of Hippo"],
+              "explanation": "Augustine's restless-heart prayer opens the Catechism's treatment of prayer.",
+              "citations": [{ "type": "ccc", "reference": "CCC 30" }]
+            },
+            {
+              "value": 400,
+              "clue": "The 'Angelic Doctor,' this Dominican wrote the Summa Theologiae and the Corpus Christi hymns.",
+              "answer": "Thomas Aquinas",
+              "acceptedAnswers": ["Who is Thomas Aquinas", "St. Thomas Aquinas", "Aquinas"],
+              "explanation": "The Catechism quotes Aquinas's Eucharistic hymn Adoro te devote.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1381" }]
+            },
+            {
+              "value": 600,
+              "clue": "The 'Little Flower,' this Carmelite taught a 'little way' and is a Doctor though she died at twenty-four.",
+              "answer": "Thérèse of Lisieux",
+              "acceptedAnswers": ["Who is Thérèse of Lisieux", "St. Thérèse", "Therese of Lisieux", "the Little Flower"],
+              "explanation": "The Catechism quotes Thérèse's definition of prayer as a surge of the heart toward God.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2558" }]
+            }
+          ]
+        },
+        {
+          "title": "Founders",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "This saint of Assisi founded the Friars Minor and received the wounds of Christ.",
+              "answer": "Francis of Assisi",
+              "acceptedAnswers": ["Who is Francis of Assisi", "St. Francis", "Francis"],
+              "explanation": "Francis's poverty and love of creation as God's gift made him one of the most beloved saints.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2416" }]
+            },
+            {
+              "value": 400,
+              "clue": "Wounded by a cannonball, this soldier founded the Society of Jesus and wrote the Spiritual Exercises.",
+              "answer": "Ignatius of Loyola",
+              "acceptedAnswers": ["Who is Ignatius of Loyola", "St. Ignatius of Loyola", "Ignatius Loyola"],
+              "explanation": "Ignatius turned a soldier's discipline toward the greater glory of God.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2478" }]
+            },
+            {
+              "value": 600,
+              "clue": "This monk of Nursia wrote a Rule summed up as 'pray and work' and is the father of Western monasticism.",
+              "answer": "Benedict",
+              "acceptedAnswers": ["Who is Benedict", "St. Benedict", "Benedict of Nursia"],
+              "explanation": "Benedict's Rule ordered monastic life and shaped the Christian West.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2834" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jeo-board-6",
+      "title": "The Moral Life",
+      "categories": [
+        {
+          "title": "The Ten Commandments",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "The first three commandments concern the love of this.",
+              "answer": "God",
+              "acceptedAnswers": ["What is God", "love of God"],
+              "explanation": "The two tables of the Law order love toward God and love toward neighbor.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2067" }]
+            },
+            {
+              "value": 400,
+              "clue": "This commandment, the fourth, tells us to honor these.",
+              "answer": "your father and your mother",
+              "acceptedAnswers": ["What is your father and your mother", "one's parents", "father and mother", "parents", "your parents"],
+              "explanation": "The fourth commandment opens the second table and grounds the honor owed within family and society.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2197" }]
+            },
+            {
+              "value": 600,
+              "clue": "The Lord summed up the whole Law and the prophets in these two commandments.",
+              "answer": "love God and love your neighbor",
+              "acceptedAnswers": ["What is love God and love your neighbor", "love of God and love of neighbor", "to love God and love your neighbor"],
+              "explanation": "On these two commandments hang all the Law and the prophets.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2055" }]
+            }
+          ]
+        },
+        {
+          "title": "The Virtues",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Faith, hope, and charity are called this kind of virtue, because their object is God Himself.",
+              "answer": "theological virtues",
+              "acceptedAnswers": ["What are theological virtues", "the theological virtues"],
+              "explanation": "The theological virtues are infused by God and dispose us to live in relationship with the Trinity.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1813" }]
+            },
+            {
+              "value": 400,
+              "clue": "Prudence, justice, fortitude, and temperance are called this, from the Latin for 'hinge.'",
+              "answer": "the cardinal virtues",
+              "acceptedAnswers": ["What are the cardinal virtues", "cardinal virtues"],
+              "explanation": "All the other moral virtues are grouped around these four.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1805" }]
+            },
+            {
+              "value": 600,
+              "clue": "This theological virtue is the greatest, and the form of all the others.",
+              "answer": "charity",
+              "acceptedAnswers": ["What is charity", "love", "charity (love)"],
+              "explanation": "Charity binds everything together in perfect harmony; without it, nothing profits.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1826" }]
+            }
+          ]
+        },
+        {
+          "title": "Sin & Grace",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "A sin is 'mortal' when it involves grave matter, full knowledge, and this.",
+              "answer": "deliberate consent",
+              "acceptedAnswers": ["What is deliberate consent", "full consent", "full consent of the will", "complete consent"],
+              "explanation": "Mortal sin destroys charity in the heart and turns a person away from God.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1857" }]
+            },
+            {
+              "value": 400,
+              "clue": "This kind of grace makes a person pleasing to God and is infused into the soul at Baptism.",
+              "answer": "sanctifying grace",
+              "acceptedAnswers": ["What is sanctifying grace", "habitual grace"],
+              "explanation": "Sanctifying grace is a stable disposition, God's own life dwelling in the soul.",
+              "citations": [{ "type": "ccc", "reference": "CCC 2000" }]
+            },
+            {
+              "value": 600,
+              "clue": "Contrition, confession of sins, and satisfaction are the three acts of the penitent in this sacrament.",
+              "answer": "Penance",
+              "acceptedAnswers": ["What is Penance", "Reconciliation", "Confession", "the sacrament of Penance", "the sacrament of Reconciliation"],
+              "explanation": "Through the priest's absolution God grants pardon and peace.",
+              "citations": [{ "type": "ccc", "reference": "CCC 1491" }]
+            }
+          ]
+        },
+        {
+          "title": "The Beatitudes",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Theirs is the kingdom of heaven — the poor in this.",
+              "answer": "spirit",
+              "acceptedAnswers": ["What is spirit", "the poor in spirit", "poor in spirit"],
+              "explanation": "Poverty of spirit is the humble emptiness that makes room for God.",
+              "citations": [{ "type": "scripture", "reference": "Matthew 5:3" }]
+            },
+            {
+              "value": 400,
+              "clue": "They will be called children of God — the ones who make this.",
+              "answer": "peace",
+              "acceptedAnswers": ["What is peace", "peacemakers", "the peacemakers"],
+              "explanation": "Peacemakers share in the work of the Son who reconciles all things.",
+              "citations": [{ "type": "scripture", "reference": "Matthew 5:9" }]
+            },
+            {
+              "value": 600,
+              "clue": "They will see God — the ones who are this of heart.",
+              "answer": "clean",
+              "acceptedAnswers": ["What is clean", "pure", "clean of heart", "pure of heart", "pure in heart"],
+              "explanation": "Purity of heart lets a person see reality, and finally God, as they are.",
+              "citations": [{ "type": "scripture", "reference": "Matthew 5:8" }]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
