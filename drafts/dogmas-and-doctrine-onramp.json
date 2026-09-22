@@ -1,0 +1,682 @@
+{
+  "_comment": "DRAFT on-ramp content -- NOT live, not in manifest.json, not loaded by either app. Levels 1-3 here are the NEW bottom three; existing dogmas-and-doctrine levels 1-10 become 4-13 at cutover, and difficultyElo is already computed for that shape (totalLevels=13). NOTE: this is one of the six hard-gated topics -- validate.py's HARD_GATE_APPLIES_FROM_LEVEL must move from 6 to 9 at cutover so the same real content stays gated. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
+  "topic": "dogmas-and-doctrine",
+  "questions": [
+    {
+      "id": "dogmas-and-doctrine-l1-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "How many sacraments does the Catholic Church recognize?",
+      "choices": [
+        "Seven",
+        "Three",
+        "Ten",
+        "Twelve"
+      ],
+      "correctAnswer": "Seven",
+      "explanation": "The seven are Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony. The Catechism lists them together in exactly that order.",
+      "hint": "The same number as the days of creation week.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1113",
+          "quote": "There are seven sacraments in the Church: Baptism, Confirmation or Chrismation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Church calls the Eucharist 'the source and summit of the Christian life.'",
+      "correctAnswer": true,
+      "explanation": "True. The phrase means the Eucharist is both where the Christian life comes from and what it is ordered toward -- not one devotion among many, but the center.",
+      "hint": "Think of a river's spring and a mountain's peak at once.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1324",
+          "quote": "The Eucharist is 'the source and summit of the Christian life.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What does the Church call the fact that the Son of God took on a human nature?",
+      "choices": [
+        "The Incarnation",
+        "The Resurrection",
+        "The Ascension",
+        "The Annunciation"
+      ],
+      "correctAnswer": "The Incarnation",
+      "explanation": "The word comes from the Latin for 'becoming flesh.' The Catechism is careful about the purpose: the Son assumed a human nature in order to accomplish our salvation in it.",
+      "hint": "The Latin root of the word means 'flesh.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 461",
+          "quote": "The Church calls 'Incarnation' the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Church teaches that God created the world out of nothing, not out of some pre-existing material.",
+      "correctAnswer": true,
+      "explanation": "True. Creation 'out of nothing' is the Church's way of saying God depended on nothing at all -- no matter, no helper, no raw material. He shows his power by starting from nothing to make everything he wants.",
+      "hint": "The Latin phrase is ex nihilo.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 296",
+          "quote": "God creates freely 'out of nothing'... God shows his power by starting from nothing to make all he wants."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The Catechism states the doctrine of the Trinity this way: 'We do not confess three Gods, but one God in three ____.'",
+      "correctAnswer": "persons",
+      "acceptedAnswers": [
+        "persons",
+        "person"
+      ],
+      "explanation": "One God, three persons -- Father, Son, and Holy Spirit. The Church holds both halves at once: God is genuinely one, and the three are genuinely distinct.",
+      "hint": "Father, Son, and Holy Spirit are three of these.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "According to the first chapter of Genesis, human beings are created in whose image?",
+      "choices": [
+        "In the image of God",
+        "In the image of the angels",
+        "In the image of the earth",
+        "In the image of the animals"
+      ],
+      "correctAnswer": "In the image of God",
+      "explanation": "Genesis says it twice in a single verse, and adds 'male and female he created them.' The whole of Catholic teaching on human dignity rests on this.",
+      "hint": "Genesis says it twice in the very same verse.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:27",
+          "quote": "God created mankind in his image; in the image of God he created them; male and female he created them."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Grace is something a person earns by doing enough good works.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism defines grace as favor -- the free and undeserved help God gives us to respond to his call. If it were earned, it would not be grace.",
+      "hint": "The word itself means a gift freely given.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1996",
+          "quote": "Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each term to what the Catechism says it means.",
+      "pairs": [
+        { "left": "Incarnation", "right": "The Son of God assuming a human nature" },
+        { "left": "Trinity", "right": "One God in three persons" },
+        { "left": "Grace", "right": "God's free and undeserved help" },
+        { "left": "Eucharist", "right": "The source and summit of the Christian life" }
+      ],
+      "explanation": "These four terms carry most of the weight in Catholic doctrine. Each one has a precise definition in the Catechism, not just a general sense.",
+      "hint": "One is about Christ, one about God's inner life, one about a gift, one about the Mass.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 461",
+          "quote": "The Church calls 'Incarnation' the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "How does the Catechism describe hell?",
+      "choices": [
+        "Definitive self-exclusion from communion with God",
+        "A temporary punishment before heaven",
+        "The grave, where the dead simply sleep",
+        "A place God sends souls against their will"
+      ],
+      "correctAnswer": "Definitive self-exclusion from communion with God",
+      "explanation": "Note the word 'self-exclusion.' The Church does not describe hell as God refusing someone, but as a person's own definitive refusal of communion with God.",
+      "hint": "Pay attention to who does the excluding.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1033",
+          "quote": "This state of definitive self-exclusion from communion with God and the blessed is called 'hell.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Church teaches that angels are purely spiritual creatures with intelligence and will.",
+      "correctAnswer": true,
+      "explanation": "True. Because they are personal and immortal creatures with intellect and will, the Catechism says they surpass in perfection all visible creatures -- but they are creatures, not gods.",
+      "hint": "They have minds and wills, but no bodies.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330",
+          "quote": "As purely spiritual creatures angels have intelligence and will: they are personal and immortal creatures, surpassing in perfection all visible creatures."
+        }
+      ]
+    },
+
+    {
+      "id": "dogmas-and-doctrine-l2-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 988,
+      "prompt": "Which three sacraments can never be repeated, because each confers a permanent 'seal' on the soul?",
+      "choices": [
+        "Baptism, Confirmation, and Holy Orders",
+        "Baptism, Penance, and Anointing of the Sick",
+        "Confirmation, Eucharist, and Matrimony",
+        "Eucharist, Penance, and Holy Orders"
+      ],
+      "correctAnswer": "Baptism, Confirmation, and Holy Orders",
+      "explanation": "The Catechism calls this seal a sacramental character, and says it is indelible -- it remains forever. That is precisely why these three are received only once.",
+      "hint": "A permanent mark means there would be nothing to repeat.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1121",
+          "quote": "The three sacraments of Baptism, Confirmation, and Holy Orders confer... a sacramental character or 'seal'... indelible, it remains forever... Therefore these sacraments can never be repeated."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 938,
+      "prompt": "True or False: The dogma of the Immaculate Conception means Mary was preserved free from original sin from the very first moment of her conception.",
+      "correctAnswer": true,
+      "explanation": "True. Pius IX defined it in 1854, and the definition is careful to say this was 'in view of the merits of Jesus Christ' -- Mary is redeemed too, just preserved rather than rescued after the fact.",
+      "hint": "The dogma is about Mary's own conception, not Christ's.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "We declare, pronounce, and define that the doctrine which holds that the most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin, is a doctrine revealed by God"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 491",
+          "quote": "The Church has become ever more aware that Mary, 'full of grace' through God, was redeemed from the moment of her conception."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1048,
+      "prompt": "The Council of Nicaea confessed the Son as 'God from God, Light from Light, true God from true God, begotten, not ____.'",
+      "correctAnswer": "made",
+      "acceptedAnswers": [
+        "made"
+      ],
+      "explanation": "The single word 'made' is the hinge. Everything created is made; the Son is begotten. Nicaea chose the wording precisely to exclude the Arian claim that the Son was the first and greatest creature.",
+      "hint": "The opposite of 'begotten' here is what happens to creatures.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 988,
+      "prompt": "The Council of Chalcedon confessed that Christ is one person in two natures. How did it describe the way those natures are united?",
+      "choices": [
+        "Without confusion, change, division, or separation",
+        "Blended together into a single new nature",
+        "Alternating, so that only one acts at a time",
+        "Joined loosely, as two persons in close agreement"
+      ],
+      "correctAnswer": "Without confusion, change, division, or separation",
+      "explanation": "Those four negatives rule out four different errors at once: mixing the natures, altering them, splitting Christ in two, or holding them apart. The Church says what the union is not, to guard what it is.",
+      "hint": "The formula is four negatives in a row.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 467",
+          "quote": "Christ is confessed as 'perfect in divinity and perfect in humanity'... in two natures, 'without confusion, change, division or separation.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 938,
+      "prompt": "True or False: The Church teaches that God is directly the cause of moral evil.",
+      "correctAnswer": false,
+      "explanation": "False, and the Catechism is emphatic: God is in no way, directly or indirectly, the cause of moral evil. He permits it because he genuinely respects the freedom of the creatures he made free.",
+      "hint": "There is a real difference between permitting and causing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1028,
+      "prompt": "Match each Marian or Christological dogma to where it was defined.",
+      "pairs": [
+        { "left": "The Immaculate Conception", "right": "Ineffabilis Deus (1854)" },
+        { "left": "The Assumption of Mary", "right": "Munificentissimus Deus (1950)" },
+        { "left": "Christ in two natures, one person", "right": "Council of Chalcedon (451)" },
+        { "left": "Mary as Mother of God", "right": "Council of Ephesus (431)" }
+      ],
+      "explanation": "Two were defined by ancient councils settling disputes about Christ; two were defined by popes in the modern era. All four are dogmas, held with the same assent.",
+      "hint": "Two come from ancient councils, two from papal definitions.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)",
+          "quote": "We pronounce, declare, and define it to be a divinely revealed dogma: that the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 988,
+      "prompt": "How does the Catechism describe those who undergo purification after death?",
+      "choices": [
+        "Assured of salvation, but not yet fully purified",
+        "Still uncertain whether they will be saved",
+        "Being given a second chance to repent",
+        "Waiting outside heaven with no hope of entry"
+      ],
+      "correctAnswer": "Assured of salvation, but not yet fully purified",
+      "explanation": "This is what the Church means by purgatory. Everyone there dies in God's grace and friendship, and their salvation is already assured -- what remains is the purification needed to enter the joy of heaven.",
+      "hint": "The outcome is not in doubt; only the readiness is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1030",
+          "quote": "All who die in God's grace and friendship, but still imperfectly purified, are indeed assured of their eternal salvation; but after death they undergo purification, so as to achieve the holiness necessary to enter the joy of heaven."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 938,
+      "prompt": "True or False: Scripture calls Christ Jesus the one mediator between God and the human race.",
+      "correctAnswer": true,
+      "explanation": "True. St. Paul writes it plainly to Timothy, and adds that this mediator is 'himself human' -- the mediation works because Christ is genuinely both.",
+      "hint": "Paul writes it in a letter to a young bishop.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5",
+          "quote": "For there is one God. There is also one mediator between God and the human race, Christ Jesus, himself human"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1048,
+      "prompt": "The Catechism defines an indulgence as 'a remission before God of the ____ punishment due to sins whose guilt has already been forgiven.'",
+      "correctAnswer": "temporal",
+      "acceptedAnswers": [
+        "temporal"
+      ],
+      "explanation": "Note what the definition assumes: the guilt is already forgiven. An indulgence never forgives sin -- it addresses what remains after forgiveness.",
+      "hint": "The opposite of eternal.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1471",
+          "quote": "An indulgence is a remission before God of the temporal punishment due to sins whose guilt has already been forgiven"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 988,
+      "prompt": "The Church says the sacraments act 'ex opere operato.' What does that mean?",
+      "choices": [
+        "They work by virtue of Christ's saving action itself",
+        "They work only if the minister is in a state of grace",
+        "They work only if the recipient feels something",
+        "They work because the Church has authorized them"
+      ],
+      "correctAnswer": "They work by virtue of Christ's saving action itself",
+      "explanation": "Literally 'by the very fact of the action's being performed.' The point is pastoral as much as theological: a sacrament's power does not depend on the personal holiness of the priest who confers it.",
+      "hint": "The phrase protects the recipient from depending on the minister.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+
+    {
+      "id": "dogmas-and-doctrine-l3-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "The Creed calls the Son 'consubstantial with the Father.' What claim does that word rule out?",
+      "choices": [
+        "That the Son is a creature, however exalted",
+        "That the Son truly became man",
+        "That the Father and Son are distinct persons",
+        "That the Son is eternally begotten"
+      ],
+      "correctAnswer": "That the Son is a creature, however exalted",
+      "explanation": "Consubstantial translates homoousios -- of the same substance. Arius was willing to call the Son the highest of creatures; the word makes that impossible, because a creature does not share God's own substance.",
+      "hint": "Arianism was happy to exalt the Son, just not that far.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: The Assumption teaches that Mary was taken body and soul into heavenly glory at the end of her earthly life.",
+      "correctAnswer": true,
+      "explanation": "True. Pius XII defined it in 1950 as a divinely revealed dogma. The definition says 'body and soul' deliberately -- it is a claim about her whole person, not only her soul.",
+      "hint": "The definition is careful to name both body and soul.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)",
+          "quote": "We pronounce, declare, and define it to be a divinely revealed dogma: that the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1185,
+      "prompt": "The Second Vatican Council taught that the Church of Christ '____ in the Catholic Church,' governed by the successor of Peter and the bishops in communion with him.",
+      "correctAnswer": "subsists",
+      "acceptedAnswers": [
+        "subsists",
+        "subsists in"
+      ],
+      "explanation": "The council chose 'subsists in' rather than a simple 'is' in order to affirm that the Church of Christ is found in its fullness in the Catholic Church, while acknowledging that real elements of sanctification exist beyond her visible bounds.",
+      "hint": "The verb was chosen instead of a plain 'is.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 8",
+          "quote": "This Church constituted and organized in the world as a society, subsists in the Catholic Church, which is governed by the successor of Peter and by the Bishops in communion with him"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "What does the Catechism teach about those who, through no fault of their own, do not know the Gospel of Christ or his Church?",
+      "choices": [
+        "Those who sincerely seek God may achieve eternal salvation",
+        "They are automatically excluded from eternal salvation",
+        "They are saved regardless of how they live their lives",
+        "Their situation is a question the Church refuses to address"
+      ],
+      "correctAnswer": "Those who sincerely seek God may achieve eternal salvation",
+      "explanation": "The Catechism's conditions are real and specific: through no fault of their own, and seeking God with a sincere heart. It is neither a blanket exclusion nor a blanket guarantee.",
+      "hint": "Notice the two conditions the sentence attaches.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 847",
+          "quote": "Those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who nevertheless seek God with a sincere heart... those too may achieve eternal salvation."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Sanctifying grace is described as a habitual gift, a stable disposition that perfects the soul itself.",
+      "correctAnswer": true,
+      "explanation": "True. The distinction matters: sanctifying grace is not a passing help for one moment but a stable, supernatural disposition enabling the soul to live with God and act by his love.",
+      "hint": "The word 'habitual' is doing real work here.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2000",
+          "quote": "Sanctifying grace is an habitual gift, a stable and supernatural disposition that perfects the soul itself to enable it to live with God, to act by his love."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1165,
+      "prompt": "Match each of the first four ecumenical councils to what it settled.",
+      "pairs": [
+        { "left": "Nicaea (325)", "right": "The Son is consubstantial with the Father" },
+        { "left": "Constantinople (381)", "right": "The Holy Spirit is worshipped with Father and Son" },
+        { "left": "Ephesus (431)", "right": "Mary is truly the Mother of God" },
+        { "left": "Chalcedon (451)", "right": "Christ is one person in two natures" }
+      ],
+      "explanation": "Read in order, the four councils track a single argument working itself out: first the Son's divinity, then the Spirit's, then how Christ can be one, then how his two natures relate.",
+      "hint": "They run in chronological order, each answering the question the last one raised.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "What does the Christian Creed proclaim at its culmination?",
+      "choices": [
+        "The resurrection of the dead and life everlasting",
+        "The founding of the Church at Pentecost",
+        "The forgiveness of sins through baptism",
+        "The communion of saints across the ages"
+      ],
+      "correctAnswer": "The resurrection of the dead and life everlasting",
+      "explanation": "The Creed's other articles are all genuinely professed, but the Catechism identifies where the whole profession is heading: the resurrection of the dead on the last day, and life everlasting.",
+      "hint": "Think about the last words a Catholic says when reciting the Creed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 988",
+          "quote": "The Christian Creed... culminates in the proclamation of the resurrection of the dead on the last day and in life everlasting."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: The Second Vatican Council taught that Mary's role neither takes away from nor adds to the dignity of Christ the one Mediator.",
+      "correctAnswer": true,
+      "explanation": "True. The council states it directly, adding that no creature could ever be counted as equal with the Incarnate Word and Redeemer. Marian doctrine is deliberately framed so as not to rival Christ's mediation.",
+      "hint": "The council is careful to protect Christ's unique role.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 62",
+          "quote": "This, however, is to be so understood that it neither takes away from nor adds anything to the dignity and efficaciousness of Christ the one Mediator. For no creature could ever be counted as equal with the Incarnate Word and Redeemer."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1185,
+      "prompt": "Lumen Gentium teaches that the Church is believed to be indefectibly ____.",
+      "correctAnswer": "holy",
+      "acceptedAnswers": [
+        "holy"
+      ],
+      "explanation": "The claim is not that every member is holy, but that the Church herself is -- because Christ, who with the Father and the Spirit is praised as uniquely holy, loved her as his bride.",
+      "hint": "It is one of the four marks recited in the Creed.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 39",
+          "quote": "The Church, whose mystery is being set forth by this Sacred Synod, is believed to be indefectibly holy. Indeed Christ, the Son of God, who with the Father and the Spirit is praised as 'uniquely holy,' loved the Church as His bride"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "According to the Catechism, when does the particular judgment take place?",
+      "choices": [
+        "At the very moment of a person's death",
+        "Only at the general judgment at the end of time",
+        "After a fixed period of waiting has elapsed",
+        "Whenever the Church offers prayers for the dead"
+      ],
+      "correctAnswer": "At the very moment of a person's death",
+      "explanation": "Each person receives eternal retribution in their immortal soul at the moment of death, in a judgment that refers their life to Christ. This is distinct from the general judgment at the end of time, which the Creed also professes.",
+      "hint": "The Church professes two judgments; this is the earlier one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1022",
+          "quote": "Each man receives his eternal retribution in his immortal soul at the very moment of his death, in a particular judgment that refers his life to Christ: either entrance into the blessedness of heaven... or immediate and everlasting damnation."
+        }
+      ]
+    }
+  ]
+}
