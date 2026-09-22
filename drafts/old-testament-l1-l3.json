@@ -1,0 +1,696 @@
+{
+  "_comment": "DRAFT -- NOT live, not in manifest.json, not loaded by either app. NEW TOPIC: the Old Testament, built as a chronological journey per CURRICULUM-PLAN.md -- 23 levels, from Torah-school basics at level 1 to scholar level at 23, with the Catechism's own typological method (CCC 128/129) carried through every level rather than appended at the end. difficultyElo computed for totalLevels=23. This file covers levels 1-3: creation, the fall and the first promise, and the covenant with Noah. Citations are drawn from the reviewed bank where they exist; new Scripture references are flagged by onramp_tool.py check for verification against a translation before this ships.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l1-001",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "How does the Bible begin its account of the heavens and the earth?",
+      "choices": [
+        "God made them",
+        "They had always existed",
+        "They formed by chance",
+        "Lesser spirits shaped them"
+      ],
+      "correctAnswer": "God made them",
+      "explanation": "The very first claim Scripture makes is that everything that exists was made by God. Everything else in the Old Testament follows from that one starting point.",
+      "hint": "It is the first sentence of the whole Bible.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 2:4",
+          "quote": "This is the story of the heavens and the earth at their creation. When the LORD God made the earth and the heavens"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-002",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Church teaches that God made everything out of nothing, not out of material that was already there.",
+      "correctAnswer": true,
+      "explanation": "True. God depended on nothing at all -- no matter, no helper, no raw material. He shows his power by starting from nothing to make everything he wants.",
+      "hint": "The Latin phrase is ex nihilo.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 296",
+          "quote": "God creates freely 'out of nothing'... God shows his power by starting from nothing to make all he wants."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-003",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "According to Genesis, human beings are made in whose image?",
+      "choices": [
+        "In the image of God",
+        "In the image of the animals",
+        "In the image of the stars",
+        "In the image of the sea"
+      ],
+      "correctAnswer": "In the image of God",
+      "explanation": "Genesis says it twice in one verse, then adds 'male and female he created them.' Everything the Old Testament later says about human dignity rests on this line.",
+      "hint": "Genesis says it twice in the very same verse.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:27",
+          "quote": "God created mankind in his image; in the image of God he created them; male and female he created them."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-004",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "Genesis closes the account of creation with God's own verdict: 'God looked at everything he had made, and found it very ____.'",
+      "correctAnswer": "good",
+      "acceptedAnswers": [
+        "good"
+      ],
+      "explanation": "The goodness of the created world is stated before anything goes wrong in it. Whatever the Old Testament later says about sin, it never says that matter itself was a mistake.",
+      "hint": "The verdict God gives on his own work.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31",
+          "quote": "God looked at everything he had made, and found it very good."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-005",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Christians set the Old Testament aside once the New Testament was written.",
+      "correctAnswer": false,
+      "explanation": "False, and the Church has said so forcefully. Christians venerate the Old Testament as true Word of God, and the Church has always opposed the idea of discarding it on the grounds that the New has made it void.",
+      "hint": "The Church condemned exactly this idea very early on.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 123",
+          "quote": "Christians venerate the Old Testament as true Word of God. The Church has always vigorously opposed the idea of rejecting the Old Testament under the pretext that the New has rendered it void (Marcionism)."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-006",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Why does the Church say the Old Testament still has permanent value?",
+      "choices": [
+        "Because the Old Covenant was never revoked",
+        "Because it records useful ancient history",
+        "Because it is easier reading than the New",
+        "Because it was written in a sacred language"
+      ],
+      "correctAnswer": "Because the Old Covenant was never revoked",
+      "explanation": "The Catechism calls the Old Testament an indispensable part of Sacred Scripture, divinely inspired, retaining permanent value -- because the covenant God made has never been taken back.",
+      "hint": "The reason is about a covenant, not about history or language.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123",
+          "quote": "The Old Testament is an indispensable part of Sacred Scripture. Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-007",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each opening truth of Genesis to what it means.",
+      "pairs": [
+        { "left": "Made out of nothing", "right": "God needed no material to work with" },
+        { "left": "In the image of God", "right": "Every person has a God-given dignity" },
+        { "left": "Found it very good", "right": "The created world is good in itself" },
+        { "left": "The Old Covenant stands", "right": "These Scriptures still belong to Christians" }
+      ],
+      "explanation": "These four claims are the floor the whole Old Testament is built on. Nothing later in the story -- not the fall, not the exile -- takes any of them back.",
+      "hint": "Each one is a claim about God, about us, or about the world.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 296",
+          "quote": "God creates freely 'out of nothing'... God shows his power by starting from nothing to make all he wants."
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:27",
+          "quote": "God created mankind in his image; in the image of God he created them; male and female he created them."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-008",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Christians read the Old Testament in the light of Christ crucified and risen.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the key to everything ahead in this topic. The Church reads the Old Testament forward -- as one story moving toward Christ -- not as a separate book that happens to sit in front of the Gospels.",
+      "hint": "The Church reads the whole story as heading somewhere.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 129",
+          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-009",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "How does the Church regard Old Testament figures such as the patriarchs and prophets?",
+      "choices": [
+        "They are honored as saints",
+        "They are remembered only as historical figures",
+        "They are honored only by Jewish tradition",
+        "They are mentioned but never venerated"
+      ],
+      "correctAnswer": "They are honored as saints",
+      "explanation": "The patriarchs, prophets, and certain other Old Testament figures have been and always will be honored as saints in all the Church's liturgical traditions. They are not merely characters in an old story.",
+      "hint": "The Church's liturgy treats them the way it treats holy men and women.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 61",
+          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honored as saints in all the Church's liturgical traditions."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l1-010",
+      "topic": "old-testament",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "Genesis states it twice in a single verse: 'God created mankind in his ____.'",
+      "correctAnswer": "image",
+      "acceptedAnswers": [
+        "image"
+      ],
+      "explanation": "Said once and then immediately repeated, as if to make sure it could not be missed. It is the reason the Old Testament treats every human life as belonging to God.",
+      "hint": "The word is repeated for emphasis in the same sentence.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:27",
+          "quote": "God created mankind in his image; in the image of God he created them; male and female he created them."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l2-001",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "After the fall, God tells the serpent that the woman's offspring will do what?",
+      "choices": [
+        "Strike at the serpent's head",
+        "Flee from the serpent's presence",
+        "Make peace with the serpent",
+        "Be ruled by the serpent forever"
+      ],
+      "correctAnswer": "Strike at the serpent's head",
+      "explanation": "This is the first promise of a rescuer anywhere in Scripture, spoken in the middle of the curse. The story of the Old Testament from here on is the story of who that offspring will be.",
+      "hint": "The promise is spoken as part of the curse on the serpent.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-002",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Genesis 3:15 is often called the 'first gospel' because it is the earliest promise of a redeemer in Scripture.",
+      "correctAnswer": true,
+      "explanation": "True. Christian readers have heard in it the first announcement of good news: that the damage done here will one day be undone by one born of a woman.",
+      "hint": "The Latin name for it means 'first good news.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-003",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 985,
+      "prompt": "God says to the serpent: 'I will put enmity between you and the woman, and between your offspring and ____.'",
+      "correctAnswer": "hers",
+      "acceptedAnswers": [
+        "hers",
+        "her offspring"
+      ],
+      "explanation": "The line divides the whole human story into two lines of descent. Everything that follows -- Abraham, David, the prophets -- narrows the question of which offspring is meant.",
+      "hint": "The promise is about the woman's line, not the serpent's.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-004",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "What does the Church call the practice of reading Old Testament events as prefigurations of what God accomplished in Christ?",
+      "choices": [
+        "Typology",
+        "Allegory",
+        "Concordance",
+        "Apologetics"
+      ],
+      "correctAnswer": "Typology",
+      "explanation": "Typology is not a devotional habit the Church picked up later -- the Catechism names it as how the unity of the divine plan across the two Testaments is understood at all.",
+      "hint": "The word comes from the Greek for 'pattern' or 'impression.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-005",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: The Catechism gives the crossing of the Red Sea as an example of an Old Testament event that is a type of Christian Baptism.",
+      "correctAnswer": true,
+      "explanation": "True, and it is worth noticing that the Catechism supplies the example itself. Passing through the water out of slavery into freedom is the same shape as what happens at the font.",
+      "hint": "Think about passing through water out of slavery.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 117",
+          "quote": "We can acquire a more profound understanding of events by recognizing their significance in Christ; thus the crossing of the Red Sea is a sign or type of Christ's victory and also of Christian Baptism."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-006",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 965,
+      "prompt": "Match each Old Testament reality to what the Church sees it pointing toward.",
+      "pairs": [
+        { "left": "The crossing of the Red Sea", "right": "Christian Baptism" },
+        { "left": "The offspring of the woman", "right": "The promised redeemer" },
+        { "left": "The patriarchs and prophets", "right": "Saints honored by the Church" },
+        { "left": "The Old Covenant", "right": "A covenant never revoked" }
+      ],
+      "explanation": "Reading this way is what the Catechism calls typology. The Old Testament is not a set of separate lessons; it is one story whose meaning becomes fully visible only at the end.",
+      "hint": "Each left-hand item points forward to something on the right.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 117",
+          "quote": "We can acquire a more profound understanding of events by recognizing their significance in Christ; thus the crossing of the Red Sea is a sign or type of Christ's victory and also of Christian Baptism."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-007",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "The early teaching that the Old Testament should be discarded because the New replaced it is known as:",
+      "choices": [
+        "Marcionism",
+        "Donatism",
+        "Pelagianism",
+        "Montanism"
+      ],
+      "correctAnswer": "Marcionism",
+      "explanation": "The Church rejected it, and the rejection matters for how this whole topic is read: the Old Testament is not background material that Christianity outgrew.",
+      "hint": "It is named after the second-century figure who proposed it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 123",
+          "quote": "Christians venerate the Old Testament as true Word of God. The Church has always vigorously opposed the idea of rejecting the Old Testament under the pretext that the New has rendered it void (Marcionism)."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-008",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: The Church teaches that the Old Covenant has been revoked.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism says plainly that the Old Covenant has never been revoked, which is precisely why those books retain permanent value rather than merely historical interest.",
+      "hint": "The Catechism uses the word 'never' about this.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123",
+          "quote": "The Old Testament is an indispensable part of Sacred Scripture. Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-009",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 985,
+      "prompt": "Typology, the Catechism says, discerns in God's works of the Old Covenant ____ of what he accomplished in the fullness of time.",
+      "correctAnswer": "prefigurations",
+      "acceptedAnswers": [
+        "prefigurations",
+        "prefiguration"
+      ],
+      "explanation": "The word matters: a prefiguration is not a coincidence noticed after the fact, but a real shape in the earlier event that the later one fills out.",
+      "hint": "The word means an earlier shape of something later.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l2-010",
+      "topic": "old-testament",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "At the Easter Vigil, what does the Church recall while blessing the baptismal water?",
+      "choices": [
+        "Salvation-history events that prefigured Baptism",
+        "The names of everyone baptized that year",
+        "The history of the parish church building",
+        "The list of books in the Old Testament"
+      ],
+      "correctAnswer": "Salvation-history events that prefigured Baptism",
+      "explanation": "The liturgy itself teaches typology. In blessing the water, the Church walks back through the great moments of the Old Testament in which water already carried the meaning Baptism would later fulfill.",
+      "hint": "The prayer walks back through the Old Testament.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1217",
+          "quote": "In the liturgy of the Easter Vigil, during the blessing of the baptismal water, the Church solemnly commemorates the great events in salvation history that already prefigured the mystery of Baptism."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l3-001",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "What sign did God give Noah as the mark of his covenant with the earth?",
+      "choices": [
+        "A bow set in the clouds",
+        "A pillar of fire",
+        "A staff that budded",
+        "A star in the east"
+      ],
+      "correctAnswer": "A bow set in the clouds",
+      "explanation": "The flood ends not with a warning but with a promise, and the promise is given a visible sign. This is the pattern for every covenant that follows: God binds himself, and marks it.",
+      "hint": "It appears in the sky after rain.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-002",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The Church reads Noah's ark, in which a family is saved through water, as one of the events that prefigured Baptism.",
+      "correctAnswer": true,
+      "explanation": "True. The Easter Vigil's blessing of the font gathers up exactly these moments -- the waters of the flood among them -- as events in which God had already been doing what Baptism would finally accomplish.",
+      "hint": "Think about who is saved, and what they are saved through.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1217",
+          "quote": "In the liturgy of the Easter Vigil, during the blessing of the baptismal water, the Church solemnly commemorates the great events in salvation history that already prefigured the mystery of Baptism."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-003",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "God tells Noah: 'I set my bow in the clouds to serve as a sign of the ____ between me and the earth.'",
+      "correctAnswer": "covenant",
+      "acceptedAnswers": [
+        "covenant"
+      ],
+      "explanation": "This word will carry the rest of the Old Testament. A covenant is not a contract between equals -- it is God binding himself to a people, again and again, each time more specifically.",
+      "hint": "The word for a sacred bond God makes and keeps.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-004",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "What happened at Babel, in the account that closes the Bible's earliest chapters?",
+      "choices": [
+        "Human language was confused and the people scattered",
+        "A great famine drove the people into Egypt",
+        "A flood covered the whole earth a second time",
+        "The first temple was built and dedicated"
+      ],
+      "correctAnswer": "Human language was confused and the people scattered",
+      "explanation": "Babel leaves humanity divided and dispersed. It is the problem the rest of the Old Testament works on: God will now gather one people, beginning with one man, in order to reach all of them.",
+      "hint": "It explains why the nations no longer understand each other.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 11:7-8",
+          "quote": "Let us then go down and there confuse their language, so that no one will understand the speech of another. So the LORD scattered them from there over all the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-005",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The covenant with Noah is made with all humanity and with the earth itself, not with one nation only.",
+      "correctAnswer": true,
+      "explanation": "True, and the scope is worth noticing. God's covenants narrow before they widen again: universal with Noah, then one family with Abraham, one nation at Sinai -- and finally, through Christ, all nations once more.",
+      "hint": "Look at who God says the sign is between.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-006",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each early event in Genesis to what it establishes for the rest of the story.",
+      "pairs": [
+        { "left": "Creation", "right": "Everything that exists is made and good" },
+        { "left": "The fall", "right": "Something has gone wrong that needs undoing" },
+        { "left": "The promise to the woman", "right": "A rescuer is coming from her line" },
+        { "left": "The covenant with Noah", "right": "God binds himself by a visible sign" }
+      ],
+      "explanation": "These four moments set every term the Old Testament will use from here on: a good creation, a real wound, a promised rescuer, and a God who makes binding covenants.",
+      "hint": "Read them in order -- each one sets up the next.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31",
+          "quote": "God looked at everything he had made, and found it very good."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-007",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "How do God's covenants move across the Old Testament?",
+      "choices": [
+        "From all humanity, to one family, to one nation",
+        "From one nation outward, then back to one family",
+        "From one family, to one city, and no further",
+        "They stay with all humanity throughout"
+      ],
+      "correctAnswer": "From all humanity, to one family, to one nation",
+      "explanation": "Noah's covenant is with the whole earth; Abraham's with one family; Sinai's with one nation. The narrowing is not God losing interest in the rest -- it is how the promise is carried until it can be opened to everyone.",
+      "hint": "Trace the scope from Noah to Abraham to Sinai.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123",
+          "quote": "The Old Testament is an indispensable part of Sacred Scripture. Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-008",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Reading the Old Testament forward toward Christ is a later Christian invention with no basis in the Church's teaching.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism itself states that Christians read the Old Testament in the light of Christ crucified and risen, and names typology as how the unity of the two Testaments is understood.",
+      "hint": "The Catechism addresses this directly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 129",
+          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-009",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "At Babel the LORD says: 'Let us then go down and there ____ their language, so that no one will understand the speech of another.'",
+      "correctAnswer": "confuse",
+      "acceptedAnswers": [
+        "confuse",
+        "confound"
+      ],
+      "explanation": "The scattering at Babel is the last thing that happens before Abraham is called. The Old Testament's answer to a divided humanity begins on the very next page.",
+      "hint": "The name Babel is connected to this word.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 11:7-8",
+          "quote": "Let us then go down and there confuse their language, so that no one will understand the speech of another. So the LORD scattered them from there over all the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l3-010",
+      "topic": "old-testament",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Why does the story of Babel matter for everything that follows in the Old Testament?",
+      "choices": [
+        "It leaves humanity divided, and God begins gathering a people",
+        "It explains why the Old Testament is written in Hebrew",
+        "It marks the end of God's dealings with the nations",
+        "It records the founding of the city of Jerusalem"
+      ],
+      "correctAnswer": "It leaves humanity divided, and God begins gathering a people",
+      "explanation": "Scattering is the problem the rest of the story answers. God calls one man, makes of him a family, then a nation -- and at Pentecost, when the languages are understood again, the gathering is finally complete.",
+      "hint": "Ask what problem the call of Abraham is answering.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 11:7-8",
+          "quote": "Let us then go down and there confuse their language, so that no one will understand the speech of another. So the LORD scattered them from there over all the earth."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123",
+          "quote": "The Old Testament is an indispensable part of Sacred Scripture. Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        }
+      ]
+    }
+  ]
+}

@@ -38,7 +38,9 @@ NEW_LEVELS = 3           # on-ramp levels added below each topic's current L1
 def target_total(live_levels):
     return 2 * live_levels + 3
 AUTHORITATIVE = {'ccc', 'scripture', 'council', 'magisterial_document', 'catechism'}
-ID_RE = re.compile(r'^[a-z0-9]+(-[a-z0-9]+)*-l(10|[1-9])-[0-9]{3}$')
+ID_RE = re.compile(r'^[a-z0-9]+(-[a-z0-9]+)*-l([1-9]|[12][0-9])-[0-9]{3}$')
+# Topics that do not exist in the live bank yet, with their target level count.
+NEW_TOPIC_LEVELS = {'old-testament': 23}
 REQUIRED = ['id', 'topic', 'level', 'type', 'difficultyElo', 'prompt',
             'explanation', 'citations']
 
@@ -105,16 +107,26 @@ def cmd_check(path):
     qs = draft['questions']
     slug = draft['topic']
     refs, quotes, levels = live_bank()
-    total = target_total(levels[slug])
+    total = (NEW_TOPIC_LEVELS[slug] if slug in NEW_TOPIC_LEVELS
+             else target_total(levels[slug]))
 
     problems = []
 
-    # 1. provenance
+    # 1. provenance. A CCC paragraph, council or magisterial document written from
+    # memory is the dangerous case -- a wrong paragraph number is unverifiable by a
+    # reader and corrodes the app's core promise. A new Scripture reference is a
+    # normal part of building a new topic (chapter and verse are checkable against
+    # any Bible), so it is surfaced for review rather than blocked.
+    new_scripture = []
     for q in qs:
         for c in q['citations']:
             if (c['type'], c['reference']) not in refs:
-                problems.append(f"PROVENANCE {q['id']}: '{c['reference']}' is not "
-                                f"cited anywhere in the live bank -- written from memory?")
+                if c['type'] == 'scripture':
+                    new_scripture.append(f"{q['id']}: {c['reference']}")
+                else:
+                    problems.append(f"PROVENANCE {q['id']}: '{c['reference']}' ({c['type']}) "
+                                    f"is not cited anywhere in the live bank -- "
+                                    f"written from memory?")
 
     # 2. quote fidelity
     for q in qs:
@@ -186,7 +198,8 @@ def cmd_check(path):
                 tells += 1
 
     print(f'{os.path.basename(path)}: {len(qs)} questions, topic {slug} '
-          f'({levels[slug]} live levels -> {total})')
+          f'({levels.get(slug, 0)} live levels -> {total})'
+          + (' [NEW TOPIC]' if slug in NEW_TOPIC_LEVELS else ''))
     print()
     if problems:
         print(f'FAILED -- {len(problems)} problem(s):')
@@ -201,6 +214,12 @@ def cmd_check(path):
         exp = sum(expected(STARTING_RATING, q['difficultyElo']) for q in sub) / len(sub)
         print(f'  level {lvl}: {len(sub):>2} questions | avg elo {avg:>6.0f} | '
               f'new-user expected score {exp*100:>3.0f}%')
+    if new_scripture:
+        print(f'\n  {len(new_scripture)} new Scripture reference(s) introduced -- '
+              f'legitimate for a new topic, but each quote must be checked against a '
+              f'real translation before this ships:')
+        for s in new_scripture:
+            print(f'    {s}')
     if tells:
         print(f'\n  note: {tells} multiple_choice question(s) have the correct answer '
               f'as much the longest choice -- same tell the live bank is already '
