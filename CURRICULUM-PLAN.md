@@ -169,3 +169,50 @@ padding to hit a level count — they are the missing middle of Church history.
    pass). Collapsing it into one chronological path is the right call for a
    journey, but it does mean a returning user's level 6 is not the level 6 they
    left.
+
+---
+
+## Decisions from Andrew, Sep 22, 2026
+
+**Church History follows a timeline.** Confirmed — the 23-level syllabus above
+is already built chronologically, and interleaving the current two courses is
+what makes that possible.
+
+**New topic: the Old Testament.** Checked against what exists before scoping
+it, and it is a real gap rather than a split:
+
+- `sacred-scripture` is meta-level — canon, inspiration, the senses of
+  Scripture, Dei Verbum, textual criticism. It teaches how to read the Bible,
+  not what is in it.
+- Across the entire bank, **56 of 1,469 questions (4%)** even mention an Old
+  Testament subject. Abraham, the Exodus, David, the prophets and the Psalms
+  are effectively absent as content.
+
+So this is additive. As a brand-new topic it has no existing levels to
+re-sequence, which makes it the cleanest possible test of the journey format:
+built as a timeline from the start, and a natural prequel to Church History.
+
+Proposed spine (23 levels, to be filled out in the same format as Church
+History above): creation and the first parents -> Noah and the covenant ->
+Abraham -> Isaac, Jacob, and Joseph -> slavery in Egypt -> Moses and the
+Exodus -> Sinai and the Law -> desert wandering -> Joshua and the conquest ->
+the Judges -> Samuel and the first kings -> David -> Solomon and the Temple ->
+the kingdom divides -> the northern prophets -> Assyria and the fall of Israel
+-> Isaiah and Judah -> Jeremiah and the fall of Jerusalem -> the Exile ->
+Ezekiel and Daniel -> return and rebuilding -> wisdom and the Psalms ->
+waiting for the Messiah.
+
+Adding a sixteenth topic is not content-only. It also needs:
+- `schema.json`'s `topicSlug` enum extended
+- a `manifest.json` entry
+- `TopicCatalog.swift` -- palette, level names, mastery titles
+- the Android equivalent in `shared/.../content/`
+- both apps' topic counts, which appear in store listings and in-app copy
+
+## Working order
+
+One topic at a time, start to finish, and each completed topic becomes the
+reference for the next -- its level titles, the shape of its bridging levels,
+how tightly each level leans on the one before. Church History goes first
+because it is the clearest timeline; the Old Testament follows as the first
+topic built this way from nothing.
