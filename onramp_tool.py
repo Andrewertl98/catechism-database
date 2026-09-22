@@ -101,11 +101,18 @@ def cmd_pool(slug):
         print(f'{t}|{r}|{quote}')
 
 
-def cmd_check(path):
-    with open(path) as f:
-        draft = json.load(f)
-    qs = draft['questions']
-    slug = draft['topic']
+def cmd_check(*paths):
+    """Check one file, or several files of the same topic as a single journey."""
+    qs, slug = [], None
+    for p in paths:
+        with open(p) as f:
+            draft = json.load(f)
+        if slug and draft['topic'] != slug:
+            sys.exit(f'refusing to merge different topics: {slug} vs {draft["topic"]}')
+        slug = draft['topic']
+        qs.extend(draft['questions'])
+    qs.sort(key=lambda q: (q['level'], q['id']))
+    path = paths[0] if len(paths) == 1 else f'{slug} ({len(paths)} files)'
     refs, quotes, levels = live_bank()
     total = (NEW_TOPIC_LEVELS[slug] if slug in NEW_TOPIC_LEVELS
              else target_total(levels[slug]))
@@ -208,12 +215,26 @@ def cmd_check(path):
     else:
         print('PASSED -- provenance, quote fidelity, schema, and difficulty all clean.')
     print()
+    # Model the real journey, not a standing start. Nobody arrives at level 6
+    # still rated 1000 -- they arrive having studied levels 1-5. Answering at
+    # exactly your expected rate gains no rating by definition, so the model
+    # assumes what a learning app should: a user who works through a level can
+    # then answer about STUDIED_SCORE of it, and gains rating accordingly.
+    # Ratings update with EloEngine's real apply() math, K-factor included.
+    STUDIED_SCORE = 0.70
+    rating, answered = float(STARTING_RATING), 0
+    print(f"  {'level':<7}{'q':>3}  {'avg elo':>8}  {'arrives rated':>14}  {'feels like':>11}")
     for lvl in sorted({q['level'] for q in qs}):
         sub = [q for q in qs if q['level'] == lvl]
         avg = sum(q['difficultyElo'] for q in sub) / len(sub)
-        exp = sum(expected(STARTING_RATING, q['difficultyElo']) for q in sub) / len(sub)
-        print(f'  level {lvl}: {len(sub):>2} questions | avg elo {avg:>6.0f} | '
-              f'new-user expected score {exp*100:>3.0f}%')
+        exp = sum(expected(rating, q['difficultyElo']) for q in sub) / len(sub)
+        print(f'  {lvl:<7}{len(sub):>3}  {avg:>8.0f}  {rating:>14.0f}  {exp*100:>10.0f}%')
+        for q in sub:
+            e = expected(rating, q['difficultyElo'])
+            k = 40 if answered < 30 else (10 if rating >= 2100 else 20)
+            rating += k * (STUDIED_SCORE - e)
+            answered += 1
+
     if new_scripture:
         print(f'\n  {len(new_scripture)} new Scripture reference(s) introduced -- '
               f'legitimate for a new topic, but each quote must be checked against a '
@@ -230,10 +251,10 @@ def cmd_check(path):
 if __name__ == '__main__':
     if len(sys.argv) < 3:
         sys.exit(__doc__)
-    cmd, arg = sys.argv[1], sys.argv[2]
+    cmd, args = sys.argv[1], sys.argv[2:]
     if cmd == 'pool':
-        cmd_pool(arg)
+        cmd_pool(args[0])
     elif cmd == 'check':
-        sys.exit(cmd_check(arg))
+        sys.exit(cmd_check(*args))
     else:
         sys.exit(__doc__)

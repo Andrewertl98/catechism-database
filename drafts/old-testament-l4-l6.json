@@ -1,0 +1,699 @@
+{
+  "_comment": "DRAFT -- NOT live. Old Testament levels 4-6 of 23: the call of Abraham, the mountain of Moriah, and Jacob/Israel. Continues the typological thread from levels 1-3 -- Moriah is where the Lamb, the only son, and the wood carried uphill all enter the story. difficultyElo computed for totalLevels=23. New Scripture references are flagged by onramp_tool.py check for verification against a translation before shipping.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l4-001",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "When God calls Abram out of his country, what three things does he promise?",
+      "choices": [
+        "A land, descendants, and blessing for all nations",
+        "Wealth, long life, and victory in battle",
+        "A throne, a temple, and a priesthood",
+        "Wisdom, peace, and freedom from illness"
+      ],
+      "correctAnswer": "A land, descendants, and blessing for all nations",
+      "explanation": "The third promise is the one that reaches past Abraham entirely. God narrows his covenant to a single family precisely so that, through it, all the families of the earth can be blessed.",
+      "hint": "Two of the three concern Abraham; the third concerns everyone else.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 12:1-3",
+          "quote": "Go forth from your land, your relatives, and from your father's house to a land that I will show you. I will make of you a great nation, and I will bless you... All the families of the earth will find blessing in you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-002",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Catechism says the Beatitudes take up the promises made to the chosen people since Abraham.",
+      "correctAnswer": true,
+      "explanation": "True. It is a direct line: what begins as a promise to one wandering man is what Jesus is still unfolding on the mountainside, now ordered to the Kingdom of heaven.",
+      "hint": "The connection runs from Abraham to Jesus' own preaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1716",
+          "quote": "The Beatitudes are at the heart of Jesus' preaching. They take up the promises made to the chosen people since Abraham... ordering them... to the Kingdom of heaven."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-003",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "Abram settles a quarrel with Lot by saying: 'Let there be no strife between you and me... for we are ____.'",
+      "correctAnswer": "kinsmen",
+      "acceptedAnswers": [
+        "kinsmen",
+        "kinsman",
+        "brothers"
+      ],
+      "explanation": "Abraham gives Lot the first choice of land rather than fight him for it. The promise had been made to Abraham, and he behaves as a man who believes it will be kept without his grasping.",
+      "hint": "The reason he gives is family.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 13:8",
+          "quote": "Let there be no strife between you and me... for we are kinsmen."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-004",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "According to the Catechism, since whom has intercession -- asking God on behalf of another -- marked a heart attuned to God's mercy?",
+      "choices": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Elijah"
+      ],
+      "correctAnswer": "Abraham",
+      "explanation": "Abraham bargaining for Sodom is the pattern: a man arguing with God for the sake of people who are not his own. The Catechism treats that as the beginning of intercessory prayer itself.",
+      "hint": "Think of the man who argued with God over a doomed city.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2634",
+          "quote": "Since Abraham, intercession -- asking on behalf of another -- has been characteristic of a heart attuned to God's mercy."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-005",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: Abraham is honored as a saint in the Church's liturgical traditions.",
+      "correctAnswer": true,
+      "explanation": "True. The patriarchs and prophets have always been honored as saints across all the Church's liturgical traditions -- they are not treated as figures who belong to someone else's book.",
+      "hint": "The Church's liturgy treats the patriarchs the way it treats other holy men and women.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 61",
+          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honored as saints in all the Church's liturgical traditions."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-006",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each promise made to Abraham to how the story carries it forward.",
+      "pairs": [
+        { "left": "A land", "right": "Israel, entered under Joshua" },
+        { "left": "Descendants", "right": "A nation formed at Sinai" },
+        { "left": "Blessing for all nations", "right": "Fulfilled in Christ" },
+        { "left": "A covenant", "right": "Renewed with David and the prophets" }
+      ],
+      "explanation": "Each promise takes centuries to unfold, and the third takes the longest. The Old Testament can be read as the slow working-out of these four commitments.",
+      "hint": "Three of the four are settled within the Old Testament itself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 12:1-3",
+          "quote": "Go forth from your land, your relatives, and from your father's house to a land that I will show you. I will make of you a great nation, and I will bless you... All the families of the earth will find blessing in you."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1716",
+          "quote": "The Beatitudes are at the heart of Jesus' preaching. They take up the promises made to the chosen people since Abraham... ordering them... to the Kingdom of heaven."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-007",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "How do God's covenants change in scope from Noah to Abraham?",
+      "choices": [
+        "From all humanity to one chosen family",
+        "From one family outward to all humanity",
+        "From one nation to a group of nations",
+        "The scope stays exactly the same",
+        "From a city to an empire"
+      ],
+      "correctAnswer": "From all humanity to one chosen family",
+      "explanation": "The narrowing is deliberate and temporary. God works through one family in order to reach everyone -- which is why the promise to Abraham already mentions all the families of the earth.",
+      "hint": "Compare who the rainbow covenant is with to who Abraham's is with.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 12:1-3",
+          "quote": "Go forth from your land, your relatives, and from your father's house to a land that I will show you. I will make of you a great nation, and I will bless you... All the families of the earth will find blessing in you."
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-008",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: God's promise to Abraham concerns only Abraham's own descendants and no one else.",
+      "correctAnswer": false,
+      "explanation": "False. The promise explicitly reaches further: all the families of the earth will find blessing in him. The Church reads that clause as the seed of everything the New Testament claims about the nations.",
+      "hint": "Read the third clause of the promise carefully.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 12:1-3",
+          "quote": "Go forth from your land, your relatives, and from your father's house to a land that I will show you. I will make of you a great nation, and I will bless you... All the families of the earth will find blessing in you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-009",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The Catechism traces a practice back to one man: 'Since ____, intercession -- asking on behalf of another -- has been characteristic of a heart attuned to God's mercy.'",
+      "correctAnswer": "Abraham",
+      "acceptedAnswers": [
+        "Abraham",
+        "Abram"
+      ],
+      "explanation": "Every later intercessor in Scripture -- Moses on the mountain, Samuel, the prophets -- is working in a pattern this man began.",
+      "hint": "The same patriarch who argued with God over Sodom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2634",
+          "quote": "Since Abraham, intercession -- asking on behalf of another -- has been characteristic of a heart attuned to God's mercy."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l4-010",
+      "topic": "old-testament",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Why does the Church treat the call of Abraham as a turning point rather than just one more story?",
+      "choices": [
+        "It begins God's gathering of a people after Babel",
+        "It is the first time God speaks to anyone",
+        "It marks the end of God's promises to others",
+        "It is the earliest event the Bible records"
+      ],
+      "correctAnswer": "It begins God's gathering of a people after Babel",
+      "explanation": "Babel leaves humanity scattered; the very next movement in the story is God calling one man out in order to build a people. The answer to dispersion begins here.",
+      "hint": "Look at what happened immediately before this call.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 11:7-8",
+          "quote": "Let us then go down and there confuse their language, so that no one will understand the speech of another. So the LORD scattered them from there over all the earth."
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 12:1-3",
+          "quote": "Go forth from your land, your relatives, and from your father's house to a land that I will show you. I will make of you a great nation, and I will bless you... All the families of the earth will find blessing in you."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l5-001",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "On Mount Moriah, what does God provide in place of Isaac?",
+      "choices": [
+        "A ram caught in the thicket",
+        "A dove sent from heaven",
+        "A lamb brought by a shepherd",
+        "An ox from Abraham's herd"
+      ],
+      "correctAnswer": "A ram caught in the thicket",
+      "explanation": "Abraham had told Isaac that God himself would provide the offering. He is answered more literally than he could have known -- and the Church hears in that answer the beginning of a much longer one.",
+      "hint": "Abraham finds it caught by its horns.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 22:13",
+          "quote": "Abraham looked up and saw a single ram caught by its horns in the thicket. So Abraham went and took the ram and offered it up as a burnt offering in place of his son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-002",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Church reads Abraham's willingness to offer his only son as prefiguring the Father offering the Son.",
+      "correctAnswer": true,
+      "explanation": "True, and this is typology working exactly as the Catechism describes it: a real event in the Old Covenant whose shape is filled out in Christ. A father, an only son, a mountain, and wood carried uphill.",
+      "hint": "Count the details the two scenes share.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 22:13",
+          "quote": "Abraham looked up and saw a single ram caught by its horns in the thicket. So Abraham went and took the ram and offered it up as a burnt offering in place of his son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-003",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "Seeing Jesus approach, John the Baptist says: 'Behold, the ____ of God, who takes away the sin of the world.'",
+      "correctAnswer": "Lamb",
+      "acceptedAnswers": [
+        "Lamb"
+      ],
+      "explanation": "The title only lands with full weight if you have read the Old Testament first. A lamb provided in a son's place on Moriah, a lamb slain at Passover -- and now a man named as the Lamb himself.",
+      "hint": "The animal provided in Isaac's place, and slain at Passover.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:29",
+          "quote": "Behold, the Lamb of God, who takes away the sin of the world."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-004",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Isaac carries the wood for the sacrifice up the mountain himself. What does the Church see prefigured in that detail?",
+      "choices": [
+        "Christ carrying the cross to Calvary",
+        "The wood of the ark that saved Noah",
+        "The staff Moses carried into Egypt",
+        "The cedar used to build the Temple"
+      ],
+      "correctAnswer": "Christ carrying the cross to Calvary",
+      "explanation": "The son carries the wood of his own sacrifice up a hill, at his father's direction. Reading the two scenes side by side is what the Catechism means by discerning prefigurations.",
+      "hint": "Who else carried the wood of his own sacrifice uphill?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-005",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Church teaches that the sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice.",
+      "correctAnswer": true,
+      "explanation": "True -- 'the victim is one and the same, only the manner of offering is different.' The thread of sacrifice that begins with a ram on Moriah does not end at Calvary; it is made present at every altar.",
+      "hint": "The difference is in the manner, not the victim.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-006",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each detail of the Moriah account to what the Church sees it pointing toward.",
+      "pairs": [
+        { "left": "Abraham's only son", "right": "The only Son of the Father" },
+        { "left": "The wood carried uphill", "right": "The cross carried to Calvary" },
+        { "left": "The ram provided instead", "right": "The Lamb of God" },
+        { "left": "The mountain of sacrifice", "right": "The hill outside Jerusalem" }
+      ],
+      "explanation": "None of these is a coincidence noticed afterward. The Catechism's word is prefiguration -- a real shape in the earlier event that the later one fills out completely.",
+      "hint": "Each detail on the left has a counterpart in the Passion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        },
+        {
+          "type": "scripture",
+          "reference": "John 1:29",
+          "quote": "Behold, the Lamb of God, who takes away the sin of the world."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-007",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What does Abraham tell Isaac when the boy asks where the offering is?",
+      "choices": [
+        "That God himself will provide it",
+        "That they will buy one in the next town",
+        "That Isaac must find one himself",
+        "That no offering will be needed"
+      ],
+      "correctAnswer": "That God himself will provide it",
+      "explanation": "Abraham says more than he understands. The whole later story of sacrifice in Israel -- and its end at Calvary -- is contained in that sentence.",
+      "hint": "His answer names who will supply the offering.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 22:8",
+          "quote": "God will provide the sheep for the burnt offering, my son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-008",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Abraham's test on Moriah is remembered in Scripture as a failure of faith.",
+      "correctAnswer": false,
+      "explanation": "False. It is remembered as the opposite -- the point at which Abraham's trust is shown to be total, and the point from which the promise is renewed rather than withdrawn.",
+      "hint": "Consider what God says to him immediately afterward.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 22:13",
+          "quote": "Abraham looked up and saw a single ram caught by its horns in the thicket. So Abraham went and took the ram and offered it up as a burnt offering in place of his son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-009",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "Of the Cross and the Eucharist the Catechism says: 'The victim is one and the same... only the ____ of offering is different.'",
+      "correctAnswer": "manner",
+      "acceptedAnswers": [
+        "manner",
+        "mode"
+      ],
+      "explanation": "One victim, one sacrifice, offered differently. That is why the Church can say the Mass does not repeat Calvary but makes the one sacrifice present.",
+      "hint": "What differs is how it is offered, not what is offered.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l5-010",
+      "topic": "old-testament",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Why does the Church call these Old Testament moments 'types' rather than happy coincidences?",
+      "choices": [
+        "Because one divine plan runs through both Testaments",
+        "Because early writers enjoyed finding patterns",
+        "Because the Old Testament was edited afterward",
+        "Because the two accounts share a few words"
+      ],
+      "correctAnswer": "Because one divine plan runs through both Testaments",
+      "explanation": "Typology is a claim about authorship, not about literary coincidence: the same God is at work in both Testaments, so the earlier events genuinely carry the shape of the later ones.",
+      "hint": "The claim is about who is acting in both Testaments.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 129",
+          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l6-001",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Waking from his dream of a ladder reaching to heaven, what does Jacob call the place?",
+      "choices": [
+        "The gate of heaven",
+        "The rock of refuge",
+        "The tent of meeting",
+        "The well of the covenant"
+      ],
+      "correctAnswer": "The gate of heaven",
+      "explanation": "Jacob names a specific patch of ground as the place where heaven and earth touch. Israel's whole later instinct about the Temple -- and the Church's about the altar -- grows from moments like this one.",
+      "hint": "He calls it both awesome and a doorway.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 28:17",
+          "quote": "How awesome is this place! This is nothing else but the house of God, and this is the gate of heaven!"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-002",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: After wrestling until daybreak, Jacob is given the new name Israel.",
+      "correctAnswer": true,
+      "explanation": "True. The renaming matters: the nation that follows is called by the name given to a man in the middle of a struggle he would not walk away from.",
+      "hint": "The nation is later called by this new name.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 32:24-30",
+          "quote": "You shall no longer be named Jacob, but Israel, because you have contended with divine and human beings and have prevailed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-003",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "Jacob exclaims at Bethel: 'How awesome is this place! This is nothing else but the house of God, and this is the ____ of heaven!'",
+      "correctAnswer": "gate",
+      "acceptedAnswers": [
+        "gate",
+        "gateway"
+      ],
+      "explanation": "A doorway, not a destination. Jacob has found a place where the traffic between heaven and earth is visible -- which is exactly the claim the Church later makes about the Incarnation.",
+      "hint": "A doorway between two places.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 28:17",
+          "quote": "How awesome is this place! This is nothing else but the house of God, and this is the gate of heaven!"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-004",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The twelve sons of Jacob become what in Israel's history?",
+      "choices": [
+        "The twelve tribes of Israel",
+        "The twelve judges of Israel",
+        "The twelve kings of Israel",
+        "The twelve prophets of Israel"
+      ],
+      "correctAnswer": "The twelve tribes of Israel",
+      "explanation": "The number is not incidental, and the Gospels know it. When Jesus chooses twelve men to stand at the head of a renewed people, he is making a claim about Israel, not just picking a convenient number.",
+      "hint": "The number reappears pointedly in the Gospels.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 32:24-30",
+          "quote": "You shall no longer be named Jacob, but Israel, because you have contended with divine and human beings and have prevailed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-005",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: At the Annunciation, the angel tells Mary that her son will rule over the house of Jacob forever.",
+      "correctAnswer": true,
+      "explanation": "True. Luke deliberately reaches back to the patriarch: the child is announced as heir to David's throne and ruler over Jacob's house, placing him at the end of the line this level began.",
+      "hint": "Luke names both David and Jacob in the same breath.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-006",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each moment in Jacob's life to what it establishes.",
+      "pairs": [
+        { "left": "The ladder at Bethel", "right": "A place where heaven and earth meet" },
+        { "left": "Wrestling until daybreak", "right": "The name Israel" },
+        { "left": "His twelve sons", "right": "The twelve tribes" },
+        { "left": "The house of Jacob", "right": "Named again at the Annunciation" }
+      ],
+      "explanation": "Jacob is the hinge between a family and a nation. By the end of his life there is no longer just a promise to one man -- there is a people with a name.",
+      "hint": "One gives a name, one gives a structure, one gives a place.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 28:17",
+          "quote": "How awesome is this place! This is nothing else but the house of God, and this is the gate of heaven!"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-007",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Why does the angel's promise to Mary mention 'the house of Jacob' rather than simply 'Israel'?",
+      "choices": [
+        "It ties the child to the patriarch's own line",
+        "It was the formal legal name of the territory",
+        "It distinguishes Judea from Samaria",
+        "It refers to the Temple building itself"
+      ],
+      "correctAnswer": "It ties the child to the patriarch's own line",
+      "explanation": "Naming Jacob is a way of naming the whole story: the wrestling, the renaming, the twelve sons. Luke is saying this child is the point the whole line was heading toward.",
+      "hint": "The phrase reaches back to a person, not a place.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-008",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: Jacob's new name is given to him only after he refuses to let go of the one he wrestles.",
+      "correctAnswer": true,
+      "explanation": "True -- the name is granted because he contended and prevailed. Israel means a people who hold on, and the name is earned in the dark by someone who would not release his grip.",
+      "hint": "The reason given for the new name is in the verse itself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 32:24-30",
+          "quote": "You shall no longer be named Jacob, but Israel, because you have contended with divine and human beings and have prevailed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-009",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The angel tells Mary that 'the Lord God will give him the throne of ____ his father.'",
+      "correctAnswer": "David",
+      "acceptedAnswers": [
+        "David"
+      ],
+      "explanation": "Two names in one sentence -- David and Jacob -- and both reach backward into this topic. Luke is placing the Annunciation at the end of a line that started with a wandering family.",
+      "hint": "The king whose throne was promised to last forever.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l6-010",
+      "topic": "old-testament",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "What pattern do the three patriarchs -- Abraham, Isaac, and Jacob -- establish together?",
+      "choices": [
+        "God chooses a family and binds himself to it by covenant",
+        "God rewards the strongest and most successful men",
+        "God deals with nations but never with individuals",
+        "God's promises are fulfilled within a single lifetime"
+      ],
+      "correctAnswer": "God chooses a family and binds himself to it by covenant",
+      "explanation": "None of the three sees the promise finished. The pattern the Old Testament sets here is a God who commits himself across generations and keeps working long after the people he first spoke to have died.",
+      "hint": "Notice that none of them lives to see the promise completed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 61",
+          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honored as saints in all the Church's liturgical traditions."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1716",
+          "quote": "The Beatitudes are at the heart of Jesus' preaching. They take up the promises made to the chosen people since Abraham... ordering them... to the Kingdom of heaven."
+        }
+      ]
+    }
+  ]
+}
