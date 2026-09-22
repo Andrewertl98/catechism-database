@@ -1,0 +1,171 @@
+# Curriculum plan: turning the question bank into a learning journey
+
+Drafted Sep 22, 2026, after Andrew's direction: every topic should read as a
+path that snowballs — from the easiest possible starting point, each level
+building on the one before, up to the highest. Not a difficulty-sorted pile of
+independent questions.
+
+This file is the design artifact. It is meant to be reviewed *before* the
+authoring happens, because reviewing 15 syllabi is a couple of hours and
+reviewing 1,880 questions is not.
+
+---
+
+## What the analysis found (why this is a reorg, not an append)
+
+Three separate problems, all confirmed against the live bank:
+
+**1. There is almost no easy content.** Only 104 of 1,469 questions (7%) sit at
+or below 1250 Elo. A new user starts rated 1000 and meets level-1 content
+averaging 1193 — an expected score of 29%. Per topic that runs from 62%
+(church-history) down to 8% (church-fathers). Wrong answers cost hearts, so
+most topics lock a new user out on day one.
+
+**2. The levels are not one ramp — they are two courses stitched together.**
+Levels 1–5 climb from ~1200 to ~2670; level 6 then *drops* ~800 points to
+~1780 and climbs again. In thirteen of fifteen topics, **level 5 is harder
+than level 10.**
+
+The cause is precise, not mysterious. Fitting every question back through
+`EloEngine.seedDifficulty`, levels 1–5 imply a topic of ~4 levels while levels
+6+ imply exactly the topic's current count. Levels 1–5 were authored when
+topics had four or five levels total, spanning the whole 850→2500 range in
+five steps, and were never recomputed when topics grew to 8–10. Levels 6–10
+were authored correctly against the new count.
+
+**3. The sequence has real content holes.** Church History spends levels 1–5 on
+a survey (apostles → Nicaea → Trent → Vatican II) and levels 6–10 on a second,
+deeper pass at the modern period. Read as a journey, the middle falls out:
+
+| Subject | Questions in the bank |
+|---|---|
+| The Crusades | **0** |
+| Charlemagne / the medieval empire | **0** |
+| East–West Schism (1054) | 1 |
+| Avignon / Great Western Schism | 2 |
+
+Roughly a thousand years is almost absent. A difficulty-ordered bank never had
+to notice; a journey does.
+
+---
+
+## Target structure
+
+Per topic, where N is the current level count:
+
+```
+  3 new levels below the existing first level
++ N existing levels, re-sequenced into one chronological//conceptual path
++ N-1 new half-levels, one bridging each existing pair
++ 1 new capstone level above the current top
+= 2N + 3 levels
+```
+
+| Current N | Topics | New levels each | After |
+|---|---|---|---|
+| 8 | councils, heresies | 11 | 19 |
+| 9 | church-fathers, metaphysics, virtues-and-vices | 12 | 21 |
+| 10 | the other ten topics | 13 | 23 |
+
+**188 new levels. At 10 questions each, ~1,880 new questions.** Final bank
+~3,349 questions, up from 1,469.
+
+---
+
+## Order of work
+
+**Phase 1 — syllabi (design).** For each topic, an ordered list of every level:
+its title, what it teaches, what it assumes from the level before, and which
+existing questions map onto it. Cheap to review, and it is what makes the
+questions a journey instead of 1,880 more isolated facts. A worked example for
+Church History is below.
+
+**Phase 2 — review.** Andrew signs off on the syllabi. Fixing a sequence here
+costs minutes; fixing it after authoring costs weeks.
+
+**Phase 3 — authoring.** Fill every level to 10 questions against the syllabus,
+in `drafts/`, nothing live. Every batch passes `onramp_tool.py check`
+(citation provenance, quote fidelity against reviewed text, schema, difficulty
+against the seed formula). Four topics' on-ramps are already done this way.
+
+**Phase 4 — cutover.** One deliberate migration, covered below.
+
+---
+
+## Blockers that must be cleared at cutover
+
+- **`schema.json`'s question-id pattern only permits levels 1–10**
+  (`^...-l(10|[1-9])-[0-9]{3}$`). Topics will reach 19–23 levels. The regex has
+  to be widened before any of this can validate.
+- **`HARD_GATE_APPLIES_FROM_LEVEL = 6`** in `validate.py` (and
+  `ContentDatabase.hardGateAppliesFromLevel` in the app) is an absolute level
+  number. Under the new numbering the same real content sits far higher; the
+  constant has to move with it or gated material becomes visible.
+- **Every question's `difficultyElo` must be recomputed** against its new level
+  and its topic's new total. This is mechanical — the seed formula already
+  spreads 850→2500 across any level count — and it is what finally removes the
+  "level 5 harder than level 10" artifact.
+- **Question ids must stay opaque and never be renumbered.** `MissedQuestion`
+  review-queue records and `manifest.json`'s `auditedQuestionIDs` both
+  reference them. An id reading `-l1-` for what is now level 4 is the correct
+  outcome, not a bug.
+- **Real users' saved progress needs migrating.** `TopicProgressRecord` stores
+  completion by level number. Without a migration, everyone's history silently
+  points at the wrong levels.
+- **Android carries its own copy** of the seeding logic and the gate
+  (`shared/.../elo/EloEngine.kt`). The content files are shared; the constants
+  are not.
+
+---
+
+## Worked example — Church History, 23 levels
+
+`[NEW]` = needs authoring. `[L#]` = existing level that maps here. The existing
+ten levels keep their internal order but interleave chronologically, which is
+what turns two parallel courses into one path.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | The Church begins — Jesus, Pentecost, the first community `[NEW]` | nothing assumed |
+| 2 | The apostles and where they went `[NEW]` | 1 |
+| 3 | Handing the faith on — the first bishops `[NEW]` | 2 |
+| 4 | Peter and the apostolic Church `[L1]` | 3 |
+| 5 | Life under Rome before Constantine `[NEW]` | 4 |
+| 6 | Persecution, the martyrs, the first apologists `[L2]` | 5 |
+| 7 | From persecution to legality — Constantine `[NEW]` | 6 |
+| 8 | Nicaea and the age of the councils `[L3]` | 7 |
+| 9 | Fathers, monks, and the Christian West `[NEW]` | 8 |
+| 10 | Charlemagne and the medieval Church `[NEW — no coverage today]` | 9 |
+| 11 | East and West divide — 1054 `[NEW — 1 question today]` | 10 |
+| 12 | Crusades, universities, the friars `[NEW — no coverage today]` | 11 |
+| 13 | Scholasticism and Aquinas `[L4 partial]` | 12 |
+| 14 | Avignon, conciliarism, the eve of reform `[NEW — 2 questions today]` | 13 |
+| 15 | The Reformation and the Council of Trent `[L4]` | 14 |
+| 16 | Missions abroad — Ricci and the Chinese Rites `[L6 partial]` | 15 |
+| 17 | Jansenism and the 17th–18th century disputes `[L6]` | 16 |
+| 18 | Revolution, restoration, the modern state `[NEW]` | 17 |
+| 19 | Pius IX, the Syllabus, the First Vatican Council `[L7 + L5 partial]` | 18 |
+| 20 | Leo XIII, Americanism, the social question `[L7]` | 19 |
+| 21 | The Church and the totalitarian century `[L8]` | 20 |
+| 22 | The Second Vatican Council `[L5]` | 21 |
+| 23 | Reading the council; the contemporary Church `[L9 + L10]` | 22 |
+
+Note what the sequence exposes: **five of the thirteen new levels are subjects
+the bank barely covers at all** (10, 11, 12, 14, and most of 18). Those are not
+padding to hit a level count — they are the missing middle of Church history.
+
+---
+
+## Open questions for Andrew
+
+1. **Topics without a natural chronology** — Prayer, Virtues and Vices,
+   Metaphysics — need a *conceptual* spine instead (e.g. Prayer: what prayer is
+   → its forms → the Our Father → difficulties → contemplative prayer). Worth
+   confirming that reads right to you before all fifteen are drafted.
+2. **Is 10 questions per level still the target** at 331 levels? That is what
+   produces the ~1,880 figure. Eight per level would cut roughly 375 questions
+   from the job.
+3. **The two-course structure is currently deliberate** (survey, then advanced
+   pass). Collapsing it into one chronological path is the right call for a
+   journey, but it does mean a returning user's level 6 is not the level 6 they
+   left.

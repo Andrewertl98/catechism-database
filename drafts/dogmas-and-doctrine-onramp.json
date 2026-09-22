@@ -1,5 +1,5 @@
 {
-  "_comment": "DRAFT on-ramp content -- NOT live, not in manifest.json, not loaded by either app. Levels 1-3 here are the NEW bottom three; existing dogmas-and-doctrine levels 1-10 become 4-13 at cutover, and difficultyElo is already computed for that shape (totalLevels=13). NOTE: this is one of the six hard-gated topics -- validate.py's HARD_GATE_APPLIES_FROM_LEVEL must move from 6 to 9 at cutover so the same real content stays gated. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
+  "_comment": "DRAFT -- NOT live, not in manifest.json, not loaded by either app. These are the three foundation levels of dogmas-and-doctrine's rebuilt curriculum; see CURRICULUM-PLAN.md for the full 23-level target shape (3 below + 10 existing re-sequenced + 9 bridging + 1 capstone). difficultyElo is computed for that final shape (totalLevels=23), so it needs no recomputation at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
   "topic": "dogmas-and-doctrine",
   "questions": [
     {
@@ -158,10 +158,22 @@
       "difficultyElo": 890,
       "prompt": "Match each term to what the Catechism says it means.",
       "pairs": [
-        { "left": "Incarnation", "right": "The Son of God assuming a human nature" },
-        { "left": "Trinity", "right": "One God in three persons" },
-        { "left": "Grace", "right": "God's free and undeserved help" },
-        { "left": "Eucharist", "right": "The source and summit of the Christian life" }
+        {
+          "left": "Incarnation",
+          "right": "The Son of God assuming a human nature"
+        },
+        {
+          "left": "Trinity",
+          "right": "One God in three persons"
+        },
+        {
+          "left": "Grace",
+          "right": "God's free and undeserved help"
+        },
+        {
+          "left": "Eucharist",
+          "right": "The source and summit of the Christian life"
+        }
       ],
       "explanation": "These four terms carry most of the weight in Catholic doctrine. Each one has a precise definition in the Catechism, not just a general sense.",
       "hint": "One is about Christ, one about God's inner life, one about a gift, one about the Mass.",
@@ -220,13 +232,12 @@
         }
       ]
     },
-
     {
       "id": "dogmas-and-doctrine-l2-001",
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 988,
+      "difficultyElo": 925,
       "prompt": "Which three sacraments can never be repeated, because each confers a permanent 'seal' on the soul?",
       "choices": [
         "Baptism, Confirmation, and Holy Orders",
@@ -250,7 +261,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 938,
+      "difficultyElo": 875,
       "prompt": "True or False: The dogma of the Immaculate Conception means Mary was preserved free from original sin from the very first moment of her conception.",
       "correctAnswer": true,
       "explanation": "True. Pius IX defined it in 1854, and the definition is careful to say this was 'in view of the merits of Jesus Christ' -- Mary is redeemed too, just preserved rather than rescued after the fact.",
@@ -273,7 +284,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1048,
+      "difficultyElo": 985,
       "prompt": "The Council of Nicaea confessed the Son as 'God from God, Light from Light, true God from true God, begotten, not ____.'",
       "correctAnswer": "made",
       "acceptedAnswers": [
@@ -294,7 +305,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 988,
+      "difficultyElo": 925,
       "prompt": "The Council of Chalcedon confessed that Christ is one person in two natures. How did it describe the way those natures are united?",
       "choices": [
         "Without confusion, change, division, or separation",
@@ -323,7 +334,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 938,
+      "difficultyElo": 875,
       "prompt": "True or False: The Church teaches that God is directly the cause of moral evil.",
       "correctAnswer": false,
       "explanation": "False, and the Catechism is emphatic: God is in no way, directly or indirectly, the cause of moral evil. He permits it because he genuinely respects the freedom of the creatures he made free.",
@@ -341,13 +352,25 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "matching_pairs",
-      "difficultyElo": 1028,
+      "difficultyElo": 965,
       "prompt": "Match each Marian or Christological dogma to where it was defined.",
       "pairs": [
-        { "left": "The Immaculate Conception", "right": "Ineffabilis Deus (1854)" },
-        { "left": "The Assumption of Mary", "right": "Munificentissimus Deus (1950)" },
-        { "left": "Christ in two natures, one person", "right": "Council of Chalcedon (451)" },
-        { "left": "Mary as Mother of God", "right": "Council of Ephesus (431)" }
+        {
+          "left": "The Immaculate Conception",
+          "right": "Ineffabilis Deus (1854)"
+        },
+        {
+          "left": "The Assumption of Mary",
+          "right": "Munificentissimus Deus (1950)"
+        },
+        {
+          "left": "Christ in two natures, one person",
+          "right": "Council of Chalcedon (451)"
+        },
+        {
+          "left": "Mary as Mother of God",
+          "right": "Council of Ephesus (431)"
+        }
       ],
       "explanation": "Two were defined by ancient councils settling disputes about Christ; two were defined by popes in the modern era. All four are dogmas, held with the same assent.",
       "hint": "Two come from ancient councils, two from papal definitions.",
@@ -369,7 +392,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 988,
+      "difficultyElo": 925,
       "prompt": "How does the Catechism describe those who undergo purification after death?",
       "choices": [
         "Assured of salvation, but not yet fully purified",
@@ -393,7 +416,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 938,
+      "difficultyElo": 875,
       "prompt": "True or False: Scripture calls Christ Jesus the one mediator between God and the human race.",
       "correctAnswer": true,
       "explanation": "True. St. Paul writes it plainly to Timothy, and adds that this mediator is 'himself human' -- the mediation works because Christ is genuinely both.",
@@ -411,7 +434,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1048,
+      "difficultyElo": 985,
       "prompt": "The Catechism defines an indulgence as 'a remission before God of the ____ punishment due to sins whose guilt has already been forgiven.'",
       "correctAnswer": "temporal",
       "acceptedAnswers": [
@@ -432,7 +455,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 988,
+      "difficultyElo": 925,
       "prompt": "The Church says the sacraments act 'ex opere operato.' What does that mean?",
       "choices": [
         "They work by virtue of Christ's saving action itself",
@@ -451,13 +474,12 @@
         }
       ]
     },
-
     {
       "id": "dogmas-and-doctrine-l3-001",
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1125,
+      "difficultyElo": 1000,
       "prompt": "The Creed calls the Son 'consubstantial with the Father.' What claim does that word rule out?",
       "choices": [
         "That the Son is a creature, however exalted",
@@ -486,7 +508,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1075,
+      "difficultyElo": 950,
       "prompt": "True or False: The Assumption teaches that Mary was taken body and soul into heavenly glory at the end of her earthly life.",
       "correctAnswer": true,
       "explanation": "True. Pius XII defined it in 1950 as a divinely revealed dogma. The definition says 'body and soul' deliberately -- it is a claim about her whole person, not only her soul.",
@@ -504,7 +526,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1185,
+      "difficultyElo": 1060,
       "prompt": "The Second Vatican Council taught that the Church of Christ '____ in the Catholic Church,' governed by the successor of Peter and the bishops in communion with him.",
       "correctAnswer": "subsists",
       "acceptedAnswers": [
@@ -526,7 +548,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1125,
+      "difficultyElo": 1000,
       "prompt": "What does the Catechism teach about those who, through no fault of their own, do not know the Gospel of Christ or his Church?",
       "choices": [
         "Those who sincerely seek God may achieve eternal salvation",
@@ -550,7 +572,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1075,
+      "difficultyElo": 950,
       "prompt": "True or False: Sanctifying grace is described as a habitual gift, a stable disposition that perfects the soul itself.",
       "correctAnswer": true,
       "explanation": "True. The distinction matters: sanctifying grace is not a passing help for one moment but a stable, supernatural disposition enabling the soul to live with God and act by his love.",
@@ -568,13 +590,25 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "matching_pairs",
-      "difficultyElo": 1165,
+      "difficultyElo": 1040,
       "prompt": "Match each of the first four ecumenical councils to what it settled.",
       "pairs": [
-        { "left": "Nicaea (325)", "right": "The Son is consubstantial with the Father" },
-        { "left": "Constantinople (381)", "right": "The Holy Spirit is worshipped with Father and Son" },
-        { "left": "Ephesus (431)", "right": "Mary is truly the Mother of God" },
-        { "left": "Chalcedon (451)", "right": "Christ is one person in two natures" }
+        {
+          "left": "Nicaea (325)",
+          "right": "The Son is consubstantial with the Father"
+        },
+        {
+          "left": "Constantinople (381)",
+          "right": "The Holy Spirit is worshipped with Father and Son"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Mary is truly the Mother of God"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "Christ is one person in two natures"
+        }
       ],
       "explanation": "Read in order, the four councils track a single argument working itself out: first the Son's divinity, then the Spirit's, then how Christ can be one, then how his two natures relate.",
       "hint": "They run in chronological order, each answering the question the last one raised.",
@@ -596,7 +630,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1125,
+      "difficultyElo": 1000,
       "prompt": "What does the Christian Creed proclaim at its culmination?",
       "choices": [
         "The resurrection of the dead and life everlasting",
@@ -620,7 +654,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1075,
+      "difficultyElo": 950,
       "prompt": "True or False: The Second Vatican Council taught that Mary's role neither takes away from nor adds to the dignity of Christ the one Mediator.",
       "correctAnswer": true,
       "explanation": "True. The council states it directly, adding that no creature could ever be counted as equal with the Incarnate Word and Redeemer. Marian doctrine is deliberately framed so as not to rival Christ's mediation.",
@@ -638,7 +672,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1185,
+      "difficultyElo": 1060,
       "prompt": "Lumen Gentium teaches that the Church is believed to be indefectibly ____.",
       "correctAnswer": "holy",
       "acceptedAnswers": [
@@ -659,7 +693,7 @@
       "topic": "dogmas-and-doctrine",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1125,
+      "difficultyElo": 1000,
       "prompt": "According to the Catechism, when does the particular judgment take place?",
       "choices": [
         "At the very moment of a person's death",

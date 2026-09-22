@@ -34,6 +34,9 @@ FORMAT_MODIFIER = {'true_false': -50, 'multiple_choice': 0,
                    'matching_pairs': 40, 'fill_blank': 60}
 STARTING_RATING = 1000
 NEW_LEVELS = 3           # on-ramp levels added below each topic's current L1
+# Full target shape per CURRICULUM-PLAN.md: 3 below + N existing + (N-1) bridging + 1 capstone.
+def target_total(live_levels):
+    return 2 * live_levels + 3
 AUTHORITATIVE = {'ccc', 'scripture', 'council', 'magisterial_document', 'catechism'}
 ID_RE = re.compile(r'^[a-z0-9]+(-[a-z0-9]+)*-l(10|[1-9])-[0-9]{3}$')
 REQUIRED = ['id', 'topic', 'level', 'type', 'difficultyElo', 'prompt',
@@ -76,7 +79,7 @@ def cmd_pool(slug):
     entry = next((t for t in m['topics'] if t['slug'] == slug), None)
     if not entry:
         sys.exit(f'unknown topic: {slug}')
-    total = entry['levels'] + NEW_LEVELS
+    total = target_total(entry['levels'])
     print(f'# {slug}: {entry["levels"]} live levels -> {total} after a '
           f'{NEW_LEVELS}-level on-ramp')
     print('# difficultyElo to use for the new levels:')
@@ -102,7 +105,7 @@ def cmd_check(path):
     qs = draft['questions']
     slug = draft['topic']
     refs, quotes, levels = live_bank()
-    total = levels[slug] + NEW_LEVELS
+    total = target_total(levels[slug])
 
     problems = []
 

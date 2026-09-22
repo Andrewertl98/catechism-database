@@ -1,5 +1,5 @@
 {
-  "_comment": "DRAFT on-ramp content -- NOT live, not in manifest.json, not loaded by either app. Levels 1-3 here are the NEW bottom three; existing councils levels 1-8 become 4-11 at cutover, and difficultyElo is already computed for that shape (totalLevels=11). NOTE: hard-gated topic -- validate.py's HARD_GATE_APPLIES_FROM_LEVEL must move from 6 to 9 at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
+  "_comment": "DRAFT -- NOT live, not in manifest.json, not loaded by either app. These are the three foundation levels of councils's rebuilt curriculum; see CURRICULUM-PLAN.md for the full 19-level target shape (3 below + 8 existing re-sequenced + 7 bridging + 1 capstone). difficultyElo is computed for that final shape (totalLevels=19), so it needs no recomputation at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
   "topic": "councils",
   "questions": [
     {
@@ -115,10 +115,22 @@
       "difficultyElo": 890,
       "prompt": "Match each of the first four ecumenical councils to the year it was held.",
       "pairs": [
-        { "left": "First Council of Nicaea", "right": "325" },
-        { "left": "First Council of Constantinople", "right": "381" },
-        { "left": "Council of Ephesus", "right": "431" },
-        { "left": "Council of Chalcedon", "right": "451" }
+        {
+          "left": "First Council of Nicaea",
+          "right": "325"
+        },
+        {
+          "left": "First Council of Constantinople",
+          "right": "381"
+        },
+        {
+          "left": "Council of Ephesus",
+          "right": "431"
+        },
+        {
+          "left": "Council of Chalcedon",
+          "right": "451"
+        }
       ],
       "explanation": "These four councils fall within roughly 125 years of each other, and they build in sequence: the Son's divinity, the Spirit's, who Christ is, and how his two natures relate.",
       "hint": "They run in order across the fourth and fifth centuries.",
@@ -222,13 +234,12 @@
         }
       ]
     },
-
     {
       "id": "councils-l2-001",
       "topic": "councils",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "Chalcedon described Christ's two natures with four negatives: without confusion, without change, without division, without separation. What were those four guarding?",
       "choices": [
         "That Christ is genuinely one person in two full natures",
@@ -257,7 +268,7 @@
       "topic": "councils",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 965,
+      "difficultyElo": 892,
       "prompt": "True or False: The Third Council of Constantinople taught that Christ has two wills, one divine and one human.",
       "correctAnswer": true,
       "explanation": "True. The council met in 680-681 and reasoned that a real human nature must include a real human will -- otherwise Christ's humanity would be incomplete.",
@@ -275,7 +286,7 @@
       "topic": "councils",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1075,
+      "difficultyElo": 1002,
       "prompt": "The Council of Constantinople in 381 confessed the Holy Spirit as 'co-worshipped and co-____ with Father and Son.'",
       "correctAnswer": "glorified",
       "acceptedAnswers": [
@@ -296,7 +307,7 @@
       "topic": "councils",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "The Second Council of Lyons in 1274 professed that the Holy Spirit proceeds from the Father and the Son as from how many principles?",
       "choices": [
         "From one single principle",
@@ -320,7 +331,7 @@
       "topic": "councils",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 965,
+      "difficultyElo": 892,
       "prompt": "True or False: The Council of Trent condemned the claim that a person is justified by faith alone, with nothing else required to cooperate.",
       "correctAnswer": true,
       "explanation": "True. Trent's canon is precise about what it rejects: not faith, but the claim that nothing whatever is required to cooperate, and that a person need not be prepared and disposed by the movement of his own will.",
@@ -338,13 +349,25 @@
       "topic": "councils",
       "level": 2,
       "type": "matching_pairs",
-      "difficultyElo": 1055,
+      "difficultyElo": 982,
       "prompt": "Match each council to the question it settled.",
       "pairs": [
-        { "left": "Nicaea (325)", "right": "Is the Son truly God?" },
-        { "left": "Ephesus (431)", "right": "Is Mary truly the Mother of God?" },
-        { "left": "Chalcedon (451)", "right": "How do Christ's two natures relate?" },
-        { "left": "Third Constantinople (680-681)", "right": "Does Christ have a human will?" }
+        {
+          "left": "Nicaea (325)",
+          "right": "Is the Son truly God?"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Is Mary truly the Mother of God?"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "How do Christ's two natures relate?"
+        },
+        {
+          "left": "Third Constantinople (680-681)",
+          "right": "Does Christ have a human will?"
+        }
       ],
       "explanation": "Each council answered the question the previous one had left open. Settle that the Son is God, and you must ask how he can be one with a human nature; settle that, and you must ask about his willing.",
       "hint": "Each question follows from the answer the council before it gave.",
@@ -366,7 +389,7 @@
       "topic": "councils",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "According to the First Vatican Council, under what conditions does the Pope teach infallibly?",
       "choices": [
         "When defining faith or morals for the whole Church",
@@ -390,7 +413,7 @@
       "topic": "councils",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 965,
+      "difficultyElo": 892,
       "prompt": "True or False: The Second Council of Nicaea was called to settle a dispute about the veneration of holy images.",
       "correctAnswer": true,
       "explanation": "True. The iconoclast controversy had divided the Church over whether images could be venerated at all. The council answered by distinguishing the image from the one it depicts.",
@@ -408,7 +431,7 @@
       "topic": "councils",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1075,
+      "difficultyElo": 1002,
       "prompt": "Chalcedon's formula runs: 'without confusion, without change, without division, without ____.'",
       "correctAnswer": "separation",
       "acceptedAnswers": [
@@ -429,7 +452,7 @@
       "topic": "councils",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "Which word did the Council of Nicaea use to say the Son shares the Father's very substance?",
       "choices": [
         "Consubstantial",
@@ -453,13 +476,12 @@
         }
       ]
     },
-
     {
       "id": "councils-l3-001",
       "topic": "councils",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "How did the Third Council of Constantinople describe the relationship between Christ's human will and his divine will?",
       "choices": [
         "The human will follows, subject to the divine will",
@@ -483,7 +505,7 @@
       "topic": "councils",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1130,
+      "difficultyElo": 983,
       "prompt": "True or False: The First Vatican Council taught that everything a Pope says on any subject is protected from error.",
       "correctAnswer": false,
       "explanation": "False. The definition is deliberately narrow: it covers the Pope speaking ex cathedra, defining a doctrine of faith or morals to be held by the whole Church. Ordinary teaching and personal opinion fall outside it.",
@@ -501,7 +523,7 @@
       "topic": "councils",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1240,
+      "difficultyElo": 1093,
       "prompt": "The Second Council of Lyons professed that the Spirit proceeds 'not as from two principles, but as from one ____.'",
       "correctAnswer": "principle",
       "acceptedAnswers": [
@@ -522,7 +544,7 @@
       "topic": "councils",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "Trent's canon on justification rejects a particular claim about faith alone. Which element does the canon insist is also necessary?",
       "choices": [
         "That a person be prepared and disposed by his own will",
@@ -546,7 +568,7 @@
       "topic": "councils",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1130,
+      "difficultyElo": 983,
       "prompt": "True or False: The Council of Ephesus defended the title 'Mother of God' primarily as a claim about who Christ is.",
       "correctAnswer": true,
       "explanation": "True. The council is explicit that the title does not mean the Word took the origin of his divine being from Mary. The point is that the one she bore is a single person who is truly God.",
@@ -564,13 +586,25 @@
       "topic": "councils",
       "level": 3,
       "type": "matching_pairs",
-      "difficultyElo": 1220,
+      "difficultyElo": 1073,
       "prompt": "Match each council to the phrase it contributed.",
       "pairs": [
-        { "left": "Nicaea (325)", "right": "Consubstantial with the Father" },
-        { "left": "Chalcedon (451)", "right": "Without confusion, without change" },
-        { "left": "Second Nicaea (787)", "right": "The honour paid to an image traverses it" },
-        { "left": "First Vatican (1870)", "right": "When the Roman Pontiff speaks ex cathedra" }
+        {
+          "left": "Nicaea (325)",
+          "right": "Consubstantial with the Father"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "Without confusion, without change"
+        },
+        {
+          "left": "Second Nicaea (787)",
+          "right": "The honour paid to an image traverses it"
+        },
+        {
+          "left": "First Vatican (1870)",
+          "right": "When the Roman Pontiff speaks ex cathedra"
+        }
       ],
       "explanation": "Councils are remembered by their formulas. Each of these phrases was crafted to settle one disputed question as precisely as language allowed.",
       "hint": "One is about the Son, one about Christ's natures, one about images, one about the Pope.",
@@ -592,7 +626,7 @@
       "topic": "councils",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "Why was the Second Council of Nicaea's distinction between an image and its model so important?",
       "choices": [
         "It showed veneration of images is not idolatry",
@@ -616,7 +650,7 @@
       "topic": "councils",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1130,
+      "difficultyElo": 983,
       "prompt": "True or False: The Second Vatican Council's statement on other religions claims that all religions are equally true paths to God.",
       "correctAnswer": false,
       "explanation": "False. What the council says is narrower: the Church rejects nothing that is true and holy in these religions. That affirms what is genuinely good in them without claiming they are all equivalent.",
@@ -634,7 +668,7 @@
       "topic": "councils",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1240,
+      "difficultyElo": 1093,
       "prompt": "Vatican I taught that the Pope defines infallibly a doctrine concerning faith or ____.",
       "correctAnswer": "morals",
       "acceptedAnswers": [
@@ -656,7 +690,7 @@
       "topic": "councils",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "Read in sequence, what do the first four ecumenical councils show?",
       "choices": [
         "Each answered the question the previous one opened",

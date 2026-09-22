@@ -1,5 +1,5 @@
 {
-  "_comment": "DRAFT on-ramp content -- NOT live, not referenced by manifest.json, not loaded by either app. Authored Sep 22, 2026 against the difficulty analysis in 'andrew to do/waiting on you.txt': Church Fathers level 1 currently averages 1440 Elo, giving a brand-new user (rating 1000) an expected score of 8%, and the topic has zero questions at or below 1250. These 30 questions are the missing bottom of the curriculum. Levels 1-3 here are the NEW levels 1-3; existing church-fathers levels 1-9 become 4-12 at cutover. difficultyElo values are already computed for that post-cutover shape (totalLevels=12), so they need no recomputation later. Every citation is drawn from the 403 (type, reference, quote) pairs already shipped and reviewed in the live bank -- no new references were introduced.",
+  "_comment": "DRAFT -- NOT live, not in manifest.json, not loaded by either app. These are the three foundation levels of church-fathers's rebuilt curriculum; see CURRICULUM-PLAN.md for the full 21-level target shape (3 below + 9 existing re-sequenced + 8 bridging + 1 capstone). difficultyElo is computed for that final shape (totalLevels=21), so it needs no recomputation at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
   "topic": "church-fathers",
   "questions": [
     {
@@ -205,10 +205,22 @@
       "difficultyElo": 890,
       "prompt": "Match each Church Father to the work he is best known for.",
       "pairs": [
-        { "left": "St. Augustine of Hippo", "right": "Confessions" },
-        { "left": "St. Athanasius", "right": "On the Incarnation" },
-        { "left": "St. Irenaeus of Lyons", "right": "Against Heresies" },
-        { "left": "St. Justin Martyr", "right": "First Apology" }
+        {
+          "left": "St. Augustine of Hippo",
+          "right": "Confessions"
+        },
+        {
+          "left": "St. Athanasius",
+          "right": "On the Incarnation"
+        },
+        {
+          "left": "St. Irenaeus of Lyons",
+          "right": "Against Heresies"
+        },
+        {
+          "left": "St. Justin Martyr",
+          "right": "First Apology"
+        }
       ],
       "explanation": "These four works are the ones most often quoted when the Church appeals to the Fathers: a conversion story, a defense of the Incarnation, a refutation of Gnosticism, and a public defense of Christianity addressed to the Roman emperor.",
       "hint": "One is a conversion story, one a defense written to an emperor.",
@@ -247,13 +259,12 @@
         }
       ]
     },
-
     {
       "id": "church-fathers-l2-001",
       "topic": "church-fathers",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1000,
+      "difficultyElo": 932,
       "prompt": "St. Athanasius spent most of his life defending which truth against the Arians?",
       "choices": [
         "That the Son is of the same substance as the Father",
@@ -282,7 +293,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 950,
+      "difficultyElo": 882,
       "prompt": "True or False: When the Creed says the Son is 'consubstantial with the Father,' it means the Son is of the same substance as the Father.",
       "correctAnswer": true,
       "explanation": "True. 'Consubstantial' translates the Greek homoousios. The Creed pairs it with 'begotten, not made' precisely to rule out the Arian claim that the Son was created.",
@@ -305,7 +316,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1060,
+      "difficultyElo": 992,
       "prompt": "The Catechism states the Trinitarian faith the Fathers hammered out this way: 'We do not confess three Gods, but one God in three ____.'",
       "correctAnswer": "persons",
       "acceptedAnswers": [
@@ -327,7 +338,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1000,
+      "difficultyElo": 932,
       "prompt": "St. Irenaeus answered heretics by tracing the bishops of each church back, in order, to the apostles who founded it. What is this argument called?",
       "choices": [
         "Apostolic succession",
@@ -356,7 +367,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1060,
+      "difficultyElo": 992,
       "prompt": "St. Gregory of Nazianzus argued that Christ had to take on a full human nature, soul and all: 'If that which He has not assumed He has not ____.'",
       "correctAnswer": "healed",
       "acceptedAnswers": [
@@ -382,7 +393,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 950,
+      "difficultyElo": 882,
       "prompt": "True or False: In the vocabulary the Fathers settled on, 'substance' names what is one in God, and 'person' names what is really distinct in God.",
       "correctAnswer": true,
       "explanation": "True. The Catechism keeps this usage exactly: substance for the divine being in its unity, person (or hypostasis) for the Father, Son, and Holy Spirit in their real distinction from one another.",
@@ -400,13 +411,25 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "matching_pairs",
-      "difficultyElo": 1040,
+      "difficultyElo": 972,
       "prompt": "Match each Church Father to the error he is best remembered for opposing.",
       "pairs": [
-        { "left": "St. Athanasius", "right": "Arianism" },
-        { "left": "St. Cyril of Alexandria", "right": "Nestorianism" },
-        { "left": "St. Irenaeus of Lyons", "right": "Gnosticism" },
-        { "left": "St. Gregory of Nazianzus", "right": "Apollinarianism" }
+        {
+          "left": "St. Athanasius",
+          "right": "Arianism"
+        },
+        {
+          "left": "St. Cyril of Alexandria",
+          "right": "Nestorianism"
+        },
+        {
+          "left": "St. Irenaeus of Lyons",
+          "right": "Gnosticism"
+        },
+        {
+          "left": "St. Gregory of Nazianzus",
+          "right": "Apollinarianism"
+        }
       ],
       "explanation": "Each of these Fathers is remembered for defending one specific truth under attack: the Son's divinity, the unity of Christ's person, the goodness of the created order, and the fullness of Christ's humanity.",
       "hint": "One denied Christ's divinity, one divided him in two, one rejected creation, one cut short his humanity.",
@@ -428,7 +451,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1000,
+      "difficultyElo": 932,
       "prompt": "St. Cyril of Alexandria defended calling Mary by which title, against those who wanted to call her only 'Mother of Christ'?",
       "choices": [
         "Mother of God",
@@ -457,7 +480,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 950,
+      "difficultyElo": 882,
       "prompt": "True or False: St. Basil of Caesarea explained that 'substance' relates to 'person' the way what is common relates to what is particular.",
       "correctAnswer": true,
       "explanation": "True. Basil's comparison -- substance is like 'goodness' or 'Godhead,' while person is what is proper to each: Fatherhood, Sonship, the power to sanctify -- is one of the clearest explanations the Fathers left us.",
@@ -480,7 +503,7 @@
       "topic": "church-fathers",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1060,
+      "difficultyElo": 992,
       "prompt": "St. Augustine prayed a line that became famous in the debates over grace: 'Give what you command, and then command whatever you ____.'",
       "correctAnswer": "will",
       "acceptedAnswers": [
@@ -502,13 +525,12 @@
         }
       ]
     },
-
     {
       "id": "church-fathers-l3-001",
       "topic": "church-fathers",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1150,
+      "difficultyElo": 1015,
       "prompt": "St. Irenaeus taught that Christ passed through every stage of human life -- infancy, childhood, youth, old age. What was his reason?",
       "choices": [
         "So that every age of life would be sanctified",
@@ -536,7 +558,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1100,
+      "difficultyElo": 965,
       "prompt": "True or False: In his Third Letter to Nestorius, St. Cyril of Alexandria taught that it was the Word of God himself who suffered and was crucified in the flesh.",
       "correctAnswer": true,
       "explanation": "True. Cyril insisted that the one who suffered is the same divine person who was eternally begotten -- suffering in his humanity, not in his divinity. To deny this, he argued, was to make Christ two subjects rather than one.",
@@ -559,7 +581,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1150,
+      "difficultyElo": 1015,
       "prompt": "In The City of God, written as Rome was falling, St. Augustine divides all of history into two cities. What ultimately distinguishes one city from the other?",
       "choices": [
         "Where each places its hope and final happiness",
@@ -588,7 +610,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1210,
+      "difficultyElo": 1075,
       "prompt": "Explaining Nicaea, St. Athanasius wrote that the Fathers deliberately said the Son is 'from the ____ of God,' so that he would not be lumped in with creatures.",
       "correctAnswer": "essence",
       "acceptedAnswers": [
@@ -615,7 +637,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1100,
+      "difficultyElo": 965,
       "prompt": "True or False: St. Augustine taught that by misusing his free will, man damaged both his freedom and himself.",
       "correctAnswer": true,
       "explanation": "True. Augustine's account of the Fall is precisely this: free will was not taken away, it was wounded by its own misuse. The Catechism says the same when it describes human nature as wounded in its natural powers.",
@@ -638,7 +660,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1150,
+      "difficultyElo": 1015,
       "prompt": "St. Justin Martyr's defense of Christianity, addressed to the Roman authorities and describing how Christians actually worship, is known as his:",
       "choices": [
         "First Apology",
@@ -666,13 +688,25 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "matching_pairs",
-      "difficultyElo": 1190,
+      "difficultyElo": 1055,
       "prompt": "Match each Church Father to the line he is remembered for.",
       "pairs": [
-        { "left": "St. Augustine", "right": "Our heart is restless until it rests in you" },
-        { "left": "St. Athanasius", "right": "The Son of God became man so that we might become God" },
-        { "left": "St. Gregory of Nazianzus", "right": "What He has not assumed He has not healed" },
-        { "left": "St. Ignatius of Antioch", "right": "Wherever the bishop appears, there let the people be" }
+        {
+          "left": "St. Augustine",
+          "right": "Our heart is restless until it rests in you"
+        },
+        {
+          "left": "St. Athanasius",
+          "right": "The Son of God became man so that we might become God"
+        },
+        {
+          "left": "St. Gregory of Nazianzus",
+          "right": "What He has not assumed He has not healed"
+        },
+        {
+          "left": "St. Ignatius of Antioch",
+          "right": "Wherever the bishop appears, there let the people be"
+        }
       ],
       "explanation": "Each line compresses that Father's whole argument: the restless heart made for God, the purpose of the Incarnation, the fullness of Christ's humanity, and the Church gathered around her bishop.",
       "hint": "One is about the human heart, one about why God became man.",
@@ -694,7 +728,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1150,
+      "difficultyElo": 1015,
       "prompt": "For St. Augustine, what makes obedience to God real freedom rather than mere servitude?",
       "choices": [
         "That the will takes pleasure in the righteous deed",
@@ -722,7 +756,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1100,
+      "difficultyElo": 965,
       "prompt": "True or False: The Church discerned which writings belong in the Bible through apostolic Tradition, and the resulting list is called the canon of Scripture.",
       "correctAnswer": true,
       "explanation": "True, and the Fathers are where this discernment happened in practice -- Augustine among them, at the African councils of the late fourth century that listed the books the Church receives.",
@@ -740,7 +774,7 @@
       "topic": "church-fathers",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1210,
+      "difficultyElo": 1075,
       "prompt": "The Catechism describes what so many of the earliest Fathers are remembered for: 'Martyrdom is the supreme ____ given to the truth of the faith.'",
       "correctAnswer": "witness",
       "acceptedAnswers": [

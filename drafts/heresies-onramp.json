@@ -1,5 +1,5 @@
 {
-  "_comment": "DRAFT on-ramp content -- NOT live, not in manifest.json, not loaded by either app. Levels 1-3 here are the NEW bottom three; existing heresies levels 1-8 become 4-11 at cutover, difficultyElo already computed for that shape (totalLevels=11). NOTE: hard-gated topic -- HARD_GATE_APPLIES_FROM_LEVEL moves 6 -> 9 at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
+  "_comment": "DRAFT -- NOT live, not in manifest.json, not loaded by either app. These are the three foundation levels of heresies's rebuilt curriculum; see CURRICULUM-PLAN.md for the full 19-level target shape (3 below + 8 existing re-sequenced + 7 bridging + 1 capstone). difficultyElo is computed for that final shape (totalLevels=19), so it needs no recomputation at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
   "topic": "heresies",
   "questions": [
     {
@@ -244,7 +244,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "Chalcedon's four negatives answered two opposite errors at once. Which pair?",
       "choices": [
         "Blending Christ's natures, and dividing his person",
@@ -273,7 +273,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 965,
+      "difficultyElo": 892,
       "prompt": "True or False: Monothelitism held that Christ has only one will, not a human will alongside the divine.",
       "correctAnswer": true,
       "explanation": "True. The Third Council of Constantinople answered it in 680-681: two natural wills, with the human will following and subject to the divine, neither resisting nor struggling against it.",
@@ -291,7 +291,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1075,
+      "difficultyElo": 1002,
       "prompt": "Against Apollinarius, the Church confessed that the eternal Son also assumed a rational, human ____.",
       "correctAnswer": "soul",
       "acceptedAnswers": [
@@ -312,7 +312,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "The Second Council of Orange in 529 condemned which claim about the beginning of faith?",
       "choices": [
         "That it belongs to us by nature rather than by grace",
@@ -336,7 +336,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 965,
+      "difficultyElo": 892,
       "prompt": "True or False: Pope St. Pius X described Modernism as 'the synthesis of all heresies.'",
       "correctAnswer": true,
       "explanation": "True, in Pascendi Dominici Gregis (1907). He used the phrase because he judged Modernism to gather up the errors of many earlier movements into one system rather than being a single new claim.",
@@ -354,7 +354,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "matching_pairs",
-      "difficultyElo": 1055,
+      "difficultyElo": 982,
       "prompt": "Match each heresy to the council that condemned it.",
       "pairs": [
         {
@@ -394,7 +394,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "How did the Council of Trent describe the Church's reception of the Old and New Testament books?",
       "choices": [
         "With equal affection of piety and reverence",
@@ -418,7 +418,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "true_false",
-      "difficultyElo": 965,
+      "difficultyElo": 892,
       "prompt": "True or False: The Church teaches that in the Eucharist the whole Christ is truly present -- body, blood, soul, and divinity.",
       "correctAnswer": true,
       "explanation": "True. The formula 'body and blood, together with the soul and divinity' is deliberately comprehensive, which is what rules out treating the Eucharist as a symbol or as containing only part of Christ.",
@@ -436,7 +436,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "fill_blank",
-      "difficultyElo": 1075,
+      "difficultyElo": 1002,
       "prompt": "The Catechism distinguishes the divine persons this way: 'It is the Father who generates, the Son who is ____.'",
       "correctAnswer": "begotten",
       "acceptedAnswers": [
@@ -457,7 +457,7 @@
       "topic": "heresies",
       "level": 2,
       "type": "multiple_choice",
-      "difficultyElo": 1015,
+      "difficultyElo": 942,
       "prompt": "What does the Church affirm against teachings that treat Father, Son, and Spirit as three masks of one person?",
       "choices": [
         "The divine persons are really distinct",
@@ -481,7 +481,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "Why did the Second Council of Orange insist that even the beginning of faith is a gift of grace?",
       "choices": [
         "Because claiming it by nature contradicts the Apostle",
@@ -505,7 +505,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1130,
+      "difficultyElo": 983,
       "prompt": "True or False: In Apostolicae Curae (1896), Leo XIII declared Anglican ordinations to be null and void.",
       "correctAnswer": true,
       "explanation": "True. The judgment turned on the rite's form and the intention it expressed, not on the personal sincerity of anyone ordained under it.",
@@ -523,7 +523,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1240,
+      "difficultyElo": 1093,
       "prompt": "Pius X defined Modernism as 'the synthesis of all ____.'",
       "correctAnswer": "heresies",
       "acceptedAnswers": [
@@ -545,7 +545,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "What does Dominus Iesus (2000) say about treating the Church as one way of salvation among others?",
       "choices": [
         "That it would be contrary to the faith",
@@ -569,7 +569,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1130,
+      "difficultyElo": 983,
       "prompt": "True or False: Leo XIII withheld approval from a set of views collectively labeled 'Americanism.'",
       "correctAnswer": true,
       "explanation": "True, in Testem Benevolentiae Nostrae (1899). He was careful to say he was addressing the views in their collective sense, not condemning the American Church or its people.",
@@ -587,7 +587,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "matching_pairs",
-      "difficultyElo": 1220,
+      "difficultyElo": 1073,
       "prompt": "Match each magisterial document to the question it addressed.",
       "pairs": [
         {
@@ -627,7 +627,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "What does the Catechism say about the antiquity of infant Baptism?",
       "choices": [
         "It is an immemorial tradition with second-century testimony",
@@ -651,7 +651,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "true_false",
-      "difficultyElo": 1130,
+      "difficultyElo": 983,
       "prompt": "True or False: The Council of Trent ranked the New Testament above the Old in the reverence owed to it.",
       "correctAnswer": false,
       "explanation": "False. Trent says the opposite -- the Church receives and venerates all the books of both Testaments with an equal affection of piety and reverence.",
@@ -669,7 +669,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "fill_blank",
-      "difficultyElo": 1240,
+      "difficultyElo": 1093,
       "prompt": "The Catechism states that the Church confesses Mary as truly 'Mother of God,' using the Greek term ____.",
       "correctAnswer": "Theotokos",
       "acceptedAnswers": [
@@ -691,7 +691,7 @@
       "topic": "heresies",
       "level": 3,
       "type": "multiple_choice",
-      "difficultyElo": 1180,
+      "difficultyElo": 1033,
       "prompt": "Why was refusing Mary the title 'Mother of God' ultimately a claim about Christ rather than about Mary?",
       "choices": [
         "Because it implied Christ was two subjects, not one",
