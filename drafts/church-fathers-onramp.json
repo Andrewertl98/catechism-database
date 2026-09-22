@@ -1,0 +1,761 @@
+{
+  "_comment": "DRAFT on-ramp content -- NOT live, not referenced by manifest.json, not loaded by either app. Authored Sep 22, 2026 against the difficulty analysis in 'andrew to do/waiting on you.txt': Church Fathers level 1 currently averages 1440 Elo, giving a brand-new user (rating 1000) an expected score of 8%, and the topic has zero questions at or below 1250. These 30 questions are the missing bottom of the curriculum. Levels 1-3 here are the NEW levels 1-3; existing church-fathers levels 1-9 become 4-12 at cutover. difficultyElo values are already computed for that post-cutover shape (totalLevels=12), so they need no recomputation later. Every citation is drawn from the 403 (type, reference, quote) pairs already shipped and reviewed in the live bank -- no new references were introduced.",
+  "topic": "church-fathers",
+  "questions": [
+    {
+      "id": "church-fathers-l1-001",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "St. Augustine begins his Confessions with one of the most quoted lines in Christian writing: our hearts are restless until they rest where?",
+      "choices": [
+        "In God",
+        "In heaven",
+        "In the Church",
+        "In truth"
+      ],
+      "correctAnswer": "In God",
+      "explanation": "Augustine's opening prayer -- 'You have made us for yourself, O Lord, and our heart is restless until it rests in you' -- is quoted by the Catechism itself when it explains why the desire for God is written in every human heart.",
+      "hint": "Augustine is addressing God directly when he writes it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-002",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The word 'catholic,' which first appears in the letters of St. Ignatius of Antioch, means 'universal.'",
+      "correctAnswer": true,
+      "explanation": "True. The Catechism explains that 'catholic' means 'universal,' in the sense of 'according to the totality' or 'in keeping with the whole.' Ignatius, writing around 107 AD, is the earliest surviving witness to the phrase 'the Catholic Church.'",
+      "hint": "Think about what the Church claims to be for everyone, everywhere.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 830",
+          "quote": "The word 'catholic' means 'universal,' in the sense of 'according to the totality' or 'in keeping with the whole.'"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans",
+          "quote": "Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-003",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "St. Athanasius summed up the whole purpose of the Incarnation in a single sentence, quoted by the Catechism: 'For the Son of God became man so that we might ____.'",
+      "choices": [
+        "Become God",
+        "Be forgiven",
+        "Know the Father",
+        "Escape death"
+      ],
+      "correctAnswer": "Become God",
+      "explanation": "Athanasius is describing what the tradition calls divinization: by the Incarnation, human beings are made sharers in God's own life. He does not mean that we become gods by nature, but that we are raised to share in the life of the One who became man.",
+      "hint": "The line is deliberately startling -- it points to what we are raised to share in.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460",
+          "quote": "For the Son of God became man so that we might become God."
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, On the Incarnation, ch. 54",
+          "quote": "For the Son of God became man so that we might become God."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-004",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Martyrdom means bearing witness to the truth of the faith even to the point of death.",
+      "correctAnswer": true,
+      "explanation": "True. The Greek word behind 'martyr' simply means 'witness.' Many of the earliest Fathers -- Ignatius of Antioch, Polycarp, Justin -- are remembered as martyrs precisely because their witness went that far.",
+      "hint": "The word 'martyr' itself comes from the Greek for 'witness.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-005",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "According to the Catechism, whom did the apostles leave behind as their successors, handing on their own teaching authority?",
+      "choices": [
+        "Bishops",
+        "Emperors",
+        "Scribes",
+        "Monks"
+      ],
+      "correctAnswer": "Bishops",
+      "explanation": "This is the root of what the Fathers call apostolic succession: the apostles handed their teaching office to bishops, so that the living Gospel would be preserved whole in the Church after the apostles died.",
+      "hint": "The Fathers appeal to an unbroken line of these men, city by city.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-006",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The Catechism's definition of prayer, drawn from St. John Damascene, calls it 'the raising of one's mind and ____ to God.'",
+      "correctAnswer": "heart",
+      "acceptedAnswers": [
+        "heart"
+      ],
+      "explanation": "St. John Damascene, one of the last of the Greek Fathers, gave the Church a definition of prayer so durable that the Catechism still uses his words: prayer is the raising of one's mind and heart to God, or the requesting of good things from God.",
+      "hint": "Prayer engages more than the intellect -- what else does it raise?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-007",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Which Church Father wrote the Confessions, an account of his own conversion addressed to God?",
+      "choices": [
+        "St. Augustine of Hippo",
+        "St. Jerome",
+        "St. Ambrose of Milan",
+        "St. Basil of Caesarea"
+      ],
+      "correctAnswer": "St. Augustine of Hippo",
+      "explanation": "Augustine's Confessions is the most widely read of all patristic works. The Catechism quotes it directly when it teaches that the human heart is made for God and restless without him.",
+      "hint": "The same Father who wrote about the restless heart.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-008",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: St. Justin Martyr, writing around 150 AD, described the Eucharist as ordinary bread and wine that merely symbolize Christ.",
+      "correctAnswer": false,
+      "explanation": "False, and emphatically so. Justin wrote that Christians receive the Eucharist 'not as common bread and common drink,' but as the flesh and blood of the same Jesus who was made flesh -- one of the earliest surviving witnesses to what the Church still believes.",
+      "hint": "Justin goes out of his way to say what the Eucharist is not.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Justin Martyr, First Apology, ch. 65-67",
+          "quote": "For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Saviour, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word... is the flesh and blood of that Jesus who was made flesh."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1345"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-009",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each Church Father to the work he is best known for.",
+      "pairs": [
+        { "left": "St. Augustine of Hippo", "right": "Confessions" },
+        { "left": "St. Athanasius", "right": "On the Incarnation" },
+        { "left": "St. Irenaeus of Lyons", "right": "Against Heresies" },
+        { "left": "St. Justin Martyr", "right": "First Apology" }
+      ],
+      "explanation": "These four works are the ones most often quoted when the Church appeals to the Fathers: a conversion story, a defense of the Incarnation, a refutation of Gnosticism, and a public defense of Christianity addressed to the Roman emperor.",
+      "hint": "One is a conversion story, one a defense written to an emperor.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l1-010",
+      "topic": "church-fathers",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: St. Ignatius of Antioch taught that the Church gathers around its bishop, writing that wherever the bishop appears, there the people should be.",
+      "correctAnswer": true,
+      "explanation": "True. Ignatius wrote this while being taken to Rome to be executed, around 107 AD. It is one of the earliest descriptions of how a local church is meant to be ordered -- gathered around its bishop.",
+      "hint": "Ignatius wrote his letters on the road to his own execution.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans",
+          "quote": "Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 830",
+          "quote": "The word 'catholic' means 'universal,' in the sense of 'according to the totality' or 'in keeping with the whole.'"
+        }
+      ]
+    },
+
+    {
+      "id": "church-fathers-l2-001",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "St. Athanasius spent most of his life defending which truth against the Arians?",
+      "choices": [
+        "That the Son is of the same substance as the Father",
+        "That Mary is the Mother of God",
+        "That Christ has a human soul",
+        "That the Church has four marks"
+      ],
+      "correctAnswer": "That the Son is of the same substance as the Father",
+      "explanation": "Arianism held that the Son was a creature, however exalted. Athanasius insisted on the word the Council of Nicaea chose -- homoousios, 'of the same substance' -- because anything less would mean the Son is not truly God.",
+      "hint": "The disputed word was about substance, not about Mary or about Christ's soul.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, Contra Arianos, Discourse I, ch. 9",
+          "quote": "they wrote 'from the essence of God,' in order that 'from God' might not be considered common and equal in the Son and in things originate, but that all others might be acknowledged as creatures, and the Word alone as from the Father."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-002",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: When the Creed says the Son is 'consubstantial with the Father,' it means the Son is of the same substance as the Father.",
+      "correctAnswer": true,
+      "explanation": "True. 'Consubstantial' translates the Greek homoousios. The Creed pairs it with 'begotten, not made' precisely to rule out the Arian claim that the Son was created.",
+      "hint": "Look at the word itself: con- ('with') plus 'substance.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 242",
+          "quote": "begotten not made, consubstantial with the Father"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-003",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "The Catechism states the Trinitarian faith the Fathers hammered out this way: 'We do not confess three Gods, but one God in three ____.'",
+      "correctAnswer": "persons",
+      "acceptedAnswers": [
+        "persons",
+        "person"
+      ],
+      "explanation": "The Cappadocian Fathers gave the Church the vocabulary here: one divine substance (ousia), three persons (hypostases). The distinction lets the Church confess both God's oneness and the real difference between Father, Son, and Holy Spirit.",
+      "hint": "One substance, three of these.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-004",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "St. Irenaeus answered heretics by tracing the bishops of each church back, in order, to the apostles who founded it. What is this argument called?",
+      "choices": [
+        "Apostolic succession",
+        "The canon of Scripture",
+        "The rule of prayer",
+        "The communion of saints"
+      ],
+      "correctAnswer": "Apostolic succession",
+      "explanation": "Irenaeus' point was practical: if a teaching were truly from the apostles, it would be found in the churches the apostles founded, taught by the men they handed their office to. Secret traditions with no such line were, on that test, not apostolic at all.",
+      "hint": "The argument is about an unbroken line of bishops.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies",
+          "quote": "The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate... In this order, and by this succession, the ecclesiastical tradition from the apostles... have come down to us."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-005",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "St. Gregory of Nazianzus argued that Christ had to take on a full human nature, soul and all: 'If that which He has not assumed He has not ____.'",
+      "correctAnswer": "healed",
+      "acceptedAnswers": [
+        "healed"
+      ],
+      "explanation": "Gregory was answering Apollinarius, who claimed the divine Word took the place of Christ's human soul. Gregory's reply became a rule of thumb: whatever part of human nature Christ did not take up, he did not save.",
+      "hint": "If Christ did not take it up, he did not do this to it.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Gregory of Nazianzus, Letter 101 (to Cledonius)",
+          "quote": "If that which He has not assumed He has not healed; but that which is united to His Godhead is also saved."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-006",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: In the vocabulary the Fathers settled on, 'substance' names what is one in God, and 'person' names what is really distinct in God.",
+      "correctAnswer": true,
+      "explanation": "True. The Catechism keeps this usage exactly: substance for the divine being in its unity, person (or hypostasis) for the Father, Son, and Holy Spirit in their real distinction from one another.",
+      "hint": "One of these words answers 'what God is,' the other 'who.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 252",
+          "quote": "The Church uses the term 'substance'... to designate the divine being in its unity, the term 'person' or 'hypostasis' to designate the Father, Son and Holy Spirit in the real distinction among them."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-007",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each Church Father to the error he is best remembered for opposing.",
+      "pairs": [
+        { "left": "St. Athanasius", "right": "Arianism" },
+        { "left": "St. Cyril of Alexandria", "right": "Nestorianism" },
+        { "left": "St. Irenaeus of Lyons", "right": "Gnosticism" },
+        { "left": "St. Gregory of Nazianzus", "right": "Apollinarianism" }
+      ],
+      "explanation": "Each of these Fathers is remembered for defending one specific truth under attack: the Son's divinity, the unity of Christ's person, the goodness of the created order, and the fullness of Christ's humanity.",
+      "hint": "One denied Christ's divinity, one divided him in two, one rejected creation, one cut short his humanity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-008",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "St. Cyril of Alexandria defended calling Mary by which title, against those who wanted to call her only 'Mother of Christ'?",
+      "choices": [
+        "Mother of God",
+        "Queen of Heaven",
+        "Immaculate Conception",
+        "Ark of the Covenant"
+      ],
+      "correctAnswer": "Mother of God",
+      "explanation": "Cyril's point was about Christ, not only about Mary: if the one she bore is truly God the Son, then she is truly the Mother of God. Denying the title amounted to dividing Christ into two subjects.",
+      "hint": "The dispute was really about who Christ is, not only about Mary.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Cyril of Alexandria",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-009",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: St. Basil of Caesarea explained that 'substance' relates to 'person' the way what is common relates to what is particular.",
+      "correctAnswer": true,
+      "explanation": "True. Basil's comparison -- substance is like 'goodness' or 'Godhead,' while person is what is proper to each: Fatherhood, Sonship, the power to sanctify -- is one of the clearest explanations the Fathers left us.",
+      "hint": "Think of a shared nature versus what belongs to each one alone.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Basil of Caesarea, Letter 214, sec. 4",
+          "quote": "ousia has the same relation to hypostasis as the common has to the particular... the term ousia is common, like goodness, or Godhead; hypostasis is contemplated in the special property of Fatherhood, Sonship, or the power to sanctify."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 252",
+          "quote": "The Church uses the term 'substance'... to designate the divine being in its unity, the term 'person' or 'hypostasis' to designate the Father, Son and Holy Spirit in the real distinction among them."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l2-010",
+      "topic": "church-fathers",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "St. Augustine prayed a line that became famous in the debates over grace: 'Give what you command, and then command whatever you ____.'",
+      "correctAnswer": "will",
+      "acceptedAnswers": [
+        "will",
+        "wilt"
+      ],
+      "explanation": "Augustine's point is that even our ability to obey God is itself God's gift. The Catechism says the same thing plainly: the very preparation of a person to receive grace is already a work of grace.",
+      "hint": "Augustine is asking God to supply whatever God asks of him.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Confessions, Book X, ch. 29",
+          "quote": "Give what you command, and then command whatever you will."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001",
+          "quote": "The preparation of man for the reception of grace is already a work of grace."
+        }
+      ]
+    },
+
+    {
+      "id": "church-fathers-l3-001",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "St. Irenaeus taught that Christ passed through every stage of human life -- infancy, childhood, youth, old age. What was his reason?",
+      "choices": [
+        "So that every age of life would be sanctified",
+        "So that he could fulfill the Law exactly",
+        "So that his humanity would be visible to all",
+        "So that he could be tested in every way"
+      ],
+      "correctAnswer": "So that every age of life would be sanctified",
+      "explanation": "This is Irenaeus' theme of recapitulation: Christ gathers up the whole of human life in himself, becoming an infant for infants and an old man for the old, so that no stage of a human life is left outside his saving work.",
+      "hint": "Irenaeus is arguing that nothing human is left untouched.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Irenaeus of Lyons, Adversus Haereses, Book III, ch. 18",
+          "quote": "He therefore passed through every age, becoming an infant for infants, thus sanctifying infants; a child for children, thus sanctifying those who are of this age... So likewise He was an old man for old men, that He might be a perfect Master for all."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 518"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-002",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: In his Third Letter to Nestorius, St. Cyril of Alexandria taught that it was the Word of God himself who suffered and was crucified in the flesh.",
+      "correctAnswer": true,
+      "explanation": "True. Cyril insisted that the one who suffered is the same divine person who was eternally begotten -- suffering in his humanity, not in his divinity. To deny this, he argued, was to make Christ two subjects rather than one.",
+      "hint": "The question is whether the one who suffered is the same person as the eternal Word.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Cyril of Alexandria, Third Letter to Nestorius",
+          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-003",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "In The City of God, written as Rome was falling, St. Augustine divides all of history into two cities. What ultimately distinguishes one city from the other?",
+      "choices": [
+        "Where each places its hope and final happiness",
+        "Which language each city speaks",
+        "Whether each city has walls",
+        "Which emperor each city obeys"
+      ],
+      "correctAnswer": "Where each places its hope and final happiness",
+      "explanation": "Augustine answered the charge that Christianity had caused Rome's collapse by reframing the question entirely: the two cities run through all of history, divided not by geography or politics but by what each ultimately loves and hopes in. The Catechism describes that same orientation as the virtue of hope -- desiring the kingdom of heaven as our happiness.",
+      "hint": "The dividing line is not political or geographic -- it is about what each city ultimately wants.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book I, ch. 1",
+          "quote": "For to this earthly city belong the enemies against whom I have to defend the city of God."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1817",
+          "quote": "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-004",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "Explaining Nicaea, St. Athanasius wrote that the Fathers deliberately said the Son is 'from the ____ of God,' so that he would not be lumped in with creatures.",
+      "correctAnswer": "essence",
+      "acceptedAnswers": [
+        "essence",
+        "substance"
+      ],
+      "explanation": "Athanasius is explaining why a single technical word mattered so much. Saying only that the Son is 'from God' could be said of any creature; saying he is from the essence of God could not.",
+      "hint": "The word is the one behind 'consubstantial.'",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, Contra Arianos, Discourse I, ch. 9",
+          "quote": "they wrote 'from the essence of God,' in order that 'from God' might not be considered common and equal in the Son and in things originate, but that all others might be acknowledged as creatures, and the Word alone as from the Father."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-005",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: St. Augustine taught that by misusing his free will, man damaged both his freedom and himself.",
+      "correctAnswer": true,
+      "explanation": "True. Augustine's account of the Fall is precisely this: free will was not taken away, it was wounded by its own misuse. The Catechism says the same when it describes human nature as wounded in its natural powers.",
+      "hint": "Augustine says the damage was self-inflicted.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 8",
+          "quote": "For it was by the evil use of his free-will that man destroyed both it and himself."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 407",
+          "quote": "Human nature... is wounded in the natural powers proper to it, subject to ignorance, suffering and the dominion of death, and inclined to sin."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-006",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "St. Justin Martyr's defense of Christianity, addressed to the Roman authorities and describing how Christians actually worship, is known as his:",
+      "choices": [
+        "First Apology",
+        "Against Heresies",
+        "Enchiridion",
+        "On the Incarnation"
+      ],
+      "correctAnswer": "First Apology",
+      "explanation": "'Apology' here means a reasoned public defense, not an expression of regret. Justin's account of Sunday worship in it is one of the earliest descriptions of the Mass that survives.",
+      "hint": "The word means a defense, not an admission of fault.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Justin Martyr, First Apology, ch. 65-67",
+          "quote": "For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Saviour, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word... is the flesh and blood of that Jesus who was made flesh."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1345"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-007",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each Church Father to the line he is remembered for.",
+      "pairs": [
+        { "left": "St. Augustine", "right": "Our heart is restless until it rests in you" },
+        { "left": "St. Athanasius", "right": "The Son of God became man so that we might become God" },
+        { "left": "St. Gregory of Nazianzus", "right": "What He has not assumed He has not healed" },
+        { "left": "St. Ignatius of Antioch", "right": "Wherever the bishop appears, there let the people be" }
+      ],
+      "explanation": "Each line compresses that Father's whole argument: the restless heart made for God, the purpose of the Incarnation, the fullness of Christ's humanity, and the Church gathered around her bishop.",
+      "hint": "One is about the human heart, one about why God became man.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 460",
+          "quote": "For the Son of God became man so that we might become God."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-008",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "For St. Augustine, what makes obedience to God real freedom rather than mere servitude?",
+      "choices": [
+        "That the will takes pleasure in the righteous deed",
+        "That the law is written down",
+        "That obedience is rewarded in heaven",
+        "That the Church commands it"
+      ],
+      "correctAnswer": "That the will takes pleasure in the righteous deed",
+      "explanation": "Augustine calls it both true liberty and a holy bondage at once: free, because the will delights in the good it does; bound, because it is obedient to God's will. Freedom for Augustine is not the absence of a master but delight in the right one.",
+      "hint": "Augustine locates freedom in what the will delights in.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 30",
+          "quote": "And this is true liberty, for he has pleasure in the righteous deed; and it is at the same time a holy bondage, for he is obedient to the will of God."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1996"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-009",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Church discerned which writings belong in the Bible through apostolic Tradition, and the resulting list is called the canon of Scripture.",
+      "correctAnswer": true,
+      "explanation": "True, and the Fathers are where this discernment happened in practice -- Augustine among them, at the African councils of the late fourth century that listed the books the Church receives.",
+      "hint": "The word for the list comes from a Greek term for a measuring rule.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120",
+          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books. This complete list is called the canon of Scripture."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l3-010",
+      "topic": "church-fathers",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "The Catechism describes what so many of the earliest Fathers are remembered for: 'Martyrdom is the supreme ____ given to the truth of the faith.'",
+      "correctAnswer": "witness",
+      "acceptedAnswers": [
+        "witness",
+        "testimony"
+      ],
+      "explanation": "Ignatius of Antioch, Polycarp, and Justin Martyr all died for the faith they had taught. The word 'martyr' itself simply means witness -- their deaths were understood as the final and clearest form of testimony.",
+      "hint": "It is the literal meaning of the word 'martyr.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    }
+  ]
+}
