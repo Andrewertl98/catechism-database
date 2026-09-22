@@ -1,0 +1,684 @@
+{
+  "_comment": "DRAFT on-ramp content -- NOT live, not in manifest.json, not loaded by either app. Levels 1-3 here are the NEW bottom three; existing councils levels 1-8 become 4-11 at cutover, and difficultyElo is already computed for that shape (totalLevels=11). NOTE: hard-gated topic -- validate.py's HARD_GATE_APPLIES_FROM_LEVEL must move from 6 to 9 at cutover. Every citation is drawn from references already shipped and reviewed in the live bank; verified with onramp_tool.py check.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l1-001",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Which council gave the Creed the words 'God from God, Light from Light, true God from true God'?",
+      "choices": [
+        "The First Council of Nicaea",
+        "The Council of Trent",
+        "The Second Vatican Council",
+        "The First Vatican Council"
+      ],
+      "correctAnswer": "The First Council of Nicaea",
+      "explanation": "Nicaea met in 325 to answer whether the Son is truly God. Those phrases, still recited at Mass, are its answer.",
+      "hint": "It is the earliest of the ecumenical councils, held in 325.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-002",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Council of Ephesus in 431 affirmed that Mary is truly the Mother of God.",
+      "correctAnswer": true,
+      "explanation": "True. Ephesus was careful about why: not that the Word took the origin of his divine being from Mary, but that the one she bore is truly God the Son.",
+      "hint": "The Greek title the council defended was Theotokos.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-003",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "The Council of Chalcedon in 451 taught that Christ is one person in how many natures?",
+      "choices": [
+        "Two natures",
+        "One nature",
+        "Three natures",
+        "Four natures"
+      ],
+      "correctAnswer": "Two natures",
+      "explanation": "One person, two natures -- divine and human -- acknowledged without confusion, change, division, or separation. Chalcedon's formula has anchored Christology ever since.",
+      "hint": "Christ is confessed as perfect in divinity and perfect in humanity.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-004",
+      "topic": "councils",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The Creed of Nicaea confesses the Son as 'begotten, not ____.'",
+      "correctAnswer": "made",
+      "acceptedAnswers": [
+        "made"
+      ],
+      "explanation": "Creatures are made; the Son is begotten. That one-word distinction is the whole point of the clause -- it rules out treating the Son as the first and highest of God's creatures.",
+      "hint": "The word describes what happens to everything created.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-005",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The First Council of Constantinople in 381 addressed the divinity of the Holy Spirit.",
+      "correctAnswer": true,
+      "explanation": "True. Its wording is deliberate: the Spirit is 'co-worshipped and co-glorified with Father and Son.' Worship is due to God alone, so that phrase settles the question.",
+      "hint": "Nicaea had settled the Son; this council took the next question.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-006",
+      "topic": "councils",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each of the first four ecumenical councils to the year it was held.",
+      "pairs": [
+        { "left": "First Council of Nicaea", "right": "325" },
+        { "left": "First Council of Constantinople", "right": "381" },
+        { "left": "Council of Ephesus", "right": "431" },
+        { "left": "Council of Chalcedon", "right": "451" }
+      ],
+      "explanation": "These four councils fall within roughly 125 years of each other, and they build in sequence: the Son's divinity, the Spirit's, who Christ is, and how his two natures relate.",
+      "hint": "They run in order across the fourth and fifth centuries.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-007",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "According to the Second Council of Nicaea in 787, when someone venerates a holy image, whom are they actually honoring?",
+      "choices": [
+        "The person the image represents",
+        "The artist who made the image",
+        "The image itself as a sacred object",
+        "The church building that houses it"
+      ],
+      "correctAnswer": "The person the image represents",
+      "explanation": "The council's phrase is that the honor 'traverses' the image and reaches the model. That distinction is exactly what separates veneration of images from idolatry.",
+      "hint": "The honor passes through the image rather than stopping at it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-008",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Second Vatican Council taught that the Catholic Church rejects nothing that is true and holy in other religions.",
+      "correctAnswer": true,
+      "explanation": "True. The council distinguishes carefully: it does not say all religions are equally true, but that whatever is genuinely true and holy in them is not to be rejected.",
+      "hint": "The statement is about what is true and holy, not about the religions wholesale.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-009",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Which council defined the doctrine of papal infallibility?",
+      "choices": [
+        "The First Vatican Council",
+        "The Council of Chalcedon",
+        "The Second Council of Lyons",
+        "The Council of Ephesus"
+      ],
+      "correctAnswer": "The First Vatican Council",
+      "explanation": "Vatican I defined it in 1870, and defined it narrowly -- it applies when the Pope speaks ex cathedra, defining a doctrine of faith or morals to be held by the whole Church.",
+      "hint": "It met in 1870, and a later council took the same name.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-010",
+      "topic": "councils",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The Second Council of Nicaea taught that 'he who venerates the image, venerates the ____ represented in that image.'",
+      "correctAnswer": "person",
+      "acceptedAnswers": [
+        "person"
+      ],
+      "explanation": "The honor does not stop at the wood and paint. It reaches the one depicted -- which is why the council could defend images without defending idolatry.",
+      "hint": "The honor reaches someone, not something.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+
+    {
+      "id": "councils-l2-001",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1015,
+      "prompt": "Chalcedon described Christ's two natures with four negatives: without confusion, without change, without division, without separation. What were those four guarding?",
+      "choices": [
+        "That Christ is genuinely one person in two full natures",
+        "That Christ has only one nature after the Incarnation",
+        "That Christ's divinity absorbed his humanity entirely",
+        "That Christ is two persons acting in close agreement"
+      ],
+      "correctAnswer": "That Christ is genuinely one person in two full natures",
+      "explanation": "Each negative blocks a different error: mixing the natures, altering them, splitting Christ into two subjects, or holding the natures apart. Together they fence in the truth from four sides.",
+      "hint": "Each of the four negatives rules out a different mistake.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-002",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 965,
+      "prompt": "True or False: The Third Council of Constantinople taught that Christ has two wills, one divine and one human.",
+      "correctAnswer": true,
+      "explanation": "True. The council met in 680-681 and reasoned that a real human nature must include a real human will -- otherwise Christ's humanity would be incomplete.",
+      "hint": "If Christ has two full natures, what follows about his willing?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-003",
+      "topic": "councils",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1075,
+      "prompt": "The Council of Constantinople in 381 confessed the Holy Spirit as 'co-worshipped and co-____ with Father and Son.'",
+      "correctAnswer": "glorified",
+      "acceptedAnswers": [
+        "glorified"
+      ],
+      "explanation": "The word choice is the argument. Worship and glory belong to God alone, so to say the Spirit receives them alongside Father and Son is to confess the Spirit as God.",
+      "hint": "It pairs with 'worshipped' in the Creed.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-004",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1015,
+      "prompt": "The Second Council of Lyons in 1274 professed that the Holy Spirit proceeds from the Father and the Son as from how many principles?",
+      "choices": [
+        "From one single principle",
+        "From two distinct principles",
+        "From three coordinated principles",
+        "From the Father as the only principle"
+      ],
+      "correctAnswer": "From one single principle",
+      "explanation": "The careful wording -- one principle, one single spiration -- was meant to answer the Eastern objection that the Latin formula made the Father and Son into two separate sources of the Spirit.",
+      "hint": "The wording was chosen to answer an Eastern objection.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Lyons (1274)",
+          "quote": "We profess faithfully and devotedly that the holy Spirit proceeds eternally from the Father and the Son, not as from two principles, but as from one principle; not by two spirations, but by one single spiration."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-005",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 965,
+      "prompt": "True or False: The Council of Trent condemned the claim that a person is justified by faith alone, with nothing else required to cooperate.",
+      "correctAnswer": true,
+      "explanation": "True. Trent's canon is precise about what it rejects: not faith, but the claim that nothing whatever is required to cooperate, and that a person need not be prepared and disposed by the movement of his own will.",
+      "hint": "Read the canon closely -- it targets a specific version of the claim.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Canon 9",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification, and that it is not in any way necessary, that he be prepared and disposed by the movement of his own will; let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-006",
+      "topic": "councils",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 1055,
+      "prompt": "Match each council to the question it settled.",
+      "pairs": [
+        { "left": "Nicaea (325)", "right": "Is the Son truly God?" },
+        { "left": "Ephesus (431)", "right": "Is Mary truly the Mother of God?" },
+        { "left": "Chalcedon (451)", "right": "How do Christ's two natures relate?" },
+        { "left": "Third Constantinople (680-681)", "right": "Does Christ have a human will?" }
+      ],
+      "explanation": "Each council answered the question the previous one had left open. Settle that the Son is God, and you must ask how he can be one with a human nature; settle that, and you must ask about his willing.",
+      "hint": "Each question follows from the answer the council before it gave.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-007",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1015,
+      "prompt": "According to the First Vatican Council, under what conditions does the Pope teach infallibly?",
+      "choices": [
+        "When defining faith or morals for the whole Church",
+        "In every public statement he makes as Pope",
+        "Whenever he writes to the world's bishops",
+        "In his personal opinions on any subject"
+      ],
+      "correctAnswer": "When defining faith or morals for the whole Church",
+      "explanation": "The council's conditions are narrow and cumulative: speaking ex cathedra, defining a doctrine, on faith or morals, to be held by the whole Church. Ordinary papal teaching is not covered by this.",
+      "hint": "The council attached several specific conditions at once.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-008",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 965,
+      "prompt": "True or False: The Second Council of Nicaea was called to settle a dispute about the veneration of holy images.",
+      "correctAnswer": true,
+      "explanation": "True. The iconoclast controversy had divided the Church over whether images could be venerated at all. The council answered by distinguishing the image from the one it depicts.",
+      "hint": "The controversy it settled is known as iconoclasm.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-009",
+      "topic": "councils",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1075,
+      "prompt": "Chalcedon's formula runs: 'without confusion, without change, without division, without ____.'",
+      "correctAnswer": "separation",
+      "acceptedAnswers": [
+        "separation"
+      ],
+      "explanation": "The last of the four negatives guards against holding the two natures apart, as though the divine and human in Christ were merely side by side rather than united in one person.",
+      "hint": "The fourth negative rules out keeping the natures apart.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-010",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 1015,
+      "prompt": "Which word did the Council of Nicaea use to say the Son shares the Father's very substance?",
+      "choices": [
+        "Consubstantial",
+        "Coeternal",
+        "Omnipotent",
+        "Incarnate"
+      ],
+      "correctAnswer": "Consubstantial",
+      "explanation": "The Greek is homoousios. It was controversial precisely because it is not a biblical word -- but the council judged that only a word this exact could exclude the Arian reading.",
+      "hint": "The English word contains 'substance' inside it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+
+    {
+      "id": "councils-l3-001",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1180,
+      "prompt": "How did the Third Council of Constantinople describe the relationship between Christ's human will and his divine will?",
+      "choices": [
+        "The human will follows, subject to the divine will",
+        "The human will was absorbed into the divine will",
+        "The two wills alternate, one at a time",
+        "The two wills stand in constant tension"
+      ],
+      "correctAnswer": "The human will follows, subject to the divine will",
+      "explanation": "The council says Christ's human will follows -- 'not resisting or struggling' -- and is subject to the divine will. Two real wills, perfectly ordered, rather than one will or two in conflict.",
+      "hint": "Two real wills, but not two competing ones.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-002",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1130,
+      "prompt": "True or False: The First Vatican Council taught that everything a Pope says on any subject is protected from error.",
+      "correctAnswer": false,
+      "explanation": "False. The definition is deliberately narrow: it covers the Pope speaking ex cathedra, defining a doctrine of faith or morals to be held by the whole Church. Ordinary teaching and personal opinion fall outside it.",
+      "hint": "The definition attaches conditions that exclude most papal speech.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-003",
+      "topic": "councils",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1240,
+      "prompt": "The Second Council of Lyons professed that the Spirit proceeds 'not as from two principles, but as from one ____.'",
+      "correctAnswer": "principle",
+      "acceptedAnswers": [
+        "principle"
+      ],
+      "explanation": "The council pairs it with 'not by two spirations, but by one single spiration.' Both phrases exist to answer the charge that the Latin formula introduced two sources into the Godhead.",
+      "hint": "The same word used in the phrase it is correcting.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Lyons (1274)",
+          "quote": "We profess faithfully and devotedly that the holy Spirit proceeds eternally from the Father and the Son, not as from two principles, but as from one principle; not by two spirations, but by one single spiration."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-004",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1180,
+      "prompt": "Trent's canon on justification rejects a particular claim about faith alone. Which element does the canon insist is also necessary?",
+      "choices": [
+        "That a person be prepared and disposed by his own will",
+        "That a person perform a fixed number of good works",
+        "That a person be baptized before believing anything",
+        "That a person make a financial offering to the Church"
+      ],
+      "correctAnswer": "That a person be prepared and disposed by his own will",
+      "explanation": "The canon is narrower than it is often taken to be. It condemns the claim that nothing at all is required to cooperate -- specifically, that a person need not be prepared and disposed by the movement of his own will.",
+      "hint": "The canon names a movement of the person's own will.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Canon 9",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification, and that it is not in any way necessary, that he be prepared and disposed by the movement of his own will; let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-005",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1130,
+      "prompt": "True or False: The Council of Ephesus defended the title 'Mother of God' primarily as a claim about who Christ is.",
+      "correctAnswer": true,
+      "explanation": "True. The council is explicit that the title does not mean the Word took the origin of his divine being from Mary. The point is that the one she bore is a single person who is truly God.",
+      "hint": "The council's careful qualification shows what it was really defending.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-006",
+      "topic": "councils",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1220,
+      "prompt": "Match each council to the phrase it contributed.",
+      "pairs": [
+        { "left": "Nicaea (325)", "right": "Consubstantial with the Father" },
+        { "left": "Chalcedon (451)", "right": "Without confusion, without change" },
+        { "left": "Second Nicaea (787)", "right": "The honour paid to an image traverses it" },
+        { "left": "First Vatican (1870)", "right": "When the Roman Pontiff speaks ex cathedra" }
+      ],
+      "explanation": "Councils are remembered by their formulas. Each of these phrases was crafted to settle one disputed question as precisely as language allowed.",
+      "hint": "One is about the Son, one about Christ's natures, one about images, one about the Pope.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-007",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1180,
+      "prompt": "Why was the Second Council of Nicaea's distinction between an image and its model so important?",
+      "choices": [
+        "It showed veneration of images is not idolatry",
+        "It permitted images only in private homes",
+        "It required every church to display images",
+        "It declared images to be sacraments themselves"
+      ],
+      "correctAnswer": "It showed veneration of images is not idolatry",
+      "explanation": "If honor stopped at the image, the iconoclasts would have been right. Because the honor passes through to the person depicted, venerating an icon is an act directed at a person, not at wood and paint.",
+      "hint": "The iconoclasts' central charge was about idolatry.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-008",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 1130,
+      "prompt": "True or False: The Second Vatican Council's statement on other religions claims that all religions are equally true paths to God.",
+      "correctAnswer": false,
+      "explanation": "False. What the council says is narrower: the Church rejects nothing that is true and holy in these religions. That affirms what is genuinely good in them without claiming they are all equivalent.",
+      "hint": "Read exactly what the sentence affirms, and what it does not.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-009",
+      "topic": "councils",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1240,
+      "prompt": "Vatican I taught that the Pope defines infallibly a doctrine concerning faith or ____.",
+      "correctAnswer": "morals",
+      "acceptedAnswers": [
+        "morals",
+        "moral"
+      ],
+      "explanation": "The pairing marks the boundary of the charism. It covers what the Church believes and how the Church is to live -- not matters of science, politics, or prudential judgment.",
+      "hint": "It pairs with 'faith' to mark the boundary of the subject matter.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-010",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1180,
+      "prompt": "Read in sequence, what do the first four ecumenical councils show?",
+      "choices": [
+        "Each answered the question the previous one opened",
+        "Each reversed the ruling of the one before it",
+        "Each dealt with an entirely unrelated dispute",
+        "Each was concerned only with Church governance"
+      ],
+      "correctAnswer": "Each answered the question the previous one opened",
+      "explanation": "Confess the Son as God, and the Spirit's status comes next. Settle that, and the question becomes how one person can be both God and man. Settle that, and his human willing must be addressed.",
+      "hint": "Think about what each answer forces you to ask next.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    }
+  ]
+}
