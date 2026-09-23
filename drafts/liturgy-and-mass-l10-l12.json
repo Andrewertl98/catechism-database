@@ -1,0 +1,697 @@
+{
+  "_comment": "Liturgy-and-mass levels 10-12: the liturgical year, why a whole year is needed, the seven sacraments",
+  "topic": "liturgy-and-mass",
+  "questions": [
+    {
+      "id": "liturgy-and-mass-l10-001",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The liturgical year does not begin on January 1, but with the season of:",
+      "choices": [
+        "Advent",
+        "Lent",
+        "Ordinary Time",
+        "Christmas"
+      ],
+      "correctAnswer": "Advent",
+      "explanation": "The Church's own calendar starts with Advent, the season of preparation for Christ's coming -- both his birth at Christmas and his final coming at the end of time.",
+      "hint": "This is the season of preparation that comes right before Christmas.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1168",
+          "quote": "Beginning with the Easter Triduum as its source of light, the new age of the Resurrection fills the whole liturgical year with its brilliance."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-002",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Easter is considered the oldest and most important feast of the liturgical year, sometimes called the 'Feast of feasts.'",
+      "correctAnswer": true,
+      "explanation": "Every other feast in the calendar draws its meaning from Easter -- the celebration of Christ's Resurrection is the foundation the whole liturgical year is built around.",
+      "hint": "This is the feast every other feast in the calendar ultimately points back to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1169",
+          "quote": "Easter is not simply one feast among others, but the 'Feast of feasts,' the 'Solemnity of solemnities,' just as the Eucharist is the 'Sacrament of sacraments.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-003",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The 40-day penitential season of prayer, fasting, and almsgiving that prepares the Church for Easter is called ____.",
+      "correctAnswer": "Lent",
+      "explanation": "Lent's 40 days recall the 40 days Christ spent fasting in the desert, and the season prepares catechumens for Baptism and all the faithful for a renewed celebration of Easter.",
+      "hint": "This penitential season begins on Ash Wednesday.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1438",
+          "quote": "The seasons and days of penance in the course of the liturgical year (Lent, and each Friday in memory of the death of the Lord) are intense moments of the Church's penitential practice."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-004",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The 50-day season of joyful celebration following Easter Sunday, culminating in Pentecost, is called:",
+      "choices": [
+        "Eastertide (the Easter season)",
+        "Advent",
+        "Ordinary Time",
+        "Holy Week"
+      ],
+      "correctAnswer": "Eastertide (the Easter season)",
+      "explanation": "The Church celebrates the Resurrection not for just one day but across fifty days of continuous rejoicing, ending with the descent of the Holy Spirit at Pentecost.",
+      "hint": "This season stretches all the way from Easter Sunday to Pentecost.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1169",
+          "quote": "Easter is not simply one feast among others, but the 'Feast of feasts,' the 'Solemnity of solemnities,' just as the Eucharist is the 'Sacrament of sacraments.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-005",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: 'Ordinary Time,' despite its name, is considered a spiritually empty or unimportant period with no real liturgical significance.",
+      "correctAnswer": false,
+      "explanation": "'Ordinary' here comes from 'ordinal' (numbered weeks), not from 'unimportant' -- Ordinary Time is a season of steady growth in discipleship, tracing the whole of Christ's public ministry.",
+      "hint": "The name comes from counted, numbered weeks, not from the everyday sense of 'ordinary.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-006",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each liturgical season to its meaning.",
+      "pairs": [
+        {
+          "left": "Advent",
+          "right": "Preparing for Christ's coming, at Christmas and at the end of time"
+        },
+        {
+          "left": "Lent",
+          "right": "40 days of penance preparing for Easter"
+        },
+        {
+          "left": "Eastertide",
+          "right": "50 days of joyful celebration, ending at Pentecost"
+        },
+        {
+          "left": "Ordinary Time",
+          "right": "Numbered weeks tracing Christ's public ministry"
+        }
+      ],
+      "explanation": "Together these seasons walk the whole Church, year after year, through the entire mystery of Christ -- his coming, his ministry, his death, and his Resurrection.",
+      "hint": "Two seasons are penitential preparation, two are ongoing celebration or steady growth.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1168",
+          "quote": "Beginning with the Easter Triduum as its source of light, the new age of the Resurrection fills the whole liturgical year with its brilliance."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-007",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "What is the theological purpose of the liturgical year, according to the Catechism?",
+      "choices": [
+        "To unfold the whole mystery of Christ across the year so the faithful are formed by living through it, not simply reminded of past events",
+        "To commemorate historical events with no bearing on present spiritual life",
+        "To provide a calendar with no deeper theological purpose",
+        "To replace the need for personal prayer throughout the year"
+      ],
+      "correctAnswer": "To unfold the whole mystery of Christ across the year so the faithful are formed by living through it, not simply reminded of past events",
+      "explanation": "The Church does not merely commemorate the Incarnation, Passion and Resurrection as history; she makes the faithful actual participants in that mystery as the year unfolds, in a way analogous to how the Eucharist makes Calvary present rather than merely recalling it.",
+      "hint": "Compare this to how the Mass relates to Calvary \u2014 recollection, or something more.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-008",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Advent is primarily a season of penance identical in character to Lent.",
+      "correctAnswer": false,
+      "explanation": "False. Advent carries a penitential and preparatory tone but a distinctly different character from Lent \u2014 one of expectant joy looking toward both Christ's first coming at Bethlehem and his final coming in glory, rather than Lent's more austere focus on repentance before the Passion.",
+      "hint": "Ask what Advent is actually preparing the faithful to receive, and compare its tone to Lent's.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 524"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-009",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The three days from Holy Thursday evening through Easter Sunday are together called the Easter ____, the summit of the entire liturgical year.",
+      "correctAnswer": "Triduum",
+      "explanation": "The Triduum \u2014 Holy Thursday, Good Friday, and the Easter Vigil into Easter Sunday \u2014 is a single liturgical unit rather than three separate days, beginning with the Mass of the Lord's Supper and not formally concluding until Easter Vigil's Vespers, which is why the Mass on Holy Thursday has no formal dismissal.",
+      "hint": "The Latin word means 'three days'.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1168"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l10-010",
+      "topic": "liturgy-and-mass",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each liturgical season to its central character.",
+      "pairs": [
+        {
+          "left": "Advent",
+          "right": "Expectant joy, preparing for both comings of Christ"
+        },
+        {
+          "left": "Lent",
+          "right": "Penance and preparation for the Paschal mystery"
+        },
+        {
+          "left": "Easter",
+          "right": "Fifty days of joyful celebration culminating in Pentecost"
+        },
+        {
+          "left": "Ordinary Time",
+          "right": "The mystery of Christ in its fullness, not a lesser or empty season"
+        }
+      ],
+      "explanation": "The last pairing corrects a common misreading of the name: 'ordinary' here means 'ordinal' \u2014 counted in order \u2014 not 'plain' or 'unimportant'. Ordinary Time still unfolds real mysteries of Christ's public ministry.",
+      "hint": "One season's name is frequently misunderstood, and the misunderstanding is worth correcting explicitly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1168"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-001",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The previous level covered the liturgical year's own real seasons. Given that every single Mass already makes present the one same Paschal Mystery, why does the Church actually need a whole year, rather than simply repeating one identical celebration every week?",
+      "choices": [
+        "It unfolds different facets of one same mystery of Christ, letting believers enter each in its own proper season",
+        "Because each Mass actually celebrates a completely different, unrelated real event from every other Mass",
+        "Because the liturgical year has no real theological purpose, existing purely as a scheduling convenience",
+        "Because the Church actually intends for believers to forget the Paschal Mystery between one season and the next"
+      ],
+      "correctAnswer": "It unfolds different facets of one same mystery of Christ, letting believers enter each in its own proper season",
+      "explanation": "The liturgical year does not add several different real mysteries to the one Paschal Mystery -- it unfolds that one same mystery's own real, different facets across the year, letting believers actually enter each dimension in its own proper season rather than experiencing one flattened repetition.",
+      "hint": "Consider whether the different liturgical seasons actually celebrate different, unrelated events, or different real facets of the same one mystery.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-002",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: The liturgical year's own different seasons celebrate genuinely different, unrelated mysteries, rather than different real facets of the same one mystery of Christ.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, precise distinction matters -- the whole liturgical year unfolds one single, real mystery of Christ, not several unrelated events strung together across the calendar.",
+      "hint": "Recall this level's own real citation, and what it actually says the Church unfolds across the liturgical year.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-003",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The Catechism says the faithful 'lay hold of' the mysteries unfolded across the liturgical year, and are 'filled with saving grace.' What does this precise language suggest about the liturgical year's own real, practical function?",
+      "choices": [
+        "It's a real, ongoing means of grace, actually forming believers over time, not just remembering past events",
+        "That the liturgical year exists purely to commemorate past historical events, with no real, ongoing spiritual effect",
+        "That 'laying hold of' a mystery and receiving 'saving grace' are actually two entirely unrelated real claims",
+        "That this precise language has no real, practical implications for how a believer actually experiences the liturgical year"
+      ],
+      "correctAnswer": "It's a real, ongoing means of grace, actually forming believers over time, not just remembering past events",
+      "explanation": "This precise, real language shows the liturgical year is not simply a commemorative calendar -- 'laying hold of' the mysteries and being 'filled with saving grace' points to a real, ongoing, actually formative means of grace, not mere historical remembrance.",
+      "hint": "Consider what 'laying hold of' something and being 'filled with grace' actually suggest, beyond simple historical remembrance.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-004",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: This level's own real teaching -- that the liturgical year actually forms believers over real time, not merely commemorating past events -- connects to this app's own Dogmas-and-doctrine topic's earlier teaching on hope shaping present life.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this connection matters -- just as Dogmas-and-doctrine taught that real hope for the Last Things gives present choices real weight, this level shows the liturgical year actually forming believers in real time, not simply commemorating events already past.",
+      "hint": "Recall this app's own Dogmas-and-doctrine topic, and its own earlier real teaching on hope shaping present life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-005",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "A skeptic objects: 'A liturgical calendar is just an arbitrary human scheduling tool -- there's nothing theologically necessary about celebrating Christmas in December rather than any other month.' What is the real, careful answer?",
+      "choices": [
+        "Partial point conceded -- specific dates are traditional -- but the underlying real structure is still theologically necessary",
+        "The objection is entirely wrong, and every specific calendar date is, in fact, strictly theologically necessary",
+        "The objection is entirely correct, and the whole liturgical year should actually be considered theologically meaningless",
+        "This level's own real teaching has no answer to this specific real objection at all"
+      ],
+      "correctAnswer": "Partial point conceded -- specific dates are traditional -- but the underlying real structure is still theologically necessary",
+      "explanation": "This is a real, honest, careful answer -- conceding a real, partial point (specific dates are largely traditional) while distinguishing it from the real, deeper claim this level actually makes (that unfolding the one mystery across distinct real seasons has real, theological purpose, regardless of the specific calendar dates chosen).",
+      "hint": "Consider the real difference between a specific calendar date and the underlying real structure of unfolding one mystery across distinct seasons.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-006",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: This level's own real answer -- conceding a partial point while defending the deeper real claim -- follows the same real, honest method this app's own Apologetics topic used when acknowledging Mark's longer ending lacked early manuscript support.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this shared real method matters -- both levels practice the same underlying real discipline: honestly conceding a real, partial point while still defending the actual, deeper real claim at stake.",
+      "hint": "Recall this app's own Apologetics topic's level on applying the bibliographical test honestly to an inconvenient real finding.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-007",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each fact about why the Church needs a whole liturgical year to what it actually means.",
+      "pairs": [
+        {
+          "left": "The liturgical year's own real purpose",
+          "right": "Unfolds the different facets of one same mystery of Christ across real seasons"
+        },
+        {
+          "left": "\"Lay hold of\" and \"filled with saving grace\"",
+          "right": "A real, ongoing means of grace, not merely commemorating past events"
+        },
+        {
+          "left": "Specific calendar dates",
+          "right": "Largely traditional, not strictly theologically necessary in themselves"
+        },
+        {
+          "left": "The underlying real structure",
+          "right": "Theologically necessary, regardless of which specific dates were chosen"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, careful account of why the liturgical year matters -- distinguishing what is theologically necessary from what is merely traditional, without dismissing either.",
+      "hint": "Two rows explain the liturgical year's own real, deeper purpose; two distinguish what is necessary from what is merely traditional.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-008",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Having now explained why the Church needs a whole liturgical year, this topic's next level turns to the seven sacraments, grouped and explained.",
+      "correctAnswer": true,
+      "explanation": "True. Having established the liturgical year's own real purpose, this topic's next level turns to the sacraments themselves, the concrete, real means of grace this whole liturgical rhythm actually serves.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-009",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, general habit has this level added to this topic's own growing real toolkit?",
+      "choices": [
+        "Distinguishing what is theologically necessary from what is merely traditional, without collapsing either into the other",
+        "Assuming every real element of the liturgical calendar is equally theologically necessary, with no real distinction possible",
+        "Assuming the liturgical calendar is entirely arbitrary, with no real theological purpose behind any of it",
+        "Avoiding any real, honest engagement with a genuine objection about the calendar's own real origins"
+      ],
+      "correctAnswer": "Distinguishing what is theologically necessary from what is merely traditional, without collapsing either into the other",
+      "explanation": "This level's own real habit -- distinguishing necessary structure from traditional detail -- is exactly the same real discipline this topic will keep practicing through its own later levels on precise vocabulary and real objections.",
+      "hint": "Consider what this level actually did before answering the skeptic's own real objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l11-010",
+      "topic": "liturgy-and-mass",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given this level's picture of why the Church needs a whole liturgical year, what does the next level in this topic turn to?",
+      "choices": [
+        "The seven sacraments, grouped and explained",
+        "A complete repeat of this same level's material about the liturgical year",
+        "A jump ahead to real objections, skipping over everything in between",
+        "A subject entirely unrelated to the liturgical year or the sacraments"
+      ],
+      "correctAnswer": "The seven sacraments, grouped and explained",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from why the Church needs a whole liturgical year to the sacraments themselves, the concrete means of grace that rhythm actually serves.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, the Church unfolds the whole mystery of Christ... the faithful lay hold of them and are filled with saving grace."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-001",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "How many sacraments does the Catholic Church recognize?",
+      "choices": [
+        "Seven",
+        "Five",
+        "Three",
+        "Nine"
+      ],
+      "correctAnswer": "Seven",
+      "explanation": "The Catechism teaches that 'the whole liturgical life of the Church revolves around the Eucharistic sacrifice and the sacraments' -- seven in all, instituted by Christ and entrusted to the Church.",
+      "hint": "It's the same number as the deadly vices and the gifts of the Holy Spirit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1113",
+          "quote": "There are seven sacraments in the Church: Baptism, Confirmation or Chrismation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-002",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Baptism, Confirmation, and the Eucharist together are called the 'Sacraments of Christian Initiation.'",
+      "correctAnswer": true,
+      "explanation": "These three sacraments lay the foundations of every Christian life -- Baptism gives new birth, Confirmation strengthens with the Spirit, and the Eucharist nourishes the disciple with Christ himself.",
+      "hint": "These are the three sacraments that bring a person fully into the Church's life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1212",
+          "quote": "The sacraments of Christian initiation -- Baptism, Confirmation, and the Eucharist -- lay the foundations of every Christian life."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-003",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "Baptism, Confirmation, and Holy Orders share a feature no other sacrament has: they imprint a permanent, indelible ____ on the soul, and so can never be repeated.",
+      "correctAnswer": "character",
+      "explanation": "This sacramental character marks the soul permanently, configuring the recipient to Christ in a lasting way -- which is why these three sacraments are received only once in a lifetime.",
+      "hint": "It's a permanent spiritual 'mark,' not something physically visible.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1121",
+          "quote": "The three sacraments of Baptism, Confirmation, and Holy Orders confer... a sacramental character or 'seal'... indelible, it remains forever... Therefore these sacraments can never be repeated."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-004",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The two sacraments classified together as the 'Sacraments of Healing' are Anointing of the Sick and:",
+      "choices": [
+        "Penance (Reconciliation/Confession)",
+        "Matrimony",
+        "Holy Orders",
+        "Confirmation"
+      ],
+      "correctAnswer": "Penance (Reconciliation/Confession)",
+      "explanation": "These two sacraments address the wounds sin and illness leave in a Christian's life -- Penance heals the soul of sin, and Anointing of the Sick brings grace and comfort in illness.",
+      "hint": "One heals the soul of sin; this other one heals the body and soul in sickness.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1421",
+          "quote": "The Lord Jesus Christ, physician of our souls and bodies... has willed that his Church continue, in the power of the Holy Spirit, his work of healing and salvation, even among her own members."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-005",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Matrimony and Holy Orders are together classified as the 'Sacraments at the Service of Communion.'",
+      "correctAnswer": true,
+      "explanation": "These two sacraments are directed toward the good of others -- Matrimony builds up the family and Holy Orders serves the Church's mission -- rather than being primarily for the recipient's own sanctification alone.",
+      "hint": "Both of these sacraments exist primarily to serve and build up others, not just the person receiving them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1534",
+          "quote": "Two other sacraments, Holy Orders and Matrimony, are directed towards the salvation of others; if they contribute as well to personal salvation, it is through service to others that they do so."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-006",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each family of sacraments to its members.",
+      "pairs": [
+        {
+          "left": "Sacraments of Initiation",
+          "right": "Baptism, Confirmation, Eucharist"
+        },
+        {
+          "left": "Sacraments of Healing",
+          "right": "Penance, Anointing of the Sick"
+        },
+        {
+          "left": "Sacraments at the Service of Communion",
+          "right": "Holy Orders, Matrimony"
+        }
+      ],
+      "explanation": "The Catechism groups all seven sacraments into these three families, organized by the stage and dimension of Christian life each one serves.",
+      "hint": "Three families: how you begin the Christian life, how you're healed, and how you serve others' good.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1210",
+          "quote": "There are seven [sacraments]: Baptism, Confirmation (or Chrismation), the Eucharist, Penance, the Anointing of the Sick, Holy Orders and Matrimony. The seven sacraments touch all the stages and all the important moments of Christian life."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-007",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Why are Baptism, Confirmation and Eucharist grouped as the 'Sacraments of Christian Initiation'?",
+      "choices": [
+        "Together they lay the foundations of every Christian life, incorporating a person fully into Christ and the Church",
+        "Because they must all be received on the same day",
+        "Because they are the only three sacraments a lay Catholic ever receives",
+        "Because they were instituted at the same historical moment"
+      ],
+      "correctAnswer": "Together they lay the foundations of every Christian life, incorporating a person fully into Christ and the Church",
+      "explanation": "The grouping is about theological function, not scheduling: these three together complete a person's initiation into the Christian life, which is why the Eastern Churches often celebrate all three together even for infants, while the Latin Church typically spaces them out.",
+      "hint": "Ask what these three accomplish together that no other sacrament accomplishes.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1212"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-008",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: A sacrament that imprints a permanent character can, in principle, be received more than once by the same person.",
+      "correctAnswer": false,
+      "explanation": "False, and this is precisely what the character means: an indelible seal on the soul, which is why Baptism, Confirmation and Holy Orders are never repeated, even for someone who later leaves the faith and returns, or who is later ordained to a higher order.",
+      "hint": "Ask what 'indelible' itself implies about repetition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-009",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "Anointing of the Sick and Penance are together classified as the Sacraments of ____, addressing wounds of body and soul after Baptism.",
+      "correctAnswer": "Healing",
+      "explanation": "These two sacraments presuppose that a baptized Christian can still be wounded \u2014 by sin, or by illness \u2014 after the new life of Baptism has begun, and provide specific remedies for each kind of wound rather than treating either as a failure of Baptism itself.",
+      "hint": "Both sacraments address something that goes wrong after Baptism, not before it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1421"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l12-010",
+      "topic": "liturgy-and-mass",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each family of sacraments to its members and purpose.",
+      "pairs": [
+        {
+          "left": "Initiation",
+          "right": "Baptism, Confirmation, Eucharist \u2014 founding the Christian life"
+        },
+        {
+          "left": "Healing",
+          "right": "Penance, Anointing of the Sick \u2014 remedies for sin and illness"
+        },
+        {
+          "left": "Service of Communion",
+          "right": "Matrimony, Holy Orders \u2014 building up others in the Church"
+        },
+        {
+          "left": "Character-imprinting",
+          "right": "Baptism, Confirmation, Holy Orders \u2014 received only once"
+        }
+      ],
+      "explanation": "Note the fourth grouping cuts across the first three: it is not a fourth family alongside them, but a feature shared by specific sacraments already listed in the other families. Baptism belongs to initiation AND to the character group at once.",
+      "hint": "One of these four rows is not a fourth family, but a cross-cutting feature of some sacraments already named above.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1212"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1421"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    }
+  ]
+}
