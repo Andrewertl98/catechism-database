@@ -1,0 +1,706 @@
+{
+  "_comment": "DRAFT -- NOT live. Saints levels 1-3 of 23 (new chronological/pedagogical reorg, per CURRICULUM-PLAN.md): what a saint is, honoring Mary and John the Baptist as the first among them (largely the old live level 1's foundational doctrine, renumbered and re-seeded), the apostles as the Church's first witnesses, and Stephen alongside the earliest post-apostolic martyrs. CCC 946/956/957/466/823/828/2132/552/2473, Matthew 11:11, and the Council of Ephesus are already-reviewed citations reused here; other Scripture references are new and flagged by onramp_tool.py check for translation verification before shipping.",
+  "topic": "saints",
+  "questions": [
+    {
+      "id": "saints-l1-001",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "In the Apostles' Creed, right after 'the holy catholic Church,' what do Catholics profess belief in?",
+      "choices": [
+        "The communion of saints",
+        "The forgiveness of sins",
+        "The resurrection of the body",
+        "Life everlasting"
+      ],
+      "correctAnswer": "The communion of saints",
+      "explanation": "The Catechism teaches that 'the communion of saints is the Church' itself -- the phrase describes the spiritual bond uniting all the faithful, living and dead, in Christ.",
+      "hint": "The bond in question stretches across the living, the dead being purified, and those already in glory — one shared life, not a roll of names.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 946",
+          "quote": "What is the Church if not the assembly of all the saints? The communion of saints is the Church."
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-002",
+      "topic": "saints",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: According to Church teaching, the saints in heaven continue to intercede for us on earth.",
+      "correctAnswer": true,
+      "explanation": "The Catechism teaches that those in heaven 'do not cease to intercede with the Father for us,' offering the merits they gained on earth through Christ, the one mediator.",
+      "hint": "Their prayer for us doesn't stop just because they've reached heaven.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 956",
+          "quote": "They do not cease to intercede with the Father for us... So by their fraternal concern is our weakness greatly helped."
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-003",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Why does the Church honor the memory of the saints, according to the Catechism?",
+      "choices": [
+        "Not merely as examples, but through a real spiritual communion that strengthens the whole Church",
+        "Only as historical role models, with no ongoing connection to the living at all",
+        "Primarily and only to mark holidays on the Church's liturgical calendar",
+        "Because canon law formally requires an annual feast for every single saint"
+      ],
+      "correctAnswer": "Not merely as examples, but through a real spiritual communion that strengthens the whole Church",
+      "explanation": "CCC 957 teaches that devotion to the saints is more than admiring good examples -- it is a real communion in the Spirit that binds the whole Church, living and dead, more closely together.",
+      "hint": "It's more than admiration -- the Catechism calls it a real communion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 957",
+          "quote": "It is not merely by the title of example that we cherish the memory of those in heaven; we seek, rather, that by this devotion... the union of the whole Church in the Spirit may be strengthened."
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-004",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Mary is honored as the first and greatest of all the saints because of her unique role in salvation history, expressed in the title given her at the Council of Ephesus. What is that title?",
+      "choices": [
+        "Mother of God",
+        "Queen of Angels",
+        "First Martyr",
+        "Co-Foundress of the Church"
+      ],
+      "correctAnswer": "Mother of God",
+      "explanation": "The Council of Ephesus (431) affirmed Mary as Theotokos, 'Mother of God' -- the foundation for the unique honor the Church gives her above every other saint.",
+      "hint": "This is the same title Ephesus gave Mary, meaning she bore God himself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-005",
+      "topic": "saints",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Jesus said that John the Baptist was 'the greatest' among those born of women.",
+      "correctAnswer": true,
+      "explanation": "Jesus paid John the Baptist this extraordinary tribute in Matthew's Gospel, even while adding that the least in the kingdom of heaven is greater still.",
+      "hint": "Jesus said this about his own cousin, the one who baptized him.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 11:11",
+          "quote": "Amen, I say to you, among those born of women there has been none greater than John the Baptist; yet the least in the kingdom of heaven is greater than he."
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-006",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each early figure to the fact that makes them a 'first' among the saints.",
+      "pairs": [
+        {
+          "left": "Mary",
+          "right": "Mother of God, first and greatest of the saints"
+        },
+        {
+          "left": "John the Baptist",
+          "right": "Forerunner of Christ, called the greatest born of women"
+        },
+        {
+          "left": "St. Joseph",
+          "right": "Foster father of Jesus, declared patron of the universal Church"
+        },
+        {
+          "left": "St. Stephen",
+          "right": "The first Christian martyr, stoned for professing Christ"
+        }
+      ],
+      "explanation": "These four figures stand at the very beginning of the Church's life -- before there was a communion of saints to profess, there were these first friends of God.",
+      "hint": "One was stoned to death; one was declared patron of the whole Church in 1870.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 11:11",
+          "quote": "Amen, I say to you, among those born of women there has been none greater than John the Baptist; yet the least in the kingdom of heaven is greater than he."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, declaring St. Joseph Patron of the Universal Church (1870)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-007",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What does the word 'saint' mean in its most basic sense, before it names a canonized individual?",
+      "choices": [
+        "Holy -- set apart for God; the New Testament applies it to all the baptized, not only to a canonized few",
+        "A person who has performed at least one verified, formally documented miracle in their own lifetime",
+        "A member of the ordained clergy specifically, and never a lay person of any kind",
+        "A title given to someone only after their own death has occurred, never before it"
+      ],
+      "correctAnswer": "Holy -- set apart for God; the New Testament applies it to all the baptized, not only to a canonized few",
+      "explanation": "Paul routinely addresses his letters 'to the saints' in a given city, meaning the baptized faithful there — the word's baseline meaning is broader than 'a person the Church has formally canonized,' which is a later, narrower technical use of the same word.",
+      "hint": "Look at how Paul addresses the recipients of his letters.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 823"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 1:2"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-008",
+      "topic": "saints",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Canonization declares that a person is now in heaven; it does not make them holy — their holiness came first.",
+      "correctAnswer": true,
+      "explanation": "True. The Church's canonization process investigates and recognizes a life of heroic virtue already lived; it does not confer holiness retroactively. This is why the investigation focuses on the person's actual life and evidence, not on the ceremony itself.",
+      "hint": "Ask whether the ceremony creates the holiness, or recognizes something already true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-009",
+      "topic": "saints",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Why does the Church teach that honoring the saints does not compete with worship due to God alone?",
+      "choices": [
+        "The honor given the saints is a different kind of act (veneration) directed at creatures who reflect God's own holiness, not the adoration owed to God as Creator",
+        "Because the saints are, according to actual Catholic teaching, considered divine beings themselves",
+        "Because veneration and adoration are, when examined closely and carefully, simply the very same single act under two different names",
+        "Because the Church, as a matter of fact, has no real teaching at all distinguishing between these two kinds of honor"
+      ],
+      "correctAnswer": "The honor given the saints is a different kind of act (veneration) directed at creatures who reflect God's own holiness, not the adoration owed to God as Creator",
+      "explanation": "Honoring a saint is honoring what God's grace accomplished in a human life — closer to admiring a masterpiece for what it reveals about the artist than to worshipping the artist's tools. The distinction between dulia (honor to saints) and latria (adoration owed to God alone) exists precisely to keep this clear.",
+      "hint": "Ask what exactly is being honored when a saint is honored — the person alone, or what God did in them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        }
+      ]
+    },
+    {
+      "id": "saints-l1-010",
+      "topic": "saints",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The honor Catholics give the saints is called ____ -- a real but different kind of honor than the adoration owed to God alone.",
+      "correctAnswer": "veneration",
+      "acceptedAnswers": [
+        "veneration"
+      ],
+      "explanation": "Veneration honors what God's grace accomplished in a creature; adoration is owed to God alone as Creator. Keeping this distinction clear from the very first level is what makes every later level about a specific saint make sense.",
+      "hint": "The word this whole topic uses for honoring a saint, distinct from worshipping God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2132",
+          "quote": "The honor paid to sacred images is a 'respectful veneration,' not the adoration due to God alone."
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-001",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Before there were canonized saints in the later, formal sense, who does the Church honor as the very first witnesses to Christ after his Ascension?",
+      "choices": [
+        "The apostles",
+        "The medieval monastic founders",
+        "The Doctors of the Church",
+        "The martyrs of ancient Rome specifically"
+      ],
+      "correctAnswer": "The apostles",
+      "explanation": "The apostles -- the very figures whose own story opens Church History's first levels -- are the Church's first saints in the fullest sense: eyewitnesses who gave their whole lives, and in most cases their deaths, to what they had seen and heard.",
+      "hint": "These are the same twelve men whose missionary journeys open the Church History topic.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:8",
+          "quote": "you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-002",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: According to strong and ancient tradition, most of the twelve apostles died as martyrs for their faith.",
+      "correctAnswer": true,
+      "explanation": "True. Tradition holds that all but John died violently for their testimony to Christ -- a pattern of witness-unto-death that shapes how the Church understands sainthood from its very first generation onward.",
+      "hint": "Recall which single apostle tradition holds died of natural causes rather than martyrdom.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 21:18-19",
+          "quote": "when you grow old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-003",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "According to tradition, where were the apostles Peter and Paul both martyred?",
+      "choices": [
+        "Rome",
+        "Jerusalem",
+        "Antioch",
+        "Corinth"
+      ],
+      "correctAnswer": "Rome",
+      "explanation": "Both apostles died in Rome under Nero, giving the Roman church a place of particular honor from its earliest days -- she is the church where two of the greatest apostles gave their lives.",
+      "hint": "Both died under the same Roman emperor, in the empire's capital.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 552"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-004",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Thomas, traditionally remembered for doubting the Resurrection until he touched Christ's wounds, is also remembered by strong tradition for carrying the Gospel to India.",
+      "correctAnswer": true,
+      "explanation": "True. The apostles' individual missionary reach -- Thomas to India, Mark to Alexandria, James to Spain -- already shows sainthood as something lived out across the whole known world within a single generation, not confined to Judea.",
+      "hint": "This same apostle's mission is why communities calling themselves 'Thomas Christians' exist in India today.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 20:28",
+          "quote": "Thomas answered and said to him, 'My Lord and my God!'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-005",
+      "topic": "saints",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 965,
+      "prompt": "Match each apostle to what makes him one of the Church's first saints.",
+      "pairs": [
+        {
+          "left": "Peter and Paul",
+          "right": "Both martyred in Rome under Nero"
+        },
+        {
+          "left": "Thomas",
+          "right": "Carried the Gospel to India by strong tradition"
+        },
+        {
+          "left": "John",
+          "right": "The one apostle tradition holds died of natural causes"
+        },
+        {
+          "left": "James the Greater",
+          "right": "Carried the Gospel as far as Spain by tradition"
+        }
+      ],
+      "explanation": "Within a single generation, the apostles' witness reaches from Rome to Spain to India -- the pattern of real, documented witness this whole topic will keep tracing across the centuries.",
+      "hint": "Three of these traveled to a specific distant region; one is the exception who did not die a martyr.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 15:24",
+          "quote": "I hope to see you in passing as I go to Spain"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-006",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Being an apostle in the fullest sense required having personally seen the risen Christ.",
+      "correctAnswer": true,
+      "explanation": "True. This is part of why Paul, converted after the Ascension by a direct encounter with the risen Christ, could still describe himself as an apostle 'set apart for the gospel of God' even though he was not one of the original Twelve.",
+      "hint": "Consider what Paul's own encounter with Christ, on the road to Damascus, actually was.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:1",
+          "quote": "Paul, a slave of Christ Jesus, called to be an apostle and set apart for the gospel of God"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-007",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "What do the apostles' individual, documented deaths and travels establish for how the Church would go on to recognize sainthood?",
+      "choices": [
+        "That real witness to Christ, verifiable and specific rather than legendary, is the foundation the whole practice builds on",
+        "That sainthood requires an official Church proclamation before any witness can be said to count as real",
+        "That only members of the original Twelve can ever be formally recognized as saints",
+        "That geography has essentially no bearing on how the Church remembers a given saint's life"
+      ],
+      "correctAnswer": "That real witness to Christ, verifiable and specific rather than legendary, is the foundation the whole practice builds on",
+      "explanation": "This level's whole point is that sainthood did not begin as an abstract honor -- it began with specific, remembered people doing specific, remembered things, a pattern every later level in this topic will keep testing new figures against.",
+      "hint": "Consider what kind of details -- vague or specific -- this level has actually given about each apostle.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:8",
+          "quote": "you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth"
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-008",
+      "topic": "saints",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 985,
+      "prompt": "Tradition holds that the Apostle Mark founded the church in ____, Egypt, becoming its first bishop and adding yet another city to the apostles' rapidly spreading reach.",
+      "correctAnswer": "Alexandria",
+      "acceptedAnswers": [
+        "Alexandria"
+      ],
+      "explanation": "Alexandria becomes one of the ancient world's great centers of Christian learning -- a legacy traceable back to this one apostle's documented founding mission.",
+      "hint": "This Egyptian city later becomes a major center of Christian theological learning.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 5:13",
+          "quote": "She who is in Babylon, chosen together with you, sends you greeting, as does Mark, my son."
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-009",
+      "topic": "saints",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: John, exiled to the island of Patmos but not killed there, is remembered as the sole exception among the Twelve to die of natural causes.",
+      "correctAnswer": true,
+      "explanation": "True. Every other apostle's traditional death is violent; John alone lived to old age in Ephesus -- a real, notable exception this level asks a learner to hold onto, since it will matter again when this topic reaches the age of the Roman martyrs next.",
+      "hint": "Every other apostle's traditional death is violent; this one's is not.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 1:9",
+          "quote": "I found myself on the island called Patmos because I proclaimed God's word and gave testimony to Jesus."
+        }
+      ]
+    },
+    {
+      "id": "saints-l2-010",
+      "topic": "saints",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Given everything this level has shown about the apostles, what does the next level in this topic turn to?",
+      "choices": [
+        "The first martyr outside the Twelve themselves -- Stephen -- and the earliest post-apostolic witnesses who followed his example",
+        "A complete jump forward to the medieval monastic founders, skipping the earliest centuries entirely",
+        "A return to material this level has already fully covered, with nothing new added",
+        "A subject with no real connection to anything covered in this level"
+      ],
+      "correctAnswer": "The first martyr outside the Twelve themselves -- Stephen -- and the earliest post-apostolic witnesses who followed his example",
+      "explanation": "The apostles are the first generation; the next level moves to the very next name in the Church's own memory of its earliest saints -- Stephen, a deacon rather than an apostle, showing sainthood was never limited to the Twelve alone.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 7:54-60",
+          "quote": "Then he fell to his knees and cried out in a loud voice, 'Lord, do not hold this sin against them'; and when he said this, he fell asleep."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-001",
+      "topic": "saints",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "The first Christian martyr, stoned to death for professing Christ before the Sanhedrin, was ____, one of the Church's first seven deacons.",
+      "correctAnswer": "Stephen",
+      "acceptedAnswers": [
+        "Stephen"
+      ],
+      "explanation": "Stephen's death opens the age of martyrdom that will mark the Church's first three centuries -- the pattern this whole topic keeps tracing from here forward.",
+      "hint": "This deacon's stoning is described in the Acts of the Apostles, chapter 7.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 7:54-60",
+          "quote": "Then he fell to his knees and cried out in a loud voice, 'Lord, do not hold this sin against them'; and when he said this, he fell asleep."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-002",
+      "topic": "saints",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Stephen prayed for forgiveness for the very people stoning him, even as he was dying.",
+      "correctAnswer": true,
+      "explanation": "True. Stephen's dying prayer -- 'Lord, do not hold this sin against them' -- deliberately echoes Christ's own words from the cross, making his martyrdom the first visible imitation of Christ's own self-giving death.",
+      "hint": "His last words deliberately echo something Christ himself said while dying.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 7:54-60",
+          "quote": "Then he fell to his knees and cried out in a loud voice, 'Lord, do not hold this sin against them'; and when he said this, he fell asleep."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-003",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "What does the Church teach is the ultimate meaning of a martyr's death?",
+      "choices": [
+        "A supreme witness to the truth of the faith",
+        "A guarantee of intercessory power",
+        "A requirement for canonization",
+        "A form of penance for personal sin"
+      ],
+      "correctAnswer": "A supreme witness to the truth of the faith",
+      "explanation": "The Church has always honored martyrdom as the greatest act of witness a Christian can offer, enduring death itself rather than deny Christ -- exactly what Stephen, and most of the apostles before him, already modeled.",
+      "hint": "The Greek root of 'martyr' literally means 'witness' -- witness to what, exactly?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-004",
+      "topic": "saints",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "According to Acts, Stephen was one of the first seven ____ -- men chosen by the apostles to serve the community's practical needs, especially care for widows.",
+      "correctAnswer": "deacons",
+      "acceptedAnswers": [
+        "deacons"
+      ],
+      "explanation": "Stephen's role shows sainthood is never only about dramatic death -- his ordinary, practical service to the community came first, and his martyrdom crowned a life already given to others.",
+      "hint": "This ordained office still exists in the Church today, assisting bishops and priests.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 6:1-6",
+          "quote": "they should select from among you seven reputable men, filled with the Spirit and wisdom, whom we shall appoint to this task"
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-005",
+      "topic": "saints",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Roman persecution of Christians in this early period was a single, continuous policy enforced uniformly across the whole empire.",
+      "correctAnswer": false,
+      "explanation": "False. Persecution was sporadic and regional for most of this period -- intense under some emperors, absent under others -- which is part of why the individual martyrs the next level covers each have their own specific, documented story rather than one uniform account.",
+      "hint": "Ask whether every Roman emperor in this period actively persecuted Christians.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-006",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "St. Ignatius of Antioch, a bishop writing en route to his own martyrdom around 107 AD, is one of the earliest post-apostolic witnesses. What did he write on his way to death in Rome?",
+      "choices": [
+        "A series of letters to churches along his route, some of the earliest Christian writing outside the New Testament",
+        "A complete and entirely new Gospel account that had never before been recorded by anyone at all",
+        "A formal written legal defense document intended specifically to help win his own release",
+        "A technical theological treatise on the mathematics underlying the official Roman civil calendar"
+      ],
+      "correctAnswer": "A series of letters to churches along his route, some of the earliest Christian writing outside the New Testament",
+      "explanation": "Ignatius's letters -- written under guard, expecting death -- are treasured both for what they reveal about the earliest Church's structure and for the calm, even eager, faith of a man walking toward martyrdom with his eyes open.",
+      "hint": "These documents are treasured for what they reveal about the Church only decades after the apostles.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans",
+          "quote": "Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-007",
+      "topic": "saints",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each figure of this level to what makes him one of the Church's earliest post-apostolic saints.",
+      "pairs": [
+        {
+          "left": "Stephen",
+          "right": "The Church's first martyr, one of the first seven deacons"
+        },
+        {
+          "left": "St. Ignatius of Antioch",
+          "right": "A bishop who wrote letters on his way to martyrdom, c. 107 AD"
+        },
+        {
+          "left": "St. Polycarp of Smyrna",
+          "right": "A disciple of the Apostle John, martyred in old age"
+        },
+        {
+          "left": "Roman persecution generally",
+          "right": "Real but sporadic, not one uniform empire-wide policy"
+        }
+      ],
+      "explanation": "This level's figures form a bridge: Stephen and Ignatius stand close to the apostolic generation itself, while the next level's Roman martyrs -- Agnes, Lawrence, Sebastian, Perpetua and Felicity -- belong to a slightly later, better-documented era.",
+      "hint": "Two of these are individual martyrs; one names the political situation they lived under.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-008",
+      "topic": "saints",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: St. Polycarp of Smyrna, martyred in old age, was personally a disciple of the Apostle John.",
+      "correctAnswer": true,
+      "explanation": "True. Polycarp's own life forms a direct, documented link between the apostolic generation and the wider Church across the early second century -- he had actually known an apostle, and was himself martyred decades later.",
+      "hint": "This link makes Polycarp a living bridge between the Twelve and the wider early Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-009",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Taken together, what do Stephen, Ignatius, and Polycarp establish about sainthood in the generation right after the apostles?",
+      "choices": [
+        "That the pattern of real, costly witness the apostles set did not end with them -- it continued in named, documented individuals",
+        "That sainthood, in practice, effectively stopped altogether once the apostles themselves had died",
+        "That only ordained bishops specifically could be recognized as saints in this early period",
+        "That the martyrdom accounts surviving from this period are entirely legendary, with no historical basis"
+      ],
+      "correctAnswer": "That the pattern of real, costly witness the apostles set did not end with them -- it continued in named, documented individuals",
+      "explanation": "This is the thread the next several levels will keep pulling on: sainthood as a living, continuing pattern, not a one-time apostolic phenomenon that simply stopped.",
+      "hint": "Consider whether the level's three named figures suggest an ending or a continuation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l3-010",
+      "topic": "saints",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Given this level's bridge from the apostles into the second century, what does the next level in this topic turn to?",
+      "choices": [
+        "The better-documented age of the Roman martyrs -- Agnes, Lawrence, Sebastian, Perpetua and Felicity",
+        "A complete jump forward to the medieval monastic founders, skipping several centuries entirely",
+        "A return to the apostles themselves, with no new figures introduced",
+        "A subject entirely unrelated to martyrdom or witness of any kind"
+      ],
+      "correctAnswer": "The better-documented age of the Roman martyrs -- Agnes, Lawrence, Sebastian, Perpetua and Felicity",
+      "explanation": "The next level moves into the third and fourth centuries, where individual martyrdom accounts become significantly more detailed and better attested -- named saints whose specific stories, not just their names, have come down to us.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    }
+  ]
+}
