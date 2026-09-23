@@ -1,0 +1,706 @@
+{
+  "_comment": "DRAFT -- NOT live. Saints levels 4-6 of 23: level 4 is the old live level 2 (the age of the Roman martyrs -- Agnes, Cecilia, Lawrence, Sebastian, Perpetua and Felicity, Agatha) verbatim, renumbered and re-seeded. Level 5 is new (the Desert Fathers -- Anthony of Egypt, Pachomius, eremitic vs. cenobitic monasticism). Level 6 is new (Augustine, Jerome, Ambrose, and Monica as Doctors/saints of learning and prayer rather than martyrdom). CCC 30/116/922/2444/2473/2684, Matthew 4:1-2/19:21, and church_father citations already reviewed are reused throughout; other Scripture references are new and flagged by onramp_tool.py check.",
+  "topic": "saints",
+  "questions": [
+    {
+      "id": "saints-l4-001",
+      "topic": "saints",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "St. Agnes of Rome, martyred as a young girl around 304 AD, is honored by the Church as a model of what commitment?",
+      "choices": [
+        "Consecrated virginity offered to Christ",
+        "Religious obedience to a monastic rule",
+        "Missionary service in a foreign land",
+        "Care for the sick and dying"
+      ],
+      "correctAnswer": "Consecrated virginity offered to Christ",
+      "explanation": "Agnes refused marriage and death threats alike rather than break her consecration to Christ -- the Church still holds up virgins who give their whole lives to God in this way.",
+      "hint": "She refused marriage, choosing to belong only to Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 922",
+          "quote": "Christian virgins and widows, called by the Lord to cling only to him with greater freedom of heart, body, and spirit, have decided with the Church's approval to live in the respective states of virginity or perpetual chastity 'for the sake of the Kingdom of heaven.'"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Ambrose of Milan, De Virginibus"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-002",
+      "topic": "saints",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: St. Cecilia, patroness of music, died peacefully of old age surrounded by her family.",
+      "correctAnswer": false,
+      "explanation": "Cecilia was a virgin martyr, put to death for her faith -- tradition holds she sang to God in her heart even during her own wedding, but her death, like Agnes's, came by martyrdom, not old age.",
+      "hint": "She's honored as a martyr, not someone who lived to old age.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-003",
+      "topic": "saints",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "St. Lawrence, a deacon of Rome martyred in 258 AD, was ordered by the prefect to hand over the 'treasures of the Church.' What did he present instead?",
+      "choices": [
+        "The poor of Rome",
+        "The Church's gold and silver vessels",
+        "The imperial guard",
+        "A list of catechumens"
+      ],
+      "correctAnswer": "The poor of Rome",
+      "explanation": "Lawrence gathered the poor, the sick, and the suffering he served and presented them as the Church's true treasure -- a story the Church still tells to teach that love of the poor is inseparable from the Gospel.",
+      "hint": "As a deacon, his daily work was caring for exactly this group.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Ambrose of Milan, De Officiis"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-004",
+      "topic": "saints",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "St. Sebastian, a Roman soldier martyred for his faith, is often depicted in art pierced by ____, the wounds he miraculously survived before his eventual death.",
+      "correctAnswer": "arrows",
+      "explanation": "Sebastian survived being shot with arrows and nursed back to health, only to confront the emperor again and be martyred by clubbing -- his first, non-fatal ordeal is what artists most often depict.",
+      "hint": "This is the weapon artists always show piercing his body.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-005",
+      "topic": "saints",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each early martyr to the fact they are remembered for.",
+      "pairs": [
+        {
+          "left": "St. Agnes",
+          "right": "Young virgin martyr, patroness of purity"
+        },
+        {
+          "left": "St. Cecilia",
+          "right": "Virgin martyr, patroness of music"
+        },
+        {
+          "left": "St. Lawrence",
+          "right": "Deacon martyr who called the poor the Church's treasure"
+        },
+        {
+          "left": "St. Agatha",
+          "right": "Virgin martyr of Sicily, invoked against fire"
+        }
+      ],
+      "explanation": "These early martyrs, all venerated since the Church's first centuries, show that holiness in the age of persecution was often young, poor, and female -- not what Roman society expected of a hero.",
+      "hint": "One was a deacon; the other three were young women who refused marriage.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-006",
+      "topic": "saints",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: Early virgin martyrs like Agnes and Agatha were particularly striking witnesses in the early Church because they chose martyrdom in their youth over renouncing Christ.",
+      "correctAnswer": true,
+      "explanation": "Part of what made their witness so striking was precisely their youth -- girls in their early teens who chose death over renouncing their consecration to Christ.",
+      "hint": "Think about how young these particular martyrs were.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-007",
+      "topic": "saints",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "St. Perpetua and St. Felicity, martyred together at Carthage around 203 AD, are notable for what specific reason?",
+      "choices": [
+        "A noblewoman and her slave, martyred side by side as equals in the arena, with Perpetua's own prison diary surviving as an eyewitness account",
+        "They were martyred a full century apart from one another, and are known to have never actually met",
+        "Only Perpetua's own death is historically documented in any real detail; Felicity is purely a later legendary addition",
+        "They were martyred for what was, in fact, a purely political charge entirely unrelated to their own Christian faith"
+      ],
+      "correctAnswer": "A noblewoman and her slave, martyred side by side as equals in the arena, with Perpetua's own prison diary surviving as an eyewitness account",
+      "explanation": "The social barrier between a Roman noblewoman and her slave, otherwise absolute, is dissolved entirely in their shared martyrdom — and Perpetua's own account, written in prison before her death, is one of the earliest surviving texts by a Christian woman.",
+      "hint": "Notice what social distinction their shared death completely erased.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-008",
+      "topic": "saints",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: St. Lawrence's martyrdom account describes him presenting the poor to the Roman prefect as 'the treasures of the Church' when ordered to hand over the Church's wealth.",
+      "correctAnswer": true,
+      "explanation": "True, and the story's point is theological as much as historical: it names where the Church's real wealth actually lies, against a Roman official's assumption that 'treasure' meant gold and silver.",
+      "hint": "Ask what the prefect expected to be handed over, and what Lawrence handed over instead.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-009",
+      "topic": "saints",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "St. Agnes of Rome, martyred as a young girl around 304 AD, is traditionally depicted with a ____ as her symbol, a play on her name's resemblance to the Latin word for that animal.",
+      "correctAnswer": "lamb",
+      "explanation": "'Agnes' resembles the Latin 'agnus,' lamb — and the lamb also evokes her innocence and her following of Christ, the Lamb of God, to death at a very young age.",
+      "hint": "Her name sounds like the Latin word for this animal, which also symbolizes Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        }
+      ]
+    },
+    {
+      "id": "saints-l4-010",
+      "topic": "saints",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each early martyr to what they are remembered for.",
+      "pairs": [
+        {
+          "left": "Perpetua and Felicity",
+          "right": "Noblewoman and slave martyred together as equals"
+        },
+        {
+          "left": "St. Lawrence",
+          "right": "Presenting the poor as the Church's true treasures"
+        },
+        {
+          "left": "St. Agnes",
+          "right": "A young girl martyred, symbolized by a lamb"
+        },
+        {
+          "left": "St. Sebastian",
+          "right": "A Roman soldier martyred, depicted pierced by arrows"
+        }
+      ],
+      "explanation": "Each of these accounts does real theological work beyond simply recording a death: dissolving a social barrier, redefining treasure, or embodying innocence — the details survive because they carry meaning, not merely as historical trivia.",
+      "hint": "Ask what point, beyond the bare fact of death, each account is actually making.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-001",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "St. Anthony of Egypt, called the father of Christian monasticism, is traditionally said to have withdrawn into the desert after hearing which Gospel passage read at Mass?",
+      "choices": [
+        "\"If you wish to be perfect, go, sell what you have and give to the poor... then come, follow me\"",
+        "\"Love your enemies and pray sincerely and constantly for those who persecute you\"",
+        "\"Let the little children come freely to me, and do not ever try to stop them\"",
+        "\"Go, therefore, and make disciples of every single nation on the whole earth\""
+      ],
+      "correctAnswer": "\"If you wish to be perfect, go, sell what you have and give to the poor... then come, follow me\"",
+      "explanation": "Hearing this passage, Anthony gave away his inheritance and withdrew into the Egyptian desert -- the beginning of a movement of Desert Fathers that would shape all later Christian monasticism.",
+      "hint": "This is the same command a rich young man in the Gospels could not bring himself to obey.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-002",
+      "topic": "saints",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Anthony's decades alone in the desert are traditionally described as including severe spiritual struggles, often depicted in later Christian art as demonic assaults.",
+      "correctAnswer": true,
+      "explanation": "True. Accounts of Anthony's life describe fierce interior and even physical trials in his solitude -- struggles later artists loved to depict, and which the Church reads as a real spiritual battle, not mere legend for its own sake.",
+      "hint": "This is a famous subject in later Christian religious art.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-003",
+      "topic": "saints",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "Anthony and the many who followed his example into the Egyptian wilderness became known to history as the ____ Fathers.",
+      "correctAnswer": "Desert",
+      "acceptedAnswers": [
+        "Desert"
+      ],
+      "explanation": "What began as one man's personal choice to withdraw became a real, lasting movement -- other men and women followed Anthony's example in growing numbers, giving the whole movement its name.",
+      "hint": "The specific landscape these monks withdrew into gives the whole movement its name.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-004",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "St. Pachomius, unlike Anthony's largely solitary life, founded a different kind of monastic life -- organized communities living, praying, and working together. What is this style of monastic life called?",
+      "choices": [
+        "Cenobitic monasticism",
+        "Eremitic monasticism",
+        "Itinerant monasticism",
+        "Mendicant monasticism"
+      ],
+      "correctAnswer": "Cenobitic monasticism",
+      "explanation": "'Cenobitic,' from the Greek for 'common life,' names monks living together under a shared rule and superior -- distinct from the largely solitary 'eremitic' life Anthony himself practiced. Both forms shape monasticism for centuries afterward.",
+      "hint": "The word comes from the Greek for 'common life' -- monks living, not alone, but together.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-005",
+      "topic": "saints",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Anthony's example inspired only a handful of imitators, remaining a small, obscure practice with little lasting influence.",
+      "correctAnswer": false,
+      "explanation": "False. Anthony's withdrawal inspired a genuinely large movement -- thousands of men and women eventually populated the Egyptian desert, and the movement's influence reaches all the way to Benedict's Western monasticism several levels ahead in this topic.",
+      "hint": "Consider how far this movement's later influence reaches, several levels ahead in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-006",
+      "topic": "saints",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each term or figure of this level to what it involved.",
+      "pairs": [
+        {
+          "left": "St. Anthony of Egypt",
+          "right": "Father of monasticism, living largely alone in the desert"
+        },
+        {
+          "left": "St. Pachomius",
+          "right": "Founded organized, communal monastic life"
+        },
+        {
+          "left": "Eremitic monasticism",
+          "right": "A largely solitary form of monastic life"
+        },
+        {
+          "left": "Cenobitic monasticism",
+          "right": "Monks living, praying, and working together in community"
+        }
+      ],
+      "explanation": "These two real forms of monastic life -- solitary and communal -- both trace back to this same desert movement, and both will reappear when this topic reaches Benedict's own Western synthesis of the two.",
+      "hint": "Two rows name individual founders; two name the styles of monastic life they founded.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-007",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Why does the desert itself carry special spiritual meaning for these early monks, beyond simply being an isolated place?",
+      "choices": [
+        "It echoes Israel's forty years in the wilderness and Christ's own forty days of fasting and temptation -- a place of real testing and encounter with God",
+        "It was chosen purely for its notably comfortable climate and its unusually abundant natural resources",
+        "It had no particular spiritual meaning at all to these monks; any remote location whatsoever would have served just as well",
+        "It was, at the time, the one and only location anywhere in the Roman Empire where Christianity remained legal"
+      ],
+      "correctAnswer": "It echoes Israel's forty years in the wilderness and Christ's own forty days of fasting and temptation -- a place of real testing and encounter with God",
+      "explanation": "The desert is never just empty space in Scripture -- it is where Israel is tested and formed, and where Christ himself is tempted before beginning his public ministry. The Desert Fathers deliberately follow both of these patterns.",
+      "hint": "Recall Israel's own forty years, and Christ's own forty days, in a similar setting.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 4:1-2",
+          "quote": "Then Jesus was led by the Spirit into the desert to be tempted by the devil. He fasted for forty days and forty nights"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-008",
+      "topic": "saints",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The sayings and short stories of the Desert Fathers, collected and passed down, have their own lasting collection known as the Apophthegmata Patrum.",
+      "correctAnswer": true,
+      "explanation": "True. These collected sayings -- brief, often startling in their directness -- preserved the desert monks' hard-won wisdom for generations of Christians who would never themselves see the Egyptian wilderness.",
+      "hint": "This Greek term simply means 'sayings of the fathers.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-009",
+      "topic": "saints",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "Christ himself, before beginning his public ministry, spent forty days fasting in the ____, tempted by the devil -- the same setting the Desert Fathers deliberately sought out centuries later.",
+      "correctAnswer": "desert",
+      "acceptedAnswers": [
+        "desert",
+        "wilderness"
+      ],
+      "explanation": "The Desert Fathers were not inventing a spiritual practice from nothing -- they were deliberately following Christ's own pattern into the same kind of place.",
+      "hint": "The same setting this level's own name identifies.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 4:1-2",
+          "quote": "Then Jesus was led by the Spirit into the desert to be tempted by the devil. He fasted for forty days and forty nights"
+        }
+      ]
+    },
+    {
+      "id": "saints-l5-010",
+      "topic": "saints",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Given this level's picture of monastic sainthood taking root, what does the next level in this topic turn to?",
+      "choices": [
+        "Doctors of the early Church -- Augustine, Jerome, Ambrose -- holy through learning and teaching, not martyrdom or the desert",
+        "A complete and total jump forward to the modern era, skipping over roughly a thousand years of saints",
+        "A simple repeat of this same level's own material, with no genuinely new figures introduced at all",
+        "A subject entirely and completely unrelated to holiness or sainthood of any kind whatsoever"
+      ],
+      "correctAnswer": "Doctors of the early Church -- Augustine, Jerome, Ambrose -- holy through learning and teaching, not martyrdom or the desert",
+      "explanation": "This level has shown sainthood lived out in radical withdrawal; the next level shows it lived out in the opposite direction -- deep engagement with learning, preaching, and the Church's public intellectual life, a different but equally real path to holiness.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-001",
+      "topic": "saints",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "St. Augustine of Hippo's Confessions, describing his own long and difficult conversion, opens with a famous line about the human heart. What does it say?",
+      "choices": [
+        "\"You have made us for yourself, O Lord, and our heart is restless until it rests in you\"",
+        "\"I think, therefore I am,\" a much later philosophical formulation",
+        "\"The unexamined life is not worth living,\" attributed to an ancient Greek philosopher",
+        "\"Love, and do what you will,\" a separate line from one of Augustine's own other works"
+      ],
+      "correctAnswer": "\"You have made us for yourself, O Lord, and our heart is restless until it rests in you\"",
+      "explanation": "Augustine's own restlessness -- years spent chasing worldly ambition and pleasure before his conversion -- is exactly what makes his eventual sainthood so instructive: real holiness sometimes begins with real, extended searching, not instant certainty.",
+      "hint": "This line names a condition of the heart that only rest in God can resolve.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-002",
+      "topic": "saints",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: Augustine lived a genuinely wayward youth, far from Christian faith, before his eventual conversion in his thirties.",
+      "correctAnswer": true,
+      "explanation": "True. Augustine pursued worldly ambition and a philosophy he later rejected before his conversion -- his own mother, Monica, prayed for him for years, a real and difficult path to sainthood, not an easy or immediate one.",
+      "hint": "Consider how long, and how difficult, his own path to conversion actually was.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-003",
+      "topic": "saints",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "St. Ambrose of Milan baptized the future Doctor of the Church St. ____ of Hippo in 387 AD, after years of preaching that helped bring about his conversion.",
+      "correctAnswer": "Augustine",
+      "acceptedAnswers": [
+        "Augustine"
+      ],
+      "explanation": "Ambrose's own preaching is what finally reached the restless heart Augustine describes in his Confessions -- one bishop's influence reshaping the whole future of Western theology.",
+      "hint": "Ambrose's preaching wins over the author of the Confessions.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-004",
+      "topic": "saints",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "St. Jerome's greatest labor was the Vulgate, his Latin translation of the Bible. What made his approach to the Old Testament distinctive, and controversial in his own day?",
+      "choices": [
+        "He translated it directly from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+        "He translated the entire Old Testament directly from the Latin language back into ancient Greek",
+        "He worked entirely and exclusively from the Greek Septuagint, consulting no other original source",
+        "He produced, as part of this same major translation project, the very first vernacular Bible translation in history"
+      ],
+      "correctAnswer": "He translated it directly from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+      "explanation": "Even two of this level's own saints could disagree openly: Augustine worried departing from the familiar Septuagint would unsettle ordinary Christians; Jerome went to the Hebrew text anyway. Sainthood, this level keeps showing, never meant uniform agreement.",
+      "hint": "The controversy concerned which original language he translated the Old Testament from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Jerome, Prologues to the Vulgate"
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-005",
+      "topic": "saints",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: Jerome and Augustine, though both later recognized as saints and Doctors of the Church, disagreed openly and directly on a real question of biblical translation.",
+      "correctAnswer": true,
+      "explanation": "True. Their disagreement over translating from Hebrew versus the Septuagint is real and documented -- a useful reminder that sainthood recognizes a life of heroic holiness, not a record of never disagreeing with another saint.",
+      "hint": "Recall the translation dispute the previous question just described.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-006",
+      "topic": "saints",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each Doctor of the early Church to what makes him one of this level's saints.",
+      "pairs": [
+        {
+          "left": "St. Augustine of Hippo",
+          "right": "A wayward youth followed by a famous, difficult conversion"
+        },
+        {
+          "left": "St. Ambrose of Milan",
+          "right": "Preached and baptized Augustine into the faith"
+        },
+        {
+          "left": "St. Jerome",
+          "right": "Translated the Vulgate directly from the Hebrew, against real opposition"
+        },
+        {
+          "left": "St. Monica",
+          "right": "Augustine's mother, who prayed for his conversion for years"
+        }
+      ],
+      "explanation": "None of these four paths to sainthood involved martyrdom or the desert -- learning, preaching, translation, and years of persistent prayer are shown here as their own real, different routes to the same recognized holiness.",
+      "hint": "One is a mother's persistence; the others are a convert, a preacher, and a translator.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-007",
+      "topic": "saints",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "What do Augustine, Jerome, and Ambrose have in common that distinguishes their path to sainthood from the martyrs and Desert Fathers this topic has already covered?",
+      "choices": [
+        "Their holiness is expressed chiefly through learning, preaching, and writing rather than martyrdom or monastic withdrawal",
+        "All three were martyred for their faith, in exactly the same way as the saints of level 4",
+        "All three withdrew permanently into the desert, in exactly the same way as the saints of level 5",
+        "None of these three men are, in fact, actually recognized by the Church as saints today"
+      ],
+      "correctAnswer": "Their holiness is expressed chiefly through learning, preaching, and writing rather than martyrdom or monastic withdrawal",
+      "explanation": "This level is deliberately not another martyrdom account or another desert-withdrawal story -- it shows sainthood taking a third real shape, intellectual and pastoral engagement with the Church's own public life.",
+      "hint": "Compare this level's saints to the very different paths levels 4 and 5 just covered.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-008",
+      "topic": "saints",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Church's recognition of Augustine, Jerome, and Ambrose as saints came only much later, with no early sense that they were exceptionally holy figures.",
+      "correctAnswer": false,
+      "explanation": "False. All three were recognized as figures of major holiness and learning within their own lifetimes and immediately afterward -- their eventual formal title of Doctor of the Church, centuries later, confirmed a recognition that was already widespread and immediate.",
+      "hint": "Consider whether their reputations for holiness and learning were a later invention, or already present in their own time.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-009",
+      "topic": "saints",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "Augustine's own mother, St. ____, prayed for his conversion for years before finally seeing it happen -- her own persistence later recognized as a real path of sainthood in itself.",
+      "correctAnswer": "Monica",
+      "acceptedAnswers": [
+        "Monica"
+      ],
+      "explanation": "Monica's sainthood is not built on a single dramatic act but on sustained, patient prayer over years -- a real and different shape of holiness this level is careful to include alongside the more famous men it covers.",
+      "hint": "This saint is remembered above all for her patient, years-long prayer for her son.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "saints-l6-010",
+      "topic": "saints",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Given this level's three very different paths to holiness -- monastic withdrawal, martyrdom, and now learning and preaching -- what does the next level in this topic add?",
+      "choices": [
+        "St. Benedict of Nursia, whose Rule brings monastic life west and gives it a lasting organized form",
+        "A complete and sudden jump to modern-day saints, skipping over roughly a thousand years entirely",
+        "A simple return to material that earlier levels in this topic have already fully covered",
+        "A subject bearing no real connection whatsoever to holiness or sainthood of any kind"
+      ],
+      "correctAnswer": "St. Benedict of Nursia, whose Rule brings monastic life west and gives it a lasting organized form",
+      "explanation": "The next level returns to monasticism, but in its Western, organized form -- Benedict's Rule, balancing prayer and work, becomes the template Western monastic sainthood follows for the rest of this topic's medieval levels.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    }
+  ]
+}
