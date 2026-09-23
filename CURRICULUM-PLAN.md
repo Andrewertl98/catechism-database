@@ -462,8 +462,60 @@ closes with a new capstone.
 | 20 | Philosophical schools within Catholic orthodoxy -- Thomism, Scotism, and more `[L9]` | 19 |
 | 21 | Capstone: metaphysics as the real study of what's actually real beneath appearances `[NEW]` | 20 |
 
-Metaphysics goes next, since it is hard-gated and its live bank is
-already close to a real conceptual order.
+**Done, Sep 23, 2026: Metaphysics (21 levels), following Church History,
+the Old Testament, Saints, Councils, Heresies, and Dogmas-and-doctrine.**
+Drafted, verified, committed. Opens with three new foundational levels
+(what metaphysics asks, non-contradiction, causality) below the old
+bank's easiest content, resequences the old bank's 9 levels by real
+conceptual difficulty with a new bridging level after most of them, and
+closes with a new capstone naming metaphysics as the real study of what
+is actually real beneath appearances.
+
+---
+
+## Worked example -- Apologetics, 23 levels (N=10 -> 2*10+3=23)
+
+Apologetics is scenario-based by design (per Andrew's own confirmed
+standard), and its live bank is already unusually mature and well
+sequenced -- basic definitions, Creed objections, sola scriptura,
+historical/scientific objections, ecumenism, motives of credibility
+with real multi-turn dialogue mechanics, more advanced dialogues,
+classical-versus-cumulative-case method (already cross-linking to
+Metaphysics), Newman's illative sense (already cross-linking to Church
+History, Saints, and Metaphysics), and a real capstone tying the whole
+topic together around 1 Peter 3:15. The journey below keeps that real
+order intact, adding three new gentler foundational levels below the
+current floor and a new bridging level after each old level, deepening
+or extending its real content rather than repeating it.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is a real objection, and how should a Catholic actually respond to one? `[NEW]` | nothing assumed |
+| 2 | The three real stages of apologetics -- listening, understanding, answering `[NEW]` | 1 |
+| 3 | Why apologetics matters even for non-scholars -- an ordinary Catholic's own real calling `[NEW]` | 2 |
+| 4 | Faith and reason as real partners; apologetics' own real definition and proper goal `[L1]` | 3 |
+| 5 | Real objections to the Creed's most basic claims, before the fuller defense ahead `[NEW bridging]` | 4 |
+| 6 | Defending the Creed -- the Trinity, the Resurrection, the virgin birth `[L2]` | 5 |
+| 7 | What makes a real objection actually land, versus answering a mere caricature `[NEW bridging]` | 6 |
+| 8 | Sola scriptura, and Scripture and Tradition together `[L3]` | 7 |
+| 9 | Applying Scripture and Tradition to a genuinely new real moral question `[NEW bridging]` | 8 |
+| 10 | Historical and scientific objections -- the canon, Constantine, evolution, evil `[L4]` | 9 |
+| 11 | The real difference between "science can't settle this" and "this is therefore false" `[NEW bridging]` | 10 |
+| 12 | Ecumenism and interreligious dialogue `[L5]` | 11 |
+| 13 | Real dialogue held together with real truth, never collapsing into relativism `[NEW bridging]` | 12 |
+| 14 | Motives of credibility, the bibliographical test, and real dialogue with Islam `[L6]` | 13 |
+| 15 | Applying the bibliographical test to a fresh, real historical case `[NEW bridging]` | 14 |
+| 16 | Advanced real dialogue -- Protestant objections, the canon, persuasion's real stages `[L7]` | 15 |
+| 17 | Recognizing when a real conversation has actually reached its real limit `[NEW bridging]` | 16 |
+| 18 | Classical versus cumulative-case apologetics, connecting to Metaphysics `[L8]` | 17 |
+| 19 | Why the Church permits both real approaches without any real contradiction `[NEW bridging]` | 18 |
+| 20 | Newman's illative sense and the full cumulative case, drawing on Church History, Saints, and Metaphysics `[L9]` | 19 |
+| 21 | Building a real cumulative case of your own, step by step `[NEW bridging]` | 20 |
+| 22 | Capstone: 1 Peter 3:15, gentleness and respect, tying this whole topic together `[L10]` | 21 |
+| 23 | Capstone: apologetics as a real act of love, not conquest `[NEW]` | 22 |
+
+Apologetics goes next, since it is hard-gated and its live bank is
+already the most mature and well-sequenced of any remaining topic.
 
 ---
 
