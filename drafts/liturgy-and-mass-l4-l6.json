@@ -1,0 +1,702 @@
+{
+  "_comment": "Liturgy-and-mass levels 4-6: basic vocabulary/structure, why two main parts deepened, Liturgy of the Word",
+  "topic": "liturgy-and-mass",
+  "questions": [
+    {
+      "id": "liturgy-and-mass-l4-001",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Catechism, quoting the Second Vatican Council, calls the Eucharist the 'source and ___' of the Christian life.",
+      "choices": [
+        "Summit",
+        "Beginning",
+        "Center",
+        "Foundation"
+      ],
+      "correctAnswer": "Summit",
+      "explanation": "CCC 1324 quotes Lumen Gentium: the Eucharist is 'the source and summit of the Christian life' -- the wellspring from which grace flows and the high point toward which the Christian life is oriented.",
+      "hint": "It's the same word you'd use for the top of a mountain.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1324",
+          "quote": "The Eucharist is 'the source and summit of the Christian life.'"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Lumen Gentium 11",
+          "quote": "The Eucharist is the source and summit of the Christian life."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-002",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "According to the Catechism, the sacrifice offered at every Mass and the sacrifice Christ offered on Calvary are:",
+      "choices": [
+        "One single sacrifice, offered in a different manner",
+        "Two distinct sacrifices",
+        "Only a memorial with no real sacrifice",
+        "A new sacrifice added to the one at Calvary"
+      ],
+      "correctAnswer": "One single sacrifice, offered in a different manner",
+      "explanation": "CCC 1367, echoing the Council of Trent, teaches 'the victim is one and the same' -- Christ, offered in a bloody manner on the cross and in an unbloody manner in the Mass.",
+      "hint": "The Mass doesn't repeat Calvary -- it makes that one sacrifice present again.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent",
+          "quote": "The victim is one and the same, the same now offering by the ministry of priests, who then offered Himself on the cross, the manner alone of offering being different."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-003",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Second Vatican Council taught that Latin should be entirely abolished from the Mass in the Latin Church.",
+      "correctAnswer": false,
+      "explanation": "Vatican II's Sacrosanctum Concilium actually states that 'the use of the Latin language is to be preserved in the Latin rites,' even while permitting wider use of the vernacular where helpful.",
+      "hint": "The council preserved Latin even while opening the door to more vernacular use.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 36",
+          "quote": "Particular law remaining in force, the use of the Latin language is to be preserved in the Latin rites."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-004",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Mass is divided into two main parts. What are they?",
+      "choices": [
+        "The Liturgy of the Word and the Liturgy of the Eucharist",
+        "The Opening Rite and the Closing Rite",
+        "The Homily and the Sermon",
+        "The Sunday Mass and the Weekday Mass"
+      ],
+      "correctAnswer": "The Liturgy of the Word and the Liturgy of the Eucharist",
+      "explanation": "The Mass forms 'one single act of worship' out of two parts: first Scripture is proclaimed and explained, then the Eucharist itself is celebrated, consecrated, and received.",
+      "hint": "One part centers on Scripture, the other on the Eucharist itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1346",
+          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-005",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: Catholics are only ever obligated to attend Mass on Sundays, never on any other day of the year.",
+      "correctAnswer": false,
+      "explanation": "Beyond Sundays, the Church also designates certain Holy Days of Obligation throughout the year -- such as Christmas -- when Catholics are likewise obligated to attend Mass.",
+      "hint": "There's a whole other category of obligatory Mass days beyond just Sundays.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2042",
+          "quote": "You shall attend Mass on Sundays and holy days of obligation and rest from servile labor."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-006",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The word 'Mass' comes from the Latin dismissal 'Ite, missa est,' roughly meaning 'Go, you are ____.'",
+      "correctAnswer": "sent",
+      "explanation": "The Mass takes its very name from its closing words -- a dismissal that sends the congregation out to live and share what they've just received, not merely to go home.",
+      "hint": "This word is also where English gets 'mission' and 'missionary.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1332",
+          "quote": "Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-007",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "What does the word 'liturgy' itself literally mean?",
+      "choices": [
+        "A public work or service, originally a work done on behalf of and for the people",
+        "A private devotion said alone",
+        "A written text with no performative sense",
+        "A specifically Latin word with no Greek root"
+      ],
+      "correctAnswer": "A public work or service, originally a work done on behalf of and for the people",
+      "explanation": "'Leitourgia' in Greek meant a public work undertaken for the community. The Church adopted the word precisely because the Mass is not a private devotion happening to be witnessed by others \u2014 it is public, communal action from the start.",
+      "hint": "The Greek root concerns something done publicly, for others.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1069"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-008",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Mass is considered complete and valid even if no one besides the priest is present.",
+      "correctAnswer": true,
+      "explanation": "True. A priest may licitly celebrate Mass with no congregation present in certain circumstances, since the Mass's validity rests on Christ's action through the priest, not on attendance numbers \u2014 though the Church still strongly encourages the faithful's presence and participation.",
+      "hint": "Ask what makes the Mass valid: attendance, or the sacramental action itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-009",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "What is the tabernacle, found in every Catholic church?",
+      "choices": [
+        "The receptacle where the consecrated Eucharist is reserved between Masses",
+        "The chair where the priest sits during the readings",
+        "The vessel used to hold holy water at the entrance",
+        "The cloth covering the altar during Mass"
+      ],
+      "correctAnswer": "The receptacle where the consecrated Eucharist is reserved between Masses",
+      "explanation": "The tabernacle's purpose is reservation, chiefly so the Eucharist can be brought to the sick and dying and so the faithful can adore Christ present there outside of Mass \u2014 which is also why a sanctuary lamp burns nearby whenever the Eucharist is reserved.",
+      "hint": "Its purpose concerns what happens to the Eucharist after Mass ends.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1379"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l4-010",
+      "topic": "liturgy-and-mass",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each basic term to what it names.",
+      "pairs": [
+        {
+          "left": "Liturgy",
+          "right": "Public communal worship, not private devotion"
+        },
+        {
+          "left": "Tabernacle",
+          "right": "Where the Eucharist is reserved between Masses"
+        },
+        {
+          "left": "Sanctuary lamp",
+          "right": "Burns to signal the Eucharist is present"
+        },
+        {
+          "left": "Ite, missa est",
+          "right": "The dismissal giving the Mass its name"
+        }
+      ],
+      "explanation": "These four terms are the ones a first-time visitor to a Catholic church would most need explained, and they connect directly: the lamp signals what the tabernacle holds, and the dismissal that names the Mass sends the assembly out to live what the liturgy just did.",
+      "hint": "One signals, one holds, one names, one sends.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1069"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1379"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-001",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The previous level named the Mass's two main parts -- the Liturgy of the Word and the Liturgy of the Eucharist. Why does the Church actually structure the Mass this way, rather than treating both simply as a single, undifferentiated act?",
+      "choices": [
+        "They correspond to two real ways Christ feeds his people -- word and sacrament -- joined into one act",
+        "Because the two-part structure is purely a matter of historical accident, with no real theological reasoning behind it",
+        "Because the Liturgy of the Word is actually optional and could be removed without any real loss",
+        "Because the two parts are actually two entirely separate, unrelated liturgies that happen to occur back to back"
+      ],
+      "correctAnswer": "They correspond to two real ways Christ feeds his people -- word and sacrament -- joined into one act",
+      "explanation": "The Mass's own real two-part structure is not arbitrary -- it reflects two real, distinct ways Christ actually nourishes his people, word and sacrament, joined together into one single, unified real act of worship, neither part optional.",
+      "hint": "Consider what real, distinct kind of nourishment each of the Mass's two main parts actually offers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1346",
+          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-002",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Liturgy of the Word and the Liturgy of the Eucharist are considered two entirely separate, unrelated liturgies rather than one unified act of worship.",
+      "correctAnswer": false,
+      "explanation": "False. Despite their own real, distinct content, both parts together form one single, unified real act of worship -- not two separate liturgies loosely joined, but one coherent whole.",
+      "hint": "Recall this level's own real teaching on why the two parts are actually joined, not merely juxtaposed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1346",
+          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-003",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The Catechism describes the Liturgy of the Word as drawing on 'the writings of the prophets' and 'the memoirs of the apostles.' What does this precise phrase actually indicate about the readings' own real content?",
+      "choices": [
+        "Old and New Testament readings together, spanning the whole of salvation history",
+        "That only the New Testament is actually read at Mass, with the Old Testament entirely excluded",
+        "That only the Gospels are actually read at Mass, with every other book excluded",
+        "That the phrase has no real, specific content, functioning only as vague poetic language"
+      ],
+      "correctAnswer": "Old and New Testament readings together, spanning the whole of salvation history",
+      "explanation": "This precise, real phrase names both real real testaments -- the Old Testament's own prophetic writings and the New Testament's own apostolic witness -- showing the Liturgy of the Word spans the whole of salvation history, not one part of it alone.",
+      "hint": "Consider what real body of writing 'the prophets' and 'the memoirs of the apostles' each actually refer to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349",
+          "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-004",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: This level's own real teaching connects directly to this app's own Old Testament topic, which already showed the Old Testament remains real, permanent Scripture, never revoked by the New Covenant.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this connection matters -- the Liturgy of the Word's own real inclusion of Old Testament readings puts this app's own earlier real teaching directly into weekly, lived practice.",
+      "hint": "Recall this app's own Old Testament topic, and its own real teaching on the Old Testament's permanent, real value.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349",
+          "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-005",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The Catechism calls the Eucharistic Prayer 'the center and summit of the entire celebration.' Given this, why doesn't the Liturgy of the Word simply become optional, if the Liturgy of the Eucharist is actually the real high point?",
+      "choices": [
+        "A real summit still needs a real ascent leading up to it -- the Word prepares the ground the Eucharist is received into",
+        "Because the Liturgy of the Word is actually equally important as the Eucharistic Prayer, with no real distinction between them at all",
+        "Because the Church has never actually explained why both parts remain necessary",
+        "Because the Liturgy of the Word could, in principle, simply be replaced by silence with no real loss"
+      ],
+      "correctAnswer": "A real summit still needs a real ascent leading up to it -- the Word prepares the ground the Eucharist is received into",
+      "explanation": "This level's own real point uses the earlier real image of a summit precisely -- a summit still requires the ascent leading to it; the Liturgy of the Word is that real, necessary ascent, preparing the ground the Eucharist is then received into, not a dispensable preamble.",
+      "hint": "Recall this topic's earlier real image of the Eucharist as a summit, and consider what a real summit actually requires beneath it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352",
+          "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-006",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Because the Eucharistic Prayer is the real center and summit, the Liturgy of the Word can be considered dispensable or optional.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, careful distinction matters -- being the real summit does not make everything leading up to it dispensable; the Liturgy of the Word remains a real, necessary part of the Mass's own single, unified act.",
+      "hint": "Consider whether being the real high point of something actually makes everything leading up to it unnecessary.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352",
+          "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-007",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each fact about the Mass's own two-part structure to what it actually means.",
+      "pairs": [
+        {
+          "left": "Two real, distinct parts",
+          "right": "Correspond to two real ways Christ feeds his people -- word and sacrament"
+        },
+        {
+          "left": "\"The prophets\" and \"the memoirs of the apostles\"",
+          "right": "Old and New Testament readings together, spanning all of salvation history"
+        },
+        {
+          "left": "The Eucharistic Prayer as \"center and summit\"",
+          "right": "Still requires a real, genuine ascent -- the Liturgy of the Word -- leading up to it"
+        },
+        {
+          "left": "Why neither part is dispensable",
+          "right": "Together they form one single, unified real act of worship"
+        }
+      ],
+      "explanation": "These four facts together deepen the previous level's own real teaching, showing exactly why the Mass's own two-part structure is neither arbitrary nor optional in either half.",
+      "hint": "Two rows explain the real structure itself; two explain why neither part can actually be dropped.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352",
+          "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-008",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Having now deepened why the Mass has two main parts, this topic's next level turns to the Liturgy of the Word in its own full, real detail.",
+      "correctAnswer": true,
+      "explanation": "True. Having established why both parts are real and necessary, this topic's next level examines the first of the two, the Liturgy of the Word, in its own full, real detail.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349",
+          "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-009",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What real, general habit has this level added to the previous level's own real teaching on the Mass's basic structure?",
+      "choices": [
+        "Explaining why the Mass's structure exists this way, not just describing it",
+        "Assuming the Mass's own real structure has no real, deeper reasoning behind it at all",
+        "Treating the Mass's two parts as entirely equal, with no real distinction between summit and ascent",
+        "Avoiding any real connection between this level and this topic's own earlier levels"
+      ],
+      "correctAnswer": "Explaining why the Mass's structure exists this way, not just describing it",
+      "explanation": "This level's own real contribution moves from simply naming the Mass's two parts to explaining the real, theological reasoning behind why that structure actually exists -- exactly the kind of real depth this topic's later levels will keep adding.",
+      "hint": "Consider what this level actually added to the previous level's own more basic description.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1346",
+          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l5-010",
+      "topic": "liturgy-and-mass",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Given this level's picture of why the Mass's own two-part structure actually exists, what does the next level in this topic turn to?",
+      "choices": [
+        "The Liturgy of the Word, in its own full, real detail",
+        "A complete repeat of this same level's material about the Mass's two-part structure",
+        "A jump ahead to the liturgical year, skipping over everything in between",
+        "A subject entirely unrelated to the Mass or its own real structure"
+      ],
+      "correctAnswer": "The Liturgy of the Word, in its own full, real detail",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from why the Mass's two parts exist to a full, real, detailed examination of the first of the two.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349",
+          "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-001",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "On a typical Sunday, how many Scripture readings (not counting the Responsorial Psalm) are proclaimed during the Liturgy of the Word?",
+      "choices": [
+        "Three -- an Old Testament reading, a New Testament epistle, and the Gospel",
+        "One -- just the Gospel",
+        "Five -- one from each part of the Bible",
+        "Two -- an epistle and the Gospel only"
+      ],
+      "correctAnswer": "Three -- an Old Testament reading, a New Testament epistle, and the Gospel",
+      "explanation": "Sunday Mass draws readings from across salvation history -- Old Testament, New Testament letter, and Gospel -- woven together with a Responsorial Psalm as the congregation's sung response.",
+      "hint": "Weekdays typically have two readings; Sundays add one more.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349",
+          "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-002",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The congregation stands for the proclamation of the Gospel as a sign of special reverence, since Christ himself is understood to speak in the reading.",
+      "correctAnswer": true,
+      "explanation": "Vatican II's Sacrosanctum Concilium teaches that Christ 'is present in his word, since it is he himself who speaks when the holy scriptures are read in the Church' -- the Gospel receives special honor accordingly.",
+      "hint": "Standing, among the different postures at Mass, marks the readings given the highest honor.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 7",
+          "quote": "He is present in his word, since it is he himself who speaks when the holy scriptures are read in the Church."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-003",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The homily, which follows the Gospel, is 'highly recommended' by Vatican II as part of the liturgy itself, drawing out the meaning of the readings and applying them to Christian ____.",
+      "correctAnswer": "life",
+      "explanation": "The homily isn't an optional add-on speech -- the council explicitly treats it as part of the liturgical action, meant to connect the proclaimed word to the community's actual daily living.",
+      "hint": "It's about applying Scripture to how people actually live day to day.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 52",
+          "quote": "By means of the homily the Mysteries of the Faith and the guiding principles of the Christian life are expounded from the sacred text... the homily, therefore, is to be highly esteemed as part of the Liturgy itself."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-004",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The Creed, recited after the homily on Sundays and solemnities, functions as:",
+      "choices": [
+        "The congregation's communal profession of the Church's faith before the Liturgy of the Eucharist begins",
+        "A private prayer said silently by the priest alone",
+        "An optional hymn that can be replaced with any song",
+        "A prayer said only once a year, at Easter"
+      ],
+      "correctAnswer": "The congregation's communal profession of the Church's faith before the Liturgy of the Eucharist begins",
+      "explanation": "Having just heard God's word proclaimed and explained, the assembly responds by professing together the faith that word calls them to -- a hinge between the two halves of the Mass.",
+      "hint": "It comes right after the homily, as the assembly's shared response to what was just proclaimed.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 67-68",
+          "quote": "That the whole gathered people may respond to the word of God proclaimed in the readings... and confess the great mysteries of the faith... before these mysteries are celebrated in the Eucharist."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-005",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Prayers of the Faithful (Universal Prayer), offered after the Creed, may only ever be said by the priest alone, never by a deacon or lay reader.",
+      "correctAnswer": false,
+      "explanation": "Vatican II restored this 'common prayer' after the Gospel and homily specifically so the people, often through a deacon or lay reader, could exercise their own priestly office by interceding for the Church and the world.",
+      "hint": "This prayer is meant to actively involve the assembly, not just the priest.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 53",
+          "quote": "There is to be restored, after the Gospel and the homily, 'the common prayer' or 'the prayer of the faithful.' By this prayer, in which the people are to take part, intercession will be made for holy Church... and for the salvation of the entire world."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-006",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each part of the Liturgy of the Word to its place or purpose.",
+      "pairs": [
+        {
+          "left": "First Reading",
+          "right": "Usually taken from the Old Testament"
+        },
+        {
+          "left": "Responsorial Psalm",
+          "right": "The congregation's sung response to the first reading"
+        },
+        {
+          "left": "Gospel",
+          "right": "The high point, proclaimed with the assembly standing"
+        },
+        {
+          "left": "Homily",
+          "right": "Explains and applies the readings to the community's life"
+        }
+      ],
+      "explanation": "Each element builds toward the next -- reading, response, the Gospel's high point, and then the homily drawing it all together for the assembly gathered that day.",
+      "hint": "Notice the progression: read, respond, reach the high point, then explain.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349",
+          "quote": "The Liturgy of the Word includes 'the writings of the prophets' -- the Old Testament -- and 'the memoirs of the apostles' -- their letters and the Gospels."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-007",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Why does the Church use a three-year cycle (Years A, B, C) for Sunday Mass readings?",
+      "choices": [
+        "So the faithful hear a much broader portion of Scripture over time, rather than the same limited set of readings every year",
+        "Because the Bible has exactly three sections",
+        "To match the three Synoptic Gospels one per year, with John excluded entirely",
+        "Purely by historical accident, with no intended benefit"
+      ],
+      "correctAnswer": "So the faithful hear a much broader portion of Scripture over time, rather than the same limited set of readings every year",
+      "explanation": "Vatican II specifically called for richer scriptural fare at Mass, and the three-year Sunday cycle (plus a two-year weekday cycle) was designed to deliver on that call \u2014 a concrete structural response to a stated goal, not an arbitrary scheme.",
+      "hint": "Ask what problem a longer reading cycle actually solves compared to a one-year repeat.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-008",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Responsorial Psalm is meant to be a meditative response to the first reading, not merely a musical interlude.",
+      "correctAnswer": true,
+      "explanation": "True. The Psalm is chosen specifically to resonate with the first reading and is meant to help the assembly meditate on the word of God just proclaimed \u2014 treating it as filler between readings misses its actual liturgical function.",
+      "hint": "Ask why this particular Psalm is paired with this particular first reading, rather than being random.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1177"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-009",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The book from which the Gospel is proclaimed at Mass is called the ____, and it is often carried in procession and incensed as a sign of honor.",
+      "correctAnswer": "Evangeliary",
+      "explanation": "The Evangeliary (or Book of the Gospels) is treated with particular reverence \u2014 processed, incensed, sometimes kissed by the deacon or priest \u2014 because it contains Christ's own words in a special way, distinct from the ordinary lectionary used for the other readings.",
+      "hint": "This book is specifically for the Gospel readings alone, distinct from the lectionary used for the other readings.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1154"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l6-010",
+      "topic": "liturgy-and-mass",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each element of the Liturgy of the Word to its purpose.",
+      "pairs": [
+        {
+          "left": "First reading",
+          "right": "Usually from the Old Testament, chosen to resonate with the Gospel"
+        },
+        {
+          "left": "Responsorial Psalm",
+          "right": "A meditative response to the first reading"
+        },
+        {
+          "left": "Second reading",
+          "right": "A semi-continuous reading from the New Testament epistles"
+        },
+        {
+          "left": "Homily",
+          "right": "Highly recommended exposition connecting the readings to life"
+        }
+      ],
+      "explanation": "Notice the different pairing logic: the first reading and Gospel are chosen together to echo each other, while the second reading runs through an epistle more or less continuously across weeks, independent of that day's theme.",
+      "hint": "Three of these are chosen to relate to the day's theme; one runs on its own separate track.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1349"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1154"
+        }
+      ]
+    }
+  ]
+}
