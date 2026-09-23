@@ -1,0 +1,724 @@
+{
+  "_comment": "DRAFT -- NOT live. Church History levels 1-3 of 23 (new on-ramp, per CURRICULUM-PLAN.md): Jesus founding the Church during his earthly ministry, the apostles and where tradition sends them, and how the faith is handed on to the first bishops. The old level 1 (Peter, Pentecost, Council of Jerusalem, martyrdom) becomes new level 4 -- these three levels deliberately end before Pentecost so level 4 still lands as the next real step, not a repeat. Matthew 28:19 (church-latin), CCC 571/631, LG 8/22, and St. Ignatius/St. Irenaeus (church-fathers/dogmas-and-doctrine) are already-reviewed citations reused here; other Scripture references are new and flagged by onramp_tool.py check for translation verification before shipping.",
+  "topic": "church-history",
+  "questions": [
+    {
+      "id": "church-history-l1-001",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "During his earthly ministry, how many men did Jesus choose to be his closest followers, the Apostles?",
+      "choices": [
+        "Twelve",
+        "Seven",
+        "Ten",
+        "Seventy"
+      ],
+      "correctAnswer": "Twelve",
+      "explanation": "Jesus chose twelve, deliberately echoing the twelve tribes of Israel -- a sign that he was gathering and renewing God's people, not starting something with no connection to what came before.",
+      "hint": "The number deliberately echoes the twelve tribes of Israel.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 6:13",
+          "quote": "he called his disciples to himself, and from them he chose Twelve, whom he also named apostles"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-002",
+      "topic": "church-history",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: At the Last Supper, Jesus instituted the Eucharist, commanding the apostles to do this in memory of him.",
+      "correctAnswer": true,
+      "explanation": "True. Jesus took bread and wine, identified them as his body and blood, and commanded his apostles to repeat the action -- the origin of the Mass, celebrated by the Church ever since.",
+      "hint": "This is the same meal the Church still re-enacts at every Mass.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 22:19",
+          "quote": "Then he took the bread, said the blessing, broke it, and gave it to them, saying, 'This is my body, which will be given for you; do this in memory of me.'"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-003",
+      "topic": "church-history",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "Before ascending into heaven, Jesus commanded the apostles: 'Go, therefore, and make disciples of all ____, baptizing them in the name of the Father, and of the Son, and of the holy Spirit.'",
+      "correctAnswer": "nations",
+      "acceptedAnswers": [
+        "nations"
+      ],
+      "explanation": "This command, known as the Great Commission, is why the Church's mission was never meant to stay confined to one people or one land -- it points outward, to the whole world, from the very start.",
+      "hint": "The command is not to one people but to every one of them.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-004",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What happened forty days after Jesus' Resurrection, according to the Gospels and Acts?",
+      "choices": [
+        "He ascended into heaven before his apostles' eyes",
+        "He was crucified a second time",
+        "He returned permanently to ordinary life on earth",
+        "He appeared only to strangers who did not know him"
+      ],
+      "correctAnswer": "He ascended into heaven before his apostles' eyes",
+      "explanation": "The Ascension closes Jesus' visible earthly presence and opens the waiting period the apostles spend together in Jerusalem before Pentecost -- the very next event in the Church's story.",
+      "hint": "This is Jesus' final visible departure, watched by the apostles themselves.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:9",
+          "quote": "When he had said this, as they were looking on, he was lifted up, and a cloud took him from their sight."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-005",
+      "topic": "church-history",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Before ascending, Jesus told his apostles to wait in Jerusalem for the coming of the Holy Spirit.",
+      "correctAnswer": true,
+      "explanation": "True. Jesus told the apostles not to leave Jerusalem but to wait for 'the promise of the Father' -- a waiting period that ends at Pentecost, the Church's next major event.",
+      "hint": "He tells them to wait for something still to come, in the very city they are already in.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:4",
+          "quote": "he ordered them not to leave Jerusalem, but to wait for 'the promise of the Father about which you have heard me speak'"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-006",
+      "topic": "church-history",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each moment in Jesus' ministry to what it established for the Church that would follow.",
+      "pairs": [
+        {
+          "left": "Choosing the Twelve",
+          "right": "A structured leadership echoing the twelve tribes of Israel"
+        },
+        {
+          "left": "The Last Supper",
+          "right": "The Eucharist, repeated at every Mass since"
+        },
+        {
+          "left": "The Great Commission",
+          "right": "A mission sent to every nation, not one people alone"
+        },
+        {
+          "left": "The Ascension",
+          "right": "Jesus' visible presence ends; the wait for the Spirit begins"
+        }
+      ],
+      "explanation": "Before the Church takes any action of its own, Jesus himself lays every piece of its foundation -- leaders, sacrament, mission, and the promise of the Spirit still to come.",
+      "hint": "Each item on the left is something Jesus does; match it to what it sets up for later.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-007",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What does the Catechism say stands at the center of what the apostles, and the Church after them, are sent to proclaim?",
+      "choices": [
+        "The Paschal mystery of Christ's cross and Resurrection",
+        "A set of purely ethical teachings with no reference to Christ",
+        "The political restoration of Israel as a nation",
+        "A private philosophy meant only for a small elite"
+      ],
+      "correctAnswer": "The Paschal mystery of Christ's cross and Resurrection",
+      "explanation": "Everything the apostles will go on to preach, and everything this whole topic will trace across the centuries, radiates outward from this one center: Christ's death and Resurrection.",
+      "hint": "It is the same event the Church still calls the heart of the Gospel.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 571",
+          "quote": "The Paschal mystery of Christ's cross and Resurrection stands at the center of the Good News that the apostles, and the Church following them, are to proclaim to the world."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-008",
+      "topic": "church-history",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Gospels describe the apostles as confident and unshaken throughout Jesus' arrest and crucifixion.",
+      "correctAnswer": false,
+      "explanation": "False. The Gospels are strikingly honest about the apostles' failure -- they scattered, and Peter denied even knowing Jesus three times. That failure makes what happens to them at Pentecost, in the next level, all the more remarkable.",
+      "hint": "Consider what the Gospels themselves say happened at Gethsemane and during Peter's questioning in the courtyard.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Mark 14:50",
+          "quote": "And they all left him and fled"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-009",
+      "topic": "church-history",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "Jesus' descent into hell and Resurrection reveal, as the Catechism puts it, that it was precisely out of the depths of ____ that he made life spring forth.",
+      "correctAnswer": "death",
+      "acceptedAnswers": [
+        "death"
+      ],
+      "explanation": "This is the event the whole apostolic mission flows from -- life breaking open from within death itself, which is exactly what the apostles will spend the rest of their lives proclaiming.",
+      "hint": "The place Christ's Resurrection breaks life out of.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 631",
+          "quote": "The Apostles' Creed confesses in the same article Christ's descent into hell and his Resurrection from the dead on the third day, because in his Passover it was precisely out of the depths of death that he made life spring forth"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l1-010",
+      "topic": "church-history",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Taken together, what do the Twelve, the Eucharist, the Great Commission, and the Ascension have in common?",
+      "choices": [
+        "All were established by Jesus himself, before the Church took a single action of its own",
+        "All were decisions made later by the apostles without Jesus' involvement",
+        "All happened only after several centuries of Church development",
+        "None of them appear anywhere in the New Testament"
+      ],
+      "correctAnswer": "All were established by Jesus himself, before the Church took a single action of its own",
+      "explanation": "This level's whole point is that the Church does not invent its own foundation -- leadership, sacrament, mission, and the promise of the Spirit are all set in place by Christ himself, before Pentecost, before a single apostle acts on his own initiative.",
+      "hint": "Who is the one common actor behind everything covered in this level?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 571",
+          "quote": "The Paschal mystery of Christ's cross and Resurrection stands at the center of the Good News that the apostles, and the Church following them, are to proclaim to the world."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-001",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "According to strong and ancient tradition, which apostle carried the Gospel as far as India?",
+      "choices": [
+        "Thomas",
+        "James the Less",
+        "Bartholomew",
+        "Philip"
+      ],
+      "correctAnswer": "Thomas",
+      "explanation": "Tradition holds that Thomas -- remembered for doubting the Resurrection until he touched Christ's wounds -- carried the Gospel to India, where communities tracing their origin to him, the Saint Thomas Christians, exist to this day.",
+      "hint": "This is the same apostle remembered for doubting the Resurrection until he touched Christ's wounds.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 20:28",
+          "quote": "Thomas answered and said to him, 'My Lord and my God!'"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-002",
+      "topic": "church-history",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: The Apostle Paul undertook multiple missionary journeys across the eastern Mediterranean, founding churches in cities like Corinth, Philippi, and Ephesus.",
+      "correctAnswer": true,
+      "explanation": "True. Paul's journeys, recorded in Acts and reflected in his own letters, planted churches across Asia Minor and Greece -- several of which he later wrote back to, correcting and encouraging communities he had personally founded.",
+      "hint": "These are the same cities whose churches later received his letters.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 18:1",
+          "quote": "he left Athens and went to Corinth"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-003",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Tradition holds that the Apostle Mark founded the Church in which major city, becoming its first bishop?",
+      "choices": [
+        "Alexandria",
+        "Athens",
+        "Carthage",
+        "Damascus"
+      ],
+      "correctAnswer": "Alexandria",
+      "explanation": "Mark, whose Gospel drew on Peter's own preaching, is traditionally remembered as the founder of the Church in Alexandria, Egypt -- a see that becomes one of the ancient world's most important centers of Christian learning.",
+      "hint": "This city in Egypt becomes one of the ancient world's great centers of Christian learning.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 5:13",
+          "quote": "She who is in Babylon, chosen together with you, sends you greeting, as does Mark, my son."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-004",
+      "topic": "church-history",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 985,
+      "prompt": "The city of ____, in modern-day Syria, is where the disciples of Jesus were first called 'Christians,' according to the Acts of the Apostles.",
+      "correctAnswer": "Antioch",
+      "acceptedAnswers": [
+        "Antioch"
+      ],
+      "explanation": "Antioch becomes one of the earliest and most important centers of the apostolic Church -- Peter himself is remembered as its first bishop before later tradition sends him to Rome.",
+      "hint": "This same city later becomes one of the great ancient patriarchal sees.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 11:26",
+          "quote": "it was in Antioch that the disciples were first called Christians"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-005",
+      "topic": "church-history",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 965,
+      "prompt": "Match each apostle to the region tradition most strongly associates him with.",
+      "pairs": [
+        {
+          "left": "Thomas",
+          "right": "India"
+        },
+        {
+          "left": "Mark",
+          "right": "Alexandria, Egypt"
+        },
+        {
+          "left": "Peter",
+          "right": "Antioch, then Rome"
+        },
+        {
+          "left": "John",
+          "right": "Ephesus, then Patmos"
+        }
+      ],
+      "explanation": "Within a single generation, apostolic preaching reaches from Rome in the west to India in the east -- the mission Christ gave at the Ascension already in visible motion.",
+      "hint": "One apostle's exile produces the Church's last biblical book, written on an island.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 1:9",
+          "quote": "I found myself on the island called Patmos because I proclaimed God's word and gave testimony to Jesus."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-006",
+      "topic": "church-history",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: According to Church tradition, John is the only one of the Twelve Apostles believed to have died of natural causes rather than martyrdom.",
+      "correctAnswer": true,
+      "explanation": "True. Tradition holds John, exiled to Patmos but not killed there, lived to old age in Ephesus -- the sole exception among the Twelve to a pattern of violent death that this whole topic will keep returning to.",
+      "hint": "Every other apostle's traditional death is violent; this one's is not.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 1:9",
+          "quote": "I found myself on the island called Patmos because I proclaimed God's word and gave testimony to Jesus."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-007",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "What does the rapid spread of apostolic preaching, from Rome to India within a single generation, suggest about the early Church's own self-understanding?",
+      "choices": [
+        "It understood itself as sent to the whole world, not confined to one people or land",
+        "It understood itself as a purely local movement meant to stay in Jerusalem",
+        "It actively avoided contact with any culture outside Judea",
+        "It had no coordinated sense of mission at all"
+      ],
+      "correctAnswer": "It understood itself as sent to the whole world, not confined to one people or land",
+      "explanation": "This is the Great Commission from level 1, already visibly in motion -- apostles individually carrying the Gospel to Rome, Egypt, Asia Minor, and India, each independently acting on the same universal mandate.",
+      "hint": "Recall the command Jesus gave in level 1's Great Commission.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-008",
+      "topic": "church-history",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Paul described himself as having been called to be an apostle even though he was not one of the original Twelve.",
+      "correctAnswer": true,
+      "explanation": "True. Paul, converted after persecuting the Church, describes himself as an apostle 'set apart for the gospel of God' -- proof that the apostolic mission was never limited only to the original Twelve.",
+      "hint": "He describes his own calling in the opening lines of several of his letters.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:1",
+          "quote": "Paul, a slave of Christ Jesus, called to be an apostle and set apart for the gospel of God"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-009",
+      "topic": "church-history",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 985,
+      "prompt": "According to Church tradition, the Apostle James the Greater traveled and preached as far as ____, in the western reaches of the Roman world.",
+      "correctAnswer": "Spain",
+      "acceptedAnswers": [
+        "Spain"
+      ],
+      "explanation": "Whether or not every detail of the tradition is historically verifiable, it reflects the same pattern this level keeps tracing -- apostolic mission reaching to the furthest edges of the known world within a single lifetime.",
+      "hint": "This western European country's patron saint tradition traces back to this apostle.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 15:24",
+          "quote": "I hope to see you in passing as I go to Spain"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l2-010",
+      "topic": "church-history",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Why does this level matter for understanding what comes next in the Church's story?",
+      "choices": [
+        "Because the sees the apostles planted become the centers the rest of this topic keeps returning to",
+        "Because none of these missionary journeys had any lasting institutional effect on the wider Church at all",
+        "Because the apostles' travels were completely unrelated to where later bishops and councils would ever be based",
+        "Because the early Church actively discouraged any lasting contact between these distant regions"
+      ],
+      "correctAnswer": "Because the sees the apostles planted become the centers the rest of this topic keeps returning to",
+      "explanation": "The next level asks how the faith these apostles planted gets handed on after they die -- and the answer runs directly through the sees this level has just mapped: Rome, Antioch, Alexandria, and the rest.",
+      "hint": "Think ahead to what has to happen once these apostles themselves eventually die.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 11:26",
+          "quote": "it was in Antioch that the disciples were first called Christians"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-001",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "What does the Church call the process by which the apostles' own authority was handed down to the bishops who came after them?",
+      "choices": [
+        "Apostolic succession",
+        "Papal infallibility",
+        "Sacred Tradition alone, with no office involved",
+        "Ecumenical council"
+      ],
+      "correctAnswer": "Apostolic succession",
+      "explanation": "Apostolic succession is precisely the mechanism this level traces: bishops, ordained in unbroken lines going back to the apostles themselves, so that apostolic teaching authority does not die out with the apostles' own deaths.",
+      "hint": "The name of this doctrine describes bishops literally succeeding the apostles.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-002",
+      "topic": "church-history",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: St. Irenaeus of Lyons could list, by name, the successive bishops of Rome going back to the apostles who founded that church.",
+      "correctAnswer": true,
+      "explanation": "True. Writing in the second century, Irenaeus lists the bishops of Rome one by one from the apostles down to his own day -- direct, named evidence that apostolic succession was a real, traceable chain, not a later legend.",
+      "hint": "This second-century writer treats the succession as a real, named, traceable list.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies",
+          "quote": "The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate... In this order, and by this succession, the ecclesiastical tradition from the apostles... have come down to us."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-003",
+      "topic": "church-history",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "According to St. Irenaeus, the apostles who founded the Church in Rome committed the office of the episcopate into the hands of ____, its first successor as bishop.",
+      "correctAnswer": "Linus",
+      "acceptedAnswers": [
+        "Linus"
+      ],
+      "explanation": "Linus is the first named link in an unbroken chain Irenaeus can trace all the way to his own day -- exactly the kind of concrete, named evidence that makes apostolic succession something historians can actually examine, not just a claim taken on faith alone.",
+      "hint": "The first name in Irenaeus's own list of Roman bishops after the apostles.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies",
+          "quote": "The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate... In this order, and by this succession, the ecclesiastical tradition from the apostles... have come down to us."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-004",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "St. Ignatius of Antioch, writing around 107 AD on his way to martyrdom, taught that the Church gathers around what central figure in each local community?",
+      "choices": [
+        "The bishop",
+        "The oldest living member",
+        "A rotating council with no fixed head",
+        "Whichever wealthy patron funds the community"
+      ],
+      "correctAnswer": "The bishop",
+      "explanation": "Ignatius, a bishop himself and a direct link to the apostolic generation, insists the bishop is where Christ's own Church becomes visible in each place -- one of the earliest clear statements of the structure apostolic succession was building.",
+      "hint": "This second-century bishop ties the Church's very presence to one particular office.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans",
+          "quote": "Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-005",
+      "topic": "church-history",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each figure or term to what it contributes to understanding apostolic succession.",
+      "pairs": [
+        {
+          "left": "St. Ignatius of Antioch",
+          "right": "Insists the bishop is where the Church is visibly present"
+        },
+        {
+          "left": "St. Irenaeus of Lyons",
+          "right": "Names the actual chain of bishops back to the apostles"
+        },
+        {
+          "left": "Linus",
+          "right": "The first successor to the apostles as bishop of Rome"
+        },
+        {
+          "left": "CCC 77",
+          "right": "States the Church's own doctrine of why bishops succeed the apostles"
+        }
+      ],
+      "explanation": "Together these four pieces make apostolic succession something more than an abstract claim -- a named chain of real men, defended by writers who were themselves close to the apostolic generation, and taught as doctrine by the Church today.",
+      "hint": "Two are individual writers, one is a name in a list, one is the Church's own current teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-006",
+      "topic": "church-history",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: The Second Vatican Council taught that the college of bishops has authority only when understood together with the successor of Peter as its head.",
+      "correctAnswer": true,
+      "explanation": "True. Even twenty centuries later, the Council restates the same shape this level has been tracing from the beginning -- bishops acting as a body, but always in communion with Peter's successor, never independently of him.",
+      "hint": "The Council ties the bishops' authority together with one particular office, the same one from level 1.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 22",
+          "quote": "the college or body of bishops has no authority unless it is understood together with the Roman Pontiff, the successor of Peter as its head."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-007",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "According to Lumen Gentium 8, the Church that Christ established, and that the apostles handed on, subsists concretely in what?",
+      "choices": [
+        "The Catholic Church, governed by the successor of Peter and the bishops in communion with him",
+        "No visible institution at all, only an invisible spiritual reality",
+        "A purely local congregation with no wider connection",
+        "Whichever community happens to hold the largest membership at a given time"
+      ],
+      "correctAnswer": "The Catholic Church, governed by the successor of Peter and the bishops in communion with him",
+      "explanation": "This is the twentieth-century Council restating, in its own words, the exact claim apostolic succession makes: the Church Christ founded remains identifiable, governed today by the same structure -- Peter's successor and the bishops -- that this level has traced back to Linus and the apostles themselves.",
+      "hint": "The Council names a specific, still-existing structure of governance.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 8",
+          "quote": "This Church constituted and organized in the world as a society, subsists in the Catholic Church, which is governed by the successor of Peter and by the Bishops in communion with him"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-008",
+      "topic": "church-history",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "St. Ignatius of Antioch wrote that wherever the ____ appears, there the multitude of the people should be also, just as wherever Christ is, there is the Catholic Church.",
+      "correctAnswer": "bishop",
+      "acceptedAnswers": [
+        "bishop"
+      ],
+      "explanation": "For Ignatius, unity with the bishop is not administrative convenience -- it is how the Church's own unity with Christ becomes visible in a given place, a principle apostolic succession exists to protect.",
+      "hint": "The office this level has centered on from Linus to Ignatius to Lumen Gentium.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Ignatius of Antioch, Letter to the Smyrnaeans",
+          "quote": "Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 22",
+          "quote": "the college or body of bishops has no authority unless it is understood together with the Roman Pontiff, the successor of Peter as its head."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-009",
+      "topic": "church-history",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Why does this level matter for what comes next: the Church's story returning, in the next level, to Peter, Pentecost, and the very first Christian community?",
+      "choices": [
+        "Because that structure is what preserved the Pentecost-era Church's teaching long enough for us to study it now",
+        "Because apostolic succession has no real connection whatsoever to Pentecost or the first community",
+        "Because the very next level abandons everything about structure that was just covered here",
+        "Because bishops as an office only appear in Church history many centuries after Pentecost itself"
+      ],
+      "correctAnswer": "Because that structure is what preserved the Pentecost-era Church's teaching long enough for us to study it now",
+      "explanation": "The next level goes back in time, not forward -- it studies Peter, Pentecost, and the Jerusalem community in closer detail. What this level has just shown is why that early community's faith did not simply vanish with the apostles' deaths: bishops like Linus were already carrying it forward even as it happened.",
+      "hint": "Consider what makes it possible to know anything reliable about the Pentecost-era Church at all, this many centuries later.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l3-010",
+      "topic": "church-history",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each level of this topic's opening arc to its central concern.",
+      "pairs": [
+        {
+          "left": "Level 1",
+          "right": "Jesus himself establishes the Church's foundation before Pentecost"
+        },
+        {
+          "left": "Level 2",
+          "right": "The apostles individually carry the Gospel across the known world"
+        },
+        {
+          "left": "Level 3",
+          "right": "Bishops succeed the apostles so the faith survives their deaths"
+        },
+        {
+          "left": "Level 4",
+          "right": "A closer look at Peter, Pentecost, and the earliest Christian community"
+        }
+      ],
+      "explanation": "These four levels are one continuous argument: Christ founds it, the apostles spread it, the bishops preserve it, and only then does the topic slow down to examine the earliest community in detail -- because by level 4, a learner already knows why that community's faith reached us at all.",
+      "hint": "The topic moves from foundation, to spread, to preservation, before it slows down to look closely at the beginning.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    }
+  ]
+}
