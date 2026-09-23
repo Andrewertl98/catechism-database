@@ -1,0 +1,742 @@
+{
+  "_comment": "Apologetics levels 10-12: historical/scientific objections, science own real limits vs truth claims, ecumenism/interreligious dialogue",
+  "topic": "apologetics",
+  "questions": [
+    {
+      "id": "apologetics-l10-001",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "To the objection 'the Church just added books to the Bible over the centuries,' the historically accurate response is:",
+      "choices": [
+        "Early councils recognized, rather than invented, books already regarded as apostolic and inspired",
+        "The full New Testament canon wasn't settled until the 20th century",
+        "Books were added by a vote of ordinary parishioners",
+        "No council ever formally addressed the canon at all"
+      ],
+      "correctAnswer": "Early councils recognized, rather than invented, books already regarded as apostolic and inspired",
+      "explanation": "Local councils such as Carthage, in the late 4th century, listed the New Testament books already in widespread liturgical and doctrinal use -- they ratified an existing consensus rather than inventing a new list from nothing.",
+      "hint": "The word 'recognized' matters more here than 'invented.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Carthage (397)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-002",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The claim that 'Constantine invented the divinity of Christ at the Council of Nicaea in 325' is historically accurate.",
+      "correctAnswer": false,
+      "explanation": "Belief in Christ's divinity is attested throughout the New Testament and pre-Nicene Christian writings, centuries before Constantine. Nicaea clarified and defended existing belief against Arius's denial of it -- it did not invent it.",
+      "hint": "The opening of John's Gospel, written centuries before Nicaea, already calls Christ God.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:1",
+          "quote": "In the beginning was the Word, and the Word was with God, and the Word was God."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-003",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "To the objection that 'religion and science are always at war,' apologists note that the Catholic priest and scientist Fr. Georges Lema\u00eetre first proposed what is now called the '____ Bang' theory of the universe's origin.",
+      "correctAnswer": "Big",
+      "explanation": "The Church teaches that genuine scientific research, properly conducted, can never truly conflict with faith -- a claim vividly illustrated by a Catholic priest originating one of modern cosmology's foundational theories.",
+      "hint": "It's the standard name for the leading scientific theory of the universe's origin.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-004",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The 'problem of evil' objects that an all-good, all-powerful God is incompatible with the evil that exists in the world. Catholic theology responds, in part, by pointing to:",
+      "choices": [
+        "The gift of human free will and the ultimate victory over evil won in Christ's Cross and Resurrection",
+        "A denial that evil really exists at all",
+        "The claim that God is not actually all-powerful",
+        "The claim that God is not actually all-good"
+      ],
+      "correctAnswer": "The gift of human free will and the ultimate victory over evil won in Christ's Cross and Resurrection",
+      "explanation": "Rather than denying God's goodness or power, or denying evil's reality, the Church points to freedom's necessary risk and to God's own definitive answer to evil and suffering in the Cross.",
+      "hint": "The answer doesn't deny God's power or goodness, or deny evil is real.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 309",
+          "quote": "There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-005",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Catholic Church has always strictly forbidden Catholics from believing in any form of biological evolution.",
+      "correctAnswer": false,
+      "explanation": "Pope Pius XII's Humani Generis permitted Catholics to consider the theory of evolution regarding the human body, while insisting the human soul is directly created by God -- a middle position, not a blanket prohibition.",
+      "hint": "The Church's actual position distinguishes the body from the soul.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Humani Generis, Pope Pius XII (1950)",
+          "quote": "the Teaching Authority of the Church does not forbid that, in conformity with the present state of human sciences and sacred theology, research and discussions... take place with regard to the doctrine of evolution, in as far as it inquires into the origin of the human body as coming from pre-existent and living matter \u2014 for the Catholic faith obliges us to hold that souls are immediately created by God."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-006",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each objection to an accurate Catholic response.",
+      "pairs": [
+        {
+          "left": "'Nicaea invented Christ's divinity'",
+          "right": "Already attested throughout the New Testament, long before Nicaea"
+        },
+        {
+          "left": "'The Church added books to the Bible'",
+          "right": "Councils recognized, rather than invented, an already-apostolic canon"
+        },
+        {
+          "left": "'Faith and science are always at war'",
+          "right": "The Church teaches genuine truths of both can never ultimately conflict"
+        },
+        {
+          "left": "'Evolution is strictly forbidden'",
+          "right": "Permitted for the body, while the soul is held to be directly created"
+        }
+      ],
+      "explanation": "Each of these popular objections rests on a historical or theological misunderstanding that a closer look at the actual sources corrects.",
+      "hint": "Each response corrects a specific factual or historical error in the objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Humani Generis, Pope Pius XII (1950)",
+          "quote": "the Teaching Authority of the Church does not forbid that, in conformity with the present state of human sciences and sacred theology, research and discussions... take place with regard to the doctrine of evolution, in as far as it inquires into the origin of the human body as coming from pre-existent and living matter \u2014 for the Catholic faith obliges us to hold that souls are immediately created by God."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-007",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Every Christian body condemned contraception until the Lambeth Conference of 1930, which permitted it in limited cases; Pius XI answered within months in Casti Connubii. What does this history show about a Scripture-alone rule of faith?",
+      "choices": [
+        "The reversal came with no new biblical data, so the text alone did not settle the question either before or after",
+        "It shows Scripture explicitly permits contraception",
+        "It shows Scripture explicitly forbids contraception by name",
+        "It shows the question is not a moral one at all"
+      ],
+      "correctAnswer": "The reversal came with no new biblical data, so the text alone did not settle the question either before or after",
+      "explanation": "Nothing was discovered in Scripture between 1929 and 1930. The same texts yielded a universal Christian prohibition and then, for many, its opposite \u2014 which suggests the text was not functioning as the thing that settled it. This is a historical observation, not a slur: it shows what a rule of faith has to be able to do.",
+      "hint": "Ask what changed in the Bible between the two dates.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Casti Connubii, Pope Pius XI (1930)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2370"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-008",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "A Scripture-alone rule faces a difficulty with genuinely new moral questions \u2014 embryo experimentation, gene editing, artificial reproduction. What is the difficulty?",
+      "choices": [
+        "Scripture does not address them explicitly, so a rule admitting only explicit scriptural teaching has no way to reach a binding answer",
+        "Scripture addresses each of them by name",
+        "The questions are not moral questions",
+        "The difficulty applies equally to a Church claiming teaching authority"
+      ],
+      "correctAnswer": "Scripture does not address them explicitly, so a rule admitting only explicit scriptural teaching has no way to reach a binding answer",
+      "explanation": "The dilemma is sharp: either such questions are left undecided, or they are decided by reasoning from principle under an authority -- which is the second horn the principle was meant to exclude. Note the last option is not the answer: a Church claiming to teach with authority has a mechanism here, whether or not one accepts it.\n\nThis dilemma is often pressed with a deliberately shocking example -- some act almost everyone recoils from, which Scripture nowhere condemns by name. The provocation is not decoration; the recoil is the argument. If you are certain something is gravely wrong, and that certainty does not come from an explicit text, then something besides the explicit text is forming your conscience, and the question is what. Used carefully that is a real and powerful move. Used carelessly it changes the subject from the argument to the framing, and the other person now has a reason to end the conversation rather than answer it. The examples above make the same point without handing anyone that exit.",
+      "hint": "The question is not what the right answer is, but whether the rule can produce one at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2270"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-009",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Pointing out that a principle cannot settle a question is the same as claiming those who hold it are immoral.",
+      "correctAnswer": false,
+      "explanation": "False, and keeping the two apart is what makes the argument usable. The claim is about what a rule of faith is capable of, not about anyone's sincerity or character. Most people who hold sola scriptura reach sound moral conclusions; the question is whether the principle is doing that work, or whether something else is and the principle is being credited.",
+      "hint": "Distinguish a claim about a method from a claim about the people using it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2478"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l10-010",
+      "topic": "apologetics",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each objection to the response that actually answers it.",
+      "pairs": [
+        {
+          "left": "'The Church added books to the Bible'",
+          "right": "Those books were in the Greek Old Testament the early Church used"
+        },
+        {
+          "left": "'Constantine invented Christ's divinity'",
+          "right": "Nicaea settled how to state a divinity already confessed and disputed"
+        },
+        {
+          "left": "'Faith and science are at war'",
+          "right": "The Big Bang was proposed by a Catholic priest"
+        },
+        {
+          "left": "'Evil disproves an all-good God'",
+          "right": "God permits evil only to draw a greater good from it"
+        }
+      ],
+      "explanation": "Three of these are settled by historical record and one by a distinction. Knowing which kind of answer an objection needs matters: bringing a philosophical argument to a historical claim, or the reverse, misses in both directions.",
+      "hint": "Only one of these four is answered by reasoning rather than by evidence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 311"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-001",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The previous level covered Humani Generis's real teaching that the Church permits genuine research into evolution. A skeptic then says: 'Since science can't yet fully explain the origin of the soul, that just proves souls don't really exist.' What is the real, precise error in this claim?",
+      "choices": [
+        "It confuses a real methodological limit with a real truth claim -- two genuinely different kinds of claim",
+        "The claim is correct, and science's own real inability to detect the soul does prove it does not exist",
+        "Science has, in fact, already fully explained the soul's origin, making this objection moot",
+        "This objection has no real connection to anything this topic's previous level actually covered"
+      ],
+      "correctAnswer": "It confuses a real methodological limit with a real truth claim -- two genuinely different kinds of claim",
+      "explanation": "This is a real, common and important error to name precisely -- 'science can't settle this' is a real statement about a method's own real limits; 'this is therefore false' is a completely different, much stronger real claim that does not actually follow from the first.",
+      "hint": "Consider the real difference between a method having a real limit, and a claim being actually false.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-002",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: 'Empirical science cannot detect X' and 'X does not exist' are logically the same real claim.",
+      "correctAnswer": false,
+      "explanation": "False, and naming this real distinction precisely is this level's own whole point -- a method's own real limits say nothing, by themselves, about what actually exists beyond what that particular method can detect.",
+      "hint": "Recall this level's own opening real example, and the precise real distinction it drew.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-003",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "This level's own real distinction connects directly to this app's own Metaphysics topic. How?",
+      "choices": [
+        "Metaphysics already explains why science's method, built for the material, can't settle something non-material",
+        "Metaphysics's own real teaching actually contradicts this level's own real distinction",
+        "Metaphysics has no real connection to this level's own real point about science's own real methodological limits",
+        "Metaphysics proves that empirical science actually can fully detect and measure the soul after all"
+      ],
+      "correctAnswer": "Metaphysics already explains why science's method, built for the material, can't settle something non-material",
+      "explanation": "This app's own Metaphysics topic already established the real, precise reason behind this level's own distinction -- a method built to study the merely material cannot, by its own real nature, settle a question about something the Church holds is genuinely irreducible to matter.",
+      "hint": "Recall this app's own Metaphysics topic, and its own real teaching on the soul's real relationship to the merely material.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-004",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Humani Generis's own real permission for genuine evolutionary research already implicitly relies on this level's own real distinction.",
+      "correctAnswer": true,
+      "explanation": "True. Humani Generis permits real research into the body's own material origins while insisting the soul is directly created by God -- implicitly relying on exactly this level's own real distinction between what empirical science's own real method can investigate and what it cannot, by its own real nature, settle.",
+      "hint": "Recall the previous level's own real teaching on Humani Generis, and what real distinction it already quietly assumes.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Humani Generis, Pope Pius XII (1950)",
+          "quote": "the Teaching Authority of the Church does not forbid that, in conformity with the present state of human sciences and sacred theology, research and discussions... take place with regard to the doctrine of evolution, in as far as it inquires into the origin of the human body as coming from pre-existent and living matter \u2014 for the Catholic faith obliges us to hold that souls are immediately created by God."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-005",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "A friend pushes back: 'Isn't this just a convenient excuse to place God wherever science currently can't reach -- a 'god of the gaps'?' What is the real, careful response?",
+      "choices": [
+        "No -- this is a question permanently outside science's method, not a temporary gap in current knowledge",
+        "Yes -- the objection is entirely correct, and this level's own real distinction really is just a god-of-the-gaps argument",
+        "No -- because empirical science actually has no real limits of any kind whatsoever",
+        "Yes -- but this is presented as an acceptable real strategy regardless of the objection's own real force"
+      ],
+      "correctAnswer": "No -- this is a question permanently outside science's method, not a temporary gap in current knowledge",
+      "explanation": "A real 'god of the gaps' argument inserts God into a temporary gap that future science might close. This level's own real point is different and stronger -- some real questions fall permanently outside empirical science's own real method, by the very nature of what is being asked, not merely by a temporary lack of current data.",
+      "hint": "Consider the real difference between a temporary gap in current knowledge and a question permanently outside a method's own real reach.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-006",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: This level's own real distinction -- methodological limit versus truth claim -- was already practiced, in a different form, in this topic's earlier level distinguishing a real objection from a caricature.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this shared real method matters -- both levels practice the same underlying real discipline: checking exactly what a claim actually says, rather than letting a stronger, unstated claim slip in unexamined.",
+      "hint": "Recall this topic's earlier level on distinguishing a real objection from a caricature, and consider what real habit it shared with this level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-007",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each fact about science's real limits to what it actually means.",
+      "pairs": [
+        {
+          "left": "\"Science can't settle this\"",
+          "right": "A real statement about a method's own real limits"
+        },
+        {
+          "left": "\"This is therefore false\"",
+          "right": "A genuinely different, much stronger real claim that does not automatically follow"
+        },
+        {
+          "left": "Why this differs from \"god of the gaps\"",
+          "right": "Some questions fall permanently outside a method's reach, not merely a temporary gap in data"
+        },
+        {
+          "left": "Connection to Metaphysics",
+          "right": "The soul's real irreducibility to matter explains why this real limit exists at all"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, precise tool -- distinguishing a method's own real limits from a genuine truth claim, and explaining why that limit is real rather than merely temporary.",
+      "hint": "Two rows define the real distinction itself; two explain why it is not a mere god-of-the-gaps move and where its real explanation comes from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-008",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Having now distinguished a method's own real limits from a genuine truth claim, this topic's next level turns to ecumenism and interreligious dialogue.",
+      "correctAnswer": true,
+      "explanation": "True. Having sharpened this real distinction for science and faith, this topic's next level turns to a different, equally real question -- how the Church actually engages other Christians and other real religions.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-009",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, general habit has this level added to this topic's own growing real toolkit?",
+      "choices": [
+        "Distinguishing what a claim actually asserts from a stronger, unstated claim that doesn't follow",
+        "Assuming every real scientific claim automatically settles every possible real question",
+        "Assuming science and faith are always in real, direct competition with one another",
+        "Avoiding any real engagement with genuine scientific claims or their real limits"
+      ],
+      "correctAnswer": "Distinguishing what a claim actually asserts from a stronger, unstated claim that doesn't follow",
+      "explanation": "This level's own real habit -- catching where a stronger, unstated claim has quietly slipped in -- is exactly the same real discipline this topic will keep practicing through its own later levels on dialogue and cumulative-case reasoning.",
+      "hint": "Consider what this level's own real example actually did before responding to the skeptic's own objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l11-010",
+      "topic": "apologetics",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given this level's picture of science's own real limits versus genuine truth claims, what does the next level in this topic turn to?",
+      "choices": [
+        "Ecumenism and interreligious dialogue",
+        "A complete repeat of this same level's material about science and faith",
+        "A jump ahead to advanced multi-turn dialogue scenarios, skipping over everything in between",
+        "A subject entirely unrelated to science, faith, or real methodological limits"
+      ],
+      "correctAnswer": "Ecumenism and interreligious dialogue",
+      "explanation": "This is exactly what the next level in this topic covers -- turning from science's own real relationship to faith toward how the Church actually engages other Christians and other real religions.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-001",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Vatican II's decree on ecumenism, Unitatis Redintegratio, teaches that dialogue with other Christians should be marked by:",
+      "choices": [
+        "Truthful charity -- respecting separated brethren while still holding to the fullness of truth found in the Catholic Church",
+        "Abandoning any claim to possessing the fullness of the truth",
+        "Avoiding all contact with other Christian communities",
+        "Treating all Christian denominations as equally authoritative on doctrine"
+      ],
+      "correctAnswer": "Truthful charity -- respecting separated brethren while still holding to the fullness of truth found in the Catholic Church",
+      "explanation": "Ecumenical dialogue, as Vatican II envisions it, holds truth and charity together -- genuine respect and engagement with other Christians without dissolving the Church's own convictions about the fullness of revealed truth.",
+      "hint": "This kind of dialogue holds both charity and truth together, not one at the expense of the other.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio (1964)",
+          "quote": "The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-002",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Catholic teaching holds that people who, through no fault of their own, do not know the Gospel or the Church, can still be saved if they sincerely seek God and follow their conscience.",
+      "correctAnswer": true,
+      "explanation": "The Catechism teaches that those who, through no fault of their own, do not know Christ or his Church, but sincerely seek God and try to do his will as known through conscience, can attain salvation.",
+      "hint": "The key phrase is 'through no fault of their own.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 847",
+          "quote": "Those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who nevertheless seek God with a sincere heart... those too may achieve eternal salvation."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-003",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "St. Peter's charter for apologetics calls for defending the faith 'with ____ and reverence,' ruling out a harsh or contemptuous tone.",
+      "correctAnswer": "gentleness",
+      "explanation": "The manner of a defense matters as much as its content -- 1 Peter 3:15 pairs the call to give reasons with an explicit instruction about tone and posture.",
+      "hint": "This word describes the opposite of a harsh or aggressive tone.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-004",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "'Interreligious dialogue,' as distinct from ecumenism, refers to engagement with:",
+      "choices": [
+        "Members of non-Christian religions, such as Judaism and Islam",
+        "Other Catholic dioceses within the same country",
+        "Fellow Catholics who hold differing political views",
+        "Only self-identified atheists"
+      ],
+      "correctAnswer": "Members of non-Christian religions, such as Judaism and Islam",
+      "explanation": "Ecumenism concerns unity efforts among Christians; interreligious dialogue, addressed by Vatican II's Nostra Aetate, concerns respectful engagement with non-Christian religious traditions.",
+      "hint": "This term is about relations beyond Christianity altogether, not within it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-005",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Nostra Aetate teaches that the Church rejects nothing true and holy found in other religions, while still proclaiming Christ as 'the way, the truth, and the life.'",
+      "correctAnswer": true,
+      "explanation": "Vatican II's declaration holds these together deliberately -- genuine openness to whatever is true and good elsewhere, without ever setting aside the Church's proclamation of Christ's unique role in salvation.",
+      "hint": "The document manages to affirm both openness and Christ's uniqueness at once.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-006",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each term to its focus.",
+      "pairs": [
+        {
+          "left": "Apologetics",
+          "right": "Reasoned defense and explanation of the Catholic faith"
+        },
+        {
+          "left": "Ecumenism",
+          "right": "Dialogue and unity efforts among Christians"
+        },
+        {
+          "left": "Interreligious dialogue",
+          "right": "Engagement with non-Christian religions"
+        },
+        {
+          "left": "Evangelization",
+          "right": "Proclaiming Christ and inviting others into the faith"
+        }
+      ],
+      "explanation": "These four activities overlap and reinforce one another, but each has a distinct scope -- knowing which is which helps a person engage each conversation appropriately.",
+      "hint": "One is about defending, one about Christian unity, one about other religions, one about proclaiming Christ directly.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio (1964)",
+          "quote": "The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-007",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Before engaging Islamic claims, what does the Church herself say about Muslims?",
+      "choices": [
+        "That they profess to hold the faith of Abraham and together with us adore the one, merciful God, mankind's judge on the last day",
+        "That their worship is directed to no real God at all",
+        "That the Church has no position on Islam",
+        "That Muslims are to be regarded as a Christian heresy"
+      ],
+      "correctAnswer": "That they profess to hold the faith of Abraham and together with us adore the one, merciful God, mankind's judge on the last day",
+      "explanation": "This is the Church's own starting point, and it is not a diplomatic softening before the real argument. Genuine disagreement about Christ is not diminished by first saying accurately what is shared. An apologetic that cannot state this has not understood the Church's position.",
+      "hint": "The Catechism's section on Muslims is warmer than most people expect. Start there.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 841"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-008",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Stating a position fairly comes before answering it. Which accurately describes what Islam holds about Jesus?",
+      "choices": [
+        "A great prophet, born of a virgin, who was not crucified and is not divine",
+        "An ordinary teacher with no special status",
+        "The Son of God, though not crucified",
+        "A figure Islam makes no claims about"
+      ],
+      "correctAnswer": "A great prophet, born of a virgin, who was not crucified and is not divine",
+      "explanation": "Islam honours Jesus highly \u2014 as prophet, as born of the Virgin Mary, as Messiah \u2014 while denying both the crucifixion and the divinity. Getting this right matters practically: an argument aimed at a position no Muslim holds convinces no one and damages the witness of the person making it.",
+      "hint": "Two of these claims Islam affirms strongly, and two it denies.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 841"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-009",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Because the Church acknowledges what is true and holy in other religions, she also holds that Christ is one saviour among several.",
+      "correctAnswer": false,
+      "explanation": "False, and holding both halves is the whole difficulty. The Church rejects nothing true and holy in other religions while confessing Christ as the unique mediator. Dropping either half is easier than carrying both, which is why relativism and dismissiveness are each more common than the actual Catholic position.",
+      "hint": "The Church affirms two things here that are harder to hold together than either alone.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Dominus Iesus, CDF (2000)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l12-010",
+      "topic": "apologetics",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each mode of engagement to what it properly addresses.",
+      "pairs": [
+        {
+          "left": "Ecumenism",
+          "right": "Restoring unity among divided Christians"
+        },
+        {
+          "left": "Interreligious dialogue",
+          "right": "Engagement with those who are not Christian"
+        },
+        {
+          "left": "Apologetics",
+          "right": "Giving a reasoned account of the faith to whoever asks"
+        },
+        {
+          "left": "Proclamation",
+          "right": "Announcing Christ directly to those who have not received him"
+        }
+      ],
+      "explanation": "Confusing these produces most of the bad practice in this area \u2014 treating a Muslim as a separated brother, or treating a Protestant as a non-Christian, or mistaking dialogue for an agreement to stop believing anything in particular.",
+      "hint": "One concerns divided Christians, one non-Christians, and two concern how the faith is offered.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio 1"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate 3"
+        }
+      ]
+    }
+  ]
+}
