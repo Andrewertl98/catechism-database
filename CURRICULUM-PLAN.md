@@ -359,7 +359,62 @@ Deliberately kept distinct from Councils rather than redundant with it.
 | 18 | Live apologetics -- recognizing these errors today `[L7]` | 17 |
 | 19 | Capstone: heresy as the inverted mirror of orthodoxy | 18 |
 
-Heresies goes next.
+**Done, Sep 23, 2026: Heresies (19 levels), following Church History, the
+Old Testament, Saints, and Councils.** Drafted, verified, committed.
+Chronological through level 16 (Simon Magus to today's live prosperity-
+gospel and syncretism variants), then terminology/apologetics/capstone
+(17-19) fully reusing the old live bank's levels 6-7, closing with heresy
+named directly as the inverted mirror of orthodoxy -- the same history
+Councils tells from the opposite side.
+
+---
+
+## Worked example -- Dogmas-and-doctrine, 23 levels (N=10 -> 2*10+3=23)
+
+Dogmas-and-doctrine is a genuinely conceptual topic -- no real chronology,
+per the standard Andrew confirmed Sep 23. The live bank's 10 levels already
+have a real thematic order (Creed basics -> creation -> Christ -> grace and
+sacraments -> last things -> Church -> Mary -> grace/merit precision ->
+moral theology -> a Trinity/divinization capstone), but live level 1 opens
+with fairly technical vocabulary (consubstantial, hypostatic union,
+filioque) with no on-ramp beneath it, and there is no real level on Original
+Sin at all -- a genuine gap, since grace and redemption only make full sense
+once the need for them is established. The journey below fixes both: three
+new foundational levels below the old bank's easiest content, the old bank's
+10 levels resequenced by real conceptual difficulty rather than left in
+their current order, a new bridging level after each one deepening or
+motivating what comes next, and a new capstone naming dogma itself as a
+gift rather than a cage.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is a dogma? Dogma, doctrine, and theological opinion; Scripture and Tradition as the sources of revelation, guarded by the Magisterium `[NEW]` | nothing assumed |
+| 2 | God is one, and can be known by reason as well as by revelation -- the classic divine attributes `[NEW]` | 1 |
+| 3 | The Fall and Original Sin -- why humanity needs a Redeemer `[NEW]` | 2 |
+| 4 | Creation -- ex nihilo, providence, angels, and the human person as a unity of body and soul `[L2]` | 3 |
+| 5 | Made in God's image: human dignity and the soul's own real capacity for God `[NEW bridging]` | 4 |
+| 6 | The Incarnation and the Paschal Mystery -- God becomes man to save `[L3]` | 5 |
+| 7 | Why the God-man? The real fittingness of the Incarnation for our redemption `[NEW bridging]` | 6 |
+| 8 | Grace and the Sacraments -- how Christ's saving work reaches us today `[L4]` | 7 |
+| 9 | The Church's sacramental economy: ex opere operato, and why that precision actually matters `[NEW bridging]` | 8 |
+| 10 | The Trinity in precise terms -- Nicaea, Chalcedon, and the Church's technical vocabulary `[L1]` | 9 |
+| 11 | Why the Church needed precise Trinitarian and Christological language at all `[NEW bridging]` | 10 |
+| 12 | The Last Things -- death, particular judgment, purgatory, heaven, and hell `[L5]` | 11 |
+| 13 | Hope and the Last Things: how real eschatology actually shapes how a Catholic lives `[NEW bridging]` | 12 |
+| 14 | The Church -- her nature, marks, and real authority `[L6]` | 13 |
+| 15 | The real limits and true meaning of papal infallibility `[NEW bridging]` | 14 |
+| 16 | Mary -- the Marian dogmas and their real apologetic defense `[L7]` | 15 |
+| 17 | Answering common real objections to Marian doctrine in actual conversation `[NEW bridging]` | 16 |
+| 18 | Grace and merit in precise terms -- congruism, Bañezianism, and real theological debate within orthodoxy `[L8]` | 17 |
+| 19 | What separates a real theological debate from a real heresy? `[NEW bridging, ties back to Heresies]` | 18 |
+| 20 | Catholic moral theology -- conscience, the natural law, and Veritatis Splendor `[L9]` | 19 |
+| 21 | Applying real moral theology to a genuinely hard real-life case `[NEW bridging]` | 20 |
+| 22 | The Trinity, divinization, and why the whole of doctrine coheres as one real story `[L10]` | 21 |
+| 23 | Capstone: dogma as a real gift, not a cage -- how doctrine protects the truths that make faith, hope, and love possible `[NEW]` | 22 |
+
+Dogmas-and-doctrine goes next, since it is one of the most heavily hard-gated
+topics and its already-thematic live bank needs the least invention of any
+remaining conceptual topic.
 
 ---
 
