@@ -1,0 +1,734 @@
+{
+  "_comment": "Metaphysics levels 12-14: being and reason/essence-existence, God as Being itself deepened, hylomorphism/divine simplicity",
+  "topic": "metaphysics",
+  "questions": [
+    {
+      "id": "metaphysics-l12-001",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1758,
+      "prompt": "According to the Catechism, human beings can know the existence of God with certainty by what means, even before receiving divine revelation?",
+      "choices": [
+        "The natural light of human reason, from the created world",
+        "Only through the Bible",
+        "Only through a mystical experience",
+        "Only through the sacraments"
+      ],
+      "correctAnswer": "The natural light of human reason, from the created world",
+      "explanation": "Echoing the First Vatican Council, the Catechism teaches that God, 'the first principle and last end of all things, can be known with certainty from the created world by the natural light of human reason' -- the starting point of natural theology.",
+      "hint": "Notice it says 'reason,' not 'faith' or 'revelation.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 36",
+          "quote": "God, the first principle and last end of all things, can be known with certainty from the created world by the natural light of human reason."
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius (1870)",
+          "quote": "God, the source and end of all things, can be known with certainty from the consideration of created things, by the natural power of human reason"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-002",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1708,
+      "prompt": "True or False: The Catechism describes the desire for God as something implanted only in a few especially religious people, not in every human being.",
+      "correctAnswer": false,
+      "explanation": "The Catechism teaches the opposite: 'The desire for God is written in the human heart, because man is created by God and for God' -- every person, not only the religious, is made with this orientation toward God.",
+      "hint": "This desire is written into human nature itself, not handed only to a spiritual elite.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 27",
+          "quote": "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-003",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1758,
+      "prompt": "When Moses asked for God's name at the burning bush, God replied, 'I AM WHO I AM.' Catholic theology has long read this as revealing that God's very essence is:",
+      "choices": [
+        "Existence itself -- Being, not merely a being among others",
+        "A secret name known only to priests",
+        "A title borrowed from a neighboring religion",
+        "A poetic way of avoiding the question"
+      ],
+      "correctAnswer": "Existence itself -- Being, not merely a being among others",
+      "explanation": "Exodus 3:14 records God's self-revelation as 'I AM.' Catholic metaphysics, following Fathers like Augustine and theologians like Aquinas, reads this as revealing God not as one being among many, but as Being itself, the source of all that exists.",
+      "hint": "God didn't give a name like 'Bob' -- he described his own act of existing.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Confessions VII",
+          "quote": "Is Truth, therefore, nothing because it is neither diffused through space, finite, nor infinite? And You cried to me from afar, Yea, verily, 'I Am that I Am.'"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-004",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1818,
+      "prompt": "Pope St. John Paul II's encyclical Fides et Ratio opens by comparing faith and reason to two ____ on which the human spirit rises to contemplate truth.",
+      "correctAnswer": "wings",
+      "explanation": "The encyclical's famous opening line -- 'Faith and reason are like two wings on which the human spirit rises to the contemplation of truth' -- sets the tone for the whole document: faith and reason belong together, not at war.",
+      "hint": "Think of something a bird uses to fly, in pairs.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-005",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1708,
+      "prompt": "True or False: The most basic law of reason, the principle of non-contradiction, states that the same thing cannot both be and not be true at the same time and in the same respect.",
+      "correctAnswer": true,
+      "explanation": "Fides et Ratio affirms this and similar first principles as self-evident starting points reason cannot coherently deny -- without them, no reasoning, including theological reasoning, could get off the ground.",
+      "hint": "It can't be raining and not-raining, in the same place, at the same moment.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-006",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1758,
+      "prompt": "Philosophers distinguish a creature's 'essence' (what it is) from its 'existence' (that it is). In God alone, Catholic metaphysics holds that these two are:",
+      "choices": [
+        "Identical -- God's essence simply is to exist",
+        "Completely unrelated to one another",
+        "Both created by a higher being",
+        "Both illusions"
+      ],
+      "correctAnswer": "Identical -- God's essence simply is to exist",
+      "explanation": "A creature could fail to exist without contradiction -- its essence doesn't require existence. God's essence, by contrast, simply is 'to exist': he cannot not be, which is part of what 'I AM WHO I AM' reveals.",
+      "hint": "Everything else could have not existed. This one being could not.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-007",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1758,
+      "prompt": "Metaphysics asks a question the empirical sciences do not. Which?",
+      "choices": [
+        "Not how things behave, but what it is for anything to exist at all",
+        "How accurately instruments can measure natural processes",
+        "Which religious claims are historically attested",
+        "How human beings ought to act"
+      ],
+      "correctAnswer": "Not how things behave, but what it is for anything to exist at all",
+      "explanation": "The sciences describe how things within the world behave. Metaphysics asks what being itself is \u2014 a question no measurement can settle, because any measurement already presupposes something there to measure.",
+      "hint": "One of these questions is presupposed by every experiment rather than answered by one.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 33"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-008",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1708,
+      "prompt": "True or False: When we call God good or wise, the words mean exactly what they mean when applied to a human being.",
+      "correctAnswer": false,
+      "explanation": "False. Such words are used analogically: they say something genuinely true of God, but not in the same mode. Between Creator and creature no likeness can be noted without a greater unlikeness. Insisting the words mean exactly the same thing produces a God who is a very large creature; insisting they mean nothing produces silence.",
+      "hint": "There are three possibilities \u2014 same meaning, unrelated meaning, and something between. Only one is right.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        },
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-009",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1818,
+      "prompt": "Classical theology says God is not one being among many but Being ____ \u2014 existence in itself, not a thing that happens to exist.",
+      "correctAnswer": "itself",
+      "explanation": "This is why God cannot be counted alongside creatures as one more item in an inventory. Asking whether the universe contains God, the way it contains galaxies, misunderstands the claim: the question is about the source of there being anything at all.",
+      "hint": "The claim is not that God is the greatest existing thing, but something stronger about existence.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l12-010",
+      "topic": "metaphysics",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1798,
+      "prompt": "Match each foundational term to what it names.",
+      "pairs": [
+        {
+          "left": "Essence",
+          "right": "What a thing is"
+        },
+        {
+          "left": "Existence",
+          "right": "That a thing is"
+        },
+        {
+          "left": "Non-contradiction",
+          "right": "Nothing can both be and not be in the same respect at once"
+        },
+        {
+          "left": "Analogy",
+          "right": "Words said truly of God, but not in a creaturely mode"
+        }
+      ],
+      "explanation": "These four recur throughout the topic. The essence/existence pair is the one to hold onto: in every creature they are distinct, which is why nothing in the world explains its own existence.",
+      "hint": "Two of these are a matched pair answering 'what' and 'whether'.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-001",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1840,
+      "prompt": "The previous level said God alone has no real distinction between essence and existence. What does this precisely mean?",
+      "choices": [
+        "In God, what he is and that he is are one real thing -- his essence simply is to exist",
+        "God has an essence but no real existence at all",
+        "God has real existence but no real essence of any kind",
+        "This distinction applies to God exactly the same way it applies to every creature"
+      ],
+      "correctAnswer": "In God, what he is and that he is are one real thing -- his essence simply is to exist",
+      "explanation": "Every creature's real essence (what it is, like 'a tree' or 'a human being') is really distinct from its real existence (that it actually exists, rather than remaining merely possible). In God alone, these coincide -- his very essence simply is existence itself.",
+      "hint": "Recall the previous level's own real teaching on essence and existence coinciding uniquely in God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-002",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1790,
+      "prompt": "True or False: A tree's real essence includes existing, the same way God's essence does.",
+      "correctAnswer": false,
+      "explanation": "False. A tree's real essence -- what a tree actually is -- does not itself include existing; a tree could fail to exist without ceasing to be what a tree is, which is exactly why trees, unlike God, really need an outside cause to actually exist at all.",
+      "hint": "Consider whether 'being a tree' logically requires 'actually existing,' the way this level's own teaching says it does for God alone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-003",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1840,
+      "prompt": "Why does this real fact -- God's essence simply is existence -- actually explain why everything else needs a real cause to exist, while God does not?",
+      "choices": [
+        "Anything whose essence and existence are distinct needs a real cause to receive existence; God, whose essence just is existence, needs none",
+        "Because creatures are simply smaller than God, which alone explains why they need a real cause",
+        "Because God arbitrarily decided creatures would need causes, with no real deeper metaphysical reason behind it",
+        "Because creatures and God actually need causes for the exact same real reason, with no real difference between them"
+      ],
+      "correctAnswer": "Anything whose essence and existence are distinct needs a real cause to receive existence; God, whose essence just is existence, needs none",
+      "explanation": "This is the real, deep reason this topic's own earlier levels on the argument from motion and causality actually work -- anything that could exist or not exist (essence and existence really distinct) needs a real cause to explain why it actually does exist; only what simply is existence itself needs no such cause.",
+      "hint": "Recall this topic's own earlier levels on the argument from motion -- consider what this level's own real distinction adds to explain why that argument actually works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-004",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1790,
+      "prompt": "True or False: This level's own real explanation -- essence/existence distinction as the real reason creatures need a cause -- connects directly back to this topic's own earlier level identifying the first mover as pure actuality.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this connection directly matters -- 'pure actuality' (no unrealized potency) and 'essence simply is existence' (no real distinction needing a cause) are two real, connected ways of saying the same deep thing about God's own unique nature.",
+      "hint": "Recall this topic's own earlier level identifying the first mover as pure actuality, with no unrealized potency.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-005",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1840,
+      "prompt": "A student asks: 'If calling God good means something different from calling a human being good, aren't we just using the word 'good' equivocally -- as two entirely unrelated meanings?' What is the real, careful answer?",
+      "choices": [
+        "No -- 'good' is analogical, genuinely related but not identical, without collapsing the difference between Creator and creature",
+        "Yes -- the objection is correct, and 'good' means something completely unrelated when applied to God versus a human being",
+        "No -- the word actually means exactly the same thing in both cases, with no real difference at all",
+        "This level's own real account has no answer to this specific real objection"
+      ],
+      "correctAnswer": "No -- 'good' is analogical, genuinely related but not identical, without collapsing the difference between Creator and creature",
+      "explanation": "Classical theology avoids both extremes -- calling God 'good' is neither exactly the same as calling a person good (univocal) nor completely unrelated (equivocal), but analogical: genuinely related, since God is goodness's own real source, while never simply identical.",
+      "hint": "Recall the previous level's own real teaching on analogical predication, and consider the real middle ground between 'identical' and 'unrelated.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-006",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1790,
+      "prompt": "True or False: Analogical language about God connects directly to this level's own real teaching on essence and existence -- because God is not one being alongside others, ordinary univocal language about beings does not simply transfer to him.",
+      "correctAnswer": true,
+      "explanation": "True. Precisely because God's essence simply is existence -- not one more being among others sharing the same kind of existence creatures have -- ordinary language cannot apply to him in exactly the same way it applies to creatures, which is exactly why analogical language is actually needed.",
+      "hint": "Consider why God's own unique relationship to existence, already named in this level, would require a special kind of language to describe him accurately.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-007",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "matching_pairs",
+      "difficultyElo": 1880,
+      "prompt": "Match each fact about God as Being itself to what it actually means.",
+      "pairs": [
+        {
+          "left": "Essence and existence coincide in God",
+          "right": "His very essence simply is 'to exist,' unlike any creature"
+        },
+        {
+          "left": "Why creatures need a real cause",
+          "right": "Their essence and existence are really distinct, so existing is not automatic"
+        },
+        {
+          "left": "\"Pure actuality\"",
+          "right": "The same real truth this level names, in the vocabulary of act and potency"
+        },
+        {
+          "left": "Analogical language about God",
+          "right": "Genuinely related but not identical, since God is not one being among others"
+        }
+      ],
+      "explanation": "These four facts together show why 'Being itself' is not simply a poetic title for God, but a real, precise metaphysical claim this whole topic's own earlier arguments actually depend on.",
+      "hint": "Two rows explain the real essence/existence distinction; two connect it to this topic's earlier vocabulary and to how language about God actually works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-008",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1790,
+      "prompt": "True or False: Having now deepened why God is Being itself, this topic's next level turns to hylomorphism and divine simplicity.",
+      "correctAnswer": true,
+      "explanation": "True. Having established God's own unique relationship to existence, this topic's next level turns to how creatures are actually composed (form and matter) and to what divine simplicity -- God having no real composition of parts at all -- actually means.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-009",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1840,
+      "prompt": "What real, general connection has this level now drawn between two of this topic's own earlier real vocabularies?",
+      "choices": [
+        "Pure actuality and essence-simply-is-existence are two real, connected descriptions of the same truth about God",
+        "Showing that act/potency and the essence/existence distinction actually contradict one another",
+        "Showing that this topic's earlier levels on act/potency have no real bearing on this level's own content",
+        "Showing that only one of this topic's two earlier vocabularies can actually be correct"
+      ],
+      "correctAnswer": "Pure actuality and essence-simply-is-existence are two real, connected descriptions of the same truth about God",
+      "explanation": "This level's own real work connects two vocabularies this topic has built up separately -- act/potency and essence/existence -- showing they describe the very same real truth about God from two real, complementary angles, not two competing theories.",
+      "hint": "Consider what this level's own earlier real point about 'pure actuality' actually did.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l13-010",
+      "topic": "metaphysics",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1840,
+      "prompt": "Given this level's picture of God as Being itself, more deeply considered, what does the next level in this topic turn to?",
+      "choices": [
+        "Hylomorphism and divine simplicity",
+        "A complete repeat of this same level's material about essence and existence",
+        "A jump ahead to angels, skipping over everything in between",
+        "A subject entirely unrelated to being, existence, or God's own nature"
+      ],
+      "correctAnswer": "Hylomorphism and divine simplicity",
+      "explanation": "This is exactly what the next level in this topic covers -- how creatures are composed of form and matter, and what it means that God, by contrast, has no real composition of parts at all.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-001",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1922,
+      "prompt": "God's self-revelation in Exodus 3:14, 'I AM WHO AM,' is read by Aquinas as revealing something unique about God's own being. What does it reveal?",
+      "choices": [
+        "That in God alone, essence and existence are identical -- God does not merely possess existence, his very essence IS 'to exist'",
+        "That God's name is simply unknowable and has no philosophical content",
+        "That God is identical with the created universe",
+        "That existence is not really a coherent philosophical concept"
+      ],
+      "correctAnswer": "That in God alone, essence and existence are identical -- God does not merely possess existence, his very essence IS 'to exist'",
+      "explanation": "Where every creature's essence (what it is) is really distinct from its existence (that it is) -- a human being's essence doesn't automatically guarantee that human being exists -- God's self-naming as 'I AM WHO AM' reveals that in God alone, essence and existence are identical: God's very essence simply is to exist, not a further property added to some prior 'what.'",
+      "hint": "Ask whether God's essence is something distinct from his existing, the way a creature's essence is distinct from whether it happens to exist.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-002",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1922,
+      "prompt": "Aquinas argues (De Ente et Essentia, ch. 4-5) that every creature's essence 'receives' an act of existing distinct from itself. What does this mean in practice?",
+      "choices": [
+        "A creature's 'what it is' (its essence) does not by itself explain 'that it is' (its existence) -- existence must be received from an outside cause, since nothing in a creature's own essence guarantees it actually exists",
+        "A creature's essence and existence are simply two words for the same identical reality, with no real distinction at all",
+        "Only living creatures have an essence; non-living things have existence without any essence",
+        "This principle applies only to angels, not to physical creatures"
+      ],
+      "correctAnswer": "A creature's 'what it is' (its essence) does not by itself explain 'that it is' (its existence) -- existence must be received from an outside cause, since nothing in a creature's own essence guarantees it actually exists",
+      "explanation": "Unlike God, whose essence simply is to exist, every creature's essence -- fully specifying what a horse or a human being is -- leaves entirely open whether that thing actually exists at all. Since essence alone cannot supply its own existence, existence must be received from an outside cause -- the basis of Aquinas's contingency argument for a first cause whose essence is existence itself.",
+      "hint": "Ask whether fully knowing what something is tells you, by itself, whether that thing actually exists.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-003",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1872,
+      "prompt": "True or False: A tree's specific bark color is an example of its substantial form, while its being a tree at all (rather than a rock or an animal) is an example of an accidental form.",
+      "correctAnswer": false,
+      "explanation": "This has the two terms reversed: the tree's substantial form is what makes it a tree at all -- what it fundamentally is, its 'treeness' -- while its bark color is an accidental form, a feature the tree could have differently (or lose) without ceasing to be a tree in the first place.",
+      "hint": "One of these two features could change without the thing ceasing to be what it fundamentally is; the other could not.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the 'form' of the body"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-004",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1922,
+      "prompt": "Why, per hylomorphic theory, can 'prime matter' never exist on its own, entirely unformed?",
+      "choices": [
+        "Prime matter is pure potentiality with no actuality of its own -- it only ever exists already actualized by some substantial form, never as a free-floating, formless 'stuff'",
+        "Prime matter is simply a synonym for empty space",
+        "Prime matter can exist on its own perfectly well, contrary to traditional hylomorphic theory",
+        "Prime matter only applies to non-physical, spiritual realities"
+      ],
+      "correctAnswer": "Prime matter is pure potentiality with no actuality of its own -- it only ever exists already actualized by some substantial form, never as a free-floating, formless 'stuff'",
+      "explanation": "Prime matter names pure potentiality for taking on some substantial form -- by definition it has no actuality of its own apart from being actualized by a form. It never exists as a free-floating, undetermined 'stuff' waiting around; wherever matter exists in the world, it is always already the matter of some actually-existing, formed substance.",
+      "hint": "Prime matter is defined as pure potential -- and pure potential, by definition, needs something actual to actualize it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the 'form' of the body"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-005",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1922,
+      "prompt": "How does the essence/existence distinction help explain why the Church describes creation as a 'radical dependence' relation rather than a change or a making-from-some-preexisting-material?",
+      "choices": [
+        "Since every creature's essence must continually receive its act of existing from outside itself, creation names the total, ongoing dependence of a creature's very existing on God, not a one-time change performed on some pre-existing stuff",
+        "Creation is simply a synonym for a chemical or physical transformation of matter already present",
+        "The essence/existence distinction has no bearing on the doctrine of creation at all",
+        "Creation means God is identical with the created world's own essence"
+      ],
+      "correctAnswer": "Since every creature's essence must continually receive its act of existing from outside itself, creation names the total, ongoing dependence of a creature's very existing on God, not a one-time change performed on some pre-existing stuff",
+      "explanation": "Because a creature's essence never supplies its own existence, that existence must be continually received from God as its source -- creation, understood this way, is not a change (which presupposes something already existing that gets altered) but the total, radical dependence of a creature's very act of existing on God, at every moment it exists, not just at a first moment.",
+      "hint": "A 'change' presupposes something already existing to be changed -- creation, understood through esse/essentia, is more radical than that.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 338",
+          "quote": "Nothing exists that does not owe its existence to God the Creator. The world began when God's word drew it out of nothingness."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-006",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "matching_pairs",
+      "difficultyElo": 1962,
+      "prompt": "Match each term or claim from this level to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Esse (act of existing)",
+          "right": "That a thing actually is, distinct from what it is"
+        },
+        {
+          "left": "Essentia (essence)",
+          "right": "What a thing is, which in creatures does not by itself guarantee that it exists"
+        },
+        {
+          "left": "'God's essence is His existence' (STh I q.3 a.4)",
+          "right": "A substantive claim that God alone needs no outside cause to exist, unlike every creature"
+        },
+        {
+          "left": "Prime matter",
+          "right": "Pure potentiality, never existing except as already actualized by some substantial form"
+        }
+      ],
+      "explanation": "Each of these terms deepens ground already touched at levels 1-2 (potential vs. actual, what makes a thing what it is) with the Church's and Aquinas's own precise technical vocabulary, wired to the specific argument each term does real work in.",
+      "hint": "Two of these terms form a single pair naming the same basic distinction, applied differently to God and to creatures.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213",
+          "quote": "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS."
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-007",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1922,
+      "prompt": "Divine simplicity holds that God has no parts. What does this rule out?",
+      "choices": [
+        "Any composition in God \u2014 of matter and form, essence and existence, or substance and attribute; God does not HAVE goodness, he IS it",
+        "That God can be described in more than one way",
+        "That God knows individual creatures",
+        "That God acts in history"
+      ],
+      "correctAnswer": "Any composition in God \u2014 of matter and form, essence and existence, or substance and attribute; God does not HAVE goodness, he IS it",
+      "explanation": "Anything composed depends on its parts and on whatever assembled them, so a composite God would be a caused God. Simplicity is why divine attributes are not components: they are the one divine reality named from our side in different ways.",
+      "hint": "Ask what a composite thing depends on, and whether that can be true of the first cause.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-008",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1872,
+      "prompt": "True or False: Saying creation is a 'radical dependence' means the universe needed a push at the beginning and has run on its own since.",
+      "correctAnswer": false,
+      "explanation": "False. On the essence/existence account, a creature does not own its existing; it receives it. What is received must go on being given, so creation is a present-tense relation of dependence rather than a past event. Withdraw the giving and there is not a ruin but nothing at all.",
+      "hint": "Ask whether existence is something a creature has once, or receives continuously.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 338"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 301"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-009",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1922,
+      "prompt": "Why does hylomorphism say prime matter cannot exist on its own?",
+      "choices": [
+        "Because to exist is to be something definite, and prime matter is pure potency with no form \u2014 so it is a principle of things, not a thing",
+        "Because it is too small to observe",
+        "Because God has not created it yet",
+        "Because it exists only inside stars"
+      ],
+      "correctAnswer": "Because to exist is to be something definite, and prime matter is pure potency with no form \u2014 so it is a principle of things, not a thing",
+      "explanation": "Prime matter is what persists through substantial change, considered apart from any form it happens to have. Considered that way it is not stuff of a very basic kind; it is a principle we distinguish in thought, and asking where a lump of it is mistakes an analysis for an inventory.",
+      "hint": "Ask whether something with no form at all could be any particular thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics-l14-010",
+      "topic": "metaphysics",
+      "level": 14,
+      "type": "matching_pairs",
+      "difficultyElo": 1962,
+      "prompt": "Match each term to what it precisely denotes.",
+      "pairs": [
+        {
+          "left": "Substantial form",
+          "right": "What makes a thing the kind of thing it is"
+        },
+        {
+          "left": "Accidental form",
+          "right": "A modification a thing can gain or lose while remaining itself"
+        },
+        {
+          "left": "Prime matter",
+          "right": "Pure potency, a principle rather than a thing"
+        },
+        {
+          "left": "Divine simplicity",
+          "right": "No composition in God of any kind"
+        }
+      ],
+      "explanation": "The substantial/accidental distinction is the one that does daily work: a tree painted white is still a tree, a tree burned to ash is not. Everything hylomorphism says about the soul depends on getting that difference right first.",
+      "hint": "Two of these concern what a thing IS; one what it merely has; one concerns God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 213"
+        }
+      ]
+    }
+  ]
+}
