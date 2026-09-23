@@ -1,0 +1,706 @@
+{
+  "_comment": "Dogmas-and-doctrine levels 4-6: creation, human dignity, the Incarnation and Paschal Mystery",
+  "topic": "dogmas-and-doctrine",
+  "questions": [
+    {
+      "id": "dogmas-and-doctrine-l4-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Church teaches that God created the universe 'ex nihilo,' a Latin phrase meaning:",
+      "choices": [
+        "Out of nothing",
+        "In six literal days",
+        "From pre-existing matter",
+        "Through a series of emanations"
+      ],
+      "correctAnswer": "Out of nothing",
+      "explanation": "Unlike ancient myths where a god shapes the world from existing material, Genesis and the Church's doctrine insist God alone brought all of creation into being from nothing at all.",
+      "hint": "This phrase rules out any pre-existing raw material God shaped.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 296",
+          "quote": "God creates freely 'out of nothing'... God shows his power by starting from nothing to make all he wants."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: According to Genesis, God created human beings, both male and female, in his own image and likeness.",
+      "correctAnswer": true,
+      "explanation": "Genesis 1:27 states plainly that God created humanity, male and female, in his own image -- the foundation for the Church's teaching on human dignity.",
+      "hint": "Genesis says this happened on the sixth day, to both sexes equally.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:27",
+          "quote": "God created mankind in his image; in the image of God he created them; male and female he created them."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Catholic teaching holds that angels are:",
+      "choices": [
+        "Purely spiritual, personal, and immortal creatures",
+        "Souls of people who have died",
+        "A poetic symbol with no real existence",
+        "Lesser gods subordinate to the one God"
+      ],
+      "correctAnswer": "Purely spiritual, personal, and immortal creatures",
+      "explanation": "The Church teaches that angels are real, individual creatures with intellect and will, but without bodies -- entirely different from human souls, which are created to be united to a body.",
+      "hint": "They have no bodies at all, yet they are real, individual creatures.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 330",
+          "quote": "As purely spiritual creatures angels have intelligence and will: they are personal and immortal creatures, surpassing in perfection all visible creatures."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The Catechism teaches that God, who is all-good, permits evil only because in his providence he can draw a greater ____ from it, as seen supremely in the cross.",
+      "correctAnswer": "good",
+      "explanation": "The clearest example is the cross itself: the greatest evil in history, the murder of the Son of God, became the very means of the world's redemption.",
+      "hint": "Think of the cross itself: the worst evil became the source of salvation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each term about God and creation to its meaning.",
+      "pairs": [
+        {
+          "left": "Ex nihilo",
+          "right": "Creation out of nothing, not pre-existing matter"
+        },
+        {
+          "left": "Imago Dei",
+          "right": "Human beings made in the image and likeness of God"
+        },
+        {
+          "left": "Providence",
+          "right": "God's loving governance guiding all creation to its end"
+        },
+        {
+          "left": "Angels",
+          "right": "Purely spiritual beings who serve God's plan"
+        }
+      ],
+      "explanation": "Together these terms describe the Church's vision of creation: brought from nothing, governed by love, and crowned by beings -- human and angelic -- made to know and love their Creator.",
+      "hint": "One of these terms describes what humans are made in; another describes what the universe was made from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 296",
+          "quote": "God creates freely 'out of nothing'... God shows his power by starting from nothing to make all he wants."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 330",
+          "quote": "As purely spiritual creatures angels have intelligence and will: they are personal and immortal creatures, surpassing in perfection all visible creatures."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Catholic Church teaches that the material world, including the human body, is inherently evil and only the spirit is good.",
+      "correctAnswer": false,
+      "explanation": "Genesis says the opposite: after creating the material world, 'God saw everything that he had made, and indeed, it was very good.' The Church has always rejected views that treat matter itself as evil.",
+      "hint": "Genesis says the opposite of this claim, right after describing the material world.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 1:31",
+          "quote": "God looked at everything he had made, and found it very good."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Creation is the work of which divine Person?",
+      "choices": [
+        "All three \u2014 creation is the common work of the Holy Trinity",
+        "The Father alone",
+        "The Son alone, as the Word through whom all was made",
+        "The Spirit alone, as the giver of life"
+      ],
+      "correctAnswer": "All three \u2014 creation is the common work of the Holy Trinity",
+      "explanation": "The Church confesses creation as the inseparable work of the whole Trinity, even while Scripture names the Father as source, the Word as the one through whom all was made, and the Spirit as the giver of life. The outward works of God are never divided among the Persons.",
+      "hint": "The Creed names the Father as Creator, but the Prologue of John and the Creed's third article complicate any exclusive answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 292"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: Having created the world, God now leaves it to run on its own; his upholding of creation ended when creation was finished.",
+      "correctAnswer": false,
+      "explanation": "False. God does not abandon what he creates. Creation is upheld in being at every moment; withdraw that sustaining and it would simply cease. This is the difference between the Christian doctrine of creation and a clockmaker god.",
+      "hint": "Consider whether creation is an event that finished or a relationship that continues.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 301"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The Church teaches that the human person is a unity of body and soul, so profoundly that the soul is called the '____' of the body.",
+      "correctAnswer": "form",
+      "explanation": "Calling the soul the form of the body rules out treating a person as a soul temporarily housed in matter. Body and soul are one nature, which is why the body's destiny is resurrection rather than disposal.",
+      "hint": "The term is borrowed from Aristotle and adopted by the Church precisely to prevent a dualist reading.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l4-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "What does the Church teach about guardian angels?",
+      "choices": [
+        "From infancy to death, human life is surrounded by their watchful care and intercession",
+        "They are a pious legend with no doctrinal standing",
+        "They are assigned only to the baptised",
+        "They are the souls of the faithful departed"
+      ],
+      "correctAnswer": "From infancy to death, human life is surrounded by their watchful care and intercession",
+      "explanation": "Angels are purely spiritual creatures with intellect and will, not departed human souls \u2014 a distinction worth keeping, since the popular idea that people become angels confuses two quite different kinds of creature.",
+      "hint": "Note what angels are NOT: they were never human.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 336"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The Church teaches that human dignity is rooted in what real fact?",
+      "choices": [
+        "The human person's creation in the image and likeness of God",
+        "A person's own real intelligence or achievements, which some possess more than others",
+        "A person's usefulness to society",
+        "A person's physical strength or health"
+      ],
+      "correctAnswer": "The human person's creation in the image and likeness of God",
+      "explanation": "Human dignity does not depend on intelligence, achievement, usefulness, or strength -- it is rooted in the simple, unearned fact that every human person is made in God's own image and likeness, a real dignity no one can lose or gain.",
+      "hint": "Recall Genesis's own real words about how humanity, uniquely among creatures, was made.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1700",
+          "quote": "The dignity of the human person is rooted in his creation in the image and likeness of God"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Because human dignity comes from being made in God's image, it belongs equally to every human person, regardless of age, ability, or circumstance.",
+      "correctAnswer": true,
+      "explanation": "True, and this real consequence is worth stating plainly -- since dignity is rooted in God's own image, not in what a person can do, it belongs equally and fully to every human person, at every stage and in every condition of life.",
+      "hint": "Consider what follows once dignity is rooted in being made in God's image, rather than in ability or usefulness.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1700",
+          "quote": "The dignity of the human person is rooted in his creation in the image and likeness of God"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The previous level named the human person as a real unity of body and soul. Where does the Church teach the human soul actually comes from?",
+      "choices": [
+        "Every spiritual soul is created immediately by God -- it is not produced by the parents",
+        "The soul develops gradually out of purely biological processes, with no real divine act involved",
+        "The soul is inherited genetically from a person's parents, the same way physical traits are",
+        "The soul is a later addition, arriving only once a person reaches the age of reason"
+      ],
+      "correctAnswer": "Every spiritual soul is created immediately by God -- it is not produced by the parents",
+      "explanation": "The Church teaches that while the human body comes about through natural generation, each individual spiritual soul is directly and immediately created by God -- not something parents themselves produce.",
+      "hint": "Consider whether the Church attributes the soul's own origin to purely natural causes, or to a direct divine act.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 366",
+          "quote": "The Church teaches that every spiritual soul is created immediately by God - it is not 'produced' by the parents"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1210,
+      "prompt": "The Catechism calls the soul the 'seed of eternity we bear in ourselves, irreducible to the merely material,' which can have its origin only in ____.",
+      "correctAnswer": "God",
+      "acceptedAnswers": [
+        "God"
+      ],
+      "explanation": "The soul's own real irreducibility to matter -- it cannot be explained as merely a product of material processes -- is exactly why the Church teaches its origin can only be a direct act of God himself.",
+      "hint": "Who alone can be the real source of something that is not merely material?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 33",
+          "quote": "The soul, the 'seed of eternity we bear in ourselves, irreducible to the merely material', can have its origin only in God."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Church teaches that the soul is so united to the body that the soul itself can be called the 'form' of the body -- not a separate thing merely attached to it.",
+      "correctAnswer": true,
+      "explanation": "True. The Church's own real teaching is that body and soul form a single nature so profoundly united that the soul can rightly be called the body's own 'form' -- not a ghost loosely inhabiting a machine, but what actually makes a body a living human body at all.",
+      "hint": "Recall the previous level's own real teaching on the unity of body and soul.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the 'form' of the body"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What real desire does the Catechism say is written into every human heart, regardless of whether a given person recognizes it?",
+      "choices": [
+        "Man is made by and for God, so only God can ever really fulfill the heart",
+        "The desire for wealth, as the deepest real human motivation",
+        "The desire for pure independence from any relationship at all",
+        "The desire for power over other people"
+      ],
+      "correctAnswer": "Man is made by and for God, so only God can ever really fulfill the heart",
+      "explanation": "This is a real, foundational claim about every human person, not only believers -- a real longing for God is written into the human heart itself, because the human person was made by God and for God.",
+      "hint": "Consider what the human heart is actually made for, according to the Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 27",
+          "quote": "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Because every human heart carries a real desire for God, a person can only ever find real, lasting fulfillment through him.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly the real point of naming this desire directly -- if the human heart is truly made for God, then no lesser good, however real or good in itself, can actually satisfy it the way God alone can.",
+      "hint": "Consider what follows for a being made by and for a particular end, if it tries to settle for something less.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 27",
+          "quote": "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each fact about the human person to what it actually means.",
+      "pairs": [
+        {
+          "left": "Human dignity",
+          "right": "Rooted in every person's real creation in the image and likeness of God"
+        },
+        {
+          "left": "The soul",
+          "right": "Created immediately by God, not produced by the parents"
+        },
+        {
+          "left": "Soul as the body's own 'form'",
+          "right": "Body and soul united so profoundly they form a single human nature"
+        },
+        {
+          "left": "The desire for God",
+          "right": "Written into every human heart, since man is made by God and for God"
+        }
+      ],
+      "explanation": "These four facts together give a real, precise picture of the human person -- not simply a body, not simply a soul, but a single, dignified whole made for real communion with God.",
+      "hint": "Two rows describe where human dignity and the soul actually come from; two describe the real unity and orientation that follow from it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1700",
+          "quote": "The dignity of the human person is rooted in his creation in the image and likeness of God"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: This level's picture of human dignity and the soul's own real orientation toward God has no real bearing on why God became man in the first place.",
+      "correctAnswer": false,
+      "explanation": "False. This level's own real picture -- a human person made in God's image, with a heart that cannot be satisfied by anything less than God -- is exactly what the Incarnation, the next level in this topic, actually answers: God becoming man so that the human heart's own real desire could finally be met.",
+      "hint": "Consider what the Incarnation, the next level in this topic, would actually mean without this level's own picture of the human person.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 27",
+          "quote": "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l5-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Given this level's picture of a human person made for real communion with God, what does the next level in this topic turn to?",
+      "choices": [
+        "The Incarnation and the Paschal Mystery -- God becoming man to actually save",
+        "A complete repeat of this same level's material about human dignity and the soul",
+        "A jump ahead to the Last Things, skipping over everything in between",
+        "A subject entirely unrelated to God, the human person, or salvation"
+      ],
+      "correctAnswer": "The Incarnation and the Paschal Mystery -- God becoming man to actually save",
+      "explanation": "Having established both the real fall (level 3) and the human person's own real capacity for God (this level), this topic's next level turns to how God actually answers both -- the Incarnation, God himself becoming man to save.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the 'form' of the body"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The Incarnation is the Church's teaching that:",
+      "choices": [
+        "The Son of God took on human nature and became man",
+        "God appeared to be human without truly becoming one",
+        "Jesus was a man later adopted as God's son",
+        "The Holy Spirit became visible as a dove"
+      ],
+      "correctAnswer": "The Son of God took on human nature and became man",
+      "explanation": "John's Gospel states it directly: 'the Word became flesh and dwelt among us' -- the eternal Son truly assumed a complete human nature without ceasing to be God.",
+      "hint": "John's Gospel says 'the Word became flesh and dwelt among us.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:14",
+          "quote": "And the Word became flesh and made his dwelling among us, and we saw his glory, the glory as of the Father's only Son, full of grace and truth."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 461",
+          "quote": "The Church calls 'Incarnation' the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Catholic Church teaches that Jesus Christ is the one, sole mediator between God and humanity.",
+      "correctAnswer": true,
+      "explanation": "St. Paul states this plainly: 'there is one God, and one mediator between God and mankind, Christ Jesus.' Every other form of intercession, including that of the saints, draws on his mediation alone.",
+      "hint": "Paul names only one person who stands between God and all humanity.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5",
+          "quote": "For there is one God. There is also one mediator between God and the human race, Christ Jesus, himself human"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The 'Paschal Mystery' refers to Christ's:",
+      "choices": [
+        "Passion, death, resurrection, and ascension",
+        "Birth and childhood in Nazareth",
+        "Forty days of fasting in the desert",
+        "Sermon on the Mount"
+      ],
+      "correctAnswer": "Passion, death, resurrection, and ascension",
+      "explanation": "The Paschal Mystery -- Christ's suffering, death, rising, and return to the Father -- stands at the very center of the Christian faith and of the Church's liturgy.",
+      "hint": "This word covers four connected events at the end of Christ's earthly life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 571",
+          "quote": "The Paschal mystery of Christ's cross and Resurrection stands at the center of the Good News that the apostles, and the Church following them, are to proclaim to the world."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The Apostles' Creed states that Christ 'descended into ____' before rising on the third day, affirming that he truly experienced death.",
+      "correctAnswer": "hell",
+      "explanation": "This article of the Creed affirms that Christ's soul truly joined the dead, sharing fully in the human experience of death before his glorious resurrection.",
+      "hint": "This line comes right after 'was crucified, died, and was buried' in the Creed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 631",
+          "quote": "The Apostles' Creed confesses in the same article Christ's descent into hell and his Resurrection from the dead on the third day, because in his Passover it was precisely out of the depths of death that he made life spring forth"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each term about Christ and salvation to its meaning.",
+      "pairs": [
+        {
+          "left": "Incarnation",
+          "right": "The Son of God became man"
+        },
+        {
+          "left": "Paschal Mystery",
+          "right": "Christ's passion, death, resurrection, and ascension"
+        },
+        {
+          "left": "Redemption",
+          "right": "Christ's saving sacrifice that frees us from sin"
+        },
+        {
+          "left": "Mediator",
+          "right": "Christ as the one bridge between God and humanity"
+        }
+      ],
+      "explanation": "These four terms together summarize the whole of Christ's saving work: who he became, what he did, why it matters, and how it reaches us.",
+      "hint": "One of these terms names the whole arc from Good Friday to Ascension Thursday.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 461",
+          "quote": "The Church calls 'Incarnation' the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5",
+          "quote": "For there is one God. There is also one mediator between God and the human race, Christ Jesus, himself human"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Catholic Church teaches that Christ's saving death was intended only for a chosen few, not for all humanity.",
+      "correctAnswer": false,
+      "explanation": "St. Paul writes that God 'wills everyone to be saved' and that Christ 'died for all' -- the Church has always taught that redemption is offered to every person, even though not all accept it.",
+      "hint": "Paul writes that Christ died for all, not for a select few.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:4",
+          "quote": "who wills everyone to be saved and to come to knowledge of the truth."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Scripture presents Christ as the new Adam. What is the structure of the comparison?",
+      "choices": [
+        "As by one man's disobedience many were made sinners, so by one man's obedience many will be made righteous",
+        "As Adam was created first, so Christ was created before all things",
+        "As Adam named the animals, so Christ names the saved",
+        "As Adam was formed from earth, so Christ was formed from heaven"
+      ],
+      "correctAnswer": "As by one man's disobedience many were made sinners, so by one man's obedience many will be made righteous",
+      "explanation": "The parallel is obedience answering disobedience, and it explains why the Cross saves. Christ undoes the refusal at the root of the human situation by rendering the obedience Adam withheld.",
+      "hint": "The hinge word is a moral act, and its opposite.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 5:19"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 411"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Ascension means Christ's humanity \u2014 not only his divinity \u2014 has entered heaven definitively.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the whole point of it. Christ does not shed his human nature on the way up. A man is now in glory, which is why the Ascension is a promise about our destiny and not merely a departure.",
+      "hint": "Ask what Christ took with him, and whether he left anything behind.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 665"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "Christ said the Son of Man came not to be served but to serve, and to give his life as a ____ for many.",
+      "correctAnswer": "ransom",
+      "explanation": "The ransom image says the cost was real without specifying who was paid \u2014 a question Scripture leaves open and the Church has declined to answer as though it were a transaction between God and the devil.",
+      "hint": "The word implies a price paid to free a captive.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Mark 10:45"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 605"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l6-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each moment of the Paschal Mystery to what the Church confesses about it.",
+      "pairs": [
+        {
+          "left": "Passion and death",
+          "right": "The obedience by which the many are made righteous"
+        },
+        {
+          "left": "Descent to the dead",
+          "right": "Christ brings the Gospel to the righteous who died before him"
+        },
+        {
+          "left": "Resurrection",
+          "right": "Not a return to earthly life but entry into a glorified state"
+        },
+        {
+          "left": "Ascension",
+          "right": "Human nature definitively enters God's heavenly domain"
+        }
+      ],
+      "explanation": "Treating these as four moments of one mystery rather than four separate events is the point. Each is unintelligible alone: a death without resurrection is a defeat, a resurrection without ascension leaves the story unfinished.",
+      "hint": "They are consecutive, and each completes something the previous one began.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 571"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 631"
+        }
+      ]
+    }
+  ]
+}
