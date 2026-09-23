@@ -1,0 +1,674 @@
+{
+  "_comment": "DRAFT -- NOT live. Old Testament levels 19-21 of 23: the cycle of the Judges, Saul and the anointing of David, and David as king bringing the ark to Jerusalem. 2 Samuel 6:9 and 6:11 are already reviewed and used here; all other Scripture references are new and flagged by onramp_tool.py check for translation verification before shipping.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l19-001",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What recurring pattern shapes the book of Judges, across many different leaders?",
+      "choices": [
+        "Israel sins, is oppressed, cries out, and is delivered by a judge",
+        "Israel conquers steadily with no setbacks at all",
+        "A single dynasty rules continuously through the whole period",
+        "Foreign nations govern Israel without any resistance"
+      ],
+      "correctAnswer": "Israel sins, is oppressed, cries out, and is delivered by a judge",
+      "explanation": "The cycle repeats again and again with different names attached -- Deborah, Gideon, Samson -- but the same shape every time: unfaithfulness, oppression, a cry for help, and a deliverer raised up.",
+      "hint": "The same four-part shape repeats with different judges each time.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 2:16-18",
+          "quote": "the LORD raised up judges to deliver them... Yet whenever the LORD raised up a judge for them, the LORD would be with him and save them from the power of their enemies as long as the judge lived."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-002",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: During the time of the Judges, deliverance from oppression lasted only as long as that particular judge was alive.",
+      "correctAnswer": true,
+      "explanation": "True, and this is what keeps the cycle turning: relief comes with each judge, but it is not permanent. Israel returns to unfaithfulness once the judge who rescued them has died.",
+      "hint": "Consider what happens once each individual judge dies.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 2:16-18",
+          "quote": "the LORD raised up judges to deliver them... Yet whenever the LORD raised up a judge for them, the LORD would be with him and save them from the power of their enemies as long as the judge lived."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-003",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "fill_blank",
+      "difficultyElo": 2260,
+      "prompt": "The book of Judges closes with a telling line: 'In those days there was no ____ in Israel; everyone did as they saw fit.'",
+      "correctAnswer": "king",
+      "acceptedAnswers": [
+        "king"
+      ],
+      "explanation": "The book's own closing verdict names what it thinks is missing -- not simply better judges, but a king. That sentence is what the next level's story directly answers.",
+      "hint": "It names the office Israel will ask for in the next level.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 21:25",
+          "quote": "In those days there was no king in Israel; everyone did what was right in their own eyes."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-004",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "According to the book's own closing line, what marked the period when there was no king in Israel?",
+      "choices": [
+        "Everyone did what was right in their own eyes",
+        "The Law was kept faithfully by everyone",
+        "The twelve tribes were perfectly united",
+        "No conflict with neighboring nations occurred"
+      ],
+      "correctAnswer": "Everyone did what was right in their own eyes",
+      "explanation": "Without a king, without a single covenant-keeping authority holding the tribes together, the book's own diagnosis is that Israel's cycle of unfaithfulness had no check on it.",
+      "hint": "The judgment concerns a lack of shared authority, not a lack of individual effort.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 21:25",
+          "quote": "In those days there was no king in Israel; everyone did what was right in their own eyes."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-005",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: The judges of this period were meant to be permanent kings ruling by hereditary right.",
+      "correctAnswer": false,
+      "explanation": "False. Judges were raised up by God for a specific deliverance, not installed as a permanent dynasty -- which is exactly the gap the closing verse of the book points to.",
+      "hint": "Consider whether a judge's role was passed down to their children as a rule.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 2:16-18",
+          "quote": "the LORD raised up judges to deliver them... Yet whenever the LORD raised up a judge for them, the LORD would be with him and save them from the power of their enemies as long as the judge lived."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-006",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2240,
+      "prompt": "Match each stage of the Judges cycle to what happens in it.",
+      "pairs": [
+        { "left": "Israel sins", "right": "Turns from the LORD toward other gods" },
+        { "left": "Oppression follows", "right": "A foreign power gains control over Israel" },
+        { "left": "Israel cries out", "right": "Calls on the LORD for deliverance" },
+        { "left": "A judge is raised up", "right": "Delivers Israel only as long as they live" }
+      ],
+      "explanation": "This cycle repeats through the whole book with different names attached to the fourth stage each time. The pattern itself, not any one judge, is the real subject of Judges.",
+      "hint": "Read the four stages as one repeating cycle, not four separate events.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 2:16-18",
+          "quote": "the LORD raised up judges to deliver them... Yet whenever the LORD raised up a judge for them, the LORD would be with him and save them from the power of their enemies as long as the judge lived."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-007",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "How does the period of the Judges connect to the choice Joshua set before Israel at the end of the last level?",
+      "choices": [
+        "It shows what happens when each generation fails to choose faithfully",
+        "It shows the covenant was permanently secured after Joshua's challenge",
+        "It has no real connection to Joshua's challenge at all",
+        "It shows Israel choosing faithfully without any relapse"
+      ],
+      "correctAnswer": "It shows what happens when each generation fails to choose faithfully",
+      "explanation": "Joshua warned that belonging to the covenant is not automatic. The book of Judges is that warning playing out in real time -- generation after generation failing to renew the choice for themselves.",
+      "hint": "Recall what Joshua said about each generation needing to choose for itself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 21:25",
+          "quote": "In those days there was no king in Israel; everyone did what was right in their own eyes."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-008",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: The cycle of sin, oppression, crying out, and deliverance is the same shape this topic already traced after the golden calf.",
+      "correctAnswer": true,
+      "explanation": "True. Failure met by mercy, not abandonment -- the same rhythm named at the golden calf repeats through the entire period of the Judges, generation after generation.",
+      "hint": "This same rhythm was named explicitly at an earlier point in this topic.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 2:16-18",
+          "quote": "the LORD raised up judges to deliver them... Yet whenever the LORD raised up a judge for them, the LORD would be with him and save them from the power of their enemies as long as the judge lived."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-009",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "fill_blank",
+      "difficultyElo": 2260,
+      "prompt": "Judges says the LORD saved Israel from their enemies as long as the ____ lived.",
+      "correctAnswer": "judge",
+      "acceptedAnswers": [
+        "judge"
+      ],
+      "explanation": "Deliverance in this period is tied to one person's life. It is exactly this instability that the book's closing verse points to as the real problem.",
+      "hint": "The deliverance lasted only as long as this one person was alive.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 2:16-18",
+          "quote": "the LORD raised up judges to deliver them... Yet whenever the LORD raised up a judge for them, the LORD would be with him and save them from the power of their enemies as long as the judge lived."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l19-010",
+      "topic": "old-testament",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What real problem is the book of Judges pointing to when it says Israel had no king?",
+      "choices": [
+        "A lack of stable, covenant-faithful leadership across generations",
+        "A shortage of skilled military commanders only",
+        "A lack of a central location for worship alone",
+        "A dispute over which tribe should hold the most land"
+      ],
+      "correctAnswer": "A lack of stable, covenant-faithful leadership across generations",
+      "explanation": "Judges are temporary and personal; the office the book is missing is one that could hold the covenant steady across generations, not just win one battle at a time.",
+      "hint": "Consider what a judge could not provide that a king might.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 21:25",
+          "quote": "In those days there was no king in Israel; everyone did what was right in their own eyes."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l20-001",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "When Samuel is sent to anoint Israel's next king from among Jesse's sons, what does God tell him not to judge by?",
+      "choices": [
+        "Outward appearance",
+        "Age and seniority",
+        "Wealth and property",
+        "Prior military experience"
+      ],
+      "correctAnswer": "Outward appearance",
+      "explanation": "Samuel is drawn to the oldest, most impressive-looking son first. God's correction reframes the whole selection: appearance is what a man sees, but the LORD looks into the heart.",
+      "hint": "Samuel's first instinct is drawn to someone's looks.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-002",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: David is anointed by Samuel even though he is the youngest of Jesse's sons, out tending sheep.",
+      "correctAnswer": true,
+      "explanation": "True. David is not even brought in from the field until every other son has been passed over -- the youngest, the least considered, is the one chosen.",
+      "hint": "He is not even present when his brothers are first presented to Samuel.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-003",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "fill_blank",
+      "difficultyElo": 2335,
+      "prompt": "Samuel is told: 'God does not see as a mortal... the LORD looks into the ____.'",
+      "correctAnswer": "heart",
+      "acceptedAnswers": [
+        "heart"
+      ],
+      "explanation": "The standard God uses to choose a king has nothing to do with the standards Israel would later demand -- height, appearance, the look of a warrior. What God sees is not visible at all.",
+      "hint": "What a human being cannot see directly, but God can.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-004",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "What was David's occupation at the moment Samuel came to anoint him?",
+      "choices": [
+        "Shepherding his father's flock",
+        "Serving as a soldier in Saul's army",
+        "Working as a scribe in the local town",
+        "Already ruling as a minor official"
+      ],
+      "correctAnswer": "Shepherding his father's flock",
+      "explanation": "The one anointed to shepherd Israel is, at the moment of his anointing, literally a shepherd of sheep -- an image Scripture will return to again and again when it speaks of David and of the greater king to come.",
+      "hint": "The occupation itself becomes a lasting image for the kind of king he will be.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-005",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: David is anointed king by Samuel while Saul is still reigning as king.",
+      "correctAnswer": true,
+      "explanation": "True. David's anointing comes years before he actually takes the throne -- he is chosen long before he reigns, and lives through Saul's continued kingship, and Saul's hostility toward him, in the meantime.",
+      "hint": "Consider the gap between being anointed and actually becoming king.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-006",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each figure in the anointing account to their role.",
+      "pairs": [
+        { "left": "Samuel", "right": "Sent by God to anoint the next king" },
+        { "left": "Jesse's older sons", "right": "Passed over despite impressive appearance" },
+        { "left": "David", "right": "The youngest, chosen for his heart" },
+        { "left": "The flock in the field", "right": "What David was tending when he was chosen" }
+      ],
+      "explanation": "Every detail works against expectation: the prophet's own first instinct is wrong, the obvious candidates are passed over, and the one chosen is not even present until called.",
+      "hint": "Notice how each figure defies what would normally be expected.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-007",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Why does even the prophet Samuel need to be corrected in choosing the next king?",
+      "choices": [
+        "Because even a prophet can default to human standards of judgment",
+        "Because Samuel secretly opposed David from the start",
+        "Because Samuel had never met Jesse's family before",
+        "Because Samuel was testing Jesse's sons deliberately"
+      ],
+      "correctAnswer": "Because even a prophet can default to human standards of judgment",
+      "explanation": "Samuel's own instinct, on seeing the eldest son, is to assume this must be the one. God's correction is aimed at Samuel himself, not only at Israel -- no one is exempt from needing this reminder.",
+      "hint": "Samuel's own first reaction needs to be corrected.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-008",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: The standard God uses to choose David directly contrasts with what Israel had originally wanted in a king.",
+      "correctAnswer": true,
+      "explanation": "True. Israel had wanted a king who looked the part; God chooses one whose heart is right instead -- a contrast this level makes as pointed as it can.",
+      "hint": "Consider what kind of king Israel originally asked for, versus who God actually chooses.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-009",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "fill_blank",
+      "difficultyElo": 2335,
+      "prompt": "Samuel is told not to judge David's older brother by his appearance or his lofty ____.",
+      "correctAnswer": "stature",
+      "acceptedAnswers": [
+        "stature"
+      ],
+      "explanation": "Physical impressiveness is named specifically as the wrong measure. Whatever made this brother look like an obvious king is exactly what God says does not matter here.",
+      "hint": "It refers to how tall or physically impressive someone appears.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l20-010",
+      "topic": "old-testament",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "How does David's anointing as a shepherd-boy connect forward to Luke's Gospel, which this topic reached at level 6?",
+      "choices": [
+        "The angel tells Mary her son will receive the throne of David",
+        "It has no real connection to anything in Luke's Gospel",
+        "David's shepherding is repeated literally by Jesus as an occupation",
+        "Luke never mentions David anywhere in his Gospel"
+      ],
+      "correctAnswer": "The angel tells Mary her son will receive the throne of David",
+      "explanation": "The shepherd-boy anointed in a field becomes the reference point for a promise made centuries later at the Annunciation -- 'the Lord God will give him the throne of David his father.'",
+      "hint": "Recall the announcement made to Mary earlier in this topic.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l21-001",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "When David brings the ark of the covenant toward Jerusalem, what is his first reaction after a man dies touching it?",
+      "choices": [
+        "Fear -- he asks how the ark could ever come to him",
+        "Anger at the man who died for interfering",
+        "Indifference, and he continues the procession at once",
+        "He abandons the plan to bring the ark to Jerusalem forever"
+      ],
+      "correctAnswer": "Fear -- he asks how the ark could ever come to him",
+      "explanation": "David's fear here is not mere caution -- it is reverence for something genuinely holy, the same reverence Moses was shown at the burning bush, now facing the king himself.",
+      "hint": "His response is one of reverence, not simple caution or anger.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-002",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: David leaves the ark in the house of Obed-edom for three months before finally bringing it to Jerusalem.",
+      "correctAnswer": true,
+      "explanation": "True. David's fear leads him to pause the procession entirely -- the ark rests in Obed-edom's house for three months before David finally continues bringing it up to the city.",
+      "hint": "David's fear leads him to pause the procession for a real length of time.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:11",
+          "quote": "The ark of the Lord remained in the house of Obed-edom the Gittite for three months."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-003",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "fill_blank",
+      "difficultyElo": 2410,
+      "prompt": "David asks: 'How can the ark of the Lord come to ____?'",
+      "correctAnswer": "me",
+      "acceptedAnswers": [
+        "me"
+      ],
+      "explanation": "Even as king, David does not treat the ark's presence as something he is simply entitled to. The question is genuine reverence, not rhetorical hesitation.",
+      "hint": "David is asking about himself specifically, not about the ark in general.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-004",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "Why does bringing the ark to Jerusalem matter so much for David's kingship?",
+      "choices": [
+        "It makes Jerusalem the center of Israel's worship, not merely its politics",
+        "It has purely military significance for defending the city",
+        "It replaces the covenant given earlier at Sinai",
+        "It was required before David could be anointed at all"
+      ],
+      "correctAnswer": "It makes Jerusalem the center of Israel's worship, not merely its politics",
+      "explanation": "David is not simply relocating a religious object to his own capital for prestige. Bringing the ark to Jerusalem unites the political center of the kingdom with the place where God's presence dwells among his people.",
+      "hint": "Consider what the ark represents, beyond being an object.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:11",
+          "quote": "The ark of the Lord remained in the house of Obed-edom the Gittite for three months."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-005",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: David's fear of the ark shows the same reverence for holiness this topic first named at the burning bush.",
+      "correctAnswer": true,
+      "explanation": "True. Moses removed his sandals before holy ground; David pauses an entire procession, three months long, before holy presence. The reverence is the same, even generations apart.",
+      "hint": "Recall the instruction Moses received before the burning bush.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-006",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "matching_pairs",
+      "difficultyElo": 2390,
+      "prompt": "Match each moment of David's kingship to what it establishes.",
+      "pairs": [
+        { "left": "Anointed as a shepherd-boy", "right": "Chosen for his heart, not his stature" },
+        { "left": "Fear before the ark", "right": "Reverence for what is genuinely holy" },
+        { "left": "Three months' delay at Obed-edom", "right": "Caution before completing the procession" },
+        { "left": "The ark brought to Jerusalem", "right": "Worship and kingship united in one city" }
+      ],
+      "explanation": "David's whole kingship, from his anointing to this procession, is marked by the same thing: a real regard for what is God's, not a king's casual claim on it.",
+      "hint": "Trace how each moment builds David's specific character as king.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-007",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "What does David's kingship, taken as a whole so far, answer from the period of the Judges?",
+      "choices": [
+        "A single, covenant-faithful leadership that can hold Israel together",
+        "A return to having no central leadership at all",
+        "A king chosen purely for his military record",
+        "A permanent removal of any further need for repentance"
+      ],
+      "correctAnswer": "A single, covenant-faithful leadership that can hold Israel together",
+      "explanation": "Judges ended with the diagnosis that Israel had no king, and everyone did as they saw fit. David -- chosen for his heart, reverent before what is holy -- is the answer this topic has been building toward since that verse.",
+      "hint": "Recall exactly what the book of Judges said Israel lacked.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Judges 21:25",
+          "quote": "In those days there was no king in Israel; everyone did what was right in their own eyes."
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-008",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: Once the ark reaches Jerusalem, this topic's typological thread of covenant, kingship, and worship converges in one place.",
+      "correctAnswer": true,
+      "explanation": "True. Everything traced since Abraham -- covenant, promised land, the Law, a king after God's own heart -- now converges physically in one city, on David's throne, around the ark.",
+      "hint": "Consider how many earlier threads of this topic meet at this single moment.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:11",
+          "quote": "The ark of the Lord remained in the house of Obed-edom the Gittite for three months."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-009",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "fill_blank",
+      "difficultyElo": 2410,
+      "prompt": "The ark remained in the house of ____ the Gittite for three months.",
+      "correctAnswer": "Obed-edom",
+      "acceptedAnswers": [
+        "Obed-edom",
+        "Obed edom"
+      ],
+      "explanation": "A specific man, a specific household, named directly in the text -- Scripture is precise about where the ark rested during David's hesitation, not vague about the delay.",
+      "hint": "It is a specific man's name, given directly in the text.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:11",
+          "quote": "The ark of the Lord remained in the house of Obed-edom the Gittite for three months."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l21-010",
+      "topic": "old-testament",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "Looking at levels 19 through 21 together, what has this topic's answer to the crisis of the Judges finally become?",
+      "choices": [
+        "A king chosen for his heart, reverent before God, uniting worship and rule",
+        "A return to rule by many independent judges again",
+        "A king who rules by force with no regard for the covenant",
+        "A permanent solution requiring no further trust in God"
+      ],
+      "correctAnswer": "A king chosen for his heart, reverent before God, uniting worship and rule",
+      "explanation": "Everything this stretch has covered -- the anointing, the fear before the ark, the ark's arrival in Jerusalem -- answers the exact gap Judges named. David is not a perfect end point, as the next level will show, but he is a real answer to what was missing.",
+      "hint": "Weigh what the anointing and the ark's arrival together have accomplished.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:7",
+          "quote": "Do not judge from his appearance or from his lofty stature... God does not see as a mortal, who sees the appearance. The LORD looks into the heart."
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ]
+    }
+  ]
+}

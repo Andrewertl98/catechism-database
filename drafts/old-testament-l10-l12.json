@@ -11,9 +11,9 @@
       "prompt": "Generations after Joseph's death, what changed for his descendants in Egypt?",
       "choices": [
         "A new king arose who did not know Joseph, and enslaved them",
-        "They were given their own province to rule",
-        "They returned voluntarily to Canaan",
-        "They were made equal citizens of Egypt"
+        "They were graciously given their own province of Egypt to rule",
+        "They chose to return voluntarily to Canaan on their own",
+        "They were formally made equal citizens of the Egyptian empire"
       ],
       "correctAnswer": "A new king arose who did not know Joseph, and enslaved them",
       "explanation": "The favor Joseph earned did not last past living memory. A new Pharaoh, fearing how numerous and strong Israel had become, reduces the very people Joseph once saved to forced labor.",
@@ -74,9 +74,9 @@
       "prompt": "How does the infant Moses survive Pharaoh's order to kill Hebrew sons?",
       "choices": [
         "His mother hides him, then sets him adrift in a basket on the river",
-        "He is smuggled out of Egypt entirely as an infant",
-        "His father bribes an Egyptian official",
-        "He is disguised and raised as a girl"
+        "He is smuggled out of Egypt entirely as a newborn infant",
+        "His father secretly bribes a high-ranking Egyptian official",
+        "He is disguised as a girl and raised in that disguise"
       ],
       "correctAnswer": "His mother hides him, then sets him adrift in a basket on the river",
       "explanation": "Unable to hide him any longer, Moses' mother places him in a waterproofed basket on the Nile -- where Pharaoh's own daughter finds and raises him, inside the household of the very king who ordered his death.",
@@ -115,10 +115,22 @@
       "difficultyElo": 1565,
       "prompt": "Match each stage of Israel's descent into slavery to what happens there.",
       "pairs": [
-        { "left": "A new king arises", "right": "Has no memory of Joseph's service" },
-        { "left": "Forced labor is imposed", "right": "Fails to stop Israel's growth" },
-        { "left": "Infant boys are ordered killed", "right": "The midwives quietly refuse" },
-        { "left": "Moses is set adrift", "right": "Is raised inside Pharaoh's own house" }
+        {
+          "left": "A new king arises",
+          "right": "Has no memory of Joseph's service"
+        },
+        {
+          "left": "Forced labor is imposed",
+          "right": "Fails to stop Israel's growth"
+        },
+        {
+          "left": "Infant boys are ordered killed",
+          "right": "The midwives quietly refuse"
+        },
+        {
+          "left": "Moses is set adrift",
+          "right": "Is raised inside Pharaoh's own house"
+        }
       ],
       "explanation": "Each Egyptian attempt to control Israel fails in a way that sets up what follows. The child meant to die is raised by the family of the one who ordered it.",
       "hint": "Each attempt at control backfires in a specific way.",
@@ -222,7 +234,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l11-001",
       "topic": "old-testament",
@@ -337,10 +348,22 @@
       "difficultyElo": 1640,
       "prompt": "Match each element of the burning bush account to what it establishes.",
       "pairs": [
-        { "left": "The fire that does not consume", "right": "Draws Moses aside to look" },
-        { "left": "Removing his sandals", "right": "The ground itself is holy" },
-        { "left": "\"I am who I am\"", "right": "God's name is a claim about existence itself" },
-        { "left": "The God of Abraham, Isaac, Jacob", "right": "The same promise made generations earlier" }
+        {
+          "left": "The fire that does not consume",
+          "right": "Draws Moses aside to look"
+        },
+        {
+          "left": "Removing his sandals",
+          "right": "The ground itself is holy"
+        },
+        {
+          "left": "\"I am who I am\"",
+          "right": "God's name is a claim about existence itself"
+        },
+        {
+          "left": "The God of Abraham, Isaac, Jacob",
+          "right": "The same promise made generations earlier"
+        }
       ],
       "explanation": "Nothing here is decorative. The strange fire gets Moses' attention; the holy ground sets the tone; the name defines who is speaking; and the patriarchs' names tie this moment to everything already covered in this topic.",
       "hint": "Each detail serves a specific purpose in the scene.",
@@ -450,7 +473,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l12-001",
       "topic": "old-testament",
@@ -569,10 +591,22 @@
       "difficultyElo": 1715,
       "prompt": "Match each element of the first Passover to what the Church later sees fulfilled in it.",
       "pairs": [
-        { "left": "The unblemished lamb", "right": "Christ, without sin" },
-        { "left": "Blood on the doorposts", "right": "Protection from death" },
-        { "left": "\"I will pass over you\"", "right": "The origin of the feast's name" },
-        { "left": "Unleavened bread eaten in haste", "right": "A meal for a people about to be freed" }
+        {
+          "left": "The unblemished lamb",
+          "right": "Christ, without sin"
+        },
+        {
+          "left": "Blood on the doorposts",
+          "right": "Protection from death"
+        },
+        {
+          "left": "\"I will pass over you\"",
+          "right": "The origin of the feast's name"
+        },
+        {
+          "left": "Unleavened bread eaten in haste",
+          "right": "A meal for a people about to be freed"
+        }
       ],
       "explanation": "This is typology at its clearest in the whole Old Testament -- so clear that the New Testament names Christ 'our paschal lamb' outright rather than leaving the connection implicit.",
       "hint": "Each detail of the meal carries forward into how Christians read the Eucharist.",

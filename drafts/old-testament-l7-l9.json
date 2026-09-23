@@ -11,9 +11,9 @@
       "prompt": "Why did Joseph's brothers resent him so deeply?",
       "choices": [
         "Their father loved him best and gave him a special tunic",
-        "He had taken over their father's flocks",
-        "He refused to work alongside them",
-        "He had married outside the family"
+        "He had quietly taken over managing their father's flocks",
+        "He flatly refused to work alongside his older brothers",
+        "He had married a foreign woman outside the family line"
       ],
       "correctAnswer": "Their father loved him best and gave him a special tunic",
       "explanation": "Jacob's favoritism toward Joseph -- marked out by a special tunic -- is what curdles into his brothers' hatred. The family's own wound is what sets the rest of the story moving.",
@@ -115,10 +115,22 @@
       "difficultyElo": 1340,
       "prompt": "Match each stage of Joseph's descent to what happens there.",
       "pairs": [
-        { "left": "His father's house", "right": "Loved above his brothers, given a special tunic" },
-        { "left": "The pit and the caravan", "right": "Sold by his own brothers for silver" },
-        { "left": "Potiphar's household", "right": "Prospers, then is falsely accused" },
-        { "left": "The king's prison", "right": "Innocent, and seemingly forgotten" }
+        {
+          "left": "His father's house",
+          "right": "Loved above his brothers, given a special tunic"
+        },
+        {
+          "left": "The pit and the caravan",
+          "right": "Sold by his own brothers for silver"
+        },
+        {
+          "left": "Potiphar's household",
+          "right": "Prospers, then is falsely accused"
+        },
+        {
+          "left": "The king's prison",
+          "right": "Innocent, and seemingly forgotten"
+        }
       ],
       "explanation": "Each stage takes Joseph lower than the one before. The story will not turn upward again until the next level -- Egypt's whole future turns out to depend on the very man it had buried in a cell.",
       "hint": "Each stage is a further fall from where he started.",
@@ -144,9 +156,9 @@
       "prompt": "What did Joseph's brothers do with his special tunic after selling him?",
       "choices": [
         "Dipped it in goat's blood and brought it to their father",
-        "Burned it so no evidence would remain",
-        "Sold it along with Joseph himself",
-        "Buried it at the site of the pit"
+        "Burned it completely so that no evidence would remain",
+        "Quietly sold it along with Joseph himself to traders",
+        "Buried it deep at the site of the empty cistern"
       ],
       "correctAnswer": "Dipped it in goat's blood and brought it to their father",
       "explanation": "They let Jacob believe his favorite son was torn apart by a wild animal. The lie costs Jacob years of grief, and it is not undone until Joseph reveals himself many chapters later.",
@@ -228,7 +240,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l8-001",
       "topic": "old-testament",
@@ -342,10 +353,22 @@
       "difficultyElo": 1415,
       "prompt": "Match each stage of Joseph's rise to what enables it.",
       "pairs": [
-        { "left": "Called before Pharaoh", "right": "His gift for interpreting dreams" },
-        { "left": "Credit for the interpretation", "right": "Given entirely to God, not himself" },
-        { "left": "Made second over Egypt", "right": "Trusted after proving right" },
-        { "left": "Grain stored for seven years", "right": "Prepares Egypt for the famine ahead" }
+        {
+          "left": "Called before Pharaoh",
+          "right": "His gift for interpreting dreams"
+        },
+        {
+          "left": "Credit for the interpretation",
+          "right": "Given entirely to God, not himself"
+        },
+        {
+          "left": "Made second over Egypt",
+          "right": "Trusted after proving right"
+        },
+        {
+          "left": "Grain stored for seven years",
+          "right": "Prepares Egypt for the famine ahead"
+        }
       ],
       "explanation": "The same gift that made his brothers resent him now saves a nation. Nothing in Joseph has changed since the pit -- only the use his gift has finally been put to.",
       "hint": "Each item on the left leads directly to the one beside it.",
@@ -454,7 +477,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l9-001",
       "topic": "old-testament",
@@ -568,10 +590,22 @@
       "difficultyElo": 1490,
       "prompt": "Match each moment of the reunion to what it accomplishes.",
       "pairs": [
-        { "left": "Famine strikes Canaan", "right": "Brings the brothers to Egypt for grain" },
-        { "left": "Joseph reveals himself", "right": "Names God's purpose in their betrayal" },
-        { "left": "'God meant it for good'", "right": "Reframes the whole story's meaning" },
-        { "left": "The family settles in Egypt", "right": "Sets up the situation the next level opens with" }
+        {
+          "left": "Famine strikes Canaan",
+          "right": "Brings the brothers to Egypt for grain"
+        },
+        {
+          "left": "Joseph reveals himself",
+          "right": "Names God's purpose in their betrayal"
+        },
+        {
+          "left": "'God meant it for good'",
+          "right": "Reframes the whole story's meaning"
+        },
+        {
+          "left": "The family settles in Egypt",
+          "right": "Sets up the situation the next level opens with"
+        }
       ],
       "explanation": "Every earlier low point in Joseph's story is answered here: the pit, the false accusation, the years in prison. None of it is denied -- all of it is given a purpose larger than what anyone intended.",
       "hint": "Read left to right as consequence, not coincidence.",
@@ -666,9 +700,9 @@
       "prompt": "Looking back over Joseph's whole story, what does it demonstrate about how the promise to Abraham keeps moving forward?",
       "choices": [
         "Through ordinary human choices, even cruel ones, that God does not override but works through",
-        "Only through direct miracles that bypass human freedom entirely",
-        "Only through kings and prophets, never through family conflict",
-        "It stalls completely until Moses is born"
+        "Only through direct miracles that completely bypass human freedom and choice",
+        "Only through the actions of kings and prophets, never through family conflict",
+        "It stalls completely and goes nowhere until Moses is finally born"
       ],
       "correctAnswer": "Through ordinary human choices, even cruel ones, that God does not override but works through",
       "explanation": "Nobody in this story does anything supernatural. Jealous brothers, a slave trade, a false accusation, a forgotten prisoner -- ordinary cruelty and ordinary mercy, and the promise to Abraham moves forward through all of it.",

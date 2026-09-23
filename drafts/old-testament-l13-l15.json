@@ -116,10 +116,22 @@
       "difficultyElo": 1790,
       "prompt": "Match each part of the Ten Commandments to what it governs.",
       "pairs": [
-        { "left": "\"No other gods before me\"", "right": "Worship of the one true God" },
-        { "left": "\"Keep the sabbath holy\"", "right": "Rest and worship on the seventh day" },
-        { "left": "\"Honor your father and mother\"", "right": "Duty within the family" },
-        { "left": "\"You shall not steal\"", "right": "Respect for a neighbor's property" }
+        {
+          "left": "\"No other gods before me\"",
+          "right": "Worship of the one true God"
+        },
+        {
+          "left": "\"Keep the sabbath holy\"",
+          "right": "Rest and worship on the seventh day"
+        },
+        {
+          "left": "\"Honor your father and mother\"",
+          "right": "Duty within the family"
+        },
+        {
+          "left": "\"You shall not steal\"",
+          "right": "Respect for a neighbor's property"
+        }
       ],
       "explanation": "The Commandments are not a random list. They move from God, to worship, to family, to the neighbor -- love of God ordering love of neighbor, not competing with it.",
       "hint": "Notice the commandments move from God outward to human relationships.",
@@ -229,7 +241,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l14-001",
       "topic": "old-testament",
@@ -239,9 +250,9 @@
       "prompt": "After reading the terms of the covenant aloud, what does Moses do with the blood of the sacrificed animals?",
       "choices": [
         "Splashes it on the people, sealing the covenant",
-        "Pours all of it out on the ground",
-        "Burns it completely on the altar",
-        "Keeps it in a vessel inside the tent"
+        "Pours the entire portion out on the bare ground",
+        "Burns the entire portion completely on the altar",
+        "Keeps it stored in a vessel inside the tent"
       ],
       "correctAnswer": "Splashes it on the people, sealing the covenant",
       "explanation": "The covenant at Sinai is not just words agreed to -- it is sealed in blood, splashed on the altar and on the people alike, binding both sides of the covenant by the same sign.",
@@ -343,10 +354,22 @@
       "difficultyElo": 1865,
       "prompt": "Match each covenant this topic has followed to how it was sealed.",
       "pairs": [
-        { "left": "The covenant with Noah", "right": "A rainbow in the clouds" },
-        { "left": "The covenant with Abraham", "right": "A promise of land, descendants, and blessing" },
-        { "left": "The covenant at Sinai", "right": "Blood splashed on the people" },
-        { "left": "The new covenant", "right": "Christ's own blood, at the Last Supper" }
+        {
+          "left": "The covenant with Noah",
+          "right": "A rainbow in the clouds"
+        },
+        {
+          "left": "The covenant with Abraham",
+          "right": "A promise of land, descendants, and blessing"
+        },
+        {
+          "left": "The covenant at Sinai",
+          "right": "Blood splashed on the people"
+        },
+        {
+          "left": "The new covenant",
+          "right": "Christ's own blood, at the Last Supper"
+        }
       ],
       "explanation": "Every covenant in this topic has had its own sign. Sinai's is the most costly yet -- and it is the one Jesus reaches back to directly when he speaks over the cup.",
       "hint": "Each covenant so far has had a distinct visible sign.",
@@ -455,7 +478,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l15-001",
       "topic": "old-testament",
@@ -571,10 +593,22 @@
       "difficultyElo": 1940,
       "prompt": "Match each moment of the golden calf episode to what it reveals.",
       "pairs": [
-        { "left": "Israel makes the calf", "right": "Breaks the first commandment almost immediately" },
-        { "left": "Moses smashes the tablets", "right": "Enacts the covenant already broken" },
-        { "left": "Moses intercedes for the people", "right": "The same pattern begun by Abraham" },
-        { "left": "The covenant is renewed", "right": "God's mercy outlasts Israel's failure" }
+        {
+          "left": "Israel makes the calf",
+          "right": "Breaks the first commandment almost immediately"
+        },
+        {
+          "left": "Moses smashes the tablets",
+          "right": "Enacts the covenant already broken"
+        },
+        {
+          "left": "Moses intercedes for the people",
+          "right": "The same pattern begun by Abraham"
+        },
+        {
+          "left": "The covenant is renewed",
+          "right": "God's mercy outlasts Israel's failure"
+        }
       ],
       "explanation": "This is the first real test of everything sealed at Sinai, and it fails almost immediately. What holds the covenant together after this is not Israel's faithfulness but God's mercy and Moses' intercession.",
       "hint": "The last item answers what happens after the first three.",

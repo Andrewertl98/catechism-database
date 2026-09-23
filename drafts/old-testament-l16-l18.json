@@ -11,9 +11,9 @@
       "prompt": "Why does Israel end up wandering in the wilderness for forty years rather than entering the land right away?",
       "choices": [
         "The people refused to trust God's promise after scouting the land",
-        "God had not yet decided where the land would be",
-        "Moses himself chose to delay their entry",
-        "Egypt's army pursued them for forty years"
+        "God himself had not yet decided where the promised land would be",
+        "Moses personally chose to delay their entry for his own reasons",
+        "Egypt's army relentlessly pursued them for the full forty years"
       ],
       "correctAnswer": "The people refused to trust God's promise after scouting the land",
       "explanation": "Scouts are sent ahead and report the land is good but well defended. Israel's fear, not the land's danger, is what turns a direct road into a forty-year delay -- one year for each day the scouts spent in the land.",
@@ -115,10 +115,22 @@
       "difficultyElo": 2015,
       "prompt": "Match each figure to their standing at the end of the wilderness years.",
       "pairs": [
-        { "left": "The generation that doubted at the border", "right": "Dies in the wilderness over forty years" },
-        { "left": "Moses", "right": "Barred from entering for striking the rock" },
-        { "left": "Joshua and Caleb", "right": "Trusted the report and are spared" },
-        { "left": "The next generation", "right": "Enters the land Moses himself will not see" }
+        {
+          "left": "The generation that doubted at the border",
+          "right": "Dies in the wilderness over forty years"
+        },
+        {
+          "left": "Moses",
+          "right": "Barred from entering for striking the rock"
+        },
+        {
+          "left": "Joshua and Caleb",
+          "right": "Trusted the report and are spared"
+        },
+        {
+          "left": "The next generation",
+          "right": "Enters the land Moses himself will not see"
+        }
       ],
       "explanation": "The wilderness years are not simply a delay -- they are a generational transition. The people who doubted do not enter; the people they raised in the wilderness do.",
       "hint": "Notice who is excluded and who is not, and why.",
@@ -222,7 +234,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l17-001",
       "topic": "old-testament",
@@ -232,9 +243,9 @@
       "prompt": "What does the Shema, Israel's central daily prayer, command above all else?",
       "choices": [
         "To love the LORD with all your heart, soul, and strength",
-        "To offer sacrifice at the Temple every day",
-        "To recite the names of all twelve tribes",
-        "To fast completely once each week"
+        "To offer sacrifice at the Temple every single day without fail",
+        "To recite the names of all twelve tribes each morning",
+        "To fast completely once during every week of the year"
       ],
       "correctAnswer": "To love the LORD with all your heart, soul, and strength",
       "explanation": "This single command -- heard by Israel every day, and quoted by Jesus himself as the greatest commandment -- gathers up everything Sinai's Law was ultimately for: not mere obedience, but love.",
@@ -336,10 +347,22 @@
       "difficultyElo": 2090,
       "prompt": "Match each wilderness lesson to what it teaches.",
       "pairs": [
-        { "left": "Hunger, then manna", "right": "People do not live by bread alone" },
-        { "left": "The Shema", "right": "Love the LORD with everything" },
-        { "left": "Forty years of wandering", "right": "The cost of a generation's distrust" },
-        { "left": "Jesus in his own wilderness", "right": "Answers temptation with Deuteronomy itself" }
+        {
+          "left": "Hunger, then manna",
+          "right": "People do not live by bread alone"
+        },
+        {
+          "left": "The Shema",
+          "right": "Love the LORD with everything"
+        },
+        {
+          "left": "Forty years of wandering",
+          "right": "The cost of a generation's distrust"
+        },
+        {
+          "left": "Jesus in his own wilderness",
+          "right": "Answers temptation with Deuteronomy itself"
+        }
       ],
       "explanation": "The wilderness is not simply a place Israel passes through -- it is where the deepest lessons of this whole section are taught, and Jesus deliberately relives the same testing centuries later.",
       "hint": "Notice which pair points forward to the Gospels.",
@@ -448,7 +471,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l18-001",
       "topic": "old-testament",
@@ -562,10 +584,22 @@
       "difficultyElo": 2165,
       "prompt": "Match each moment of Joshua's leadership to what it demonstrates.",
       "pairs": [
-        { "left": "\"Be firm and steadfast\"", "right": "Courage grounded in God's presence, not Joshua's nerve" },
-        { "left": "Crossing into the land", "right": "Completes what the previous generation could not" },
-        { "left": "\"Choose this day whom you will serve\"", "right": "The covenant must be renewed by each generation" },
-        { "left": "\"As for me and my household\"", "right": "Leadership that commits itself first" }
+        {
+          "left": "\"Be firm and steadfast\"",
+          "right": "Courage grounded in God's presence, not Joshua's nerve"
+        },
+        {
+          "left": "Crossing into the land",
+          "right": "Completes what the previous generation could not"
+        },
+        {
+          "left": "\"Choose this day whom you will serve\"",
+          "right": "The covenant must be renewed by each generation"
+        },
+        {
+          "left": "\"As for me and my household\"",
+          "right": "Leadership that commits itself first"
+        }
       ],
       "explanation": "Joshua's whole role in this topic is completion: finishing the journey Moses began, and handing Israel a covenant they must keep choosing, not one they can simply inherit unexamined.",
       "hint": "Each moment answers something left open by the generation before.",
