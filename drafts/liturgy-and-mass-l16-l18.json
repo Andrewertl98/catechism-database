@@ -1,0 +1,758 @@
+{
+  "_comment": "Liturgy-and-mass levels 16-18: real objections answered, the Mass as sacrifice objection, comparative Roman/Byzantine depth",
+  "topic": "liturgy-and-mass",
+  "questions": [
+    {
+      "id": "liturgy-and-mass-l16-001",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Many assume the GIRM mandates that Mass be celebrated facing the people (versus populum). What does GIRM article 299 actually say?",
+      "choices": [
+        "It expresses a preference for the altar to allow versus populum celebration where possible, without prohibiting ad orientem celebration",
+        "It strictly forbids ad orientem celebration everywhere in the Roman Rite",
+        "It requires versus populum only during the Easter season",
+        "It leaves the orientation question entirely unaddressed"
+      ],
+      "correctAnswer": "It expresses a preference for the altar to allow versus populum celebration where possible, without prohibiting ad orientem celebration",
+      "explanation": "GIRM 299 states it is desirable, where possible, for the altar to be positioned to allow Mass to be celebrated facing the people -- a preference, not an absolute mandate, and it does not prohibit ad orientem celebration, which remains a legitimate option in the Roman Rite.",
+      "hint": "The actual wording uses language of preference ('desirable, where possible'), not prohibition.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299",
+          "quote": "The altar should be built separate from the wall, in such a way that it is possible to walk around it easily and that Mass can be celebrated at it facing the people, which is desirable wherever possible."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-002",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Sacrosanctum Concilium 14 calls for the faithful's 'full, conscious, and active participation' in the liturgy. A common misconception treats this as requiring constant external activity (talking, moving, performing roles). What does the Council actually mean?",
+      "choices": [
+        "Interior engagement and understanding of the rite, which may include external actions but is not defined by how busy a person appears",
+        "Every layperson must have a specific liturgical role or task at every Mass",
+        "Participation is measured by the volume of the congregation's singing alone",
+        "Silence during Mass is contrary to full, conscious, active participation"
+      ],
+      "correctAnswer": "Interior engagement and understanding of the rite, which may include external actions but is not defined by how busy a person appears",
+      "explanation": "SC 14's 'actuosa participatio' centers on the faithful understanding and interiorly uniting themselves to the mystery being celebrated -- external actions (responses, singing, gestures) can express this, but silence and interior attention are also genuine forms of the same participation, not its absence.",
+      "hint": "The Council is concerned with real engagement of mind and heart, not a minimum quota of visible activity.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
+          "quote": "Mother Church earnestly desires that all the faithful should be led to that full, conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-003",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: A parish may licitly use entirely gluten-free bread for a celiac communicant's Eucharistic host, since the matter only needs to resemble bread.",
+      "correctAnswer": false,
+      "explanation": "Valid matter for the Eucharist requires wheat bread; entirely gluten-free hosts (with no gluten at all) do not meet the Church's standard for valid matter and cannot be used. What is licitly permitted is low-gluten hosts, which contain a small amount of gluten sufficient for validity while being safe for most celiac communicants -- a real accommodation, but a different thing from gluten-free.",
+      "hint": "The Church distinguishes 'low-gluten' (still valid) from 'gluten-free' (not valid matter) -- these are not the same accommodation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1412",
+          "quote": "The essential signs of the Eucharistic sacrament are wheat bread and grape wine, on which the blessing of the Holy Spirit is invoked."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-004",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Someone who was validly confirmed as a teenager, but who felt disconnected from the faith at the time, asks a priest to be 're-confirmed' now that they've had a genuine adult conversion. What should the priest explain?",
+      "choices": [
+        "Confirmation imprints an indelible sacramental character and cannot be repeated, though the person's ongoing spiritual growth doesn't require redoing a valid sacrament",
+        "Confirmation can be repeated as many times as a person's faith deepens",
+        "The original Confirmation must have been invalid if the person felt disconnected at the time",
+        "Only Baptism, not Confirmation, leaves a permanent character"
+      ],
+      "correctAnswer": "Confirmation imprints an indelible sacramental character and cannot be repeated, though the person's ongoing spiritual growth doesn't require redoing a valid sacrament",
+      "explanation": "Baptism, Confirmation, and Holy Orders each imprint an indelible spiritual character that cannot be erased or repeated, regardless of the recipient's later feelings about their disposition at the time -- a real conversion of heart deepens what was already validly received rather than requiring the sacrament again.",
+      "hint": "This is the same category of unrepeatable sacraments -- three of the seven leave a permanent mark.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1121",
+          "quote": "The three sacraments of Baptism, Confirmation, and Holy Orders confer... a sacramental character or 'seal'... indelible... Therefore these sacraments can never be repeated."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-005",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "An objector says, 'The Mass is just a symbolic reenactment of the Last Supper, not an actual sacrifice.' What is the Church's actual claim in response?",
+      "choices": [
+        "The Mass makes present, in an unbloody manner, the same one sacrifice of Calvary, not a new sacrifice or a mere dramatic reenactment",
+        "The Church agrees the Mass is purely symbolic and has never taught otherwise",
+        "The Mass is a new and separate sacrifice each time it is offered, distinct from Calvary",
+        "The word 'sacrifice' is used only in a loose, non-literal sense for the Mass"
+      ],
+      "correctAnswer": "The Mass makes present, in an unbloody manner, the same one sacrifice of Calvary, not a new sacrifice or a mere dramatic reenactment",
+      "explanation": "The Church teaches the Eucharistic sacrifice is not a repetition or new sacrifice, nor a mere symbolic reenactment, but the one sacrifice of Christ on Calvary made truly present under the sacramental signs, in an unbloody manner -- a real, not merely commemorative, participation in that single saving event.",
+      "hint": "The key word the Church insists on is 're-presentation' -- making present again -- not repetition or symbol.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-006",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each scenario or objection to the correct resolution.",
+      "pairs": [
+        {
+          "left": "'The GIRM requires Mass to face the people'",
+          "right": "GIRM 299 expresses a preference, not a mandate; ad orientem remains legitimate"
+        },
+        {
+          "left": "'Full participation means constant external activity'",
+          "right": "SC 14 means real interior engagement, not a quota of visible busyness"
+        },
+        {
+          "left": "A celiac communicant's host",
+          "right": "Low-gluten hosts are valid matter; entirely gluten-free hosts are not"
+        },
+        {
+          "left": "'The Mass is just a symbolic reenactment'",
+          "right": "It re-presents the one sacrifice of Calvary, not a new sacrifice or mere symbol"
+        }
+      ],
+      "explanation": "Each of these resolves a genuinely common misunderstanding by pointing to the actual governing text, rather than simply asserting the objector is wrong.",
+      "hint": "Every correct answer here names the actual rule or teaching, not just a rebuttal.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-007",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Does the GIRM (General Instruction of the Roman Missal) actually mandate that Mass be celebrated facing the people (versus populum)?",
+      "choices": [
+        "No \u2014 the GIRM presumes and accommodates both orientations; versus populum became the common practice after Vatican II by choice, not by explicit mandate",
+        "Yes, the GIRM explicitly forbids ad orientem celebration in any circumstance",
+        "Yes, Vatican II itself defined versus populum as doctrinally required",
+        "The question of orientation was never addressed by any Church document"
+      ],
+      "correctAnswer": "No \u2014 the GIRM presumes and accommodates both orientations; versus populum became the common practice after Vatican II by choice, not by explicit mandate",
+      "explanation": "This is a commonly misunderstood point: the widespread post-conciliar shift to facing the people was a pastoral choice encouraged by the reform, not a strict legal requirement overriding the alternative \u2014 the rubrics themselves still assume a priest might face either direction at certain points.",
+      "hint": "Ask whether a widespread practice and a strict legal mandate are necessarily the same thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-008",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: A parish may licitly use entirely gluten-free bread for a celiac communicant's Communion.",
+      "correctAnswer": false,
+      "explanation": "False, and this is a real pastoral issue with real consequences. Valid matter for the Eucharist requires at least a trace of gluten; entirely gluten-free hosts are invalid matter. Low-gluten hosts (meeting strict Church guidelines) are the licit accommodation for celiac communicants, not a fully gluten-free substitute.",
+      "hint": "Ask whether 'gluten-free' and 'low-gluten' are the same category here.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1333"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-009",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Someone was validly confirmed as a teenager but felt disconnected from the faith at the time, going through the motions with no real intention. What does the Church hold about that Confirmation?",
+      "choices": [
+        "It remains valid and its indelible character remains, though its fruitfulness in the person's life depends on their disposition; it is never repeated even after a later, more genuine return to faith",
+        "It must be repeated once the person returns to genuine faith",
+        "It was automatically invalid due to the lack of felt devotion at the time",
+        "The Church has no teaching addressing this situation"
+      ],
+      "correctAnswer": "It remains valid and its indelible character remains, though its fruitfulness in the person's life depends on their disposition; it is never repeated even after a later, more genuine return to faith",
+      "explanation": "Validity and fruitfulness are different questions \u2014 the sacrament's validity depends on matter, form and the intention to do what the Church does, not on the depth of felt devotion in the moment. A later, more genuine conversion does not require repeating a valid sacrament that already imprinted its permanent character.",
+      "hint": "Recall from level 5 that this sacrament imprints a character that is never repeated \u2014 does that still apply here?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1121"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l16-010",
+      "topic": "liturgy-and-mass",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each scenario or objection to its correct resolution.",
+      "pairs": [
+        {
+          "left": "'The GIRM requires facing the people'",
+          "right": "Not mandated; both orientations are accommodated"
+        },
+        {
+          "left": "'Gluten-free bread works fine for celiacs'",
+          "right": "Invalid matter; low-gluten hosts are the licit option"
+        },
+        {
+          "left": "'My teenage Confirmation didn't feel real'",
+          "right": "Still valid; fruitfulness and validity are different questions"
+        },
+        {
+          "left": "'The Mass is just a symbolic reenactment'",
+          "right": "An actual sacrifice, making Calvary present, not merely dramatizing it"
+        }
+      ],
+      "explanation": "Every row here corrects a plausible-sounding but mistaken assumption with a precise distinction, which is the actual skill this level is teaching \u2014 not memorizing facts in isolation, but catching where a common assumption quietly overreaches what the Church actually holds.",
+      "hint": "Each row corrects an assumption that sounds reasonable but goes further than the Church's actual teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1333"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1362"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-001",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "A friend objects: 'Scripture says Christ died once for all -- calling the Mass a real \"sacrifice\" contradicts that, as if Christ were being sacrificed again and again.' What is the real, precise answer?",
+      "choices": [
+        "The Mass makes present, unbloody, the same one sacrifice of Calvary -- not a new or separate one",
+        "The objection is correct, and the Church has, in fact, contradicted Scripture on this exact point",
+        "Christ is actually sacrificed again, literally and separately, at every single Mass",
+        "The word 'sacrifice' as applied to the Mass is purely metaphorical, with no real, objective content behind it"
+      ],
+      "correctAnswer": "The Mass makes present, unbloody, the same one sacrifice of Calvary -- not a new or separate one",
+      "explanation": "This is a real, precise, and crucial distinction -- the Mass is not a new or repeated sacrifice, but the same one sacrifice of Calvary made really present in an unbloody manner. Scripture's own real teaching on Christ's unrepeatable death and the Mass's own real sacrificial character are not actually in tension.",
+      "hint": "Consider the real difference between repeating a past event and making that same past event really present again.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-002",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Council of Trent's own real teaching explicitly states the victim offered at Mass is the same victim offered on the cross, differing only in the manner of offering.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the real, precise, conciliar language behind this level's own answer -- 'the victim is one and the same,' with only the manner of offering (bloody on the cross, unbloody at Mass) actually differing.",
+      "hint": "Recall this level's own real citation, and what it actually says about the victim being offered.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent",
+          "quote": "The victim is one and the same, the same now offering by the ministry of priests, who then offered Himself on the cross, the manner alone of offering being different."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-003",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "How does the precise term 'anamnesis' -- already introduced earlier in this topic -- help explain how the Mass can make Calvary really present without repeating it?",
+      "choices": [
+        "Anamnesis is a real liturgical remembrance making a saving event's effects present, without repeating it",
+        "Anamnesis simply means a purely symbolic, imaginative exercise with no real objective content",
+        "Anamnesis actually means the historical event of Calvary is being literally repeated in real, physical time",
+        "This precise term has no real connection to the question of how the Mass relates to Calvary"
+      ],
+      "correctAnswer": "Anamnesis is a real liturgical remembrance making a saving event's effects present, without repeating it",
+      "explanation": "This is exactly the precise real term this topic already introduced -- anamnesis names a real, liturgical remembrance that makes a saving event's own real effects genuinely present, without literally repeating the historical event itself, resolving exactly the tension this level's own objection raises.",
+      "hint": "Recall this topic's earlier level on precise Eucharistic Prayer vocabulary, and its own real definition of anamnesis.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1103",
+          "quote": "The celebration 'makes a remembrance' of the marvelous works of God in an anamnesis which may be more or less developed."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-004",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: This level's own real use of 'anamnesis' to answer this objection shows this topic's own earlier precise vocabulary being put to direct, practical apologetic use.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this connection matters -- this is exactly the same real pattern this topic's own earlier level on why precision matters pastorally already demonstrated: precise vocabulary actually resolving a real, practical, pastoral or apologetic question.",
+      "hint": "Recall this topic's own earlier level on why precise liturgical vocabulary actually matters pastorally.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1103",
+          "quote": "The celebration 'makes a remembrance' of the marvelous works of God in an anamnesis which may be more or less developed."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-005",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "A skeptic pushes further: 'This all sounds like a convenient, later theological invention to explain away a real, obvious contradiction.' What is the real, historical answer?",
+      "choices": [
+        "Justin Martyr's second-century testimony already describes it this way -- this is ancient, not a later invention",
+        "The objection is correct, and this understanding really was invented centuries after the New Testament to resolve an otherwise real contradiction",
+        "There is, in fact, no real historical evidence for how the earliest Christians actually understood the Eucharist",
+        "This level's own real teaching has no answer to this specific real, historical objection"
+      ],
+      "correctAnswer": "Justin Martyr's second-century testimony already describes it this way -- this is ancient, not a later invention",
+      "explanation": "This level's own real, historical answer draws on genuinely early evidence -- Justin Martyr's own second-century real testimony already describes the Eucharist as truly Christ's own flesh and blood, showing this understanding is ancient, not a later theological invention designed to paper over a contradiction.",
+      "hint": "Consider what real, early Christian testimony this app's own earlier content on the Eucharist has already cited.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Justin Martyr, First Apology, ch. 65-67",
+          "quote": "For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Saviour, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word... is the flesh and blood of that Jesus who was made flesh."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376",
+          "quote": "By the consecration of the bread and wine there takes place a change of the whole substance of the bread into the substance of the body of Christ our Lord and of the whole substance of the wine into the substance of his blood. This change... has fittingly and properly [been] called transubstantiation."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-006",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Justin Martyr's own real testimony comes from well before the Council of Trent's own later, more precise doctrinal formulation of the same real belief.",
+      "correctAnswer": true,
+      "explanation": "True, and this real timeline matters -- Justin Martyr's second-century real testimony shows the underlying real belief long predates Trent's own later, more precise doctrinal language, which clarified an already-ancient real conviction rather than inventing a new one.",
+      "hint": "Consider the real gap in time between Justin Martyr's own second-century testimony and the Council of Trent, many centuries later.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Justin Martyr, First Apology, ch. 65-67",
+          "quote": "For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Saviour, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word... is the flesh and blood of that Jesus who was made flesh."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376",
+          "quote": "By the consecration of the bread and wine there takes place a change of the whole substance of the bread into the substance of the body of Christ our Lord and of the whole substance of the wine into the substance of his blood. This change... has fittingly and properly [been] called transubstantiation."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-007",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each fact about the Mass as sacrifice to what it actually means.",
+      "pairs": [
+        {
+          "left": "\"The victim is one and the same\"",
+          "right": "The Mass makes present the very same sacrifice of Calvary, not a new or repeated one"
+        },
+        {
+          "left": "Anamnesis",
+          "right": "A real, liturgical remembrance making a saving event's own effects genuinely present"
+        },
+        {
+          "left": "Justin Martyr's own second-century testimony",
+          "right": "Shows this real understanding is ancient, not a later theological invention"
+        },
+        {
+          "left": "Why this level's real answer works",
+          "right": "Applies this topic's own earlier precise vocabulary to resolve a real, apparent tension"
+        }
+      ],
+      "explanation": "These four facts together resolve a genuinely serious, common real objection with real, precise theological and historical answers, not a vague dismissal.",
+      "hint": "Two rows explain the real theological answer itself; two show its own real historical depth and connection to this topic's own earlier vocabulary.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-008",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Having now answered a further real objection about the Mass as sacrifice, this topic's next level turns to comparative depth -- the Roman Rite and the Byzantine Divine Liturgy.",
+      "correctAnswer": true,
+      "explanation": "True. Having answered this level's own real objection with real, historical and theological precision, this topic's next level turns to a genuinely different real question -- how the Roman Rite compares to another real, authentic liturgical tradition.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-009",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What real, general habit has this level modeled for answering a genuinely serious, common real objection to the Mass?",
+      "choices": [
+        "Combining precise vocabulary with real historical evidence to answer a specific claim carefully",
+        "Dismissing the objection outright without engaging its actual real content",
+        "Conceding the objection is entirely correct without offering any real, careful response",
+        "Answering with a vague, general reassurance rather than real, specific reasoning"
+      ],
+      "correctAnswer": "Combining precise vocabulary with real historical evidence to answer a specific claim carefully",
+      "explanation": "This level's own real habit -- combining precise vocabulary with real historical evidence to answer a specific real claim -- is exactly the same real discipline this app's own Apologetics topic modeled throughout, now applied here to liturgy specifically.",
+      "hint": "Consider what two real kinds of evidence this level actually drew on to answer its own objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l17-010",
+      "topic": "liturgy-and-mass",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Given this level's picture of the Mass as one, unrepeated sacrifice made present, what does the next level in this topic turn to?",
+      "choices": [
+        "Comparative depth -- the Roman Rite and the Byzantine Divine Liturgy",
+        "A complete repeat of this same level's material about the Mass as sacrifice",
+        "A jump ahead to this topic's own final capstone, skipping over everything in between",
+        "A subject entirely unrelated to the Mass or real, historical liturgical evidence"
+      ],
+      "correctAnswer": "Comparative depth -- the Roman Rite and the Byzantine Divine Liturgy",
+      "explanation": "This is exactly what the next level in this topic covers -- turning from a real objection about the Roman Rite's own theology to a genuinely different real question, comparing it with another authentic liturgical tradition.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367",
+          "quote": "The sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice: 'The victim is one and the same... only the manner of offering is different.'"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-001",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Of the Roman Missal's main Eucharistic Prayers, which is derived from the ancient anaphora attributed to St. Hippolytus of Rome, valued for its brevity and antiquity?",
+      "choices": [
+        "Eucharistic Prayer II",
+        "Eucharistic Prayer I (the Roman Canon)",
+        "Eucharistic Prayer III",
+        "Eucharistic Prayer IV"
+      ],
+      "correctAnswer": "Eucharistic Prayer II",
+      "explanation": "Eucharistic Prayer II is adapted from the ancient anaphora associated with Hippolytus's Apostolic Tradition, prized for its brevity and antiquity. The Roman Canon (EP I) is the Roman Rite's oldest continuously used prayer; EP III emphasizes universality across cultures; EP IV offers a sweeping salvation-history narrative.",
+      "hint": "This is the shortest of the main Eucharistic Prayers, often used at weekday Masses.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352",
+          "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-002",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: The Roman Rite's Mass and the Byzantine Divine Liturgy of St. John Chrysostom differ in specific structural features -- such as where the epiclesis falls and the placement of a Great Entrance procession -- while both are affirmed as fully valid expressions of the one Eucharistic sacrifice.",
+      "correctAnswer": true,
+      "explanation": "The Byzantine Divine Liturgy places its epiclesis after the Words of Institution with a distinct theological emphasis, and includes a Great Entrance procession of the gifts not found in the same form in the Roman Rite's Offertory. These are real structural differences between two rites the Church holds as equally valid, not a difference in validity or dignity.",
+      "hint": "This is a structural comparison, not a question about which rite is more legitimate.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3",
+          "quote": "They are consequently of equal dignity, so that none of them is superior to the others as regards rite and they enjoy the same rights."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-003",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Why is the Easter Vigil traditionally considered the Church's primal setting for the sacraments of Christian initiation (Baptism, Confirmation, Eucharist)?",
+      "choices": [
+        "Because it liturgically joins new life in Christ through Baptism to the very night of his Resurrection, the source of that new life",
+        "Because it is the only night of the year canon law permits Baptisms",
+        "Because the Easter Vigil has no connection to Baptism in current liturgical law",
+        "Because Confirmation may only be received at the Easter Vigil"
+      ],
+      "correctAnswer": "Because it liturgically joins new life in Christ through Baptism to the very night of his Resurrection, the source of that new life",
+      "explanation": "The Easter Vigil's readings, Exsultet, and renewal of baptismal promises all trace the movement from death to new life -- making it the fitting, though not exclusive, primal setting for initiating new Christians into that same Paschal movement through Baptism, Confirmation, and first Eucharist.",
+      "hint": "Think about what the entire Vigil's readings and prayers are actually about.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1217",
+          "quote": "In the liturgy of the Easter Vigil, during the blessing of the baptismal water, the Church solemnly commemorates the great events in salvation history that already prefigured the mystery of Baptism."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-004",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "The Roman Canon includes a prayer beginning 'Hanc igitur' ('Therefore, Lord, we pray'), asking God to accept an offering on behalf of a specific group. What job does this prayer do within the Canon's overall structure?",
+      "choices": [
+        "It is an intercession applying the sacrifice being offered to a specific intention or community, distinct from the consecration itself",
+        "It is the moment of consecration where the bread and wine change",
+        "It is the final blessing that concludes the Mass",
+        "It is a scriptural reading proclaimed before the homily"
+      ],
+      "correctAnswer": "It is an intercession applying the sacrifice being offered to a specific intention or community, distinct from the consecration itself",
+      "explanation": "The Roman Canon is built from distinguishable component prayers, each doing a specific job: intercessions like 'Hanc igitur' apply the one sacrifice to particular people or intentions, while 'Quam oblationem' asks God to bless the offering before consecration, and the words of institution effect the consecration itself -- breaking the Canon into these parts shows a single fact isn't enough to describe the whole prayer.",
+      "hint": "This particular prayer is about intention and application, not about the change of the elements themselves.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352",
+          "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-005",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Both the Liturgy of the Hours' psalmody and the Mass's lectionary follow a structured cycle rather than random selection. What principle do they share?",
+      "choices": [
+        "Scripture is prayed and proclaimed systematically over a set cycle, so the whole of the Church's prayer engages the full range of the Word rather than a few favorite passages",
+        "Neither has any fixed cycle; both are chosen freely by the presider each time",
+        "The lectionary follows a cycle, but the psalmody in the Hours is never repeated across the entire cycle",
+        "Only feast days use a fixed set of readings; ordinary days have none"
+      ],
+      "correctAnswer": "Scripture is prayed and proclaimed systematically over a set cycle, so the whole of the Church's prayer engages the full range of the Word rather than a few favorite passages",
+      "explanation": "The Liturgy of the Hours distributes the psalms across a four-week cycle, and the Mass lectionary distributes Scripture readings across multi-year cycles (Sunday: three years; weekday: two years) -- both express the same underlying logic that the Church's public prayer should draw systematically on the whole of Scripture, not a self-selected subset.",
+      "hint": "Both are organized around a repeating cycle for the same underlying reason.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
+          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-006",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each liturgical element to what this level shows about it.",
+      "pairs": [
+        {
+          "left": "Eucharistic Prayer II",
+          "right": "Derived from the ancient Hippolytan anaphora, valued for brevity"
+        },
+        {
+          "left": "The Byzantine Divine Liturgy's Great Entrance",
+          "right": "A real structural difference from the Roman Rite, not a difference in validity"
+        },
+        {
+          "left": "The Easter Vigil",
+          "right": "The Church's primal setting for the sacraments of initiation"
+        },
+        {
+          "left": "'Hanc igitur' in the Roman Canon",
+          "right": "An intercession applying the sacrifice to a specific intention, distinct from consecration"
+        }
+      ],
+      "explanation": "This level's whole method is breaking a single liturgical fact into working parts, or setting two real practices side by side -- a single isolated fact no longer suffices at this level.",
+      "hint": "Each right answer names a specific function or comparison, not just a general description.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352",
+          "quote": "The anaphora... the Eucharistic Prayer of thanksgiving and consecration... is the center and summit of the entire celebration."
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-007",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "The Roman Rite's Eucharistic Prayer II is derived from an ancient anaphora attributed to which early figure?",
+      "choices": [
+        "St. Hippolytus of Rome",
+        "St. Augustine of Hippo",
+        "St. Ignatius of Antioch",
+        "Pope St. Gregory the Great"
+      ],
+      "correctAnswer": "St. Hippolytus of Rome",
+      "explanation": "Eucharistic Prayer II draws on the Apostolic Tradition, a third-century text associated with Hippolytus \u2014 which is part of why this particular prayer, though shorter than the Roman Canon, is one of the most ancient in origin among the Missal's options.",
+      "hint": "This figure's associated text is a very early Roman church order, from the third century.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-008",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: The Roman Rite's Mass and the Byzantine Divine Liturgy of St. John Chrysostom differ significantly in structure and style while both being fully valid, orthodox expressions of the one Eucharistic sacrifice.",
+      "correctAnswer": true,
+      "explanation": "True. The two rites differ substantially in language, gesture, music and structure, yet the Catholic Church recognizes both as authentic and valid celebrations of the same reality \u2014 a real diversity within unity that is easy to lose sight of when only one rite is familiar.",
+      "hint": "Ask whether liturgical uniformity across all rites was ever the Church's actual claim.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1201"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-009",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Why is the Easter Vigil traditionally the Church's primal setting for the sacraments of initiation?",
+      "choices": [
+        "It is the annual celebration of Christ's Resurrection, so being baptized into his death and rising is celebrated at the very feast that makes that death and rising present",
+        "It is simply the most convenient date administratively",
+        "Early converts were required by Roman law to be initiated on this date",
+        "It has no particular theological connection to Baptism"
+      ],
+      "correctAnswer": "It is the annual celebration of Christ's Resurrection, so being baptized into his death and rising is celebrated at the very feast that makes that death and rising present",
+      "explanation": "Baptism is entry into Christ's death and resurrection, so celebrating it at the Vigil that makes that same Paschal mystery present is not a scheduling convenience \u2014 it places the sign and the reality it points to at the same moment, which is exactly why RCIA (OCIA) candidates are traditionally received at this liturgy.",
+      "hint": "Ask what Baptism theologically unites a person to, and what feast celebrates that same reality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1217"
+        }
+      ]
+    },
+    {
+      "id": "liturgy-and-mass-l18-010",
+      "topic": "liturgy-and-mass",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each liturgical element to what this level shows about it.",
+      "pairs": [
+        {
+          "left": "Eucharistic Prayer II",
+          "right": "Draws on a third-century anaphora attributed to Hippolytus"
+        },
+        {
+          "left": "Byzantine Divine Liturgy",
+          "right": "Structurally distinct from the Roman Rite, equally valid"
+        },
+        {
+          "left": "Easter Vigil",
+          "right": "The primal setting for initiation, theologically not merely by custom"
+        },
+        {
+          "left": "Liturgy of the Hours' psalmody",
+          "right": "Follows a structured cycle, like the Mass's lectionary"
+        }
+      ],
+      "explanation": "The final entry connects this level's material back to the broader pattern seen throughout this topic: the Church structures her prayer cyclically rather than arbitrarily, whether in the Mass's readings or in the Hours' recitation of the psalms.",
+      "hint": "One of these rows is less about a specific rite and more about a structural principle running through several of them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1201"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1217"
+        }
+      ]
+    }
+  ]
+}
