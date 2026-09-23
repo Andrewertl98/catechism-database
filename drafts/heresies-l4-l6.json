@@ -1,0 +1,733 @@
+{
+  "_comment": "DRAFT -- NOT live. Heresies levels 4-6 of 19: level 4 is new, covering Arianism's own real reach and appeal (Arius as an Alexandrian priest, his own memorable phrase, Germanic Arian Christianity's lasting spread) reusing old live level 1's Arianism item. Level 5 is the old live level 2 verbatim, renumbered and re-seeded (Apollinarianism, Nestorianism, Monophysitism, Monothelitism, hypostatic union). Level 6 is new: Donatism, the ex opere operato answer, and Augustine's own real role, reusing old live level 6's citation.",
+  "topic": "heresies",
+  "questions": [
+    {
+      "id": "heresies-l4-001",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Arianism, condemned at the Council of Nicaea in 325, denied which truth about Jesus Christ?",
+      "choices": [
+        "That the Son is fully divine, of the same substance as the Father",
+        "That Jesus had a real, genuine human body of any kind",
+        "That Jesus was truly and actually born of Mary herself",
+        "That Jesus truly and actually rose from the dead"
+      ],
+      "correctAnswer": "That the Son is fully divine, of the same substance as the Father",
+      "explanation": "Arius taught that the Son was a creature and 'came to be from things that were not.' Nicaea condemned this and defined the Son as 'homoousios' -- of the same substance as the Father.",
+      "hint": "Nicaea's famous word for 'same substance' is the key here.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-002",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Arius was a priest of Alexandria, not an outside critic, when he first began teaching that the Son was a creature.",
+      "correctAnswer": true,
+      "explanation": "True. Arius taught from within the Church's own clergy, in one of Christianity's most important early sees -- part of why his teaching spread so quickly and required a response at the level of a full ecumenical council rather than a purely local correction.",
+      "hint": "Consider whether this error came from a clear outsider, or from someone already trusted within the Church's own structure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-003",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Arius summarized his own teaching in a memorable phrase about the Son. Which best captures it?",
+      "choices": [
+        "\"There was a time when he was not\"",
+        "\"He is one in being with the Father\"",
+        "\"He proceeds from the Father and the Son\"",
+        "\"He was made flesh and dwelt among us\""
+      ],
+      "correctAnswer": "\"There was a time when he was not\"",
+      "explanation": "This short, memorable phrase captures the whole error in one line -- treating the Son as having a beginning, like any creature, rather than existing eternally with the Father from before all time.",
+      "hint": "This phrase claims the Son had a real beginning, like any created thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-004",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Arianism was quickly and completely defeated at Nicaea, with no further influence on the Church for the rest of the fourth century.",
+      "correctAnswer": false,
+      "explanation": "False. Arianism remained a real, serious force for decades after Nicaea -- entire regions and even some emperors favored Arian teaching, and it took the further work of Constantinople I, several levels back in the Councils topic, to more fully settle the question.",
+      "hint": "Consider why a second council, decades after Nicaea, was still needed to complete the Church's own answer.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-005",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Beyond the Roman Empire's own borders, Arian missionaries had real, lasting success converting which peoples?",
+      "choices": [
+        "Several Germanic tribes, including the Goths, who carried Arian Christianity with them for generations",
+        "No peoples outside the Roman Empire were ever reached by any Arian missionaries at all",
+        "The peoples of Persia exclusively, with no real presence anywhere in Europe itself",
+        "Only a handful of isolated individuals, with no lasting communities of any kind formed"
+      ],
+      "correctAnswer": "Several Germanic tribes, including the Goths, who carried Arian Christianity with them for generations",
+      "explanation": "This is a real, often-overlooked fact -- Arianism did not simply vanish after Nicaea's own condemnation. It took real institutional root among peoples outside the Empire, remaining a live religious reality in parts of Europe for generations afterward.",
+      "hint": "Consider which peoples, migrating into the Roman world in the centuries after Nicaea, had already been evangelized by Arian missionaries.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-006",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Part of Arianism's real appeal was that it seemed, to some, more logically straightforward than the Church's own more difficult claim that the Son is both truly distinct from the Father and truly equal to him.",
+      "correctAnswer": true,
+      "explanation": "True, and understanding this real appeal matters -- Arianism was never merely an obvious error easily dismissed. It offered what looked like a simpler, more logically tidy account, which is part of why it required the Church's own most careful and precise language to answer.",
+      "hint": "Consider why a genuinely mistaken teaching could still attract serious, thoughtful adherents for generations.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-007",
+      "topic": "heresies",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1165,
+      "prompt": "Match each fact about Arianism to what it involves.",
+      "pairs": [
+        {
+          "left": "Arius",
+          "right": "A priest of Alexandria, not an outside critic"
+        },
+        {
+          "left": "\"There was a time when he was not\"",
+          "right": "Arius's own memorable summary of his error"
+        },
+        {
+          "left": "The Germanic tribes",
+          "right": "Converted to Arian Christianity, carrying it for generations"
+        },
+        {
+          "left": "Arianism's real appeal",
+          "right": "Seemed simpler than the Church's own harder, truer claim"
+        }
+      ],
+      "explanation": "Together these facts show a real, serious, long-lived movement -- not a fringe idea easily dismissed, but a genuine, appealing, institutionally rooted rival account of who Christ is.",
+      "hint": "Follow Arianism's own real arc: who taught it, how he summarized it, who adopted it, and why it appealed to people.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-008",
+      "topic": "heresies",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Nicaea's own answer to Arianism required inventing an entirely new word, homoousios, not found anywhere in Scripture itself.",
+      "correctAnswer": true,
+      "explanation": "True, and this is itself a real, instructive fact -- the Church judged that a genuinely new, precise technical term was sometimes necessary to defend a truth Scripture itself teaches, even when Scripture's own words alone had proven open to real, serious misreading.",
+      "hint": "Consider whether this specific Greek technical term appears anywhere in the Bible's own text.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-009",
+      "topic": "heresies",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1185,
+      "prompt": "Nicaea's answer to Arius defines the Son as 'begotten, not ____' -- distinguishing his eternal generation from the Father from any act of ordinary creation.",
+      "correctAnswer": "made",
+      "acceptedAnswers": [
+        "made"
+      ],
+      "explanation": "This single distinction -- begotten, not made -- is the precise hinge the whole Nicene answer to Arius turns on: the Son's origin from the Father is nothing like a creature's origin from its creator.",
+      "hint": "The word Nicaea's own creed deliberately pairs against 'begotten.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l4-010",
+      "topic": "heresies",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Having now met Arianism's own real appeal and reach, what does the next level in this topic turn to?",
+      "choices": [
+        "The further Christological heresies -- Apollinarianism, Nestorianism, Eutyches, Monothelitism",
+        "A complete and exhaustive repeat of this same level's own material about Arianism itself",
+        "A jump directly to the medieval Cathars, skipping over more than a full millennium",
+        "A subject entirely unrelated to any single error this topic has covered up to now"
+      ],
+      "correctAnswer": "The further Christological heresies -- Apollinarianism, Nestorianism, Eutyches, Monothelitism",
+      "explanation": "Nicaea settled the Son's divinity, but real questions about exactly how his divine and human natures relate remained -- the next level covers four further errors, each a different way of getting that relationship wrong.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-001",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Apollinarianism, condemned at the First Council of Constantinople (381), denied that Christ had a complete:",
+      "choices": [
+        "Human, rational soul -- the divine Word took its place",
+        "Human body, of any real kind at all, whatsoever",
+        "Divine nature, of any kind whatsoever",
+        "Earthly mother of any kind"
+      ],
+      "correctAnswer": "Human, rational soul -- the divine Word took its place",
+      "explanation": "Apollinaris held that the divine Word replaced Christ's human mind or soul. Against this, the Church confessed that the Son assumed a complete, rational human soul -- otherwise our own minds would remain unhealed by the Incarnation.",
+      "hint": "This heresy leaves Christ with a human body but not a human mind.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 471",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-002",
+      "topic": "heresies",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1167,
+      "prompt": "True or False: Monophysitism, condemned at the Council of Chalcedon in 451, taught that Christ's human nature was absorbed into his divine nature, leaving only one nature.",
+      "correctAnswer": true,
+      "explanation": "Eutyches and his followers held that after the union, Christ's humanity was swallowed up by his divinity. Chalcedon responded by defining one Person in two natures, 'without confusion, without change, without division, without separation.'",
+      "hint": "The name literally means 'one nature.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467",
+          "quote": "Christ is confessed as 'perfect in divinity and perfect in humanity'... in two natures, 'without confusion, change, division or separation.'"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-003",
+      "topic": "heresies",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1277,
+      "prompt": "Monothelitism, condemned at the Third Council of Constantinople (680-681), denied that Christ had a genuinely human ____.",
+      "correctAnswer": "will",
+      "explanation": "Monothelites held that Christ had only one will, the divine one. The council taught that will belongs to nature, and since Christ has two complete natures, he has two wills, human and divine, always acting in perfect harmony.",
+      "hint": "Two natures, the council said, means two of these -- not just one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-004",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Adoptionism teaches that Jesus was:",
+      "choices": [
+        "An ordinary man 'adopted' as God's Son at his baptism, rather than divine from conception",
+        "Divine from all eternity, with no genuine human nature of any real kind at all",
+        "A created angel who, at some later point, took on visible human flesh",
+        "Simply an honorary title the apostles gave to any especially holy teacher"
+      ],
+      "correctAnswer": "An ordinary man 'adopted' as God's Son at his baptism, rather than divine from conception",
+      "explanation": "Adoptionism denies the eternal, divine sonship of Christ, treating it as something conferred on a man rather than true from the very beginning. Scripture instead teaches that the Son was conceived as God's Son from the start.",
+      "hint": "The name says it: sonship given later, rather than always true.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:35",
+          "quote": "The holy Spirit will come upon you, and the power of the Most High will overshadow you. Therefore the child to be born will be called holy, the Son of God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-005",
+      "topic": "heresies",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1277,
+      "prompt": "At the Council of Ephesus (431), the Church defended calling Mary '____' (God-bearer) against Nestorius's objection to the title.",
+      "correctAnswer": "Theotokos",
+      "explanation": "Nestorius objected to calling Mary 'Mother of God,' preferring 'Mother of Christ,' since he saw the divine and human in Christ as loosely joined. Ephesus insisted that because Christ is one Person, truly God, Mary who bore him is truly Theotokos.",
+      "hint": "It's a Greek title meaning 'God-bearer.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 495",
+          "quote": "Hence the Church confesses that Mary is truly 'Mother of God' (Theotokos)."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-006",
+      "topic": "heresies",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1257,
+      "prompt": "Match each Christological heresy to what it got wrong about Christ.",
+      "pairs": [
+        {
+          "left": "Apollinarianism",
+          "right": "Denied Christ had a complete human, rational soul"
+        },
+        {
+          "left": "Nestorianism",
+          "right": "Split Christ into two separate persons"
+        },
+        {
+          "left": "Monophysitism (Eutychianism)",
+          "right": "Blended Christ's two natures into one"
+        },
+        {
+          "left": "Monothelitism",
+          "right": "Denied Christ had a genuinely human will"
+        }
+      ],
+      "explanation": "Each heresy erred in a distinct direction -- too little humanity, too little unity, too little distinction, or too little human freedom -- and each was answered by an ecumenical council defining the fullness of who Christ is.",
+      "hint": "Four different heresies, four different pieces of Christ's humanity or unity denied.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-007",
+      "topic": "heresies",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Chalcedon confessed Christ as one Person in two natures. What is the technical term for that union?",
+      "choices": [
+        "The hypostatic union",
+        "The communication of idioms",
+        "The beatific vision",
+        "The economy of salvation"
+      ],
+      "correctAnswer": "The hypostatic union",
+      "explanation": "'Hypostasis' means person or subsistence. The hypostatic union names the joining of divine and human natures in the one Person of the Word -- not a blending of natures, and not two persons side by side.",
+      "hint": "The term names what the natures are united IN, and that is a person.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 468"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-008",
+      "topic": "heresies",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1167,
+      "prompt": "True or False: The Church teaches Christ has two wills, one divine and one human, because a complete human nature necessarily includes a human will.",
+      "correctAnswer": true,
+      "explanation": "True, and the reasoning matters more than the fact. Constantinople III did not add a second will to Christ; it drew out what a complete human nature already entails. Deny the human will and you have denied the completeness of the humanity.",
+      "hint": "Ask what a human nature must include to be a human nature at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 475"
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-009",
+      "topic": "heresies",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1277,
+      "prompt": "Eutyches, whose teaching Chalcedon condemned, held that after the Incarnation Christ had only ____ nature.",
+      "correctAnswer": "one",
+      "explanation": "Eutyches taught the human nature was absorbed into the divine like a drop of water in the sea, leaving one nature. Chalcedon answered that the two natures remain, unconfused and unchanged, in one Person.",
+      "hint": "The name of his error, Monophysitism, contains the answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l5-010",
+      "topic": "heresies",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1257,
+      "prompt": "Match each heresy to the council that answered it.",
+      "pairs": [
+        {
+          "left": "Arianism",
+          "right": "First Council of Nicaea (325)"
+        },
+        {
+          "left": "Nestorianism",
+          "right": "Council of Ephesus (431)"
+        },
+        {
+          "left": "Monophysitism",
+          "right": "Council of Chalcedon (451)"
+        },
+        {
+          "left": "Monothelitism",
+          "right": "Third Council of Constantinople (680-681)"
+        }
+      ],
+      "explanation": "The sequence is not accidental: each council answers the error the previous settlement made possible. Establish the Son's divinity, and the question becomes how divinity and humanity relate in one Person; settle that, and the question becomes whether the humanity has its own will.",
+      "hint": "They run in chronological order, and each answers a question the one before it opened.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)"
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-001",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "Donatism, a fourth-century North African movement, held that a sacrament's validity depended on what?",
+      "choices": [
+        "The moral worthiness of the minister administering it",
+        "The faith of the person receiving it, with the minister playing no real role",
+        "The specific words used, regardless of who performed the rite",
+        "The physical location where the sacrament was performed"
+      ],
+      "correctAnswer": "The moral worthiness of the minister administering it",
+      "explanation": "Donatists held that clergy who had lapsed under persecution, or been ordained by someone who had, could never validly administer a sacrament again -- a real, practical crisis touching every parish where such a priest or bishop still served.",
+      "hint": "This error concerns who is performing the sacrament, not who is receiving it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-002",
+      "topic": "heresies",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1258,
+      "prompt": "True or False: Donatism arose directly out of a real, practical crisis -- what should happen to clergy who had handed over sacred texts or lapsed under Roman persecution.",
+      "correctAnswer": true,
+      "explanation": "True. This is not an abstract theological puzzle invented in a vacuum -- it grew directly out of the real martyrdom era this app's own Saints and Church History topics both cover, and the genuinely difficult pastoral question of how to treat clergy who had failed under that same pressure.",
+      "hint": "Recall the same era of persecution already covered in this app's Saints and Church History topics.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-003",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "What real pastoral problem would follow if Donatism's own teaching were actually true?",
+      "choices": [
+        "No Catholic could ever be certain their own baptism or ordination was valid, since no one could fully verify a minister's own inner worthiness",
+        "The problem would remain, in the end, purely theoretical, with no real practical consequence for ordinary Catholics",
+        "It would only ever affect a small handful of specific parishes, with no wider implications at all",
+        "It would, in fact, strengthen rather than undermine ordinary believers' own confidence in the sacraments"
+      ],
+      "correctAnswer": "No Catholic could ever be certain their own baptism or ordination was valid, since no one could fully verify a minister's own inner worthiness",
+      "explanation": "This is the real, practical stake behind the Church's own answer -- if sacramental validity depended on a minister's hidden interior worthiness, no believer could ever have real, settled confidence that any sacrament they had received was genuine.",
+      "hint": "Consider what a believer would actually be able to know for certain about their own past sacraments under Donatism's own logic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-004",
+      "topic": "heresies",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1368,
+      "prompt": "The Church's answer to Donatism is the teaching of 'ex opere ____,' meaning a validly performed sacrament's efficacy comes from Christ's own action, not the minister's personal holiness.",
+      "correctAnswer": "operato",
+      "acceptedAnswers": [
+        "operato"
+      ],
+      "explanation": "This Latin phrase, literally 'from the work worked,' identifies Christ himself, not the minister, as the true agent of grace in every sacrament -- directly answering the real anxiety Donatism's own error would otherwise create.",
+      "hint": "The full Latin phrase is 'ex opere operato.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-005",
+      "topic": "heresies",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1258,
+      "prompt": "True or False: 'Ex opere operato' means the minister's own personal holiness is entirely irrelevant to their own spiritual life, even though it does not affect a sacrament's basic validity.",
+      "correctAnswer": false,
+      "explanation": "False. A minister's own holiness matters enormously for their own spiritual life and their effectiveness in ministry -- 'ex opere operato' addresses only whether the sacrament itself is validly conferred, not whether personal holiness is unimportant in every other respect.",
+      "hint": "Consider whether this teaching addresses a minister's own spiritual life, or only the specific question of sacramental validity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-006",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "St. Augustine, whose own conversion this app's Saints and Church History topics both cover, played what real role in the Church's response to Donatism?",
+      "choices": [
+        "He was one of the movement's most important theological opponents, writing extensively against it",
+        "He was, in fact, a committed Donatist himself for most of his life",
+        "He had no real involvement with the Donatist controversy at all",
+        "He agreed with Donatism's core claim but disagreed only about its practical application"
+      ],
+      "correctAnswer": "He was one of the movement's most important theological opponents, writing extensively against it",
+      "explanation": "Augustine, bishop of Hippo in the same North African region where Donatism was strongest, became one of its most important and sustained theological opponents -- a real, direct link between this level's controversy and a figure already familiar from this app's other topics.",
+      "hint": "Recall this same figure's own conversion, already covered in this app's Saints and Church History topics.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-007",
+      "topic": "heresies",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1348,
+      "prompt": "Match each fact about Donatism to what it involves.",
+      "pairs": [
+        {
+          "left": "Donatism's core claim",
+          "right": "A sacrament's validity depends on the minister's own moral worthiness"
+        },
+        {
+          "left": "The real crisis behind it",
+          "right": "What to do about clergy who lapsed under Roman persecution"
+        },
+        {
+          "left": "Ex opere operato",
+          "right": "Christ, not the minister, is the true agent of grace in a sacrament"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "One of the movement's most important theological opponents"
+        }
+      ],
+      "explanation": "This level's whole arc runs from a real pastoral crisis, through a real theological error, to the Church's own precise and still-relevant answer -- a pattern this whole topic keeps tracing.",
+      "hint": "Follow the real arc: the error itself, its real cause, the Church's answer, and who helped articulate that answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-008",
+      "topic": "heresies",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1258,
+      "prompt": "True or False: Donatism belongs to a real, different category of error from Arianism and the Christological heresies covered in this topic's previous two levels.",
+      "correctAnswer": true,
+      "explanation": "True. Arianism and the Christological errors concern who Christ is; Donatism concerns something different -- how grace actually works through the sacraments -- a genuinely separate category this topic is careful to distinguish rather than blur together.",
+      "hint": "Consider what specific subject Donatism's own error actually concerns, compared to the previous two levels.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-009",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "What real, still-relevant pastoral anxiety does the Church's own answer to Donatism continue to address today?",
+      "choices": [
+        "Whether a sacrament received from a minister later found to be seriously sinful is still valid and effective",
+        "Whether the Mass itself should be celebrated in Latin or in a local vernacular language",
+        "Whether infant baptism, specifically, is a legitimate practice within the Church at all",
+        "Whether a council's own decrees require formal papal confirmation to bind the whole Church"
+      ],
+      "correctAnswer": "Whether a sacrament received from a minister later found to be seriously sinful is still valid and effective",
+      "explanation": "This is a real, live pastoral question that still comes up today -- and the Church's own answer to Donatism, centuries old, remains the direct and settled response: a validly performed sacrament's efficacy never depended on the minister's hidden interior state in the first place.",
+      "hint": "Consider what real, modern pastoral question this same ancient teaching still directly answers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l6-010",
+      "topic": "heresies",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "Given Donatism's own real, different category of error, what does the next level in this topic turn to?",
+      "choices": [
+        "Pelagianism and semi-Pelagianism, errors about grace and free will",
+        "A complete and exhaustive repeat of this same level's own material about Donatism itself",
+        "A jump directly to the Protestant Reformation, skipping over more than a full millennium",
+        "A subject entirely unrelated to any single error this topic has covered up to now"
+      ],
+      "correctAnswer": "Pelagianism and semi-Pelagianism, errors about grace and free will",
+      "explanation": "The next level continues this topic's own real range of categories -- moving from a sacramental error to a further, genuinely distinct question about grace and human freedom.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the sacraments act ex opere operato (literally: by the very fact of the action's being performed), i.e., by virtue of the saving work of Christ, accomplished once for all."
+        }
+      ]
+    }
+  ]
+}
