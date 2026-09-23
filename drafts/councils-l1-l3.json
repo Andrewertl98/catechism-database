@@ -1,0 +1,690 @@
+{
+  "_comment": "DRAFT -- NOT live. Councils levels 1-3 of 19 (new chronological reorg, per CURRICULUM-PLAN.md): what makes a council ecumenical (largely new, plus old live level 1's own definitional content), then Nicaea I (325) and Constantinople I/Ephesus (381, 431) each given a dedicated level, reusing old live level 1's council-specific content. CCC 465/466/884/195, council citations for Nicaea/Ephesus/Constantinople I already reviewed, and Acts 15:1-29 (reviewed in Church History) are reused here; other Scripture references are new and flagged by onramp_tool.py check.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l1-001",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What makes a council 'ecumenical' rather than local or regional?",
+      "choices": [
+        "It gathers the bishops of the whole Church in union with the Pope, and its teaching binds the universal Church",
+        "It is attended by more than three hundred bishops drawn from many different regions",
+        "It is held specifically in a city that itself has an apostolic see going back to the apostles",
+        "It formally lasts longer than a single full calendar year from start to finish"
+      ],
+      "correctAnswer": "It gathers the bishops of the whole Church in union with the Pope, and its teaching binds the universal Church",
+      "explanation": "The criterion is universality and union with the Pope, not size or setting. Many large and important synods were never ecumenical, because the college of bishops does not act as a college apart from its head.",
+      "hint": "The test is about who is gathered and with whom, not how many or where.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-002",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Council of Jerusalem, described in Acts 15, is traditionally seen as an early pattern for how later councils would resolve disputed questions for the whole Church.",
+      "correctAnswer": true,
+      "explanation": "True. The apostles gathered, deliberated, and issued a decision binding on the whole Church -- a small-scale preview of every ecumenical council that would follow across the next two thousand years, the whole subject of this topic.",
+      "hint": "Recall the very first council-like gathering, described early in the Acts of the Apostles.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 15:1-29"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-003",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What kind of question does an ecumenical council typically gather to resolve?",
+      "choices": [
+        "A serious dispute over faith, morals, or Church order that affects the whole Church, not just one region",
+        "A purely local administrative matter, like a single diocese's property dispute",
+        "A question that has never before been discussed anywhere in the Church",
+        "A matter already fully and finally settled, requiring no real deliberation at all"
+      ],
+      "correctAnswer": "A serious dispute over faith, morals, or Church order that affects the whole Church, not just one region",
+      "explanation": "Councils are not called for routine business -- across this topic's whole chronological arc, every ecumenical council responds to a real, serious question the wider Church needs resolved together.",
+      "hint": "Consider the scale of the questions serious enough to require gathering bishops from across the whole Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-004",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: An ecumenical council's teaching requires papal confirmation to bind the whole Church.",
+      "correctAnswer": true,
+      "explanation": "True, and this connects directly to level 1's own definition -- a council is ecumenical precisely because the bishops act in union with the Pope, not as an independent body apart from him.",
+      "hint": "Recall this level's own definition of what makes a council ecumenical in the first place.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-005",
+      "topic": "councils",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The Church has recognized twenty-one ecumenical ____ across its whole history, from the fourth century to the twentieth.",
+      "correctAnswer": "councils",
+      "acceptedAnswers": [
+        "councils"
+      ],
+      "explanation": "This number -- twenty-one, not an open-ended or uncertain count -- is itself worth holding onto: this topic's whole chronological journey will trace every single one of them in order.",
+      "hint": "The word this whole topic is named for.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-006",
+      "topic": "councils",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each term to what it means for understanding this whole topic.",
+      "pairs": [
+        {
+          "left": "Ecumenical",
+          "right": "Representing the whole Church, in union with the Pope"
+        },
+        {
+          "left": "The Council of Jerusalem (Acts 15)",
+          "right": "An early apostolic-era pattern for later councils"
+        },
+        {
+          "left": "Papal confirmation",
+          "right": "What makes a council's teaching bind the whole Church"
+        },
+        {
+          "left": "Twenty-one",
+          "right": "The total number of ecumenical councils this topic will cover"
+        }
+      ],
+      "explanation": "These four pieces together define exactly what this topic is about, and set the scale of the journey ahead -- twenty-one real, distinct gatherings, not a vague or open-ended category.",
+      "hint": "Two rows define the term itself; two set up the scope of what follows.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-007",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Does the size of a gathering of bishops, by itself, determine whether a council is ecumenical?",
+      "choices": [
+        "No -- union with the Pope and universal scope are what matter, not headcount alone",
+        "Yes -- any gathering of at least one hundred bishops counts as ecumenical",
+        "Yes -- ecumenical status depends entirely on attendance numbers",
+        "No -- ecumenical status depends only on how long the gathering lasted"
+      ],
+      "correctAnswer": "No -- union with the Pope and universal scope are what matter, not headcount alone",
+      "explanation": "A large regional synod is still not ecumenical if it lacks that union and universal scope; a smaller gathering meeting the real criteria is. Size is a common but mistaken shortcut for the actual test.",
+      "hint": "Recall this level's own stated criterion for ecumenical status.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-008",
+      "topic": "councils",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Every ecumenical council in this topic's whole chronological arc was called to resolve a question the wider Church genuinely needed settled.",
+      "correctAnswer": true,
+      "explanation": "True. From Nicaea's confrontation with Arianism, the very next level in this topic, all the way through the twentieth century, no council in this topic was convened for a trivial or merely ceremonial reason.",
+      "hint": "Consider whether any council in Church history was ever called for a purely ceremonial reason.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-009",
+      "topic": "councils",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Given this level's definition of an ecumenical council, what does the next level in this topic turn to?",
+      "choices": [
+        "The very first ecumenical council itself -- Nicaea, in 325",
+        "A complete repeat of this same level's definitional material",
+        "A jump directly to the Second Vatican Council in the 20th century",
+        "A subject entirely unrelated to councils or to the Church's own teaching authority"
+      ],
+      "correctAnswer": "The very first ecumenical council itself -- Nicaea, in 325",
+      "explanation": "Having defined the category, this topic now moves in strict chronological order -- the next level meets the very first council to meet the definition this level has just established.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l1-010",
+      "topic": "councils",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The Church's very first council-like gathering, described in Acts 15, met in the city of ____ to settle whether Gentile converts needed circumcision.",
+      "correctAnswer": "Jerusalem",
+      "acceptedAnswers": [
+        "Jerusalem"
+      ],
+      "explanation": "This apostolic-era gathering, long before the word 'ecumenical' was ever applied to a council, already shows the same basic pattern this whole topic traces: bishops (here, the apostles themselves) gathering to settle a real question for the whole Church.",
+      "hint": "The same city this gathering, described in Acts 15, takes its name from.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 15:1-29"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-001",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Which ecumenical council, held in 325, condemned Arius and produced the first part of what we now call the Nicene Creed?",
+      "choices": [
+        "Nicaea",
+        "Ephesus",
+        "Chalcedon",
+        "Trent"
+      ],
+      "correctAnswer": "Nicaea",
+      "explanation": "The First Council of Nicaea (325) confessed that the Son is 'of the same substance' as the Father and condemned Arius's teaching that the Son was a creature.",
+      "hint": "The city's name is the first word of the Creed said at Mass every Sunday.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-002",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: The First Council of Nicaea (325) is traditionally said to have been attended by around 318 bishops.",
+      "correctAnswer": true,
+      "explanation": "Tradition remembers Nicaea as gathering roughly 318 bishops from across the Church, though exact ancient headcounts are naturally imprecise.",
+      "hint": "Tradition remembers a very specific, often-repeated number for this gathering.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-003",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Arius, the priest whose teaching Nicaea condemned, taught what about the Son?",
+      "choices": [
+        "That the Son was a creature, brought into being by the Father and not eternally divine",
+        "That the Son and the Father are simply two names for the same single person",
+        "That Christ had no real human nature at all, only the appearance of one",
+        "That the Holy Spirit alone is fully divine, not the Son"
+      ],
+      "correctAnswer": "That the Son was a creature, brought into being by the Father and not eternally divine",
+      "explanation": "Arius's teaching -- 'there was a time when the Son was not' -- denied the Son's full, eternal divinity, treating him instead as the highest of creatures. Nicaea's whole purpose was answering exactly this claim.",
+      "hint": "This is the specific claim Nicaea's own creed, confessing the Son 'begotten, not made,' was written to directly answer.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-004",
+      "topic": "councils",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1002,
+      "prompt": "Nicaea's creed describes the Son as 'consubstantial,' or of the same ____, with the Father -- the Greek term is 'homoousios.'",
+      "correctAnswer": "substance",
+      "acceptedAnswers": [
+        "substance",
+        "essence"
+      ],
+      "explanation": "This single word became the whole council's decisive theological stake in the ground -- not merely similar to the Father, but truly, fully sharing the same divine reality.",
+      "hint": "The Greek word 'homoousios' literally means 'same' plus this word.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-005",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: Nicaea met only a little more than a decade after Christianity had gained legal toleration in the Roman Empire.",
+      "correctAnswer": true,
+      "explanation": "True. The Edict of Milan (313) had ended active persecution barely twelve years before Nicaea (325) -- this council meets almost immediately after Christians could gather this openly for the very first time in the Church's history.",
+      "hint": "Consider how recently Christians had gained the legal freedom to gather this openly at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-006",
+      "topic": "councils",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 982,
+      "prompt": "Match each fact about Nicaea (325) to what it involves.",
+      "pairs": [
+        {
+          "left": "Arius",
+          "right": "Taught the Son was a created being, not eternally divine"
+        },
+        {
+          "left": "Homoousios",
+          "right": "The Greek term for the Son's shared substance with the Father"
+        },
+        {
+          "left": "318 bishops",
+          "right": "The traditional number of attendees"
+        },
+        {
+          "left": "313 AD",
+          "right": "The Edict of Milan, barely twelve years before this council met"
+        }
+      ],
+      "explanation": "This council did not happen in a vacuum -- it meets almost immediately after Christians gained the legal freedom to assemble this openly, to answer a real, urgent theological crisis.",
+      "hint": "One row names the heresy's own teacher; one names the key term; one names attendance; one sets the political backdrop.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-007",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: The Emperor Constantine convened the Council of Nicaea, but it was the assembled bishops who defined what the Church believed there.",
+      "correctAnswer": true,
+      "explanation": "True, and the distinction is worth holding onto. An emperor could summon bishops and pay for their travel; he could not settle a doctrinal question. Confusing convening with defining is the seed of the popular claim that Constantine decided Christian doctrine.",
+      "hint": "Separate who called the meeting from who determined its content.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-008",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "What was Nicaea's real, lasting significance beyond simply condemning one man's teaching?",
+      "choices": [
+        "It established the pattern every later council follows -- bishops gathering to define the faith against error",
+        "It had, in the end, no lasting significance of any kind beyond its own immediate fourth-century controversy",
+        "It permanently and completely ended all future theological controversy within the whole Church forever",
+        "It was formally reversed by the very next ecumenical council that happened to meet afterward"
+      ],
+      "correctAnswer": "It established the pattern every later council follows -- bishops gathering to define the faith against error",
+      "explanation": "Every later council this topic will cover -- Constantinople, Ephesus, Chalcedon, and beyond -- follows the same basic shape Nicaea sets here: a real crisis, bishops gathered, a clear definition issued.",
+      "hint": "Consider what basic shape every later council in this topic will keep repeating.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-009",
+      "topic": "councils",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: Nicaea's own creed, as issued in 325, was already the complete Nicene Creed said at Mass today, with nothing added later.",
+      "correctAnswer": false,
+      "explanation": "False. Nicaea's 325 creed confessed the Son's divinity but said comparatively little about the Holy Spirit -- the fuller creed said at Mass today was completed by a second council, which the next level in this topic covers.",
+      "hint": "Consider what this level's own creed said, or did not yet say, about the Holy Spirit.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l2-010",
+      "topic": "councils",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Given that Nicaea's own creed left the Holy Spirit's divinity comparatively undeveloped, what does the next level in this topic turn to?",
+      "choices": [
+        "Constantinople I (381), completing the creed on the Spirit's divinity, and Ephesus (431)",
+        "A complete and exhaustive repeat of this same level's material about Nicaea",
+        "A jump forward directly to the Council of Trent in the 16th century",
+        "A subject entirely unrelated to the Trinity or to Christ's own identity"
+      ],
+      "correctAnswer": "Constantinople I (381), completing the creed on the Spirit's divinity, and Ephesus (431)",
+      "explanation": "The next level picks up exactly where Nicaea's own creed leaves off -- completing the Trinitarian confession, then moving to the next real crisis the Church faced fifty years later.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-001",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "The First Council of Constantinople, held in 381, completed the creed begun at Nicaea by affirming the divinity of which Person of the Trinity?",
+      "choices": [
+        "The Holy Spirit",
+        "The Son",
+        "The Father",
+        "It did not address the Trinity"
+      ],
+      "correctAnswer": "The Holy Spirit",
+      "explanation": "Constantinople I extended Nicaea's confession of the Son's divinity to the Holy Spirit, completing the Trinitarian faith expressed in the Nicene Creed still prayed at Mass today.",
+      "hint": "This is the fourth-century council that finished the Creed Nicaea started.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-002",
+      "topic": "councils",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1093,
+      "prompt": "The creed recited at Mass on Sundays is more precisely called the Nicene-____ Creed, because a second council completed what the first began.",
+      "correctAnswer": "Constantinopolitan",
+      "acceptedAnswers": [
+        "Constantinopolitan"
+      ],
+      "explanation": "Nicaea in 325 settled the Son's divinity; Constantinople in 381 completed the confession of the Holy Spirit. The creed said at Mass is the product of both, which is why the double name is the accurate one.",
+      "hint": "The second council in the name is the one that met in 381.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 195"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-003",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "Which 431 council confessed the unity of Christ's person and gave Mary the title Theotokos, in opposition to the Nestorian heresy?",
+      "choices": [
+        "Ephesus",
+        "Nicaea",
+        "Chalcedon",
+        "Constantinople"
+      ],
+      "correctAnswer": "Ephesus",
+      "explanation": "The Third Ecumenical Council, held at Ephesus in 431, confessed that the Word united a truly human nature to himself in one person, honoring Mary as Theotokos, 'Mother of God.'",
+      "hint": "Held in the city where St. Paul spent nearly three years, and where tradition holds Mary later lived.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-004",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: Nestorius, the heresy Ephesus condemned, taught that Christ was effectively two separate persons, one divine and one human, loosely joined together.",
+      "correctAnswer": true,
+      "explanation": "True. Nestorius's teaching divided Christ's unity so sharply that Mary, on his account, could be called mother of the human Jesus but not properly 'Mother of God' -- exactly the claim Ephesus rejected by insisting Christ is one single Person.",
+      "hint": "Consider why this heresy made Nestorius reluctant to call Mary 'Mother of God' at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-005",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "Why did Ephesus insist on calling Mary 'Theotokos' rather than settling for the softer title 'Christotokos' (Christ-bearer), which Nestorius preferred?",
+      "choices": [
+        "Because the title is really a statement about Christ's own unity of person, not primarily an honor for Mary herself",
+        "Because the Council believed Mary was herself divine",
+        "Because the title was simply a matter of local Ephesian devotional custom with no doctrinal content",
+        "Because Nestorius himself had proposed the title first"
+      ],
+      "correctAnswer": "Because the title is really a statement about Christ's own unity of person, not primarily an honor for Mary herself",
+      "explanation": "This is the whole doctrinal stake of the title: if Christ is one Person, truly God and truly man, then the one Mary bore is truly God -- 'Christotokos' alone would leave open exactly the division Nestorius taught.",
+      "hint": "Ask what the title actually claims about Christ, not only about Mary.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 466",
+          "quote": "The Word, uniting to himself in his person the flesh animated by a rational soul, became man."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-006",
+      "topic": "councils",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1073,
+      "prompt": "Match each fact about Constantinople I (381) and Ephesus (431) to what it involves.",
+      "pairs": [
+        {
+          "left": "Constantinople I",
+          "right": "Completed the creed by confessing the Holy Spirit's divinity"
+        },
+        {
+          "left": "Ephesus",
+          "right": "Confessed Christ as one Person, giving Mary the title Theotokos"
+        },
+        {
+          "left": "Nestorius",
+          "right": "Taught Christ was, in effect, two loosely joined persons"
+        },
+        {
+          "left": "\"Theotokos\" vs \"Christotokos\"",
+          "right": "A real doctrinal stake about Christ's unity, not just a title for Mary"
+        }
+      ],
+      "explanation": "Together, these two councils, separated by fifty years, answer two different but related questions -- who the Holy Spirit is, and how fully one Christ can be both God and man.",
+      "hint": "Two rows concern Constantinople's own creed; two concern the specific dispute Ephesus resolved.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-007",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: Both Constantinople I and Ephesus follow the same basic pattern Nicaea already established -- a real doctrinal crisis met by bishops gathering to issue a clear definition.",
+      "correctAnswer": true,
+      "explanation": "True. Neither council invents a new method -- both apply the exact pattern the previous level in this topic already introduced, confirming Nicaea's approach was the beginning of a lasting practice, not a one-time event.",
+      "hint": "Recall the pattern the previous level in this topic already established as Nicaea's real, lasting significance.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-008",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "What real question, left open by Ephesus's own confession that Christ is one Person, does the very next council in this topic have to address?",
+      "choices": [
+        "Exactly how Christ's two natures, divine and human, relate to one another within that single Person",
+        "Whether the Holy Spirit is truly divine, a question already fully settled",
+        "Whether Mary should be honored at all, a question Ephesus had already resolved",
+        "No real question remained open after Ephesus"
+      ],
+      "correctAnswer": "Exactly how Christ's two natures, divine and human, relate to one another within that single Person",
+      "explanation": "Ephesus confessed Christ's unity of Person; it did not fully spell out how his divine and human natures relate within that one Person -- a real, unfinished question the next level's council takes up directly.",
+      "hint": "Consider what Ephesus's own confession -- one Person -- leaves still unexplained about that Person's two natures.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-009",
+      "topic": "councils",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: Ephesus's confession of Christ as one Person, by itself, already fully answered every later christological question the Church would ever face.",
+      "correctAnswer": false,
+      "explanation": "False. A further error, teaching Christ had effectively only one nature rather than two, arises within a generation of Ephesus -- the exact crisis the next level's council, Chalcedon, is convened to answer.",
+      "hint": "Consider what new, different error arises within a generation after Ephesus's own council.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        }
+      ]
+    },
+    {
+      "id": "councils-l3-010",
+      "topic": "councils",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "Given the real question left open about Christ's two natures, what does the next level in this topic turn to?",
+      "choices": [
+        "Chalcedon (451), which defines how Christ's two natures relate within his one Person",
+        "A complete repeat of this same level's material about Constantinople I and Ephesus",
+        "A jump forward directly to the Council of Trent in the 16th century",
+        "A subject entirely unrelated to Christ's own identity or nature"
+      ],
+      "correctAnswer": "Chalcedon (451), which defines how Christ's two natures relate within his one Person",
+      "explanation": "The next level completes this topic's opening arc on Christ's own identity -- the fourth and final council in the sequence that began with Nicaea, twenty years after Ephesus.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    }
+  ]
+}
