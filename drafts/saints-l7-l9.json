@@ -1,0 +1,663 @@
+{
+  "_comment": "DRAFT -- NOT live. Saints levels 7-9 of 23: level 7 is new, expanding old live level 3's Benedict content (Patron of Europe, ora et labora) with new material on Monte Cassino, Scholastica, the vow of stability, and lectio divina. Level 8 is the old live level 3's Francis/Clare/Dominic content, renumbered and re-seeded, plus new material on the stigmata, the Canticle of the Sun, and the Rosary. Level 9 is the old live level 4's Catherine of Siena content, renumbered and re-seeded, plus new material on her Third Order status, the Dialogue, and her death at 33. CCC 2691/2044/2033/925, Matthew 19:21, and magisterial_document citations already reviewed are reused throughout.",
+  "topic": "saints",
+  "questions": [
+    {
+      "id": "saints-l7-001",
+      "topic": "saints",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 1360,
+      "prompt": "St. Benedict of Nursia founded the monastery of Monte ____ around 529 AD, and his Rule became the foundation of Western monasticism.",
+      "correctAnswer": "Cassino",
+      "acceptedAnswers": [
+        "Cassino"
+      ],
+      "explanation": "Benedict's Rule -- pray and work, ora et labora -- shaped monastic life across the West for over a millennium, and Monte Cassino remained a center of learning and prayer for most of that time.",
+      "hint": "This is also the site of a famous WWII battle, fought around the same monastery centuries later.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-002",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "St. Benedict's motto for monastic life is often summarized in Latin as 'ora et labora.' What does this mean?",
+      "choices": [
+        "Prayer and work",
+        "Faith and reason",
+        "Silence and solitude",
+        "Poverty and chastity"
+      ],
+      "correctAnswer": "Prayer and work",
+      "explanation": "Benedictine life balances prayer and manual or intellectual labor rather than treating one as more spiritual than the other -- both integrated into a single rhythm of monastic life.",
+      "hint": "The two Latin words are close cousins of the English words 'oral' and 'labor.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-003",
+      "topic": "saints",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: In 1964, Pope Paul VI gave St. Benedict the title 'Patron of Europe,' honoring his role in shaping Western monastic and cultural life.",
+      "correctAnswer": true,
+      "explanation": "True. Benedict's Rule shaped monastic life so deeply across the continent that Paul VI named him Patron of Europe in 1964, nearly fifteen centuries after Benedict's own death -- a real measure of how far his influence actually reached.",
+      "hint": "This title recognizes an influence spanning an entire continent, not just Italy.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-004",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "St. Benedict had a twin sister, also recognized as a saint, who founded her own community of women religious nearby. Who was she?",
+      "choices": [
+        "St. Scholastica",
+        "St. Clare of Assisi",
+        "St. Monica",
+        "St. Hildegard of Bingen"
+      ],
+      "correctAnswer": "St. Scholastica",
+      "explanation": "Scholastica's own community, following principles close to her brother's Rule, shows Benedictine sainthood was never a purely male phenomenon from its very beginning -- a real, documented sister community founded within Benedict's own lifetime.",
+      "hint": "Her name later becomes the English word for academic study itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-005",
+      "topic": "saints",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Benedict's Rule requires a monk to make a specific vow of stability, committing to remain in the same monastery for life rather than moving freely between communities.",
+      "correctAnswer": true,
+      "explanation": "True. Stability is one of Benedict's own distinctive contributions -- rooting a monk permanently in one community, under one abbot, rather than the more mobile monastic life some earlier movements allowed.",
+      "hint": "This vow ties a monk permanently to one specific place and community.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-006",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Benedictine monasticism developed a distinctive practice of slow, prayerful reading of Scripture, known by its Latin name as what?",
+      "choices": [
+        "Lectio divina",
+        "Sola scriptura",
+        "Exegesis critica",
+        "Vulgata sacra"
+      ],
+      "correctAnswer": "Lectio divina",
+      "explanation": "Lectio divina -- 'divine reading' -- treats Scripture not as a text to master quickly but as a place to linger and listen, a practice that survives in Benedictine communities and well beyond them to this day.",
+      "hint": "This Latin phrase literally means 'divine reading.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-007",
+      "topic": "saints",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1340,
+      "prompt": "Match each term or fact about St. Benedict to what it involves.",
+      "pairs": [
+        {
+          "left": "Monte Cassino",
+          "right": "The monastery Benedict founded around 529 AD"
+        },
+        {
+          "left": "Ora et labora",
+          "right": "Benedict's balance of prayer and work"
+        },
+        {
+          "left": "The vow of stability",
+          "right": "A monk's lifelong commitment to one community"
+        },
+        {
+          "left": "St. Scholastica",
+          "right": "Benedict's twin sister, founder of her own community"
+        }
+      ],
+      "explanation": "Together these four pieces show Benedict's real, lasting institutional achievement -- not a single dramatic act, but a durable structure that outlived him by well over a thousand years.",
+      "hint": "Two rows name a place and a Latin motto; two name a specific vow and a sister community.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-008",
+      "topic": "saints",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Benedictine monasteries became, almost as a side effect of their daily rhythm of prayer and work, important centers of learning and manuscript preservation in the medieval West.",
+      "correctAnswer": true,
+      "explanation": "True. This is the exact thread Church History's own treatment of this period traces -- Benedictine scriptoria preserving both Christian and classical texts through the centuries following Rome's collapse, directly connecting Benedict's own sainthood to that wider historical story.",
+      "hint": "Recall what Church History's own coverage of monastic life in this period emphasizes.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-009",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "How does Benedict's sainthood compare to the eremitic Desert Fathers this topic covered several levels earlier?",
+      "choices": [
+        "Benedict organizes structured communal life under a written Rule, rather than the largely solitary desert withdrawal Anthony practiced",
+        "Benedict and the Desert Fathers lived in exactly the same way, with no real differences at all between them",
+        "Benedict rejected monasticism entirely, choosing a purely active, non-monastic life instead of it",
+        "Benedict lived many centuries before the Desert Fathers, rather than well after them"
+      ],
+      "correctAnswer": "Benedict organizes structured communal life under a written Rule, rather than the largely solitary desert withdrawal Anthony practiced",
+      "explanation": "This is the cenobitic tradition -- closer to Pachomius's communal model than to Anthony's solitary one -- now given its most lasting and influential Western form through Benedict's own written Rule.",
+      "hint": "Recall the difference between eremitic and cenobitic monasticism from several levels back in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l7-010",
+      "topic": "saints",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Given Benedict's lasting influence on Western monastic sainthood, what does the next level in this topic turn to?",
+      "choices": [
+        "A different, later wave of founders -- Francis, Clare, and Dominic -- responding to new needs of the 12th and 13th centuries",
+        "A complete and exhaustive repeat of this same level's own material about Benedict himself, again",
+        "A jump backward to the apostolic era, which this topic has already fully covered several levels earlier",
+        "A subject entirely and completely unrelated to religious founders or monastic life of any kind"
+      ],
+      "correctAnswer": "A different, later wave of founders -- Francis, Clare, and Dominic -- responding to new needs of the 12th and 13th centuries",
+      "explanation": "Benedict's Rule shapes monastic life for over six centuries before a new kind of religious life emerges -- the mendicant orders the next level covers, answering the specific pressures of a newly urbanizing medieval world.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-001",
+      "topic": "saints",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: St. Francis of Assisi founded his order on a radical commitment to poverty, refusing even communal ownership of property.",
+      "correctAnswer": true,
+      "explanation": "Francis took Jesus' words to the rich young man -- 'sell what you have and give to the poor' -- with total literalness, building his whole order on possessing nothing, individually or in common.",
+      "hint": "He took one Gospel command about wealth as literally as possible.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-002",
+      "topic": "saints",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "St. Dominic de Guzmán founded the Order of Preachers in the early 13th century primarily to combat which heresy through preaching and study?",
+      "choices": [
+        "Catharism (Albigensianism)",
+        "Arianism specifically",
+        "Ancient Donatism",
+        "Early Pelagianism"
+      ],
+      "correctAnswer": "Catharism (Albigensianism)",
+      "explanation": "Dominic preached against the Cathars in southern France, convinced that ignorance of true doctrine, not lack of zeal, was letting the heresy spread -- his order's approval by Pope Honorius III in 1216 made preaching and study its very mission.",
+      "hint": "This heresy taught that matter itself was evil, and it spread through southern France.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Honorius III, approving the Order of Preachers (1216)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-003",
+      "topic": "saints",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: St. Clare of Assisi was a close companion of St. Francis and founded the women's branch of the Franciscan movement, later called the Poor Clares.",
+      "correctAnswer": true,
+      "explanation": "Inspired by Francis's preaching, Clare left her wealthy family to embrace radical poverty herself, founding what became the Poor Clares -- approved and later canonized by Pope Alexander IV in 1255.",
+      "hint": "This order shares the poverty and spirit of the Franciscans, but is made up of women.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Alexander IV, canonizing St. Clare of Assisi (1255)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-004",
+      "topic": "saints",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "What distinguishes the Dominican charism from the Franciscan?",
+      "choices": [
+        "A particular emphasis on study and preaching to combat doctrinal error, especially the Albigensian heresy",
+        "An overriding emphasis on radical poverty above every single other consideration whatsoever",
+        "A fully cloistered contemplative life with absolutely no public ministry of any kind at all",
+        "An emphasis on manual labor as the primary and most preferred form of prayer itself"
+      ],
+      "correctAnswer": "A particular emphasis on study and preaching to combat doctrinal error, especially the Albigensian heresy",
+      "explanation": "Dominic founded the Order of Preachers specifically to answer the Cathar heresy with sound doctrine delivered by well-formed preachers, which is why study and preaching, not radical poverty, is the Dominican charism's defining note.",
+      "hint": "Ask what specific problem in the Church Dominic was responding to when he founded his order.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-005",
+      "topic": "saints",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: St. Clare of Assisi's Poor Clares were founded as an active order engaged primarily in teaching and nursing.",
+      "correctAnswer": false,
+      "explanation": "False. The Poor Clares are a cloistered contemplative order, committed to radical poverty and enclosed prayer rather than active ministry outside the convent -- a different form of religious life from active orders, though sharing Francis's commitment to poverty.",
+      "hint": "Ask whether this order's members live and work primarily inside or outside the convent walls.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 925"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-006",
+      "topic": "saints",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "Late in his life, Francis is traditionally said to have received the wounds of Christ's own crucifixion on his body. What is this phenomenon called?",
+      "choices": [
+        "The stigmata",
+        "The Transfiguration",
+        "The Assumption",
+        "The beatific vision"
+      ],
+      "correctAnswer": "The stigmata",
+      "explanation": "Francis is remembered as the first widely documented case of the stigmata in Church history -- a striking, physical sign of the deep identification with Christ's own suffering that his whole life of radical poverty had already been pointing toward.",
+      "hint": "This word describes marks corresponding to Christ's own wounds appearing on a person's body.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-007",
+      "topic": "saints",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: Francis of Assisi wrote a famous hymn of praise, the Canticle of the Sun, celebrating God's presence in creation -- sun, moon, wind, and even death itself.",
+      "correctAnswer": true,
+      "explanation": "True. Composed near the end of his life, the Canticle shows Francis's radical poverty was never a rejection of the created world -- it flows from a deep, joyful sense of every creature as a sign of God's own goodness.",
+      "hint": "This composition addresses the sun, moon, wind, water, and even death as 'brother' and 'sister.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-008",
+      "topic": "saints",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "Tradition credits St. Dominic with promoting devotion to the ____, a prayer combining vocal repetition with meditation on the life of Christ and Mary.",
+      "correctAnswer": "Rosary",
+      "acceptedAnswers": [
+        "Rosary"
+      ],
+      "explanation": "Whether or not every historical detail of the tradition is fully verifiable, the Rosary's close association with the Dominican order has remained constant for centuries, another expression of Dominic's core charism of teaching the faith clearly and memorably.",
+      "hint": "This prayer's beads and repeated Hail Marys are closely tied to Dominic's own order to this day.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-009",
+      "topic": "saints",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each 13th-century saint to what makes them one of this level's mendicant founders.",
+      "pairs": [
+        {
+          "left": "St. Francis of Assisi",
+          "right": "Radical poverty, the stigmata, and the Canticle of the Sun"
+        },
+        {
+          "left": "St. Clare of Assisi",
+          "right": "Founded the cloistered, contemplative Poor Clares"
+        },
+        {
+          "left": "St. Dominic",
+          "right": "Founded the Order of Preachers against the Cathar heresy"
+        },
+        {
+          "left": "The Rosary",
+          "right": "A devotion closely associated with Dominic and his order"
+        }
+      ],
+      "explanation": "Three real, distinct charisms -- radical poverty, contemplative enclosure, and doctrinal preaching -- all emerge in the same single generation, answering the specific pressures of a newly urbanizing 13th-century Europe.",
+      "hint": "Three rows name individual founders; one names a devotion tied closely to one of them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l8-010",
+      "topic": "saints",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "Given this level's picture of Francis, Clare, and Dominic, what does the next level in this topic turn to?",
+      "choices": [
+        "St. Catherine of Siena, whose own documented influence reaches directly into the Avignon Papacy crisis",
+        "A complete and total repeat of this same level's own material about the mendicant orders",
+        "A jump backward to Benedict's own era, which this topic has already fully covered",
+        "A subject entirely unrelated to sainthood or holiness of any kind whatsoever"
+      ],
+      "correctAnswer": "St. Catherine of Siena, whose own documented influence reaches directly into the Avignon Papacy crisis",
+      "explanation": "The next level moves a century and a half forward to Catherine, a Third Order Dominican laywoman whose own letters helped bring the papacy back to Rome -- the same institutional crisis Church History's own timeline covers independently.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-001",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "St. Catherine of Siena, a Doctor of the Church, is remembered for urging which pope to return the papacy from Avignon to Rome?",
+      "choices": [
+        "Gregory XI",
+        "Urban VI",
+        "Clement V",
+        "Boniface VIII"
+      ],
+      "correctAnswer": "Gregory XI",
+      "explanation": "Catherine's letters and personal visits helped persuade Gregory XI to end the Avignon Papacy and return to Rome in 1377, remarkable influence for a laywoman with no formal education.",
+      "hint": "Her persuasion helped end nearly seventy years of the papacy residing in France.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring St. Catherine of Siena a Doctor of the Church (1970)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-002",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "St. Catherine of Siena, though never formally educated in theology, was named a Doctor of the Church for what reason?",
+      "choices": [
+        "Her eminent doctrine, expressed through her writings and letters, meets the Church's actual criteria regardless of formal academic training",
+        "Because she held an official, formally recognized teaching position within the Church's own governing hierarchy",
+        "Because she was, in point of fact, the very first woman of any kind ever to be canonized",
+        "Because she personally authored a systematic theological treatise closely modeled on St. Thomas Aquinas's own Summa"
+      ],
+      "correctAnswer": "Her eminent doctrine, expressed through her writings and letters, meets the Church's actual criteria regardless of formal academic training",
+      "explanation": "The criteria for Doctor of the Church are canonized sanctity, eminent learning, and a papal or conciliar declaration -- none of which requires ordination, a university degree, or an institutional teaching post, which is exactly what makes Catherine's case possible.",
+      "hint": "Canonized sanctity, eminent learning, and a papal or conciliar declaration -- none of which require ordination or a university degree.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-003",
+      "topic": "saints",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Catherine of Siena was a laywoman, not a nun living in a convent, when she wrote the letters that helped persuade Gregory XI.",
+      "correctAnswer": true,
+      "explanation": "True. Catherine was a Third Order Dominican -- a laywoman living a consecrated life of prayer and penance while remaining in the world -- which makes her documented influence on a pope's own decision even more striking.",
+      "hint": "Consider what kind of religious affiliation lets someone live a consecrated life without becoming a cloistered nun.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-004",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Catherine of Siena's major spiritual work, dictated to secretaries because she had little formal writing training, is known as what?",
+      "choices": [
+        "The Dialogue",
+        "The Imitation of Christ",
+        "The Interior Castle",
+        "The Spiritual Exercises"
+      ],
+      "correctAnswer": "The Dialogue",
+      "explanation": "The Dialogue records Catherine's own reported conversation with God about the soul, virtue, and the Church -- a major work of mystical theology that later helped establish the eminent learning her Doctor-of-the-Church title required.",
+      "hint": "This title describes the very form the work takes -- a conversation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-005",
+      "topic": "saints",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Catherine of Siena died at a young age, only thirty-three, the same age traditionally given for Christ's own death.",
+      "correctAnswer": true,
+      "explanation": "True. Catherine's short life -- intense prayer, public influence on the papacy, and major written work all compressed into little more than three decades -- shows real sainthood is not measured by length of years.",
+      "hint": "This age is also the age traditionally given for Christ's own death.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-006",
+      "topic": "saints",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 1490,
+      "prompt": "Match each fact about St. Catherine of Siena to what it involves.",
+      "pairs": [
+        {
+          "left": "Gregory XI",
+          "right": "The pope Catherine's letters helped persuade to return to Rome"
+        },
+        {
+          "left": "Third Order Dominican",
+          "right": "A consecrated laywoman's life, not a cloistered nun's"
+        },
+        {
+          "left": "The Dialogue",
+          "right": "Catherine's major dictated work of mystical theology"
+        },
+        {
+          "left": "Doctor of the Church (1970)",
+          "right": "Declared by Paul VI on the strength of her eminent doctrine"
+        }
+      ],
+      "explanation": "Together these four facts show a real, documented influence on the Church's own institutional history, achieved by a laywoman with no formal theological education -- a case this level asks a learner to take seriously rather than treat as legend.",
+      "hint": "One row names a pope she influenced; the others name her state of life, her major work, and her later title.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-007",
+      "topic": "saints",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Catherine of Siena's role in ending the Avignon Papacy is the same institutional crisis Church History's own treatment of the medieval Church covers independently.",
+      "correctAnswer": true,
+      "explanation": "True. This level's whole point is making these cross-topic links explicit: a saint's biography and a historical period are not separate subjects -- Catherine's letters only make full sense against the actual institutional crisis Church History documents in its own chronological terms.",
+      "hint": "Recall the same 1309-1377 crisis covered from a different angle elsewhere in this app.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-008",
+      "topic": "saints",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 1510,
+      "prompt": "Catherine of Siena's letters contributed to Pope Gregory XI's decision to return the papacy to ____ in 1377, ending nearly seventy years of the Avignon period.",
+      "correctAnswer": "Rome",
+      "acceptedAnswers": [
+        "Rome"
+      ],
+      "explanation": "A laywoman's persistent letters and personal visits are documented as a real factor in a pope's actual decision -- a rare, concrete case where private holiness had a directly traceable public effect.",
+      "hint": "The city the papacy had been absent from for nearly seventy years.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-009",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "What does Catherine's case add to this topic's growing picture of the different real paths to sainthood?",
+      "choices": [
+        "A laywoman's public influence on the Church's own institutional life, achieved through prayer, writing, and direct action rather than ordained office",
+        "Nothing genuinely new at all -- her path is functionally identical to Benedict's own monastic life covered several levels earlier",
+        "Proof that only ordained clergy can ever have any real, documented effect on Church history",
+        "Proof that formal theological education is strictly required before anyone's writing can be taken seriously"
+      ],
+      "correctAnswer": "A laywoman's public influence on the Church's own institutional life, achieved through prayer, writing, and direct action rather than ordained office",
+      "explanation": "This is a genuinely different shape of sainthood from everything this topic has covered so far -- not a founder of an order, not a martyr, not a bishop, but a laywoman whose holiness produced a real, documented, public effect.",
+      "hint": "Compare Catherine's path -- no ordination, no founded order -- to every saint covered in this topic so far.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2033"
+        }
+      ]
+    },
+    {
+      "id": "saints-l9-010",
+      "topic": "saints",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Given Catherine's documented role at the eve of the Western Schism, what does the next level in this topic turn to?",
+      "choices": [
+        "A saint on the eve of the Reformation itself -- Joan of Arc, another young laywoman whose public role had major historical consequences",
+        "A complete and exhaustive repeat of Catherine's own story, once again, with no genuinely new figure introduced",
+        "A jump backward to Benedict's own era, which this topic has already fully and thoroughly covered",
+        "A subject bearing no real connection at all to sainthood or to Church history of any kind whatsoever"
+      ],
+      "correctAnswer": "A saint on the eve of the Reformation itself -- Joan of Arc, another young laywoman whose public role had major historical consequences",
+      "explanation": "The next level moves roughly another half-century forward, to a strikingly similar pattern -- a young laywoman with no formal power whose documented actions changed the course of real events.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    }
+  ]
+}
