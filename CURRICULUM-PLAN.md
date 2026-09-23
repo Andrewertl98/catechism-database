@@ -216,3 +216,47 @@ reference for the next -- its level titles, the shape of its bridging levels,
 how tightly each level leans on the one before. Church History goes first
 because it is the clearest timeline; the Old Testament follows as the first
 topic built this way from nothing.
+
+**Done, Sep 23, 2026: Church History (23 levels) and the Old Testament (23
+levels).** Both drafted, verified, committed. Neither is live -- both await
+reviewer sign-off before cutover, same as everything else in this file.
+
+---
+
+## Open question for Andrew: does a "journey" mean the same thing for every
+remaining topic?
+
+Church History and the Old Testament both had an obvious organizing axis --
+real, external chronology. Most of the 13 topics still ahead don't:
+
+| Topic | Natural axis? |
+|---|---|
+| Saints | Chronological is *possible* (early martyrs -> medieval founders -> mystics -> modern) but the live bank is currently organized by **theme**, not time -- L1 doctrine, L2 martyrs, L6 canonization process, L7 apologetics, L9-10 cross-topic synthesis. A timeline reorg would dissolve those thematic groupings. |
+| Dogmas-and-doctrine, Metaphysics, Liturgy-and-mass, Sacred-scripture, Prayer, Virtues-and-vices, Church-latin | No real chronology at all -- these are conceptual. A "journey" here has to mean *conceptual* dependency (term before it's used, simple doctrine before the nuance built on it), which is a real design choice per topic, not a template that transfers from Church History. |
+| Councils, Heresies | Are chronological in the current bank already (councils in session order, heresies roughly by era) -- likely the smoothest remaining reorgs. |
+| Apologetics, Answering-objections | Scenario-based by design (a named objection per level); "journey" probably means objection-difficulty progression, not time or concept order. |
+| Our-lady | Could go chronological through her own life (Annunciation -> Visitation -> ... -> Assumption -> modern apparitions/devotion) similar to a mini Church History. |
+
+Church History and the Old Testament's syllabi were reviewed by Andrew before
+authoring began (per this file's own stated process, "reviewing 15 syllabi is
+a couple of hours and reviewing 1,880 questions is not"). Continuing on to
+Saints (or any of the next 13) means picking a real organizing principle for
+a topic that, in several cases, has no obvious one -- exactly the kind of call
+this file exists to get reviewed *before* authoring, not after.
+
+**Proposed for Saints specifically**, as the most natural next topic (least
+conceptual, most reusable from Church History's own template): reorganize
+chronologically -- early martyrs (Agnes, Lawrence, Perpetua & Felicity) ->
+Church Fathers-era saints -> medieval founders (Benedict, Francis, Dominic)
+-> mystics and Doctors (Teresa of Ávila, John of the Cross, Catherine of
+Siena, Thérèse) -> modern saints (Kolbe, Teresa of Calcutta, Faustina,
+Bakhita) -> a closing block folding in the current bank's canonization-process
+and apologetics content (L6-L7 today) as the final third of the arc rather
+than a separate thematic detour. This would take the existing 10 levels'
+*content* and re-sequence it by era, the same move Church History's L1-L10
+went through, rather than inventing new saints to research.
+
+**Not yet started pending that confirmation** -- authoring would otherwise
+have to guess at an organizing principle for 12 more topics with no
+established precedent, which is exactly the kind of call this file says
+should be reviewed before, not after.
