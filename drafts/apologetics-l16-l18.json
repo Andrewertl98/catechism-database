@@ -1,0 +1,901 @@
+{
+  "_comment": "Apologetics levels 16-18: advanced dialogue, recognizing a conversation own real limit, classical vs cumulative-case",
+  "topic": "apologetics",
+  "questions": [
+    {
+      "id": "apologetics-l16-001",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Consider a Gospel passage in which the apostles are shown fleeing in fear at Jesus's arrest, arguing among themselves about who is greatest, and Peter denying Christ three times. Which historical-critical criterion for authenticity does this material most strongly support, and why?",
+      "choices": [
+        "The criterion of embarrassment -- early Christian communities would have had strong motive to omit or soften unflattering material about their own leaders, so its inclusion suggests it reflects a real, remembered event rather than later invention",
+        "The criterion of multiple attestation, since this specific detail appears independently in extra-biblical Roman sources",
+        "The criterion of dissimilarity, since no Jewish or early Christian source shares any similar language",
+        "This material fits no historical-critical criterion and provides no evidence either way"
+      ],
+      "correctAnswer": "The criterion of embarrassment -- early Christian communities would have had strong motive to omit or soften unflattering material about their own leaders, so its inclusion suggests it reflects a real, remembered event rather than later invention",
+      "explanation": "The criterion of embarrassment holds that material unflattering to the early Church's own leaders and reputation is unlikely to have been invented, since the community had every motive to omit or soften it -- its presence in the Gospels, despite being awkward for the apostles' reputation, supports its historical authenticity better than criteria like multiple attestation (independent sources) or dissimilarity (unlikeness to surrounding Jewish or early Christian material), which don't directly apply to this specific kind of unflattering detail.",
+      "hint": "Ask why an early community, if inventing material to make itself look good, would ever include this specific detail.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 126",
+          "quote": "the four Gospels... faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-002",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Applying the bibliographical test, how does the New Testament's manuscript evidence compare to Tacitus's Annals, a classical historical text whose reliability is not seriously questioned by historians?",
+      "choices": [
+        "The New Testament has vastly more surviving manuscripts and a far shorter gap to its earliest copies than Tacitus's Annals, which survives in only a handful of manuscripts with a gap of many centuries -- the same evidentiary standard applied evenhandedly favors the New Testament's reliability at least as strongly",
+        "Tacitus's Annals has more surviving manuscripts and an earlier surviving copy than the New Testament",
+        "Neither text has any surviving manuscript evidence at all",
+        "The bibliographical test cannot be applied to Tacitus since he was not a religious author"
+      ],
+      "correctAnswer": "The New Testament has vastly more surviving manuscripts and a far shorter gap to its earliest copies than Tacitus's Annals, which survives in only a handful of manuscripts with a gap of many centuries -- the same evidentiary standard applied evenhandedly favors the New Testament's reliability at least as strongly",
+      "explanation": "Tacitus's Annals, accepted by historians as a generally reliable classical source, survives in only a couple of manuscripts with a gap of many centuries to its earliest copy -- the New Testament's manuscript evidence (thousands of copies, some within decades to a century or two of composition) is dramatically stronger by the same bibliographical standard, which is exactly the comparison Catholic apologists draw to argue for treating the New Testament with at least the same historical seriousness applied to other ancient texts.",
+      "hint": "This level 6 skill, now applied to a specific, named comparison text rather than a general claim.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 19",
+          "quote": "held and continue to hold that the four Gospels... faithfully hand on what Jesus Christ, while living among men, really did and taught for their eternal salvation... they told us the honest truth about Jesus."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-003",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "A Humean objection argues that uniform human experience of natural law makes any report of a miracle inherently less credible than the alternative explanation that the witness is mistaken or lying. Using the contingency/first-cause vocabulary from level 6, what is a key weakness in this objection?",
+      "choices": [
+        "The objection assumes natural law is an ultimate, self-sufficient explainer of reality, when the very contingency of the natural order (which itself needs an explanation for its existence and regularity) already points to a cause capable of acting both through and beyond that order -- 'uniform experience' can't rule out an exception by a cause not bound by the very laws it sustains",
+        "The objection has no weakness at all and is fully sound as stated",
+        "The objection only applies to Old Testament miracles, not New Testament ones",
+        "The contingency argument has nothing to do with the question of miracles"
+      ],
+      "correctAnswer": "The objection assumes natural law is an ultimate, self-sufficient explainer of reality, when the very contingency of the natural order (which itself needs an explanation for its existence and regularity) already points to a cause capable of acting both through and beyond that order -- 'uniform experience' can't rule out an exception by a cause not bound by the very laws it sustains",
+      "explanation": "The Humean objection quietly treats natural regularity as needing no further explanation, but level 6's contingency argument already shows the natural order itself depends on a cause outside it -- a cause capable of sustaining the ordinary regularities of nature is not thereby bound to those regularities in every instance, meaning uniform past experience of natural law can't simply rule out, in advance, a genuine exception worked by that same sustaining cause.",
+      "hint": "Ask what the objection is silently assuming about whether natural law needs any further explanation at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 269",
+          "quote": "Nothing is impossible with God, who disposes his works according to his will."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-004",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "The early Church grew rapidly even while facing sustained, often lethal persecution across the Roman Empire, with converts sometimes including former persecutors. Which motive of credibility does this circumstance most directly illustrate, and why does a tempting alternative fit less well?",
+      "choices": [
+        "The Church's stability and fruitfulness -- sustained growth and endurance despite active, violent opposition is a stronger sign than mere numerical growth in favorable conditions would be, since favorable-conditions growth alone doesn't rule out purely social or political explanations",
+        "The motive of miracles specifically, since growth under persecution always requires a directly verified miraculous event",
+        "The motive of fulfilled prophecy specifically, since persecution itself was never prophesied",
+        "This circumstance illustrates no motive of credibility at all"
+      ],
+      "correctAnswer": "The Church's stability and fruitfulness -- sustained growth and endurance despite active, violent opposition is a stronger sign than mere numerical growth in favorable conditions would be, since favorable-conditions growth alone doesn't rule out purely social or political explanations",
+      "explanation": "Growth under active persecution is a particularly strong illustration of the Church's stability and fruitfulness as a motive of credibility, precisely because ordinary social or political explanations for religious growth (favorable conditions, social pressure, political advantage) are much weaker when the visible cost of conversion was often severe -- a more targeted fit than simply invoking 'miracles' or 'prophecy' as a catch-all label for the circumstance.",
+      "hint": "The distinguishing feature of this scenario is growth despite real cost and danger, not a specific miraculous event or prophecy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156",
+          "quote": "miracles of Christ and the saints, prophecies, the Church's growth and holiness, and her fruitfulness and stability... adapted to the intelligence of all"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-005",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Which of the following best constructs a defense of the reasonableness of Christian belief that avoids sliding into fideism?",
+      "choices": [
+        "'Christian belief rests on real motives of credibility -- historical evidence, philosophical argument, the Church's own fruits -- that show faith to be reasonable, even though faith itself remains a free assent enabled by grace, not merely a conclusion reason reaches on its own' (cf. Fides et Ratio's account of faith and reason's cooperation)",
+        "'Christian belief requires no reasons or evidence whatsoever -- it is simply believed on pure, unsupported will regardless of any rational consideration'",
+        "'Christian belief is simply whatever feels emotionally satisfying to the believer, with reason playing no role at all'",
+        "'Christian belief and reason are permanently and necessarily in conflict, with one always having to be sacrificed for the other'"
+      ],
+      "correctAnswer": "'Christian belief rests on real motives of credibility -- historical evidence, philosophical argument, the Church's own fruits -- that show faith to be reasonable, even though faith itself remains a free assent enabled by grace, not merely a conclusion reason reaches on its own' (cf. Fides et Ratio's account of faith and reason's cooperation)",
+      "explanation": "Fides et Ratio insists faith and reason are 'like two wings' working together, not in competition -- a defense avoiding fideism must actually engage real motives of credibility and rational argument, while still recognizing that the assent of faith itself is a free response enabled by grace, not a conclusion reason reaches entirely on its own the way it reaches a geometric proof.",
+      "hint": "The correct answer engages real reasons and evidence while still leaving room for faith as a free, grace-enabled assent -- rejecting both a reasonless leap and a reason-only account.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio (1998), Introduction",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-006",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each scenario to the apologetic tool or motive it illustrates.",
+      "pairs": [
+        {
+          "left": "Unflattering material about the apostles included in the Gospels",
+          "right": "The criterion of embarrassment"
+        },
+        {
+          "left": "Comparing New Testament manuscripts to Tacitus's Annals",
+          "right": "The bibliographical test, applied evenhandedly to another ancient text"
+        },
+        {
+          "left": "A Humean objection that uniform experience rules out miracles",
+          "right": "Answered using the contingency argument's point that natural law itself depends on a cause not bound by it"
+        },
+        {
+          "left": "The early Church's growth under active persecution",
+          "right": "The motive of credibility found in the Church's stability and fruitfulness"
+        }
+      ],
+      "explanation": "Each of these scenarios required matching a specific, precise tool to the case at hand, rather than reaching for a generic 'that's just faith' response -- this level's whole task is constructing the positive case, one precise argument at a time.",
+      "hint": "Each right answer names a specific named tool or motive, not a vague general appeal to evidence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156",
+          "quote": "miracles of Christ and the saints, prophecies, the Church's growth and holiness, and her fruitfulness and stability... adapted to the intelligence of all"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-007",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "A Muslim friend says the Gospel was corrupted, so its testimony about the crucifixion cannot count. Walking the argument properly, which sequence is strongest?",
+      "choices": [
+        "Grant the Qur'an's own high view of the earlier scriptures, note that it directs people to consult them, and ask why God would send a doubter to a text he knew to be corrupt",
+        "Assert that the Bible is inspired and require that it be accepted on that basis",
+        "Point out inconsistencies in the Qur'an unrelated to this question",
+        "Argue that the corruption claim is offensive and decline to discuss it"
+      ],
+      "correctAnswer": "Grant the Qur'an's own high view of the earlier scriptures, note that it directs people to consult them, and ask why God would send a doubter to a text he knew to be corrupt",
+      "explanation": "The order matters as much as the content. Quoting Scripture as authoritative begs the question with someone who does not grant its authority. Beginning inside the other position, granting its premises, and following them where they lead requires nothing to be conceded in advance \u2014 and it keeps the conversation about the argument rather than about who is being insulted.",
+      "hint": "One of these requires the other person to accept your authority before the argument can start.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-008",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "A Protestant friend holds that Scripture alone is the rule of faith. Which question exposes the difficulty most directly?",
+      "choices": [
+        "How is the list of which books belong in Scripture itself known from Scripture alone, given that no book contains that list",
+        "Why do Protestants reject the papacy",
+        "Why did the Reformation happen in the sixteenth century",
+        "Why do Protestant denominations differ from one another"
+      ],
+      "correctAnswer": "How is the list of which books belong in Scripture itself known from Scripture alone, given that no book contains that list",
+      "explanation": "The canon question is a genuine dilemma rather than a debating point. Either the list is derivable from Scripture alone \u2014 but no book of Scripture contains it \u2014 or it was discerned by an authority outside the text, which is what the principle denies. The other three questions are worth discussing but none of them puts the principle under its own weight.",
+      "hint": "Ask where the table of contents came from, and whether that source is itself Scripture.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-009",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: An internal argument succeeds when the other person is shown to be wrong, so the goal is to get them to concede the point in the conversation.",
+      "correctAnswer": false,
+      "explanation": "False, and this is where a good argument most often goes wrong. Winning a concession on the spot is rarely how anyone changes their mind; it usually hardens them. The purpose is to remove an obstacle and leave something worth thinking about later \u2014 apologetics aims at an invitation, not a scoreboard, and a person pushed into a corner has been given a reason to stop listening.",
+      "hint": "Recall what the first level of this topic said the goal of apologetics actually is.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-010",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each apologetic situation to the approach that actually fits it.",
+      "pairs": [
+        {
+          "left": "A claim that rests on the other side's own texts",
+          "right": "An internal argument granting their premises and following them"
+        },
+        {
+          "left": "A claim about what a manuscript record shows",
+          "right": "Evidence anyone can examine, independent of authority"
+        },
+        {
+          "left": "A claim that a doctrine was invented later",
+          "right": "The historical record of when it was already being disputed"
+        },
+        {
+          "left": "A wound rather than an argument",
+          "right": "Listening first; an argument answers the wrong thing"
+        }
+      ],
+      "explanation": "The fourth is the one most often mishandled. Some objections are not requests for information \u2014 the abuse crisis, a death, a hostile experience of the Church \u2014 and answering them with evidence, however sound, treats a person as a position. Recognising which kind of objection is in front of you comes before choosing a tool.",
+      "hint": "Only three of these four are actually asking a question.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-011",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "TURN 1 of 4. You ask how the list of biblical books is known, given that no book contains the list. Your friend replies: 'Scripture is self-authenticating \u2014 the books carry their own witness, and believers recognise them.' What is the difficulty?",
+      "choices": [
+        "Sincere believers disagreed for centuries about several books, so recognition alone did not in fact settle it",
+        "Self-authentication is a meaningless idea",
+        "The books do not in fact carry any internal witness",
+        "There is no difficulty; this answers the question"
+      ],
+      "correctAnswer": "Sincere believers disagreed for centuries about several books, so recognition alone did not in fact settle it",
+      "explanation": "The answer is not absurd; it is testable, and it does not survive the test. Hebrews, James, Revelation and others were genuinely disputed among believers for a long time. If recognition were sufficient, that dispute should not have needed anything else to resolve it \u2014 and it did.",
+      "hint": "The claim makes a prediction about history. Check the prediction.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-012",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "TURN 2 of 4. Your friend replies: 'The early Church recognised which books were inspired; she did not create the canon.' How should you respond?",
+      "choices": [
+        "Agree entirely \u2014 and note that a body able to recognise authoritatively is exercising an authority outside Scripture, which is the point at issue",
+        "Deny it, since the Church did create the canon",
+        "Point out that the early Church was Catholic, so they should convert",
+        "Argue that recognition and creation are the same act"
+      ],
+      "correctAnswer": "Agree entirely \u2014 and note that a body able to recognise authoritatively is exercising an authority outside Scripture, which is the point at issue",
+      "explanation": "Agreeing is right and it is also the strongest move. The Church did recognise rather than create, and the Catholic position has never claimed otherwise. But a recognition that settles the matter for everyone is an act of authority, and it is not derived from the text \u2014 which is precisely what the principle denies exists.",
+      "hint": "You do not need to dispute their statement. Ask what their statement requires the Church to have been.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-013",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "TURN 3 of 4. Your friend says: 'That authority was for the apostolic age only; afterwards Scripture alone governs.' What follows?",
+      "choices": [
+        "Ask what Scripture says that, since a rule about when authority ends would itself need establishing from the text",
+        "Concede the point, since the apostolic age was unique",
+        "Argue that the apostolic age never ended",
+        "Change the subject to apostolic succession"
+      ],
+      "correctAnswer": "Ask what Scripture says that, since a rule about when authority ends would itself need establishing from the text",
+      "explanation": "The reply introduces a new claim \u2014 an expiry date on teaching authority \u2014 and that claim faces the same test as the principle itself. Nothing in the text specifies it. This is the self-reference difficulty returning in another form, which is worth naming gently rather than triumphantly.",
+      "hint": "Apply their own rule to the new claim they have just made.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 9"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-014",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "TURN 4 of 4. Your friend goes quiet, then says: 'I need to think about that.' What is the right response?",
+      "choices": [
+        "Say so genuinely, stop pressing, and leave the question with them",
+        "Press the advantage while the argument is fresh",
+        "Summarise all four points again to make sure they landed",
+        "Ask them to concede the argument before moving on"
+      ],
+      "correctAnswer": "Say so genuinely, stop pressing, and leave the question with them",
+      "explanation": "This is the most important turn in the exchange and the one most often mishandled. A person thinking is the outcome you wanted; pressing further converts reflection into defence of a position. Apologetics removes obstacles and invites \u2014 it does not extract concessions, and almost nobody changes their mind while losing an argument in front of someone.",
+      "hint": "Ask what you actually wanted from the conversation, and whether you now have it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-015",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "A friend has never questioned their position and shows no interest in yours. You lay out the historical evidence for the Resurrection and then urge them to be received into the Church. Why does this usually fail?",
+      "choices": [
+        "Both later stages were attempted before the first: with no doubt opened, evidence reads as special pleading and the call to conversion as presumption",
+        "The evidence for the Resurrection is too weak to persuade anyone",
+        "Conversion should never be mentioned in a conversation",
+        "The friend has not read enough to follow the argument"
+      ],
+      "correctAnswer": "Both later stages were attempted before the first: with no doubt opened, evidence reads as special pleading and the call to conversion as presumption",
+      "explanation": "This is the most common way a well-prepared apologist fails, and it is a sequencing error rather than a content one. Everything said may be true and well argued. Delivered to someone with no live question, it arrives as an answer to something they were not asking -- and the invitation, offered before anything has been unsettled, sounds like being told to change their life on your say-so.",
+      "hint": "Nothing here is false. Ask what was skipped.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l16-016",
+      "topic": "apologetics",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each stage of an apologetic conversation to what actually belongs in it.",
+      "pairs": [
+        {
+          "left": "Opening a real question",
+          "right": "Showing a tension already present in what they hold"
+        },
+        {
+          "left": "Offering the evidence",
+          "right": "Historical, manuscript and philosophical grounds, once there is a question to answer"
+        },
+        {
+          "left": "The call to conversion",
+          "right": "An invitation to repentance and to Christ, made when it can actually be heard"
+        },
+        {
+          "left": "Knowing when to stop",
+          "right": "Leaving a question with someone rather than pressing for a concession"
+        }
+      ],
+      "explanation": "The fourth is not a stage but a discipline running through all three. Each stage can be ruined by continuing past the point where the other person is still listening, and a conversation left open can be returned to -- one that ended badly usually cannot.",
+      "hint": "Three of these are steps in order; the fourth applies at every step.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1428"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-001",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "A real conversation has been going back and forth for an hour, both people are visibly tired, and the same points keep being repeated without any real new ground being covered. What does this level's own real teaching suggest?",
+      "choices": [
+        "A real sign the conversation has reached its limit -- a graceful pause, not a forced final word",
+        "The conversation must always continue indefinitely until one side fully concedes",
+        "Repetition and fatigue have no real bearing on whether a conversation should continue",
+        "The only real option at this point is to end the friendship entirely"
+      ],
+      "correctAnswer": "A real sign the conversation has reached its limit -- a graceful pause, not a forced final word",
+      "explanation": "Real fatigue and real repetition are practical, honest signs a conversation has reached its actual limit for the moment -- recognizing this and pausing gracefully, rather than forcing a final word, respects both people and the real relationship between them.",
+      "hint": "Consider what real, practical signs this level's own scenario actually describes, and what they suggest about the conversation's own real state.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-002",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Pausing a real conversation gracefully means the same thing as abandoning it forever.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, important distinction matters -- a graceful, real pause leaves the real door open for a future conversation, once real fatigue has passed, rather than closing it permanently the way an abrupt, final ending would.",
+      "hint": "Consider the real difference between pausing something for now and ending it permanently.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-003",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "A friend's tone shifts from genuine questions to real, visible hostility and personal attacks. What does this level's own real teaching suggest as the wiser real response?",
+      "choices": [
+        "Naming the real shift gently, perhaps suggesting a pause, rather than escalating or ignoring it",
+        "Immediately responding with equal or greater hostility, to real-match the tone",
+        "Pretending not to notice the real shift, continuing exactly as before regardless of the real tone",
+        "Ending the real relationship entirely at the very first sign of any real disagreement"
+      ],
+      "correctAnswer": "Naming the real shift gently, perhaps suggesting a pause, rather than escalating or ignoring it",
+      "explanation": "This level's own real teaching applies this topic's opening real principle of gentleness directly here -- naming a real shift in tone honestly, and suggesting a real pause, respects both the relationship and the real, actual state of the conversation, without escalating or pretending.",
+      "hint": "Recall this topic's own opening real teaching on gentleness, and consider what it actually suggests when a conversation's own real tone shifts.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-004",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Recognizing when a real conversation has reached its real limit is itself a genuine act of gentleness, not a real failure of apologetics.",
+      "correctAnswer": true,
+      "explanation": "True. Knowing when to pause a real conversation, rather than pushing it past its actual real, healthy limit, is itself an act of the same real gentleness this whole topic has practiced from its very first level -- not a defeat, but a genuine act of real care.",
+      "hint": "Consider whether pausing a conversation at the right real moment is actually opposed to gentleness, or an expression of it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-005",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "A skeptic objects: 'Pausing a conversation is just giving up -- a real apologist should always keep pressing the argument.' What is the real, careful response?",
+      "choices": [
+        "No -- forcing a conversation past its healthy limit entrenches positions rather than persuading, harming the real relationship",
+        "Yes -- the objection is correct, and a real apologist should always keep pressing regardless of the conversation's own real state",
+        "No -- because real conversations, once begun, should actually never be paused under any real circumstances",
+        "Yes -- but only because the truth itself does not actually matter as much as simply winning the exchange"
+      ],
+      "correctAnswer": "No -- forcing a conversation past its healthy limit entrenches positions rather than persuading, harming the real relationship",
+      "explanation": "This objection confuses pausing with abandoning the truth. In fact, pushing a real conversation past its own healthy limit tends to entrench positions rather than persuade -- a real, gentle pause protects the longer relationship the truth actually needs, over time, to genuinely be heard within.",
+      "hint": "Consider what actually tends to happen to a real conversation pushed well past its own real, healthy limit.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-006",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: This level's own real teaching connects to this topic's earlier level on the three real stages of apologetics, since recognizing a conversation's own real limit is itself part of reading where a conversation actually stands.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this connection matters -- just as this topic's earlier level on the three real stages taught reading a conversation's own real, natural progression, this level teaches reading when that same conversation has reached its own real, present limit.",
+      "hint": "Recall this topic's earlier level on the three real stages of apologetics, and consider what real skill it shared with this level.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-007",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each real sign or real response to what it actually shows about recognizing a conversation's own real limit.",
+      "pairs": [
+        {
+          "left": "Visible fatigue and repetition",
+          "right": "A real, practical sign the conversation has reached its actual limit for now"
+        },
+        {
+          "left": "A real, graceful pause",
+          "right": "Leaves the real door open for a future conversation, unlike an abrupt ending"
+        },
+        {
+          "left": "A shift toward real hostility",
+          "right": "Best met by naming the shift gently, not escalating or pretending"
+        },
+        {
+          "left": "Why pausing isn't giving up",
+          "right": "Protects the longer real relationship the truth actually needs to be heard within"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, practical wisdom -- knowing when to pause a conversation is itself a genuine act of the same real gentleness this whole topic has practiced throughout.",
+      "hint": "Two rows name real signs a conversation has reached its limit; two explain what a real, graceful response actually protects.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-008",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Having now covered recognizing a conversation's own real limit, this topic's next level turns to classical versus cumulative-case apologetics, connecting to this app's own Metaphysics topic.",
+      "correctAnswer": true,
+      "explanation": "True. Having covered the real, practical wisdom of pacing and pausing a conversation, this topic's next level turns to two real, distinct methods for actually building an apologetic case in the first place.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-009",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What real, general habit has this level added to this topic's own growing real toolkit?",
+      "choices": [
+        "Reading a conversation's own present state honestly, rather than pushing forward regardless",
+        "Assuming every real conversation should always continue indefinitely, regardless of its own real state",
+        "Assuming every real conversation should always end immediately at the first sign of any real disagreement",
+        "Avoiding any real attentiveness to a conversation's own actual, real state"
+      ],
+      "correctAnswer": "Reading a conversation's own present state honestly, rather than pushing forward regardless",
+      "explanation": "This level's own real habit -- honestly reading a conversation's own present state, rather than pushing forward regardless -- is exactly the same real discipline this topic will keep practicing through its own later levels on building a real cumulative case.",
+      "hint": "Consider what this level's own two real scenarios both actually did before deciding how to respond.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l17-010",
+      "topic": "apologetics",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Given this level's picture of recognizing a conversation's own real limit, what does the next level in this topic turn to?",
+      "choices": [
+        "Classical versus cumulative-case apologetics, connecting to this app's own Metaphysics topic",
+        "A complete repeat of this same level's material about pacing a real conversation",
+        "A jump ahead to this topic's own final capstone, skipping over everything in between",
+        "A subject entirely unrelated to real conversation or real apologetic method"
+      ],
+      "correctAnswer": "Classical versus cumulative-case apologetics, connecting to this app's own Metaphysics topic",
+      "explanation": "This is exactly what the next level in this topic covers -- turning from the real, practical pacing of a conversation to the real, underlying methods an apologist actually uses to build a case in the first place.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-001",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "The argument from contingency reasons: some things exist that could have not existed (contingent beings); a contingent being's existence must be explained by something else; this cannot regress forever, so a necessary being must exist. Which specific metaphysical distinction from Metaphysics' 'Natural Theology' unit does the premise 'a contingent being's existence must be explained by something else' actually depend on?",
+      "choices": [
+        "The real distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
+        "The distinction between matter and form",
+        "The distinction between substance and accident",
+        "The distinction between act and habit"
+      ],
+      "correctAnswer": "The real distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
+      "explanation": "This is exactly the cross-topic connection this level exists to make explicit: the contingency argument isn't a free-floating piece of apologetic rhetoric -- its key premise IS the essence/existence distinction, which is why a full defense of the argument requires the metaphysics behind it, not just the argument's surface structure.",
+      "hint": "Ask what it would mean for a thing's very definition to already include the fact that it exists -- contingent things don't have that.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 44"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-002",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each of Aquinas's Five Ways to the metaphysical principle it presupposes.",
+      "pairs": [
+        {
+          "left": "Ex motu (from motion)",
+          "right": "Act and potency -- nothing moves from potency to act except by something already in act"
+        },
+        {
+          "left": "Ex causa efficiente (from efficient cause)",
+          "right": "Causality -- nothing can be the efficient cause of itself"
+        },
+        {
+          "left": "Ex contingentia (from contingency)",
+          "right": "The essence/existence distinction -- contingent beings need an explanation for their existence"
+        },
+        {
+          "left": "Ex gradibus (from degrees of perfection)",
+          "right": "The transcendentals -- degrees of a perfection require a maximum by which lesser degrees are measured"
+        }
+      ],
+      "explanation": "None of the Five Ways is a free-standing rhetorical move -- each one is a specific application of a metaphysical principle this app teaches as its own subject. Knowing the argument's label without knowing which principle it leans on leaves a defender unable to answer the one objection that actually attacks the premise.",
+      "hint": "Each of the Five Ways leans on one specific metaphysical principle, not a generic 'everything needs a cause' intuition.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-003",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Apologists cite unbroken apostolic succession -- an identifiable line of bishops in historical continuity with the apostles -- as a motive of credibility for the Catholic Church's claims. Why does this function as evidence at all, rather than simply asserting the Church's authority?",
+      "choices": [
+        "Because Lumen Gentium's ecclesiology grounds WHY continuity of office matters theologically (bishops in union with the successor of Peter as a real, Christ-willed structure, not incidental church politics), the historical, checkable fact of that continuity becomes genuine evidence for the claim, not a bare assertion",
+        "Because apostolic succession is purely a matter of historical record with no theological significance at all",
+        "Because any organization with a long unbroken leadership succession automatically has divine authority",
+        "Because apostolic succession is a doctrine invented after the fact to justify existing Church structures"
+      ],
+      "correctAnswer": "Because Lumen Gentium's ecclesiology grounds WHY continuity of office matters theologically (bishops in union with the successor of Peter as a real, Christ-willed structure, not incidental church politics), the historical, checkable fact of that continuity becomes genuine evidence for the claim, not a bare assertion",
+      "explanation": "This is the connection to Dogmas' ecclesiology this level requires: apostolic succession only works as a motive of credibility because there is a theological reason (Christ's own institution of the apostolic office, per Lumen Gentium) that continuity of office should matter in the first place -- otherwise it would just be an interesting historical fact about an organization, with no bearing on truth claims.",
+      "hint": "Ask why a long unbroken leadership line would count as evidence for anything at all -- what has to be true first for it to matter.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 20-22 (1964)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-004",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Two real, named approaches exist within Catholic apologetics: the classical/demonstrative method (Garrigou-Lagrange's Thomistic approach, building strict metaphysical proofs) and the cumulative/evidential method (associated with Newman, weighing converging probabilities toward moral certainty). What do BOTH approaches hold in common, per Vatican I's Dei Filius?",
+      "choices": [
+        "That God's existence can be known with certainty by the natural light of human reason from created things -- both methods affirm this shared conviction, differing only on the best path to demonstrate it, not on whether reason can reach it at all",
+        "Nothing -- the two methods are simply incompatible with each other",
+        "That God's existence cannot actually be known by reason, only by faith, in both approaches",
+        "That the classical method is the only one the Church has ever permitted"
+      ],
+      "correctAnswer": "That God's existence can be known with certainty by the natural light of human reason from created things -- both methods affirm this shared conviction, differing only on the best path to demonstrate it, not on whether reason can reach it at all",
+      "explanation": "This is exactly the kind of question this level's diversity-ledger entry requires: the Church has never mandated one single apologetic method (Dei Filius states the conclusion -- reason can know God with certainty -- without mandating one specific argumentative path to it), so classical and cumulative-case apologists are real, legitimate, differing schools united on the same underlying conviction, not rival heresies.",
+      "hint": "Ask what both schools agree reason CAN do, even while disagreeing on the best way to show it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 and Canon 1 (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-005",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or false: because the Church permits both classical and cumulative-case apologetic methods, a Catholic is free to argue for God's existence in absolutely any way at all, with no method ever being a misapplication of the Church's actual teaching.",
+      "correctAnswer": false,
+      "explanation": "Permitting real diversity between two sound, named traditions is not the same as endorsing every possible argument. A 'god of the gaps' argument -- inserting God as a placeholder wherever science currently lacks an explanation -- is a real misapplication of act/potency reasoning (it treats God as one more link in the same causal chain, competing with natural causes, rather than the transcendent cause of the whole chain's existing at all) and is not one of the Church's two legitimate methods.",
+      "hint": "The Church licensing two real schools is not the same as licensing every possible argument anyone might construct.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 32"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-006",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Why exactly does a 'god of the gaps' argument (inserting God wherever current science hasn't yet explained something) misuse act/potency reasoning, rather than being just a weaker version of a legitimate argument?",
+      "choices": [
+        "Because act/potency reasoning argues from the fact that ANYTHING changes or exists contingently at all -- not from a specific temporary gap in scientific explanation -- so it does not shrink as science advances the way a 'gaps' argument does, and treating God as competing with natural causes for the same explanatory slot misunderstands what the argument is actually claiming",
+        "Because act/potency reasoning is itself a discredited pre-scientific theory with no remaining validity",
+        "Because 'god of the gaps' arguments are actually identical to the classical demonstrative method Garrigou-Lagrange used",
+        "Because science has already fully explained everything, leaving no room for any argument from contingency"
+      ],
+      "correctAnswer": "Because act/potency reasoning argues from the fact that ANYTHING changes or exists contingently at all -- not from a specific temporary gap in scientific explanation -- so it does not shrink as science advances the way a 'gaps' argument does, and treating God as competing with natural causes for the same explanatory slot misunderstands what the argument is actually claiming",
+      "explanation": "This is the precise, often-missed distinction: the classical arguments from motion and contingency do not need an unexplained gap to work -- they work on the fact that change and contingent existence occur at all, fully explained scientifically or not. A 'god of the gaps' move shrinks as science advances; the metaphysical argument does not, because it was never competing with scientific explanation in the first place.",
+      "hint": "Ask whether the classical argument needs science to be INCOMPLETE somewhere, or whether it works regardless of how much science explains.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-007",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "Aquinas's argument ex gradibus reasons from degrees of perfection found in things (more or less good, true, noble) to a real maximum by which lesser degrees are measured -- an application of what this app's Metaphysics topic calls the ______, the properties (being, unity, truth, goodness) convertible with being itself.",
+      "correctAnswer": "transcendentals",
+      "explanation": "This ties the fourth of the Five Ways directly to Metaphysics' own vocabulary: degrees of perfection only make sense as measurements against a real maximum if goodness (and being itself) admit of degrees in the first place -- exactly what the transcendentals unit teaches.",
+      "hint": "This is the same word used in Metaphysics' level 4 for being, unity, truth, and goodness as convertible properties.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-008",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "A critic says: 'apostolic succession is just a story the Church tells about itself -- there's no way to actually check it historically.' What is the accurate correction, without overclaiming?",
+      "choices": [
+        "Lists of bishops in historical succession are a matter of documented historical record, checkable the same way any other line of historical office-holders is -- the apologetic weight isn't in that bare historical fact alone, but in combining it with the theological claim (grounded in Lumen Gentium) about why that continuity of office matters at all",
+        "Apostolic succession cannot be checked historically in any way and must simply be accepted on faith alone",
+        "The historical record of apostolic succession is entirely fabricated with no documentary basis whatsoever",
+        "Apostolic succession is a purely spiritual reality with no historical dimension at all"
+      ],
+      "correctAnswer": "Lists of bishops in historical succession are a matter of documented historical record, checkable the same way any other line of historical office-holders is -- the apologetic weight isn't in that bare historical fact alone, but in combining it with the theological claim (grounded in Lumen Gentium) about why that continuity of office matters at all",
+      "explanation": "The correction has to avoid two opposite overclaims: pretending the historical record alone proves a theological claim, and conceding (wrongly) that the historical record can't be checked at all. The honest apologetic move keeps the historical fact and the theological interpretation of that fact as two distinct, both-real components.",
+      "hint": "Separate what's checkable as plain history from what requires the theological claim layered on top of it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-009",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "How would a classical (Garrigou-Lagrange-style) apologist and a cumulative-case (Newman-style) apologist differ in HOW they would each open a defense of God's existence with a skeptical friend, while still agreeing on the underlying Vatican I conviction?",
+      "choices": [
+        "The classical apologist would likely start with a single, tightly reasoned metaphysical demonstration (e.g., the argument from contingency laid out step by step); the cumulative-case apologist would likely start by assembling several converging, mutually reinforcing lines of evidence (design, religious experience, historical fruitfulness) toward a cumulative moral certainty -- two different roads to the same destination Dei Filius affirms is reachable",
+        "The classical apologist would refuse to use any argument at all, relying only on personal testimony",
+        "The cumulative-case apologist would deny that God's existence can be known with certainty at all",
+        "There is no actual difference in method between the two approaches"
+      ],
+      "correctAnswer": "The classical apologist would likely start with a single, tightly reasoned metaphysical demonstration (e.g., the argument from contingency laid out step by step); the cumulative-case apologist would likely start by assembling several converging, mutually reinforcing lines of evidence (design, religious experience, historical fruitfulness) toward a cumulative moral certainty -- two different roads to the same destination Dei Filius affirms is reachable",
+      "explanation": "This is a live, practical illustration of the licensed methodological diversity: one road is a single strict demonstration; the other accumulates multiple lines of evidence toward moral certainty. Both are legitimate, both are aimed at the same Vatican I-affirmed conclusion, and knowing both means being able to meet different people where their actual doubts sit.",
+      "hint": "One method builds one tight argument; the other builds several converging lines of evidence toward the same conclusion.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "First Vatican Council, Dei Filius, ch. 2 (1870)"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l18-010",
+      "topic": "apologetics",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "This level has connected Apologetics to Metaphysics (the Five Ways' underlying principles) and to Dogmas (apostolic succession's ecclesiological grounding). What does this pattern of cross-topic dependence show about how apologetics actually works, as opposed to a common misconception?",
+      "choices": [
+        "Apologetics is not a free-standing set of rhetorical tricks or debate techniques -- its arguments only hold up because they rest on real metaphysical and doctrinal content taught elsewhere; a defender who knows only the argument's surface structure, without the content underneath it, cannot actually defend it against a probing question",
+        "Apologetics has no real connection to metaphysics or doctrine and is purely a communication skill",
+        "Metaphysics and Dogmas are actually the same subject as Apologetics with no meaningful distinction",
+        "Cross-topic connections in this app are arbitrary and could just as easily point anywhere else"
+      ],
+      "correctAnswer": "Apologetics is not a free-standing set of rhetorical tricks or debate techniques -- its arguments only hold up because they rest on real metaphysical and doctrinal content taught elsewhere; a defender who knows only the argument's surface structure, without the content underneath it, cannot actually defend it against a probing question",
+      "explanation": "This is the level's own point, made explicit: an apologetic argument that can't survive its own follow-up question isn't actually doing apologetic work. The Five Ways need the metaphysics; apostolic succession needs the ecclesiology. Knowing the label of an argument without the content it depends on is exactly the gap a sharp interlocutor will find.",
+      "hint": "Ask what happens when someone who knows only the argument's name, not its underlying content, gets a real follow-up question.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    }
+  ]
+}
