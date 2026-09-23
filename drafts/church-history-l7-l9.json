@@ -1,0 +1,695 @@
+{
+  "_comment": "DRAFT -- NOT live. Church History levels 7-9 of 23: level 7 is new (Diocletian's Great Persecution, Constantine's vision, the myth that Constantine invented Christ's divinity, Helena) bridging the age of martyrs to Nicaea; level 8 is the old live level 3 verbatim, renumbered and re-seeded (Nicaea, Augustine, Chalcedon, Edict of Milan, Benedict); level 9 is new (Anthony of Egypt and monasticism, Jerome's Vulgate, Ambrose and Augustine's baptism, Gregory the Great, Patrick's mission to Ireland). CCC 116/30/2105/2473, council citations (Nicaea, Dei Verbum 25), John 1:1, and Matthew 19:21/28:19 are already-reviewed citations reused here; other Scripture references are new and flagged by onramp_tool.py check.",
+  "topic": "church-history",
+  "questions": [
+    {
+      "id": "church-history-l7-001",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "What is the modern name historians give to Emperor Diocletian's empire-wide persecution of Christians, begun in 303 AD?",
+      "choices": [
+        "The Great Persecution",
+        "The Edict of Toleration",
+        "The Diocletian Reforms",
+        "The Nicene Crisis"
+      ],
+      "correctAnswer": "The Great Persecution",
+      "explanation": "Diocletian's campaign was the most systematic and severe persecution in the Church's first three centuries -- churches destroyed, Scriptures confiscated and burned, clergy imprisoned. It is also, strikingly, the last major persecution before everything changes.",
+      "hint": "This is remembered as the most severe and systematic of all the Roman persecutions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-002",
+      "topic": "church-history",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: According to tradition, Constantine saw a vision before the Battle of the Milvian Bridge in 312 that led him to fight under a Christian symbol.",
+      "correctAnswer": true,
+      "explanation": "True. Tradition holds Constantine saw a sign in the sky -- a cross or the Chi-Rho -- along with words often rendered 'in this sign, conquer,' and had his soldiers mark their shields accordingly before defeating his rival Maxentius at the Milvian Bridge.",
+      "hint": "This vision comes before a decisive battle for control of Rome itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-003",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Is the claim that 'Constantine invented the divinity of Christ' historically accurate?",
+      "choices": [
+        "False -- Christ's divinity is attested throughout the New Testament, centuries before Constantine was born",
+        "True -- there is no evidence Christians believed Christ was divine before the 4th century",
+        "True, but only among a small minority of Christians before Nicaea",
+        "False, but only because Constantine himself denied ever making the claim"
+      ],
+      "correctAnswer": "False -- Christ's divinity is attested throughout the New Testament, centuries before Constantine was born",
+      "explanation": "This is one of the most persistent popular myths about this period. John's Gospel, written some two and a half centuries before Nicaea, already opens by calling the Word God -- belief in Christ's divinity long predates any Roman emperor's involvement in Church affairs.",
+      "hint": "Consider how early the New Testament itself already speaks of Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:1",
+          "quote": "In the beginning was the Word, and the Word was with God, and the Word was God."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-004",
+      "topic": "church-history",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 1360,
+      "prompt": "Emperor Constantine ____ the Council of Nicaea in 325, but it was the assembled bishops who actually defined what the Church believed there.",
+      "correctAnswer": "convened",
+      "acceptedAnswers": [
+        "convened",
+        "called",
+        "summoned"
+      ],
+      "explanation": "This distinction matters: an emperor could call bishops together and pay for their travel, but he could not settle a question of doctrine himself. Confusing the two is exactly what produces the popular myth this level has already addressed.",
+      "hint": "What an emperor can do -- call a meeting -- is different from what only bishops can do there.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-005",
+      "topic": "church-history",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Constantine was baptized immediately after his conversion in 312, decades before his death.",
+      "correctAnswer": false,
+      "explanation": "False. Constantine, following a common practice of the era, deferred his baptism until he was near death in 337 -- a reminder that his own relationship to the faith was gradual and, by later standards, unusual, even as his political decisions transformed the Church's situation.",
+      "hint": "Consider how long Constantine actually waited between his vision in 312 and his death.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-006",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "According to tradition, what did Constantine's mother, St. Helena, discover on a pilgrimage to Jerusalem?",
+      "choices": [
+        "Relics of the True Cross",
+        "The original manuscripts of the four Gospels",
+        "The tomb of the Apostle Peter",
+        "The Ark of the Covenant"
+      ],
+      "correctAnswer": "Relics of the True Cross",
+      "explanation": "Helena's pilgrimage, and the churches she helped build in the Holy Land, are part of the same transformed situation this level traces -- pilgrimage and public veneration of holy sites were simply impossible under active persecution.",
+      "hint": "Her discovery is tied to the very instrument of Christ's death.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-007",
+      "topic": "church-history",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1340,
+      "prompt": "Match each figure or event from this level to what it represents in the shift from persecution to legality.",
+      "pairs": [
+        {
+          "left": "Diocletian's Great Persecution",
+          "right": "The empire's harshest persecution, immediately before everything changes"
+        },
+        {
+          "left": "Constantine's vision at the Milvian Bridge",
+          "right": "The moment tradition credits with turning an emperor toward Christianity"
+        },
+        {
+          "left": "Constantine convening Nicaea",
+          "right": "Imperial support for a council, not imperial authorship of doctrine"
+        },
+        {
+          "left": "St. Helena's pilgrimage",
+          "right": "Public Christian veneration newly possible under a changed political climate"
+        }
+      ],
+      "explanation": "None of these four things could have happened as recently as Diocletian's own reign -- the whole level traces how quickly, and how incompletely, the Church's situation actually changed within a single generation.",
+      "hint": "Order them by how quickly the political situation shifts across this level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-008",
+      "topic": "church-history",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Constantine's shift toward Christianity made the empire's religious situation immediately and fully settled, with no further controversy to come.",
+      "correctAnswer": false,
+      "explanation": "False. Legality did not mean unity -- the very next level covers the Council of Nicaea, called precisely because a serious internal dispute, Arianism, needed to be settled once Christians were finally free to gather openly and debate it.",
+      "hint": "Consider what the very next level in this topic is actually about.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-009",
+      "topic": "church-history",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Given everything this level covers, what is the most accurate way to describe the political shift Constantine brought about?",
+      "choices": [
+        "A shift from active persecution to legal toleration and imperial favor -- not an instant, complete transformation of doctrine or unity",
+        "A shift in which Constantine personally authored and permanently settled every point of Christian doctrine himself",
+        "A shift that brought no real practical consequences of any kind at all for ordinary Christians",
+        "A shift that immediately and permanently ended all theological disagreement of any kind within the whole Church"
+      ],
+      "correctAnswer": "A shift from active persecution to legal toleration and imperial favor -- not an instant, complete transformation of doctrine or unity",
+      "explanation": "This is the level's central corrective: Constantine changed the Church's legal and political situation dramatically, but he neither invented Christian belief nor settled Christian doctrine -- both errors this level has already directly addressed.",
+      "hint": "Weigh what changed (legal status) against what did not (who defines doctrine).",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l7-010",
+      "topic": "church-history",
+      "level": 7,
+      "type": "fill_blank",
+      "difficultyElo": 1360,
+      "prompt": "Now able to gather openly for the first time in the Church's history, bishops soon convened at ____ in 325 to settle a serious dispute over the nature of Christ.",
+      "correctAnswer": "Nicaea",
+      "acceptedAnswers": [
+        "Nicaea"
+      ],
+      "explanation": "This is exactly the handoff this level sets up: legal freedom to assemble is what makes an ecumenical council -- bishops from across the empire gathering in one place -- possible for the very first time.",
+      "hint": "The city that gives the next level, and its famous creed, their name.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-001",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "The First Council of Nicaea, held in 325 AD, was convened primarily to address which controversy?",
+      "choices": [
+        "The Arian heresy, which denied the full divinity of Christ",
+        "The date on which Easter should be celebrated each year",
+        "The final canon of the Old Testament's books",
+        "The specific civil authority of the Bishop of Rome"
+      ],
+      "correctAnswer": "The Arian heresy, which denied the full divinity of Christ",
+      "explanation": "Arius taught that the Son was a created being, not truly God. Nicaea gathered bishops from across the Church to condemn this teaching and affirm Christ's full divinity.",
+      "hint": "This heresy denied Christ was fully God -- answering it was Nicaea's whole purpose.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-002",
+      "topic": "church-history",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "The Nicene Creed professes that the Son is '____ with the Father,' affirming that he is fully and truly God.",
+      "correctAnswer": "consubstantial",
+      "explanation": "'Consubstantial' translates the Greek 'homoousios' -- of the same substance -- the precise word Nicaea chose to rule out any reading of Christ as a lesser, created being.",
+      "hint": "This word is the English translation of the Greek 'homoousios.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-003",
+      "topic": "church-history",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: The Council of Nicaea in 325 AD produced the complete Nicene Creed exactly as it is prayed at Mass today, including its section on the Holy Spirit.",
+      "correctAnswer": false,
+      "explanation": "Nicaea produced an earlier, shorter creed focused on the Son's divinity. The fuller text prayed today, including the extended article on the Holy Spirit, was completed at the First Council of Constantinople in 381.",
+      "hint": "A later council, decades after Nicaea, finished the Creed's article on the Holy Spirit.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-004",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "St. Augustine of Hippo famously wrote that the human heart remains restless until it rests in whom?",
+      "choices": [
+        "God",
+        "the Church hierarchy",
+        "philosophical wisdom",
+        "the Roman Empire"
+      ],
+      "correctAnswer": "God",
+      "explanation": "Augustine's line from his Confessions -- that the heart is restless until it rests in God -- captures a truth the Church still teaches: only God can satisfy the deepest human longing.",
+      "hint": "This is one of the most quoted lines from Augustine's own spiritual autobiography.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-005",
+      "topic": "church-history",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each early Ecumenical Council to what it defined.",
+      "pairs": [
+        {
+          "left": "Nicaea (325)",
+          "right": "Condemned Arianism and affirmed Christ's full divinity"
+        },
+        {
+          "left": "Constantinople (381)",
+          "right": "Affirmed the divinity of the Holy Spirit"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Declared Mary the Theotokos, Mother of God"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "Defined Christ's two natures, divine and human, in one person"
+        }
+      ],
+      "explanation": "These four councils, across just over a century, settled the Church's core teaching on who Christ is and who the Spirit is -- doctrine every Christian still professes in the Creed.",
+      "hint": "Each council's title already names a city -- match it to what it clarified about Christ or the Spirit.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Nicaea (325); Constantinople (381); Ephesus (431); Chalcedon (451)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-006",
+      "topic": "church-history",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "The Council of Chalcedon in 451 AD defined that Christ has two natures, fully divine and fully human, united in one ____.",
+      "correctAnswer": "person",
+      "explanation": "This is the hypostatic union: one divine Person, Jesus Christ, possessing two complete natures without confusion or division.",
+      "hint": "This is the same word used for an individual human being, not a nature.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-007",
+      "topic": "church-history",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "What changed for the Church in 313 AD with the Edict of Milan?",
+      "choices": [
+        "Christianity was granted legal toleration throughout the Roman Empire, ending centuries of periodic persecution",
+        "Christianity became the Roman Empire's one and only officially recognized legal religion",
+        "The full New Testament canon of Scripture was formally closed and permanently settled",
+        "The Bishop of Rome was newly granted direct civil authority over the whole of Italy"
+      ],
+      "correctAnswer": "Christianity was granted legal toleration throughout the Roman Empire, ending centuries of periodic persecution",
+      "explanation": "Milan granted toleration, not establishment — Christianity became one legal religion among others, not yet the empire's exclusive faith. That distinction is easy to blur, and getting it right avoids overstating how quickly the political situation actually changed.",
+      "hint": "Toleration and establishment are two different things — which one happened in 313?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-008",
+      "topic": "church-history",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: St. Monica prayed for her son Augustine's conversion for many years before it finally happened.",
+      "correctAnswer": true,
+      "explanation": "True. Augustine describes his mother's decades of prayer and tears in the Confessions, and her perseverance became a model held up for anyone praying for a wayward loved one across a very long time.",
+      "hint": "This detail is recorded by Augustine himself, in the same book that describes his own conversion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2571"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-009",
+      "topic": "church-history",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "St. Benedict of Nursia founded the monastery of Monte ____ around 529 AD, and his Rule became the foundation of Western monasticism.",
+      "correctAnswer": "Cassino",
+      "explanation": "Benedict's Rule — pray and work, ora et labora — shaped monastic life across the West for over a millennium, and Monte Cassino remained a center of learning and prayer for most of that time.",
+      "hint": "This is also the site of a famous WWII battle, fought around the same monastery centuries later.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l8-010",
+      "topic": "church-history",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each fourth- and fifth-century figure or event to what it is remembered for.",
+      "pairs": [
+        {
+          "left": "Edict of Milan (313)",
+          "right": "Legal toleration of Christianity in the Roman Empire"
+        },
+        {
+          "left": "St. Monica",
+          "right": "Decades of prayer for her son's conversion"
+        },
+        {
+          "left": "St. Benedict",
+          "right": "Founding Western monasticism at Monte Cassino"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "Confessions and City of God, shaping Western theology"
+        }
+      ],
+      "explanation": "This century moves the Church from persecuted minority to a settled institution shaping education, monastic life and theology for a thousand years afterward — a genuinely fast transition by any historical measure.",
+      "hint": "Two of these are about the institutional Church; two are about individual holiness and conversion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2691"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-001",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "St. Anthony of Egypt, often called the father of Christian monasticism, is traditionally said to have withdrawn into the desert after hearing which Gospel passage read at Mass?",
+      "choices": [
+        "\"If you wish to be perfect, go, sell what you have and give to the poor... then come, follow me\"",
+        "\"Love your enemies and pray sincerely and constantly for those who persecute you\"",
+        "\"Let the little children come freely to me, and do not ever stop them\"",
+        "\"Go, therefore, and make disciples of every single nation on the whole earth\""
+      ],
+      "correctAnswer": "\"If you wish to be perfect, go, sell what you have and give to the poor... then come, follow me\"",
+      "explanation": "Hearing this passage, Anthony gave away his inheritance and withdrew into the Egyptian desert to live a life of prayer and asceticism -- the beginning of a movement of Desert Fathers that would shape all later Christian monasticism, East and West.",
+      "hint": "This is the same command a rich young man in the Gospels could not bring himself to obey.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-002",
+      "topic": "church-history",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: St. Jerome translated the Old Testament portion of the Vulgate directly from the Hebrew, against significant opposition, including from St. Augustine.",
+      "correctAnswer": true,
+      "explanation": "True. Augustine worried that departing from the familiar Greek Septuagint would unsettle congregations; Jerome went to the Hebrew text anyway. Even two of the era's greatest minds could disagree openly and at length -- the Fathers were not a uniform bloc.",
+      "hint": "One of the era's greatest minds pushed back on Jerome's translation choice -- and Jerome did it anyway.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Jerome, Prologues to the Vulgate"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-003",
+      "topic": "church-history",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 1510,
+      "prompt": "St. Ambrose of Milan baptized the future Doctor of the Church St. ____ of Hippo in 387 AD, after years of preaching that helped bring about his conversion.",
+      "correctAnswer": "Augustine",
+      "acceptedAnswers": [
+        "Augustine"
+      ],
+      "explanation": "Ambrose's preaching in Milan was instrumental in winning over the restless heart Augustine himself describes in his Confessions -- one bishop's influence reshaping the whole future of Western theology.",
+      "hint": "Ambrose's preaching wins over the author of the Confessions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-004",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio Scripturarum ignoratio Christi est.' What does this claim?",
+      "choices": [
+        "Ignorance of the Scriptures is ignorance of Christ",
+        "Knowledge of Scripture replaces the need to know Christ personally",
+        "The Scriptures are too difficult for ordinary believers to read",
+        "Christ can only be known apart from the Scriptures"
+      ],
+      "correctAnswer": "Ignorance of the Scriptures is ignorance of Christ",
+      "explanation": "This fourth-century maxim mattered enough to the Second Vatican Council that it quotes Jerome directly, urging frequent reading of Scripture -- a patristic voice given fresh authority some fifteen centuries later.",
+      "hint": "The same word appears twice in the Latin, once about Scripture and once about Christ.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 25"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-005",
+      "topic": "church-history",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Pope St. Gregory the Great signed his letters 'Servant of the servants of God,' a title still used by popes today.",
+      "correctAnswer": true,
+      "explanation": "True. 'Servus servorum Dei' expressed Gregory's conviction that the papacy itself is an office of humble service -- a vision that centuries later shapes how the Second Vatican Council speaks of every ordained minister, not only the pope.",
+      "hint": "This title deliberately puts service, not power, at the center of the office.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-006",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "In 1964, Pope Paul VI gave St. Benedict of Nursia what title, honoring his role in shaping Western monastic and cultural life?",
+      "choices": [
+        "Patron of Europe",
+        "Doctor of the Church",
+        "Universal Patron of Workers",
+        "Patron of the Missions"
+      ],
+      "correctAnswer": "Patron of Europe",
+      "explanation": "Benedict's Rule -- balancing prayer and manual labor -- shaped monastic life so deeply across the continent that Paul VI named him Patron of Europe centuries after his death, a mark of how far this movement's influence eventually reached.",
+      "hint": "Benedict's influence stretched across an entire continent, not just Italy.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-007",
+      "topic": "church-history",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 1510,
+      "prompt": "Beyond copying Scripture, monasteries in the early medieval West also preserved and copied the surviving works of pagan ____ and Roman literature, keeping much of ancient learning from being lost entirely.",
+      "correctAnswer": "philosophy",
+      "acceptedAnswers": [
+        "philosophy",
+        "philosophers",
+        "literature"
+      ],
+      "explanation": "Monastic scriptoria became, almost as a side effect of copying Scripture and the liturgy, one of the main reasons any classical literature survives to be read today at all -- a debt the medieval universities of a later level will build directly on.",
+      "hint": "Monks preserved more than just Christian texts in their scriptoria.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-008",
+      "topic": "church-history",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 1490,
+      "prompt": "Match each figure of this level to what he contributed to the Christian West.",
+      "pairs": [
+        {
+          "left": "St. Anthony of Egypt",
+          "right": "Father of Christian monasticism, withdrawing into the desert"
+        },
+        {
+          "left": "St. Jerome",
+          "right": "Translated the Vulgate directly from the Hebrew"
+        },
+        {
+          "left": "St. Ambrose of Milan",
+          "right": "Preached and baptized the future St. Augustine"
+        },
+        {
+          "left": "St. Gregory the Great",
+          "right": "Signed his letters 'Servant of the servants of God'"
+        }
+      ],
+      "explanation": "Together these four figures show the shape this whole period takes in the West: monastic withdrawal, Scripture made accessible in Latin, personal conversion through preaching, and a papacy that understands its own authority as service.",
+      "hint": "One withdraws to the desert, one translates Scripture, one preaches a conversion, one redefines an office.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-009",
+      "topic": "church-history",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Christian mission during this period was limited entirely to the territory of the former Roman Empire, with no expansion beyond its old borders.",
+      "correctAnswer": false,
+      "explanation": "False. Missionaries such as St. Patrick carried the Gospel to Ireland, well beyond the empire's old frontier, planting a monastic Christian culture that would itself later send missionaries back into a Europe unsettled by Rome's collapse.",
+      "hint": "Consider one missionary sent to an island the Roman legions themselves never fully conquered.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l9-010",
+      "topic": "church-history",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Taken together, what does this level's picture of monks, translators, preachers, and missionaries suggest about the Church in the centuries after Constantine?",
+      "choices": [
+        "Legal freedom let the Church build durable institutions -- monasteries, translated Scripture, mission -- that would outlast the Roman Empire itself",
+        "The Church became entirely and permanently dependent on the Roman imperial state for its own basic survival",
+        "Monastic life had no lasting cultural or intellectual influence on the West beyond private, individual prayer",
+        "Missionary activity stopped almost completely across the whole Church once active persecution had formally and finally ended"
+      ],
+      "correctAnswer": "Legal freedom let the Church build durable institutions -- monasteries, translated Scripture, mission -- that would outlast the Roman Empire itself",
+      "explanation": "This is the level's real payoff: the freedom won in level 7 was not just freedom from persecution, but freedom to build -- and what got built here (monasteries, the Vulgate, a reformed vision of the papacy, missions beyond Rome's own borders) proved durable enough to carry the faith through Rome's coming collapse, which the next level turns to directly.",
+      "hint": "Consider what these institutions were still doing long after the Roman Empire itself was gone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    }
+  ]
+}
