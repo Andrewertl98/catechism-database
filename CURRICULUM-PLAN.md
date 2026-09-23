@@ -320,6 +320,47 @@ any remaining topic -- almost every level maps to existing, already-reviewed
 content, with new levels filling two real, narrow gaps (Lateran IV, and the
 long 1870-1962 silence between Vatican I and II).
 
+**Done, Sep 23, 2026: Councils (19 levels), following Church History, the
+Old Testament, and Saints.** Drafted, verified, committed. Chronological
+through level 16 (Nicaea to Vatican II), then terminology/apologetics/
+capstone (17-19), closing with the same "hermeneutic of reform" theme
+Church History's and Saints' own capstones already established.
+
+---
+
+## Worked example -- Heresies, 19 levels (N=8 -> 2*8+3=19)
+
+Heresies is the natural next topic -- structurally almost identical to
+Councils (same 10-level live shape, same rough chronological spine in
+levels 1-5, same meta levels 6-7 for precise terminology and live
+apologetics scenarios), and it tells the *same* history from the opposite
+side: not the council's answer, but the error's own logic and appeal.
+Deliberately kept distinct from Councils rather than redundant with it.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is heresy? Distinguishing it from apostasy and schism `[L5 partial]` | nothing assumed |
+| 2 | The earliest errors -- Simon Magus, Gnosticism, Docetism `[L1 partial]` | 1 |
+| 3 | Marcion, Montanism, and early Trinitarian error (Modalism) `[L1 partial]` | 2 |
+| 4 | Arianism and Nicaea's answer `[L1 + L2 partial]` | 3 |
+| 5 | The Christological heresies -- Apollinarianism, Nestorianism, Eutyches, Monothelitism `[L2]` | 4 |
+| 6 | Donatism -- does a minister's sin invalidate a sacrament? `[NEW, reusing L6 citations]` | 5 |
+| 7 | Pelagianism and semi-Pelagianism `[NEW, reusing L6 citations]` | 6 |
+| 8 | Iconoclasm and the Cathars `[L3 partial]` | 7 |
+| 9 | The Waldensians, Wycliffe, and Hus `[L3 partial]` | 8 |
+| 10 | The Reformation's core claims -- sola fide, sola scriptura `[L4 partial]` | 9 |
+| 11 | The Reformation's other movements -- Anabaptists, Anglicanism, Zwingli `[L4 partial]` | 10 |
+| 12 | Jansenism `[NEW, reusing L4/L6 citations]` | 11 |
+| 13 | Modernism and Americanism `[L5 partial]` | 12 |
+| 14 | Feeneyism and liberation theology's real excesses `[L5 partial]` | 13 |
+| 15 | Modern relativism and Dominus Iesus `[L5 + L8 partial]` | 14 |
+| 16 | Contemporary errors -- prosperity gospel, syncretism, presumption `[L8 partial]` | 15 |
+| 17 | Precise conciliar-text terminology for these errors `[L6]` | 16 |
+| 18 | Live apologetics -- recognizing these errors today `[L7]` | 17 |
+| 19 | Capstone: heresy as the inverted mirror of orthodoxy | 18 |
+
+Heresies goes next.
+
 ---
 
 ## Worked example -- Saints, 23 levels
