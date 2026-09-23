@@ -1,0 +1,685 @@
+{
+  "_comment": "DRAFT -- NOT live. Old Testament levels 10-12 of 23: slavery in Egypt, the burning bush and the divine name, and the Exodus itself. Exodus 3:14 and 20:1-17 are already reviewed and used here; all other Scripture references are new and flagged by onramp_tool.py check for translation verification before shipping. Passover (level 12) is the typological hinge of the whole topic -- John 1:29's 'Lamb of God' (introduced at level 5) is unintelligible without it.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l10-001",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Generations after Joseph's death, what changed for his descendants in Egypt?",
+      "choices": [
+        "A new king arose who did not know Joseph, and enslaved them",
+        "They were given their own province to rule",
+        "They returned voluntarily to Canaan",
+        "They were made equal citizens of Egypt"
+      ],
+      "correctAnswer": "A new king arose who did not know Joseph, and enslaved them",
+      "explanation": "The favor Joseph earned did not last past living memory. A new Pharaoh, fearing how numerous and strong Israel had become, reduces the very people Joseph once saved to forced labor.",
+      "hint": "The new ruler had no personal memory of what Joseph had done for Egypt.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 1:8-11",
+          "quote": "Then a new king, who knew nothing of Joseph, rose to power in Egypt... So they set taskmasters over the Israelites to oppress them with forced labor."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-002",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Pharaoh's fear of Israel's growing numbers led him to order the killing of Hebrew infant boys.",
+      "correctAnswer": true,
+      "explanation": "True. Slavery alone does not stop Israel's growth, so Pharaoh escalates to ordering the midwives to kill every son born to the Hebrews -- an order the midwives themselves quietly refuse.",
+      "hint": "Slavery alone had not solved Pharaoh's problem.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 1:15-16",
+          "quote": "The king of Egypt told the Hebrew midwives... 'When you act as midwives for the Hebrew women and see them giving birth, if it is a son, kill him.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-003",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "Exodus opens the story of slavery this way: 'a new king, who knew nothing of ____, rose to power in Egypt.'",
+      "correctAnswer": "Joseph",
+      "acceptedAnswers": [
+        "Joseph"
+      ],
+      "explanation": "The entire crisis begins with forgetting. The man who saved Egypt from famine is, within a few generations, simply unknown to the throne he once served.",
+      "hint": "The man whose service to Egypt has been forgotten.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 1:8-11",
+          "quote": "Then a new king, who knew nothing of Joseph, rose to power in Egypt... So they set taskmasters over the Israelites to oppress them with forced labor."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-004",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "How does the infant Moses survive Pharaoh's order to kill Hebrew sons?",
+      "choices": [
+        "His mother hides him, then sets him adrift in a basket on the river",
+        "He is smuggled out of Egypt entirely as an infant",
+        "His father bribes an Egyptian official",
+        "He is disguised and raised as a girl"
+      ],
+      "correctAnswer": "His mother hides him, then sets him adrift in a basket on the river",
+      "explanation": "Unable to hide him any longer, Moses' mother places him in a waterproofed basket on the Nile -- where Pharaoh's own daughter finds and raises him, inside the household of the very king who ordered his death.",
+      "hint": "He ends up raised inside the household that ordered his death.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:3",
+          "quote": "she got a papyrus basket for him, and waterproofed it with bitumen and pitch. She put the child in it and placed it among the reeds on the bank of the Nile."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-005",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Moses is raised in Pharaoh's own household after being found in the river.",
+      "correctAnswer": true,
+      "explanation": "True. Pharaoh's daughter draws him from the water and raises him as her own -- the very court that ordered every Hebrew boy killed ends up sheltering and raising the one who will lead Israel out.",
+      "hint": "Who found the basket in the river?",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:3",
+          "quote": "she got a papyrus basket for him, and waterproofed it with bitumen and pitch. She put the child in it and placed it among the reeds on the bank of the Nile."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-006",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each stage of Israel's descent into slavery to what happens there.",
+      "pairs": [
+        { "left": "A new king arises", "right": "Has no memory of Joseph's service" },
+        { "left": "Forced labor is imposed", "right": "Fails to stop Israel's growth" },
+        { "left": "Infant boys are ordered killed", "right": "The midwives quietly refuse" },
+        { "left": "Moses is set adrift", "right": "Is raised inside Pharaoh's own house" }
+      ],
+      "explanation": "Each Egyptian attempt to control Israel fails in a way that sets up what follows. The child meant to die is raised by the family of the one who ordered it.",
+      "hint": "Each attempt at control backfires in a specific way.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 1:8-11",
+          "quote": "Then a new king, who knew nothing of Joseph, rose to power in Egypt... So they set taskmasters over the Israelites to oppress them with forced labor."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:3",
+          "quote": "she got a papyrus basket for him, and waterproofed it with bitumen and pitch. She put the child in it and placed it among the reeds on the bank of the Nile."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-007",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Why does Moses flee Egypt as a grown man?",
+      "choices": [
+        "He kills an Egyptian overseer abusing a Hebrew slave",
+        "He is exiled by Pharaoh's direct order",
+        "He is caught stealing from the royal treasury",
+        "He refuses to worship the Egyptian gods publicly"
+      ],
+      "correctAnswer": "He kills an Egyptian overseer abusing a Hebrew slave",
+      "explanation": "Raised in Pharaoh's house, Moses still identifies with his own people. Seeing an Egyptian beating a Hebrew, he intervenes fatally, and flees into the desert once the act becomes known.",
+      "hint": "He acts in defense of one of his own people.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:11-12",
+          "quote": "he saw an Egyptian striking a Hebrew, one of his own people... he struck down the Egyptian and hid him in the sand."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-008",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Moses spends years as a shepherd in Midian before God calls him at the burning bush.",
+      "correctAnswer": true,
+      "explanation": "True. Fleeing Egypt, Moses settles in Midian, marries, and tends flocks for years -- an ordinary, unremarkable life, right up until the moment everything changes on the mountain.",
+      "hint": "He takes up the most ordinary of occupations in exile.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:11-12",
+          "quote": "he saw an Egyptian striking a Hebrew, one of his own people... he struck down the Egyptian and hid him in the sand."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-009",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "Moses flees Egypt after striking down an Egyptian who was striking a Hebrew, 'one of his own ____.'",
+      "correctAnswer": "people",
+      "acceptedAnswers": [
+        "people"
+      ],
+      "explanation": "Raised as an Egyptian prince, Moses still knows whose son he really is. The identity slavery could not erase in the people is the same identity Moses himself has not lost.",
+      "hint": "The phrase describes who the Hebrew slave was to Moses.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:11-12",
+          "quote": "he saw an Egyptian striking a Hebrew, one of his own people... he struck down the Egyptian and hid him in the sand."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l10-010",
+      "topic": "old-testament",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "By the time Moses is a shepherd in Midian, how would his life look to an outside observer?",
+      "choices": [
+        "Ordinary and unremarkable, far from Israel's crisis",
+        "Still powerful and central to Egyptian politics",
+        "Already famous among the Hebrew slaves",
+        "Focused on returning to reclaim his royal title"
+      ],
+      "correctAnswer": "Ordinary and unremarkable, far from Israel's crisis",
+      "explanation": "A former prince, now a wanted man, now a shepherd of someone else's flocks in a foreign land. Nothing about his circumstances hints at what is about to happen on the mountain ahead.",
+      "hint": "Consider how far he has fallen from Pharaoh's household.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:11-12",
+          "quote": "he saw an Egyptian striking a Hebrew, one of his own people... he struck down the Egyptian and hid him in the sand."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l11-001",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What does Moses see at the mountain that draws him aside to look?",
+      "choices": [
+        "A bush that burns but is not consumed",
+        "A pillar of smoke rising from the summit",
+        "An angel standing openly in the road",
+        "A spring of water flowing from the rock"
+      ],
+      "correctAnswer": "A bush that burns but is not consumed",
+      "explanation": "Fire that does not consume is the first sign that something is different about this fire. Moses turns aside precisely because the ordinary rule -- that fire burns things up -- has been broken.",
+      "hint": "What is strange about the fire itself, not just its presence?",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6",
+          "quote": "There an angel of the LORD appeared to him in fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-002",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: God tells Moses to remove his sandals because the ground he is standing on is holy.",
+      "correctAnswer": true,
+      "explanation": "True. Before God says a single word about the mission ahead, he first establishes what kind of ground Moses is standing on. The call begins with reverence, not instructions.",
+      "hint": "The instruction comes before any explanation of the mission.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6",
+          "quote": "There an angel of the LORD appeared to him in fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-003",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "fill_blank",
+      "difficultyElo": 1660,
+      "prompt": "When Moses asks God's name, the answer is: 'I am who ____.'",
+      "correctAnswer": "I am",
+      "acceptedAnswers": [
+        "I am",
+        "am"
+      ],
+      "explanation": "God does not give a name the way a creature has a name. He gives a name that is itself a claim about existence -- he simply is, without dependence on anything before him.",
+      "hint": "The answer repeats the same verb twice.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-004",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What is Moses to tell the Israelites when they ask who sent him?",
+      "choices": [
+        "\"I AM has sent me to you\"",
+        "\"The God of Egypt has sent me\"",
+        "\"The angel in the fire has sent me\"",
+        "\"Pharaoh himself has sent me\""
+      ],
+      "correctAnswer": "\"I AM has sent me to you\"",
+      "explanation": "The name is the message. Moses is not to introduce a new god with a new title, but to announce that the God who simply IS has sent him -- a name so weighty that later Israel would not even pronounce it aloud.",
+      "hint": "The answer repeats the divine name given a moment earlier.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-005",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: At the burning bush, God identifies himself only as a new and unfamiliar god Moses has not heard of before.",
+      "correctAnswer": false,
+      "explanation": "False. God identifies himself as the God of Abraham, Isaac, and Jacob -- the very patriarchs this topic has already followed. The call at the bush is not a fresh start; it is the same promise, decades later, finally coming due.",
+      "hint": "God names three men Moses would already know from his own people's story.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6",
+          "quote": "There an angel of the LORD appeared to him in fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-006",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each element of the burning bush account to what it establishes.",
+      "pairs": [
+        { "left": "The fire that does not consume", "right": "Draws Moses aside to look" },
+        { "left": "Removing his sandals", "right": "The ground itself is holy" },
+        { "left": "\"I am who I am\"", "right": "God's name is a claim about existence itself" },
+        { "left": "The God of Abraham, Isaac, Jacob", "right": "The same promise made generations earlier" }
+      ],
+      "explanation": "Nothing here is decorative. The strange fire gets Moses' attention; the holy ground sets the tone; the name defines who is speaking; and the patriarchs' names tie this moment to everything already covered in this topic.",
+      "hint": "Each detail serves a specific purpose in the scene.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6",
+          "quote": "There an angel of the LORD appeared to him in fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-007",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What mission does God give Moses at the burning bush?",
+      "choices": [
+        "To lead Israel out of slavery in Egypt",
+        "To build an altar on the mountain",
+        "To return to Egypt and warn Pharaoh of judgment only",
+        "To gather the twelve tribes for a census"
+      ],
+      "correctAnswer": "To lead Israel out of slavery in Egypt",
+      "explanation": "The shepherd who fled Egypt as a fugitive is sent back to confront the throne he fled from -- not to punish Egypt for its own sake, but to bring an enslaved people out.",
+      "hint": "Think about what Israel's actual situation is at this point in the story.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-008",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: The command to remove his sandals is the first thing God says to Moses from the bush.",
+      "correctAnswer": true,
+      "explanation": "True. Before naming himself, before giving the mission, God first tells Moses to take off his sandals -- reverence comes before revelation, in the order the text actually gives it.",
+      "hint": "Check the order events happen in within the account.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6",
+          "quote": "There an angel of the LORD appeared to him in fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-009",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "fill_blank",
+      "difficultyElo": 1660,
+      "prompt": "Moses is to tell Israel: '____ has sent me to you.'",
+      "correctAnswer": "I AM",
+      "acceptedAnswers": [
+        "I AM",
+        "I am"
+      ],
+      "explanation": "The name itself becomes the message Moses carries back to his people -- not a description of what God does, but a claim about what God simply is.",
+      "hint": "The exact phrase God just gave as his own name.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l11-010",
+      "topic": "old-testament",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "How does the burning bush account connect back to the covenant this topic has already followed?",
+      "choices": [
+        "God identifies himself as the God of Abraham, Isaac, and Jacob",
+        "It does not connect -- it begins an entirely new story",
+        "It only concerns Moses' own personal destiny",
+        "It replaces the earlier covenant with a new one"
+      ],
+      "correctAnswer": "God identifies himself as the God of Abraham, Isaac, and Jacob",
+      "explanation": "The call at the bush is not God starting over. It is the God who spoke to the patriarchs, decades and generations later, finally acting on the promise he made them.",
+      "hint": "God's self-identification names people already covered earlier in this topic.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6",
+          "quote": "There an angel of the LORD appeared to him in fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:14",
+          "quote": "God replied to Moses: I am who I am. Then he added: This is what you will tell the Israelites: I AM has sent me to you."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l12-001",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "On the night of the first Passover, what protects each Israelite household from the final plague?",
+      "choices": [
+        "The blood of a lamb marked on the doorposts",
+        "A written blessing hung on the door",
+        "The oldest member of the household standing guard",
+        "A fire kept burning through the night"
+      ],
+      "correctAnswer": "The blood of a lamb marked on the doorposts",
+      "explanation": "Every household, Israelite or not, faces the same night. What distinguishes them is not merit but the blood of the lamb marked visibly on the door -- the sign, not the family, is what the angel of death passes over.",
+      "hint": "It has to be visible on the outside of the house.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-002",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Passover lamb had to be a flawless animal, without blemish.",
+      "correctAnswer": true,
+      "explanation": "True. Nothing damaged or defective would do. The requirement of an unblemished lamb is exactly the detail John points to when he calls Jesus 'the Lamb of God, who takes away the sin of the world.'",
+      "hint": "Nothing damaged or defective would satisfy the requirement.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-003",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "God tells Moses: 'Seeing the blood, I will ____ over you.'",
+      "correctAnswer": "pass",
+      "acceptedAnswers": [
+        "pass"
+      ],
+      "explanation": "The feast takes its name -- Passover -- directly from this line. The blood on the door is the sign that turns the destroyer aside from that house alone.",
+      "hint": "The name of the whole feast comes from this verb.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-004",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Look back to level 5 of this topic: what earlier title for Jesus does the Passover lamb directly prepare a reader to understand?",
+      "choices": [
+        "The Lamb of God",
+        "The Son of David",
+        "The Good Shepherd",
+        "The Bread of Life"
+      ],
+      "correctAnswer": "The Lamb of God",
+      "explanation": "John the Baptist's title only carries its full weight once a reader already knows this scene: a lamb, without blemish, whose blood shields a household from death. That is precisely the claim John is making about Jesus.",
+      "hint": "The title was introduced earlier in this topic, at Moriah.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:29",
+          "quote": "Behold, the Lamb of God, who takes away the sin of the world."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-005",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: After the final plague, Pharaoh himself finally lets Israel go.",
+      "correctAnswer": true,
+      "explanation": "True. The death of the firstborn throughout Egypt is what finally breaks Pharaoh's resistance. Israel leaves that same night, in haste, with unleavened bread because there was no time for the dough to rise.",
+      "hint": "It takes the last and most severe plague to end his resistance.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-006",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each element of the first Passover to what the Church later sees fulfilled in it.",
+      "pairs": [
+        { "left": "The unblemished lamb", "right": "Christ, without sin" },
+        { "left": "Blood on the doorposts", "right": "Protection from death" },
+        { "left": "\"I will pass over you\"", "right": "The origin of the feast's name" },
+        { "left": "Unleavened bread eaten in haste", "right": "A meal for a people about to be freed" }
+      ],
+      "explanation": "This is typology at its clearest in the whole Old Testament -- so clear that the New Testament names Christ 'our paschal lamb' outright rather than leaving the connection implicit.",
+      "hint": "Each detail of the meal carries forward into how Christians read the Eucharist.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-007",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Why does the blood have to be visibly marked on the doorposts, rather than simply known to God some other way?",
+      "choices": [
+        "The sign itself is what the destroyer responds to",
+        "It was purely a matter of Egyptian custom",
+        "It served no real purpose, only tradition",
+        "It marked the house for Pharaoh's inspectors"
+      ],
+      "correctAnswer": "The sign itself is what the destroyer responds to",
+      "explanation": "God does not simply know which houses belong to Israel and spare them invisibly. He commands a visible sign, and it is the sign itself that the text says the destroyer responds to.",
+      "hint": "The text is specific about what the destroyer actually sees.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-008",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Exodus from Egypt happens gradually over several weeks of negotiation.",
+      "correctAnswer": false,
+      "explanation": "False. Once Pharaoh relents after the final plague, Israel leaves that very night, in haste -- so quickly that their bread has no time to rise.",
+      "hint": "Consider why the bread they carried was unleavened.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-009",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The blood is applied to the doorposts and the ____ of every house.",
+      "correctAnswer": "lintel",
+      "acceptedAnswers": [
+        "lintel"
+      ],
+      "explanation": "The lintel is the beam above the door. Together with the two doorposts, the blood marks three sides of the doorway -- a shape later readers have not failed to notice.",
+      "hint": "It is the beam that runs above the doorway itself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:1-13",
+          "quote": "They shall take some of the blood and apply it to the two doorposts and the lintel of every house in which they partake of the lamb... the blood will mark the houses where you are. Seeing the blood, I will pass over you."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l12-010",
+      "topic": "old-testament",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Taking levels 1 through 12 of this topic together, what single thread connects the ram at Moriah, the lamb of Passover, and John's words at the Jordan?",
+      "choices": [
+        "A lamb, provided by God, whose death protects others from death",
+        "Three unrelated animal sacrifices with no shared meaning",
+        "A warning against ever eating lamb at all",
+        "Three separate covenants that replace one another"
+      ],
+      "correctAnswer": "A lamb, provided by God, whose death protects others from death",
+      "explanation": "This is the point of reading the Old Testament as one story rather than isolated episodes: the same shape -- a lamb standing in the place of others, its death turning aside a death that was coming -- recurs until John can finally say the name it was always pointing toward.",
+      "hint": "Ask what all three scenes have in common, not what makes them different.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:29",
+          "quote": "Behold, the Lamb of God, who takes away the sin of the world."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    }
+  ]
+}
