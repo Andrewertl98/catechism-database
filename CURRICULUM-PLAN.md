@@ -564,7 +564,57 @@ each old level, deepening its content rather than repeating it.
 | 22 | Capstone: everything this topic has built, resolved `[L10]` | 21 |
 | 23 | Capstone: the Mass as heaven touching earth `[NEW]` | 22 |
 
-Liturgy-and-mass goes next, since its live bank is already close to a
+**Done, Sep 23, 2026: Liturgy-and-mass (23 levels), following Church
+History, the Old Testament, Saints, Councils, Heresies, Dogmas-and-
+doctrine, Metaphysics, and Apologetics.** Drafted, verified, committed.
+Kept the live bank's own already-natural order fully intact, adding
+three new gentler foundational levels and a new bridging level after
+each old level, closing with a new capstone naming the Mass as heaven
+touching earth.
+
+---
+
+## Worked example -- Sacred-scripture, 23 levels (N=10 -> 2*10+3=23)
+
+Sacred-scripture already has a real, natural order -- basic vocabulary
+(canon, inspiration, inerrancy) -> Old Testament genres -> the Gospels
+-> New Testament letters -> the senses of Scripture and interpretation
+-> precise canon-history and textual-criticism vocabulary -> real
+objections -> historical-critical method and interpretive schools ->
+typology and cross-topic connections -> a textual-criticism capstone.
+This live bank is already unusually mature; the journey below keeps
+that real order fully intact, adding three new gentler foundational
+levels (what the Bible actually is, why this app covers it, a real,
+practical first guide to actually reading it) below the current floor,
+and a new bridging level after each old level.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is the Bible, really? Basic real facts before technical vocabulary `[NEW]` | nothing assumed |
+| 2 | Why this app covers Sacred Scripture as its own real topic `[NEW]` | 1 |
+| 3 | A real, practical first guide to actually reading the Bible `[NEW]` | 2 |
+| 4 | Canon, inspiration, and inerrancy `[L1]` | 3 |
+| 5 | What inerrancy actually does and does not claim, more deeply considered `[NEW bridging]` | 4 |
+| 6 | The Old Testament's own real genres -- Torah, prophets, wisdom `[L2]` | 5 |
+| 7 | Why the Old Testament's own real genres actually matter for reading it well `[NEW bridging]` | 6 |
+| 8 | The Gospels `[L3]` | 7 |
+| 9 | Why four Gospels, not one -- what each real, distinct portrait actually adds `[NEW bridging]` | 8 |
+| 10 | The New Testament letters `[L4]` | 9 |
+| 11 | Reading a real New Testament letter as a real letter, not a list of proof-texts `[NEW bridging]` | 10 |
+| 12 | The senses of Scripture and real interpretation `[L5]` | 11 |
+| 13 | Applying the senses of Scripture to a real, familiar passage `[NEW bridging]` | 12 |
+| 14 | Precise canon-history and textual-criticism vocabulary `[L6]` | 13 |
+| 15 | Why this precision matters for an ordinary reader, not just scholars `[NEW bridging]` | 14 |
+| 16 | Real objections to Scripture, answered `[L7]` | 15 |
+| 17 | A further real objection to Scripture, answered `[NEW bridging]` | 16 |
+| 18 | Historical-critical method and real interpretive schools `[L8]` | 17 |
+| 19 | Why the Church permits more than one real interpretive school `[NEW bridging]` | 18 |
+| 20 | Typology and this app's own real cross-topic connections `[L9]` | 19 |
+| 21 | Finding a further real typological connection of one's own `[NEW bridging]` | 20 |
+| 22 | Capstone: real textual-critical questions, honestly resolved `[L10]` | 21 |
+| 23 | Capstone: Scripture as a real letter from God, addressed to the reader personally `[NEW]` | 22 |
+
+Sacred-scripture goes next, since its live bank is already close to a
 real, natural order and needs the least invention of any remaining
 topic.
 
