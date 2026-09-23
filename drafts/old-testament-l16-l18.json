@@ -1,0 +1,678 @@
+{
+  "_comment": "DRAFT -- NOT live. Old Testament levels 16-18 of 23: the desert wandering, the Shema and Deuteronomy's central command, and Joshua entering the land. All Scripture references in this file are new and flagged by onramp_tool.py check for translation verification before shipping.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l16-001",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Why does Israel end up wandering in the wilderness for forty years rather than entering the land right away?",
+      "choices": [
+        "The people refused to trust God's promise after scouting the land",
+        "God had not yet decided where the land would be",
+        "Moses himself chose to delay their entry",
+        "Egypt's army pursued them for forty years"
+      ],
+      "correctAnswer": "The people refused to trust God's promise after scouting the land",
+      "explanation": "Scouts are sent ahead and report the land is good but well defended. Israel's fear, not the land's danger, is what turns a direct road into a forty-year delay -- one year for each day the scouts spent in the land.",
+      "hint": "The delay is described as a direct consequence of a failure of trust.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:34",
+          "quote": "In keeping with the number of days you spent in scouting the land, forty days, you will bear your punishment for forty years, one year for each day."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-002",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: The forty years in the wilderness correspond directly to the forty days the scouts spent in the land.",
+      "correctAnswer": true,
+      "explanation": "True. The punishment is measured deliberately against the offense -- a year of wandering for every day of doubt.",
+      "hint": "The number of years and the number of days scouting are the same.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:34",
+          "quote": "In keeping with the number of days you spent in scouting the land, forty days, you will bear your punishment for forty years, one year for each day."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-003",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2035,
+      "prompt": "For every day the scouts spent in the land, Israel bears one ____ of wandering.",
+      "correctAnswer": "year",
+      "acceptedAnswers": [
+        "year"
+      ],
+      "explanation": "Forty days of scouting become forty years of wandering. It is not an arbitrary sentence -- the length of the punishment is tied directly to the length of the doubt.",
+      "hint": "Days become this larger unit of time.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:34",
+          "quote": "In keeping with the number of days you spent in scouting the land, forty days, you will bear your punishment for forty years, one year for each day."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-004",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Even Moses himself is barred from entering the promised land. What does Scripture say was his failure?",
+      "choices": [
+        "He struck a rock in anger rather than trusting God's word to it",
+        "He refused to lead the people any further",
+        "He worshipped the golden calf alongside the people",
+        "He married outside of Israel against God's command"
+      ],
+      "correctAnswer": "He struck a rock in anger rather than trusting God's word to it",
+      "explanation": "Told to speak to the rock and bring forth water, Moses strikes it instead, in anger, taking credit alongside God rather than trusting the word alone. Even the man who led Israel out is not exempt from the same standard he preached.",
+      "hint": "He acts in anger instead of doing exactly what he was told.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 20:12",
+          "quote": "Because you did not have confidence in me, to acknowledge my holiness before the Israelites, you shall not lead this assembly into the land I am giving them."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-005",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: Moses himself is permitted to enter the promised land because of his lifelong faithfulness.",
+      "correctAnswer": false,
+      "explanation": "False. Moses is barred from entering because of a single act of distrust at the rock -- a reminder that no one in this story, however central, is simply exempt from the covenant's demands.",
+      "hint": "Recall what God says caused Moses to be excluded.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 20:12",
+          "quote": "Because you did not have confidence in me, to acknowledge my holiness before the Israelites, you shall not lead this assembly into the land I am giving them."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-006",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each figure to their standing at the end of the wilderness years.",
+      "pairs": [
+        { "left": "The generation that doubted at the border", "right": "Dies in the wilderness over forty years" },
+        { "left": "Moses", "right": "Barred from entering for striking the rock" },
+        { "left": "Joshua and Caleb", "right": "Trusted the report and are spared" },
+        { "left": "The next generation", "right": "Enters the land Moses himself will not see" }
+      ],
+      "explanation": "The wilderness years are not simply a delay -- they are a generational transition. The people who doubted do not enter; the people they raised in the wilderness do.",
+      "hint": "Notice who is excluded and who is not, and why.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:34",
+          "quote": "In keeping with the number of days you spent in scouting the land, forty days, you will bear your punishment for forty years, one year for each day."
+        },
+        {
+          "type": "scripture",
+          "reference": "Numbers 20:12",
+          "quote": "Because you did not have confidence in me, to acknowledge my holiness before the Israelites, you shall not lead this assembly into the land I am giving them."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-007",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "What does the exclusion of an entire generation from the promised land show about how the Old Testament treats the covenant?",
+      "choices": [
+        "The covenant is real enough to have real consequences for unfaithfulness",
+        "The covenant was cancelled the moment anyone sinned",
+        "Only foreigners, never Israel itself, could break the covenant",
+        "Consequences fell only on individuals, never on the community"
+      ],
+      "correctAnswer": "The covenant is real enough to have real consequences for unfaithfulness",
+      "explanation": "God does not abandon Israel -- the covenant continues into the next generation -- but neither does he treat the covenant as a formality with no weight behind it. Both things are true at once.",
+      "hint": "The covenant is neither cancelled nor treated as inconsequential.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:34",
+          "quote": "In keeping with the number of days you spent in scouting the land, forty days, you will bear your punishment for forty years, one year for each day."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-008",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: The pattern of failure followed by God's continued faithfulness, first seen at the golden calf, appears again in the wilderness years.",
+      "correctAnswer": true,
+      "explanation": "True. Doubt at the border, punishment, and yet the promise still moving forward to the next generation -- the same rhythm this topic named at the golden calf repeats here on a larger scale.",
+      "hint": "Compare this pattern to what happened after the golden calf.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:34",
+          "quote": "In keeping with the number of days you spent in scouting the land, forty days, you will bear your punishment for forty years, one year for each day."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-009",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2035,
+      "prompt": "God tells Moses he failed to 'acknowledge my ____ before the Israelites.'",
+      "correctAnswer": "holiness",
+      "acceptedAnswers": [
+        "holiness"
+      ],
+      "explanation": "The charge against Moses is precise: not disobedience alone, but failing to let God's own holiness, not Moses' own action, be what the people saw at the rock.",
+      "hint": "It names an attribute of God, not an action of Moses.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 20:12",
+          "quote": "Because you did not have confidence in me, to acknowledge my holiness before the Israelites, you shall not lead this assembly into the land I am giving them."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l16-010",
+      "topic": "old-testament",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "What is significant about who is chosen to lead Israel into the land, given that Moses cannot?",
+      "choices": [
+        "Joshua, one of the two scouts who trusted the report",
+        "One of Moses' own sons, by hereditary right",
+        "A foreign general hired for the campaign",
+        "The high priest Aaron himself"
+      ],
+      "correctAnswer": "Joshua, one of the two scouts who trusted the report",
+      "explanation": "Of the twelve scouts sent into the land, only Joshua and Caleb trusted the report enough to recommend entering. It is Joshua, one of the two who trusted, who leads the next generation in.",
+      "hint": "He was one of only two scouts who gave a hopeful report.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 20:12",
+          "quote": "Because you did not have confidence in me, to acknowledge my holiness before the Israelites, you shall not lead this assembly into the land I am giving them."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l17-001",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What does the Shema, Israel's central daily prayer, command above all else?",
+      "choices": [
+        "To love the LORD with all your heart, soul, and strength",
+        "To offer sacrifice at the Temple every day",
+        "To recite the names of all twelve tribes",
+        "To fast completely once each week"
+      ],
+      "correctAnswer": "To love the LORD with all your heart, soul, and strength",
+      "explanation": "This single command -- heard by Israel every day, and quoted by Jesus himself as the greatest commandment -- gathers up everything Sinai's Law was ultimately for: not mere obedience, but love.",
+      "hint": "It is the same command Jesus later calls the greatest of all.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-002",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Jesus later quotes the Shema as the greatest commandment in the Law.",
+      "correctAnswer": true,
+      "explanation": "True. When asked which commandment is greatest, Jesus answers with this very prayer -- a line Israel had already been reciting for centuries by the time he speaks it.",
+      "hint": "Jesus is asked directly which commandment is greatest, and answers with this text.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-003",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "fill_blank",
+      "difficultyElo": 2110,
+      "prompt": "The Shema begins: 'Hear, O Israel! The LORD is our God, the LORD ____.'",
+      "correctAnswer": "alone",
+      "acceptedAnswers": [
+        "alone"
+      ],
+      "explanation": "The claim is exclusive, not just devotional. Everything the Law demands rests on this single confession -- there is one God, and no other.",
+      "hint": "The word rules out any other god sharing the claim.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-004",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "According to Deuteronomy, why did God let Israel hunger in the wilderness before feeding them with manna?",
+      "choices": [
+        "To teach them that man does not live on bread alone",
+        "To punish them for the golden calf a second time",
+        "Because there was genuinely no food anywhere nearby",
+        "To prepare them for permanent fasting once in the land"
+      ],
+      "correctAnswer": "To teach them that man does not live on bread alone",
+      "explanation": "The hunger itself was part of the lesson: dependence on God's word, not merely on food, is what the wilderness years were meant to teach -- the same line Jesus quotes back at the devil in his own desert temptation.",
+      "hint": "The lesson concerns what a person truly lives on.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 8:2-3",
+          "quote": "he let you be afflicted with hunger, then fed you with manna... in order to make you understand that people do not live by bread alone, but by every word that comes forth from the mouth of the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-005",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Deuteronomy 8's teaching about bread and God's word is quoted by Jesus during his own temptation in the desert.",
+      "correctAnswer": true,
+      "explanation": "True. When tempted to turn stones into bread, Jesus answers with this exact line from Deuteronomy -- entering, and reliving faithfully, the same wilderness testing Israel once failed.",
+      "hint": "Jesus answers a specific temptation with this exact line.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 8:2-3",
+          "quote": "he let you be afflicted with hunger, then fed you with manna... in order to make you understand that people do not live by bread alone, but by every word that comes forth from the mouth of the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-006",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each wilderness lesson to what it teaches.",
+      "pairs": [
+        { "left": "Hunger, then manna", "right": "People do not live by bread alone" },
+        { "left": "The Shema", "right": "Love the LORD with everything" },
+        { "left": "Forty years of wandering", "right": "The cost of a generation's distrust" },
+        { "left": "Jesus in his own wilderness", "right": "Answers temptation with Deuteronomy itself" }
+      ],
+      "explanation": "The wilderness is not simply a place Israel passes through -- it is where the deepest lessons of this whole section are taught, and Jesus deliberately relives the same testing centuries later.",
+      "hint": "Notice which pair points forward to the Gospels.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 8:2-3",
+          "quote": "he let you be afflicted with hunger, then fed you with manna... in order to make you understand that people do not live by bread alone, but by every word that comes forth from the mouth of the LORD."
+        },
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-007",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Why does Deuteronomy present the wilderness hardship as a form of teaching rather than only a punishment?",
+      "choices": [
+        "Because it was meant to make Israel understand real dependence on God",
+        "Because Israel asked to be tested this way",
+        "Because there was no other way to reach the land",
+        "Because the wilderness itself demanded it regardless of God's will"
+      ],
+      "correctAnswer": "Because it was meant to make Israel understand real dependence on God",
+      "explanation": "Deuteronomy names the purpose directly: to make Israel understand that they live by God's word, not by bread alone. Hardship here has a purpose, not just a cause.",
+      "hint": "Deuteronomy states the purpose of the hunger explicitly.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 8:2-3",
+          "quote": "he let you be afflicted with hunger, then fed you with manna... in order to make you understand that people do not live by bread alone, but by every word that comes forth from the mouth of the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-008",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Shema calls Israel to love God with heart, soul, and strength -- the whole of a person, not one part alone.",
+      "correctAnswer": true,
+      "explanation": "True. Three terms, not one, are used deliberately to cover the whole of a person -- nothing about Israel's life is meant to sit outside this command.",
+      "hint": "Count how many different terms are used for the whole person.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-009",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "fill_blank",
+      "difficultyElo": 2110,
+      "prompt": "Deuteronomy says people live 'by every ____ that comes forth from the mouth of the LORD.'",
+      "correctAnswer": "word",
+      "acceptedAnswers": [
+        "word"
+      ],
+      "explanation": "This is the exact phrase Jesus answers the devil with in the desert -- Deuteronomy's lesson, spoken by the one who actually lives it without failure.",
+      "hint": "It is the exact phrase Jesus later answers the devil with.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 8:2-3",
+          "quote": "he let you be afflicted with hunger, then fed you with manna... in order to make you understand that people do not live by bread alone, but by every word that comes forth from the mouth of the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l17-010",
+      "topic": "old-testament",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Taking the Shema and the manna teaching together, what do they show about how the Law and the wilderness years fit together?",
+      "choices": [
+        "The wilderness trains the heart the Law is meant to be kept with",
+        "The wilderness years had nothing to do with the Law given at Sinai",
+        "The Law was suspended for the entire wilderness period",
+        "The manna replaced the need to keep the Law at all"
+      ],
+      "correctAnswer": "The wilderness trains the heart the Law is meant to be kept with",
+      "explanation": "Sinai gave the commandments; the wilderness years form the kind of trust and love -- total dependence on God's word -- that the greatest of those commandments actually asks for.",
+      "hint": "Consider what kind of heart the Shema is asking for, and what the wilderness taught.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        },
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 8:2-3",
+          "quote": "he let you be afflicted with hunger, then fed you with manna... in order to make you understand that people do not live by bread alone, but by every word that comes forth from the mouth of the LORD."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l18-001",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "As Joshua prepares to lead Israel into the land, what command does God repeat to him?",
+      "choices": [
+        "Be strong and steadfast; do not fear",
+        "Wait forty more years before entering",
+        "Build a temple before crossing the river",
+        "Consult Moses' successor before every battle"
+      ],
+      "correctAnswer": "Be strong and steadfast; do not fear",
+      "explanation": "Joshua is stepping into the role the man who raised him could not finish. The command he receives answers exactly what the last generation lacked at the border: courage to trust the promise.",
+      "hint": "It answers directly what the previous generation lacked at the border.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 1:9",
+          "quote": "I command you: be firm and steadfast! Do not be frightened or dismayed, for the LORD, your God, is with you wherever you go."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-002",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Joshua is told he can be courageous because the LORD is with him wherever he goes.",
+      "correctAnswer": true,
+      "explanation": "True. The courage commanded is not self-generated. It rests on a stated fact -- God's presence -- not on Joshua's own confidence.",
+      "hint": "The command is grounded in a promise, not left to Joshua's own nerve alone.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 1:9",
+          "quote": "I command you: be firm and steadfast! Do not be frightened or dismayed, for the LORD, your God, is with you wherever you go."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-003",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "God tells Joshua: 'Do not be frightened or dismayed, for the LORD, your God, is with you ____ you go.'",
+      "correctAnswer": "wherever",
+      "acceptedAnswers": [
+        "wherever"
+      ],
+      "explanation": "The promise has no limit attached to it -- not only in battle, not only within the land, but wherever Joshua goes at all.",
+      "hint": "The word describes the scope of God's presence with him.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 1:9",
+          "quote": "I command you: be firm and steadfast! Do not be frightened or dismayed, for the LORD, your God, is with you wherever you go."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-004",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Near the end of his life, what choice does Joshua put before all Israel?",
+      "choices": [
+        "Whom they will serve -- the LORD, or other gods",
+        "Which tribe will rule over the others",
+        "Whether to build a temple immediately",
+        "Whether to return to Egypt or remain in the land"
+      ],
+      "correctAnswer": "Whom they will serve -- the LORD, or other gods",
+      "explanation": "Joshua will not let the covenant coast on inertia. He forces the whole people to choose again, deliberately, even after everything they have already received -- and famously declares his own household's answer first.",
+      "hint": "The choice concerns loyalty, not territory or leadership.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 24:15",
+          "quote": "As for me and my household, we will serve the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-005",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Joshua declares his own household's choice before the rest of Israel answers.",
+      "correctAnswer": true,
+      "explanation": "True. 'As for me and my household, we will serve the LORD' -- Joshua commits his own family publicly before asking anyone else to decide.",
+      "hint": "He speaks about his own household specifically.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 24:15",
+          "quote": "As for me and my household, we will serve the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-006",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each moment of Joshua's leadership to what it demonstrates.",
+      "pairs": [
+        { "left": "\"Be firm and steadfast\"", "right": "Courage grounded in God's presence, not Joshua's nerve" },
+        { "left": "Crossing into the land", "right": "Completes what the previous generation could not" },
+        { "left": "\"Choose this day whom you will serve\"", "right": "The covenant must be renewed by each generation" },
+        { "left": "\"As for me and my household\"", "right": "Leadership that commits itself first" }
+      ],
+      "explanation": "Joshua's whole role in this topic is completion: finishing the journey Moses began, and handing Israel a covenant they must keep choosing, not one they can simply inherit unexamined.",
+      "hint": "Each moment answers something left open by the generation before.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 1:9",
+          "quote": "I command you: be firm and steadfast! Do not be frightened or dismayed, for the LORD, your God, is with you wherever you go."
+        },
+        {
+          "type": "scripture",
+          "reference": "Joshua 24:15",
+          "quote": "As for me and my household, we will serve the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-007",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Why does Joshua insist on putting the choice to serve the LORD before Israel again, so late in the story?",
+      "choices": [
+        "Because belonging to the covenant is not automatic across generations",
+        "Because the earlier covenant at Sinai had expired",
+        "Because he doubted the people's earlier commitment was genuine",
+        "Because the land itself required a new covenant to be settled"
+      ],
+      "correctAnswer": "Because belonging to the covenant is not automatic across generations",
+      "explanation": "Being born into Israel does not, by itself, mean choosing the LORD. Joshua's challenge insists that each generation must own the covenant for itself, not simply inherit it as a fact about their ancestry.",
+      "hint": "Consider what it would mean if the covenant were simply automatic.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 24:15",
+          "quote": "As for me and my household, we will serve the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-008",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: The promise made to Joshua at the start of his leadership -- that God is with him wherever he goes -- has no conditions attached in the text.",
+      "correctAnswer": true,
+      "explanation": "True. The promise as given is unconditional in its wording, resting entirely on God's own faithfulness, which is exactly why it can ground courage rather than anxious self-reliance.",
+      "hint": "Look again at whether any condition is attached to the promise.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 1:9",
+          "quote": "I command you: be firm and steadfast! Do not be frightened or dismayed, for the LORD, your God, is with you wherever you go."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-009",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "Joshua declares: 'As for me and my household, we will ____ the LORD.'",
+      "correctAnswer": "serve",
+      "acceptedAnswers": [
+        "serve"
+      ],
+      "explanation": "The verb is deliberate. Not merely believe in, not merely honor from a distance -- serve, the same posture of active obedience this whole topic has traced from Abraham through Sinai.",
+      "hint": "The verb describes active obedience, not just belief.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 24:15",
+          "quote": "As for me and my household, we will serve the LORD."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l18-010",
+      "topic": "old-testament",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Taking levels 16 through 18 together, what has changed by the time Israel enters the land under Joshua?",
+      "choices": [
+        "A generation formed by trust has replaced one formed by doubt",
+        "The Law given at Sinai has been replaced entirely",
+        "Israel has become identical in every way to Egypt",
+        "The covenant has finally been permanently secured against any future failure"
+      ],
+      "correctAnswer": "A generation formed by trust has replaced one formed by doubt",
+      "explanation": "The wilderness years were not simply a delay -- they were formation. The generation that finally crosses into the land has been shaped by hunger, by the Shema, by forty years of dependence the border generation never learned.",
+      "hint": "Compare the generation that refused to enter with the one that finally does.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Joshua 1:9",
+          "quote": "I command you: be firm and steadfast! Do not be frightened or dismayed, for the LORD, your God, is with you wherever you go."
+        },
+        {
+          "type": "scripture",
+          "reference": "Deuteronomy 6:4-5",
+          "quote": "Hear, O Israel! The LORD is our God, the LORD alone. Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength."
+        }
+      ]
+    }
+  ]
+}
