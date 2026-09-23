@@ -1,0 +1,660 @@
+{
+  "_comment": "DRAFT -- NOT live. Heresies levels 1-3 of 19 (new chronological reorg, per CURRICULUM-PLAN.md): what heresy precisely is (largely new, plus old live level 5's schism/obstinacy content), then the earliest errors -- Simon Magus, Gnosticism, Docetism -- and Marcion, Montanism, and Modalism. CCC 2089 and citations for early errors already reviewed are reused here; other Scripture references are new and flagged by onramp_tool.py check.",
+  "topic": "heresies",
+  "questions": [
+    {
+      "id": "heresies-l1-001",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "What does the Catechism mean, precisely, by 'heresy'?",
+      "choices": [
+        "The obstinate denial, after baptism, of a truth that must be believed with divine and catholic faith",
+        "Any mistaken religious belief of any kind, however sincere or informed",
+        "Refusal of communion with the Church, regardless of what a person actually believes",
+        "The total repudiation of the Christian faith itself"
+      ],
+      "correctAnswer": "The obstinate denial, after baptism, of a truth that must be believed with divine and catholic faith",
+      "explanation": "This is a real, narrow, technical definition -- not a general word for 'wrong religious opinion.' Every level in this topic will keep returning to this precise definition, since most confusion about heresy comes from using the word far more loosely than the Church actually does.",
+      "hint": "The definition requires three things together: obstinacy, a specific kind of truth, and denial of it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-002",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "The Catechism distinguishes heresy, apostasy and schism precisely. Which describes schism?",
+      "choices": [
+        "Refusal of submission to the Roman Pontiff or of communion with the members of the Church subject to him",
+        "The obstinate denial of a truth which must be believed with divine and catholic faith",
+        "The total repudiation of the Christian faith",
+        "Deliberate neglect of revealed truth without denying it"
+      ],
+      "correctAnswer": "Refusal of submission to the Roman Pontiff or of communion with the members of the Church subject to him",
+      "explanation": "Schism is about communion, not content: a schismatic may hold every doctrine and still be in schism. Heresy is the obstinate denial of a truth to be believed; apostasy is repudiating the faith entirely. Collapsing the three makes any of them impossible to discuss accurately.",
+      "hint": "One of these three can occur while a person still believes everything the Church teaches.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-003",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Apostasy means the total repudiation of the Christian faith, going further than denying a single truth.",
+      "correctAnswer": true,
+      "explanation": "True. Where heresy denies one truth while still professing Christian faith overall, apostasy abandons the faith entirely -- a real, meaningful difference in degree the Church's own precise vocabulary preserves.",
+      "hint": "Consider the difference between denying one specific truth and abandoning the faith altogether.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-004",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Because heresy requires obstinacy, someone who holds an erroneous belief in good faith, having never been shown otherwise, is not formally a heretic.",
+      "correctAnswer": true,
+      "explanation": "True. Heresy in the strict sense requires obstinate denial after the truth is known to be required. This is why the Church distinguishes material from formal heresy, and why the word is far narrower than its casual use online suggests.",
+      "hint": "The definition contains a word about the will, not only about the intellect.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-005",
+      "topic": "heresies",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "Heresy, properly defined, requires ____ denial -- persisting in the denial after the truth has actually been made known, not simply being mistaken.",
+      "correctAnswer": "obstinate",
+      "acceptedAnswers": [
+        "obstinate"
+      ],
+      "explanation": "This single word carries most of the real precision in the Church's own definition -- without it, every honest misunderstanding in Church history would count as heresy, which is exactly the loose, inaccurate usage this whole topic will keep correcting.",
+      "hint": "The same word this level's earlier true/false questions have already used twice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-006",
+      "topic": "heresies",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each term to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Heresy",
+          "right": "Obstinate post-baptismal denial of a truth to be believed"
+        },
+        {
+          "left": "Apostasy",
+          "right": "Total repudiation of the Christian faith"
+        },
+        {
+          "left": "Schism",
+          "right": "Refusal of communion, regardless of what is actually believed"
+        },
+        {
+          "left": "Material heresy",
+          "right": "Holding an erroneous belief without the obstinacy heresy requires"
+        }
+      ],
+      "explanation": "This topic depends on these four terms staying distinct -- most casual confusion about 'heresy' comes from treating any one of them as a stand-in for all the others.",
+      "hint": "One term describes a break in communion rather than a belief at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-007",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Why does this topic insist on these precise distinctions, rather than using 'heresy' loosely for any disagreement with Church teaching?",
+      "choices": [
+        "Because imprecise language makes it impossible to discuss real historical and doctrinal disputes accurately",
+        "Because the distinctions are a purely modern invention with no real basis in Church teaching",
+        "Because heresy, apostasy, and schism are simply three different words for the exact same thing",
+        "Because precision in this area has no practical consequence for understanding Church history"
+      ],
+      "correctAnswer": "Because imprecise language makes it impossible to discuss real historical and doctrinal disputes accurately",
+      "explanation": "Every level in this topic depends on the precise category actually fitting the error being discussed -- collapsing Arianism, Donatism, and the 1054 schism into one vague word would make the real historical differences between them invisible.",
+      "hint": "Consider what would happen to this whole topic's later levels if every category were treated as interchangeable.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-008",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: A person can be technically correct about a doctrine and still be in schism.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly what makes schism a distinct category from heresy -- schism concerns communion with the Church's own governance, not the content of what a person actually believes.",
+      "hint": "Recall schism's own precise definition from earlier in this level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-009",
+      "topic": "heresies",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Given this level's precise definitions, what does the next level in this topic turn to?",
+      "choices": [
+        "The earliest documented errors the Church actually confronted, beginning in the apostolic era itself",
+        "A complete repeat of this same level's material about the three precise terms",
+        "A jump directly to the Protestant Reformation, skipping over a millennium of earlier history",
+        "A subject entirely unrelated to any error the Church has actually confronted"
+      ],
+      "correctAnswer": "The earliest documented errors the Church actually confronted, beginning in the apostolic era itself",
+      "explanation": "Having established the precise vocabulary, this topic now applies it to real history -- starting with the very first errors, documented as early as the Acts of the Apostles itself.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l1-010",
+      "topic": "heresies",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: This topic's own precise vocabulary -- heresy, apostasy, schism, material heresy -- will be used consistently across every later level, not only in this opening one.",
+      "correctAnswer": true,
+      "explanation": "True, and holding onto this vocabulary now is exactly what will let later levels describe each historical error with real precision, rather than lumping every disagreement under one vague label.",
+      "hint": "Consider how a learner should expect this level's own vocabulary to be used in every level that follows.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-001",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Simon Magus, described in Acts 8, attempted to buy the power of conferring the Holy Spirit. What does this earliest documented error illustrate?",
+      "choices": [
+        "That errors challenging the Church's own understanding of grace and its transmission appear as early as the apostolic era itself",
+        "That the Church faced no real doctrinal errors of any kind until many centuries after the apostles",
+        "That Simon Magus's error was, in fact, purely about Church discipline, with no doctrinal content at all",
+        "That this specific account has no real connection to any later heresy this whole topic will cover"
+      ],
+      "correctAnswer": "That errors challenging the Church's own understanding of grace and its transmission appear as early as the apostolic era itself",
+      "explanation": "Simon Magus's attempt to purchase spiritual power -- treating grace as a commodity rather than a free gift -- gives this whole later category of error its name, 'simony,' and shows real doctrinal confusion was possible from the Church's very earliest days.",
+      "hint": "This account gives its own name to a whole later category of error concerning buying and selling spiritual things.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 8:18-19",
+          "quote": "when Simon saw that the spirit was conferred by the laying on of the apostles' hands, he offered them money"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-002",
+      "topic": "heresies",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: Docetism, one of the earliest Christological errors, took its name from a Greek word meaning 'to seem,' because it taught that Christ only seemed to have a real human body.",
+      "correctAnswer": true,
+      "explanation": "True. Docetism held that Christ's humanity was only an appearance, not a real, physical body capable of genuine suffering -- an error the New Testament's own letters already seem to be countering, showing how early this specific confusion actually arose.",
+      "hint": "The Greek root of this word describes something that merely appears to be true.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-003",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Early Gnostic sects taught that the material world was evil or a lesser creation. What real theological problem does this create?",
+      "choices": [
+        "It denies that a good God could have created the physical world, undermining both creation and the real goodness of Christ's own human body",
+        "It has, in reality, no theological consequence beyond a simple preference for spiritual over material things",
+        "It is, in fact, fully compatible with the Church's own teaching on creation and on the Incarnation",
+        "It only concerns a narrow question of Church discipline, and touches no real doctrine at all"
+      ],
+      "correctAnswer": "It denies that a good God could have created the physical world, undermining both creation and the real goodness of Christ's own human body",
+      "explanation": "If matter itself is evil, a good God cannot have created it, and Christ cannot have taken on a real human body without compromising his own goodness -- Gnosticism's material/spiritual split has real consequences for both creation and Christology at once.",
+      "hint": "Consider what this teaching about matter would mean for both creation and for Christ's own body.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-004",
+      "topic": "heresies",
+      "level": 2,
+      "type": "fill_blank",
+      "difficultyElo": 1002,
+      "prompt": "The word 'Gnosticism' comes from the Greek word for ____, since these sects claimed access to a special, hidden spiritual knowledge not available to ordinary believers.",
+      "correctAnswer": "knowledge",
+      "acceptedAnswers": [
+        "knowledge"
+      ],
+      "explanation": "This claim to secret, superior knowledge is itself part of the error -- treating salvation as something available only to an enlightened few, rather than a gift genuinely offered to the whole Church.",
+      "hint": "The Greek word 'gnosis' is the direct root of this English word.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-005",
+      "topic": "heresies",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: Simon Magus's error and Docetism concern two genuinely different kinds of mistake -- one about grace, the other about Christ's own body.",
+      "correctAnswer": true,
+      "explanation": "True. Even this early in Church history, real doctrinal errors already fell into recognizably different categories -- a pattern this whole topic will keep tracing as it moves through later, more developed controversies.",
+      "hint": "Consider what specific subject each of this level's first two errors actually concerns.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 8:18-19",
+          "quote": "when Simon saw that the spirit was conferred by the laying on of the apostles' hands, he offered them money"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-006",
+      "topic": "heresies",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 982,
+      "prompt": "Match each earliest error to what it actually got wrong.",
+      "pairs": [
+        {
+          "left": "Simon Magus",
+          "right": "Treated the Holy Spirit's grace as a commodity to be purchased"
+        },
+        {
+          "left": "Docetism",
+          "right": "Denied Christ had a real, physical human body"
+        },
+        {
+          "left": "Gnosticism",
+          "right": "Taught the material world was evil or a lesser creation"
+        },
+        {
+          "left": "1 John's own response",
+          "right": "Insists on confessing Christ come in real flesh"
+        }
+      ],
+      "explanation": "These earliest errors, some documented within the New Testament's own lifetime, already show the Church actively defending real, specific truths against real, specific challenges from its very first generation.",
+      "hint": "Three rows name distinct early errors; one names Scripture's own direct response to them.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-007",
+      "topic": "heresies",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: The New Testament's own letters already show real, documented concern about errors like Docetism and Gnosticism, not just later Church councils.",
+      "correctAnswer": true,
+      "explanation": "True. This is a real, important fact this topic keeps returning to -- doctrinal error and the Church's own defense against it are not a later medieval invention, but present from the earliest documented Christian writing.",
+      "hint": "Recall which New Testament letter this level has already cited directly on this exact point.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-008",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Applying level 1's own precise definitions, how should Simon Magus's specific request in Acts 8 be classified?",
+      "choices": [
+        "A documented early error about grace, though the text doesn't call him an obstinate, formal heretic",
+        "A formally and precisely defined act of schism, since it concerned Church governance rather than belief",
+        "An act of apostasy, since the text implies he had never truly believed the Christian faith at all",
+        "Formal heresy in the strict, technical sense this topic's own first level has already defined"
+      ],
+      "correctAnswer": "A documented early error about grace, though the text doesn't call him an obstinate, formal heretic",
+      "explanation": "This is a real, careful application of level 1's own precision -- the text records a serious error and a sharp rebuke from Peter, but does not itself describe the kind of sustained, obstinate denial that would make this formal heresy in the strict technical sense.",
+      "hint": "Recall level 1's own precise requirement of obstinacy before something counts as formal heresy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 8:18-19",
+          "quote": "when Simon saw that the spirit was conferred by the laying on of the apostles' hands, he offered them money"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-009",
+      "topic": "heresies",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 892,
+      "prompt": "True or False: Not every documented early error in Church history rises to the level of formal, obstinate heresy as level 1 precisely defined it.",
+      "correctAnswer": true,
+      "explanation": "True, and this level's own careful treatment of Simon Magus already shows why -- real precision means not stretching a technical term to cover every documented mistake, error, or sin recorded in Church history.",
+      "hint": "Recall this level's own careful classification of Simon Magus's specific case.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l2-010",
+      "topic": "heresies",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 942,
+      "prompt": "Given this level's picture of the very earliest documented errors, what does the next level in this topic turn to?",
+      "choices": [
+        "Marcion, Montanism, and the early Trinitarian error known as Modalism",
+        "A complete repeat of this same level's material about Simon Magus and Docetism",
+        "A jump directly to the Protestant Reformation, skipping over more than a millennium",
+        "A subject entirely unrelated to any error this topic has covered so far"
+      ],
+      "correctAnswer": "Marcion, Montanism, and the early Trinitarian error known as Modalism",
+      "explanation": "The next level continues this topic's own chronological arc through the second and third centuries, meeting three further real, distinct errors before this topic reaches the great Christological controversies several levels ahead.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-001",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "Marcion, a second-century teacher, taught what about the God of the Old Testament compared to the God revealed by Jesus Christ?",
+      "choices": [
+        "Two entirely different gods -- a lesser, harsh creator god and a separate, higher god of love in Christ",
+        "That they were, in fact, simply two different names for the exact same single God",
+        "That the Old Testament's God was, in his view, identical to the Father, with no real distinction",
+        "That the question of the Old Testament's God held no real theological importance to him at all"
+      ],
+      "correctAnswer": "Two entirely different gods -- a lesser, harsh creator god and a separate, higher god of love in Christ",
+      "explanation": "Marcion's error rejected the Old Testament and much of the New as tainted by this supposedly lesser creator god -- a direct assault on exactly the unity between Old and New Covenant this app's own Old Testament topic spends its whole length establishing.",
+      "hint": "Recall this app's own Old Testament topic, and its own strong insistence on the unity between the two Covenants.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-002",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: Marcion's rejection of the Old Testament also led him to reject significant portions of what would become the New Testament, keeping only a heavily edited selection.",
+      "correctAnswer": true,
+      "explanation": "True. Marcion kept only an edited version of Luke's Gospel and some of Paul's letters, cutting out anything he judged too closely tied to the Old Testament's own God -- a real, documented editorial project, not merely a private opinion.",
+      "hint": "Consider what Marcion had to do to his own copy of the New Testament to make it consistent with his view of two separate gods.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 John 4:2-3",
+          "quote": "This is how you can know the Spirit of God: every spirit that acknowledges Jesus Christ come in the flesh belongs to God, and every spirit that does not acknowledge Jesus does not belong to God."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-003",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "Montanism, a second-century movement, claimed what about its own leaders?",
+      "choices": [
+        "That they were receiving new, ongoing prophetic revelation beyond what the apostles had already handed on",
+        "That they alone correctly understood the existing apostolic deposit of faith, with no new revelation claimed",
+        "That all prophecy had permanently ceased with the death of the last apostle",
+        "That they rejected the Old Testament entirely, in the same way Marcion did"
+      ],
+      "correctAnswer": "That they were receiving new, ongoing prophetic revelation beyond what the apostles had already handed on",
+      "explanation": "Montanism's real error concerns the very shape of revelation itself -- claiming new prophetic authority effectively equal to, or beyond, the apostolic deposit already handed on, rather than the doctrinal content Marcion or the Gnostics disputed.",
+      "hint": "This error concerns ongoing revelation, not a dispute over an existing doctrine.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-004",
+      "topic": "heresies",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1093,
+      "prompt": "Modalism, associated with the priest Sabellius, mistakenly taught that Father, Son, and Holy Spirit are not three real Persons but merely three ____ or roles of a single divine Person.",
+      "correctAnswer": "modes",
+      "acceptedAnswers": [
+        "modes",
+        "masks"
+      ],
+      "explanation": "Modalism denies the real, eternal distinction of Persons within the Trinity -- treating Father, Son, and Spirit as three different masks the one God wears at different times, rather than three real, distinct, co-eternal Persons in one divine nature.",
+      "hint": "The word this heresy's own name is built directly from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-005",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: Modalism is a Trinitarian error, concerning the relationship among Father, Son, and Holy Spirit, distinct from the earlier Christological errors this topic has already covered.",
+      "correctAnswer": true,
+      "explanation": "True. Docetism and Gnosticism concerned Christ's own human nature; Modalism concerns something different -- the real distinction of Persons within the one God, a genuinely separate category of error this topic will keep distinguishing carefully.",
+      "hint": "Consider what specific relationship, among which specific figures, Modalism's own error actually concerns.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-006",
+      "topic": "heresies",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1073,
+      "prompt": "Match each second- and third-century error to its core claim.",
+      "pairs": [
+        {
+          "left": "Marcion",
+          "right": "The Old Testament's God and Christ's God are two separate gods"
+        },
+        {
+          "left": "Montanism",
+          "right": "Claimed new prophetic revelation beyond the apostolic deposit"
+        },
+        {
+          "left": "Modalism (Sabellius)",
+          "right": "Father, Son, and Spirit are only three modes of one Person"
+        },
+        {
+          "left": "This level's own real range",
+          "right": "Scriptural unity, revelation's own shape, and the Trinity, each tested"
+        }
+      ],
+      "explanation": "Three genuinely different categories of error, all within roughly a single century -- this level's own range shows how quickly the early Church had to think with real precision across several different theological questions at once.",
+      "hint": "Three rows name individual errors; one names what this level's whole range actually covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-007",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: All three of this level's errors -- Marcion, Montanism, and Modalism -- were addressed and rejected by the wider early Church well before Nicaea's own more famous confrontation with Arianism.",
+      "correctAnswer": true,
+      "explanation": "True. By the time Nicaea meets in 325, the Church had already been actively defending precise doctrine against real, serious challenges for nearly two centuries -- Nicaea is a culmination of this pattern, not its beginning.",
+      "hint": "Consider the real dates of Marcion, Montanism, and Modalism relative to 325 AD.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-008",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "What real thread connects Docetism, Gnosticism, Marcion, and Modalism, despite their real differences?",
+      "choices": [
+        "Each distorts a real relationship -- God and matter, Old and New Covenant, or the Trinity -- the Church had to define more precisely",
+        "All four of these errors are, in fact, functionally identical, with no real theological differences among any of them",
+        "None of these four errors had any real influence on the later, more famous controversies this topic will go on to cover",
+        "All four of these errors were, in the end, formally condemned together at the exact same single council"
+      ],
+      "correctAnswer": "Each distorts a real relationship -- God and matter, Old and New Covenant, or the Trinity -- the Church had to define more precisely",
+      "explanation": "This is the real pattern this topic will keep tracing: an error distorts a real relationship the faith depends on, and the Church's response sharpens her own understanding and language in reply -- a pattern about to reach its most famous expression in the next level's confrontation with Arianism.",
+      "hint": "Consider what kind of real relationship each of this level's three errors, and the previous level's two, actually distorts.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-009",
+      "topic": "heresies",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 983,
+      "prompt": "True or False: The pattern of error prompting a more precise Church response, already visible in this level, continues directly into the next level's coverage of Arianism.",
+      "correctAnswer": true,
+      "explanation": "True, and Arianism is where this pattern reaches its most famous and consequential expression -- a single, precise word, homoousios, settling a controversy this level's own earlier errors had already been building toward in spirit.",
+      "hint": "Consider whether the next level's own controversy fits the same real pattern this level has just traced.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l3-010",
+      "topic": "heresies",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1033,
+      "prompt": "Given this level's picture of Marcion, Montanism, and Modalism, what does the next level in this topic turn to?",
+      "choices": [
+        "Arianism, the fourth-century error that denied Christ's full divinity, and Nicaea's own precise answer to it",
+        "A complete repeat of this same level's material about Marcion, Montanism, and Modalism",
+        "A jump directly to the medieval Cathars, skipping over more than a millennium",
+        "A subject entirely unrelated to any error this topic has covered so far"
+      ],
+      "correctAnswer": "Arianism, the fourth-century error that denied Christ's full divinity, and Nicaea's own precise answer to it",
+      "explanation": "The next level meets this topic's single most consequential early controversy -- already covered from the council's own angle in this app's Councils topic, and now returned to from the error's own side.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    }
+  ]
+}
