@@ -1,0 +1,674 @@
+{
+  "_comment": "DRAFT -- NOT live. Councils levels 10-12 of 19: level 10 continues Trent with its later sessions (sacraments, Eucharist/transubstantiation, purgatory, images, Holy Orders), reusing old live levels 4 and 8's content. Level 11 is new: Trent's long institutional legacy (seminaries, the Roman Catechism, the 1570 Missal lasting four centuries, the Index), reusing old live level 4's discipline/formation content plus new material. Level 12 is new: the roughly three-century gap between Trent and Vatican I, explaining the real political and intellectual conditions (wars, the French Revolution, rising liberalism/rationalism) behind it, connecting directly to Church History's own coverage of the same period.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l10-001",
+      "topic": "councils",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The Council of Trent affirmed that the Church celebrates ____ sacraments, all instituted by Christ.",
+      "correctAnswer": "seven",
+      "acceptedAnswers": [
+        "seven"
+      ],
+      "explanation": "Trent's decree on the sacraments defended the traditional number of seven against Reformation-era challenges that reduced them to two or three.",
+      "hint": "Count them: this is the same number the Church still teaches today.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-002",
+      "topic": "councils",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or false: Trent's Session 7 canon on the sacraments anathematizes anyone who says there are more or fewer than seven sacraments instituted by Christ.",
+      "correctAnswer": true,
+      "explanation": "Session 7's first canon directly answers Reformers who reduced the sacraments to two (baptism and the Eucharist) or three, defining that Christ instituted exactly seven: baptism, confirmation, Eucharist, penance, anointing of the sick, holy orders, and matrimony.",
+      "hint": "This is one of Trent's most direct, numbered responses to the Reformation.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 7, Decree on the Sacraments, Canon 1 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1113"
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-003",
+      "topic": "councils",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Trent's Session 13 (1551) responded most directly to which Eucharistic claim?",
+      "choices": [
+        "That Christ's presence in the Eucharist is merely symbolic or spiritual, not a true, real, and substantial presence",
+        "That the Mass should be celebrated only in the vernacular language",
+        "That the Eucharist should be received under both species by the laity in every circumstance",
+        "That the priesthood was abolished at the Reformation"
+      ],
+      "correctAnswer": "That Christ's presence in the Eucharist is merely symbolic or spiritual, not a true, real, and substantial presence",
+      "explanation": "Session 13 defines transubstantiation by name -- the whole substance of bread and wine is converted into the whole substance of Christ's body and blood, with only the appearances remaining -- directly against Reformers who held varying degrees of symbolic or spiritual-only presence.",
+      "hint": "This is the session that gives 'transubstantiation' its conciliar definition, first used at Lateran IV several levels back.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 13, Decree on the Most Holy Eucharist (1551)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-004",
+      "topic": "councils",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Session 25 (1563), issued at Trent's very close, reaffirmed which two connected teachings the Reformers had rejected together?",
+      "choices": [
+        "Purgatory, and aiding the souls there through prayer and the sacrifice of the Mass",
+        "The primacy of the Pope and the doctrine of papal infallibility, defined at a much later council",
+        "The perpetual virginity of Mary and the Immaculate Conception, both defined at other separate times",
+        "The canon of the New Testament and apostolic succession, already settled centuries earlier"
+      ],
+      "correctAnswer": "Purgatory, and aiding the souls there through prayer and the sacrifice of the Mass",
+      "explanation": "Purgatory and prayer for the dead stand or fall together -- if there is no intermediate purification after death, praying for the dead makes no sense, which is exactly why Reformers who rejected purgatory rejected both at once.",
+      "hint": "One of these teachings only makes practical sense if the other is true.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 25, Decree on Purgatory (1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1032"
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-005",
+      "topic": "councils",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "Trent's Session 25 taught that images of Christ, the Virgin, and the saints are to be kept and honored, because the honor shown to them is referred to the ______ they represent.",
+      "correctAnswer": "prototypes",
+      "acceptedAnswers": [
+        "prototypes"
+      ],
+      "explanation": "This is the same principle Nicaea II had already established against the iconoclasts, several levels back in this topic: honor paid to an image passes through to the person depicted. Trent restates it against Reformers who read any veneration of images as idolatry.",
+      "hint": "The word describes the person an image represents -- honor passes through the image to them.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 25, On the Invocation, Veneration, and Relics of Saints, and on Sacred Images (1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-006",
+      "topic": "councils",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Trent's Session 23 (1563) on Holy Orders responds most directly to which Reformation claim?",
+      "choices": [
+        "That the ministerial priesthood is not a sacrament instituted by Christ but merely a functional office the community assigns",
+        "That bishops and priests should not, under any circumstance whatsoever, ever be permitted to marry",
+        "That ordination should be reserved only to those of noble birth and standing",
+        "That the sacrament of Holy Orders can be repeated as often as it is needed"
+      ],
+      "correctAnswer": "That the ministerial priesthood is not a sacrament instituted by Christ but merely a functional office the community assigns",
+      "explanation": "Several Reformers held to a 'priesthood of all believers' that collapsed the ordained ministry into a community-appointed function rather than a sacrament conferring a distinct, indelible character. Trent responds by affirming Holy Orders as truly and properly a sacrament.",
+      "hint": "The dispute here is whether ordination confers something real and permanent, or is just the community assigning a job.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 23, Doctrine on the Sacrament of Order (1563)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1536"
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-007",
+      "topic": "councils",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Council of Trent (1545-1563) met continuously for nearly two decades, without any interruption.",
+      "correctAnswer": false,
+      "explanation": "False. Trent met in three distinct periods across nearly two decades, repeatedly interrupted by wars and political upheaval before finally concluding its work in 1563.",
+      "hint": "Consider whether the real history of Trent's own dates suggests one long, unbroken meeting.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-008",
+      "topic": "councils",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each of Trent's later sessions to what it settled.",
+      "pairs": [
+        {
+          "left": "Session 7 (1547)",
+          "right": "Affirmed exactly seven sacraments, instituted by Christ"
+        },
+        {
+          "left": "Session 13 (1551)",
+          "right": "Transubstantiation -- Christ's true, substantial Eucharistic presence"
+        },
+        {
+          "left": "Session 23 (1563)",
+          "right": "Holy Orders as a true sacrament, not a mere community-assigned office"
+        },
+        {
+          "left": "Session 25 (1563)",
+          "right": "Purgatory, prayer for the dead, and the veneration of images"
+        }
+      ],
+      "explanation": "Across nearly two decades, Trent worked through the sacramental and devotional life of the Church one contested point at a time, each session answering a specific claim from the Reformation.",
+      "hint": "Each session answers one specific, contested claim, in roughly the order the sessions themselves occurred.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-009",
+      "topic": "councils",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Every one of Trent's later sessions covered in this level responds to a real, specific claim made during the Reformation, rather than addressing a purely abstract or hypothetical question.",
+      "correctAnswer": true,
+      "explanation": "True. Sacraments, the Eucharist, purgatory, images, and holy orders were all live, contested points in the actual sixteenth-century debate -- Trent's own precision here is a direct response to real arguments being made at the time, not a theoretical exercise.",
+      "hint": "Consider whether any of this level's five sessions address a question no one was actually debating in the sixteenth century.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l10-010",
+      "topic": "councils",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Having now covered Trent's full doctrinal and sacramental work across two levels, what does the next level in this topic turn to?",
+      "choices": [
+        "Trent's own long institutional legacy -- what actually endured for centuries after the council itself formally closed",
+        "A complete and exhaustive repeat of this same level's material about Trent's later sessions",
+        "A jump forward directly to the Second Vatican Council in the twentieth century",
+        "A subject entirely unrelated to Trent or to anything this topic has covered up to now"
+      ],
+      "correctAnswer": "Trent's own long institutional legacy -- what actually endured for centuries after the council itself formally closed",
+      "explanation": "The next level steps back from Trent's own sessions to ask a different question: what of all this actually lasted, in ordinary Catholic life, long after the council's bishops had gone home.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-001",
+      "topic": "councils",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: The Council of Trent's reforms were limited to doctrine and did not address the discipline or education of the clergy.",
+      "correctAnswer": false,
+      "explanation": "Trent reformed clerical life directly, mandating seminaries and addressing widespread problems like absentee bishops holding multiple dioceses at once -- discipline, not only doctrine, is a real and lasting part of Trent's own legacy.",
+      "hint": "Trent wasn't only about doctrine -- it also cleaned house among priests and bishops.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-002",
+      "topic": "councils",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Which of Trent's reforms had the greatest long-term effect on the formation of parish clergy?",
+      "choices": [
+        "Requiring every diocese to establish a seminary for training priests",
+        "Requiring every bishop to be at least fifty years old before ordination",
+        "Abolishing all religious orders throughout the whole Church",
+        "Requiring every priest to hold a formal university doctorate"
+      ],
+      "correctAnswer": "Requiring every diocese to establish a seminary for training priests",
+      "explanation": "Much of what Trent addressed was not doctrinal error but formation. Poorly trained, often absent clergy were a real cause of the crisis, and the seminary decree changed the ordinary shape of Catholic priesthood more durably than most of its canons -- dioceses still operate seminaries built on this decree today.",
+      "hint": "The answer concerns an institution most dioceses still operate.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-003",
+      "topic": "councils",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Trent commissioned a catechism, published in 1566, intended chiefly for parish priests rather than for children.",
+      "correctAnswer": true,
+      "explanation": "True. The Roman Catechism, or Catechism of the Council of Trent, was written as a resource for pastors preaching and instructing. Its audience explains its tone: it assumes a reader who must explain the faith to others, not one meeting it for the first time.",
+      "hint": "Consider who most needed a reliable reference in a period of contested preaching.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-004",
+      "topic": "councils",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Trent's own reforms of the Mass produced a standardized Roman Missal in 1570, whose form remained essentially unchanged for how long, until the Second Vatican Council?",
+      "choices": [
+        "About four hundred years",
+        "About fifty years",
+        "About one hundred years",
+        "It was replaced within a decade"
+      ],
+      "correctAnswer": "About four hundred years",
+      "explanation": "The 1570 Missal Trent's reforms produced remained the standard form of the Roman Rite until Vatican II's own liturgical reform in the 1960s -- a real, striking measure of how long a single council's practical decisions can actually last.",
+      "hint": "Consider the actual span of years between 1570 and the Second Vatican Council, several levels ahead in this topic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-005",
+      "topic": "councils",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Trent-era Rome also maintained an Index of Forbidden Books, a disciplinary tool separate from Trent's positive doctrinal and formational work.",
+      "correctAnswer": true,
+      "explanation": "True, and this connects directly to Church History's own coverage of the same period -- the Index reflects a real anxiety, specific to this era, about controlling access to Reformation-era writings, distinct from the seminary and catechism reforms this level has already covered.",
+      "hint": "Recall this same Trent-era institution already covered from Church History's own angle.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-006",
+      "topic": "councils",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each element of Trent's institutional legacy to what it involved.",
+      "pairs": [
+        {
+          "left": "The seminary decree",
+          "right": "Standardized, ongoing formation for parish clergy, still used today"
+        },
+        {
+          "left": "The Roman Catechism (1566)",
+          "right": "A reference for pastors, not a first introduction for children"
+        },
+        {
+          "left": "The 1570 Roman Missal",
+          "right": "The standard form of the Mass for roughly four centuries"
+        },
+        {
+          "left": "The Index of Forbidden Books",
+          "right": "A disciplinary tool controlling access to contested writings"
+        }
+      ],
+      "explanation": "Trent's own lasting impact reaches far beyond its formal doctrinal canons -- these four institutions, all born from the same council, shaped ordinary Catholic life for centuries after Trent's bishops themselves had gone home.",
+      "hint": "Each row names one real institution this council produced, and how long or how deeply it actually lasted.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-007",
+      "topic": "councils",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Trent's own reforms are remembered today only for their doctrinal canons, with no lasting effect on ordinary Catholic practice.",
+      "correctAnswer": false,
+      "explanation": "False. Seminaries, a standardized catechism, a standardized Mass lasting four centuries, and a real disciplinary apparatus all outlived Trent's own doctrinal canons in how directly they shaped ordinary Catholic life for generation after generation.",
+      "hint": "Consider how many of this level's own institutions are more about daily practice than abstract doctrine.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-008",
+      "topic": "councils",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "What does Trent's own institutional legacy suggest about how a council's real, lasting influence should actually be measured?",
+      "choices": [
+        "Not only by its formal doctrinal definitions, but by the durable practices and institutions it leaves behind",
+        "Exclusively by the total number of formal doctrinal canons a council happens to issue",
+        "Exclusively by how quickly its decrees were implemented in the years right after it closed",
+        "Not at all -- a council's real influence cannot be measured in any observable way whatsoever"
+      ],
+      "correctAnswer": "Not only by its formal doctrinal definitions, but by the durable practices and institutions it leaves behind",
+      "explanation": "This level's own institutions -- seminaries still training priests, a Mass that lasted four centuries -- make the case concretely: a council's real historical weight includes what it builds that outlasts the bishops who built it.",
+      "hint": "Weigh Trent's formal canons against the seminaries and Missal this level has just described.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-009",
+      "topic": "councils",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: No ecumenical council met for roughly three hundred years after Trent formally closed in 1563.",
+      "correctAnswer": true,
+      "explanation": "True, and this long silence is real and worth understanding on its own terms -- the next level in this topic examines exactly why, after Trent's own intense burst of conciliar activity, the Church went without another ecumenical council for centuries.",
+      "hint": "Consider how long a gap actually separates Trent's own close from the next ecumenical council this topic will cover.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l11-010",
+      "topic": "councils",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Given this real three-century silence after Trent, what does the next level in this topic turn to?",
+      "choices": [
+        "Why the Church went without an ecumenical council for roughly three hundred years, before Vatican I finally met",
+        "A complete and exhaustive repeat of this same level's material about Trent's institutional legacy",
+        "A jump directly to the Second Vatican Council, skipping the long gap entirely",
+        "A subject entirely unrelated to any single council this topic has covered up to now"
+      ],
+      "correctAnswer": "Why the Church went without an ecumenical council for roughly three hundred years, before Vatican I finally met",
+      "explanation": "This gap is not empty space in the story -- the next level examines what real historical forces kept the Church from convening another ecumenical council for this long, before Vatican I finally does.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-001",
+      "topic": "councils",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "What real historical conditions, in the centuries after Trent, made convening another ecumenical council genuinely difficult?",
+      "choices": [
+        "Ongoing European wars, political fragmentation, and later revolutionary upheaval that repeatedly disrupted stability",
+        "A formal Church teaching declaring that no further council would ever again be permitted",
+        "A complete and total lack of any unresolved doctrinal questions for three whole centuries running",
+        "A severe shortage of bishops anywhere across the entire Catholic world at this time"
+      ],
+      "correctAnswer": "Ongoing European wars, political fragmentation, and later revolutionary upheaval that repeatedly disrupted stability",
+      "explanation": "An ecumenical council requires bishops from across the world to travel and meet safely for an extended period -- exactly what recurring European wars, and later the French Revolution's own upheaval, made difficult for generation after generation.",
+      "hint": "Consider what a council practically requires -- safe travel and sustained stability -- and what Europe actually had during this period.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-002",
+      "topic": "councils",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: The French Revolution's direct assault on the Church, already covered in Church History's own treatment of this period, is part of why no ecumenical council could realistically be convened for much of this long gap.",
+      "correctAnswer": true,
+      "explanation": "True. The same revolutionary upheaval that persecuted French clergy and disrupted the papacy's own stability made the basic conditions for an ecumenical council -- safe, sustained assembly -- genuinely unavailable for a real stretch of this period.",
+      "hint": "Recall Church History's own detailed coverage of the Revolution's direct assault on the Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-003",
+      "topic": "councils",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "Beyond wars and revolution, what wider intellectual challenge, gaining strength across this period, eventually became part of what finally moved the Church to convene another council?",
+      "choices": [
+        "The rise of modern liberalism and rationalism, challenging the Church's own claims to authority and revealed truth",
+        "A sudden and total loss of Christian belief across the entire continent of Europe",
+        "A brand-new heresy formally identical to Arianism, requiring the exact same conciliar response",
+        "The complete and total abolition of the papacy itself as a functioning institution"
+      ],
+      "correctAnswer": "The rise of modern liberalism and rationalism, challenging the Church's own claims to authority and revealed truth",
+      "explanation": "This is the same real intellectual current Church History's own later levels trace through Pius IX's Syllabus of Errors -- and it is part of the genuine backdrop against which the Church eventually judged a new council necessary.",
+      "hint": "Recall the intellectual movement Church History's own coverage of Pius IX directly engages.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-004",
+      "topic": "councils",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: The nearly three-century gap between Trent and the next ecumenical council means the Church's teaching authority was somehow suspended or inactive during this whole period.",
+      "correctAnswer": false,
+      "explanation": "False. Popes continued teaching through encyclicals and other documents throughout this entire period -- an ecumenical council is one specific, solemn form the Church's teaching authority can take, not the only one available to her.",
+      "hint": "Consider whether a pope's own ordinary teaching authority requires an ecumenical council to be exercised at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-005",
+      "topic": "councils",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1898,
+      "prompt": "Match each real factor of this long gap to what it involved.",
+      "pairs": [
+        {
+          "left": "European wars and political fragmentation",
+          "right": "Made safe, sustained travel and assembly genuinely difficult"
+        },
+        {
+          "left": "The French Revolution",
+          "right": "A direct, documented assault on the Church's own stability"
+        },
+        {
+          "left": "Modern liberalism and rationalism",
+          "right": "A growing intellectual challenge to the Church's authority"
+        },
+        {
+          "left": "Papal encyclicals during this period",
+          "right": "Real, ongoing teaching authority exercised without a council"
+        }
+      ],
+      "explanation": "This was never an empty silence -- real historical forces explain the gap, and real teaching authority continued to be exercised throughout it, right up until conditions allowed for a council once again.",
+      "hint": "Three rows name real obstacles to convening a council; one names what the Church did instead during the gap.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-006",
+      "topic": "councils",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: By the mid-19th century, political conditions in Europe had stabilized enough, and the intellectual challenges had grown urgent enough, that convening another ecumenical council again became genuinely possible and necessary.",
+      "correctAnswer": true,
+      "explanation": "True. Both conditions had to be present together -- enough real political stability to gather bishops safely, and a real enough doctrinal challenge to justify doing so -- which is exactly what comes together by the time the next level's council is convened.",
+      "hint": "Consider what two different kinds of conditions -- practical and doctrinal -- both had to be present before a new council became possible.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-007",
+      "topic": "councils",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "What does this long gap add to this topic's overall picture of how ecumenical councils actually happen across Church history?",
+      "choices": [
+        "Councils happen when real conditions allow, not on a fixed schedule -- sometimes separated by centuries",
+        "That an ecumenical council is convened on a fixed, regular calendar every hundred years",
+        "That the gap between Trent and the next council proves the Church's teaching authority had ceased functioning entirely",
+        "That every period between one council and the next is functionally identical to every other"
+      ],
+      "correctAnswer": "Councils happen when real conditions allow, not on a fixed schedule -- sometimes separated by centuries",
+      "explanation": "This level's whole point is that this topic's own chronological pacing -- six councils in barely four centuries, then one long silence -- mirrors real history, not a tidy, evenly spaced schedule.",
+      "hint": "Compare the tight spacing of this topic's early councils to the long gap this level has just explained.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-008",
+      "topic": "councils",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: The very next council this topic covers is convened specifically to address the modern intellectual challenges this level has just introduced.",
+      "correctAnswer": true,
+      "explanation": "True. This is exactly the thread the next level in this topic picks up directly -- a council convened in real response to the liberalism and rationalism this level has just named as part of what finally made a new council necessary.",
+      "hint": "Recall the specific intellectual challenge this level has already named as part of the reason for the coming council.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-009",
+      "topic": "councils",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "Given both the practical and doctrinal conditions this level has described, what does the next level in this topic turn to?",
+      "choices": [
+        "The First Vatican Council (1869-1870), finally convened after this long gap",
+        "A complete repeat of this same level's material about the long gap itself",
+        "A jump directly to the Second Vatican Council, skipping Vatican I entirely",
+        "A subject entirely unrelated to any council this topic has covered so far"
+      ],
+      "correctAnswer": "The First Vatican Council (1869-1870), finally convened after this long gap",
+      "explanation": "The next level meets the council this whole level has been building toward -- the Church's own answer, after roughly three centuries, to conditions finally allowing and requiring another ecumenical gathering.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l12-010",
+      "topic": "councils",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1918,
+      "prompt": "The council that finally ended this roughly three-century gap is known as the First Vatican Council, or Vatican ____.",
+      "correctAnswer": "I",
+      "acceptedAnswers": [
+        "I",
+        "1"
+      ],
+      "explanation": "Its very name, distinguishing it as the first of two councils held at the Vatican, already anticipates the second one this topic will reach several levels ahead.",
+      "hint": "The Roman numeral distinguishing this council from a later one held in the same location.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    }
+  ]
+}
