@@ -278,6 +278,48 @@ Per-topic axis, decided under that standard:
 
 Authoring proceeds topic by topic under this standard. Saints goes next.
 
+**Done, Sep 23, 2026: Saints (23 levels), following Church History and the
+Old Testament.** Drafted, verified, committed. Chronological through level
+19 (apostles to contemporary canonizations), then process/apologetics/
+synthesis/capstone (20-23), mirroring Church History's own two-part shape.
+
+---
+
+## Worked example -- Councils, 19 levels (N=8 -> 2*8+3=19)
+
+Councils is already close to chronological in the live bank -- levels 1-5
+already move roughly forward in time, level 8 is a Trent deep-dive
+duplicating level 4's own era, and levels 6-7 are meta (terminology,
+apologetics). The reorg interleaves the Trent duplication into two full
+levels and moves the meta content to the end, same shape as Saints.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What makes a council ecumenical? `[L1 partial]` | nothing assumed |
+| 2 | Nicaea I (325) -- the first council `[L1 partial]` | 1 |
+| 3 | Constantinople I and Ephesus (381, 431) `[L1 partial]` | 2 |
+| 4 | Chalcedon (451) -- completing the first four `[L1 partial]` | 3 |
+| 5 | Constantinople II and III (553, 680-681) `[L2]` | 4 |
+| 6 | Nicaea II (787) -- the icon controversy resolved `[L3 partial]` | 5 |
+| 7 | Lyon II and Florence -- failed reunion attempts `[L3 partial]` | 6 |
+| 8 | Lateran IV (1215) and the medieval councils `[NEW -- 1 line today]` | 7 |
+| 9 | Trent begins -- Scripture, Tradition, justification `[L4 + L8 partial]` | 8 |
+| 10 | Trent continues -- sacraments, the Mass, images `[L4 + L8 partial]` | 9 |
+| 11 | Trent's long institutional legacy `[NEW]` | 10 |
+| 12 | The long gap -- no council for three centuries `[NEW]` | 11 |
+| 13 | Vatican I (1869-1870) `[L5 partial]` | 12 |
+| 14 | The gap after Vatican I, and John XXIII's call `[NEW]` | 13 |
+| 15 | Vatican II opens `[L5 partial]` | 14 |
+| 16 | Vatican II's documents in depth `[NEW]` | 15 |
+| 17 | Conciliar terminology -- canons, decrees, anathema sit `[L6]` | 16 |
+| 18 | Answering objections about the councils `[L7]` | 17 |
+| 19 | Capstone: all twenty-one councils as one continuous story | 18 |
+
+Councils goes next after Saints, since it needs the least new research of
+any remaining topic -- almost every level maps to existing, already-reviewed
+content, with new levels filling two real, narrow gaps (Lateran IV, and the
+long 1870-1962 silence between Vatican I and II).
+
 ---
 
 ## Worked example -- Saints, 23 levels
