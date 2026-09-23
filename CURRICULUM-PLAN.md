@@ -277,3 +277,46 @@ Per-topic axis, decided under that standard:
   answering-objections.
 
 Authoring proceeds topic by topic under this standard. Saints goes next.
+
+---
+
+## Worked example -- Saints, 23 levels
+
+`[NEW]` = needs authoring. `[L#]` = existing level that maps here (fully or
+partially; where a level's own content spans centuries, e.g. old L3's mix of
+Benedict/Francis/Dominic/Ignatius across a 900-year range, it splits across
+two new levels by era, same as Church History's old L4/L5/L6/L7 did).
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is a saint? Mary and John the Baptist `[L1 partial]` | nothing assumed |
+| 2 | The apostles as the first witnesses `[NEW]` | 1 |
+| 3 | Stephen and the earliest martyrs `[L2 partial]` | 2 |
+| 4 | The age of the Roman martyrs -- Agnes, Lawrence, Sebastian, Perpetua & Felicity `[L2]` | 3 |
+| 5 | The Desert Fathers and the birth of monasticism `[NEW]` | 4 |
+| 6 | Doctors of the early Church as saints -- Augustine, Jerome, Ambrose `[NEW, reusing church-fathers citations]` | 5 |
+| 7 | Benedict and Western monastic sainthood `[L3 partial]` | 6 |
+| 8 | Francis, Clare, and Dominic -- the mendicant saints `[L3 partial]` | 7 |
+| 9 | Catherine of Siena and the Avignon crisis `[L4 partial]` | 8 |
+| 10 | Saints on the eve of the Reformation -- Joan of Arc `[NEW]` | 9 |
+| 11 | The Counter-Reformation saints -- Ignatius, Teresa of Ávila, John of the Cross `[L3 + L4 partial]` | 10 |
+| 12 | Thomas More, martyr of the English Reformation `[L8 partial]` | 11 |
+| 13 | Missionary saints of the age of exploration -- Francis Xavier `[NEW, reusing church-history citation]` | 12 |
+| 14 | Saints of charity in the age of reason -- Vincent de Paul, John Vianney `[NEW]` | 13 |
+| 15 | Thérèse of Lisieux and the Little Way `[L4 partial]` | 14 |
+| 16 | Missionary and founder saints of the 19th century `[NEW]` | 15 |
+| 17 | Saints of the world wars -- Kolbe, Faustina `[L5 partial]` | 16 |
+| 18 | Teresa of Calcutta and Josephine Bakhita `[L5 partial]` | 17 |
+| 19 | Contemporary canonizations `[NEW]` | 18 |
+| 20 | How the Church recognizes a saint -- the canonization process `[L6]` | 19 |
+| 21 | Answering objections about the saints `[L7]` | 20 |
+| 22 | The saints across history -- cross-topic synthesis `[L9]` | 21 |
+| 23 | Capstone: hard and ambiguous cases `[L10]` | 22 |
+
+The last four levels are deliberately meta rather than chronological, per
+Andrew's standard above: once a learner has actually met saints across two
+thousand years (levels 1-19), the topic shifts to *how the Church discerns
+sainthood at all* (20), *defends the practice* (21), *synthesizes across the
+whole timeline* (22), and *tests judgment on genuinely hard cases* (23) --
+school-age concrete examples first, the abstract and contested questions only
+once that foundation is real.
