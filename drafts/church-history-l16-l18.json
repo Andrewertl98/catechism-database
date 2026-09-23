@@ -1,0 +1,689 @@
+{
+  "_comment": "DRAFT -- NOT live. Church History levels 16-18 of 23: level 16 reuses old live level 6's Chinese Rites/missions content (renumbered, re-seeded) plus new material on Francis Xavier and the parallel Malabar Rites controversy in India. Level 17 reuses old live level 6's Jansenism/Jesuit-suppression content plus new material on Gallicanism's practical effects and the Jesuits' 1814 restoration. Level 18 is new (Civil Constitution of the Clergy, the Reign of Terror's persecution of clergy, the Carmelites of Compiegne, Napoleon's Concordat, the Congress of Vienna) filling a level the original bank had zero coverage of. CCC 2104/2242/2446/2473, CCC 828, and magisterial_document/council citations already reviewed are reused throughout.",
+  "topic": "church-history",
+  "questions": [
+    {
+      "id": "church-history-l16-001",
+      "topic": "church-history",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "St. Francis Xavier, one of the original companions of St. Ignatius of Loyola, is remembered chiefly for what missionary work in the 16th century?",
+      "choices": [
+        "Carrying the Gospel to India and Japan, opening a new era of missionary expansion into Asia",
+        "Leading the Council of Trent's own detailed doctrinal deliberations in person, on site",
+        "Founding the very first medieval university anywhere in the whole of Europe itself",
+        "Personally translating the entire Christian Bible directly into the Mandarin Chinese language"
+      ],
+      "correctAnswer": "Carrying the Gospel to India and Japan, opening a new era of missionary expansion into Asia",
+      "explanation": "Xavier's mission opened the era this level covers -- Jesuit missionaries carrying the faith across Asia, raising real, difficult questions about how far local custom could be adapted without compromising the faith itself.",
+      "hint": "This missionary's own feast day, December 3, honors work done specifically in Asia.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-002",
+      "topic": "church-history",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2035,
+      "prompt": "Matteo Ricci's missionary method in China -- permitting converts to retain certain ancestral and civil ceremonies as culturally rather than religiously binding -- became known to history as the policy of ____.",
+      "correctAnswer": "accommodation",
+      "acceptedAnswers": [
+        "accommodation"
+      ],
+      "explanation": "Ricci's method tried to distinguish civil and ancestral customs from strictly religious worship, arguing the former could remain compatible with Catholic faith -- a policy this same level shows was eventually reversed by Rome.",
+      "hint": "The same word describes adapting an approach to fit a new situation.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex Illa Die (1715)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-003",
+      "topic": "church-history",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: In Ex Illa Die (1715), Pope Clement XI approved the Jesuit practice of allowing Chinese Catholics to continue traditional rites honoring Confucius and their ancestors, judging them compatible with the Catholic faith.",
+      "correctAnswer": false,
+      "explanation": "Ex Illa Die did the opposite: it upheld the earlier condemnation of the Chinese Rites, ruling that the ancestral and Confucian ceremonies could not be permitted for Catholics -- a decision that effectively ended the accommodation method Ricci had begun.",
+      "hint": "The pope's ruling ended, rather than approved, this contested missionary practice.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex Illa Die (1715)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-004",
+      "topic": "church-history",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "What was the core question at issue in the Chinese Rites controversy?",
+      "choices": [
+        "Whether Chinese Catholic converts could continue certain ancestral honoring and Confucian civic rites alongside their new faith",
+        "Whether Chinese converts needed to formally learn to read and write Latin before receiving baptism",
+        "Whether Catholic missionaries should be permitted to enter the country of China at all, under any circumstance",
+        "Whether the reigning Chinese Emperor himself could personally be baptized into the Catholic faith"
+      ],
+      "correctAnswer": "Whether Chinese Catholic converts could continue certain ancestral honoring and Confucian civic rites alongside their new faith",
+      "explanation": "Jesuit missionaries argued these rites were civic and familial customs rather than religious worship of false gods, and so compatible with the faith; other missionary orders disagreed sharply. Rome eventually sided against the accommodation, with lasting consequences for the mission's reception in China.",
+      "hint": "The dispute concerns which practices count as religious worship versus civic custom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2104"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-005",
+      "topic": "church-history",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: A closely parallel accommodation controversy over the 'Malabar Rites' arose in India around the missionary Roberto de Nobili, echoing the Chinese Rites dispute.",
+      "correctAnswer": true,
+      "explanation": "True. De Nobili, another Jesuit, adopted local customs and dress to reach India's higher castes, raising the same core question this level has already explored in China: where is the line between adaptable custom and compromised faith? Rome eventually restricted this practice too, on similar grounds.",
+      "hint": "This controversy involves the same missionary order, applying a similar strategy in a different country.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2104"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-006",
+      "topic": "church-history",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each missionary figure or term to what it involved.",
+      "pairs": [
+        {
+          "left": "St. Francis Xavier",
+          "right": "Opened Jesuit missionary work in India and Japan"
+        },
+        {
+          "left": "Matteo Ricci's accommodation",
+          "right": "Treating certain Chinese ancestral rites as civil, not religious"
+        },
+        {
+          "left": "Roberto de Nobili",
+          "right": "Applied a similar accommodation strategy among India's higher castes"
+        },
+        {
+          "left": "Ex Illa Die (1715)",
+          "right": "Rome's ruling against the Chinese Rites accommodation"
+        }
+      ],
+      "explanation": "A single real question -- how far can the Gospel adapt to local custom without compromising itself -- runs through every figure and document in this level, on two different continents.",
+      "hint": "Three are missionaries or their methods; one is Rome's eventual ruling on the question.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex Illa Die (1715)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-007",
+      "topic": "church-history",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: The Jesuit reducciones in Paraguay were mission settlements that gave the indigenous Guaraní a significant degree of self-governance, relatively protected from colonial exploitation.",
+      "correctAnswer": true,
+      "explanation": "True. The reducciones organized community life, agriculture, and defense with real Guaraní participation, and were frequently in tension with colonial slavers and settlers who wanted access to that labor and land -- proof that missionary work in this period was not simply an extension of colonial power.",
+      "hint": "Ask who benefited from these settlements existing, and who wanted them gone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2446"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-008",
+      "topic": "church-history",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "What does the pattern across this whole level -- India and Japan, China, and Paraguay -- suggest about Catholic missionary work in this period?",
+      "choices": [
+        "It was a genuine, wide-ranging global expansion, raising real and difficult questions about adapting the faith to radically different cultures",
+        "It was strictly limited to a single country alone, with no wider geographic reach of any kind whatsoever",
+        "It always simply imposed European customs wholesale on converts, with no genuine attempt at real cultural adaptation",
+        "It had no real relationship whatsoever to the wider political and colonial context of its own historical era"
+      ],
+      "correctAnswer": "It was a genuine, wide-ranging global expansion, raising real and difficult questions about adapting the faith to radically different cultures",
+      "explanation": "Three continents, one recurring question: how much can and should the Gospel adapt to a genuinely different culture? This level does not pretend Rome's answers were simple or uncontested -- the Chinese and Malabar Rites controversies show real, sustained internal disagreement.",
+      "hint": "Consider what India, Japan, China, and Paraguay all have in common as settings for this same level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2104"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-009",
+      "topic": "church-history",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2035,
+      "prompt": "Rome's rulings on the Chinese and Malabar Rites controversies show the Church exercising real, ongoing ____ over how far missionary adaptation could go, not leaving the question purely to individual missionaries.",
+      "correctAnswer": "authority",
+      "acceptedAnswers": [
+        "authority",
+        "oversight"
+      ],
+      "explanation": "Even genuinely well-intentioned missionary strategy, developed on the ground by dedicated men, remained subject to the wider Church's own discernment and final judgment -- a real check this level shows was actually exercised, not merely claimed.",
+      "hint": "What the wider Church exercised over missionary strategy that individual missionaries could not simply decide on their own.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2104"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l16-010",
+      "topic": "church-history",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "While these missionary questions were unfolding abroad, what kind of disputes were unfolding within Europe itself during roughly this same period?",
+      "choices": [
+        "Serious internal disputes over grace and free will, and growing political pressure against the Jesuit order itself",
+        "No internal disputes of any real or serious kind existed anywhere within Europe during this whole period",
+        "A complete and total absence of theological disagreement across the entire Church at this time",
+        "Disputes that concerned exclusively foreign missionary policy abroad and nothing whatsoever besides that"
+      ],
+      "correctAnswer": "Serious internal disputes over grace and free will, and growing political pressure against the Jesuit order itself",
+      "explanation": "The next level turns from the missionary frontier back to Europe's own internal life -- Jansenism's rigorist theology of grace, and the mounting political pressure that would culminate in the Jesuits' 1773 suppression, the same order whose missionaries this level has just followed across three continents.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)",
+          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-001",
+      "topic": "church-history",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Pope Clement XI's 1713 bull Unigenitus condemned 101 propositions drawn from the writings of Pasquier Quesnel. Which movement's rigorist teaching on grace and free will did these propositions represent?",
+      "choices": [
+        "Jansenism",
+        "Pelagianism",
+        "Quietism",
+        "Modernism"
+      ],
+      "correctAnswer": "Jansenism",
+      "explanation": "Jansenism held that grace acts on the will in a way that leaves no real freedom to resist it, effectively denying that a person can freely cooperate with or reject grace. Unigenitus condemned this rigorist account as incompatible with the Church's teaching on grace and human freedom.",
+      "hint": "This movement takes its name from a 17th-century Flemish bishop who wrote a massive treatise on St. Augustine.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)",
+          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-002",
+      "topic": "church-history",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What did the Gallican Articles of 1682, adopted by the French clergy under royal pressure, assert about the relationship between councils and the Pope?",
+      "choices": [
+        "That a general council's authority could, in certain respects, stand above the Pope's own",
+        "That the reigning Pope's own authority was entirely unlimited in every single respect",
+        "That France itself should formally and permanently separate from the Catholic Church",
+        "That bishops held no real authority independent of Rome's own authority at all"
+      ],
+      "correctAnswer": "That a general council's authority could, in certain respects, stand above the Pope's own",
+      "explanation": "Gallicanism echoes the conciliarist theory level 14 already introduced during the Western Schism -- a real, recurring tension over where final authority rests, here driven as much by French royal politics as by theology.",
+      "hint": "This is the same underlying theory level 14 already introduced, applied again here under different political pressure.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-003",
+      "topic": "church-history",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each 18th-century document to what it actually did.",
+      "pairs": [
+        {
+          "left": "Unigenitus (1713)",
+          "right": "Condemned Jansenist propositions on grace"
+        },
+        {
+          "left": "Ex Illa Die (1715)",
+          "right": "Ended the Chinese Rites accommodation"
+        },
+        {
+          "left": "Dominus ac Redemptor (1773)",
+          "right": "Suppressed the Society of Jesus"
+        },
+        {
+          "left": "The Gallican Articles (1682)",
+          "right": "Asserted a council's authority over the Pope"
+        }
+      ],
+      "explanation": "This period's central tension -- Rome's authority tested by rigorist theology, mission strategy, and monarchist politics all at once -- runs through all four documents.",
+      "hint": "Two of these are Clement XI's, one is Clement XIV's, and one predates them both.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-004",
+      "topic": "church-history",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Jansenism's rigorist theology of grace had no real practical effect on ordinary Catholic devotional life, remaining a purely academic theological dispute.",
+      "correctAnswer": false,
+      "explanation": "False. Jansenist rigorism shaped real pastoral practice for generations -- discouraging frequent Communion and confession out of a severe view of human unworthiness -- effects still being undone well into the 19th and 20th centuries by popes encouraging more frequent reception of the sacraments.",
+      "hint": "Consider what this movement's severe view of grace and human worthiness would do to how often ordinary Catholics felt able to receive the sacraments.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)",
+          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-005",
+      "topic": "church-history",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What ultimately led to Pope Clement XIV's 1773 suppression of the Society of Jesus?",
+      "choices": [
+        "Sustained political pressure from several European monarchies who saw the Jesuits as a threat to royal authority and colonial economic interests",
+        "A formal doctrinal condemnation of Jesuit theology, issued directly and explicitly by a sitting ecumenical council of bishops",
+        "The Society of Jesus's own entirely voluntary, freely and formally made request that it be dissolved outright",
+        "An official Vatican finding that the Society had fully abandoned its own vow of obedience to the reigning Pope"
+      ],
+      "correctAnswer": "Sustained political pressure from several European monarchies who saw the Jesuits as a threat to royal authority and colonial economic interests",
+      "explanation": "This was fundamentally a political suppression rather than a doctrinal condemnation -- Bourbon monarchs in France, Spain, and Portugal pressed for it over years, and Clement XIV yielded to preserve peace with those courts. The reducciones and missions this topic's previous level described were part of what made the Jesuits politically vulnerable.",
+      "hint": "Ask whether this was a doctrinal finding, or a matter of political pressure from outside the Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-006",
+      "topic": "church-history",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Society of Jesus survived in one country despite the 1773 suppression, because its ruler declined to publish Clement XIV's brief there.",
+      "correctAnswer": true,
+      "explanation": "True. Catherine the Great of Russia declined to publish Dominus ac Redemptor within her territory, allowing a remnant of the Jesuit order to survive there continuously until the order's full, worldwide restoration in 1814.",
+      "hint": "This survival happened in a country outside Catholic Europe's usual political sphere.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-007",
+      "topic": "church-history",
+      "level": 17,
+      "type": "fill_blank",
+      "difficultyElo": 2110,
+      "prompt": "The Society of Jesus, suppressed in 1773, was fully and formally restored worldwide in the year ____, once the political pressure that caused its suppression had passed.",
+      "correctAnswer": "1814",
+      "acceptedAnswers": [
+        "1814"
+      ],
+      "explanation": "The restoration confirms what this level has already suggested: the suppression was a political concession, not a lasting doctrinal judgment against the order or its mission work.",
+      "hint": "This restoration happens after the Napoleonic Wars, in the early 19th century.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-008",
+      "topic": "church-history",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Weighing Jansenism, Gallicanism, and the Jesuit suppression together, what pattern does this level reveal about the 17th and 18th centuries?",
+      "choices": [
+        "Sustained internal theological rigorism and growing state pressure both tested Rome's authority from different directions at once",
+        "The Church faced no internal or external challenges of any kind during this whole period",
+        "Every dispute in this period was purely a matter of state politics with no theological content whatsoever",
+        "Every dispute in this period was purely theological with no political dimension whatsoever"
+      ],
+      "correctAnswer": "Sustained internal theological rigorism and growing state pressure both tested Rome's authority from different directions at once",
+      "explanation": "Jansenism was a theological rigorism Rome had to condemn from within; Gallicanism and the Jesuit suppression were driven heavily by outside state pressure. Distinguishing the two kinds of challenge matters for judging how much of this history is properly doctrinal.",
+      "hint": "Ask which of these three came primarily from theology, and which came primarily from royal courts.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-009",
+      "topic": "church-history",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each 18th-century episode to what it actually concerned.",
+      "pairs": [
+        {
+          "left": "Unigenitus (1713)",
+          "right": "Condemning Jansenist propositions on grace"
+        },
+        {
+          "left": "The Gallican Articles (1682)",
+          "right": "A council's authority asserted over the Pope"
+        },
+        {
+          "left": "Suppression of the Jesuits (1773)",
+          "right": "Yielding to sustained pressure from European monarchies"
+        },
+        {
+          "left": "Restoration of the Jesuits (1814)",
+          "right": "Confirming the suppression had been political, not doctrinal"
+        }
+      ],
+      "explanation": "Two of these are the Church teaching from within; two are the Church responding to, and eventually outlasting, external political pressure -- a distinction worth carrying forward into the revolutionary upheaval the next level covers.",
+      "hint": "Two of these four are theological corrections; two are political events with a later reversal.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l17-010",
+      "topic": "church-history",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The kind of state pressure that forced the Jesuits' suppression in 1773 was about to intensify dramatically. What major political upheaval does the next level turn to?",
+      "choices": [
+        "The French Revolution and its direct, often violent assault on the Church in France",
+        "A complete and total end to any tension between Church and state anywhere in Europe",
+        "The permanent restoration of the Papal States to their largest historical extent",
+        "A second Council of Trent convened to address the same 16th-century controversies again"
+      ],
+      "correctAnswer": "The French Revolution and its direct, often violent assault on the Church in France",
+      "explanation": "The Bourbon monarchies that pressured Clement XIV against the Jesuits would themselves soon face a revolution that turned violently against the Church itself -- the next level's central subject, and a far more severe test of the same underlying question: who holds legitimate authority, and on what basis.",
+      "hint": "Consider what happens to the very monarchies that pressured the Jesuits' suppression, within a generation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-001",
+      "topic": "church-history",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "The French Revolution's 1790 Civil Constitution of the Clergy attempted what, which most French bishops and priests ultimately refused to accept?",
+      "choices": [
+        "Placing the French Church under state control, with bishops and priests elected by civil authorities rather than confirmed by Rome",
+        "Simply granting the French Church a somewhat greater degree of financial independence from the reigning state",
+        "Formally and fully restoring all Church property that had been seized by the crown in earlier centuries",
+        "Reuniting the entire French Church with the Church of England under one single unified structure"
+      ],
+      "correctAnswer": "Placing the French Church under state control, with bishops and priests elected by civil authorities rather than confirmed by Rome",
+      "explanation": "The Civil Constitution demanded clergy swear an oath to this new state-controlled structure; most refused, splitting French clergy into 'juring' and 'non-juring' priests and setting the Revolution directly against a Church it saw as a rival source of authority.",
+      "hint": "Ask who this document put in charge of appointing bishops and priests -- Rome, or the revolutionary state.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-002",
+      "topic": "church-history",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: During the Revolution's most radical phase, the Reign of Terror, thousands of priests and religious were imprisoned, exiled, or executed for refusing the new state-controlled Church structure.",
+      "correctAnswer": true,
+      "explanation": "True. Refusal to take the state's oath was treated as counter-revolutionary, and non-juring clergy faced imprisonment, exile, or execution -- a real, documented persecution, not a minor administrative dispute.",
+      "hint": "Consider what happened to clergy who refused the oath this level's first question described.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-003",
+      "topic": "church-history",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "In 1794, sixteen Discalced Carmelite nuns of Compiègne were guillotined for refusing to abandon their religious vows, going to their deaths singing the ____ -- a hymn of praise to God.",
+      "correctAnswer": "Salve Regina",
+      "acceptedAnswers": [
+        "Salve Regina",
+        "Te Deum"
+      ],
+      "explanation": "Their calm witness -- singing rather than pleading -- became one of the most vivid remembered images of this whole period's persecution, later inspiring the opera Dialogues of the Carmelites.",
+      "hint": "A traditional Marian hymn, sung by these nuns even as they faced execution.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-004",
+      "topic": "church-history",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "In 1801, Napoleon Bonaparte negotiated a Concordat with the papacy that did what?",
+      "choices": [
+        "Formally reconciled the French state and the Catholic Church, restoring public Catholic worship in France after a decade of persecution",
+        "Permanently and completely abolished the Catholic Church throughout the whole of the French nation",
+        "Permanently and completely abolished the practice of the Catholic Church throughout the whole of the French nation entirely",
+        "United the entire French Church with the German-speaking Church under a single presiding bishop"
+      ],
+      "correctAnswer": "Formally reconciled the French state and the Catholic Church, restoring public Catholic worship in France after a decade of persecution",
+      "explanation": "Napoleon, seeking stability rather than religious conviction, negotiated a formal reconciliation that ended the worst of the Revolution's anti-Church persecution -- though he also retained significant state control over Church appointments, keeping real tension alive underneath the formal peace.",
+      "hint": "This agreement ends open persecution, though it does not remove every tension between Paris and Rome.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-005",
+      "topic": "church-history",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Napoleon's 1801 Concordat, though it ended open persecution, still gave the French state real ongoing influence over the Church's affairs.",
+      "correctAnswer": true,
+      "explanation": "True. Napoleon retained the right to nominate bishops for papal confirmation and kept clergy on the state payroll -- a real, ongoing state entanglement, not a full and clean return to the Church's pre-Revolutionary independence.",
+      "hint": "Consider whether Napoleon fully gave up state control over Church appointments, or only partially.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-006",
+      "topic": "church-history",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each event of this level to what it involved.",
+      "pairs": [
+        {
+          "left": "The Civil Constitution of the Clergy (1790)",
+          "right": "Placed the French Church under direct state control"
+        },
+        {
+          "left": "The Reign of Terror",
+          "right": "Imprisonment, exile, and execution of non-juring clergy"
+        },
+        {
+          "left": "The Carmelites of Compiègne",
+          "right": "Sixteen nuns guillotined for refusing to abandon their vows"
+        },
+        {
+          "left": "Napoleon's Concordat (1801)",
+          "right": "Restored public Catholic worship while keeping real state influence"
+        }
+      ],
+      "explanation": "This level follows one continuous arc: state seizure of Church authority, active persecution, real martyrdom, and an imperfect political peace -- not a single clean event but an escalation and partial resolution across roughly a decade.",
+      "hint": "Follow the arc in order: state control claimed, then persecution, then witness, then partial peace.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-007",
+      "topic": "church-history",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: After Napoleon's fall, the Congress of Vienna (1815) restored much of Europe's older political order, including the Papal States' territory in Italy.",
+      "correctAnswer": true,
+      "explanation": "True. The Vienna settlement rolled back many of the Revolution's and Napoleon's changes, restoring the Papal States and much of the old European order -- though the ideas the Revolution had unleashed, nationalism and liberalism among them, did not simply disappear with a treaty.",
+      "hint": "This settlement comes after Napoleon's final defeat, and deliberately looks backward toward the pre-Revolutionary order.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-008",
+      "topic": "church-history",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Did the political restoration after 1815 fully resolve the tensions the Revolution had exposed between the Church and the modern liberal state?",
+      "choices": [
+        "No -- restoring old borders did not undo the new liberal and nationalist ideas the Revolution had spread, which kept challenging the Church's position for decades afterward",
+        "Yes -- the 1815 restoration completely and permanently ended any and all tension between the Church and liberal or nationalist movements everywhere",
+        "Yes, but only because liberalism and nationalism as movements had already fully disappeared on their own by 1815",
+        "No -- but only because the Congress of Vienna actually abolished the Papal States outright rather than restoring them"
+      ],
+      "correctAnswer": "No -- restoring old borders did not undo the new liberal and nationalist ideas the Revolution had spread, which kept challenging the Church's position for decades afterward",
+      "explanation": "A map can be redrawn faster than ideas can be unlearned -- the liberal and nationalist movements the Revolution helped unleash kept pressing against the Church's traditional position throughout the 19th century, which is exactly where the next level picks up.",
+      "hint": "Distinguish what a treaty can restore (borders, thrones) from what it cannot simply undo (ideas already spread).",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-009",
+      "topic": "church-history",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "The Revolution's central claim -- that legitimate authority flows upward from the people's own will rather than downward from God -- placed it in direct tension with the Church's own teaching on the true source of all legitimate ____.",
+      "correctAnswer": "authority",
+      "acceptedAnswers": [
+        "authority"
+      ],
+      "explanation": "This is the deepest question underneath every event in this level: where does legitimate authority actually come from? The Revolution answered one way; the Church, across the disputes this whole topic has already traced -- from Peter's own authority in level 1 to Gallicanism in level 17 -- has consistently answered another.",
+      "hint": "The thing the Revolution claimed came from the people, which the Church teaches ultimately comes from God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l18-010",
+      "topic": "church-history",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Given the unresolved tension this level ends on, what does the next level turn to directly?",
+      "choices": [
+        "Pope Pius IX's confrontation with 19th-century liberalism in the Syllabus of Errors, and the First Vatican Council's teaching on papal authority",
+        "A complete and final resolution of every single Church-state tension, reached immediately and permanently after 1815",
+        "A simple return to exactly the same disputes already fully covered back in level 8's account of Nicaea",
+        "An entirely unrelated subject bearing no real connection at all to this level's central question"
+      ],
+      "correctAnswer": "Pope Pius IX's confrontation with 19th-century liberalism in the Syllabus of Errors, and the First Vatican Council's teaching on papal authority",
+      "explanation": "The question this level ends on -- where does legitimate authority actually come from -- is exactly what the next level's pope takes up directly, in a Church still working out its relationship to the modern state the Revolution had helped create.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    }
+  ]
+}
