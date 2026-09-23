@@ -256,7 +256,24 @@ than a separate thematic detour. This would take the existing 10 levels'
 *content* and re-sequence it by era, the same move Church History's L1-L10
 went through, rather than inventing new saints to research.
 
-**Not yet started pending that confirmation** -- authoring would otherwise
-have to guess at an organizing principle for 12 more topics with no
-established precedent, which is exactly the kind of call this file says
-should be reviewed before, not after.
+**Decided by Andrew, Sep 23, 2026:** chronological where a topic actually has
+one; where it doesn't (prayer named explicitly as the clear case), fall back
+to the *other* organizing principle this whole project has been about from
+the start -- a real pedagogical progression, school-age understanding at
+level 1 building step by step to genuinely complex material at the top, never
+a plateau or a jump. "Building on a strong foundation is critical" -- his own
+words, and the standard every remaining topic's syllabus gets held to,
+chronological or not.
+
+Per-topic axis, decided under that standard:
+- **Chronological**: saints (by era, as proposed above), councils (already
+  session-ordered), heresies (already roughly era-ordered), our-lady (through
+  her own life, then apparitions/devotion history).
+- **Conceptual/pedagogical** (school-age -> complex, term-before-use,
+  simple-doctrine-before-its-nuance): dogmas-and-doctrine, metaphysics,
+  liturgy-and-mass, sacred-scripture, prayer, virtues-and-vices, church-latin.
+- **Scenario-difficulty** (already the right shape, just needs re-seeding and
+  possibly reordering scenarios easiest-to-hardest): apologetics,
+  answering-objections.
+
+Authoring proceeds topic by topic under this standard. Saints goes next.
