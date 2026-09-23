@@ -1,0 +1,674 @@
+{
+  "_comment": "DRAFT -- NOT live. Church History levels 10-12 of 23: all three are new, filling real content holes the original bank had (0 Crusades questions, 0 Charlemagne questions, 1 East-West Schism question). Level 10: Charlemagne, Alcuin, the Carolingian Renaissance. Level 11: the 1054 Great Schism, drawing on the reviewed councils topic's East-West material. Level 12: the Crusades (with documented context, not apologetics or whitewash), medieval universities, and the mendicant orders (Francis, Dominic). CCC 247/159/2317/2684, council citations (Nicaea II, Florence, Vatican II), and Matthew 19:21/22:21 are already-reviewed citations reused here; other Scripture references are new and flagged by onramp_tool.py check.",
+  "topic": "church-history",
+  "questions": [
+    {
+      "id": "church-history-l10-001",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "On Christmas Day in the year 800, Pope Leo III crowned the Frankish king Charlemagne with what title?",
+      "choices": [
+        "Emperor of the Romans",
+        "King of the Franks alone, with no imperial title",
+        "Patriarch of the West",
+        "Duke of Aachen"
+      ],
+      "correctAnswer": "Emperor of the Romans",
+      "explanation": "Charlemagne already ruled as King of the Franks; the papal coronation added an imperial title revived in the West for the first time since the western Roman Empire's fall centuries earlier -- and it bound the Frankish crown and the papacy together in a new, sometimes tense relationship.",
+      "hint": "This title deliberately revives the memory of the old, fallen western Roman Empire.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-002",
+      "topic": "church-history",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Charlemagne's coronation by the Pope created a partnership between crown and Church, not a simple subordination of one to the other.",
+      "correctAnswer": true,
+      "explanation": "True, and the tension in that partnership -- who ultimately holds authority when crown and papacy disagree -- becomes a recurring theme across the medieval centuries this level opens, not something settled once and for all at Charlemagne's coronation.",
+      "hint": "Consider whether this relationship stayed a source of tension in the centuries that followed.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 22:21",
+          "quote": "Then repay to Caesar what belongs to Caesar and to God what belongs to God."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-003",
+      "topic": "church-history",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "Charlemagne sponsored a revival of learning, manuscript copying, and education across his empire, remembered by historians as the Carolingian ____.",
+      "correctAnswer": "Renaissance",
+      "acceptedAnswers": [
+        "Renaissance"
+      ],
+      "explanation": "This deliberate revival built directly on the monastic scriptoria of level 9 -- Charlemagne's court actively recruited scholars and funded the copying of texts that had been quietly preserved through the centuries since Rome's fall.",
+      "hint": "The same word later used for the much larger cultural revival of the 15th century.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-004",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Alcuin of York, a scholar invited to Charlemagne's court, is remembered chiefly for what contribution?",
+      "choices": [
+        "Leading the revival of learning and education across Charlemagne's empire",
+        "Leading a military campaign against the Byzantine Empire",
+        "Translating the Bible into the Frankish vernacular for the first time",
+        "Founding the first medieval university at Paris"
+      ],
+      "correctAnswer": "Leading the revival of learning and education across Charlemagne's empire",
+      "explanation": "Alcuin, an English monk and scholar, became the intellectual center of Charlemagne's court, organizing schools and standardizing texts -- the human engine behind the Carolingian Renaissance this level has just named.",
+      "hint": "He is the human engine behind the revival of learning just described in this level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-005",
+      "topic": "church-history",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each term or figure from Charlemagne's reign to what it involved.",
+      "pairs": [
+        {
+          "left": "Charlemagne's coronation, 800 AD",
+          "right": "Revived an imperial title in the West, tied to the papacy"
+        },
+        {
+          "left": "Alcuin of York",
+          "right": "Led the revival of learning at Charlemagne's court"
+        },
+        {
+          "left": "Carolingian minuscule",
+          "right": "A clearer, more legible handwriting script developed for copying texts"
+        },
+        {
+          "left": "The Carolingian Renaissance",
+          "right": "A broad revival of education, learning, and manuscript copying"
+        }
+      ],
+      "explanation": "All four pieces of this level point the same direction: a deliberate, court-sponsored effort to recover and spread learning that had survived only precariously in scattered monasteries since Rome's fall.",
+      "hint": "One is a coronation, one is a person, one is a handwriting style, one is the whole movement they add up to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-006",
+      "topic": "church-history",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Carolingian minuscule, developed during this period, made manuscripts significantly easier to read and copy accurately.",
+      "correctAnswer": true,
+      "explanation": "True. This clearer, more standardized script -- distinguishing upper and lower case more consistently than earlier styles -- reduced copying errors and is part of why so many ancient texts survive today in legible form.",
+      "hint": "Think about what a clearer, more standardized handwriting style would do for a text passed hand to hand across many copyists.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-007",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "What happened to Charlemagne's empire after his death in 814?",
+      "choices": [
+        "It fractured among his heirs, contributing to centuries of political fragmentation in Western Europe",
+        "It remained fully and firmly unified under a single heir for the next two full centuries",
+        "It was immediately and completely absorbed into the rival Byzantine Empire",
+        "It dissolved entirely and abruptly, leaving behind no successor states of any kind"
+      ],
+      "correctAnswer": "It fractured among his heirs, contributing to centuries of political fragmentation in Western Europe",
+      "explanation": "The empire's division among Charlemagne's grandsons at the Treaty of Verdun (843) set the rough shape of what would later become France and Germany -- and left medieval Western Europe politically fragmented for centuries, a backdrop this topic's next several levels will keep returning to.",
+      "hint": "Consider what political shape Western Europe has for most of the rest of the medieval period this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-008",
+      "topic": "church-history",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "When Jesus was asked about paying taxes to Caesar, he answered: repay to Caesar what belongs to Caesar, and to ____ what belongs to God.",
+      "correctAnswer": "God",
+      "acceptedAnswers": [
+        "God"
+      ],
+      "explanation": "This principle -- a real distinction, and a real relationship, between civil authority and God's claim -- is exactly what Charlemagne's coronation puts into new practical tension: an emperor crowned by a pope, ruling a kingdom, under a King whose kingdom is not of this world.",
+      "hint": "The second half of Jesus' answer names the one whose claim is not Caesar's.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 22:21",
+          "quote": "Then repay to Caesar what belongs to Caesar and to God what belongs to God."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-009",
+      "topic": "church-history",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Charlemagne's imperial coronation permanently and cleanly settled every question about the relationship between royal and papal authority.",
+      "correctAnswer": false,
+      "explanation": "False. Far from settling the question, it opened it -- disputes over the relative authority of pope and emperor would recur throughout the medieval period, including in the East-West tensions the next level turns to and the investiture conflicts of later centuries.",
+      "hint": "Consider whether this same tension keeps reappearing across the rest of this topic's medieval levels.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2105"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l10-010",
+      "topic": "church-history",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "While Charlemagne's coronation strengthened ties between Rome and the Frankish West, what was happening, over these same centuries, to Rome's relationship with the Christian East?",
+      "choices": [
+        "It was gradually growing more distant, in language, custom, and authority, setting up the split the next level covers",
+        "It was growing rapidly closer and more fully unified with each passing decade of this period",
+        "It had already been fully and formally severed a full century earlier than this",
+        "The Christian East itself had already ceased to exist entirely by this period"
+      ],
+      "correctAnswer": "It was gradually growing more distant, in language, custom, and authority, setting up the split the next level covers",
+      "explanation": "Charlemagne's coronation itself was part of what strained relations with Constantinople -- crowning a Western emperor implicitly rivaled the existing Roman emperor still ruling from the East. The next level picks up exactly this gradual drift, tracing it to its formal rupture in 1054.",
+      "hint": "Consider how crowning a new 'Roman' emperor in the West might look from Constantinople, where a Roman emperor already reigned.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-001",
+      "topic": "church-history",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: The Great Schism of 1054 was primarily caused by a single theological dispute settled in one dramatic confrontation, with no earlier history of tension.",
+      "correctAnswer": false,
+      "explanation": "False. The mutual excommunications of 1054 were the culmination of centuries of gradually diverging practice, language, and authority between Rome and Constantinople -- the Filioque dispute was real, but it was not a sudden rupture out of nowhere. Reading it as one clean break misses the slow drift level 10 already began tracing.",
+      "hint": "Ask whether centuries of difference in language, custom, and authority preceded 1054, or appeared only that year.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-002",
+      "topic": "church-history",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "In 1054, what actually happened between Rome and Constantinople that is remembered as the Great Schism?",
+      "choices": [
+        "Papal legates and the Patriarch of Constantinople exchanged mutual excommunications",
+        "The Pope formally and permanently dissolved the Church in the East",
+        "The Byzantine Emperor expelled every Christian from Constantinople",
+        "The two sides signed a permanent treaty of full reunion"
+      ],
+      "correctAnswer": "Papal legates and the Patriarch of Constantinople exchanged mutual excommunications",
+      "explanation": "Papal legates placed a bull of excommunication on the altar of Hagia Sophia; the Patriarch responded in kind. Neither act by itself instantly created the full, lasting separation that followed -- but it formalized a rupture that centuries of gradual drift had already been building toward.",
+      "hint": "This is a formal, mutual act -- not a war, a treaty, or a unilateral expulsion.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-003",
+      "topic": "church-history",
+      "level": 11,
+      "type": "fill_blank",
+      "difficultyElo": 1660,
+      "prompt": "One real theological dispute behind the schism concerned the ____, a phrase added to the Latin Creed describing the Holy Spirit as proceeding from the Father and the Son.",
+      "correctAnswer": "Filioque",
+      "acceptedAnswers": [
+        "Filioque",
+        "filioque clause"
+      ],
+      "explanation": "The Eastern Church objected both to the theological claim and to the West's unilateral addition of a word to a creed formulated by an ecumenical council -- a dispute this whole topic has already prepared a learner to recognize, since it goes back to the Nicene Creed covered in level 8.",
+      "hint": "Latin for 'and the Son' -- the phrase added describing the Spirit's procession.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-004",
+      "topic": "church-history",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each event to its role in the long history of East-West relations.",
+      "pairs": [
+        {
+          "left": "Second Council of Nicaea (787)",
+          "right": "Restored the veneration of icons in the East"
+        },
+        {
+          "left": "The mutual excommunications of 1054",
+          "right": "The formal act remembered as the Great Schism"
+        },
+        {
+          "left": "Second Council of Lyon (1274)",
+          "right": "A brief, unsuccessful attempt to reunite East and West"
+        },
+        {
+          "left": "Council of Florence (1439)",
+          "right": "Another short-lived reunion, later repudiated in the East"
+        }
+      ],
+      "explanation": "Centuries of real, serious effort -- twice formalized in council -- still could not produce a lasting reunion between East and West, a sobering pattern this level asks a learner to actually sit with rather than skip past.",
+      "hint": "Two of these attempted reunion; one restored icons; one names the split itself.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-005",
+      "topic": "church-history",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: The mutual excommunications of 1054 between Rome and Constantinople were formally lifted in 1965 by Pope Paul VI and Patriarch Athenagoras.",
+      "correctAnswer": true,
+      "explanation": "True. The mutual anathemas were consigned to oblivion in a joint declaration during the closing period of the Second Vatican Council. Lifting them did not restore full communion -- the underlying theological differences remained -- but it removed a formal obstacle that had stood for nine centuries.",
+      "hint": "This gesture came during the final year of a twentieth-century ecumenical council covered later in this topic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-006",
+      "topic": "church-history",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What is the state of communion between the Catholic Church and the Eastern Orthodox Churches today, despite genuine efforts toward reunion?",
+      "choices": [
+        "Full, lasting communion has still not been restored, though relations have warmed considerably",
+        "Full communion was completely restored by the 1965 lifting of the mutual excommunications",
+        "The two communions have had no meaningful contact since 1054",
+        "The schism was fully healed at the Council of Florence in 1439"
+      ],
+      "correctAnswer": "Full, lasting communion has still not been restored, though relations have warmed considerably",
+      "explanation": "The Second Vatican Council renewed the Catholic Church's own commitment to seeking unity with the East, but the schism first formalized in 1054 remains -- an honest, unresolved wound this level does not pretend has already been healed.",
+      "hint": "Distinguish 'warmer relations' from 'restored communion' -- they are not the same thing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-007",
+      "topic": "church-history",
+      "level": 11,
+      "type": "fill_blank",
+      "difficultyElo": 1660,
+      "prompt": "The Council of Florence in 1439 produced a short-lived reunion between East and West that was later ____ in the East, showing how fragile these agreements proved.",
+      "correctAnswer": "repudiated",
+      "acceptedAnswers": [
+        "repudiated",
+        "rejected"
+      ],
+      "explanation": "Political pressure -- Constantinople's leaders sought Western military help against the advancing Ottoman Turks -- helped produce the Florence agreement, but it never gained real acceptance among Eastern clergy and laity once that pressure eased.",
+      "hint": "What happens to an agreement once the people it was meant to bind refuse to accept it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-008",
+      "topic": "church-history",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Language and cultural differences between the Latin-speaking West and Greek-speaking East played no real role in the growing estrangement that led to 1054.",
+      "correctAnswer": false,
+      "explanation": "False. By the eleventh century, most Western clergy could no longer read Greek and most Eastern clergy could no longer read Latin -- a practical barrier to genuine ongoing theological communication that compounded the real doctrinal disputes rather than standing apart from them.",
+      "hint": "Consider whether clergy on each side could still easily read the other side's own theological writing by this period.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-009",
+      "topic": "church-history",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given everything this level has shown -- centuries of drift, one formal rupture, two failed reunions, and a still-open wound today -- what is the most accurate summary of East-West relations across this whole history?",
+      "choices": [
+        "A slow estrangement, formalized once, that repeated sincere efforts have not yet been able to fully heal",
+        "A sudden, single event in 1054 that both sides immediately and permanently accepted as final",
+        "A dispute that was fully and completely resolved by the Second Vatican Council",
+        "A conflict with no real theological substance behind it at all"
+      ],
+      "correctAnswer": "A slow estrangement, formalized once, that repeated sincere efforts have not yet been able to fully heal",
+      "explanation": "This level's honesty matters: the Church does not pretend an unresolved wound is resolved. Holding that tension is itself part of what this topic is teaching -- not every chapter of Church history ends in tidy resolution.",
+      "hint": "Weigh 'gradual and still unresolved' against 'sudden and already settled.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l11-010",
+      "topic": "church-history",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Meanwhile, in the Latin West during these same centuries, what new kind of institution and new kind of religious movement were beginning to take shape?",
+      "choices": [
+        "The medieval university and the mendicant, preaching religious orders",
+        "The first Christian monasteries of any kind, appearing for the very first time",
+        "A complete rejection of all formal education and learning",
+        "The permanent abolition of all religious orders founded earlier"
+      ],
+      "correctAnswer": "The medieval university and the mendicant, preaching religious orders",
+      "explanation": "While East and West grew further apart, the Latin West was undergoing its own real transformation -- universities organizing higher learning and new orders like the Franciscans and Dominicans reshaping religious life, which the next level turns to directly.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-001",
+      "topic": "church-history",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "What documented context, beyond a simple claim of unprovoked aggression, preceded the First Crusade in 1095?",
+      "choices": [
+        "Centuries of prior territorial conquest and a direct appeal from the Byzantine Emperor for military help against Turkish advances",
+        "No prior context of any kind at all -- the Crusades simply began with no history behind them whatsoever",
+        "A centuries-old, mutually cordial, formal military alliance between Rome and the Turkish Sultanate",
+        "A single unanimous request from every bishop in the Christian East for total, unrestrained war"
+      ],
+      "correctAnswer": "Centuries of prior territorial conquest and a direct appeal from the Byzantine Emperor for military help against Turkish advances",
+      "explanation": "This real documented context does not by itself justify every action taken during the Crusades -- some of which, like the 1204 sack of Constantinople, the Church has itself acknowledged and apologized for -- but a flattened 'purely unprovoked' framing omits it entirely.",
+      "hint": "Consider who specifically asked for military help, and why.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2317",
+          "quote": "Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-002",
+      "topic": "church-history",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Church has never publicly acknowledged wrongdoing connected to events like the Crusades.",
+      "correctAnswer": false,
+      "explanation": "False. Pope St. John Paul II publicly asked forgiveness for sins committed by members of the Church throughout history at a 'Day of Pardon' liturgy during the Jubilee Year 2000 -- a real, documented act of public repentance, not silence or denial.",
+      "hint": "Consider a specific public liturgy held during the Jubilee Year 2000.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-003",
+      "topic": "church-history",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "What was the primary purpose of the medieval university, as institutions like Paris and Bologna developed during this same period?",
+      "choices": [
+        "To organize the systematic study of theology, law, medicine, and the arts under a structured curriculum with degrees",
+        "To train soldiers specifically and exclusively for military service in the ongoing Crusades",
+        "To replace monastic life entirely across the whole of Western Europe",
+        "To serve exclusively the sons of the reigning nobility and no one else"
+      ],
+      "correctAnswer": "To organize the systematic study of theology, law, medicine, and the arts under a structured curriculum with degrees",
+      "explanation": "The university is a medieval Christian invention, growing out of cathedral schools -- the degree structure, faculties, and much of the vocabulary of higher education today descend directly from this period.",
+      "hint": "Ask what institution still exists today, using much of the same vocabulary this period invented.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-004",
+      "topic": "church-history",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "St. Francis of Assisi founded a religious order built on radical poverty, later known as the Friars ____.",
+      "correctAnswer": "Minor",
+      "acceptedAnswers": [
+        "Minor",
+        "Minors"
+      ],
+      "explanation": "Francis's charism was a literal, radical embrace of poverty as gospel witness -- give away what you have and follow Christ -- taken up by a movement that spread with striking speed across thirteenth-century Europe.",
+      "hint": "Latin for 'lesser' or 'little' brothers -- the order's own official name.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-005",
+      "topic": "church-history",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: St. Dominic founded the Order of Preachers specifically to combat the Albigensian heresy through sound teaching and preaching.",
+      "correctAnswer": true,
+      "explanation": "True. Where Francis's charism answers attachment to possessions, Dominic's answers doctrinal confusion directly -- his order is literally named for the activity, the Order of Preachers, still called Dominicans today.",
+      "hint": "This founder's whole order is literally named for the activity his charism is fitted to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-006",
+      "topic": "church-history",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each 12th- and 13th-century development to what it involved.",
+      "pairs": [
+        {
+          "left": "The First Crusade (1095)",
+          "right": "Launched partly in response to Byzantine appeals and prior territorial loss"
+        },
+        {
+          "left": "The medieval university",
+          "right": "Organized theology, law, medicine, and the arts under a formal degree system"
+        },
+        {
+          "left": "St. Francis of Assisi",
+          "right": "Founded the Friars Minor on radical poverty"
+        },
+        {
+          "left": "St. Dominic",
+          "right": "Founded the Order of Preachers to answer doctrinal confusion"
+        }
+      ],
+      "explanation": "This level holds two very different stories side by side on purpose -- real violence with real documented context on one hand, and a genuine flowering of learning and new religious life on the other. Both are honestly part of the same century.",
+      "hint": "Two of these are about the Crusades and universities; two are about new religious orders.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2317",
+          "quote": "Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars."
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-007",
+      "topic": "church-history",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "What term describes religious orders like the Franciscans and Dominicans, who -- unlike earlier monks bound to one monastery -- traveled and ministered among the wider population?",
+      "choices": [
+        "Mendicant orders",
+        "Cloistered orders",
+        "Military orders",
+        "Contemplative-only orders"
+      ],
+      "correctAnswer": "Mendicant orders",
+      "explanation": "'Mendicant' comes from the Latin for 'begging' -- these friars owned little to nothing personally and depended on alms, freeing them to travel and preach in the growing medieval towns and the new universities alike, rather than remaining fixed in one monastery like earlier Benedictine monasticism.",
+      "hint": "The word comes from the Latin for 'begging.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 19:21",
+          "quote": "Jesus said to him, 'If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.'"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-008",
+      "topic": "church-history",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The rise of universities and mendicant orders in this period were entirely unrelated developments with no real connection to each other.",
+      "correctAnswer": false,
+      "explanation": "False. Dominicans and Franciscans became deeply involved in the new universities themselves, teaching and studying there -- the two developments this level covers actually reinforced each other, not two unrelated stories placed side by side by coincidence.",
+      "hint": "Consider where friars like Dominicans actually went on to teach.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-009",
+      "topic": "church-history",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The Church's own 2000 Jubilee Year 'Day of Pardon' liturgy shows that acknowledging real historical wrongs and genuinely teaching the ____ are not in tension with each other.",
+      "correctAnswer": "faith",
+      "acceptedAnswers": [
+        "faith"
+      ],
+      "explanation": "Honest engagement with a complicated history -- neither an uncritical defense nor a flattened accusation -- is itself part of what this level, and this whole topic, is modeling for a learner.",
+      "hint": "The thing this whole app exists to teach, which honest history does not actually threaten.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "church-history-l12-010",
+      "topic": "church-history",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Given the mendicant orders' deep involvement in the new universities this level has described, what kind of intellectual synthesis does the next level explore?",
+      "choices": [
+        "Scholasticism -- the disciplined use of reason to explore and defend the faith, most famously in St. Thomas Aquinas",
+        "A total and complete rejection of reason itself in favor of pure, unreflective faith alone",
+        "A complete and deliberate break from every single prior Church Father's own teaching",
+        "A synthesis with no meaningful connection at all to the universities just described here"
+      ],
+      "correctAnswer": "Scholasticism -- the disciplined use of reason to explore and defend the faith, most famously in St. Thomas Aquinas",
+      "explanation": "Aquinas himself was a Dominican, formed by exactly the combination this level has traced -- mendicant order and university -- and his work becomes the next level's whole subject.",
+      "hint": "Consider what order the next level's central theologian actually belonged to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    }
+  ]
+}
