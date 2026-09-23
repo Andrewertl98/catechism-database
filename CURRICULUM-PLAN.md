@@ -514,8 +514,59 @@ or extending its real content rather than repeating it.
 | 22 | Capstone: 1 Peter 3:15, gentleness and respect, tying this whole topic together `[L10]` | 21 |
 | 23 | Capstone: apologetics as a real act of love, not conquest `[NEW]` | 22 |
 
-Apologetics goes next, since it is hard-gated and its live bank is
-already the most mature and well-sequenced of any remaining topic.
+**Done, Sep 23, 2026: Apologetics (23 levels), following Church History,
+the Old Testament, Saints, Councils, Heresies, Dogmas-and-doctrine, and
+Metaphysics.** Drafted, verified, committed. Kept the already-mature
+live bank's own real order intact, adding three new gentler
+foundational levels and a new bridging level after each old level that
+deepens or extends its content, closing with a new capstone naming
+apologetics as a real act of love, not conquest.
+
+---
+
+## Worked example -- Liturgy-and-mass, 23 levels (N=10 -> 2*10+3=23)
+
+Liturgy-and-mass has a real, natural order already -- the Mass's own
+actual sequence (basic structure -> Liturgy of the Word -> Liturgy of
+the Eucharist), followed by the liturgical year, the sacraments,
+precise Eucharistic-Prayer and canonical vocabulary, real objections,
+and a comparative Eastern/Western depth arc closing in ressourcement
+and a real capstone. This live bank is already unusually well
+sequenced; the journey below keeps that real order fully intact, adding
+three new gentler foundational levels (what liturgy even is, the Mass
+as "source and summit" in simple first terms, a newcomer's own real
+walk-through) below the current floor, and a new bridging level after
+each old level, deepening its content rather than repeating it.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is liturgy? Why the Church worships through set, communal ritual `[NEW]` | nothing assumed |
+| 2 | The Mass as "source and summit" -- a simple first look `[NEW]` | 1 |
+| 3 | Walking into Mass for the first time -- what a newcomer actually sees `[NEW]` | 2 |
+| 4 | Basic vocabulary and structure of the Mass `[L1]` | 3 |
+| 5 | Why the Mass has two main parts, more deeply considered `[NEW bridging]` | 4 |
+| 6 | The Liturgy of the Word `[L2]` | 5 |
+| 7 | Why Scripture is proclaimed, not merely read privately, at Mass `[NEW bridging]` | 6 |
+| 8 | The Liturgy of the Eucharist `[L3]` | 7 |
+| 9 | Transubstantiation, more deeply considered -- what changes and what does not `[NEW bridging]` | 8 |
+| 10 | The liturgical year `[L4]` | 9 |
+| 11 | Why the Church needs a whole year, not only a weekly Mass, to tell the story `[NEW bridging]` | 10 |
+| 12 | The seven sacraments, grouped and explained `[L5]` | 11 |
+| 13 | How the other six sacraments actually relate back to the Mass itself `[NEW bridging]` | 12 |
+| 14 | Precise Eucharistic Prayer and canonical vocabulary `[L6]` | 13 |
+| 15 | Why this precision actually matters pastorally, not just academically `[NEW bridging]` | 14 |
+| 16 | Real objections to the Mass, answered `[L7]` | 15 |
+| 17 | A further real objection to the Mass, answered `[NEW bridging]` | 16 |
+| 18 | Comparative depth -- the Roman Rite and the Byzantine Divine Liturgy `[L8]` | 17 |
+| 19 | What this comparison teaches about liturgy's own real unity in diversity `[NEW bridging]` | 18 |
+| 20 | Eastern Catholic Churches and the ressourcement principle `[L9]` | 19 |
+| 21 | Applying ressourcement to one's own real understanding of the Mass `[NEW bridging]` | 20 |
+| 22 | Capstone: everything this topic has built, resolved `[L10]` | 21 |
+| 23 | Capstone: the Mass as heaven touching earth `[NEW]` | 22 |
+
+Liturgy-and-mass goes next, since its live bank is already close to a
+real, natural order and needs the least invention of any remaining
+topic.
 
 ---
 
