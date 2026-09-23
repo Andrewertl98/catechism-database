@@ -1,0 +1,692 @@
+{
+  "_comment": "Sacred-scripture levels 4-6: canon/inspiration/inerrancy, inerrancy deepened, Old Testament genres",
+  "topic": "sacred-scripture",
+  "questions": [
+    {
+      "id": "sacred-scripture-l4-001",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "How many books make up the Catholic canon of Scripture in total?",
+      "choices": [
+        "73",
+        "66",
+        "27",
+        "46"
+      ],
+      "correctAnswer": "73",
+      "explanation": "The Catholic canon includes 46 books of the Old Testament and 27 of the New Testament, for a total of 73 -- discerned by the Church through apostolic Tradition.",
+      "hint": "It's 46 Old Testament books plus 27 New Testament books.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120",
+          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books. This complete list is called the canon of Scripture."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-002",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Catechism teaches that Christians read the Old Testament in the light of what event?",
+      "choices": [
+        "Christ crucified and risen",
+        "The fall of Jerusalem",
+        "The Babylonian exile alone",
+        "The building of the Temple"
+      ],
+      "correctAnswer": "Christ crucified and risen",
+      "explanation": "CCC 129 teaches that 'Christians therefore read the Old Testament in the light of Christ crucified and risen' -- the whole of Scripture, Old and New, is read as one unified story fulfilled in Christ.",
+      "hint": "This is the central event of the New Testament, read back into the whole story.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 129",
+          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-003",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "'In the beginning was the Word, and the Word was with God, and the Word was God' opens which book of the New Testament?",
+      "choices": [
+        "The Gospel of John",
+        "The Gospel of Matthew",
+        "The Book of Revelation",
+        "The Letter to the Hebrews"
+      ],
+      "correctAnswer": "The Gospel of John",
+      "explanation": "John 1:1 opens the Fourth Gospel with a profound statement of Christ's eternal divinity as the Word (Logos) who was with God and was God, later 'made flesh' in the Incarnation.",
+      "hint": "This Gospel's opening deliberately echoes the very first words of Genesis.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:1",
+          "quote": "In the beginning was the Word, and the Word was with God, and the Word was God."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-004",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Bible is best described as:",
+      "choices": [
+        "A library of many books, written by different human authors over centuries, with God as their ultimate author",
+        "A single book, written by one author in one sitting",
+        "A collection of myths with no historical value",
+        "A book written entirely in the last 200 years"
+      ],
+      "correctAnswer": "A library of many books, written by different human authors over centuries, with God as their ultimate author",
+      "explanation": "God inspired the human authors of Scripture, who wrote in their own words, times, and literary forms -- true human authors, and yet God himself is the Bible's ultimate author.",
+      "hint": "Two authors are involved at once: many human ones, and one divine one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 105",
+          "quote": "God is the author of Sacred Scripture... The divinely revealed realities... have been written down under the inspiration of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-005",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Bible was written by a single author, across a single generation.",
+      "correctAnswer": false,
+      "explanation": "Scripture was composed by many human authors across roughly a thousand years, in different languages and literary forms -- yet it holds together as one unified word, since God inspired all of it.",
+      "hint": "Think of how many different named authors' names appear across the Bible's books.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 105",
+          "quote": "God is the author of Sacred Scripture... The divinely revealed realities... have been written down under the inspiration of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-006",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The Bible is divided into two main parts: the Old Testament and the ____ Testament.",
+      "correctAnswer": "New",
+      "explanation": "The Old Testament records God's covenant with Israel before Christ; the New Testament records Christ's life and the apostolic Church founded on him.",
+      "hint": "It's the counterpart to 'Old.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120",
+          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books. This complete list is called the canon of Scripture."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-007",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "What does the Catechism teach about the human authors of Scripture?",
+      "choices": [
+        "God chose them and employed them as true authors, using their own faculties and powers, while he himself remains the book's principal author",
+        "They were mere secretaries with no real authorial role of their own",
+        "They wrote independently of any divine involvement",
+        "Their individual personalities and styles are absent from the text"
+      ],
+      "correctAnswer": "God chose them and employed them as true authors, using their own faculties and powers, while he himself remains the book's principal author",
+      "explanation": "Inspiration does not erase the human author's mind, style, or historical situation; it works through them. This is why Paul's letters sound like Paul and the Psalms carry real human anguish and joy, even while the whole is genuinely God's own word.",
+      "hint": "Ask whether inspiration bypasses the human writer or works through him.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 106"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-008",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Catechism teaches that God is the author of both Testaments.",
+      "correctAnswer": true,
+      "explanation": "True, and it matters against a lingering assumption that the Old Testament is somehow a lesser or superseded text. Both Testaments have God as their author and both retain permanent value, even though the Old is read in light of the New's fulfillment of it.",
+      "hint": "Ask whether authorship of Scripture is divided between the Testaments or shared across both.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 121"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-009",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "What does 'inerrancy' mean as the Church actually teaches it?",
+      "choices": [
+        "Scripture teaches, without error, the truth God wanted put into it for the sake of our salvation",
+        "Every sentence in the Bible is a precise scientific or historical claim",
+        "The Bible contains no figurative or poetic language whatsoever",
+        "Inerrancy applies only to the New Testament"
+      ],
+      "correctAnswer": "Scripture teaches, without error, the truth God wanted put into it for the sake of our salvation",
+      "explanation": "Dei Verbum's own careful wording is that Scripture teaches without error the truth for the sake of salvation \u2014 a claim about the saving truth God intended, not a blanket claim that every incidental detail is a modern scientific report.",
+      "hint": "The Church's own document qualifies exactly what the 'without error' claim is about.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l4-010",
+      "topic": "sacred-scripture",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each basic term about Scripture to what it actually claims.",
+      "pairs": [
+        {
+          "left": "Inspiration",
+          "right": "God as principal author, working through real human authors"
+        },
+        {
+          "left": "Inerrancy",
+          "right": "Scripture teaches without error the truth for our salvation"
+        },
+        {
+          "left": "Canon",
+          "right": "The complete, authoritative list of the Bible's books"
+        },
+        {
+          "left": "Old and New Testament",
+          "right": "Both authored by God, read together, neither superseding the other's authorship"
+        }
+      ],
+      "explanation": "Each of these terms is regularly overstated or understated in casual conversation. Precision here is what lets someone answer 'doesn't the Bible have errors' without either dodging the question or conceding more than the Church actually claims.",
+      "hint": "One concerns authorship, one concerns truthfulness, one concerns the list of books, one concerns both Testaments together.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 106"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-001",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The previous level named inerrancy as covering the real, saving truth God wanted communicated. A skeptic then says: 'The Bible describes the sky using ancient, pre-scientific cosmology -- doesn't that disprove inerrancy?' What is the real, precise answer?",
+      "choices": [
+        "No -- inerrancy covers the real, saving truth, not scientific cosmology; the human authors used ordinary language of their own time and place",
+        "Yes -- the objection is correct, and this real detail does disprove inerrancy as the Church actually teaches it",
+        "No -- because the Bible actually does contain a precise, technically accurate modern cosmology throughout",
+        "Yes -- but the Church has simply chosen to ignore this real problem rather than address it"
+      ],
+      "correctAnswer": "No -- inerrancy covers the real, saving truth, not scientific cosmology; the human authors used ordinary language of their own time and place",
+      "explanation": "This is exactly the precise, real distinction the previous level already established -- inerrancy covers the real, saving truth God wanted communicated, not a scientifically precise cosmology. The human authors' real, ordinary, everyday language reflects their own real time and place, without this touching the actual saving truth being taught.",
+      "hint": "Recall the previous level's own real, precise definition of what inerrancy actually covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-002",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The Church holds that every single incidental, scientific-sounding detail in Scripture must be read as a precise, literal, modern scientific claim.",
+      "correctAnswer": false,
+      "explanation": "False, and this is exactly the real distinction this level's own opening question already answered -- inerrancy covers the real, saving truth, not every incidental scientific-sounding detail read as a precise, modern claim.",
+      "hint": "Recall this level's own opening real answer about ancient cosmology and inerrancy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-003",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "How does this level's own real distinction connect to this app's own Apologetics topic's earlier teaching on science's own real methodological limits versus genuine truth claims?",
+      "choices": [
+        "The same discipline in reverse -- ancient cosmological language doesn't mean the saving truth itself is false",
+        "It actually has no real connection to that earlier real teaching at all",
+        "It proves that Scripture and modern science are always in real, direct competition with one another",
+        "It shows this level's own real distinction is unique to Scripture, appearing nowhere else in this app"
+      ],
+      "correctAnswer": "The same discipline in reverse -- ancient cosmological language doesn't mean the saving truth itself is false",
+      "explanation": "This is a real, direct application of the same underlying real discipline this app's own Apologetics topic already taught -- distinguishing a real, narrower claim (ancient cosmological language) from a stronger, unstated claim (the saving truth itself is false) that does not actually follow from it.",
+      "hint": "Recall this app's own Apologetics topic's level distinguishing a method's own real limits from a genuine truth claim.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-004",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: This level's own real distinction means the Church treats every real historical claim in Scripture as equally uncertain or symbolic.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, careful distinction matters -- distinguishing incidental, ancient cosmological or scientific language from Scripture's own real, saving truth does not mean treating every real historical claim as equally uncertain; each real genre and passage is judged on its own actual, real terms.",
+      "hint": "Consider whether this level's own real, narrow distinction about ancient cosmology actually extends to every possible historical claim in Scripture.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-005",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "A student asks: 'If inerrancy doesn't cover every incidental detail, how do we actually know which parts are the real, saving truth and which are merely incidental?' What is the real, honest answer this level offers?",
+      "choices": [
+        "It depends on attending to each passage's own real genre and authorial intention -- a skill developed later in this topic",
+        "There is actually no real, principled way to make this distinction at all",
+        "Every reader should simply decide this question according to their own private, arbitrary preference",
+        "This question has no real, honest answer, and inerrancy should therefore simply be abandoned"
+      ],
+      "correctAnswer": "It depends on attending to each passage's own real genre and authorial intention -- a skill developed later in this topic",
+      "explanation": "This is a real, honest answer that also sets up this topic's own real journey ahead -- discerning genre and authorial intention is a real, further skill, not yet fully developed at this level, but one this topic's own later levels on genre and interpretation will take up directly.",
+      "hint": "Consider what real, further tools this topic's own later levels on genre and interpretation will actually supply.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-006",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: This level's own real, honest admission -- that discerning genre requires further real skill -- will actually be developed in this topic's own later levels.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this directly matters -- this level's own real, honest admission is not a dead end; it points forward to real tools this topic's own later levels on genre and the senses of Scripture will actually supply.",
+      "hint": "Recall this level's own real answer to the student's own question about discerning incidental detail from saving truth.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-007",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each fact about inerrancy, deepened, to what it actually means.",
+      "pairs": [
+        {
+          "left": "Ancient cosmological language",
+          "right": "Reflects the human authors' own real time and place, not a scientific claim"
+        },
+        {
+          "left": "Why this doesn't disprove inerrancy",
+          "right": "Inerrancy covers the real, saving truth, not every incidental detail"
+        },
+        {
+          "left": "Connection to Apologetics' real teaching",
+          "right": "The same discipline -- a narrower real claim does not disprove a stronger, unrelated one"
+        },
+        {
+          "left": "Discerning saving truth from incidental detail",
+          "right": "Requires real attention to genre and authorial intention, developed later in this topic"
+        }
+      ],
+      "explanation": "These four facts together deepen the previous level's own basic teaching, showing exactly how inerrancy actually works and what real, further skill it depends on.",
+      "hint": "Two rows explain the real distinction itself; two connect it to this app's own other real content and this topic's own future.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-008",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Having now deepened inerrancy, this topic's next level turns to the Old Testament's own real genres -- Torah, prophets, and wisdom.",
+      "correctAnswer": true,
+      "explanation": "True. Having deepened inerrancy and named genre as a real, further skill still needed, this topic's next level turns directly to the Old Testament's own real genres.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-009",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What real, general habit has this level added to the previous level's own real teaching on inerrancy?",
+      "choices": [
+        "Applying inerrancy's own precise real definition to a genuinely hard, real, common objection, rather than leaving the definition purely abstract",
+        "Assuming inerrancy has no real, practical application to any actual, common objection",
+        "Abandoning the previous level's own real, precise definition of inerrancy",
+        "Treating every real, incidental detail in Scripture as equally uncertain, with no real, principled distinction possible"
+      ],
+      "correctAnswer": "Applying inerrancy's own precise real definition to a genuinely hard, real, common objection, rather than leaving the definition purely abstract",
+      "explanation": "This level's own real contribution takes the previous level's abstract, real definition and applies it directly to a genuinely common, real objection -- exactly the kind of real, practical depth this topic's later levels will keep adding.",
+      "hint": "Consider what this level actually did with the previous level's own real definition of inerrancy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l5-010",
+      "topic": "sacred-scripture",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Given this level's picture of inerrancy, more deeply considered, what does the next level in this topic turn to?",
+      "choices": [
+        "The Old Testament's own real genres -- Torah, prophets, wisdom",
+        "A complete repeat of this same level's material about inerrancy",
+        "A jump ahead to precise textual-criticism vocabulary, skipping over everything in between",
+        "A subject entirely unrelated to Scripture or its own real interpretation"
+      ],
+      "correctAnswer": "The Old Testament's own real genres -- Torah, prophets, wisdom",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from inerrancy's own precise definition to the real genres that actually help discern how each passage's own real truth is being communicated.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 107"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-001",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The first five books of the Old Testament -- Genesis, Exodus, Leviticus, Numbers, and Deuteronomy -- are together called the:",
+      "choices": [
+        "Torah (or Pentateuch)",
+        "Wisdom Literature",
+        "Minor Prophets",
+        "Historical Books"
+      ],
+      "correctAnswer": "Torah (or Pentateuch)",
+      "explanation": "'Pentateuch' comes from Greek for 'five scrolls'; 'Torah' is the Hebrew term, meaning 'instruction' or 'law' -- together these five books form the foundation of the whole Old Testament.",
+      "hint": "'Penta-' is the Greek prefix for 'five.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120",
+          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books. This complete list is called the canon of Scripture."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-002",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Book of Genesis contains two distinct creation accounts.",
+      "correctAnswer": true,
+      "explanation": "Genesis opens with two complementary accounts of creation -- the six-day account in chapter 1, and a second account beginning in chapter 2 that focuses on the creation of man and woman.",
+      "hint": "Look closely at chapters 1 and 2 -- the story of creation is told a second time, from a different angle.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 2:4",
+          "quote": "This is the story of the heavens and the earth at their creation. When the LORD God made the earth and the heavens"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-003",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "God's covenant with Israel at Mount Sinai included the ____ Commandments, given to Moses.",
+      "correctAnswer": "Ten",
+      "explanation": "The Ten Commandments, given at Sinai, form the heart of the Old Covenant's moral law -- a law the Catechism treats as still binding in its substance under the New Covenant.",
+      "hint": "It's the same number of Commandments taught in every catechism class.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-004",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The 'Major Prophets' of the Old Testament include Isaiah, Jeremiah, Ezekiel, and:",
+      "choices": [
+        "Daniel",
+        "Amos",
+        "Hosea",
+        "Malachi"
+      ],
+      "correctAnswer": "Daniel",
+      "explanation": "The 'Major' and 'Minor' Prophets are distinguished by the length of their books, not by their relative importance -- Amos, Hosea, and Malachi belong instead to the twelve 'Minor Prophets.'",
+      "hint": "'Major' here is about book length, not spiritual importance.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 64",
+          "quote": "Through the prophets, God forms his people in the hope of salvation, in the expectation of a new and everlasting Covenant intended for all, to be written on their hearts."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-005",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The prophets' central message was primarily to predict specific future events centuries in advance, with little concern for calling Israel back to covenant faithfulness in their own time.",
+      "correctAnswer": false,
+      "explanation": "The prophets primarily called Israel to repentance and covenant fidelity in their own historical moment -- messianic hope for the future is part of their message, but not its whole focus.",
+      "hint": "Prophets were, first of all, preachers to their own generation, not just fortune-tellers for the future.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1430",
+          "quote": "Jesus' call to conversion and penance, like that of the prophets before him, does not aim first at outward works... but at the conversion of the heart, interior conversion."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-006",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each term to its meaning.",
+      "pairs": [
+        {
+          "left": "Torah / Pentateuch",
+          "right": "The first five books of the Bible"
+        },
+        {
+          "left": "Major Prophets",
+          "right": "Isaiah, Jeremiah, Ezekiel, Daniel"
+        },
+        {
+          "left": "Covenant",
+          "right": "A sacred bond God establishes with his people"
+        },
+        {
+          "left": "Exodus",
+          "right": "Israel's deliverance from slavery in Egypt"
+        }
+      ],
+      "explanation": "These four terms cover the backbone of Old Testament history -- its founding books, its major prophetic voices, its central theological concept, and its defining act of deliverance.",
+      "hint": "One is a group of books, one a group of prophets, one a theological concept, one a historical event.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-007",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "What is the literary genre of most of the Book of Psalms?",
+      "choices": [
+        "Poetry \u2014 prayers and hymns meant to be sung or recited, using Hebrew parallelism rather than rhyme",
+        "Legal code",
+        "Historical narrative with precise chronology",
+        "Prophetic oracle addressed to foreign nations"
+      ],
+      "correctAnswer": "Poetry \u2014 prayers and hymns meant to be sung or recited, using Hebrew parallelism rather than rhyme",
+      "explanation": "Hebrew poetry works by parallelism \u2014 restating, contrasting, or building on an idea in a second line \u2014 rather than by rhyme, which is why the Psalms translate into other languages more successfully than most poetry does: the structure survives translation.",
+      "hint": "Ask what structural device Hebrew poetry relies on instead of rhyme.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2588"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-008",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Wisdom literature (Proverbs, Job, Ecclesiastes, and others) is primarily concerned with predicting future historical events.",
+      "correctAnswer": false,
+      "explanation": "False. Wisdom literature reflects on how to live well, on suffering, and on the meaning of life \u2014 practical and reflective, not predictive. Confusing it with prophetic literature misreads its entire purpose.",
+      "hint": "Ask whether these books are oriented toward the future or toward how to live now.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2500"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-009",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The Book of Job wrestles above all with the question of innocent ____, without offering a single tidy resolution to the problem.",
+      "correctAnswer": "suffering",
+      "explanation": "Job is notable precisely for what it does not do: it never gives Job (or the reader) a clean explanation for his suffering. God's answer from the whirlwind reframes the question rather than answering it directly, which is part of why the book still speaks so powerfully to real grief.",
+      "hint": "The whole book centers on why a righteous man endures terrible loss.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2596"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l6-010",
+      "topic": "sacred-scripture",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each Old Testament category to its characteristic content.",
+      "pairs": [
+        {
+          "left": "Pentateuch",
+          "right": "Law and founding narrative, Genesis through Deuteronomy"
+        },
+        {
+          "left": "Historical books",
+          "right": "Israel's story from the conquest through the exile and return"
+        },
+        {
+          "left": "Wisdom literature",
+          "right": "Reflection on how to live, and on suffering and meaning"
+        },
+        {
+          "left": "Prophetic books",
+          "right": "God's word calling Israel to fidelity, not primarily prediction"
+        }
+      ],
+      "explanation": "Note the last two categories are both frequently misread the same way \u2014 as though their purpose were forecasting the future \u2014 when both are actually oriented toward present fidelity and present meaning.",
+      "hint": "Two of these four categories are commonly mistaken for being about predicting the future.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2500"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2585"
+        }
+      ]
+    }
+  ]
+}
