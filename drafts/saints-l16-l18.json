@@ -1,0 +1,659 @@
+{
+  "_comment": "DRAFT -- NOT live. Saints levels 16-18 of 23: level 16 is new (John Bosco, Damien of Molokai, Frances Xavier Cabrini -- 19th-century institutional sainthood answering industrialization, disease, and migration). Levels 17-18 carry old live level 5's four modern saints forward (renumbered, re-seeded, split by era/theme: Kolbe+Faustina in level 17, Teresa of Calcutta+Bakhita in level 18) with new material throughout -- Kolbe's pre-war apostolate, Faustina's death parallel to Therese, the Missionaries of Charity's fourth vow, Teresa's published dark night (echoing John of the Cross), Bakhita's lost birth name. CCC 2444/2447/2414/2731/828 and magisterial_document citations already reviewed are reused throughout.",
+  "topic": "saints",
+  "questions": [
+    {
+      "id": "saints-l16-001",
+      "topic": "saints",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "St. John Bosco, a 19th-century Italian priest, founded the Salesians to serve which particular group?",
+      "choices": [
+        "Poor and at-risk youth, through education and vocational training",
+        "Elderly religious in retirement",
+        "Royal courts across Europe",
+        "Missionaries preparing for service in China specifically"
+      ],
+      "correctAnswer": "Poor and at-risk youth, through education and vocational training",
+      "explanation": "Bosco worked among Turin's poorest boys, many at real risk of destitution or crime, building schools and workshops that gave them both a trade and a real experience of being valued -- an approach he called the 'preventive system,' rooted in kindness rather than punishment.",
+      "hint": "His whole order is built around a specific, vulnerable age group in a rapidly industrializing city.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-002",
+      "topic": "saints",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: St. Damien of Molokai chose to live among, and ultimately died from, the same disease as the leprosy patients he served in Hawaii.",
+      "correctAnswer": true,
+      "explanation": "True. Damien volunteered for a leper colony most others avoided entirely, living among the patients for years before contracting leprosy himself and eventually dying of it -- a direct, physical sharing in the suffering of those he served, not service kept at a safe distance.",
+      "hint": "Consider whether his service to these patients stayed at a safe physical distance from their own suffering.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-003",
+      "topic": "saints",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "St. Frances Xavier Cabrini, an Italian-born religious sister, became notable in the Church's history in the United States for what reason?",
+      "choices": [
+        "First U.S. citizen ever canonized, after founding schools, hospitals, and orphanages for Italian immigrants",
+        "She was, in fact, the very first woman ever ordained a priest anywhere in the United States",
+        "She personally led the first-ever Catholic mission to reach the American West Coast",
+        "She served for many years as the first female president of a major Catholic university"
+      ],
+      "correctAnswer": "First U.S. citizen ever canonized, after founding schools, hospitals, and orphanages for Italian immigrants",
+      "explanation": "Cabrini emigrated to serve the same immigrant community she herself belonged to, eventually founding dozens of institutions across the Americas -- her later canonization made her the first U.S. citizen ever recognized as a saint.",
+      "hint": "Her canonization was a genuine national first for the country she had become a citizen of.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-004",
+      "topic": "saints",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2035,
+      "prompt": "St. Damien of Molokai ministered for years to patients suffering from ____, a disease that severely isolated those who had it in 19th-century Hawaii.",
+      "correctAnswer": "leprosy",
+      "acceptedAnswers": [
+        "leprosy",
+        "Hansen's disease"
+      ],
+      "explanation": "The isolation these patients faced was not only physical but deeply social -- Damien's choice to live permanently among them, sharing their daily life fully, was itself a real and costly statement about their dignity.",
+      "hint": "This disease's severe social stigma, as much as its physical effects, made this ministry so unusual.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-005",
+      "topic": "saints",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: John Bosco's 'preventive system' relied on strict corporal punishment as its primary method of forming young people.",
+      "correctAnswer": false,
+      "explanation": "False. Bosco deliberately built his method on kindness, reason, and religion rather than punishment -- a real departure from the harsher disciplinary norms common in institutions for poor youth in his own era.",
+      "hint": "Consider what Bosco's own method was explicitly designed as an alternative to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-006",
+      "topic": "saints",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each 19th-century saint to what makes them one of this level's figures.",
+      "pairs": [
+        {
+          "left": "St. John Bosco",
+          "right": "Founded the Salesians for poor and at-risk youth"
+        },
+        {
+          "left": "St. Damien of Molokai",
+          "right": "Lived among, and died from, the same disease as those he served"
+        },
+        {
+          "left": "St. Frances Xavier Cabrini",
+          "right": "First U.S. citizen canonized, served Italian immigrants"
+        },
+        {
+          "left": "The 19th century broadly",
+          "right": "A century of institution-building sainthood -- schools, hospitals, missions"
+        }
+      ],
+      "explanation": "Three different countries, three different vulnerable populations, one shared pattern -- 19th-century sainthood answering the real, concrete social needs of a rapidly industrializing and migrating world.",
+      "hint": "Three rows name individual saints; one names the wider pattern connecting them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-007",
+      "topic": "saints",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: Cabrini, Bosco, and Damien all founded lasting institutions -- schools, hospitals, and missions -- that continued serving people long after their own deaths.",
+      "correctAnswer": true,
+      "explanation": "True. Unlike level 14's Vianney, whose holiness centered on decades of a single, repeated personal ministry, these three saints each left durable institutions behind -- a different, complementary shape of the same real charity.",
+      "hint": "Compare this level's saints to Vianney's own more personal, non-institutional ministry from two levels back.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-008",
+      "topic": "saints",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "What common thread connects Bosco, Damien, and Cabrini across their three very different mission fields?",
+      "choices": [
+        "Each answered a population made vulnerable by the era's upheaval -- poor youth, the diseased, migrating immigrants",
+        "All three worked in exactly the same single country, addressing exactly the same population",
+        "None of the three ever founded any lasting institution of their own at all",
+        "All three are remembered chiefly for theological writing rather than for any direct service"
+      ],
+      "correctAnswer": "Each answered a population made vulnerable by the era's upheaval -- poor youth, the diseased, migrating immigrants",
+      "explanation": "The 19th century's own upheavals -- industrialization, disease, and mass migration -- produced real new categories of vulnerability, and this level's saints answered each with sustained, institutional charity.",
+      "hint": "Consider what specific social change each saint's own ministry was actually responding to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-009",
+      "topic": "saints",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2035,
+      "prompt": "St. Frances Xavier Cabrini's institutions primarily served Italian ____ arriving in the United States, many facing real poverty and discrimination in their new country.",
+      "correctAnswer": "immigrants",
+      "acceptedAnswers": [
+        "immigrants"
+      ],
+      "explanation": "Cabrini's own migration and her ministry to fellow migrants were never separate stories -- she served the very community she herself belonged to, a pattern of solidarity as much as service.",
+      "hint": "The specific group of newcomers to the United States her schools, hospitals, and orphanages primarily served.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l16-010",
+      "topic": "saints",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Given this level's picture of 19th-century institutional sainthood, what does the next level in this topic turn to?",
+      "choices": [
+        "Saints of the world wars -- Kolbe and Faustina, whose holiness unfolds under 20th-century totalitarian violence",
+        "A complete and exhaustive repeat of this same level's material about Bosco, Damien, and Cabrini",
+        "A jump backward to Vincent de Paul's own era, which this topic has already fully covered",
+        "A subject entirely unrelated to sainthood or to the historical period this topic has now reached"
+      ],
+      "correctAnswer": "Saints of the world wars -- Kolbe and Faustina, whose holiness unfolds under 20th-century totalitarian violence",
+      "explanation": "The next level moves into the 20th century's own catastrophes -- the same totalitarian violence Church History's own level 21 covers independently, now seen through the lives of two saints who lived directly under it.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-001",
+      "topic": "saints",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "St. Maximilian Kolbe, a Franciscan priest, was canonized after volunteering to die in place of a stranger at which Nazi concentration camp in 1941?",
+      "choices": [
+        "Auschwitz",
+        "Dachau",
+        "Buchenwald",
+        "Treblinka"
+      ],
+      "correctAnswer": "Auschwitz",
+      "explanation": "When a fellow prisoner was condemned to starve as punishment for an escape, Kolbe offered his own life in exchange -- a martyrdom of charity that John Paul II recognized by canonizing him in 1982.",
+      "hint": "He offered his life for a stranger condemned to starve in his place.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, canonizing St. Maximilian Kolbe (1982)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-002",
+      "topic": "saints",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What specific act is St. Maximilian Kolbe canonized for?",
+      "choices": [
+        "Volunteering to die in place of a stranger, a husband and father, condemned to starvation at Auschwitz",
+        "Founding a large and widely recognized missionary religious order of his own",
+        "Writing extensively and at length on Mariology in the years before his death",
+        "Successfully escaping the concentration camp and later publicizing conditions there"
+      ],
+      "correctAnswer": "Volunteering to die in place of a stranger, a husband and father, condemned to starvation at Auschwitz",
+      "explanation": "Kolbe offered his own life to spare a fellow prisoner he did not know, chosen for death in the man's place -- a single, documented act of self-sacrificing charity at the cost of his own life, which is the specific ground of his canonization.",
+      "hint": "His canonization rests on one specific documented act, not a body of writings or a founded institution.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-003",
+      "topic": "saints",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Before his imprisonment, Kolbe had already founded a large Marian missionary movement and an active publishing apostolate in Poland.",
+      "correctAnswer": true,
+      "explanation": "True. Kolbe's Militia Immaculatae and his religious community's publishing operations reached large audiences well before the war -- his death at Auschwitz caps a life already devoted to sustained, organized apostolic work, not a single isolated act.",
+      "hint": "Consider whether Kolbe's final act at Auschwitz was the sum of his whole religious life, or its final chapter.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-004",
+      "topic": "saints",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "St. Faustina Kowalska, a Polish religious sister, received visions of Christ that gave rise to which widely practiced modern Catholic devotion?",
+      "choices": [
+        "Divine Mercy",
+        "The Miraculous Medal",
+        "The Sacred Heart devotion",
+        "Perpetual Adoration"
+      ],
+      "correctAnswer": "Divine Mercy",
+      "explanation": "Faustina's diary of her visions of Christ as the Divine Mercy shaped a devotion that spread worldwide after her canonization by her fellow Pole, John Paul II, in 2000.",
+      "hint": "This devotion is now marked every year on the Sunday after Easter.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, canonizing St. Faustina Kowalska (2000)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-005",
+      "topic": "saints",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: St. Faustina Kowalska's visions of Christ, which gave rise to the Divine Mercy devotion, have been formally approved by the Church.",
+      "correctAnswer": true,
+      "explanation": "True. After an earlier period of caution, the Church formally approved the Divine Mercy devotion, and Pope John Paul II -- who had personal devotion to it -- canonized Faustina and established Divine Mercy Sunday, giving the devotion an official place in the universal liturgical calendar.",
+      "hint": "The same pope who had personal devotion to this cause also canonized her and gave the devotion its own Sunday.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-006",
+      "topic": "saints",
+      "level": 17,
+      "type": "fill_blank",
+      "difficultyElo": 2110,
+      "prompt": "Faustina Kowalska died young, at only thirty-three, from ____, the same disease that claimed Thérèse of Lisieux several levels earlier in this topic.",
+      "correctAnswer": "tuberculosis",
+      "acceptedAnswers": [
+        "tuberculosis"
+      ],
+      "explanation": "This detail deliberately links two hidden, short-lived Carmelite and religious lives, decades apart -- another real case of enormous later influence flowing from a short, largely unknown life.",
+      "hint": "The same illness that ended Thérèse's own short life, covered several levels earlier.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-007",
+      "topic": "saints",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each fact about this level's two Polish saints to what it involves.",
+      "pairs": [
+        {
+          "left": "Kolbe's death at Auschwitz",
+          "right": "Voluntary self-substitution for a condemned stranger, 1941"
+        },
+        {
+          "left": "The Militia Immaculatae",
+          "right": "Kolbe's pre-war Marian missionary movement"
+        },
+        {
+          "left": "Faustina's diary",
+          "right": "The source of the approved Divine Mercy devotion"
+        },
+        {
+          "left": "Divine Mercy Sunday",
+          "right": "Established by John Paul II, the Sunday after Easter"
+        }
+      ],
+      "explanation": "Both saints' fullest recognized impact -- Kolbe's canonization, Faustina's worldwide devotion -- came through the same pope, himself a fellow Pole who had lived through the same totalitarian century their own lives were shaped by.",
+      "hint": "Two rows concern Kolbe's own life; two concern Faustina's visions and their later devotional impact.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-008",
+      "topic": "saints",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Both Kolbe and Faustina lived and died in Poland under conditions directly shaped by 20th-century totalitarian violence, the same period Church History's own coverage of the totalitarian century addresses.",
+      "correctAnswer": true,
+      "explanation": "True. This level's two saints are not incidentally connected to that history -- their own lives unfold directly inside it, which is exactly why this level and Church History's own level 21 cover the same historical moment from two different, complementary angles.",
+      "hint": "Recall Church History's own coverage of this same century's totalitarian violence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-009",
+      "topic": "saints",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What does this level add to this topic's picture of sainthood under extreme political violence, compared to the ancient martyrs of level 4?",
+      "choices": [
+        "The same pattern of costly witness recurring under a radically different, modern totalitarian system rather than ancient Roman persecution",
+        "Nothing new -- Kolbe and Faustina's circumstances were functionally identical to Agnes and Lawrence's own era",
+        "Proof that martyrdom of any kind became impossible after the apostolic era ended",
+        "A rejection of the martyrdom pattern this topic opened with many levels ago"
+      ],
+      "correctAnswer": "The same pattern of costly witness recurring under a radically different, modern totalitarian system rather than ancient Roman persecution",
+      "explanation": "This level is a real echo of level 4, separated by some seventeen centuries -- proof the pattern this topic opened with never actually stopped being possible, only changed the specific political system testing it.",
+      "hint": "Compare the basic shape of Kolbe's own death to Agnes's or Lawrence's, many levels back in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l17-010",
+      "topic": "saints",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Given this level's picture of sainthood under totalitarian violence, what does the next level in this topic turn to?",
+      "choices": [
+        "Teresa of Calcutta and Bakhita, two more 20th-century saints answering very different forms of suffering",
+        "A complete and exhaustive repeat of this same level's material about Kolbe and Faustina",
+        "A jump backward to the 19th-century saints already fully covered in the previous level",
+        "A subject entirely unrelated to sainthood or to the 20th century this topic has now reached"
+      ],
+      "correctAnswer": "Teresa of Calcutta and Bakhita, two more 20th-century saints answering very different forms of suffering",
+      "explanation": "The next level continues this topic's run of 20th-century saints, turning from totalitarian violence to two other real and different forms of human suffering -- destitution and enslavement.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-001",
+      "topic": "saints",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: St. Teresa of Calcutta (Mother Teresa) founded the Missionaries of Charity to care for 'the poorest of the poor.'",
+      "correctAnswer": true,
+      "explanation": "Teresa left her teaching order to serve the destitute and dying in Calcutta's streets, founding a religious congregation devoted entirely to the poorest of the poor -- canonized by Pope Francis in 2016.",
+      "hint": "Her famous phrase for who she served became the mission of her whole order.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Francis, canonizing St. Teresa of Calcutta (2016)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-002",
+      "topic": "saints",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "St. Josephine Bakhita, canonized in 2000, endured enslavement in Sudan as a child before becoming a religious sister in ____, the country where she finally found freedom.",
+      "correctAnswer": "Italy",
+      "acceptedAnswers": [
+        "Italy"
+      ],
+      "explanation": "Sold into slavery as a girl and brought to Italy, Bakhita was freed by Italian law, entered religious life there, and was canonized by John Paul II in 2000 as a witness against the evil of slavery.",
+      "hint": "She was brought here from Sudan and never had to leave again.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, canonizing St. Josephine Bakhita (2000)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-003",
+      "topic": "saints",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "St. Josephine Bakhita's canonization carries a particular significance given her early life. What is it?",
+      "choices": [
+        "A woman who endured enslavement is honored as a saint, a direct answer in the Church's life to that evil",
+        "She is remembered chiefly as a theologian who wrote extensively and at length on the sacraments",
+        "She personally founded a large missionary religious order that still operates today",
+        "Her canonization concerned a single miracle entirely unrelated to her own early life"
+      ],
+      "correctAnswer": "A woman who endured enslavement is honored as a saint, a direct answer in the Church's life to that evil",
+      "explanation": "Her cause and canonization stand as a direct, embodied answer within the Church's own life to the evil of slavery she endured as a child -- sanctity achieved not despite her suffering being erased, but carrying that history forward transformed by grace.",
+      "hint": "Ask what her canonization actually says, given what was done to her earlier in her life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2414"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-004",
+      "topic": "saints",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Bakhita's captors gave her a new name and, in a further cruelty, she could no longer even recall her own original birth name.",
+      "correctAnswer": true,
+      "explanation": "True. Even this most basic mark of her own identity was taken from her -- a real, documented detail that makes her later, freely chosen religious name and vocation an even more striking reversal of everything slavery had tried to erase.",
+      "hint": "Consider what even her captors' choice of a name for her took away from her.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2414"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-005",
+      "topic": "saints",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Beyond the usual vows of poverty, chastity, and obedience, the Missionaries of Charity take a distinctive fourth vow. What is it?",
+      "choices": [
+        "Wholehearted free service to the poorest of the poor",
+        "Perpetual silence outside of communal prayer",
+        "A vow of stability tying each sister to one convent for life",
+        "A vow of strict enclosure with no contact outside the convent"
+      ],
+      "correctAnswer": "Wholehearted free service to the poorest of the poor",
+      "explanation": "This distinctive fourth vow makes explicit, in a formal and binding way, exactly the mission Teresa founded her order to carry out -- not an optional emphasis, but a vowed commitment as serious as poverty, chastity, or obedience themselves.",
+      "hint": "This vow names, directly, the same population her order's whole mission centers on.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-006",
+      "topic": "saints",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Letters published after Teresa of Calcutta's death revealed that she experienced decades of profound spiritual dryness -- a felt absence of God's presence -- even while continuing her visible public ministry.",
+      "correctAnswer": true,
+      "explanation": "True, and this connects directly to John of the Cross's own 'dark night' teaching from several levels earlier -- Teresa's own hidden spiritual darkness, sustained for decades behind her famously visible public charity, is a striking real-life instance of exactly that teaching.",
+      "hint": "Recall John of the Cross's own teaching on spiritual darkness from several levels back in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-007",
+      "topic": "saints",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each fact about this level's two saints to what it involves.",
+      "pairs": [
+        {
+          "left": "The Missionaries of Charity's fourth vow",
+          "right": "Wholehearted free service to the poorest of the poor"
+        },
+        {
+          "left": "Teresa's published letters",
+          "right": "Revealed decades of hidden spiritual darkness behind public ministry"
+        },
+        {
+          "left": "Bakhita's lost birth name",
+          "right": "Taken from her by her captors as a child"
+        },
+        {
+          "left": "Bakhita's canonization",
+          "right": "The Church honoring a former slave as an embodied answer to that evil"
+        }
+      ],
+      "explanation": "Both saints' outward, visible holiness turns out to sit atop something real and hidden underneath it -- Teresa's own spiritual darkness, Bakhita's own erased original identity -- a reminder that a saint's public reputation rarely tells the whole story.",
+      "hint": "Two rows concern Teresa's own hidden interior life; two concern Bakhita's own erased and later restored identity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-008",
+      "topic": "saints",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Teresa of Calcutta received the Nobel Peace Prize in 1979, formal international recognition of her work well before her canonization.",
+      "correctAnswer": true,
+      "explanation": "True. Her global public recognition long preceded her formal canonization -- an unusually well-documented case where the wider world's own assessment and the Church's eventual formal judgment of heroic sanctity pointed the same direction.",
+      "hint": "Consider what kind of international recognition Teresa received decades before her canonization.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2444"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-009",
+      "topic": "saints",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "What does this level, taken together with level 17, add to this topic's overall picture of 20th-century sainthood?",
+      "choices": [
+        "The century's real sufferings -- violence, destitution, slavery -- each found a saint who met it directly, at real cost",
+        "That 20th-century sainthood is, in the end, essentially identical to every earlier century this topic has already covered",
+        "That only saints who personally founded a large institution can ever be recognized as holy in the modern era",
+        "That hidden spiritual struggle, like Teresa's own, disqualifies a person from being recognized as a saint"
+      ],
+      "correctAnswer": "The century's real sufferings -- violence, destitution, slavery -- each found a saint who met it directly, at real cost",
+      "explanation": "Kolbe met totalitarian violence, Faustina met a century starved for mercy, Teresa met destitution, Bakhita met slavery itself -- four real, distinct 20th-century evils, each met by a saint whose life directly and personally engaged it.",
+      "hint": "Consider what specific evil or suffering each of this level's and the previous level's four saints actually confronted.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l18-010",
+      "topic": "saints",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Given this run of 20th-century saints, what does the next level in this topic turn to?",
+      "choices": [
+        "Contemporary canonizations -- saints of the last few decades, bringing this chronological survey up to the present day",
+        "A complete and exhaustive repeat of this same level's material about Teresa of Calcutta and Bakhita",
+        "A jump backward to the 19th-century saints already covered several levels earlier in this topic",
+        "A subject entirely unrelated to sainthood or to the present-day Church this topic has now reached"
+      ],
+      "correctAnswer": "Contemporary canonizations -- saints of the last few decades, bringing this chronological survey up to the present day",
+      "explanation": "The next level closes this topic's long chronological arc, bringing a learner from the apostolic era all the way to the Church's most recent recognitions of holiness -- before the topic shifts to how the whole process actually works.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    }
+  ]
+}
