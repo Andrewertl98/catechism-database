@@ -1,0 +1,688 @@
+{
+  "_comment": "DRAFT -- NOT live. Heresies levels 7-9 of 19: level 7 is new (Pelagianism, Augustine's opposition, semi-Pelagianism, Orange II's answer), reusing old live level 6's Orange II citation. Level 8 carries old live level 3's Cathar/iconoclasm content forward (renumbered, re-seeded) with new material on Cathar community structure and the Albigensian Crusade's own documented context. Level 9 carries old live level 3's Waldensian/Wycliffe/Hus content forward with new material on the Lollards and Hus's own specific reform concerns, closing this topic's medieval arc before the Reformation.",
+  "topic": "heresies",
+  "questions": [
+    {
+      "id": "heresies-l7-001",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Pelagius, a British monk active in the early fifth century, taught what about human nature and salvation?",
+      "choices": [
+        "That human beings could, by their own natural willpower alone, achieve moral perfection and merit salvation without any real need for grace",
+        "That human beings are entirely incapable of any good action, even with grace",
+        "That grace is given automatically to everyone regardless of any human response",
+        "That salvation depends entirely on membership in a specific religious institution, apart from personal moral effort"
+      ],
+      "correctAnswer": "That human beings could, by their own natural willpower alone, achieve moral perfection and merit salvation without any real need for grace",
+      "explanation": "Pelagius's real error was denying that grace is genuinely necessary at all -- treating the human will as fully capable, on its own natural strength, of choosing and living a sinless life without God's own help.",
+      "hint": "This error concerns whether human effort alone, without grace, is really enough.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-002",
+      "topic": "heresies",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: St. Augustine, already covered in this app's other topics for his conversion and his opposition to Donatism, was also the Church's own chief theological opponent of Pelagius.",
+      "correctAnswer": true,
+      "explanation": "True. Augustine's own mature theology of grace -- shaped by his own long, difficult conversion, already covered elsewhere in this app -- became the Church's primary intellectual resource in confronting Pelagius's claim that grace was not truly necessary.",
+      "hint": "Recall this same figure's own long, difficult conversion, already covered in this app's other topics.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-003",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Semi-Pelagianism, arising after Pelagius's own teaching was condemned, made what real concession while still keeping part of the original error?",
+      "choices": [
+        "It conceded grace mattered later, but kept the very first movement toward faith as unaided human effort",
+        "It conceded nothing at all and simply restated Pelagius's own original position entirely unchanged",
+        "It denied that grace was necessary at any real point in the whole Christian life whatsoever",
+        "It agreed entirely and fully with Augustine's own complete account of grace, with no real disagreement remaining"
+      ],
+      "correctAnswer": "It conceded grace mattered later, but kept the very first movement toward faith as unaided human effort",
+      "explanation": "This is a real, subtler error than Pelagius's own -- not denying grace altogether, but still keeping a small but decisive space for unaided human initiative at the very beginning of the journey toward faith.",
+      "hint": "This error grants more than Pelagius did, but still holds back one specific, crucial point.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-004",
+      "topic": "heresies",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: The Second Council of Orange (529), in its canons on grace, specifically ruled out the semi-Pelagian claim that unaided natural effort could supply the very beginning of faith.",
+      "correctAnswer": true,
+      "explanation": "True. Orange II's canons condemn exactly this semi-Pelagian sequencing error, insisting instead that grace must move the will even at faith's very first stirring, not only in what comes after.",
+      "hint": "This is the same sequencing error the semi-Pelagian controversy always comes back to -- who or what moves first.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-005",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Orange II condemned semi-Pelagianism specifically over sequencing. What exactly did it settle?",
+      "choices": [
+        "That even the beginning of faith is itself the work of grace, not a human initiative grace then rewards",
+        "That grace is, in fact, entirely unnecessary for the very beginning of faith itself",
+        "That human freedom plays, in the end, no real part in salvation of any kind at all",
+        "That grace is given to a person only after their own baptism has occurred"
+      ],
+      "correctAnswer": "That even the beginning of faith is itself the work of grace, not a human initiative grace then rewards",
+      "explanation": "Semi-Pelagianism conceded that grace was needed for everything after the first step, and kept the first step for man. Orange II moved grace to the very beginning. What it did not settle is the inner mechanics of how grace and freedom meet -- that remained open.",
+      "hint": "The dispute was about who moves first, not about whether grace is needed at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-006",
+      "topic": "heresies",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1440,
+      "prompt": "Match each fact about Pelagianism and semi-Pelagianism to what it involves.",
+      "pairs": [
+        {
+          "left": "Pelagius",
+          "right": "Taught human effort alone, without grace, could achieve salvation"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "The Church's own chief theological opponent of this error"
+        },
+        {
+          "left": "Semi-Pelagianism",
+          "right": "Conceded grace mattered later, but kept faith's first step for man alone"
+        },
+        {
+          "left": "The Second Council of Orange (529)",
+          "right": "Settled that even faith's first movement is itself grace's own work"
+        }
+      ],
+      "explanation": "This whole controversy, spanning roughly a century from Pelagius's own teaching to Orange II's final answer, concerns a single real question: how much of the journey toward faith is genuinely God's own work, and how much is left to unaided human effort.",
+      "hint": "Follow the real arc: the original error, its chief opponent, a subtler later version, and the council that finally settled it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-007",
+      "topic": "heresies",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: Orange II's own answer to semi-Pelagianism fully explained every detail of exactly how grace and human freedom work together, leaving no real theological question open.",
+      "correctAnswer": false,
+      "explanation": "False. Orange II settled that grace comes first, even at faith's very beginning -- but the deeper question of exactly how grace and human freedom interact remained a real, open question for later theology, including the disputes this app's own Dogmas and Doctrine topic covers.",
+      "hint": "Consider whether settling who moves first also settles every further question about how grace and freedom actually work together.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-008",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "What category of error, distinct from the Christological and sacramental questions this topic has already covered, do Pelagianism and semi-Pelagianism together represent?",
+      "choices": [
+        "Errors concerning the real relationship between divine grace and human freedom in salvation",
+        "Errors concerning who Christ is, the same category already covered in levels 4 and 5",
+        "Errors concerning whether religious images may be venerated",
+        "Errors concerning the validity of sacraments administered by unworthy ministers"
+      ],
+      "correctAnswer": "Errors concerning the real relationship between divine grace and human freedom in salvation",
+      "explanation": "This is a genuinely distinct category from Christology (levels 4-5) and Donatism's own sacramental question (level 6) -- a real, separate theological question this topic is careful to keep distinguished rather than blur together with the others.",
+      "hint": "Consider what specific relationship -- between which two real things -- this level's whole controversy concerns.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-009",
+      "topic": "heresies",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: Pelagianism's own core claim -- that a person can save themselves by pure effort, without real need of grace -- is a temptation that can recur in new forms long after Pelagius's own condemnation.",
+      "correctAnswer": true,
+      "explanation": "True, and this is a real, recognized pattern -- versions of this same basic temptation, that salvation is fundamentally something a person achieves through their own sufficient effort, recur across later Church history in new guises, a thread this topic's later apologetics level will pick up directly.",
+      "hint": "Consider whether a temptation this basic is likely to appear only once, in one single century of Church history.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l7-010",
+      "topic": "heresies",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Given this level's own real question about grace and freedom, what does the next level in this topic turn to?",
+      "choices": [
+        "Iconoclasm and the medieval Cathars, returning to questions of images and the material world's own goodness",
+        "A complete repeat of this same level's material about Pelagianism and semi-Pelagianism",
+        "A jump directly to the Protestant Reformation, skipping over several more centuries of real history",
+        "A subject entirely unrelated to any error this topic has covered so far"
+      ],
+      "correctAnswer": "Iconoclasm and the medieval Cathars, returning to questions of images and the material world's own goodness",
+      "explanation": "The next level moves forward several centuries to the medieval period, meeting two further real errors -- one about sacred images, one reviving the ancient Gnostic-style dualism this topic's own earlier levels already introduced.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-001",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "The medieval Cathars (Albigensians) revived which ancient error, teaching that the material world was created by an evil principle?",
+      "choices": [
+        "Gnostic-style dualism",
+        "Ancient Adoptionism",
+        "Byzantine Iconoclasm",
+        "Early Modalism"
+      ],
+      "correctAnswer": "Gnostic-style dualism",
+      "explanation": "Like the ancient Gnostics before them, already covered several levels back in this topic, the Cathars held that matter itself was the work of an evil power. The Fourth Lateran Council (1215) opened by reaffirming one God, creator of all things visible and invisible.",
+      "hint": "This medieval movement recycled an error from the earliest centuries of the Church, already covered in this topic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-002",
+      "topic": "heresies",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: Cathar communities organized themselves into two real tiers -- a small group of highly ascetic 'perfecti' and a much larger body of ordinary followers held to a less demanding standard.",
+      "correctAnswer": true,
+      "explanation": "True. This two-tier structure was a real, documented feature of Cathar communities -- the 'perfecti' took on the movement's most demanding practices, while ordinary believers were only expected to receive a final ritual, the consolamentum, near death.",
+      "hint": "Consider whether every member of this movement was actually held to the exact same standard.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-003",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "What real, large-scale military response did the spread of Catharism in southern France provoke in the early 13th century?",
+      "choices": [
+        "The Albigensian Crusade, already covered from Church History's own angle as a documented episode with real historical context",
+        "No military response of any real kind was ever mounted against the Cathars at all",
+        "A purely diplomatic negotiation that resolved the whole movement peacefully within a single year",
+        "A response limited entirely to formal excommunication, with no political or military dimension whatsoever"
+      ],
+      "correctAnswer": "The Albigensian Crusade, already covered from Church History's own angle as a documented episode with real historical context",
+      "explanation": "This real, often difficult chapter of history is the same one this app's Church History topic already treats honestly -- real documented context alongside real violence the Church has since acknowledged, not a story this app smooths over in either direction.",
+      "hint": "Recall this same real, documented episode already covered honestly in Church History's own treatment of the medieval Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2317",
+          "quote": "Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-004",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Iconoclasm, the 8th- and 9th-century movement rejecting the veneration of religious images, was decisively answered by which council?",
+      "choices": [
+        "Second Council of Nicaea (787)",
+        "Council of Trent (1545-1563)",
+        "Council of Ephesus (431)",
+        "First Vatican Council (1869-1870)"
+      ],
+      "correctAnswer": "Second Council of Nicaea (787)",
+      "explanation": "Iconoclasts held that venerating images amounted to idolatry. Nicaea II taught that honor given to an image passes to what it represents, restoring the veneration of icons in the East -- the same council covered in Councils' own dedicated level on this same controversy.",
+      "hint": "It shares its name and city with the very first ecumenical council, over four centuries later.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-005",
+      "topic": "heresies",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: Iconoclasm was, in significant part, backed by real imperial political power, not merely a private theological opinion debated among theologians.",
+      "correctAnswer": true,
+      "explanation": "True. Byzantine emperors ordered the widespread destruction of icons across real decades of enforced imperial policy -- a controversy that reshaped religious life by real political force, not simply an abstract theological dispute.",
+      "hint": "Recall the real political backing this same controversy already had, covered in Councils' own dedicated level.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-006",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Nicaea II answered iconoclasm by distinguishing two things the iconoclasts had treated as one. Which distinction?",
+      "choices": [
+        "Veneration shown to an image, which passes to its prototype, versus adoration due to God alone",
+        "Public liturgical images displayed in church versus private devotional images kept at home",
+        "Images specifically of Christ himself versus images of the saints more broadly",
+        "Painted images on wood or canvas versus carved statues made of stone or metal"
+      ],
+      "correctAnswer": "Veneration shown to an image, which passes to its prototype, versus adoration due to God alone",
+      "explanation": "The honour given an image passes to the one depicted; it does not stop at the wood and paint. That is why venerating an icon is not idolatry, and why the distinction between veneration and the adoration owed to God alone is the whole of the answer.",
+      "hint": "The question is not which images are allowed, but what the act of honouring one actually does.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2132"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-007",
+      "topic": "heresies",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: The Fourth Lateran Council (1215) is the council that used the term 'transubstantiated' of the Eucharist.",
+      "correctAnswer": true,
+      "explanation": "True. Lateran IV used the term, and Trent later defined it at length against Reformation denials, several levels ahead in this topic. The word does not explain the change so much as fence it: the substance becomes Christ's Body and Blood while the appearances remain.",
+      "hint": "The same council that dealt with the Cathars also gave this word its conciliar footing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-008",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Lateran IV taught that between Creator and creature no similarity can be noted without a greater dissimilarity being noted between them. Why does this matter for judging heresies?",
+      "choices": [
+        "It sets a limit on all God-talk: analogies genuinely say something true, yet always fall shorter than they succeed",
+        "It forbids using any analogy for God whatsoever, under any circumstance at all",
+        "It means that human language about God is, in the end, simply meaningless entirely",
+        "It applies only to religious images specifically, and never to any spoken or written words"
+      ],
+      "correctAnswer": "It sets a limit on all God-talk: analogies genuinely say something true, yet always fall shorter than they succeed",
+      "explanation": "The principle cuts both ways. It rules out saying nothing true about God, and it rules out pressing an analogy as if it were a description. A great many heresies are an analogy taken too literally and then defended past its breaking point.",
+      "hint": "It is a rule about how far a comparison can be pushed, not a ban on comparing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-009",
+      "topic": "heresies",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1532,
+      "prompt": "Match each medieval error to what it actually concerned.",
+      "pairs": [
+        {
+          "left": "Catharism",
+          "right": "Gnostic-style dualism, reviving an ancient error against matter's own goodness"
+        },
+        {
+          "left": "Iconoclasm",
+          "right": "Rejected the veneration of sacred images as idolatry"
+        },
+        {
+          "left": "Nicaea II's real answer",
+          "right": "Veneration passes to the prototype; adoration belongs to God alone"
+        },
+        {
+          "left": "Lateran IV's Creator/creature principle",
+          "right": "A real limit on how far any analogy for God can be pushed"
+        }
+      ],
+      "explanation": "This level's own two real controversies -- one about matter's goodness, one about images -- are both, at root, disputes about how far a real analogy or a real material thing can bear a genuine connection to God without becoming either idolatry or denial.",
+      "hint": "Two rows name the errors themselves; two name the Church's own precise answers to them.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l8-010",
+      "topic": "heresies",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Given this level's picture of medieval dualism and iconoclasm, what does the next level in this topic turn to?",
+      "choices": [
+        "The Waldensians, Wycliffe, and Hus -- real questions about Church authority on the eve of the Reformation",
+        "A complete and exhaustive repeat of this same level's own material about the Cathars and iconoclasm",
+        "A jump directly to the Protestant Reformation itself, skipping over these real transitional figures entirely",
+        "A subject entirely unrelated to any single error this topic has covered up to this point"
+      ],
+      "correctAnswer": "The Waldensians, Wycliffe, and Hus -- real questions about Church authority on the eve of the Reformation",
+      "explanation": "The next level covers a real, direct bridge between this topic's medieval material and the Reformation still several levels ahead -- figures whose own real teachings anticipate disputes the Reformation would reopen on a much larger scale.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-001",
+      "topic": "heresies",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1533,
+      "prompt": "True or False: The Waldensians, followers of Peter Waldo in the 12th century, were first condemned mainly for preaching the Gospel without the Church's authorization, before drifting into further doctrinal error.",
+      "correctAnswer": true,
+      "explanation": "The Waldensians began as a lay preaching movement emphasizing voluntary poverty. Their unauthorized preaching led to condemnation, and the movement later denied the value of sacraments from unworthy priests and rejected purgatory.",
+      "hint": "Their first offense was about who has the authority to preach, not yet a denial of doctrine.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Ad Abolendam, Pope Lucius III (1184)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-002",
+      "topic": "heresies",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "After their initial condemnation for unauthorized preaching, what further doctrinal position did the Waldensians eventually adopt, echoing an error already covered in this topic?",
+      "choices": [
+        "That a sacrament's validity depends on the moral worthiness of the priest administering it, echoing Donatism",
+        "That Christ has, after the Incarnation, only one single nature, echoing ancient Monophysitism",
+        "That the whole material world was created by a genuinely evil principle, echoing medieval Catharism",
+        "That the Son himself is a created being, not eternally divine, echoing ancient Arianism"
+      ],
+      "correctAnswer": "That a sacrament's validity depends on the moral worthiness of the priest administering it, echoing Donatism",
+      "explanation": "This is a real, direct echo of Donatism's own error, already covered several levels back in this topic -- a useful case of a much later movement independently arriving at the same basic mistake an earlier, unrelated controversy had already answered.",
+      "hint": "Recall the earlier heresy this topic covered concerning a sacrament's validity and a minister's own worthiness.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Ad Abolendam, Pope Lucius III (1184)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-003",
+      "topic": "heresies",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "John Wycliffe's teachings, condemned in the late 14th century and formally at the Council of Constance, included denying the Church's doctrine of:",
+      "choices": [
+        "Transubstantiation",
+        "The Trinity",
+        "The divinity of Christ",
+        "The Resurrection"
+      ],
+      "correctAnswer": "Transubstantiation",
+      "explanation": "Wycliffe denied that the Eucharistic bread and wine truly become Christ's Body and Blood, and also attacked papal authority and the necessity of Church-authorized interpretation of Scripture -- ideas later echoed in the Reformation, several levels ahead in this topic.",
+      "hint": "This is the same doctrine of Eucharistic change that Trent would later reaffirm.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-004",
+      "topic": "heresies",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1533,
+      "prompt": "True or False: John Wycliffe personally directed an early translation of the Bible into English, a real, concrete part of his wider challenge to the Church's own authority over Scripture's interpretation.",
+      "correctAnswer": true,
+      "explanation": "True. This translation project was not a neutral scholarly exercise -- it was tied directly to Wycliffe's own claim that ordinary believers, reading Scripture on their own, needed no Church-authorized interpretation, a real, practical expression of his wider theological challenge.",
+      "hint": "Consider what practical project would naturally follow from Wycliffe's own claim about Scripture needing no Church-authorized interpretation.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-005",
+      "topic": "heresies",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Wycliffe's followers in England became known by what name?",
+      "choices": [
+        "Lollards",
+        "Cathars",
+        "Waldensians",
+        "Hussites"
+      ],
+      "correctAnswer": "Lollards",
+      "explanation": "The Lollards carried Wycliffe's own teaching forward in England for generations after his own death, a real, sustained movement rather than a set of ideas that simply vanished once their original teacher had died.",
+      "hint": "This is the specific English name for Wycliffe's own later followers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-006",
+      "topic": "heresies",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1533,
+      "prompt": "True or False: Jan Hus, whose followers formed the Hussite movement, was condemned and executed following the Council of Constance in 1415.",
+      "correctAnswer": true,
+      "explanation": "Hus, influenced by Wycliffe's ideas, was summoned to Constance under a promise of safe conduct, condemned for heresy, and burned at the stake in 1415 -- an event already covered from Church History's own angle, leaving lasting bitterness in Bohemia.",
+      "hint": "This is the same council that also condemned Wycliffe's teachings.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-007",
+      "topic": "heresies",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Beyond Wycliffe's own influence on his thought, what real, specific concern did Hus's own preaching emphasize?",
+      "choices": [
+        "Reform of clerical corruption and a real, sustained call for the laity to receive Communion under both species",
+        "A denial of the Holy Trinity itself, functionally identical to ancient Modalism",
+        "A rejection of the material world's own basic goodness, functionally identical to medieval Catharism",
+        "A denial that Christ possessed a genuinely human soul, functionally identical to ancient Apollinarianism"
+      ],
+      "correctAnswer": "Reform of clerical corruption and a real, sustained call for the laity to receive Communion under both species",
+      "explanation": "Hus's own preaching combined real moral reform concerns with a specific liturgical practice -- receiving Communion under both the bread and the wine -- that became a real, lasting mark of the Hussite movement his own execution did not end.",
+      "hint": "Consider a specific liturgical practice this movement became especially associated with after Hus's own death.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-008",
+      "topic": "heresies",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 1623,
+      "prompt": "Match each figure or movement to its real, distinct contribution to this level.",
+      "pairs": [
+        {
+          "left": "Peter Waldo",
+          "right": "Unauthorized lay preaching, later echoing Donatism's own error"
+        },
+        {
+          "left": "John Wycliffe",
+          "right": "Denied transubstantiation, translated Scripture into English"
+        },
+        {
+          "left": "The Lollards",
+          "right": "Wycliffe's own English followers, carrying his teaching forward"
+        },
+        {
+          "left": "Jan Hus",
+          "right": "Called for clerical reform, executed at Constance in 1415"
+        }
+      ],
+      "explanation": "These figures, spanning roughly two centuries, form a real, direct chain -- each drawing on the one before, building real pressure that would culminate in the Reformation this topic's next several levels cover.",
+      "hint": "Follow the real chain of influence -- one figure's followers, and one figure's own influence on a later reformer.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-009",
+      "topic": "heresies",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1533,
+      "prompt": "True or False: The Waldensians, Wycliffe, and Hus together represent a real, gradually building pressure on Church authority and sacramental teaching, over a century before the Reformation formally began.",
+      "correctAnswer": true,
+      "explanation": "True, and this level's own real point is that the Reformation did not appear suddenly out of nowhere -- these three movements, each building on real concerns the one before had already raised, show a genuine, gradual accumulation of pressure across more than two centuries.",
+      "hint": "Consider the real span of time separating Peter Waldo's own movement from Hus's execution.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l9-010",
+      "topic": "heresies",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Given this level's picture of gradually building pressure on Church authority, what does the next level in this topic turn to?",
+      "choices": [
+        "The Reformation's own core claims -- sola fide and sola scriptura -- this topic has been building toward",
+        "A complete and exhaustive repeat of this same level's own material about the Waldensians, Wycliffe, and Hus",
+        "A jump backward to Arianism, which this topic has already fully covered several levels earlier",
+        "A subject entirely unrelated to any single error this topic has covered up to this point"
+      ],
+      "correctAnswer": "The Reformation's own core claims -- sola fide and sola scriptura -- this topic has been building toward",
+      "explanation": "The next level finally reaches the Reformation itself, the real historical culmination of the gradual pressure this level and the one before it have both been tracing.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    }
+  ]
+}
