@@ -1,0 +1,687 @@
+{
+  "_comment": "DRAFT -- NOT live. Old Testament levels 13-15 of 23: Sinai and the Ten Commandments, the covenant sealed in blood, and the golden calf. Exodus 20:1-17's opening clause is already reviewed and used unchanged; the rest of the Commandments text and all other Scripture references are new and flagged by onramp_tool.py check for translation verification before shipping.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l13-001",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "How does God open the Ten Commandments, before giving a single command?",
+      "choices": [
+        "By reminding Israel he brought them out of slavery in Egypt",
+        "By listing the punishments for disobedience first",
+        "By naming the mountain where he is speaking",
+        "By identifying Moses as the one who wrote the words"
+      ],
+      "correctAnswer": "By reminding Israel he brought them out of slavery in Egypt",
+      "explanation": "The commandments do not begin with a demand. They begin with what God has already done -- brought this people out of the house of slavery -- and only then ask anything of them.",
+      "hint": "The very first line is about what God has already done, not what Israel must do.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-002",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The first commandment forbids having any other gods before the LORD.",
+      "correctAnswer": true,
+      "explanation": "True. Everything else in the Law assumes this first claim: there is one God, and Israel's whole life is to be ordered around him alone.",
+      "hint": "It is the commandment every other commandment depends on.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-003",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "fill_blank",
+      "difficultyElo": 1810,
+      "prompt": "The Commandments open: 'I am the LORD your God, who brought you out of the land of Egypt, out of the house of ____.'",
+      "correctAnswer": "slavery",
+      "acceptedAnswers": [
+        "slavery",
+        "bondage"
+      ],
+      "explanation": "Deliverance comes first, law second. Israel does not earn rescue by keeping the commandments; they receive the commandments after they have already been rescued.",
+      "hint": "It names the condition Israel has just been freed from.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-004",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "Which of the Ten Commandments concerns keeping the seventh day holy?",
+      "choices": [
+        "The commandment to keep the sabbath",
+        "The commandment against stealing",
+        "The commandment to honor father and mother",
+        "The commandment against false witness"
+      ],
+      "correctAnswer": "The commandment to keep the sabbath",
+      "explanation": "Rest is written into the Law itself, not left as an afterthought. A people just freed from endless forced labor is commanded to stop -- one day in seven belongs to God and to rest.",
+      "hint": "It is about a day, not an action toward another person.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:8-11",
+          "quote": "Remember the sabbath day -- keep it holy. Six days you may labor and do all your work, but the seventh day is a sabbath of the LORD, your God."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-005",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: The Ten Commandments include instructions about how Israelites are to treat their neighbors, not only how to worship God.",
+      "correctAnswer": true,
+      "explanation": "True. The commandments split naturally into two halves: how to love God rightly, and how to treat parents, life, marriage, property, and truth among human beings.",
+      "hint": "Consider whether all ten commandments concern worship alone.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:12-17",
+          "quote": "Honor your father and your mother... You shall not kill. You shall not commit adultery. You shall not steal. You shall not bear dishonest witness against your neighbor."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-006",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "matching_pairs",
+      "difficultyElo": 1790,
+      "prompt": "Match each part of the Ten Commandments to what it governs.",
+      "pairs": [
+        { "left": "\"No other gods before me\"", "right": "Worship of the one true God" },
+        { "left": "\"Keep the sabbath holy\"", "right": "Rest and worship on the seventh day" },
+        { "left": "\"Honor your father and mother\"", "right": "Duty within the family" },
+        { "left": "\"You shall not steal\"", "right": "Respect for a neighbor's property" }
+      ],
+      "explanation": "The Commandments are not a random list. They move from God, to worship, to family, to the neighbor -- love of God ordering love of neighbor, not competing with it.",
+      "hint": "Notice the commandments move from God outward to human relationships.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:12-17",
+          "quote": "Honor your father and your mother... You shall not kill. You shall not commit adultery. You shall not steal. You shall not bear dishonest witness against your neighbor."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-007",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "Where does God give Moses the Ten Commandments?",
+      "choices": [
+        "On Mount Sinai",
+        "In the land of Canaan",
+        "At the Red Sea",
+        "In Pharaoh's court"
+      ],
+      "correctAnswer": "On Mount Sinai",
+      "explanation": "Sinai is where the people who left Egypt as a mixed, disorganized crowd of former slaves receive the Law that will shape them into a nation with an identity of its own.",
+      "hint": "It is the same mountain where Moses first met God in the burning bush.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-008",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: Israel is given the Law before being brought out of Egypt, as a condition for their rescue.",
+      "correctAnswer": false,
+      "explanation": "False. The order runs the other way. Israel is freed first, at Passover; the Law comes afterward, at Sinai. Rescue is the foundation the Law is built on, not something the Law earns.",
+      "hint": "Compare the order of Passover and Sinai in the story so far.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-009",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "fill_blank",
+      "difficultyElo": 1810,
+      "prompt": "Among the commandments concerning the neighbor: 'You shall not bear dishonest ____ against your neighbor.'",
+      "correctAnswer": "witness",
+      "acceptedAnswers": [
+        "witness",
+        "testimony"
+      ],
+      "explanation": "A community held together by trust needs truthful speech about one another as much as it needs honest hands. This commandment protects a neighbor's reputation the way others protect life and property.",
+      "hint": "It concerns what is said about someone, not what is taken from them.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:12-17",
+          "quote": "Honor your father and your mother... You shall not kill. You shall not commit adultery. You shall not steal. You shall not bear dishonest witness against your neighbor."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l13-010",
+      "topic": "old-testament",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "What is the relationship between the two halves of the Ten Commandments -- love of God and love of neighbor?",
+      "choices": [
+        "They are ordered together, God first, then neighbor",
+        "They are unrelated lists placed side by side",
+        "Love of neighbor replaces love of God entirely",
+        "Only the commandments about God carry real weight"
+      ],
+      "correctAnswer": "They are ordered together, God first, then neighbor",
+      "explanation": "The sequence is deliberate. Right worship of God comes first, and right treatment of one's neighbor follows from it -- not two separate moral systems, but one law with a single root.",
+      "hint": "Notice which commandments come first, and which follow.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:12-17",
+          "quote": "Honor your father and your mother... You shall not kill. You shall not commit adultery. You shall not steal. You shall not bear dishonest witness against your neighbor."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l14-001",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "After reading the terms of the covenant aloud, what does Moses do with the blood of the sacrificed animals?",
+      "choices": [
+        "Splashes it on the people, sealing the covenant",
+        "Pours all of it out on the ground",
+        "Burns it completely on the altar",
+        "Keeps it in a vessel inside the tent"
+      ],
+      "correctAnswer": "Splashes it on the people, sealing the covenant",
+      "explanation": "The covenant at Sinai is not just words agreed to -- it is sealed in blood, splashed on the altar and on the people alike, binding both sides of the covenant by the same sign.",
+      "hint": "The blood touches both the altar and the people themselves.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-002",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1775,
+      "prompt": "True or False: Moses calls the blood splashed on the people 'the blood of the covenant.'",
+      "correctAnswer": true,
+      "explanation": "True. Those exact words -- 'the blood of the covenant' -- are the ones Jesus will use again at the Last Supper, over the cup, deliberately echoing Sinai.",
+      "hint": "The exact phrase reappears at a much later meal in Scripture.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-003",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "fill_blank",
+      "difficultyElo": 1885,
+      "prompt": "Moses declares: 'This is the blood of the ____ that the LORD has made with you.'",
+      "correctAnswer": "covenant",
+      "acceptedAnswers": [
+        "covenant"
+      ],
+      "explanation": "The same phrase Moses speaks over the blood at Sinai is the phrase Jesus speaks over the cup at the Last Supper -- a deliberate echo the Gospel writers expected their readers to catch.",
+      "hint": "The same word this whole topic has followed since Noah.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-004",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "Why does sealing a covenant in blood matter, rather than simply agreeing to terms in words?",
+      "choices": [
+        "It binds both parties by a sign that costs something real",
+        "It was simply the legal paperwork of the ancient world",
+        "It had no real significance beyond ritual custom",
+        "It was required only because Israel was illiterate"
+      ],
+      "correctAnswer": "It binds both parties by a sign that costs something real",
+      "explanation": "A covenant sealed in blood is not a handshake. Life itself is the sign, which is exactly why the Church takes so seriously that Jesus chooses this same language for the new covenant in his own blood.",
+      "hint": "Consider why blood specifically, rather than any other sign.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-005",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1775,
+      "prompt": "True or False: The blood at Sinai is applied only to the altar, never to the people themselves.",
+      "correctAnswer": false,
+      "explanation": "False. The blood is applied to both -- first the altar, then the people. Both sides of the covenant, God's side and Israel's, are marked by the same sign.",
+      "hint": "Re-read where the blood actually goes.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-006",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "matching_pairs",
+      "difficultyElo": 1865,
+      "prompt": "Match each covenant this topic has followed to how it was sealed.",
+      "pairs": [
+        { "left": "The covenant with Noah", "right": "A rainbow in the clouds" },
+        { "left": "The covenant with Abraham", "right": "A promise of land, descendants, and blessing" },
+        { "left": "The covenant at Sinai", "right": "Blood splashed on the people" },
+        { "left": "The new covenant", "right": "Christ's own blood, at the Last Supper" }
+      ],
+      "explanation": "Every covenant in this topic has had its own sign. Sinai's is the most costly yet -- and it is the one Jesus reaches back to directly when he speaks over the cup.",
+      "hint": "Each covenant so far has had a distinct visible sign.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-007",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "How does the Sinai covenant fit the pattern of narrowing and widening that this topic has traced since Noah?",
+      "choices": [
+        "It binds one nation, continuing the narrowing that began with Abraham",
+        "It widens the covenant to include every nation at once",
+        "It returns the covenant's scope to all humanity, as with Noah",
+        "It has no connection to the covenants that came before it"
+      ],
+      "correctAnswer": "It binds one nation, continuing the narrowing that began with Abraham",
+      "explanation": "Noah's covenant was universal; Abraham's, one family; Sinai's, one nation formed out of that family. The scope keeps narrowing -- and this topic has already flagged where the widening back out will happen.",
+      "hint": "Compare the scope of this covenant to Abraham's and Noah's.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-008",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1775,
+      "prompt": "True or False: The words Moses speaks over the blood at Sinai are echoed by Jesus at the Last Supper.",
+      "correctAnswer": true,
+      "explanation": "True, and deliberately so. 'The blood of the covenant' is not incidental phrasing -- it is Jesus placing what he is doing at the Last Supper directly alongside what happened at Sinai.",
+      "hint": "This connection has already been named in this level.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-009",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "fill_blank",
+      "difficultyElo": 1885,
+      "prompt": "Moses splashes the blood 'on the ____,' sealing the covenant on their side as well as God's.",
+      "correctAnswer": "people",
+      "acceptedAnswers": [
+        "people"
+      ],
+      "explanation": "Both parties to the covenant are marked by the same blood -- a detail that makes clear this is a real, binding relationship, not merely words agreed to at a distance.",
+      "hint": "Who besides the altar receives the blood?",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l14-010",
+      "topic": "old-testament",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "What single word connects the covenants of Noah, Abraham, and Sinai, even though their signs differ?",
+      "choices": [
+        "Covenant",
+        "Kingdom",
+        "Exile",
+        "Temple"
+      ],
+      "correctAnswer": "Covenant",
+      "explanation": "Different signs, different scopes, different generations -- but one word holds the whole Old Testament together as a single story rather than a collection of unrelated episodes.",
+      "hint": "It is the word this whole topic keeps returning to.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 24:8",
+          "quote": "Moses took the blood and splashed it on the people, saying, 'This is the blood of the covenant that the LORD has made with you according to all these words.'"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 9:13",
+          "quote": "I set my bow in the clouds to serve as a sign of the covenant between me and the earth."
+        }
+      ]
+    },
+
+    {
+      "id": "old-testament-l15-001",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 1900,
+      "prompt": "While Moses is still on the mountain, what does Israel persuade Aaron to make for them?",
+      "choices": [
+        "A golden calf to worship",
+        "A new set of stone tablets",
+        "A tent for the ark of the covenant",
+        "A bronze altar for sacrifice"
+      ],
+      "correctAnswer": "A golden calf to worship",
+      "explanation": "Barely after promising to keep the covenant, the very people who heard 'no other gods before me' spoken aloud melt down their own gold to worship an image instead.",
+      "hint": "It is the exact thing the first commandment had just forbidden.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:1-4",
+          "quote": "Come, make us a god who will go before us... Aaron... fashioned out of this a molten calf."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-002",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 1850,
+      "prompt": "True or False: The golden calf incident happens while Moses is still receiving the Law on Mount Sinai.",
+      "correctAnswer": true,
+      "explanation": "True. The timing is what makes it so stark -- Israel breaks the very first commandment while the tablets containing it are still being written.",
+      "hint": "Consider where Moses physically is during this episode.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:1-4",
+          "quote": "Come, make us a god who will go before us... Aaron... fashioned out of this a molten calf."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-003",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "fill_blank",
+      "difficultyElo": 1960,
+      "prompt": "Coming down the mountain and seeing the calf, Moses ____ the tablets, breaking them at the foot of the mountain.",
+      "correctAnswer": "smashed",
+      "acceptedAnswers": [
+        "smashed",
+        "broke",
+        "shattered"
+      ],
+      "explanation": "The tablets Moses breaks are the very ones inscribed by God at Sinai. His action mirrors, in an instant, what Israel has already done to the covenant itself.",
+      "hint": "What does Moses physically do with the tablets he is carrying?",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:19",
+          "quote": "he became enraged and threw the tablets down, smashing them on the base of the mountain."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-004",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 1900,
+      "prompt": "How does Moses respond when he sees the golden calf?",
+      "choices": [
+        "He smashes the stone tablets in anger",
+        "He quietly returns to the mountain without a word",
+        "He orders Aaron's immediate execution",
+        "He agrees to worship the calf alongside the people"
+      ],
+      "correctAnswer": "He smashes the stone tablets in anger",
+      "explanation": "The gesture is not random destruction -- it enacts, physically, what the people have already done. The covenant lies broken before the tablets do.",
+      "hint": "His action mirrors what has already happened to the covenant itself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:19",
+          "quote": "he became enraged and threw the tablets down, smashing them on the base of the mountain."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-005",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 1850,
+      "prompt": "True or False: After the golden calf, God abandons his covenant with Israel entirely.",
+      "correctAnswer": false,
+      "explanation": "False. Moses intercedes for the people -- the same pattern of intercession this topic first named at Abraham -- and the covenant is renewed rather than ended.",
+      "hint": "Consider what this topic has already said about intercession, and who began it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2634",
+          "quote": "Since Abraham, intercession -- asking on behalf of another -- has been characteristic of a heart attuned to God's mercy."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-006",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "matching_pairs",
+      "difficultyElo": 1940,
+      "prompt": "Match each moment of the golden calf episode to what it reveals.",
+      "pairs": [
+        { "left": "Israel makes the calf", "right": "Breaks the first commandment almost immediately" },
+        { "left": "Moses smashes the tablets", "right": "Enacts the covenant already broken" },
+        { "left": "Moses intercedes for the people", "right": "The same pattern begun by Abraham" },
+        { "left": "The covenant is renewed", "right": "God's mercy outlasts Israel's failure" }
+      ],
+      "explanation": "This is the first real test of everything sealed at Sinai, and it fails almost immediately. What holds the covenant together after this is not Israel's faithfulness but God's mercy and Moses' intercession.",
+      "hint": "The last item answers what happens after the first three.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:19",
+          "quote": "he became enraged and threw the tablets down, smashing them on the base of the mountain."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2634",
+          "quote": "Since Abraham, intercession -- asking on behalf of another -- has been characteristic of a heart attuned to God's mercy."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-007",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 1900,
+      "prompt": "Why does the golden calf episode matter for how this topic reads the rest of Israel's history?",
+      "choices": [
+        "It sets the pattern of failure and renewed mercy that repeats throughout",
+        "It proves Israel was never really chosen at all",
+        "It shows the covenant was permanently void from this point on",
+        "It has no bearing on anything that happens afterward"
+      ],
+      "correctAnswer": "It sets the pattern of failure and renewed mercy that repeats throughout",
+      "explanation": "This will not be the last time Israel breaks the covenant, nor the last time God renews it anyway. The rhythm set here -- failure met by mercy, not abandonment -- is the rhythm the rest of the Old Testament follows.",
+      "hint": "Think ahead to how many later stories will follow this same shape.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:19",
+          "quote": "he became enraged and threw the tablets down, smashing them on the base of the mountain."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-008",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 1850,
+      "prompt": "True or False: It is Aaron, Moses' own brother, who fashions the golden calf for the people.",
+      "correctAnswer": true,
+      "explanation": "True, and the detail is not incidental -- the man who will become Israel's first high priest is the one who gives in to the people's demand and shapes the idol himself.",
+      "hint": "He is the man who will later become Israel's first high priest.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:1-4",
+          "quote": "Come, make us a god who will go before us... Aaron... fashioned out of this a molten calf."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-009",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "fill_blank",
+      "difficultyElo": 1960,
+      "prompt": "The people tell Aaron: 'Come, make us a god who will go before ____.'",
+      "correctAnswer": "us",
+      "acceptedAnswers": [
+        "us"
+      ],
+      "explanation": "They do not deny God exists -- they demand a visible substitute to lead them, unwilling to wait on the God who cannot be seen while Moses is away on the mountain.",
+      "hint": "Whose place do they want the image to fill?",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:1-4",
+          "quote": "Come, make us a god who will go before us... Aaron... fashioned out of this a molten calf."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l15-010",
+      "topic": "old-testament",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 1900,
+      "prompt": "Looking at levels 13 through 15 together, what does the golden calf episode show about the Law given at Sinai?",
+      "choices": [
+        "Knowing the Law does not by itself keep anyone faithful to it",
+        "The Law was too difficult for Israel to ever understand",
+        "The Law was quietly replaced after this incident",
+        "The Law applied only to Moses, not to the people"
+      ],
+      "correctAnswer": "Knowing the Law does not by itself keep anyone faithful to it",
+      "explanation": "Israel has just heard the commandments spoken aloud and still breaks the first one within weeks. The Law can state what faithfulness looks like; it cannot, on its own, produce it.",
+      "hint": "Consider how little time passed between hearing the Law and breaking it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 20:1-17",
+          "quote": "I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me."
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:19",
+          "quote": "he became enraged and threw the tablets down, smashing them on the base of the mountain."
+        }
+      ]
+    }
+  ]
+}
