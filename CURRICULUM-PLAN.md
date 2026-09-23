@@ -412,9 +412,58 @@ gift rather than a cage.
 | 22 | The Trinity, divinization, and why the whole of doctrine coheres as one real story `[L10]` | 21 |
 | 23 | Capstone: dogma as a real gift, not a cage -- how doctrine protects the truths that make faith, hope, and love possible `[NEW]` | 22 |
 
-Dogmas-and-doctrine goes next, since it is one of the most heavily hard-gated
-topics and its already-thematic live bank needs the least invention of any
-remaining conceptual topic.
+**Done, Sep 23, 2026: Dogmas-and-doctrine (23 levels), following Church
+History, the Old Testament, Saints, Councils, and Heresies.** Drafted,
+verified, committed. Opens with three new foundational levels (what a
+dogma is, God's oneness, the Fall) below the old bank's easiest content,
+resequences the old bank's 10 levels by real conceptual difficulty with
+a new bridging level after each one, and closes with a new capstone
+naming dogma as a gift rather than a cage.
+
+---
+
+## Worked example -- Metaphysics, 21 levels (N=9 -> 2*9+3=21)
+
+Metaphysics is another genuinely conceptual topic, no real chronology.
+Its live bank is already unusually well-ordered thematically (being and
+reason -> act/potency -> causality -> transcendentals -> natural
+theology -> hylomorphism/divine simplicity -> the soul -> angels ->
+philosophical schools), but live level 1 opens by blending genuinely
+easy content (the basic principle of non-contradiction) with genuinely
+advanced content (analogical predication, "Being itself") in the same
+level -- exactly the plateau/jump Andrew's standard rules out. The
+journey below fixes this with three new, genuinely easy foundational
+levels below the current bank's floor, resequences the 9 old levels by
+real conceptual difficulty, adds one new bridging level after most of
+them (8 total, since 9 old levels have 8 real gaps between them), and
+closes with a new capstone.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What is metaphysics? Asking what is real, not just how it behaves `[NEW]` | nothing assumed |
+| 2 | The principle of non-contradiction -- reasoning's own most basic law `[NEW, easier version of L1 partial]` | 1 |
+| 3 | Cause and effect: why nothing real happens without a real cause `[NEW]` | 2 |
+| 4 | The four causes, and Aquinas's argument from motion (the First Way) `[L3]` | 3 |
+| 5 | From "it moves" to "it's caused": deepening the argument from motion `[NEW bridging]` | 4 |
+| 6 | Act and potency -- what real change actually is `[L2]` | 5 |
+| 7 | Why act and potency actually matter, beyond motion alone `[NEW bridging]` | 6 |
+| 8 | The transcendentals -- Being, Unity, Truth, and Goodness `[L4]` | 7 |
+| 9 | Evil as a real privation, not a real thing in its own right `[NEW bridging]` | 8 |
+| 10 | Natural theology -- the Five Ways in full `[L5]` | 9 |
+| 11 | What philosophy's own real proofs can and cannot reach, versus what revelation adds `[NEW bridging]` | 10 |
+| 12 | Being and reason -- essence/existence, analogical language, Being itself `[L1]` | 11 |
+| 13 | Why God is not "a being" but Being itself, more deeply considered `[NEW bridging]` | 12 |
+| 14 | Hylomorphism and divine simplicity `[L6]` | 13 |
+| 15 | Why prime matter can never really exist on its own `[NEW bridging]` | 14 |
+| 16 | The soul as the substantial form of the body `[L7]` | 15 |
+| 17 | Answering "isn't the soul just brain states?" in real conversation `[NEW bridging]` | 16 |
+| 18 | Angels -- purely spiritual creatures `[L8]` | 17 |
+| 19 | Why angels matter for understanding human nature by real contrast `[NEW bridging]` | 18 |
+| 20 | Philosophical schools within Catholic orthodoxy -- Thomism, Scotism, and more `[L9]` | 19 |
+| 21 | Capstone: metaphysics as the real study of what's actually real beneath appearances `[NEW]` | 20 |
+
+Metaphysics goes next, since it is hard-gated and its live bank is
+already close to a real conceptual order.
 
 ---
 
