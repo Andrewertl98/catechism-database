@@ -1,0 +1,684 @@
+{
+  "_comment": "DRAFT -- NOT live. Councils levels 4-6 of 19: level 4 is new (Chalcedon's Eutyches/Monophysitism, the four-adverb formula, the Oriental Orthodox division), completing the topic's opening arc on Christ's identity. Level 5 carries old live level 2's Constantinople II/III content forward (renumbered, re-seeded) with new material on the Three Chapters, Monothelitism as political compromise, and the Honorius I episode (framed accurately: private letters, not an ex cathedra definition). Level 6 carries old live level 3's Nicaea II content forward with new material on iconoclasm and the Incarnation's theological basis for images, marking Nicaea II as the last council both East and West jointly recognize.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l4-001",
+      "topic": "councils",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1185,
+      "prompt": "The Council of Chalcedon (451) is called the fourth ____ council, following Nicaea, Constantinople, and Ephesus.",
+      "correctAnswer": "ecumenical",
+      "acceptedAnswers": [
+        "ecumenical"
+      ],
+      "explanation": "'Ecumenical' means a council representing the whole Church, not just a region -- Chalcedon was the fourth such council in the Church's first four centuries, and completes the arc on Christ's own identity this topic opened with.",
+      "hint": "Count backward: Nicaea, Constantinople, Ephesus, then this one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-002",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "A monk named Eutyches, whose teaching Chalcedon condemned, taught what about Christ's two natures?",
+      "choices": [
+        "That Christ's divine and human natures blended into a single new nature after the Incarnation",
+        "That Christ had no human nature at all in him, only the divine nature",
+        "That Christ was, in reality, two separate persons only loosely joined together",
+        "That Christ's human nature was, in the end, superior to his own divine nature"
+      ],
+      "correctAnswer": "That Christ's divine and human natures blended into a single new nature after the Incarnation",
+      "explanation": "Eutyches's error -- later called Monophysitism, 'one nature' -- is the opposite mistake from Nestorius's: where Nestorius divided Christ's unity too sharply, Eutyches collapsed the real distinction between his two natures entirely.",
+      "hint": "This error blends what Nestorius, in the previous level, had divided too sharply.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-003",
+      "topic": "councils",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Chalcedon's own formula describes Christ's two natures as united 'without confusion, without change, without division, without separation.'",
+      "correctAnswer": true,
+      "explanation": "True. These four adverbs answer two errors at once: 'without confusion, without change' rules out Eutyches blending the natures together; 'without division, without separation' rules out Nestorius dividing them apart.",
+      "hint": "Notice how the first two words guard against one error, and the last two guard against the opposite one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-004",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Chalcedon's four-word formula -- without confusion, without change, without division, without separation -- is structured to answer which two errors at once?",
+      "choices": [
+        "Eutyches's blending of Christ's natures, and Nestorius's dividing of his Person",
+        "Arianism alone, with no reference to any later controversy",
+        "A purely later medieval dispute unrelated to the earlier councils",
+        "A dispute about the Holy Spirit rather than about Christ"
+      ],
+      "correctAnswer": "Eutyches's blending of Christ's natures, and Nestorius's dividing of his Person",
+      "explanation": "This formula is precisely engineered, word by word, to rule out both errors this whole topic's opening levels have now covered -- too little distinction, and too little unity.",
+      "hint": "Recall both errors this topic has covered across its first four levels.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-005",
+      "topic": "councils",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Chalcedon's own definition was accepted by every Christian church that had accepted the earlier councils, with no lasting division resulting from it.",
+      "correctAnswer": false,
+      "explanation": "False. A real and lasting division followed -- several churches, today called the Oriental Orthodox (including the Coptic, Armenian, and Syriac traditions), did not accept Chalcedon's formula and remain separate communions to this day, a division now well over fifteen centuries old.",
+      "hint": "Consider whether every church that accepted Nicaea, Constantinople, and Ephesus also accepted this fourth council.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465-467"
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-006",
+      "topic": "councils",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1165,
+      "prompt": "Match each fact about Chalcedon (451) to what it involves.",
+      "pairs": [
+        {
+          "left": "Eutyches",
+          "right": "Taught Christ's two natures blended into one after the Incarnation"
+        },
+        {
+          "left": "\"Without confusion, without change\"",
+          "right": "Rules out blending Christ's two natures together"
+        },
+        {
+          "left": "\"Without division, without separation\"",
+          "right": "Rules out dividing Christ into two separate persons"
+        },
+        {
+          "left": "The Oriental Orthodox churches",
+          "right": "Did not accept Chalcedon, remaining a separate communion today"
+        }
+      ],
+      "explanation": "Chalcedon's precision came at a real cost -- a division that, unlike the earlier heresies this topic covered, was never fully healed and persists into the present day.",
+      "hint": "Two rows concern the error and its precise answer; two concern the council's own lasting historical consequence.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-007",
+      "topic": "councils",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1075,
+      "prompt": "True or False: Chalcedon's formula teaches that Christ's divine and human natures are joined in one single Person, or hypostasis.",
+      "correctAnswer": true,
+      "explanation": "True. This is the positive heart of Chalcedon's teaching -- not merely a list of denials, but a real affirmation: one Person, two full and distinct natures, united without confusion and without division.",
+      "hint": "Recall what Chalcedon's formula affirms, not only what it denies.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-008",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Looking back across levels 2 through 4, what real pattern does this topic's first four councils together reveal about how doctrine develops?",
+      "choices": [
+        "Each council answers a genuine, specific error, refining the Church's precise language without changing the underlying faith itself",
+        "Each council simply repeats the previous one's teaching, with no real development taking place at all",
+        "Each council actually reversed and directly contradicted the teaching of the council right before it",
+        "The councils addressed completely unrelated subjects, with no real connection between any of them"
+      ],
+      "correctAnswer": "Each council answers a genuine, specific error, refining the Church's precise language without changing the underlying faith itself",
+      "explanation": "Nicaea, Constantinople I, Ephesus, and Chalcedon form one continuous argument -- not four separate topics, but the same faith in Christ's full divinity and full humanity, defended with increasing precision against four distinct errors.",
+      "hint": "Consider whether these four councils' teachings build on each other, or stand apart as unrelated events.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465-467"
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-009",
+      "topic": "councils",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1185,
+      "prompt": "Chalcedon's formula describes Christ's union of natures as concurring in one Person and one ____, the technical term for individual, concrete existence.",
+      "correctAnswer": "Subsistence",
+      "acceptedAnswers": [
+        "Subsistence",
+        "hypostasis"
+      ],
+      "explanation": "This precise technical term -- distinct from 'nature' -- is exactly what let Chalcedon affirm two full natures without dividing Christ into two separate individuals.",
+      "hint": "The Greek term for this is 'hypostasis.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l4-010",
+      "topic": "councils",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1125,
+      "prompt": "Having completed this topic's opening arc on Christ's own identity across four councils, what does the next level in this topic turn to?",
+      "choices": [
+        "Two later councils that had to clarify and defend Chalcedon's own teaching against continuing controversy",
+        "A complete and exhaustive repeat of this same level's own material about Chalcedon",
+        "A jump forward directly to the Protestant Reformation and the much later Council of Trent itself",
+        "A subject entirely unrelated to Christ's own nature or identity in any way"
+      ],
+      "correctAnswer": "Two later councils that had to clarify and defend Chalcedon's own teaching against continuing controversy",
+      "explanation": "Chalcedon's own precision did not end the underlying controversy immediately -- the next level covers two further councils that had to defend and complete its teaching more than a century later.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Constantinople (553)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-001",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "The Second Council of Constantinople (553) was convened primarily to address lingering disputes connected to which earlier council's teaching on Christ?",
+      "choices": [
+        "The Council of Chalcedon (451)",
+        "The Council of Nicaea (325)",
+        "The Council of Trent",
+        "The First Vatican Council"
+      ],
+      "correctAnswer": "The Council of Chalcedon (451)",
+      "explanation": "A century after Chalcedon, some still found its teaching ambiguous or objectionable; Constantinople II worked to clarify and defend it against continuing controversy -- exactly the follow-up the previous level's own closing question anticipated.",
+      "hint": "This council tried to clear up ambiguity left over from a council a century earlier.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Constantinople (553)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-002",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Constantinople II specifically condemned certain writings, known as the 'Three Chapters,' for what reason?",
+      "choices": [
+        "They were judged to lean toward Nestorius's earlier condemned teaching, undermining Chalcedon's own careful balance",
+        "They openly and directly denied the doctrine of the Holy Trinity itself, in every respect",
+        "They rejected the full authority of Sacred Scripture entirely and completely",
+        "They concerned only minor questions of Church discipline, never any real doctrine"
+      ],
+      "correctAnswer": "They were judged to lean toward Nestorius's earlier condemned teaching, undermining Chalcedon's own careful balance",
+      "explanation": "Some feared Chalcedon's own formula could be misread in a Nestorian direction; condemning these specific writings was part of clarifying that Chalcedon's teaching did not, in fact, reopen the error Ephesus had already settled.",
+      "hint": "Recall which earlier heresy, already condemned two councils back in this topic, this condemnation guards against.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Constantinople (553)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-003",
+      "topic": "councils",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1167,
+      "prompt": "True or False: The Third Council of Constantinople (680-681) condemned Monothelitism, the teaching that Christ had only one will.",
+      "correctAnswer": true,
+      "explanation": "The council taught that Christ, having two complete natures, also has two wills -- divine and human -- working always in perfect harmony.",
+      "hint": "One will or two? This council settled the question definitively.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-004",
+      "topic": "councils",
+      "level": 5,
+      "type": "fill_blank",
+      "difficultyElo": 1277,
+      "prompt": "The Third Council of Constantinople affirmed that Christ has two wills, corresponding to his two ____, divine and human.",
+      "correctAnswer": "natures",
+      "acceptedAnswers": [
+        "natures"
+      ],
+      "explanation": "A will belongs to a nature, not a person alone -- since Christ has two complete natures, he has two wills, always united without conflict.",
+      "hint": "Two wills matching two of what, exactly?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-005",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Monothelitism, condemned at Constantinople III, was originally proposed as what kind of solution?",
+      "choices": [
+        "A political compromise aimed at reconciling Chalcedonian and non-Chalcedonian Christians under one shared formula",
+        "A purely academic theory with no practical or political motivation behind it at all",
+        "An attempt to reopen and completely reverse Nicaea's own earlier teaching on the Trinity",
+        "A liturgical reform with no real connection to any doctrinal question whatsoever"
+      ],
+      "correctAnswer": "A political compromise aimed at reconciling Chalcedonian and non-Chalcedonian Christians under one shared formula",
+      "explanation": "Affirming 'one will' was floated as a way to paper over the real division Chalcedon had left behind, covered in the previous level -- a case study in how a doctrinal compromise, however well-intentioned politically, can itself become a new error requiring correction.",
+      "hint": "Recall the real, lasting division Chalcedon left behind, covered in the previous level.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-006",
+      "topic": "councils",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1167,
+      "prompt": "True or False: Pope Honorius I, who had died decades earlier, was posthumously condemned by name at Constantinople III for language in his own letters that encouraged the Monothelite position.",
+      "correctAnswer": true,
+      "explanation": "True, and it is a real, documented episode worth understanding precisely: Honorius's letters were private correspondence offering pastoral guidance, not a solemn ex cathedra definition, which is exactly why this case does not touch later teaching on papal infallibility -- infallibility applies specifically to solemn definitions, not to every letter a pope ever writes.",
+      "hint": "Consider what kind of document Honorius's own letters actually were -- private correspondence, or a solemn formal definition.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-007",
+      "topic": "councils",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1257,
+      "prompt": "Match each fact about Constantinople II and III to what it involves.",
+      "pairs": [
+        {
+          "left": "Constantinople II (553)",
+          "right": "Clarified and defended Chalcedon's teaching against continuing controversy"
+        },
+        {
+          "left": "The Three Chapters",
+          "right": "Writings condemned for leaning toward Nestorius's earlier error"
+        },
+        {
+          "left": "Monothelitism",
+          "right": "A political compromise claiming Christ had only one will"
+        },
+        {
+          "left": "Pope Honorius I",
+          "right": "Posthumously condemned for language encouraging that error"
+        }
+      ],
+      "explanation": "Both councils show the same real pattern -- doctrinal controversy is rarely settled by a single council alone, and even a pope's own private correspondence could, in this one documented case, require later correction.",
+      "hint": "Two rows concern Constantinople II's own concerns; two concern Constantinople III's condemnation of Monothelitism.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Constantinople (553)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-008",
+      "topic": "councils",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1167,
+      "prompt": "True or False: The Honorius episode shows that an ecumenical council can, in a real documented case, correct even a pope's own past private statements without undermining the Church's teaching on papal infallibility.",
+      "correctAnswer": true,
+      "explanation": "True. Papal infallibility, as later councils would define with real precision, applies to solemn ex cathedra definitions specifically -- a pope's private letters, however influential, were never covered by that later teaching, which is exactly why this case does not create the contradiction it might seem to at first glance.",
+      "hint": "Recall the precise, narrow scope later teaching on papal infallibility actually covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)",
+          "quote": "two natural volitions or wills in him and two natural principles of action which undergo no division, no change, no partition, no confusion... his human will following, and not resisting or struggling, rather in fact subject to his divine and all powerful will."
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-009",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Taken together, what do Constantinople II and III add to this topic's picture of how the Church settles doctrinal controversy?",
+      "choices": [
+        "That settling a question is not always a one-time event -- real controversy can persist for generations and require further councils to fully resolve",
+        "That every doctrinal question in Church history was settled by a single council with no later controversy of any kind",
+        "That political compromise is always an acceptable path to doctrinal truth, regardless of its content",
+        "That papal statements of any kind are automatically infallible and can never be questioned"
+      ],
+      "correctAnswer": "That settling a question is not always a one-time event -- real controversy can persist for generations and require further councils to fully resolve",
+      "explanation": "Chalcedon's own precision in level 4 did not instantly end the underlying controversy -- it took two further councils, over more than a century, to fully clarify and defend what Chalcedon had already taught.",
+      "hint": "Consider how many years, and how many further councils, it actually took to fully settle the questions Chalcedon opened.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Constantinople (553)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l5-010",
+      "topic": "councils",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1217,
+      "prompt": "Having now traced the six councils that settled Christ's own identity, from Nicaea through Constantinople III, what does the next level in this topic turn to?",
+      "choices": [
+        "A new controversy entirely -- Nicaea II (787), a dispute not about Christ's nature but about venerating religious images",
+        "A complete and exhaustive repeat of this same level's material about Constantinople II and III",
+        "A jump forward directly to the Protestant Reformation and the later Council of Trent",
+        "A subject entirely unrelated to any doctrinal controversy this topic has covered so far"
+      ],
+      "correctAnswer": "A new controversy entirely -- Nicaea II (787), a dispute not about Christ's nature but about venerating religious images",
+      "explanation": "With the six great Christological councils now complete, this topic moves to a genuinely different kind of question -- not who Christ is, but how the Church may rightly depict and honor him and the saints in art.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-001",
+      "topic": "councils",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "The Second Council of Nicaea (787) resolved the Byzantine Iconoclast controversy by teaching that:",
+      "choices": [
+        "Icons may be venerated, since the honor given passes through to what the image represents",
+        "All religious images of any kind must be destroyed without any exception",
+        "Only the Eucharist itself may ever be venerated, and nothing else",
+        "Icons are permitted only inside private homes, never in public churches"
+      ],
+      "correctAnswer": "Icons may be venerated, since the honor given passes through to what the image represents",
+      "explanation": "This council settled decades of imperial destruction of icons by teaching that venerating an image is not idolatry -- the honor passes through the image to the person it depicts.",
+      "hint": "The key idea: honoring an image honors what it shows, not the wood and paint itself.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-002",
+      "topic": "councils",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1368,
+      "prompt": "The 787 council that restored the veneration of icons in the East is known as the Second Council of ____.",
+      "correctAnswer": "Nicaea",
+      "acceptedAnswers": [
+        "Nicaea"
+      ],
+      "explanation": "It shares its name with the very first ecumenical council of 325, held in the same city more than four centuries later -- a real echo, not a coincidence, of this topic's own opening level.",
+      "hint": "The same city that hosted the very first ecumenical council, centuries later.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-003",
+      "topic": "councils",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1258,
+      "prompt": "True or False: Byzantine emperors, before this council, had ordered the widespread destruction of religious icons across the empire.",
+      "correctAnswer": true,
+      "explanation": "True. Iconoclasm ('image-breaking') was imperial policy for decades before Nicaea II, backed by real political and military force -- not a marginal theological dispute, but a controversy that reshaped Byzantine religious life by force.",
+      "hint": "Consider the literal meaning of the word 'iconoclasm' itself.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-004",
+      "topic": "councils",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "What theological argument did Nicaea II give for why Christian images are now permitted, when the Old Testament forbade images of God?",
+      "choices": [
+        "Because God became visible and human in the Incarnation, he can now be truly depicted, unlike the invisible God of the Old Covenant",
+        "Because the Old Testament prohibition on images had, by this period, simply been forgotten entirely",
+        "Because Nicaea II formally and directly overturned and reversed the Ten Commandments themselves",
+        "Because images of Christ were considered purely decorative by this council, with no theological meaning"
+      ],
+      "correctAnswer": "Because God became visible and human in the Incarnation, he can now be truly depicted, unlike the invisible God of the Old Covenant",
+      "explanation": "This is a real doctrinal development, not a reversal -- the Old Testament prohibition guarded against depicting the invisible God as an idol; the Incarnation itself changed what is actually possible to depict, since God himself took visible, human flesh in Christ.",
+      "hint": "Consider what changed, between the Old Covenant and the New, about God's own visibility.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-005",
+      "topic": "councils",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1258,
+      "prompt": "True or False: Nicaea II's teaching on images being permitted because of the Incarnation directly connects to the Old Testament's own prohibition on images of the invisible God.",
+      "correctAnswer": true,
+      "explanation": "True, and this is a real example of how doctrine develops without breaking from what came before -- the New Covenant does not simply cancel the Old Covenant's prohibition, it explains exactly why the situation has genuinely changed.",
+      "hint": "Recall the Old Testament's own strong prohibition on images of God, and what specifically has changed since then.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-006",
+      "topic": "councils",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1348,
+      "prompt": "Match each fact about Nicaea II (787) to what it involves.",
+      "pairs": [
+        {
+          "left": "Iconoclasm",
+          "right": "Imperial policy ordering the destruction of religious icons"
+        },
+        {
+          "left": "Nicaea II's core teaching",
+          "right": "Honor given to an image passes through to the person it depicts"
+        },
+        {
+          "left": "The Incarnation's role",
+          "right": "God's visible, human flesh in Christ makes true depiction now possible"
+        },
+        {
+          "left": "The Old Testament prohibition",
+          "right": "Guarded against images of the invisible God, not overturned but fulfilled"
+        }
+      ],
+      "explanation": "This whole controversy turns on a real theological argument, not a mere change of custom -- the Incarnation itself is what makes Nicaea II's teaching a development of the Old Covenant's own prohibition, not a break from it.",
+      "hint": "Follow the argument in order: the policy being answered, the council's own teaching, and its theological basis in the Incarnation and the Old Covenant.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-007",
+      "topic": "councils",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1258,
+      "prompt": "True or False: Nicaea II is recognized as an ecumenical council by both the Catholic Church and the Eastern Orthodox Churches.",
+      "correctAnswer": true,
+      "explanation": "True, and this matters for what comes next in this topic -- Nicaea II is, in fact, the last ecumenical council both East and West recognize together before their own relationship begins the long drift toward the 1054 schism.",
+      "hint": "Consider what this shared recognition suggests about the state of East-West relations at this specific point in history.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-008",
+      "topic": "councils",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "Why does Nicaea II's status as the last council both East and West jointly recognize matter for this topic's own chronological arc?",
+      "choices": [
+        "It marks a turning point -- every later council here is recognized by only one side of a growing division",
+        "It has, when examined closely, no real significance at all for anything covered later in this topic",
+        "It means that no further ecumenical councils of any kind were ever held after 787",
+        "It means East and West have, in fact, remained in full unity ever since this council met"
+      ],
+      "correctAnswer": "It marks a turning point -- every later council here is recognized by only one side of a growing division",
+      "explanation": "From here forward, this topic's remaining councils -- Lyon, Florence, Trent, Vatican I and II -- are all specifically Western councils, a real, structural shift this level's placement makes visible.",
+      "hint": "Consider what kind of councils this topic covers from this point forward.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-009",
+      "topic": "councils",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1368,
+      "prompt": "The Church distinguishes veneration, given to icons and saints, from ____, the worship owed to God alone.",
+      "correctAnswer": "adoration",
+      "acceptedAnswers": [
+        "adoration",
+        "latria"
+      ],
+      "explanation": "This same distinction, already familiar from elsewhere in this app's own content on the saints, is exactly what Nicaea II's own teaching depends on -- honoring an image is never the same act as worshipping God.",
+      "hint": "The specific kind of worship reserved for God alone, never given to any image or saint.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Nicaea (787)",
+          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+        }
+      ]
+    },
+    {
+      "id": "councils-l6-010",
+      "topic": "councils",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1308,
+      "prompt": "Given Nicaea II's place as the last jointly recognized council, what does the next level in this topic turn to?",
+      "choices": [
+        "Later medieval attempts at East-West reunion -- the Second Council of Lyon and the Council of Florence",
+        "A complete repeat of this same level's material about Nicaea II",
+        "A jump forward directly to the Protestant Reformation and the Council of Trent",
+        "A subject entirely unrelated to East-West relations or to any council this topic has covered"
+      ],
+      "correctAnswer": "Later medieval attempts at East-West reunion -- the Second Council of Lyon and the Council of Florence",
+      "explanation": "The next level follows the growing East-West division this level has just introduced, through two real, serious, but ultimately unsuccessful medieval attempts to heal it.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Lyon (1274)"
+        }
+      ]
+    }
+  ]
+}
