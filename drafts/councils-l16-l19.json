@@ -1,0 +1,993 @@
+{
+  "_comment": "DRAFT -- NOT live. Councils levels 16-19 of 19 (final): level 16 is new, covering Vatican II's own documents in real depth (the four constitutions, decrees, declarations), reusing already-reviewed council citations from across this app (Dei Verbum 11, Sacrosanctum Concilium 7, Lumen Gentium 1, Nostra Aetate, Unitatis Redintegratio). Levels 17-18 are the old live levels 6/7 verbatim, renumbered and re-seeded: precise conciliar terminology, and answering real objections about the councils. Level 19, the capstone, synthesizes this topic's whole 21-council arc, explicitly naming the same 'hermeneutic of reform' continuity-without-rupture theme this app's own Church History and Saints capstones already established.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l16-001",
+      "topic": "councils",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 2225,
+      "prompt": "Vatican II produced four documents ranked as constitutions, its highest category. Which set is correct?",
+      "choices": [
+        "Sacrosanctum Concilium, Lumen Gentium, Dei Verbum, Gaudium et Spes",
+        "Nostra Aetate, Unitatis Redintegratio, Dignitatis Humanae, Ad Gentes",
+        "Lumen Gentium, Humanae Vitae, Dei Verbum, Pastor Aeternus",
+        "Gaudium et Spes, Casti Connubii, Sacrosanctum Concilium, Nostra Aetate"
+      ],
+      "correctAnswer": "Sacrosanctum Concilium, Lumen Gentium, Dei Verbum, Gaudium et Spes",
+      "explanation": "Liturgy, the Church, divine revelation, and the Church in the modern world. The wrong options mix in declarations and decrees, which are real conciliar documents of lower rank, and papal encyclicals, which are not conciliar documents at all.",
+      "hint": "Four subjects: how the Church worships, what she is, how revelation reaches her, and how she meets the world.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-002",
+      "topic": "councils",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2265,
+      "prompt": "Match each Vatican II constitution to its subject.",
+      "pairs": [
+        {
+          "left": "Sacrosanctum Concilium",
+          "right": "The sacred liturgy"
+        },
+        {
+          "left": "Lumen Gentium",
+          "right": "The Church herself"
+        },
+        {
+          "left": "Dei Verbum",
+          "right": "Divine revelation, Scripture and Tradition"
+        },
+        {
+          "left": "Gaudium et Spes",
+          "right": "The Church in the modern world"
+        }
+      ],
+      "explanation": "Each is titled by its own opening words in Latin, so the title is a genuine clue rather than a label chosen afterward. Lumen Gentium -- light of the nations -- is a claim about what the Church is, made in the first two words of the document about her.",
+      "hint": "Two of these titles translate as 'light of the nations' and 'the word of God'.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-003",
+      "topic": "councils",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 2175,
+      "prompt": "True or False: Below the rank of constitution, Vatican II also produced decrees and declarations, two further real categories of conciliar document.",
+      "correctAnswer": true,
+      "explanation": "True. Decrees like Unitatis Redintegratio, on ecumenism, and declarations like Nostra Aetate and Dignitatis Humanae, on other religions and religious liberty, are real, authoritative documents of this same council, even though they rank below the four constitutions.",
+      "hint": "Consider whether every one of Vatican II's sixteen documents actually carries the same formal rank.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio (1964)",
+          "quote": "The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council."
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-004",
+      "topic": "councils",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 2225,
+      "prompt": "Dei Verbum, Vatican II's constitution on divine revelation, taught what about the books of Scripture?",
+      "choices": [
+        "That they firmly, faithfully, and without error teach the truth God wished put in writing for our salvation",
+        "That they contain occasional factual errors that do not affect matters of faith",
+        "That only the New Testament, not the Old, carries real inspired authority",
+        "That Scripture's authority depends entirely on later Church approval, not on its own inspiration"
+      ],
+      "correctAnswer": "That they firmly, faithfully, and without error teach the truth God wished put in writing for our salvation",
+      "explanation": "Dei Verbum 11 restates, in the Church's own most recent ecumenical council, the same real confidence in Scripture's own truthfulness this app's own Sacred Scripture topic covers directly -- inerrancy oriented toward the truth God wished revealed for salvation.",
+      "hint": "This is the same teaching on Scripture's own truthfulness covered directly in this app's Sacred Scripture topic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 11",
+          "quote": "The books of Scripture firmly, faithfully, and without error teach the truth that God, for the sake of our salvation, wished to be put in writing in Holy Writ."
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-005",
+      "topic": "councils",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 2175,
+      "prompt": "True or False: Sacrosanctum Concilium teaches that Christ himself is present when Scripture is proclaimed at Mass, not only in the Eucharist.",
+      "correctAnswer": true,
+      "explanation": "True. This constitution names several real modes of Christ's presence in the liturgy -- in the priest, in the Eucharistic species, and in his own word as it is read -- a real theological point about the liturgy this app's own Liturgy and Mass topic covers in full.",
+      "hint": "Consider what this constitution says happens specifically when the Scriptures are read aloud in church.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 7",
+          "quote": "He is present in his word, since it is he himself who speaks when the holy scriptures are read in the Church."
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-006",
+      "topic": "councils",
+      "level": 16,
+      "type": "fill_blank",
+      "difficultyElo": 2285,
+      "prompt": "Lumen Gentium teaches that the Church is, in Christ, like a sacrament -- a sign and ____ of union with God and of the unity of the whole human race.",
+      "correctAnswer": "instrument",
+      "acceptedAnswers": [
+        "instrument"
+      ],
+      "explanation": "This is Lumen Gentium's own opening claim about what the Church actually is -- not merely an institution, but a real sign and instrument of the very union and unity she exists to serve.",
+      "hint": "A sign and this -- something used to bring about a real effect.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 1",
+          "quote": "the Church is in Christ like a sacrament or as a sign and instrument both of a very closely knit union with God and of the unity of the whole human race"
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-007",
+      "topic": "councils",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 2175,
+      "prompt": "True or False: Nostra Aetate, Vatican II's declaration on non-Christian religions, teaches that the Catholic Church rejects nothing that is true and holy in those religions.",
+      "correctAnswer": true,
+      "explanation": "True, and this teaching does not stand alone -- it sits within the same council's Dignitatis Humanae, on religious liberty, and Unitatis Redintegratio, on ecumenism, together forming Vatican II's real, considered engagement with the wider world this whole level has been tracing.",
+      "hint": "This is the same declaration already referenced in Church History's own coverage of Vatican II.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Nostra Aetate (1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-008",
+      "topic": "councils",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2265,
+      "prompt": "Match each Vatican II document below the rank of constitution to its real subject.",
+      "pairs": [
+        {
+          "left": "Unitatis Redintegratio",
+          "right": "Ecumenism -- restoring unity among Christians"
+        },
+        {
+          "left": "Nostra Aetate",
+          "right": "The Church's relationship to non-Christian religions"
+        },
+        {
+          "left": "Dignitatis Humanae",
+          "right": "Religious liberty, rooted in human dignity"
+        },
+        {
+          "left": "Ad Gentes",
+          "right": "The Church's own missionary activity"
+        }
+      ],
+      "explanation": "These four documents, all ranked below the four constitutions, still carry real conciliar authority -- rank describes a document's place in Vatican II's own structure, not whether its teaching matters.",
+      "hint": "Each of these documents addresses the Church's relationship to some group outside, or partly outside, full Catholic communion.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio (1964)",
+          "quote": "The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council."
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-009",
+      "topic": "councils",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 2175,
+      "prompt": "True or False: Taken together, Vatican II's sixteen documents show a council genuinely engaging nearly every dimension of the Church's own life -- worship, self-understanding, revelation, the modern world, other religions, and mission alike.",
+      "correctAnswer": true,
+      "explanation": "True, and this real breadth is exactly what makes Vatican II's own real scope, already introduced in the previous level, concrete rather than abstract -- not one narrow question answered, but a comprehensive real engagement across the Church's whole life.",
+      "hint": "Consider the real range of subjects this level alone has already covered, from Scripture to religious liberty to mission.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l16-010",
+      "topic": "councils",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 2225,
+      "prompt": "Having now covered Vatican II's own real documents in depth, closing this topic's full chronological arc from Nicaea to Vatican II, what does the next level in this topic turn to?",
+      "choices": [
+        "The precise technical vocabulary this topic has used throughout -- canons, decrees, anathema sit -- now explained directly",
+        "A complete and exhaustive repeat of this same level's own material about Vatican II's documents",
+        "A jump backward to Nicaea, which this topic has already fully covered at the very start",
+        "A subject entirely unrelated to any single council this topic has covered up to now"
+      ],
+      "correctAnswer": "The precise technical vocabulary this topic has used throughout -- canons, decrees, anathema sit -- now explained directly",
+      "explanation": "With this topic's real chronological journey now complete, the remaining levels turn to the vocabulary, apologetics, and synthesis this whole journey has been building a learner toward -- concrete history first, the technical and contested questions only now.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-001",
+      "topic": "councils",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "The Council of Chalcedon (451) defined Christ's two natures united 'without confusion, without change, without division, without separation' (asynchytos, atreptos, adiairetos, achoristos). Why did the Council need four qualifiers rather than a single word?",
+      "choices": [
+        "It excludes two opposite errors at once: Eutyches's confusion of the natures, and Nestorius's division of Christ into two subjects",
+        "Because the four words are simply synonyms, repeated purely for poetic emphasis and nothing more",
+        "Because each of the four qualifiers applies to a completely different Person of the Trinity",
+        "Because Chalcedon could not reach agreement on one single formula and so listed four competing options"
+      ],
+      "correctAnswer": "It excludes two opposite errors at once: Eutyches's confusion of the natures, and Nestorius's division of Christ into two subjects",
+      "explanation": "Chalcedon's four adverbs work in two pairs against two opposite errors: 'without confusion, without change' excludes Eutyches's monophysite blending of the two natures into one, while 'without division, without separation' excludes Nestorius's splitting of Christ into two separate subjects -- a single word could not close off both errors simultaneously, which is why the Council needed all four.",
+      "hint": "Two of the four words guard against one error; the other two guard against the opposite error.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-002",
+      "topic": "councils",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Nicaea I (325) chose 'homoousios' (same substance) over Arius's implied 'homoiousios' (like substance) for the Son's relation to the Father. Why did this one-letter difference matter so much?",
+      "choices": [
+        "'Homoousios' affirms the Son shares the Father's own divine nature; 'homoiousios' would only affirm a mere resemblance",
+        "The two words are, in the end, actually identical in meaning, and the whole debate was purely political",
+        "'Homoousios' refers only to the Son's own human nature, and says nothing at all about his divinity",
+        "This whole distinction was invented centuries after Nicaea and has no real basis in the actual council"
+      ],
+      "correctAnswer": "'Homoousios' affirms the Son shares the Father's own divine nature; 'homoiousios' would only affirm a mere resemblance",
+      "explanation": "'Homoousios' (same substance) closes off any reading of the Son as a similar-but-distinct, lesser divine being; 'homoiousios' (like substance, differing by one iota) would have left exactly that door open, which is why the seemingly tiny difference carried the full weight of whether the Son is truly God or merely God-like.",
+      "hint": "One version affirms identity of nature; the other only affirms resemblance, which leaves an escape route for Arius's position.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-003",
+      "topic": "councils",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: A Tridentine 'chapter' (capitulum) is a positive doctrinal statement, while the corresponding 'canon' attached to it is typically a condemnation in 'si quis dixerit... anathema sit' ('if anyone says... let him be anathema') form -- two distinct but related parts of the same session's teaching.",
+      "correctAnswer": true,
+      "explanation": "Trent's characteristic structure pairs a positive doctrinal chapter, explaining what the Church actually teaches, with one or more canons in the 'si quis dixerit... anathema sit' form, condemning a specific denial of that teaching -- the chapter states the doctrine; the canon marks its boundary against a named error.",
+      "hint": "One part explains what is taught; the other marks the boundary against denying it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6"
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-004",
+      "topic": "councils",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Per Pastor Aeternus's own wording, which of the following would NOT meet the conditions for an ex cathedra definition?",
+      "choices": [
+        "A pope's private theological opinion expressed in a personal letter to a friend, with no intention of binding the universal Church",
+        "A pope teaching, in his office as supreme shepherd and teacher of all Christians, a doctrine of faith or morals he intends the whole Church to hold",
+        "A pope invoking his supreme apostolic authority to define a doctrine of faith",
+        "A pope explicitly intending a definition to bind the universal Church"
+      ],
+      "correctAnswer": "A pope's private theological opinion expressed in a personal letter to a friend, with no intention of binding the universal Church",
+      "explanation": "Pastor Aeternus's precise conditions require the Pope to be teaching in his office as supreme shepherd and teacher of all Christians, by his supreme apostolic authority, defining a doctrine of faith or morals, with the clear intent that it bind the universal Church -- a private opinion expressed with no such intent, in a personal letter, meets none of these conditions.",
+      "hint": "Three of these four options are literally the conditions themselves; one describes something those conditions are specifically designed to exclude.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-005",
+      "topic": "councils",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "What is the functional difference between a council's 'canons' and its 'decrees'?",
+      "choices": [
+        "Canons typically condemn specific errors, often in anathema form; decrees set out positive teaching or discipline",
+        "Canons and decrees are simply two different words for the exact same kind of conciliar text",
+        "Decrees only concern Church governance, while canons only concern liturgical rubrics",
+        "Canons are issued only by an ecumenical council, while decrees can be issued by any individual bishop"
+      ],
+      "correctAnswer": "Canons typically condemn specific errors, often in anathema form; decrees set out positive teaching or discipline",
+      "explanation": "While usage varies somewhat across different councils, the general functional pattern holds: canons tend to mark the boundary of orthodoxy by condemning specific errors, often in anathema form, while decrees lay out the council's positive doctrinal teaching or practical/disciplinary legislation for the Church.",
+      "hint": "One type of text is oriented toward condemning a boundary violation; the other toward stating or legislating something positively.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 7"
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-006",
+      "topic": "councils",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each conciliar term or fact to its precise meaning.",
+      "pairs": [
+        {
+          "left": "Chalcedon's four adverbs",
+          "right": "Two pairs excluding two opposite errors -- Eutyches's confusion and Nestorius's division"
+        },
+        {
+          "left": "Homoousios vs. homoiousios",
+          "right": "Same substance vs. mere resemblance -- the difference between true and lesser divinity for the Son"
+        },
+        {
+          "left": "A Tridentine chapter and its canon",
+          "right": "A positive doctrinal statement paired with a condemnation of its denial"
+        },
+        {
+          "left": "Constantinople I's creed additions",
+          "right": "Clauses on the Holy Spirit's divinity that Nicaea I's original creed had not yet addressed"
+        }
+      ],
+      "explanation": "Each of these names a precise technical apparatus a specific council actually used, wired to the exact error or gap it was designed to close -- not an inert vocabulary flashcard.",
+      "hint": "Each right answer names what a specific council's tool actually excludes or adds, not just a general description.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-007",
+      "topic": "councils",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "Vatican II's documents carry three ranks: constitutions, decrees and declarations. What does the ranking indicate?",
+      "choices": [
+        "The weight and scope of the document, not whether it is authoritative -- all were promulgated by the council",
+        "Which specific documents are formally binding, and which are considered merely optional",
+        "The particular order in which each of these documents happened to be debated",
+        "Which specific documents were, in the end, approved by a fully unanimous vote"
+      ],
+      "correctAnswer": "The weight and scope of the document, not whether it is authoritative -- all were promulgated by the council",
+      "explanation": "A declaration such as Nostra Aetate is not a lesser-authority text to be set aside; it is narrower in scope than a dogmatic constitution. Treating the ranking as a scale of optionality is a common way of quietly discarding documents one finds inconvenient.",
+      "hint": "The distinction concerns scope and weight, not whether a document counts.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-008",
+      "topic": "councils",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2267,
+      "prompt": "True or False: A council's canon ending 'anathema sit' was primarily a procedural formula marking a position as excluded from Catholic faith, rather than a personal curse.",
+      "correctAnswer": true,
+      "explanation": "True. The formula marks a proposition as incompatible with the faith and attaches a canonical consequence to holding it obstinately. Read as a curse hurled at individuals it sounds vindictive; read as what it is — a boundary marker in a legal text — it is doing the ordinary work of definition.",
+      "hint": "Ask whether the formula is aimed at a proposition or at a person.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-009",
+      "topic": "councils",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2317,
+      "prompt": "A council's teaching requires papal confirmation to bind the whole Church. What does this reflect about how the college of bishops acts?",
+      "choices": [
+        "The college has no authority apart from its head, so a conciliar act needs the Pope's own confirmation",
+        "The Pope may, in principle, alter any council's own decrees at will after the fact",
+        "The bishops' own authority derives entirely and exclusively from the Pope as an individual",
+        "Confirmation is, in reality, merely an administrative formality with no bearing on authority"
+      ],
+      "correctAnswer": "The college has no authority apart from its head, so a conciliar act needs the Pope's own confirmation",
+      "explanation": "Collegiality and primacy are not rival forces held in balance. The college simply is not the college without its head, which is why confirmation completes a conciliar act rather than approving it from outside. It is also why gatherings of bishops that lacked it are not counted as ecumenical.",
+      "hint": "Ask what the college is, rather than who outranks whom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 22"
+        }
+      ]
+    },
+    {
+      "id": "councils-l17-010",
+      "topic": "councils",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2357,
+      "prompt": "Match each conciliar term to what it precisely denotes.",
+      "pairs": [
+        {
+          "left": "Canon",
+          "right": "A short condemnation of a specific proposition, often with anathema sit"
+        },
+        {
+          "left": "Chapter",
+          "right": "The positive doctrinal exposition the canons then defend"
+        },
+        {
+          "left": "Constitution",
+          "right": "A conciliar document of the highest weight and scope"
+        },
+        {
+          "left": "Reception",
+          "right": "The Church's living appropriation of what a council taught"
+        }
+      ],
+      "explanation": "The chapter–canon pairing is the one worth internalising: Trent states the doctrine positively in chapters and then fences it negatively in canons. Reading the canons alone yields a Church that only condemns, which is how Trent is most often caricatured.",
+      "hint": "Two of these are parts of a single document's structure, and they work as a pair.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-001",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "Consider this description: 'Christ's human nature was so filled with divinity that it ceased to have its own distinct human characteristics, becoming absorbed into his divine nature like a drop of wine dissolved in the ocean.' Which Chalcedonian qualifier does this violate, and which historical error does it echo?",
+      "choices": [
+        "It violates 'without confusion' and 'without change,' echoing Eutyches's monophysite blending of the two natures into one",
+        "It violates 'without division,' echoing Nestorius's splitting of Christ into two separate subjects",
+        "It violates no Chalcedonian qualifier and is fully orthodox as stated",
+        "It only concerns the Holy Spirit's procession, unrelated to Chalcedon"
+      ],
+      "correctAnswer": "It violates 'without confusion' and 'without change,' echoing Eutyches's monophysite blending of the two natures into one",
+      "explanation": "The drop-of-wine-in-the-ocean image is a classic description of the error Chalcedon's 'without confusion, without change' language was built specifically to exclude -- Eutyches's monophysitism, where the human nature is absorbed into and effectively disappears within the divine nature, rather than the two natures remaining distinct while united in one Person.",
+      "hint": "This description has the human nature disappearing into the divine -- that's the specific error 'without confusion' was written to rule out.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-002",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "Consider a claim: 'The Son is God's first and greatest creation, brought into existence by the Father before all other things, but not eternally existing as God himself.' Applying Nicaea's homoousios, where precisely does this claim depart from Nicene teaching?",
+      "choices": [
+        "It denies the Son shares the Father's own uncreated substance, treating him as a created being -- exactly what homoousios excludes",
+        "It affirms homoousios precisely and exactly as Nicaea itself originally intended it",
+        "It only concerns the Holy Spirit specifically, and not the Son, so homoousios does not apply here",
+        "It is, in fact, a legitimate later development of Nicene teaching formally approved by a later council"
+      ],
+      "correctAnswer": "It denies the Son shares the Father's own uncreated substance, treating him as a created being -- exactly what homoousios excludes",
+      "explanation": "This claim restates the core Arian position homoousios was defined specifically to exclude: treating the Son as a created being, however exalted, rather than sharing the Father's own uncreated divine substance. 'First and greatest creation' is a created being no matter how highly ranked, which is precisely what 'homoousios' rules out.",
+      "hint": "Ask the same question Nicaea asked: is this being described as created, or as sharing the Father's own uncreated nature?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-003",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "A popular formulation states: 'We are justified by faith alone; a transformed life of good works simply follows afterward as evidence, playing no role in justification itself.' How does this formulation relate to Trent's canons on justification (Session 6)?",
+      "choices": [
+        "Trent's canons address whether faith alone, excluding grace-enabled cooperation, is the sole instrument of justification",
+        "Trent's own canons on justification have, in reality, nothing at all to do with this formulation",
+        "This formulation is, in fact, entirely identical to what Trent itself actually taught about justification",
+        "Trent's own canons on justification were later formally repealed by a subsequent ecumenical council"
+      ],
+      "correctAnswer": "Trent's canons address whether faith alone, excluding grace-enabled cooperation, is the sole instrument of justification",
+      "explanation": "Trent's Session 6 canons on justification engage precisely this question: whether justification is by faith alone with works merely following as evidence, or whether grace-enabled cooperation has a real part in the process itself. This is a genuinely fine distinction worth stating precisely rather than caricaturing either side, since real theological care is needed to state exactly what is and is not being excluded.",
+      "hint": "The precise question is not 'does faith matter' -- both sides agree it does -- but whether works enabled by grace play any real role in justification itself, not just afterward.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Canon 9",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification, and that it is not in any way necessary, that he be prepared and disposed by the movement of his own will; let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-004",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "An objector says Chalcedon's 'without confusion, without change, without division, without separation' is just theological word games papering over a real contradiction (one Person fully God and fully man). What is the accurate response?",
+      "choices": [
+        "The language identifies what is NOT being claimed (a blended or divided Christ), without claiming to fully explain the mystery",
+        "The Church herself agrees this is merely a verbal solution, with no real theological content behind it",
+        "Chalcedon secretly resolved the underlying contradiction by silently choosing one nature over the other",
+        "The four qualifiers were, in fact, later quietly dropped because they ultimately failed to solve the problem"
+      ],
+      "correctAnswer": "The language identifies what is NOT being claimed (a blended or divided Christ), without claiming to fully explain the mystery",
+      "explanation": "Chalcedon's negative language works by precisely excluding two specific, named wrong answers (blending the natures, dividing the person) without claiming to exhaustively explain how the union works -- a real, disciplined boundary-marking exercise around a genuine mystery, not a device for hiding a logical contradiction behind vague words.",
+      "hint": "The strongest defense explains what this kind of language is actually doing -- excluding specific wrong answers, not resolving every question.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-005",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "A joint ecumenical statement affirms 'the Spirit proceeds from the Father, and this procession is communicated through the Son.' Assessing this against the historical East-West Filioque dispute, what is the most accurate description?",
+      "choices": [
+        "A reconciling formulation honoring the East's concern for the Father as sole principle, while preserving a real role for the Son",
+        "This statement proves the entire Filioque dispute was based on a misunderstanding with no real theological content",
+        "This statement is identical in meaning to the original Latin 'Filioque' clause with no difference at all",
+        "This statement has been formally rejected by every party to the dispute"
+      ],
+      "correctAnswer": "A reconciling formulation honoring the East's concern for the Father as sole principle, while preserving a real role for the Son",
+      "explanation": "Formulations like 'proceeds from the Father, communicated through the Son' represent real, serious ecumenical efforts to find language honoring the Eastern concern that the Father alone be the sole principle without origin, while still expressing a real role for the Son -- these efforts deserve careful theological evaluation rather than being assumed to have either fully solved or merely repeated the historical dispute at first glance.",
+      "hint": "The careful answer avoids simply declaring the dispute solved or unsolved without real evaluation.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Lyons (1274)",
+          "quote": "We profess faithfully and devotedly that the holy Spirit proceeds eternally from the Father and the Son, not as from two principles, but as from one principle; not by two spirations, but by one single spiration."
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-006",
+      "topic": "councils",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2448,
+      "prompt": "Match each live scenario to the precise conciliar distinction it tests.",
+      "pairs": [
+        {
+          "left": "'Christ's human nature dissolved into his divine nature like wine in water'",
+          "right": "Violates Chalcedon's 'without confusion, without change' -- Eutyches's error"
+        },
+        {
+          "left": "'The Son is God's first and greatest creation, not eternally God himself'",
+          "right": "Violates Nicaea's homoousios -- Arius's error"
+        },
+        {
+          "left": "'Faith alone justifies; works merely follow as evidence, with no real part in the process'",
+          "right": "The precise claim Trent's Session 6 canons on justification address"
+        },
+        {
+          "left": "'The Pope is always right about everything he says'",
+          "right": "Far broader than Vatican I's actual, narrow ex cathedra conditions"
+        }
+      ],
+      "explanation": "This level's whole task is matching a live claim -- something someone could actually say today -- to the precise historical rejection built to exclude it, not just recognizing a vocabulary word in isolation.",
+      "hint": "Each right answer names the specific historical error or precise conciliar condition the scenario actually tests, not a vague summary.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-007",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "Someone argues: 'Vatican II contradicted earlier councils on religious liberty, so either it or they must be rejected.' What distinction answers this most precisely?",
+      "choices": [
+        "A development about the civil immunity of persons from coercion is not a reversal of a doctrinal definition about truth",
+        "Earlier councils, in point of fact, never addressed any religious matters of this kind at all",
+        "Vatican II formally defined religious liberty itself as a dogma, directly superseding earlier teaching",
+        "Councils, in general, routinely and openly contradict one another, and this is simply to be expected"
+      ],
+      "correctAnswer": "A development about the civil immunity of persons from coercion is not a reversal of a doctrinal definition about truth",
+      "explanation": "The claim depends on treating two different kinds of statement as the same kind. Dignitatis Humanae concerns what civil authority may coerce; it does not assert that one religion is as true as another. Sorting the level of a statement before comparing statements is most of the work in these disputes.",
+      "hint": "Ask what each statement is actually about — coercion by the state, or the truth of a claim.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dignitatis Humanae 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2106"
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-008",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "A parish council insists a Vatican II declaration may be ignored because 'it is only a declaration, not a constitution.' Where does this reasoning fail?",
+      "choices": [
+        "Rank indicates a document's scope and weight, not whether it was promulgated or must be received",
+        "It fails only in the specific case where the declaration happened to be approved unanimously",
+        "It actually succeeds as an argument, since declarations are merely advisory in nature",
+        "It fails only because declarations technically outrank constitutions in the council's own system"
+      ],
+      "correctAnswer": "Rank indicates a document's scope and weight, not whether it was promulgated or must be received",
+      "explanation": "Every document the council promulgated was promulgated. The ranking tells you how far a text reaches, not whether it counts — and using rank as permission to discard is a move available to anyone, in any direction, which is a good sign it proves too much.",
+      "hint": "Notice the argument would let anyone discard whichever document they liked least.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-009",
+      "topic": "councils",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2408,
+      "prompt": "Someone says: 'Nicaea was called by an emperor and voted on by bishops, so Christian doctrine was decided by politics.' What is the strongest response?",
+      "choices": [
+        "Convening a council and determining its content are different acts; the dispute presupposes a divinity already contested",
+        "The reigning emperor, in point of historical fact, had no real involvement with Nicaea at all",
+        "The assembled bishops present at Nicaea did not, in fact, vote on anything whatsoever",
+        "Politics and doctrine can never really be distinguished, so this whole objection is simply unanswerable"
+      ],
+      "correctAnswer": "Convening a council and determining its content are different acts; the dispute presupposes a divinity already contested",
+      "explanation": "Two separable claims are bundled here. That an emperor summoned the bishops is true and unremarkable; that he settled what they defined does not follow. And a council convenes over a live controversy — there would have been nothing to argue about if the claim had originated there.",
+      "hint": "Separate who paid for the meeting from who determined its outcome.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l18-010",
+      "topic": "councils",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2448,
+      "prompt": "Match each claim to the conciliar distinction that answers it.",
+      "pairs": [
+        {
+          "left": "'Vatican II reversed earlier teaching'",
+          "right": "Development of doctrine is not reversal of a definition"
+        },
+        {
+          "left": "'A disciplinary decree can never change'",
+          "right": "Discipline governs practice; definitions are irreformable"
+        },
+        {
+          "left": "'Every papal statement is infallible'",
+          "right": "Pastor Aeternus sets four conditions that must hold together"
+        },
+        {
+          "left": "'A council binds the moment it votes'",
+          "right": "Papal confirmation completes the act; reception follows"
+        }
+      ],
+      "explanation": "Each of these confusions runs in both directions in practice — used to dismiss teaching one dislikes, and to inflate teaching one prefers. The distinctions are not defensive footnotes; they are what makes it possible to say precisely what the Church has and has not taught.",
+      "hint": "Each pairs a common overstatement with the precision that deflates it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-001",
+      "topic": "councils",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Looking back across this whole topic, from Nicaea in 325 to Vatican II in 1965, what single thread runs through all twenty-one ecumenical councils?",
+      "choices": [
+        "Real development of the Church's own understanding, in response to real crises, without rupturing from what came before",
+        "A series of councils each fully reversing the doctrine of the council before it",
+        "Twenty-one entirely unrelated events with no real thread connecting any of them",
+        "A fixed, evenly spaced schedule with a council convened every hundred years without exception"
+      ],
+      "correctAnswer": "Real development of the Church's own understanding, in response to real crises, without rupturing from what came before",
+      "explanation": "This is the same 'hermeneutic of reform' this app's own Church History and Saints topics have already named directly -- continuity and real development held together, not treated as opposites, across this topic's whole twenty-one-council arc.",
+      "hint": "Recall the same principle already named directly in this app's Church History and Saints topics.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-002",
+      "topic": "councils",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each early council to the specific error it answered.",
+      "pairs": [
+        {
+          "left": "Nicaea I (325)",
+          "right": "Arianism, denying the Son's full divinity"
+        },
+        {
+          "left": "Ephesus (431)",
+          "right": "Nestorianism, dividing Christ into two persons"
+        },
+        {
+          "left": "Chalcedon (451)",
+          "right": "Eutyches's Monophysitism, blending Christ's two natures"
+        },
+        {
+          "left": "Constantinople III (680-681)",
+          "right": "Monothelitism, denying Christ's human will"
+        }
+      ],
+      "explanation": "These four councils, covered across this topic's opening levels, form one continuous argument about who Christ is -- each answering a real, specific error, not four disconnected events.",
+      "hint": "Recall this topic's own opening arc on Christ's identity, covered in its first several levels.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-003",
+      "topic": "councils",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This topic's own chronological pacing -- six councils in under four centuries, then long gaps of decades or centuries before the next -- reflects real history, not an even, artificial schedule.",
+      "correctAnswer": true,
+      "explanation": "True. Councils happen when real conditions -- doctrinal crisis and practical stability -- come together, which is exactly why this topic includes real gap levels rather than smoothing the story into evenly spaced chapters.",
+      "hint": "Recall the two real gap levels this topic included, rather than skipping over them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-004",
+      "topic": "councils",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Which council in this topic's whole chronological arc left the most significant lasting division, not fully healed to this day?",
+      "choices": [
+        "Chalcedon (451), whose formula the Oriental Orthodox churches did not accept",
+        "Nicaea I (325), which was universally accepted by every Christian community",
+        "Trent (1545-1563), which produced no lasting division of any kind",
+        "Vatican II (1962-1965), which reunited every separated Christian community"
+      ],
+      "correctAnswer": "Chalcedon (451), whose formula the Oriental Orthodox churches did not accept",
+      "explanation": "This topic has been honest about this real, lasting cost throughout -- Chalcedon's own precision, covered several levels back, produced a division that remains open fifteen centuries later, a real wound this topic does not pretend was ever fully closed.",
+      "hint": "Recall the specific council whose own formula produced a division still unhealed today.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-005",
+      "topic": "councils",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each later council to what it primarily addressed.",
+      "pairs": [
+        {
+          "left": "Trent (1545-1563)",
+          "right": "The Protestant Reformation's challenge to Scripture, grace, and the sacraments"
+        },
+        {
+          "left": "Vatican I (1869-1870)",
+          "right": "Papal infallibility and the relationship of faith and reason"
+        },
+        {
+          "left": "Vatican II (1962-1965)",
+          "right": "The Church's own pastoral engagement with the modern world"
+        },
+        {
+          "left": "Nicaea II (787)",
+          "right": "Whether venerating religious images is idolatry"
+        }
+      ],
+      "explanation": "These four councils, spanning over a thousand years between them, each answer a real crisis genuinely specific to their own moment in history -- doctrinal precision was never the only kind of question an ecumenical council could be convened to settle.",
+      "hint": "Recall each of these councils' own specific historical moment, covered in this topic's later levels.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-006",
+      "topic": "councils",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: A council's real, lasting influence, as this topic has shown repeatedly, extends well beyond its formal doctrinal canons into ordinary Catholic institutions and daily life.",
+      "correctAnswer": true,
+      "explanation": "True. Trent's seminaries, its 1570 Missal lasting four centuries, and Lateran IV's confession-and-Communion decree, all covered earlier in this topic, show a council's real weight is measured by what endures in ordinary life, not only by its formal canons.",
+      "hint": "Recall the specific institutions -- seminaries, a centuries-long Missal, an annual obligation -- this topic has already traced to specific councils.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-007",
+      "topic": "councils",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "What does this topic's own inclusion of the Honorius I episode, the real Oriental Orthodox division, and the Lyon/Florence reunion failures suggest about how this app approaches Church history generally?",
+      "choices": [
+        "It presents real, sometimes difficult history honestly, rather than smoothing over genuine controversies or wounds",
+        "It avoids any genuinely difficult or controversial episode in Church history entirely",
+        "It presents every council's outcome as an unqualified, uncomplicated success",
+        "It treats every historical difficulty as equally severe, with no real distinctions drawn"
+      ],
+      "correctAnswer": "It presents real, sometimes difficult history honestly, rather than smoothing over genuine controversies or wounds",
+      "explanation": "This matches the same honest treatment of difficult history this app's own Church History topic already models with the Crusades, and Saints models with Joan of Arc's own unjust trial -- real complexity presented accurately, not flattened in either direction.",
+      "hint": "Recall how this app's other topics handle similarly difficult historical material.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-008",
+      "topic": "councils",
+      "level": 19,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "The Church has recognized twenty-one ecumenical ____ across its whole history -- the exact same number this topic's very first level introduced, now traced completely from beginning to end.",
+      "correctAnswer": "councils",
+      "acceptedAnswers": [
+        "councils"
+      ],
+      "explanation": "This topic's own first and last levels are designed to meet -- the number promised at the very start is the same number a learner has now actually traced in full, one real council at a time.",
+      "hint": "The same word this topic's very first level already used to set its own scope.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-009",
+      "topic": "councils",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: Vatican II remains, as of this topic's own most recent level, the most recent ecumenical council the Church has held.",
+      "correctAnswer": true,
+      "explanation": "True. Whether or when a twenty-second ecumenical council might someday be called is a real, open question this topic does not attempt to answer -- consistent with what this whole topic has shown: councils happen when real conditions call for them, not on any predictable schedule.",
+      "hint": "Recall this topic's own repeated point about how unpredictably councils have actually been spaced across history.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l19-010",
+      "topic": "councils",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Having now traced this topic's whole arc from Nicaea to Vatican II, what is the single most accurate way to summarize what an ecumenical council actually is?",
+      "choices": [
+        "A real, historically conditioned gathering of the Church's bishops with the Pope, meeting to define or clarify the faith",
+        "A purely political event with no real theological content or lasting consequence",
+        "An event that occurs automatically on a fixed calendar, regardless of any real historical circumstance",
+        "A gathering whose authority depends entirely on unanimous agreement among all bishops present"
+      ],
+      "correctAnswer": "A real, historically conditioned gathering of the Church's bishops with the Pope, meeting to define or clarify the faith",
+      "explanation": "This is the whole topic's own final synthesis: real history, real crises, real bishops in real union with a real Pope -- exactly the definition this topic's own first level introduced, now filled in completely by twenty-one real, distinct, genuinely different gatherings across seventeen centuries.",
+      "hint": "Recall this topic's own very first level, and ask whether everything since has confirmed or complicated that opening definition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    }
+  ]
+}
