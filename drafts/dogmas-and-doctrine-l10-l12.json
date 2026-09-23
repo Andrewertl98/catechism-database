@@ -1,0 +1,721 @@
+{
+  "_comment": "Dogmas-and-doctrine levels 10-12: the Trinity in precise terms, why precision matters, the Last Things",
+  "topic": "dogmas-and-doctrine",
+  "questions": [
+    {
+      "id": "dogmas-and-doctrine-l10-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The dogma of the Immaculate Conception teaches that Mary was preserved from original sin from what moment?",
+      "choices": [
+        "The first moment of her conception",
+        "Her baptism",
+        "The Annunciation",
+        "Her birth"
+      ],
+      "correctAnswer": "The first moment of her conception",
+      "explanation": "Pope Pius IX solemnly defined this dogma in 1854 in Ineffabilis Deus: Mary was preserved free from all stain of original sin from the very first instant of her conception.",
+      "hint": "The dogma's name tells you exactly when this happened.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 491",
+          "quote": "The Church has become ever more aware that Mary, 'full of grace' through God, was redeemed from the moment of her conception."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "We declare, pronounce, and define that the doctrine which holds that the most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin, is a doctrine revealed by God"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The Council of Nicaea (325) defined that the Son is 'consubstantial' with the Father -- using the Greek word 'homoousios.' This means the Father and the Son:",
+      "choices": [
+        "Share the same divine substance",
+        "Are two separate gods in harmony",
+        "Are the same person wearing two masks",
+        "Became united only after the Incarnation"
+      ],
+      "correctAnswer": "Share the same divine substance",
+      "explanation": "Against Arius, who taught the Son was a created being, Nicaea defined that the Son is 'begotten, not made,' of the same substance (homoousios) as the Father -- true God from true God.",
+      "hint": "Homoousios literally means 'same substance.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The dogma of the hypostatic union, defined at the Council of Chalcedon (451), teaches that Jesus Christ is:",
+      "choices": [
+        "One divine person with two natures, fully God and fully man",
+        "Two persons, one divine and one human, joined together",
+        "A human person specially favored by God",
+        "God only appearing to have a human body"
+      ],
+      "correctAnswer": "One divine person with two natures, fully God and fully man",
+      "explanation": "Chalcedon confessed 'one and the same Son... truly God and truly man,' uniting two natures in the one person of Christ -- a dogma known as the hypostatic union.",
+      "hint": "'Hypostasis' is the Greek word for person -- there's only one here.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467",
+          "quote": "Christ is confessed as 'perfect in divinity and perfect in humanity'... in two natures, 'without confusion, change, division or separation.'"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Catholic Church teaches that the Father, Son, and Holy Spirit are three separate gods who share the same will.",
+      "correctAnswer": false,
+      "explanation": "This would be tritheism, not the Trinity. The Church teaches one God in three Persons -- not three gods, but one divine substance eternally existing as Father, Son, and Holy Spirit.",
+      "hint": "Three Persons does not mean three separate gods.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The doctrine of the Trinity, completed in the Church's confession that the Holy Spirit is also fully divine, teaches that God is:",
+      "choices": [
+        "One God in three Persons",
+        "Three gods acting as one",
+        "A single Person with three roles",
+        "Two gods, Father and Son, plus a divine force"
+      ],
+      "correctAnswer": "One God in three Persons",
+      "explanation": "Nicaea affirmed the Son's divinity in 325; the First Council of Constantinople completed the doctrine in 381 by affirming the Holy Spirit's divinity, giving the Church its full Trinitarian faith.",
+      "hint": "One God, but not one Person -- that's the heart of this doctrine.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The Apostles' Creed professes belief in 'the resurrection of the ____,' affirming that our bodies, not only our souls, will rise again.",
+      "correctAnswer": "body",
+      "explanation": "Catholic teaching insists that eternal life is not a disembodied existence -- at the end of time, the body itself will be raised and reunited with the soul, just as Christ's body was raised.",
+      "hint": "The Apostles' Creed's very last line is about what happens to our bodies.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 988",
+          "quote": "The Christian Creed... culminates in the proclamation of the resurrection of the dead on the last day and in life everlasting."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The Church confesses that the three divine Persons are really distinct from one another. What distinguishes them?",
+      "choices": [
+        "Their relations of origin to one another \u2014 begetting, being begotten, and proceeding",
+        "Their differing degrees of divinity",
+        "The different works each performs in the world",
+        "The order in which they came into existence"
+      ],
+      "correctAnswer": "Their relations of origin to one another \u2014 begetting, being begotten, and proceeding",
+      "explanation": "The Persons are distinguished by relation alone, not by anything in the divine nature itself. The Father is Father in relation to the Son; the distinction is real, and it is entirely relational \u2014 which is why it does not divide the one God into parts.",
+      "hint": "What makes a father a father is not a substance he has, but whom he stands in relation to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 255"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Church confesses that Jesus Christ is true God and true man, not a mixture of the two producing something that is neither.",
+      "correctAnswer": true,
+      "explanation": "True. The Incarnation is not a blend. Christ is fully God and fully man, and if either is diluted the whole point collapses: only God can save, and only a man can stand in for men.",
+      "hint": "A mixture of two things is usually a third thing that is neither of them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 464"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The Nicene Creed confesses that the Holy Spirit 'proceeds from the Father ____ the Son' \u2014 the clause known in Latin as the Filioque.",
+      "correctAnswer": "and",
+      "explanation": "'Filioque' is literally 'and the Son.' The Latin Church added it to confess that the Spirit proceeds from the Father and the Son as from one principle \u2014 a phrase that became one of the long-running points of difference with the East.",
+      "hint": "The Latin word itself is the answer, translated.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 246-248"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l10-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each dogma to what it actually affirms.",
+      "pairs": [
+        {
+          "left": "Immaculate Conception",
+          "right": "Mary preserved from original sin from the first instant of her conception"
+        },
+        {
+          "left": "Hypostatic union",
+          "right": "One divine Person subsisting in two complete natures"
+        },
+        {
+          "left": "Consubstantiality",
+          "right": "The Son shares the very substance of the Father"
+        },
+        {
+          "left": "Resurrection of the body",
+          "right": "Our bodies, not only our souls, share in eternal life"
+        }
+      ],
+      "explanation": "Each is regularly misheard. The Immaculate Conception concerns Mary's conception rather than Christ's; consubstantiality concerns substance rather than mere likeness; the resurrection concerns the body rather than the soul's survival alone.",
+      "hint": "One of these is very often confused with the Virgin Birth.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 491"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 467"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Why did the Church find it necessary to coin a precise word like 'homoousios' (consubstantial) rather than simply saying Christ was 'like' the Father?",
+      "choices": [
+        "Arius could call Christ 'like' the Father while denying he was truly divine -- only precision closed that loophole",
+        "Because the Greek language had no ordinary word for 'like' at all",
+        "Because the bishops at Nicaea simply preferred more complicated language for its own sake",
+        "Because 'homoousios' was a word Scripture itself already used explicitly"
+      ],
+      "correctAnswer": "Arius could call Christ 'like' the Father while denying he was truly divine -- only precision closed that loophole",
+      "explanation": "A vaguer word like 'similar' left real room for Arius's own error -- a supreme creature could be called 'like' God without being God. 'Consubstantial' (of the same substance) closed that real loophole precisely.",
+      "hint": "Recall Arianism, covered in this app's own Heresies topic, and consider what a vaguer word would have let it get away with.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: The precise word 'consubstantial' was chosen mainly because it sounded more impressive, not because a real, dangerous ambiguity needed to be closed.",
+      "correctAnswer": false,
+      "explanation": "False. Precise theological vocabulary in this topic's own real history is never chosen for its own sake -- it closes a real, dangerous ambiguity that a real, active error was already exploiting.",
+      "hint": "Recall this level's own opening real example, and what specific ambiguity 'consubstantial' actually closed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Chalcedon's own precise formula -- Christ in two natures, 'without confusion, without change, without division, without separation' -- names four distinct errors it rules out at once. What real pattern do those four words actually follow?",
+      "choices": [
+        "Each word rules out an opposite way of collapsing Christ's two natures -- blending them, or splitting them apart",
+        "All four words mean exactly the same thing, repeated purely for rhetorical emphasis",
+        "The four words describe four entirely unrelated theological topics, with no real connection between them",
+        "Each word applies to a different Person of the Trinity individually, not to Christ's own two natures"
+      ],
+      "correctAnswer": "Each word rules out an opposite way of collapsing Christ's two natures -- blending them, or splitting them apart",
+      "explanation": "'Without confusion, without change' guards against blending Christ's divinity and humanity into one mixed nature (Monophysitism's own real error); 'without division, without separation' guards against splitting them into two separate persons (Nestorius's own real error) -- four precise words, each closing a real, opposite danger.",
+      "hint": "Recall the two Christological heresies this app's own Heresies topic already covers, and consider which two words answer which one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Chalcedon's four adverbs work as a single, unified safeguard, not as four unrelated rules.",
+      "correctAnswer": true,
+      "explanation": "True. Together, the four adverbs form one real, coordinated defense of a single mystery -- Christ truly one Person in two real, distinct, unconfused natures -- guarding against every direction that real mystery could otherwise be distorted.",
+      "hint": "Consider whether these four words guard four separate mysteries, or one single mystery from every real direction it could be distorted.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, general lesson does this level's own two examples -- 'consubstantial' and Chalcedon's four adverbs -- teach about precise theological language in general?",
+      "choices": [
+        "A single imprecise word can leave open a door to a real, serious distortion of the truth",
+        "Precision in doctrine is purely a matter of style, with no real theological stakes attached to it at all",
+        "Precise vocabulary is only ever needed for questions about Christ specifically, never for any other doctrine",
+        "The Church actually prefers vague, ambiguous language wherever a real controversy is involved"
+      ],
+      "correctAnswer": "A single imprecise word can leave open a door to a real, serious distortion of the truth",
+      "explanation": "This is the real, general lesson this level's two examples both teach -- exact wording in doctrine is never mere pedantry, since a single imprecise word can leave open exactly the real door a serious error needs to enter.",
+      "hint": "Consider what both of this level's own real examples actually have in common.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467",
+          "quote": "Christ is confessed as 'perfect in divinity and perfect in humanity'... in two natures, 'without confusion, change, division or separation.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: This level's own real lesson -- that precise vocabulary closes real doors to error -- was already illustrated once before in this topic, at the level on ex opere operato.",
+      "correctAnswer": true,
+      "explanation": "True. The level on ex opere operato already showed this same real pattern for sacramental theology; this level shows the identical real pattern again for Trinitarian and Christological doctrine, under a different real historical pressure.",
+      "hint": "Recall the level on ex opere operato, a few levels back in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467",
+          "quote": "Christ is confessed as 'perfect in divinity and perfect in humanity'... in two natures, 'without confusion, change, division or separation.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each precise term to the real error it was coined to rule out.",
+      "pairs": [
+        {
+          "left": "\"Consubstantial\" (homoousios)",
+          "right": "Arianism's own claim that Christ was a supreme creature merely 'like' God"
+        },
+        {
+          "left": "\"Without confusion, without change\"",
+          "right": "Blending Christ's two natures into one, as Monophysitism did"
+        },
+        {
+          "left": "\"Without division, without separation\"",
+          "right": "Splitting Christ into two separate persons, as Nestorius did"
+        },
+        {
+          "left": "The real, general lesson",
+          "right": "A single imprecise word can leave open a door to a real, serious distortion"
+        }
+      ],
+      "explanation": "These four rows trace exactly why this app's own Councils and Heresies topics keep returning to the same real precise vocabulary -- each term was forged to close one specific, real, historical door.",
+      "hint": "Three rows name a precise term and the specific error it answers; one names the real, general lesson all three teach together.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Knowing why this precise vocabulary was actually needed makes it easier to understand, not simply memorize, the technical terms the previous level already introduced.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this level's own real purpose -- the previous level presented the Church's precise Trinitarian and Christological vocabulary; this level explains why each term actually had to be that precise, turning memorization into real understanding.",
+      "hint": "Consider what this level has actually added to the previous level's own vocabulary.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Having now seen why precise doctrinal language matters twice in this topic -- sacraments, then the Trinity and Christ -- what real question does the next level turn to?",
+      "choices": [
+        "The Last Things -- death, judgment, purgatory, heaven, and hell -- what a Catholic can actually hope for",
+        "A complete repeat of this same level's material about precise theological vocabulary",
+        "A jump backward to material this topic already fully covered several levels earlier",
+        "A subject entirely unrelated to anything this topic has covered so far"
+      ],
+      "correctAnswer": "The Last Things -- death, judgment, purgatory, heaven, and hell -- what a Catholic can actually hope for",
+      "explanation": "Having now covered God, humanity, Christ, grace, and precise doctrinal language, this topic's next level turns to a genuinely different real question -- not how doctrine is worded, but what it actually promises about a person's own final destiny.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 467",
+          "quote": "Christ is confessed as 'perfect in divinity and perfect in humanity'... in two natures, 'without confusion, change, division or separation.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l11-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given this level's real lesson about precise vocabulary closing real doors to error, what real habit should this leave a reader with, going into the rest of this topic?",
+      "choices": [
+        "A real attentiveness to exact wording in doctrine, rather than assuming any two similar-sounding phrases must mean the same thing",
+        "A real suspicion of the Church's own teaching authority in general",
+        "A real conviction that precise wording never actually matters in practice",
+        "A real assumption that every remaining level in this topic will repeat this same specific historical example"
+      ],
+      "correctAnswer": "A real attentiveness to exact wording in doctrine, rather than assuming any two similar-sounding phrases must mean the same thing",
+      "explanation": "This level's own real habit -- reading doctrinal language closely, rather than skimming past exact wording -- is exactly what the rest of this topic, especially its own later levels on Marian doctrine and grace, will keep rewarding.",
+      "hint": "Consider what this level's own two examples have trained a careful reader to actually notice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The Son of God is 'begotten, not made, of the same substance (homoousios) as the Father.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Catholic teaching on the 'particular judgment' holds that immediately after death, each soul faces a judgment leading to:",
+      "choices": [
+        "Heaven, purgatory, or hell",
+        "A period of reincarnation",
+        "Automatic entry into heaven for all",
+        "Complete annihilation"
+      ],
+      "correctAnswer": "Heaven, purgatory, or hell",
+      "explanation": "The Church teaches that each soul is judged immediately at death and enters heaven (either at once or after purification in purgatory) or hell, ahead of the general judgment at the end of time.",
+      "hint": "This happens right after death, before the end of the world.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1022",
+          "quote": "Each man receives his eternal retribution in his immortal soul at the very moment of his death, in a particular judgment that refers his life to Christ: either entrance into the blessedness of heaven... or immediate and everlasting damnation."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Catholic Church teaches that souls in purgatory are being purified before entering the joy of heaven, not punished for eternity.",
+      "correctAnswer": true,
+      "explanation": "Purgatory is not a second chance at damnation but a final, temporary purification for those who die in God's friendship but still need to be cleansed before entering heaven's full joy.",
+      "hint": "This isn't a punishment that never ends -- it's a preparation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1030",
+          "quote": "All who die in God's grace and friendship, but still imperfectly purified, are indeed assured of their eternal salvation; but after death they undergo purification, so as to achieve the holiness necessary to enter the joy of heaven."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The Church teaches that hell is best understood as:",
+      "choices": [
+        "A state of definitive self-exclusion from communion with God",
+        "A place invented mainly to frighten children",
+        "A temporary punishment that eventually ends for everyone",
+        "Something only symbolic, with no real possibility"
+      ],
+      "correctAnswer": "A state of definitive self-exclusion from communion with God",
+      "explanation": "The Catechism describes hell not primarily in terms of fire, but as the state of definitive self-exclusion from communion with God and the blessed -- a real possibility freely chosen, not imposed.",
+      "hint": "This isn't primarily about fire -- it's about a choice to be separated from God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1033",
+          "quote": "This state of definitive self-exclusion from communion with God and the blessed is called 'hell.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "At the end of time, the Church teaches, all the dead will rise again, body and soul, at the ____ Judgment, when Christ will judge the living and the dead.",
+      "correctAnswer": "Last",
+      "explanation": "Unlike the particular judgment each soul faces at death, the Last Judgment happens to all humanity together at the end of history, when the dead rise bodily to be judged.",
+      "hint": "This is the OTHER judgment -- not the one right after death, but the one at the very end of time.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1038",
+          "quote": "Before him will be gathered all the nations, and he will separate them one from another as a shepherd separates the sheep from the goats."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each of the Last Things to its meaning.",
+      "pairs": [
+        {
+          "left": "Particular Judgment",
+          "right": "Each soul's judgment immediately after death"
+        },
+        {
+          "left": "Purgatory",
+          "right": "Final purification before entering heaven"
+        },
+        {
+          "left": "Hell",
+          "right": "Definitive self-exclusion from communion with God"
+        },
+        {
+          "left": "Last Judgment",
+          "right": "Christ's judgment of all humanity at the end of time"
+        }
+      ],
+      "explanation": "Together these four realities describe the Church's teaching on what awaits every soul after death, and what awaits all creation at the end of history.",
+      "hint": "One of these happens to everyone right after death; another happens to everyone at the end of time.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1022",
+          "quote": "Each man receives his eternal retribution in his immortal soul at the very moment of his death, in a particular judgment that refers his life to Christ: either entrance into the blessedness of heaven... or immediate and everlasting damnation."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1038",
+          "quote": "Before him will be gathered all the nations, and he will separate them one from another as a shepherd separates the sheep from the goats."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Catholic Church teaches that at the end of time our bodies remain in the grave forever while only our souls live on eternally.",
+      "correctAnswer": false,
+      "explanation": "St. Paul teaches that 'the dead will be raised imperishable' -- the Church affirms the resurrection of the body, not an eternity of disembodied souls alone.",
+      "hint": "Paul writes that the dead will be raised imperishable -- bodies included.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 15:52",
+          "quote": "in an instant, in the blink of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised incorruptible, and we shall be changed."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The Church calls the life of heaven the 'beatific vision.' What does that name claim?",
+      "choices": [
+        "That the blessed see God as he is, face to face, and this seeing is itself their blessedness",
+        "That the blessed receive a vision of the whole history of the world",
+        "That the blessed enjoy every earthly good in perfected form",
+        "That the blessed are absorbed into God and cease to be distinct persons"
+      ],
+      "correctAnswer": "That the blessed see God as he is, face to face, and this seeing is itself their blessedness",
+      "explanation": "Heaven's joy is not a reward alongside God but God himself, seen directly. The persons remain themselves \u2014 this is communion, not absorption, which is what separates the Christian hope from accounts where the self dissolves.",
+      "hint": "The name joins two words: seeing, and being made happy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1028"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Purgatory is a second chance, where those who died refusing God may still change their minds.",
+      "correctAnswer": false,
+      "explanation": "False. Purgatory is for those who die in God's friendship but still imperfectly purified. It is not a reversal of a final refusal; it completes a choice already made, rather than reopening it.",
+      "hint": "Ask who purgatory is for \u2014 the question is about their state at death, not their destination.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1030"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1031"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The Catechism describes heaven as the perfect life of ____ with the Trinity and with all the blessed \u2014 a shared life, not a solitary reward.",
+      "correctAnswer": "communion",
+      "explanation": "Heaven is relational the whole way down. The saints are not each privately content; the blessedness is shared, which is why the communion of saints and the hope of heaven are ultimately the same doctrine.",
+      "hint": "The word also names the bond between the living and the dead in Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1024"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l12-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each teaching about the end to its precise content.",
+      "pairs": [
+        {
+          "left": "Particular judgment",
+          "right": "Immediately at death, each soul meets its definitive destiny"
+        },
+        {
+          "left": "Purgatory",
+          "right": "Purification of those who die in grace but imperfectly purified"
+        },
+        {
+          "left": "Hell",
+          "right": "Definitive self-exclusion from communion with God"
+        },
+        {
+          "left": "Last Judgment",
+          "right": "At the end of time, the resurrection of all and the revealing of all"
+        }
+      ],
+      "explanation": "Two of these happen to an individual, two at the end of history. Hell's definition matters most: the Church describes it as self-exclusion, which locates the cause in a creature's refusal rather than in God's withholding.",
+      "hint": "Two are personal and immediate; two are universal and final.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1022"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1033"
+        }
+      ]
+    }
+  ]
+}
