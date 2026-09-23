@@ -1,0 +1,475 @@
+{
+  "_comment": "DRAFT -- NOT live. Old Testament levels 22-23 of 23 (final): the kingdom divides, the prophets confront both kingdoms and promise a new and everlasting covenant, Israel and then Judah fall and go into exile, and the exiles return to rebuild -- closing on Israel's own unfinished hope for the Messiah, which is where the Old Testament journey hands off to the New. CCC 64 and CCC 121-123 are already reviewed and used here; all Scripture references are new and flagged by onramp_tool.py check for translation verification before shipping.",
+  "topic": "old-testament",
+  "questions": [
+    {
+      "id": "old-testament-l22-001",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "After Solomon's death, what happened to the united kingdom of Israel?",
+      "choices": [
+        "It split into two kingdoms: Israel in the north, Judah in the south",
+        "It expanded peacefully under Solomon's son with no division",
+        "It was absorbed immediately into the Egyptian empire",
+        "The twelve tribes dissolved entirely and ceased to exist"
+      ],
+      "correctAnswer": "It split into two kingdoms: Israel in the north, Judah in the south",
+      "explanation": "Solomon's son Rehoboam's harshness triggered a revolt; ten tribes broke away to form the northern kingdom of Israel under Jeroboam, while Judah and Benjamin remained loyal to David's line in the south. The united kingdom of Saul, David, and Solomon never returns.",
+      "hint": "Ten tribes go one way, two stay loyal to David's house.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Kings 12:16",
+          "quote": "What share have we in David?... To your tents, O Israel!"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-002",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: Every king of the northern kingdom of Israel is judged favorably in the biblical record.",
+      "correctAnswer": false,
+      "explanation": "False. Every single king of the northern kingdom is judged as having done evil, most repeating Jeroboam's sin of setting up rival worship. The south has a handful of genuinely faithful kings; the north has none.",
+      "hint": "Compare the north's record to the south's mixed one.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Kings 12:28-29",
+          "quote": "the king made two calves of gold... he set up one in Bethel, and the other he put in Dan"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-003",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "What is the basic role of a prophet, as figures like Elijah, Isaiah, and Jeremiah exercise it?",
+      "choices": [
+        "God's spokesman, calling the king and people back to the covenant",
+        "A priest whose only role is offering sacrifice at the Temple",
+        "A military commander who leads Israel's armies into battle",
+        "A scribe who copies existing scrolls without adding anything new"
+      ],
+      "correctAnswer": "God's spokesman, calling the king and people back to the covenant",
+      "explanation": "Prophets are not primarily fortune-tellers. Their central work is confronting infidelity to the covenant made at Sinai -- idolatry, injustice to the poor, empty ritual without a changed heart -- and calling the people back, while also pointing ahead to what God will still do.",
+      "hint": "Think confrontation and covenant, not prediction alone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 64",
+          "quote": "Through the prophets, God forms his people in the hope of salvation, in the expectation of a new and everlasting Covenant intended for all, to be written on their hearts."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-004",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "fill_blank",
+      "difficultyElo": 2485,
+      "prompt": "On Mount Carmel, Elijah challenges the prophets of ____, and the LORD answers by fire.",
+      "correctAnswer": "Baal",
+      "acceptedAnswers": [
+        "Baal",
+        "baal"
+      ],
+      "explanation": "Elijah's contest on Carmel is a public test of which god actually answers: Baal's prophets cry out all day to silence, then Elijah's simple prayer is answered instantly by fire from heaven, and the people fall on their faces declaring 'The LORD, he is God.'",
+      "hint": "The storm-and-fertility god Elijah's whole contest is aimed against.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Kings 18:38-39",
+          "quote": "the fire of the LORD fell... When all the people saw this, they fell prostrate and said, 'The LORD is God! The LORD is God!'"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-005",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "In 722 BC, what happened to the northern kingdom of Israel?",
+      "choices": [
+        "Assyria conquered it and deported much of its population",
+        "It peacefully reunited with the southern kingdom of Judah",
+        "It was destroyed by a great famine with no foreign involvement",
+        "It converted entirely to worship of the LORD and was spared"
+      ],
+      "correctAnswer": "Assyria conquered it and deported much of its population",
+      "explanation": "After two centuries of kings who, without exception, led the north into idolatry, Assyria conquered the northern kingdom in 722 BC and scattered its population -- the origin of the so-called 'lost tribes.' Judah in the south survives, for now.",
+      "hint": "The northern kingdom falls to a specific empire, two centuries after the split.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Kings 17:6",
+          "quote": "the king of Assyria captured Samaria, and he carried the Israelites away to Assyria"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-006",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "matching_pairs",
+      "difficultyElo": 2465,
+      "prompt": "Match each prophet to the message most associated with him.",
+      "pairs": [
+        {
+          "left": "Isaiah",
+          "right": "A virgin shall conceive, and a Suffering Servant will bear the people's guilt"
+        },
+        {
+          "left": "Jeremiah",
+          "right": "A new covenant written on the heart, not on tablets of stone"
+        },
+        {
+          "left": "Ezekiel",
+          "right": "A new heart and a new spirit, dry bones raised to life"
+        },
+        {
+          "left": "Amos",
+          "right": "Justice for the poor demanded over empty, hollow ritual"
+        }
+      ],
+      "explanation": "Each prophet has a distinct emphasis, but all point the same direction: the covenant as it stands is being broken, and God is not finished -- he intends something greater still to come.",
+      "hint": "One promises a new covenant on the heart; one promises new life from dry bones.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Jeremiah 31:33",
+          "quote": "I will put my law within them, and I will write it on their hearts"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-007",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: Isaiah's prophecy of the Suffering Servant describes someone who is honored and spared suffering because of his righteousness.",
+      "correctAnswer": false,
+      "explanation": "False -- the opposite. Isaiah's Servant is despised, rejected, and pierced for others' transgressions, bearing punishment that is not his own so that others may be healed. The Church reads this as one of the clearest Old Testament prefigurations of Christ's Passion.",
+      "hint": "The Servant Song describes suffering borne for someone else, not reward for virtue.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 53:5",
+          "quote": "he was pierced for our offenses, crushed for our sins; upon him was the punishment that makes us whole, and by his stripes we were healed"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-008",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "In 587 BC, what did Babylon do to Judah and Jerusalem?",
+      "choices": [
+        "Destroyed the Temple and deported Judah's leading people to Babylon",
+        "Left the Temple untouched while only replacing the king",
+        "Formed a permanent alliance with Judah against Assyria",
+        "Was defeated by Judah's army and withdrew entirely"
+      ],
+      "correctAnswer": "Destroyed the Temple and deported Judah's leading people to Babylon",
+      "explanation": "After Judah's own long slide into idolatry and injustice -- exactly what Jeremiah had spent decades warning against -- Babylon destroyed Solomon's Temple and deported much of Judah's population. The Exile begins: no king, no Temple, no land.",
+      "hint": "Judah's fall comes roughly 135 years after Israel's, at the hands of a different empire.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Kings 25:9",
+          "quote": "he burned the house of the LORD, the king's house, and all the houses of Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-009",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "fill_blank",
+      "difficultyElo": 2485,
+      "prompt": "In exile, Ezekiel is shown a valley of dry ____ that God promises to raise up and clothe with flesh and breath -- a sign that Israel itself will live again.",
+      "correctAnswer": "bones",
+      "acceptedAnswers": [
+        "bones"
+      ],
+      "explanation": "The vision answers exile's deepest despair -- 'our bones are dried up, our hope is lost' -- with a promise that God's Spirit can bring even a nation that feels utterly dead back to life. It is read as a sign of hope for Israel's restoration, and, more deeply still, of resurrection itself.",
+      "hint": "What Ezekiel's most famous vision sees scattered across a valley floor.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Ezekiel 37:5-6",
+          "quote": "I will put breath into you, and you will come to life... you shall know that I am the LORD"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l22-010",
+      "topic": "old-testament",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "How does the Church read the fall of Israel and Judah, and the prophets who preceded it, taken as a whole?",
+      "choices": [
+        "Not as Israel's abandonment, but as covenant infidelity met by a God who keeps promising something greater still to come",
+        "As proof that God abandoned his covenant with Israel permanently",
+        "As a purely political event with no religious meaning at all",
+        "As evidence the prophets' warnings were never actually fulfilled"
+      ],
+      "correctAnswer": "Not as Israel's abandonment, but as covenant infidelity met by a God who keeps promising something greater still to come",
+      "explanation": "Exile is real judgment for real infidelity -- the prophets are unsparing about that. But every prophet who pronounces judgment also promises restoration: a new covenant, a new heart, dry bones raised to life. Judgment and hope run through the prophets together, never judgment alone.",
+      "hint": "Every prophet who warns of judgment also promises what comes after it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 64",
+          "quote": "Through the prophets, God forms his people in the hope of salvation, in the expectation of a new and everlasting Covenant intended for all, to be written on their hearts."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-001",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "In 538 BC, what allowed the exiles to return to Judah and rebuild?",
+      "choices": [
+        "Persia's King Cyrus conquered Babylon and issued a decree letting them return",
+        "Judah's army defeated Babylon and won its independence back",
+        "Egypt annexed the region and resettled the exiles there itself",
+        "The exiles were never actually permitted to leave Babylon"
+      ],
+      "correctAnswer": "Persia's King Cyrus conquered Babylon and issued a decree letting them return",
+      "explanation": "Cyrus of Persia conquered Babylon and, remarkably, issued a decree permitting exiled peoples to return home and rebuild their temples -- for Judah, the beginning of the return from seventy years of exile, and the rebuilding of the Temple that follows.",
+      "hint": "A foreign king's decree, not a military victory, opens the way home.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Ezra 1:2-3",
+          "quote": "The LORD, the God of heaven... has charged me to build him a house in Jerusalem... Let him go up to Jerusalem... and build the house of the LORD"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-002",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: The rebuilt second Temple, and the restored community around it, fully satisfied every hope the prophets had raised about Israel's future.",
+      "correctAnswer": false,
+      "explanation": "False. The return is real and good, but it is modest -- no Davidic king on the throne, a smaller Temple that older worshippers who remembered the first one wept over, continued foreign rule. The prophets' fuller promises -- a new covenant, an everlasting kingdom, a Messiah -- remain unfulfilled and unfinished at the Old Testament's close.",
+      "hint": "Compare what actually returns to what the prophets had promised.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Ezra 3:12",
+          "quote": "many of the priests and Levites and heads of families... wept aloud when they saw the foundation of this house being laid"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-003",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "What does it mean to say the Church reads the Old Testament typologically?",
+      "choices": [
+        "Old Testament persons, events, and institutions are read as real history that also prefigures Christ and his Church",
+        "The Old Testament is read only as literature with no historical value",
+        "Old Testament events are treated as later inventions with no connection to Christ",
+        "The Old Testament is set aside once the New Testament is written"
+      ],
+      "correctAnswer": "Old Testament persons, events, and institutions are read as real history that also prefigures Christ and his Church",
+      "explanation": "Typology does not deny the Old Testament's own reality -- the Passover lamb, the Sinai covenant, the Davidic king are real history. It also reads them, following the Church's own practice back to the apostles, as patterns God wove into that history that find their full meaning in Christ. Isaac carrying wood up Moriah, the Passover lamb's blood, the ram caught in the thicket -- each finds its fullness in the Lamb of God carrying his own cross to Calvary.",
+      "hint": "It affirms both the real history and a deeper pattern within it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-004",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "According to the Catechism, the Old Covenant has never been ____, and the Old Testament retains a permanent, undiminished value as part of Sacred Scripture.",
+      "correctAnswer": "revoked",
+      "acceptedAnswers": [
+        "revoked"
+      ],
+      "explanation": "The Church has always rejected any reading that discards the Old Testament once the New arrives. Its books are themselves divinely inspired and keep a permanent value; the New Testament fulfills the Old, it does not replace or erase it.",
+      "hint": "The Catechism's word for what never happens to the Old Covenant.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123",
+          "quote": "The Old Testament is an indispensable part of Sacred Scripture. Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-005",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "What sense does the Church give to calling herself, in continuity with ancient Israel, the new Israel?",
+      "choices": [
+        "The Church is the people gathered around the New Covenant in Christ, fulfilling and continuing God's one plan begun with Israel",
+        "The Church has replaced Israel because God rejected the Jewish people entirely",
+        "The title is only poetic and carries no real theological meaning",
+        "The Church is a completely separate people with no relationship to Israel's history at all"
+      ],
+      "correctAnswer": "The Church is the people gathered around the New Covenant in Christ, fulfilling and continuing God's one plan begun with Israel",
+      "explanation": "This is not supersession by rejection -- the Old Covenant is never revoked. It is fulfillment in continuity: the twelve apostles echo the twelve tribes, the New Covenant Jeremiah promised is sealed in Christ's blood, and the Church understands herself as Israel's story reaching the fullness God intended for it all along, gathering Jew and Gentile into the one people of the new and everlasting covenant.",
+      "hint": "Continuity and fulfillment, not rejection or replacement.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 64",
+          "quote": "Through the prophets, God forms his people in the hope of salvation, in the expectation of a new and everlasting Covenant intended for all, to be written on their hearts."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-006",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each Old Testament pattern to what the Church sees it fulfilled in.",
+      "pairs": [
+        {
+          "left": "Isaac carrying the wood up Moriah",
+          "right": "Christ carrying his own cross to Calvary"
+        },
+        {
+          "left": "The unblemished Passover lamb, whose blood spares Israel",
+          "right": "Christ, the Lamb of God, whose blood saves from death"
+        },
+        {
+          "left": "The blood of the covenant sealed at Sinai",
+          "right": "Christ's blood, poured out at the Last Supper for a new covenant"
+        },
+        {
+          "left": "Twelve tribes gathered as God's people, Israel",
+          "right": "Twelve apostles gathered as the foundation of the Church"
+        }
+      ],
+      "explanation": "None of these Old Testament events lose their own reality by being read this way -- Isaac really climbed Moriah, the lambs really died at Passover, the blood really sealed the covenant at Sinai. The Church reads each one as also opening onto Christ, the same pattern this whole topic has followed from its very first level.",
+      "hint": "Each left-hand item is a real Old Testament event this topic already covered.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128",
+          "quote": "The Church... has illuminated the unity of the divine plan in the two Testaments through typology, which discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time in the person of his incarnate Son."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-007",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: By the Old Testament's own close, Israel's hope for a promised Messiah, an anointed son of David to reign forever, is already fully and visibly realized.",
+      "correctAnswer": false,
+      "explanation": "False. The Old Testament ends in genuine expectation, not fulfillment -- a Persian-then-Greek-then-Roman-ruled province, no king from David's line on any throne, the prophets' fullest promises still outstanding. This unfinished hope is exactly what the Old Testament hands forward, and exactly what the New Testament opens by announcing has now arrived.",
+      "hint": "Consider what political and religious situation Judah is actually in when the Old Testament's story ends.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Malachi 3:1",
+          "quote": "Lo, I am sending my messenger to prepare the way before me"
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-008",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Looking back across this whole topic, from creation to the return from exile, what single thread has run through nearly every level?",
+      "choices": [
+        "A God who keeps choosing an unlikely, often unfaithful people and keeps promising something greater still ahead",
+        "A steady, uninterrupted rise in Israel's political and military power",
+        "A record of events with no real connection from one level to the next",
+        "A single unbroken era with no exile, division, or setback anywhere in it"
+      ],
+      "correctAnswer": "A God who keeps choosing an unlikely, often unfaithful people and keeps promising something greater still ahead",
+      "explanation": "Creation and fall, a promise to Abraham, slavery and exodus, covenant and golden calf, judges and kings, division and exile, return and waiting -- the people keep failing, and God keeps choosing them anyway, keeps making covenants, keeps promising more. A scholar of this material sees what a beginner cannot yet see: the whole of it as one story, aimed the whole way at Christ.",
+      "hint": "What does every single level, however different its content, share underneath it?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 121-123",
+          "quote": "The Old Testament is an indispensable part of Sacred Scripture. Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-009",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "fill_blank",
+      "difficultyElo": 2560,
+      "prompt": "St. Augustine's famous formulation captures typology in one line: the New Testament lies hidden in the Old, and the Old is made ____ in the New.",
+      "correctAnswer": "manifest",
+      "acceptedAnswers": [
+        "manifest",
+        "clear",
+        "plain"
+      ],
+      "explanation": "The Catechism itself cites this formulation as the classical statement of typological reading -- the two Testaments read together, each illuminating the other, neither dispensable.",
+      "hint": "The Old is made this -- clear, unhidden -- in light of the New.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 129",
+          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+        }
+      ]
+    },
+    {
+      "id": "old-testament-l23-010",
+      "topic": "old-testament",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "As this topic ends at Israel still waiting, where does the story it has been telling actually go next?",
+      "choices": [
+        "Forward into the New Testament, where the Church proclaims that the long-awaited fulfillment has now arrived in Christ",
+        "Nowhere -- the story simply ends unresolved with no continuation",
+        "Backward, since the New Testament is unrelated to everything covered here",
+        "Into a wholly different, unconnected religious tradition"
+      ],
+      "correctAnswer": "Forward into the New Testament, where the Church proclaims that the long-awaited fulfillment has now arrived in Christ",
+      "explanation": "Every thread this topic has traced -- the promise to Abraham, the Passover lamb, the covenant at Sinai, the son of David, the prophets' new covenant written on the heart -- reaches forward, unfinished, to exactly what the New Testament opens by proclaiming: that the time is fulfilled, and the kingdom of God is at hand.",
+      "hint": "This topic's last word is not an ending but a handoff.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Mark 1:15",
+          "quote": "This is the time of fulfillment. The kingdom of God is at hand. Repent, and believe in the gospel."
+        }
+      ]
+    }
+  ]
+}
