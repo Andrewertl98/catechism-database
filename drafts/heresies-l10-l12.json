@@ -1,0 +1,669 @@
+{
+  "_comment": "DRAFT -- NOT live. Heresies levels 10-12 of 19: level 10 carries old live level 4's sola fide/sola scriptura content forward (renumbered, re-seeded) with new material reusing James 2:24. Level 11 carries the same old level 4's Zwingli/Anabaptist/Anglican/predestination content forward with new material on Calvin's double predestination and Thomas More's own martyrdom. Level 12 is new: Jansenism, reusing old level 4's item plus Church History's own already-reviewed Unigenitus citation, closing this topic's early modern arc before the modern errors the next levels cover.",
+  "topic": "heresies",
+  "questions": [
+    {
+      "id": "heresies-l10-001",
+      "topic": "heresies",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Against the Reformation principle of 'sola fide' (faith alone), the Council of Trent taught that justification:",
+      "choices": [
+        "A real, interior transformation by grace, through faith working with love, not faith alone",
+        "Is earned entirely and solely by good works, without any real need for grace at all",
+        "Happens entirely automatically at birth for absolutely every single person",
+        "Cannot ever be lost, under any circumstance, once it has first been received"
+      ],
+      "correctAnswer": "A real, interior transformation by grace, through faith working with love, not faith alone",
+      "explanation": "Trent's Decree on Justification taught that grace truly renews and sanctifies the believer inwardly -- it is not merely God treating a sinner as righteous while nothing changes within.",
+      "hint": "Trent insisted something real actually changes inside the believer, not just a legal declaration.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification... let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-002",
+      "topic": "heresies",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "Against the Reformation principle of 'sola scriptura,' Trent affirmed that both Scripture and Sacred ____ together hand on divine revelation.",
+      "correctAnswer": "Tradition",
+      "acceptedAnswers": [
+        "Tradition"
+      ],
+      "explanation": "The Reformers held that Scripture alone was a sufficient rule of faith. Trent taught instead that the Gospel comes down to us through both the written word and the Church's living Tradition.",
+      "hint": "It's the unwritten handing-down of the faith, alongside the Bible.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-003",
+      "topic": "heresies",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The Letter of James, a real, canonical part of the same New Testament sola fide appeals to, states what about faith and works together?",
+      "choices": [
+        "That a person is justified by works and not by faith alone",
+        "That works have no real bearing on justification at all",
+        "That faith alone, understood in complete isolation from any works, is fully sufficient",
+        "That James's own letter should not be counted as genuinely canonical Scripture"
+      ],
+      "correctAnswer": "That a person is justified by works and not by faith alone",
+      "explanation": "This is a real, direct scriptural statement the sola fide principle has to explain, not simply set aside -- James's own letter, using nearly the same phrase, states the opposite of 'faith alone' in so many words.",
+      "hint": "This letter uses almost the same phrase Trent itself would later use, but states the opposite conclusion.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 2:24",
+          "quote": "See how a person is justified by works and not by faith alone."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-004",
+      "topic": "heresies",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Martin Luther, whose 1517 protest opens this era already covered in Church History's own coverage of Trent, is the figure most closely associated with the sola fide principle.",
+      "correctAnswer": true,
+      "explanation": "True. Luther's own theology of justification -- faith alone, apart from any real cooperation through works -- is the specific claim Trent's Decree on Justification, already covered in this level, was written to directly answer.",
+      "hint": "Recall the same figure already covered from Church History's own angle, whose 1517 protest opened this whole era.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification... let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-005",
+      "topic": "heresies",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Against 'sola scriptura,' what does the Church hold about the relationship of Scripture and Tradition?",
+      "choices": [
+        "Both are to be accepted and honoured with equal devotion, flowing from the same divine wellspring",
+        "Tradition, in every real case, outranks Scripture wherever the two appear to differ",
+        "Scripture alone is genuinely authoritative, with Tradition treated as merely customary",
+        "Tradition applies, in every case, only to liturgy, and never at all to real doctrine"
+      ],
+      "correctAnswer": "Both are to be accepted and honoured with equal devotion, flowing from the same divine wellspring",
+      "explanation": "The Church does not derive her certainty about revealed truth from Scripture alone. Scripture and Tradition are not rivals with one refereeing the other; they flow from a single source and are received together.",
+      "hint": "The claim is about a shared origin, not about which one wins a dispute.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-006",
+      "topic": "heresies",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "Trent taught that justification is not merely the remission of sins but also the sanctification and ____ of the interior man.",
+      "correctAnswer": "renewal",
+      "acceptedAnswers": [
+        "renewal"
+      ],
+      "explanation": "The word carries the whole disagreement. If justification were only a declaration leaving the sinner unchanged, renewal would be beside the point. Trent insists something real happens to the person, not only to their standing.",
+      "hint": "The contested question was whether anything actually changes in the person, or only their legal status.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-007",
+      "topic": "heresies",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: 'Sola scriptura' would mean that the Church's own centuries-old practice of reading Scripture within her living Tradition -- already the pattern this app's own Sacred Scripture topic teaches -- is unnecessary.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly why 'sola scriptura' is a real, serious challenge worth taking seriously rather than dismissing -- it directly denies the real role Tradition plays in this app's own consistent teaching on how Scripture is properly read and understood.",
+      "hint": "Consider how this app's own Sacred Scripture topic teaches Scripture should actually be read.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-008",
+      "topic": "heresies",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each Reformation-era claim to the Catholic teaching it denied.",
+      "pairs": [
+        {
+          "left": "Sola fide",
+          "right": "Justification through faith working together with love, not faith alone"
+        },
+        {
+          "left": "Sola scriptura",
+          "right": "Scripture and Tradition received together from one divine source"
+        },
+        {
+          "left": "James 2:24",
+          "right": "A direct scriptural statement 'sola fide' has to explain, not set aside"
+        },
+        {
+          "left": "Trent's own word 'renewal'",
+          "right": "Justification changes the person really, not only their legal standing"
+        }
+      ],
+      "explanation": "These two Reformation principles -- sola fide and sola scriptura -- are this whole controversy's real starting point, and this level's own careful treatment shows exactly what each one denies, and how precisely the Church answered each in turn.",
+      "hint": "Two rows name the Reformation's own core claims; two name specific pieces of the Church's own precise answer.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification... let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-009",
+      "topic": "heresies",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Trent's own answer to sola fide denies that faith is genuinely necessary for justification at all.",
+      "correctAnswer": false,
+      "explanation": "False. Trent never denies faith's real necessity -- it denies only that faith operates alone, apart from grace-enabled cooperation and real interior renewal, echoing the same real distinction this topic's own level on Councils' own Trent coverage already made.",
+      "hint": "Consider whether Trent's own answer removes faith from justification, or simply denies that faith acts entirely alone.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification",
+          "quote": "If any one saith, that by faith alone the impious is justified; in such wise as to mean, that nothing else is required to co-operate in order to the obtaining the grace of Justification... let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l10-010",
+      "topic": "heresies",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Given this level's picture of sola fide and sola scriptura, what does the next level in this topic turn to?",
+      "choices": [
+        "The Reformation's other movements -- Zwingli, the Anabaptists, and the English break from Rome",
+        "A complete and exhaustive repeat of this same level's own material about sola fide and sola scriptura",
+        "A jump backward to the medieval Cathars, which this topic has already fully covered several levels earlier",
+        "A subject entirely unrelated to any single error this topic has covered up to this point"
+      ],
+      "correctAnswer": "The Reformation's other movements -- Zwingli, the Anabaptists, and the English break from Rome",
+      "explanation": "The Reformation was never a single, uniform movement -- the next level covers three further, genuinely distinct real disputes over the Eucharist, baptism, and Church authority.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1374",
+          "quote": "the body and blood, together with the soul and divinity, of our Lord Jesus Christ and, therefore, the whole Christ is truly, really, and substantially contained."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-001",
+      "topic": "heresies",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Huldrych Zwingli taught that Christ is really and substantially present, Body and Blood, in the Eucharist.",
+      "correctAnswer": false,
+      "explanation": "Zwingli held a largely symbolic, memorialist view of the Lord's Supper, distinct even from Luther's own position. The Church responded by reaffirming that Christ is truly, really, and substantially present.",
+      "hint": "Zwingli's view treated the Eucharist mostly as a remembrance, not a real presence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1374",
+          "quote": "the body and blood, together with the soul and divinity, of our Lord Jesus Christ and, therefore, the whole Christ is truly, really, and substantially contained."
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-002",
+      "topic": "heresies",
+      "level": 11,
+      "type": "fill_blank",
+      "difficultyElo": 1827,
+      "prompt": "Anabaptists ('re-baptizers') were named for insisting that only believers able to make a personal profession of faith should be baptized, rejecting ____ baptism.",
+      "correctAnswer": "infant",
+      "acceptedAnswers": [
+        "infant"
+      ],
+      "explanation": "Anabaptists re-baptized adults who had been baptized as infants, since they denied infant baptism was valid at all. The Church holds infant baptism as an ancient and legitimate practice, resting on grace offered before personal consent.",
+      "hint": "It's the practice of baptizing very young children, which Anabaptists rejected.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1252",
+          "quote": "The practice of infant Baptism is an immemorial tradition of the Church. There is explicit testimony to this practice from the second century on."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-003",
+      "topic": "heresies",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "The Church of England's 16th-century break from Rome under Henry VIII was, at its root, primarily a matter of:",
+      "choices": [
+        "Royal authority and the king's demand for an annulment, rather than an initial doctrinal dispute",
+        "A real disagreement specifically over the doctrine of the Holy Trinity itself",
+        "A formal rejection of the Nicene Creed and its own contents entirely",
+        "A specific dispute over the true and correct canon of Sacred Scripture"
+      ],
+      "correctAnswer": "Royal authority and the king's demand for an annulment, rather than an initial doctrinal dispute",
+      "explanation": "Unlike the continental Reformation, which began with doctrinal disputes over grace and justification, the English schism began over Henry VIII's demand for an annulment and his claim to headship of the Church in England -- the same crisis this app's own Saints topic covers through Thomas More's martyrdom.",
+      "hint": "This break started with a king wanting something the pope wouldn't grant.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Apostolicae Curae, Pope Leo XIII (1896)",
+          "quote": "we pronounce and declare that ordinations carried out according to the Anglican rite have been, and are, absolutely null and utterly void."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-004",
+      "topic": "heresies",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Thomas More, already covered in this app's Saints topic for his martyrdom, was executed as a direct consequence of this same English royal crisis.",
+      "correctAnswer": true,
+      "explanation": "True, and this is a real, direct link between this level's own controversy and a figure already fully covered elsewhere in this app -- More's refusal to accept Henry's own claim to headship of the Church in England cost him his life in 1535.",
+      "hint": "Recall this same figure's own martyrdom, already covered in this app's Saints topic.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Apostolicae Curae, Pope Leo XIII (1896)",
+          "quote": "we pronounce and declare that ordinations carried out according to the Anglican rite have been, and are, absolutely null and utterly void."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-005",
+      "topic": "heresies",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "John Calvin, a leading figure of the Reformed tradition, taught a doctrine known as double predestination. What does this teach?",
+      "choices": [
+        "That God, from eternity, actively decrees some people to salvation and others to damnation",
+        "That God predestines everyone to salvation with no exceptions of any kind",
+        "That predestination applies only to the angels, not to human beings",
+        "That predestination is a purely medieval Catholic doctrine Calvin himself rejected entirely"
+      ],
+      "correctAnswer": "That God, from eternity, actively decrees some people to salvation and others to damnation",
+      "explanation": "This is a real, significant departure from Catholic teaching -- the Church holds that God predestines no one to hell, permitting a person's own free, persistent refusal rather than actively decreeing their damnation.",
+      "hint": "This teaching concerns two real, opposite outcomes, both actively decreed by God from eternity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-006",
+      "topic": "heresies",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: The Church teaches that God predestines no one to hell.",
+      "correctAnswer": true,
+      "explanation": "True, and it is the precise point on which Catholic teaching parts from double predestination. Hell requires a wilful turning away from God persisted in to the end. God permits that free refusal; he does not decree it.",
+      "hint": "The distinction is between God permitting a refusal and God authoring it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-007",
+      "topic": "heresies",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1807,
+      "prompt": "Match each real Reformation-era movement or figure to the specific real dispute it raised.",
+      "pairs": [
+        {
+          "left": "Zwingli",
+          "right": "A largely symbolic view of the Eucharist, denying Christ's real presence"
+        },
+        {
+          "left": "Anabaptists",
+          "right": "Rejected infant baptism, requiring adult profession of faith first"
+        },
+        {
+          "left": "Henry VIII's England",
+          "right": "A schism over royal authority, not an initial doctrinal dispute"
+        },
+        {
+          "left": "John Calvin",
+          "right": "Double predestination -- God actively decreeing damnation as well as salvation"
+        }
+      ],
+      "explanation": "The Reformation was never one single, uniform movement -- these four real disputes concern four genuinely different subjects: the Eucharist, baptism, Church authority, and the will of God himself.",
+      "hint": "Each row names a genuinely different area of real dispute, not four versions of the same disagreement.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-008",
+      "topic": "heresies",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1717,
+      "prompt": "True or False: Every one of this level's four Reformation-era movements and figures agreed completely with one another on every doctrinal question.",
+      "correctAnswer": false,
+      "explanation": "False, and this is a real, important fact -- Zwingli's own view of the Eucharist differed sharply even from Luther's, and the continental Reformers disagreed with each other on real, substantive questions, not only with Rome.",
+      "hint": "Consider whether Zwingli's own view of the Eucharist matched every other Reformer's view.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1374",
+          "quote": "the body and blood, together with the soul and divinity, of our Lord Jesus Christ and, therefore, the whole Christ is truly, really, and substantially contained."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-009",
+      "topic": "heresies",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "What real pattern connects this level's four movements and this topic's earlier levels on Christology and grace?",
+      "choices": [
+        "Each raises a real, serious question the Church had to answer, the pattern traced since level one",
+        "None of these four movements has any real connection at all to anything this topic has covered before",
+        "All four of these movements concern, in the end, the exact same single subject, with no real variety among them",
+        "None of these four movements ever required any real theological response from the Church at all"
+      ],
+      "correctAnswer": "Each raises a real, serious question the Church had to answer, the pattern traced since level one",
+      "explanation": "This is the same pattern this whole topic has traced from its very first levels -- a real error, a real crisis, and the Church's own real, precise answer, now playing out again across four genuinely different sixteenth-century disputes.",
+      "hint": "Consider whether this level's own pattern actually matches the pattern this topic has traced since its very beginning.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l11-010",
+      "topic": "heresies",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1767,
+      "prompt": "Given this level's picture of the Reformation's real internal diversity, what does the next level in this topic turn to?",
+      "choices": [
+        "Jansenism, a further, later error concerning grace that arose within the Catholic Church itself, not the Protestant Reformation",
+        "A complete repeat of this same level's material about Zwingli, the Anabaptists, and Henry VIII's England",
+        "A jump directly to the modern era, skipping over more than a century of real history",
+        "A subject entirely unrelated to any error this topic has covered so far"
+      ],
+      "correctAnswer": "Jansenism, a further, later error concerning grace that arose within the Catholic Church itself, not the Protestant Reformation",
+      "explanation": "The next level covers a real, important fact this whole topic keeps returning to -- not every error in Church history comes from outside the Church. Jansenism arose from within Catholic ranks themselves, a genuinely different kind of case.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)",
+          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-001",
+      "topic": "heresies",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: Jansenism, condemned in the 17th century, held such a pessimistic view of grace that it denied Christ died for all people, teaching he died only for the elect.",
+      "correctAnswer": true,
+      "explanation": "Among the propositions condemned in Jansen's Augustinus was the claim that Christ did not die for all humanity, only for the predestined. The Church has always taught Christ died for all, even though not all accept that grace.",
+      "hint": "This error limits the reach of Christ's death to only some people, not everyone.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-002",
+      "topic": "heresies",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "Cornelius Jansen, whose teaching gave this whole movement its name, was not a Protestant Reformer but what?",
+      "choices": [
+        "A Catholic bishop, whose posthumous work Augustinus set out this rigorist theology of grace",
+        "A Lutheran pastor working entirely within the German Reformation of his own era",
+        "A Calvinist theologian working specifically in the city of Geneva itself",
+        "An Anglican bishop working directly under King Henry VIII in England"
+      ],
+      "correctAnswer": "A Catholic bishop, whose posthumous work Augustinus set out this rigorist theology of grace",
+      "explanation": "This is the real, important fact the previous level's own closing question already flagged -- Jansenism arose from within the Catholic Church's own ranks, not from the Protestant Reformation this topic's previous two levels covered.",
+      "hint": "Recall the previous level's own closing point about where this error actually came from.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-003",
+      "topic": "heresies",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: Jansenism's rigorist theology of grace had a real, lasting effect on ordinary Catholic devotional life, not only on academic theology.",
+      "correctAnswer": true,
+      "explanation": "True. Jansenist rigorism shaped real pastoral practice for generations -- discouraging frequent Communion and confession out of a severe view of human unworthiness -- effects still being undone well into later centuries, already covered from Church History's own angle.",
+      "hint": "Recall this same real, lasting pastoral effect already covered from Church History's own angle.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-004",
+      "topic": "heresies",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "In 1713, Pope Clement XI's bull Unigenitus condemned how many propositions drawn from a later Jansenist writer's own work?",
+      "choices": [
+        "101 propositions",
+        "5 propositions",
+        "1,000 propositions",
+        "No specific number was ever given"
+      ],
+      "correctAnswer": "101 propositions",
+      "explanation": "Unigenitus's real, precise scope -- condemning a full 101 specific propositions -- shows the Church's response was not a vague, general dismissal but a real, detailed theological engagement with the movement's own specific claims.",
+      "hint": "This is a real, specific, memorable number -- already covered from Church History's own angle.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)",
+          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-005",
+      "topic": "heresies",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: Jansenism's own severe theology of grace shares a real, family resemblance with Calvin's double predestination, already covered in the previous level.",
+      "correctAnswer": true,
+      "explanation": "True, and this is a real, useful connection -- both movements share a real emphasis on grace's own severity and human unworthiness so strong that it distorts the Church's own consistent teaching that Christ died for all and that God predestines no one to hell.",
+      "hint": "Recall the previous level's own teaching on double predestination, and consider what real family resemblance this level's error shares with it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1037"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-006",
+      "topic": "heresies",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1898,
+      "prompt": "Match each fact about Jansenism to what it involves.",
+      "pairs": [
+        {
+          "left": "Cornelius Jansen",
+          "right": "A Catholic bishop whose posthumous Augustinus set out this theology"
+        },
+        {
+          "left": "Jansenism's core claim",
+          "right": "That Christ died only for the elect, not for all humanity"
+        },
+        {
+          "left": "Unigenitus (1713)",
+          "right": "Condemned 101 specific propositions drawn from Jansenist writing"
+        },
+        {
+          "left": "Jansenism's real pastoral effect",
+          "right": "Discouraged frequent Communion and confession for generations"
+        }
+      ],
+      "explanation": "This level's whole real point is that Jansenism, though arising from within the Catholic Church's own ranks rather than the Protestant Reformation, still required the same kind of real, precise theological and pastoral response this whole topic has traced from its very first levels.",
+      "hint": "Follow the real arc: who taught it, what it claimed, how the Church answered it, and what real effect it had on ordinary Catholic life.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-007",
+      "topic": "heresies",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: The Church's own condemnation of Jansenism means she holds an overly optimistic view in which grace is unnecessary for salvation.",
+      "correctAnswer": false,
+      "explanation": "False. Condemning Jansenism's own excessive severity does not mean swinging to the opposite error, Pelagianism, already covered several levels back in this topic -- the Church holds a real, careful balance: grace is genuinely necessary, and genuinely offered to all.",
+      "hint": "Recall Pelagianism, several levels back in this topic, and consider whether rejecting one extreme means adopting the opposite one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-008",
+      "topic": "heresies",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "What real, balanced position does the Church actually hold between Pelagianism's own extreme and Jansenism's own opposite extreme?",
+      "choices": [
+        "That grace is genuinely necessary for salvation, genuinely offered to all, and genuinely able to be freely refused",
+        "That grace is entirely unnecessary, since human effort alone fully suffices for salvation",
+        "That grace is offered only to a small, predetermined elect, with no real offer made to anyone else",
+        "That the whole question of grace and human freedom has no real, coherent answer at all"
+      ],
+      "correctAnswer": "That grace is genuinely necessary for salvation, genuinely offered to all, and genuinely able to be freely refused",
+      "explanation": "This real, careful balance -- necessary, universal, and genuinely refusable -- is exactly what both Pelagianism and Jansenism, in their own opposite ways, distort: one by denying grace's necessity, the other by denying its real universality.",
+      "hint": "Consider what specific claim both Pelagianism and Jansenism, in opposite directions, both end up denying.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-009",
+      "topic": "heresies",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1808,
+      "prompt": "True or False: Jansenism's own condemnation, despite arising within the Catholic Church's own ranks, is treated with the same real theological seriousness as the Protestant errors this topic's previous levels covered.",
+      "correctAnswer": true,
+      "explanation": "True, and this matters for this whole topic's own real integrity -- error is treated with the same real seriousness regardless of whether it arises from outside or from within the Church's own ranks.",
+      "hint": "Consider whether this topic has treated Jansenism with any less real seriousness than the Protestant errors covered in earlier levels.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    },
+    {
+      "id": "heresies-l12-010",
+      "topic": "heresies",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1858,
+      "prompt": "Given this level's picture of Jansenism's own real internal Catholic origin, what does the next level in this topic turn to?",
+      "choices": [
+        "Modernism and Americanism, two further errors the Church would confront in the nineteenth and twentieth centuries",
+        "A complete repeat of this same level's material about Jansenism",
+        "A jump backward to the ancient Christological heresies, already fully covered several levels earlier",
+        "A subject entirely unrelated to any error this topic has covered so far"
+      ],
+      "correctAnswer": "Modernism and Americanism, two further errors the Church would confront in the nineteenth and twentieth centuries",
+      "explanation": "The next level continues this topic's own chronological arc forward, into the real, distinctly modern challenges the Church would go on to confront in the following centuries.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Cum Occasione, Pope Innocent X (1653)"
+        }
+      ]
+    }
+  ]
+}
