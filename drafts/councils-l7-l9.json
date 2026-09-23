@@ -1,0 +1,704 @@
+{
+  "_comment": "DRAFT -- NOT live. Councils levels 7-9 of 19: level 7 carries old live level 3's Lyon II/Florence content forward (renumbered, re-seeded) with new material on the specific doctrinal disputes negotiated (Filioque, purgatory, primacy) and the concept of reception. Level 8 is new: Lateran IV's confession/Communion decree, the conciliar origin of 'transubstantiated,' the Creator/creature analogy principle, and the 649 Lateran synod on Mary's perpetual virginity as an example of real non-ecumenical conciliar teaching -- filling a real content gap (this council previously had almost no dedicated coverage). Level 9 opens Trent, covering its early sessions on Scripture, the canon, Tradition, and justification, reusing old live levels 4 and 8's Trent content.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l7-001",
+      "topic": "councils",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: The Second Council of Lyon (1274) attempted, though only briefly, to heal the schism between the Eastern and Western Churches.",
+      "correctAnswer": true,
+      "explanation": "Lyon II achieved a formal profession of union with Byzantine representatives, but the agreement was rejected by much of the Eastern Church soon after and never took lasting root.",
+      "hint": "This 13th-century council in France tried to mend a fracture that was already two centuries old.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Lyon (1274)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-002",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "The Council of Florence (1439) achieved a short-lived reunion between Rome and Constantinople, but the agreement collapsed largely because of what?",
+      "choices": [
+        "Rejection by many in the East after the delegates returned home",
+        "A formal condemnation issued directly by the reigning Pope himself",
+        "The much later Protestant Reformation of the 16th century",
+        "The Council of Trent formally overturning it centuries afterward"
+      ],
+      "correctAnswer": "Rejection by many in the East after the delegates returned home",
+      "explanation": "The Greek delegates who signed the union at Florence found their agreement repudiated by much of the Byzantine clergy and laity once they returned home.",
+      "hint": "The delegates signed in Italy -- but their own people back home didn't agree.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-003",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Why did the reunion agreed at Florence (1439) fail to endure?",
+      "choices": [
+        "It was rejected by much of the Eastern clergy and faithful, who had not been party to the negotiations",
+        "The Pope himself repudiated the agreement almost immediately after it was signed",
+        "It was, in the end, never actually signed by either negotiating side at all",
+        "It was formally overturned by a later ecumenical council that convened afterward"
+      ],
+      "correctAnswer": "It was rejected by much of the Eastern clergy and faithful, who had not been party to the negotiations",
+      "explanation": "An agreement signed by delegations still has to be received by the churches themselves. Florence is the standard illustration that reception is not a formality appended to a council's work but part of how that work becomes real.",
+      "hint": "Consider who signed the agreement and who then had to live under it.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-004",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "What specific doctrinal disputes did the negotiators at Florence attempt to resolve between East and West?",
+      "choices": [
+        "The Filioque clause, the nature of purgatory, and the scope of papal primacy",
+        "The date of Easter alone, with no other subject discussed at any point",
+        "The canon of the Old Testament exclusively, with nothing else considered",
+        "Whether icons could be venerated at all, a question already settled centuries earlier"
+      ],
+      "correctAnswer": "The Filioque clause, the nature of purgatory, and the scope of papal primacy",
+      "explanation": "These were the real, substantive theological questions dividing East and West by this period -- Florence did not merely paper over a political dispute, it genuinely attempted to work through the actual doctrinal differences.",
+      "hint": "Recall the specific theological dispute behind the 1054 schism itself, already covered in Church History.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-005",
+      "topic": "councils",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: The mutual excommunications of 1054 between Rome and Constantinople were lifted in 1965 by Pope Paul VI and Patriarch Athenagoras.",
+      "correctAnswer": true,
+      "explanation": "True. The mutual anathemas were consigned to oblivion in a joint declaration during the closing period of Vatican II. Lifting them did not restore full communion -- the theological differences remained -- but it removed a formal obstacle that had stood for nine centuries.",
+      "hint": "The gesture came during the final year of the Second Vatican Council.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-006",
+      "topic": "councils",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: Despite these councils' efforts, full, lasting communion between the Catholic Church and the Eastern Orthodox Churches has not yet been restored.",
+      "correctAnswer": true,
+      "explanation": "The Second Vatican Council renewed the Catholic Church's commitment to seeking unity with the East, but the schism first formalized in 1054 remains, even as relations have warmed considerably since Lyon and Florence's own failed attempts.",
+      "hint": "Despite real efforts, this particular wound in the Church's unity remains open.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-007",
+      "topic": "councils",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1440,
+      "prompt": "Match each event to its place in these medieval reunion attempts.",
+      "pairs": [
+        {
+          "left": "Second Council of Lyon (1274)",
+          "right": "A first formal reunion, rejected soon after by the East"
+        },
+        {
+          "left": "Council of Florence (1439)",
+          "right": "A second reunion, negotiating Filioque, purgatory, and primacy"
+        },
+        {
+          "left": "Reception",
+          "right": "The step, missing in both cases, that makes an agreement real"
+        },
+        {
+          "left": "1965",
+          "right": "The mutual 1054 excommunications formally lifted, short of full reunion"
+        }
+      ],
+      "explanation": "Both medieval attempts fail the same specific way -- an agreement reached by negotiators, never received by the wider Church each side actually represents.",
+      "hint": "Two rows name the reunion attempts themselves; two name what each one was missing, and what came later instead.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-008",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "What does the phrase 'reception' mean in the context of an ecumenical council's own authority?",
+      "choices": [
+        "The process by which the wider Church actually accepts and lives by a council's teaching, beyond formal signatures",
+        "The formal ceremony marking the opening session of any ecumenical council held anywhere",
+        "A simple synonym for the pope's own act of formally confirming any council's own decrees",
+        "The physical act of receiving Communion during a given council's own final closing Mass"
+      ],
+      "correctAnswer": "The process by which the wider Church actually accepts and lives by a council's teaching, beyond formal signatures",
+      "explanation": "Lyon and Florence both show what happens when this step is skipped or assumed -- an agreement can be real on paper and still fail to become real in the actual life of the Church it claims to bind.",
+      "hint": "Consider what, specifically, both Lyon and Florence's agreements were missing after the delegates went home.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-009",
+      "topic": "councils",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1350,
+      "prompt": "True or False: Both Lyon II and Florence involved real, substantive theological negotiation, not merely political posturing with no genuine content.",
+      "correctAnswer": true,
+      "explanation": "True. Real theologians on both sides worked through real doctrinal differences -- the failure of both councils was a failure of reception, not a sign the underlying negotiations were hollow or insincere.",
+      "hint": "Consider whether the specific doctrinal disputes this level has already named were substantive or merely superficial.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Florence (1439)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l7-010",
+      "topic": "councils",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1400,
+      "prompt": "Given this level's picture of failed medieval reunion, what does the next level in this topic turn to?",
+      "choices": [
+        "The Fourth Lateran Council (1215), a major medieval council held entirely within the Western Church",
+        "A complete repeat of this same level's material about Lyon and Florence",
+        "A jump forward directly to the Protestant Reformation and the Council of Trent",
+        "A subject entirely unrelated to any council this topic has covered so far"
+      ],
+      "correctAnswer": "The Fourth Lateran Council (1215), a major medieval council held entirely within the Western Church",
+      "explanation": "The next level steps back within the timeline this topic has already covered, to a major Western council that shaped ordinary Catholic practice for centuries -- a real content gap the live bank barely touched before this reorganization.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-001",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "The Fourth Lateran Council (1215) is remembered for a decree that shaped ordinary Catholic practice for centuries. Which?",
+      "choices": [
+        "That the faithful confess serious sins at least once a year and receive Communion at Easter each year",
+        "That Mass be celebrated only and exclusively in the Latin language, everywhere",
+        "That every single diocese hold its own annual synod made up of laity",
+        "That bishops be elected by a direct popular vote of all the faithful"
+      ],
+      "correctAnswer": "That the faithful confess serious sins at least once a year and receive Communion at Easter each year",
+      "explanation": "The same council that used the word transubstantiated also set the minimum obligation that still stands in the precepts of the Church. Doctrine and practice were legislated together, which is characteristic of how councils actually work.",
+      "hint": "The obligation it created is still one of the precepts of the Church today.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1457"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-002",
+      "topic": "councils",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: The Fourth Lateran Council (1215) is the council that gave the term 'transubstantiated' its first conciliar use, describing the Eucharistic change.",
+      "correctAnswer": true,
+      "explanation": "True. Lateran IV used the term, and Trent later defined it at length against Reformation denials, several levels ahead in this topic. The word does not explain the change so much as fence it: the substance becomes Christ's Body and Blood while the appearances remain.",
+      "hint": "The same council that dealt with the Cathar heresy also gave this word its conciliar footing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1376"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-003",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Lateran IV taught that between Creator and creature no similarity can be noted without a greater dissimilarity being noted between them. Why does this matter?",
+      "choices": [
+        "It limits all God-talk: analogies say something true, but fall short of full description",
+        "It forbids using any analogy for God whatsoever, under any circumstance at all, ever",
+        "It means human language about God is, in the end, simply meaningless entirely",
+        "It applies only to religious images, and never to any spoken or written words"
+      ],
+      "correctAnswer": "It limits all God-talk: analogies say something true, but fall short of full description",
+      "explanation": "The principle cuts both ways -- it rules out saying nothing true about God, and it rules out pressing an analogy as if it were a literal description. Lateran IV was, in one single council, addressing real crises in doctrine, practice, and language all at once.",
+      "hint": "It is a rule about how far a comparison can be pushed, not a ban on comparing at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-004",
+      "topic": "councils",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: Lateran IV was convened in significant part to address the spread of the Cathar heresy across southern France.",
+      "correctAnswer": true,
+      "explanation": "True. This is the exact same crisis Dominic's own founding, several levels ahead in the Saints topic, responds to -- Lateran IV's legislation on preaching, doctrine, and clergy formation is part of the wider Church's real, sustained response to Catharism.",
+      "hint": "Recall the heresy Dominic's own preaching order was founded specifically to combat.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-005",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Not every gathering called a 'council' in Church history is ecumenical. A regional Roman synod held in 649, under Pope St. Martin I, formally defined what about Mary?",
+      "choices": [
+        "Her virginity before, during, and after Christ's birth, stated as one continuous claim",
+        "Her own bodily Assumption into heaven at the very end of her earthly life",
+        "Her title as Mother of God, already defined by an earlier ecumenical council",
+        "Her Immaculate Conception, a much later nineteenth-century Marian dogma"
+      ],
+      "correctAnswer": "Her virginity before, during, and after Christ's birth, stated as one continuous claim",
+      "explanation": "This 649 Lateran synod, distinct from the ecumenical Fourth Lateran Council of 1215 this same level covers, is the conciliar source of the Church's 'ever-virgin' formula -- real, binding teaching, even though this particular gathering does not count among the twenty-one ecumenical councils level 1 introduced.",
+      "hint": "This is not one of the twenty-one ecumenical councils this topic is tracing -- a smaller, regional gathering, still capable of real doctrinal teaching.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)",
+          "quote": "conceived without seed... and incorruptibly bore him, her virginity remaining equally inviolate after the birth"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-006",
+      "topic": "councils",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: A regional council, like the 649 Lateran synod, can teach real Church doctrine even though it does not meet level 1's own definition of 'ecumenical.'",
+      "correctAnswer": true,
+      "explanation": "True. Ecumenical status determines whether a council's teaching binds the whole universal Church by that council's own authority alone -- it does not mean smaller councils teach nothing real, only that their reach and manner of binding differ.",
+      "hint": "Recall level 1's own precise definition of what makes a council specifically ecumenical.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 884"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-007",
+      "topic": "councils",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1532,
+      "prompt": "Match each fact about this level's medieval councils to what it involves.",
+      "pairs": [
+        {
+          "left": "Lateran IV's confession/Communion decree",
+          "right": "Shaped ordinary Catholic practice for centuries"
+        },
+        {
+          "left": "\"Transubstantiated\"",
+          "right": "First given conciliar use at Lateran IV"
+        },
+        {
+          "left": "The Creator/creature analogy principle",
+          "right": "Sets a real limit on how far any comparison to God can be pushed"
+        },
+        {
+          "left": "The 649 Lateran synod",
+          "right": "A real doctrinal teaching from a regional, non-ecumenical council"
+        }
+      ],
+      "explanation": "One single major council, Lateran IV, legislated doctrine, sacramental practice, and theological language together -- while a much smaller regional gathering shows that real Church teaching is not confined only to the twenty-one ecumenical councils this topic otherwise traces.",
+      "hint": "Three rows concern Lateran IV specifically; one concerns a different, smaller council entirely.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-008",
+      "topic": "councils",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1442,
+      "prompt": "True or False: This level's picture of Lateran IV -- doctrine, sacramental discipline, and theological method all addressed in one gathering -- shows that medieval councils were narrower in scope than the earlier Christological councils this topic covered.",
+      "correctAnswer": false,
+      "explanation": "False. If anything, Lateran IV's scope is broader -- earlier councils this topic covered generally focused tightly on a single Christological question, while Lateran IV legislates across doctrine, sacramental life, and theological language all in one gathering.",
+      "hint": "Compare the range of subjects Lateran IV covers to the narrower focus of the earlier Christological councils.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-009",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "What real content gap did this level fill, compared to how this topic's live bank covered the medieval period before this reorganization?",
+      "choices": [
+        "Lateran IV and the wider medieval conciliar period had almost no dedicated coverage before, despite shaping centuries of ordinary Catholic life",
+        "This period was, in fact, already thoroughly covered in exhaustive detail before this whole reorganization began",
+        "This level covers a period that holds no real historical significance for the Church's own life at all",
+        "This level simply duplicates content that was already covered in the earlier Christological levels of this topic"
+      ],
+      "correctAnswer": "Lateran IV and the wider medieval conciliar period had almost no dedicated coverage before, despite shaping centuries of ordinary Catholic life",
+      "explanation": "A single line about Lateran IV, embedded in a heresies question, was nearly all this real content had before this reorganization -- exactly the kind of gap CURRICULUM-PLAN.md's own analysis identified as worth filling with a dedicated level.",
+      "hint": "Consider how much dedicated space this specific council had in the bank before this level existed.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Fourth Lateran Council (1215)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l8-010",
+      "topic": "councils",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1492,
+      "prompt": "Given this level's picture of the medieval Western Church legislating broadly across doctrine and practice, what does the next level in this topic turn to?",
+      "choices": [
+        "The Council of Trent, the Church's major response three centuries later to the Protestant Reformation",
+        "A complete and exhaustive repeat of this same level's own material about Lateran IV",
+        "A jump backward to the early Christological councils, which this topic has already fully covered",
+        "A subject entirely unrelated to any single council this topic has covered up to this point"
+      ],
+      "correctAnswer": "The Council of Trent, the Church's major response three centuries later to the Protestant Reformation",
+      "explanation": "The next level moves forward roughly three centuries, to the Church's own next great conciliar undertaking -- already covered from Church History's own institutional angle, and now returned to in full doctrinal and disciplinary depth.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[Each church shall] maintain, educate religiously, and train in ecclesiastical discipline a certain number of youths of their city and diocese."
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-001",
+      "topic": "councils",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Trent's decree on Scripture and Tradition taught that divine revelation is transmitted through:",
+      "choices": [
+        "Both written Scripture and unwritten Tradition",
+        "Scripture alone",
+        "The Pope's private judgment alone",
+        "Tradition alone, apart from Scripture"
+      ],
+      "correctAnswer": "Both written Scripture and unwritten Tradition",
+      "explanation": "Against the Reformation principle of Scripture alone, Trent taught that revelation comes to the Church through Scripture and Tradition together -- the Church's own answer, already covered from Church History's own angle, to a crisis three centuries after Lateran IV's own medieval legislation.",
+      "hint": "Trent insisted revelation comes through two channels, not just one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-002",
+      "topic": "councils",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Trent's Session 4 addressed the relationship between Scripture and Tradition. Which best states its actual position, as opposed to the caricature often given of it?",
+      "choices": [
+        "Scripture and Tradition together hold revealed truth, received with equal reverence, not Tradition as a separate second source",
+        "Tradition is a second, equal source of revelation that adds doctrines Scripture itself never once mentions",
+        "Scripture alone is sufficient on its own, and Tradition is merely a helpful historical commentary on it",
+        "The council itself declined to address the relationship of Scripture and Tradition at all"
+      ],
+      "correctAnswer": "Scripture and Tradition together hold revealed truth, received with equal reverence, not Tradition as a separate second source",
+      "explanation": "A common caricature has Rome inventing doctrines out of thin air and calling it 'Tradition.' What the council actually says is closer to what Vatican II's Dei Verbum would later make explicit: Scripture and Tradition flow from the same apostolic wellspring and are received together, not two competing streams.",
+      "hint": "The council is not describing two rival sources of brand-new content -- it is describing one deposit, handed on in two forms.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 4, Decree Concerning the Canonical Scriptures (1546)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 82"
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-003",
+      "topic": "councils",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Against the Reformers' shorter Old Testament, Trent's Session 4 (1546) formally settled which question?",
+      "choices": [
+        "The full canon of Scripture, affirming books like Tobit, Wisdom, and 1-2 Maccabees as canonical alongside the rest",
+        "Whether Scripture alone, entirely apart from Tradition, is by itself a sufficient rule of faith",
+        "The exact precise wording of the official Latin Vulgate translation of the Bible",
+        "Whether the four Gospels were written before or after Paul's own New Testament letters"
+      ],
+      "correctAnswer": "The full canon of Scripture, affirming books like Tobit, Wisdom, and 1-2 Maccabees as canonical alongside the rest",
+      "explanation": "Session 4 gave a formal, dogmatic list of the canonical books -- the same list already in liturgical and conciliar use for over a millennium -- precisely because several Reformers had begun setting aside books they judged doctrinally inconvenient.",
+      "hint": "This session produced an actual numbered list of books, not a principle about how to read them.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 4, Decree Concerning the Canonical Scriptures (1546)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-004",
+      "topic": "councils",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1533,
+      "prompt": "True or False: The Council of Trent defined that justification comes through faith alone, apart from good works.",
+      "correctAnswer": false,
+      "explanation": "This is precisely what Trent rejected. It taught instead that justification comes through grace, received by faith and lived out through real cooperation with that grace.",
+      "hint": "This is exactly what Trent pushed back against, not what it taught.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-005",
+      "topic": "councils",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Trent's decree on justification directly answers 'faith alone, apart from any cooperation of the will, saves.' What did the council actually anathematize?",
+      "choices": [
+        "Anyone who says justifying faith is nothing but confidence in mercy, excluding fear and any cooperation with grace",
+        "Anyone who says that faith plays any real role whatsoever in a person's own justification",
+        "Anyone who says that grace itself is genuinely necessary for a person's salvation",
+        "Anyone who says that good works are possible for a person before their own baptism"
+      ],
+      "correctAnswer": "Anyone who says justifying faith is nothing but confidence in mercy, excluding fear and any cooperation with grace",
+      "explanation": "Trent's Decree on Justification does not deny that faith is necessary -- it denies that faith reduces to a bare confidence excluding any real, grace-enabled human cooperation. The canon is aimed at a specific claim, not at faith's importance itself.",
+      "hint": "Trent is precise about what it rejects -- not faith itself, but faith reduced to bare confidence with no cooperation at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Decree on Justification, Canon 12 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1989"
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-006",
+      "topic": "councils",
+      "level": 9,
+      "type": "fill_blank",
+      "difficultyElo": 1643,
+      "prompt": "Trent's decree on justification teaches that it is not the remission of sins alone, but also the sanctification and renewal of the ____ man.",
+      "correctAnswer": "interior",
+      "acceptedAnswers": [
+        "interior"
+      ],
+      "explanation": "The word 'interior' carries the disagreement. If justification changed only a person's standing before God, nothing interior would need renewing. Trent insists the change reaches into the person, which is why it can speak of growth in justification at all.",
+      "hint": "The contested question was whether anything changes inside the person, or only their legal standing.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Decree on Justification"
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-007",
+      "topic": "councils",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Against the objection that crediting good works with any merit denies grace, what did Trent's Session 6 actually teach?",
+      "choices": [
+        "That good works of the justified, done in and through grace, truly merit an increase of grace and eternal life",
+        "That good works earn salvation entirely apart from grace, treated as a wage owed for labor",
+        "That good works are, in the end, irrelevant to salvation once a person already has faith",
+        "That only works performed by a person before their own baptism carry any real merit"
+      ],
+      "correctAnswer": "That good works of the justified, done in and through grace, truly merit an increase of grace and eternal life",
+      "explanation": "Trent is careful in a way later polemics often flatten: merit is real, but it is never a transaction independent of grace -- it is grace bearing fruit through a person already united to Christ, the branch drawing life from the vine.",
+      "hint": "Trent affirms merit, but ties it tightly to grace already at work -- not human achievement standing on its own.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Decree on Justification, ch. 16 and Canon 32 (1547)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2010"
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-008",
+      "topic": "councils",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 1623,
+      "prompt": "Match each of Trent's early decrees to what it actually settled.",
+      "pairs": [
+        {
+          "left": "Session 4, on the canon",
+          "right": "The full list of Scripture's canonical books"
+        },
+        {
+          "left": "Session 4, on Scripture and Tradition",
+          "right": "One revealed deposit, handed on in two forms, received with equal reverence"
+        },
+        {
+          "left": "Session 6, on justification",
+          "right": "Real interior renewal through grace, not imputation alone"
+        },
+        {
+          "left": "Session 6, on merit",
+          "right": "Good works, done in grace, truly merit growth in grace"
+        }
+      ],
+      "explanation": "These four decrees, all issued within Trent's first real working sessions, form one connected answer to the Reformation's own starting claims about Scripture and salvation.",
+      "hint": "Two rows concern Scripture and Tradition; two concern justification and merit.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 6, Decree on Justification, ch. 16 and Canon 32 (1547)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-009",
+      "topic": "councils",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1533,
+      "prompt": "True or False: Trent addressed the doctrinal questions of Scripture, Tradition, and justification in its very first working sessions, before turning to the sacraments and the Mass in later sessions.",
+      "correctAnswer": true,
+      "explanation": "True. Trent's own order of business reflects a real priority -- settling the deposit of revelation and the meaning of salvation itself before working through the sacramental and disciplinary questions the next level in this topic covers.",
+      "hint": "Consider which questions Trent addressed in its earliest sessions, before the later ones this topic's next level covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563)",
+          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l9-010",
+      "topic": "councils",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1583,
+      "prompt": "Given Trent's own early focus on Scripture, Tradition, and justification, what does the next level in this topic turn to?",
+      "choices": [
+        "Trent's later sessions on the sacraments, the Eucharist, purgatory, and sacred images",
+        "A complete repeat of this same level's material about Scripture, Tradition, and justification",
+        "A jump forward directly to the First Vatican Council three centuries later",
+        "A subject entirely unrelated to anything Trent itself addressed"
+      ],
+      "correctAnswer": "Trent's later sessions on the sacraments, the Eucharist, purgatory, and sacred images",
+      "explanation": "The next level continues Trent's own real chronological order of business, moving from revelation and salvation to the sacramental and devotional life those doctrines support.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 13, Decree on the Most Holy Eucharist (1551)"
+        }
+      ]
+    }
+  ]
+}
