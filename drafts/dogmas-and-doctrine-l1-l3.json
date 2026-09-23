@@ -1,0 +1,674 @@
+{
+  "_comment": "Dogmas-and-doctrine levels 1-3: what is a dogma, God is one, the Fall and Original Sin",
+  "topic": "dogmas-and-doctrine",
+  "questions": [
+    {
+      "id": "dogmas-and-doctrine-l1-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "A 'dogma' is best defined as:",
+      "choices": [
+        "A truth revealed by God and definitively proposed by the Church as binding on every believer",
+        "Any opinion a bishop happens to hold personally",
+        "A purely disciplinary rule, like a fasting requirement, that can change over time",
+        "A theory theologians debate but the Church has never formally decided"
+      ],
+      "correctAnswer": "A truth revealed by God and definitively proposed by the Church as binding on every believer",
+      "explanation": "A dogma is not a private opinion or a changeable rule -- it is a truth God has revealed, which the Church's Magisterium has definitively taught, and which every Catholic is bound to believe.",
+      "hint": "Think about what makes a dogma different from a rule that could someday change.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 90"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Every single teaching the Church holds is a dogma.",
+      "correctAnswer": false,
+      "explanation": "False. 'Doctrine' is the wider category -- the Church's whole body of teaching, some of it solemnly defined as dogma, some of it taught with real authority but not (yet, or ever) formally defined. Disciplinary rules, like the Friday abstinence requirement, are a third, changeable category again.",
+      "hint": "Consider whether 'dogma' and 'doctrine' are simply two names for the exact same thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 90"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Where does the Church say revealed truth actually comes from?",
+      "choices": [
+        "Both Scripture and Tradition, together, handing on the one deposit of God's word",
+        "Scripture alone, with Tradition being a later human addition",
+        "Tradition alone, with Scripture being only one Tradition among many",
+        "Neither -- each individual believer determines revealed truth for themselves"
+      ],
+      "correctAnswer": "Both Scripture and Tradition, together, handing on the one deposit of God's word",
+      "explanation": "The Church has always held that Sacred Scripture and Sacred Tradition together transmit the one deposit of God's revealed word, flowing from the same divine source.",
+      "hint": "The Church names two, not one, real channels handing on revelation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 82",
+          "quote": "Both Scripture and Tradition must be accepted and honored with equal sentiments of devotion and reverence."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "fill_blank",
+      "difficultyElo": 910,
+      "prompt": "The task of giving an authentic interpretation of the Word of God, whether written or handed down, belongs to the Church's living teaching office, called the ____.",
+      "correctAnswer": "Magisterium",
+      "acceptedAnswers": [
+        "Magisterium",
+        "magisterium"
+      ],
+      "explanation": "The Magisterium -- the pope and bishops in communion with him -- is the Church's living teaching authority, entrusted with authentically interpreting Scripture and Tradition, not standing above them.",
+      "hint": "It's a Latin-derived word for the Church's teaching authority.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: The Magisterium stands above the Word of God, free to add or subtract from it as it sees fit.",
+      "correctAnswer": false,
+      "explanation": "False. The Magisterium is not above the Word of God, but serves it -- teaching only what has been handed on, listening to it devoutly, guarding it, and explaining it faithfully.",
+      "hint": "Consider whether the Church's teaching office creates revelation, or receives and guards it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Public revelation -- what God has revealed for the whole Church to believe -- closed with:",
+      "choices": [
+        "The death of the last apostle",
+        "The Council of Nicaea in 325",
+        "The most recent papal encyclical",
+        "The invention of the printing press"
+      ],
+      "correctAnswer": "The death of the last apostle",
+      "explanation": "Public revelation, binding on the whole Church, was complete with the death of the last apostle. The Church does not receive new public revelation after this -- her task since has been to understand ever more deeply what was already revealed.",
+      "hint": "This closes a period, not opens a new one -- think about who received revelation directly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: A private revelation, even one approved by the Church (such as at Lourdes or Fatima), can add new content to the deposit of faith that every Catholic must believe.",
+      "correctAnswer": false,
+      "explanation": "False. Approved private revelations may help believers live the one already-complete public revelation more fully in a given era, but they add nothing new to the deposit of faith, and belief in them is never required the way belief in dogma is.",
+      "hint": "Recall what closed with the death of the last apostle, and consider what a later approved private revelation could and could not do relative to that.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "The Church's ordinary, non-defining teaching (for example, in an encyclical that is not solemnly defining a dogma) calls for what kind of response from a Catholic?",
+      "choices": [
+        "Religious assent -- real internal adherence, though distinct from the assent of faith given to a defined dogma",
+        "No response at all, since it isn't dogma",
+        "The exact same assent of faith owed to a solemnly defined dogma, with no distinction whatsoever",
+        "Agreement only if the individual believer happens to find the argument personally convincing"
+      ],
+      "correctAnswer": "Religious assent -- real internal adherence, though distinct from the assent of faith given to a defined dogma",
+      "explanation": "Not every act of the Magisterium is a solemn definition, but ordinary teaching still calls for real religious assent -- a genuine internal adherence -- even though this differs from the assent of faith given to a formally defined dogma.",
+      "hint": "The Church distinguishes real assent from the full assent of faith, without collapsing either into 'optional.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 892",
+          "quote": "To this ordinary teaching the faithful \"are to adhere to it with religious assent\" which, though distinct from the assent of faith, is nonetheless an extension of it."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: A Catholic is free to simply disregard any Church teaching that has not been solemnly defined as a dogma.",
+      "correctAnswer": false,
+      "explanation": "False. Even teaching that falls short of a solemn dogmatic definition still calls for real religious assent, not casual dismissal -- 'not yet formally defined' is not the same as 'safely ignorable.'",
+      "hint": "Recall what kind of response ordinary Magisterial teaching calls for, even short of a formal dogmatic definition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 892",
+          "quote": "To this ordinary teaching the faithful \"are to adhere to it with religious assent\" which, though distinct from the assent of faith, is nonetheless an extension of it."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l1-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each term about dogma and doctrine to what it actually means.",
+      "pairs": [
+        {
+          "left": "Dogma",
+          "right": "A revealed truth definitively proposed by the Church, binding on every believer"
+        },
+        {
+          "left": "Doctrine",
+          "right": "The Church's whole body of teaching, of which dogma is the most solemnly defined part"
+        },
+        {
+          "left": "Sacred Tradition and Sacred Scripture",
+          "right": "Together, the one deposit of God's revealed word"
+        },
+        {
+          "left": "The Magisterium",
+          "right": "The Church's living teaching office, serving the Word of God rather than standing above it"
+        }
+      ],
+      "explanation": "This level's own four terms set up the vocabulary this whole topic will use throughout -- knowing exactly what each word means, and does not mean, before any specific dogma is examined in depth.",
+      "hint": "Two rows name kinds of teaching; two name where that teaching comes from and who guards it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "The Church teaches that the existence of one God can be:",
+      "choices": [
+        "Known with certainty by reason alone, though revelation makes it known with far greater ease",
+        "Known only through revelation, with reason having no real access to it whatsoever",
+        "Neither known by reason nor revealed -- simply an assumption believers happen to make",
+        "Proven only by a majority vote among theologians"
+      ],
+      "correctAnswer": "Known with certainty by reason alone, though revelation makes it known with far greater ease",
+      "explanation": "The Church holds that human reason, reflecting on creation, can arrive at certainty about God's existence -- but she also teaches that in practice, revelation makes this truth knowable by everyone, easily, with firm certainty, and without admixture of error.",
+      "hint": "The Church holds both that reason can reach this truth, and that revelation still matters for knowing it well.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: The Church teaches that there is only one God.",
+      "correctAnswer": true,
+      "explanation": "True. Strict monotheism -- one God, and no other -- is at the foundation of everything the Church teaches about God, from the Old Testament's own witness through the Creed's own opening words.",
+      "hint": "Recall the Old Testament's own repeated witness on this exact point.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Which of these is a classic divine attribute the Church actually teaches about God?",
+      "choices": [
+        "God is omnipotent -- almighty, with nothing impossible for him except what would contradict his own nature",
+        "God is limited in power, able to act only within the created world's own physical laws",
+        "God is one of several equally powerful divine beings",
+        "God's power grows or changes over time, as the universe itself develops"
+      ],
+      "correctAnswer": "God is omnipotent -- almighty, with nothing impossible for him except what would contradict his own nature",
+      "explanation": "The Church confesses God as almighty -- the Creed's very first word about him. His omnipotence is real and total, yet never contradicts his own goodness or truth; God cannot, for example, lie or cease to exist, since that would contradict who he is.",
+      "hint": "The Creed's very first description of God names this attribute directly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 269"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Because God is all-good, the Church teaches that evil cannot really exist at all.",
+      "correctAnswer": false,
+      "explanation": "False. Real evil does exist in the world. God is not its cause -- he permits it while respecting the real freedom of his creatures, and can draw a greater good even from evil he permits, without ever willing evil itself.",
+      "hint": "The Church's answer to evil is not to deny it exists, but to explain God's real relationship to it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "God is also confessed as eternal and unchanging. What does this attribute actually mean?",
+      "choices": [
+        "God has no beginning and no end, and does not change over time the way created things do",
+        "God began to exist a very long time ago, though far earlier than the universe itself",
+        "God changes constantly, growing wiser and more powerful as history unfolds",
+        "God will eventually cease to exist once creation is complete"
+      ],
+      "correctAnswer": "God has no beginning and no end, and does not change over time the way created things do",
+      "explanation": "God's eternity means he has no beginning, no end, and no real change -- he simply is, in the fullest sense, not a being who develops or grows the way created things do.",
+      "hint": "This attribute is about God's relationship to time itself, not just a very long life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 212"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Knowing God can be known by reason alone means that revelation adds nothing real to what we could already figure out on our own.",
+      "correctAnswer": false,
+      "explanation": "False. Even truths reason could reach in principle are, in practice, known by revelation far more easily, certainly, and without the errors that so often creep into purely human reasoning -- reason's real capacity does not make revelation redundant.",
+      "hint": "Consider the difference between what reason could, in principle, reach, and what most people actually reach without help.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Why does the Church insist God is not merely powerful, but also perfectly good?",
+      "choices": [
+        "A powerful but not good God couldn't be trusted or worshipped -- goodness makes power something to hope in",
+        "Because goodness is a separate, lesser attribute with no real bearing on God's power",
+        "Because God's goodness only applies to some of creation, not all of it",
+        "Because the Church has never actually taught that God is good, only that he is powerful"
+      ],
+      "correctAnswer": "A powerful but not good God couldn't be trusted or worshipped -- goodness makes power something to hope in",
+      "explanation": "Almighty power alone, without goodness, would be terrifying rather than worthy of worship. The Church confesses God as both -- his omnipotence is always exercised in perfect love and goodness, which is exactly what makes trust in him reasonable.",
+      "hint": "Consider what an all-powerful being who was not also good would actually be like.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 269"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: God's unchanging eternity means he is distant and uninvolved in the real, changing world he made.",
+      "correctAnswer": false,
+      "explanation": "False. God's own unchanging eternity does not mean absence -- Scripture and the Church's own teaching present a God intimately present to and active within his changing creation, even though he himself does not change.",
+      "hint": "Consider whether being unchanging and being absent are actually the same thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 212"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 965,
+      "prompt": "Match each divine attribute to what the Church teaches it actually means.",
+      "pairs": [
+        {
+          "left": "One God",
+          "right": "Strict monotheism -- there is no other God besides him"
+        },
+        {
+          "left": "Omnipotent",
+          "right": "Almighty, with nothing impossible for him except what would contradict his own nature"
+        },
+        {
+          "left": "All-good",
+          "right": "Never the cause of moral evil, though he permits it out of respect for real freedom"
+        },
+        {
+          "left": "Eternal and unchanging",
+          "right": "No beginning, no end, and no real change, unlike created things"
+        }
+      ],
+      "explanation": "These four attributes are the real starting point for everything this topic will build on -- before the Trinity, before the Incarnation, before grace, there is first the one true God whose real nature those later dogmas will keep describing more precisely.",
+      "hint": "Each row names an attribute and its real, precise meaning, not a vague synonym.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons, the 'consubstantial Trinity.'"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l2-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Given this level's picture of the one true God -- all-powerful, all-good, eternal -- what real question does the next level in this topic turn to?",
+      "choices": [
+        "Why the world still contains real evil, traced back to humanity's own real fall from grace",
+        "A complete repeat of this same level's material about God's own attributes",
+        "A jump ahead to the Last Things, skipping over everything in between",
+        "A subject entirely unrelated to God's own nature or humanity's relationship to him"
+      ],
+      "correctAnswer": "Why the world still contains real evil, traced back to humanity's own real fall from grace",
+      "explanation": "Having established who God actually is, this topic's next level turns to humanity's own real story -- the Fall and Original Sin -- which is exactly what first makes clear why a Redeemer would ever be necessary at all.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-001",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "The Church teaches that the first humans were created in a state of:",
+      "choices": [
+        "Original holiness and justice, in real friendship with God, before any sin entered the world",
+        "Sin and struggle, exactly as later humanity has always experienced life",
+        "Pure ignorance, with no real relationship to God of any kind",
+        "Physical immortality with no real moral responsibility at all"
+      ],
+      "correctAnswer": "Original holiness and justice, in real friendship with God, before any sin entered the world",
+      "explanation": "The Church teaches that the first humans were constituted in a real state of holiness and justice, in genuine friendship with God -- a real, good beginning, not the struggle-marked condition humanity has known ever since.",
+      "hint": "Consider what condition existed before, not after, sin entered the human story.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 390"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-002",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Genesis 3 tells the story of humanity's real first sin, disobeying God's real command.",
+      "correctAnswer": true,
+      "explanation": "True. Genesis 3 presents the real, foundational account of the first sin -- a real act of disobedience, freely chosen, that broke the original friendship between humanity and God.",
+      "hint": "This is the Bible's own real opening account of sin entering the human story.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 390"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-003",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "What real effect did the first sin have on humanity's relationship with God, according to the Church?",
+      "choices": [
+        "Harmony with God was broken -- creation itself became alien and hostile, and death entered the human condition",
+        "No real effect at all -- humanity's relationship with God remained exactly as it had been before",
+        "God's own nature changed as a direct result",
+        "Only the first man and woman personally were affected, with every effect stopping there"
+      ],
+      "correctAnswer": "Harmony with God was broken -- creation itself became alien and hostile, and death entered the human condition",
+      "explanation": "The first sin broke real harmony with God -- and its effects did not stay contained to Adam and Eve alone; the Church teaches this wound was transmitted to the whole of humanity, not just its first two members.",
+      "hint": "Consider whether the Church teaches this sin's real effects stayed limited to two individuals, or spread further.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 400",
+          "quote": "Harmony with creation is broken: visible creation has become alien and hostile to man."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-004",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "fill_blank",
+      "difficultyElo": 1060,
+      "prompt": "The Church calls the sin transmitted to every human person by descent from Adam, distinct from any sin a person personally commits, '____ sin.'",
+      "correctAnswer": "original",
+      "acceptedAnswers": [
+        "original",
+        "Original"
+      ],
+      "explanation": "Original sin is a real, inherited condition -- not a personal act any individual chose -- affecting every human person from the very beginning of their own existence, a wound in human nature itself rather than one person's own guilt.",
+      "hint": "It's the same word used to describe the very first sin itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-005",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Original sin means each individual person is personally, morally guilty of Adam's own particular act of disobedience.",
+      "correctAnswer": false,
+      "explanation": "False, and this is a real, careful distinction -- original sin is transmitted as a real deprivation of original holiness, a wounded condition of human nature, not a personal moral guilt for an act someone else committed.",
+      "hint": "Consider the real difference between inheriting a wounded condition and personally committing an act.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-006",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Why does the doctrine of original sin actually matter for understanding the rest of this topic?",
+      "choices": [
+        "It establishes the real need for a Redeemer -- without a fall, Christ's death would save us from nothing",
+        "Because it has no real bearing on anything else the Church teaches about salvation",
+        "Because it proves that God's own original creation was flawed from the very beginning",
+        "Because it means every later doctrine about grace and sacraments is actually optional"
+      ],
+      "correctAnswer": "It establishes the real need for a Redeemer -- without a fall, Christ's death would save us from nothing",
+      "explanation": "This is exactly why this topic covers original sin directly after establishing who God is -- the doctrine of the Fall is what makes the rest of this topic's real story, culminating in the Incarnation and grace, make actual sense.",
+      "hint": "Consider what later levels in this topic -- on the Incarnation and grace -- would mean without this level's own real content.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-007",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Even in the very same passage that describes the first sin, Genesis already contains a real hint of the redemption to come.",
+      "correctAnswer": true,
+      "explanation": "True. Genesis 3:15 -- sometimes called the Protoevangelium, the 'first gospel' -- already promises real enmity between the serpent and the woman's offspring, a real hint of the victory over sin that the rest of Scripture will trace toward Christ.",
+      "hint": "Consider what God says to the serpent immediately after the first sin, in that same real passage.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-008",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Genesis 3:15 promises real enmity between the serpent and the woman's offspring, who will 'strike at your head.' How has the Church's own tradition read this real promise?",
+      "choices": [
+        "A real, early hint of Christ's own future victory over sin, read alongside Mary's own role as the new Eve",
+        "As a purely literal warning about the danger of snakes in general",
+        "As a passage with no real connection to anything else in Scripture",
+        "As proof that the serpent, not humanity, bears all the real moral responsibility for the first sin"
+      ],
+      "correctAnswer": "A real, early hint of Christ's own future victory over sin, read alongside Mary's own role as the new Eve",
+      "explanation": "The Church's own tradition has long read this verse as a real, early promise of redemption -- pointing toward Christ's own final victory, and toward Mary's own real cooperation in that victory as the new Eve, both of which later levels in this app trace in greater depth.",
+      "hint": "Consider how the rest of Scripture and Tradition read this real promise, not just its most literal surface meaning.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-009",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each fact about the Fall and original sin to what it actually means.",
+      "pairs": [
+        {
+          "left": "Original holiness and justice",
+          "right": "The first humans' real state of friendship with God, before any sin"
+        },
+        {
+          "left": "Original sin",
+          "right": "A wounded condition of human nature transmitted to every person, not a personal act"
+        },
+        {
+          "left": "\"Harmony with creation is broken\"",
+          "right": "The real effect of the first sin on humanity's relationship to the created world"
+        },
+        {
+          "left": "Genesis 3:15",
+          "right": "A real, early hint of the redemption Christ would one day accomplish"
+        }
+      ],
+      "explanation": "These four facts together set up exactly why the rest of this topic's own real story -- Incarnation, Paschal Mystery, grace -- is actually needed, rather than optional.",
+      "hint": "Two rows describe the real fall itself; two describe what it broke and what it already, even then, pointed toward.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 400",
+          "quote": "Harmony with creation is broken: visible creation has become alien and hostile to man."
+        }
+      ]
+    },
+    {
+      "id": "dogmas-and-doctrine-l3-010",
+      "topic": "dogmas-and-doctrine",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Having established the one true God (level 2) and humanity's real fall from original grace (this level), what does the next level in this topic turn to?",
+      "choices": [
+        "Creation itself -- how God made the world, and the real place of body, soul, and the angels",
+        "A complete repeat of this same level's material about the Fall and original sin",
+        "A jump ahead to the Last Things, skipping over everything in between",
+        "A subject entirely unrelated to God, creation, or humanity's own real story"
+      ],
+      "correctAnswer": "Creation itself -- how God made the world, and the real place of body, soul, and the angels",
+      "explanation": "Having now covered who God is and how humanity fell from an original grace, this topic's next level turns to creation itself -- the real world God made, and the real nature of the human person within it, before this topic later returns to how that fall is actually undone.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 296",
+          "quote": "God creates freely 'out of nothing'... God shows his power by starting from nothing to make all he wants."
+        }
+      ]
+    }
+  ]
+}
