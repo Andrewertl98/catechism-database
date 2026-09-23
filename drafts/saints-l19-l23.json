@@ -1,0 +1,1259 @@
+{
+  "_comment": "DRAFT -- NOT live. Saints levels 19-23 of 23 (final): level 19 is new (John XXIII/John Paul II's shared 2014 canonization, Oscar Romero, Carlo Acutis) closing the chronological survey. Levels 20-23 are the old live levels 6/7/9/10 verbatim, renumbered and re-seeded: the canonization process itself (beatification, miracles, equipollent canonization), answering objections about the saints, cross-topic synthesis, and a capstone of genuinely hard/ambiguous cases -- concrete history first, abstract and contested questions only once that foundation is real, per Andrew's pedagogical standard.",
+  "topic": "saints",
+  "questions": [
+    {
+      "id": "saints-l19-001",
+      "topic": "saints",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "In 2014, Pope Francis canonized two of his own predecessors on the same day. Who were they?",
+      "choices": [
+        "John XXIII and John Paul II",
+        "Pius XII and Paul VI",
+        "Benedict XVI and John Paul I",
+        "Leo XIII and Pius X"
+      ],
+      "correctAnswer": "John XXIII and John Paul II",
+      "explanation": "John XXIII, who called the Second Vatican Council covered in Church History's own level 22, and John Paul II, one of the modern era's longest-reigning and most widely known popes, were canonized together -- a striking case of the Church formally recognizing sanctity in men whose public lives were watched by millions.",
+      "hint": "One of these two popes called the Second Vatican Council; the other is one of the most widely known popes of the 20th century.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-002",
+      "topic": "saints",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Archbishop Óscar Romero of El Salvador, assassinated in 1980 while celebrating Mass, was canonized by Pope Francis as a martyr for the faith.",
+      "correctAnswer": true,
+      "explanation": "True. Romero's cause had stalled for years over whether his death was properly political or properly a martyrdom in hatred of the faith; Francis's 2018 canonization formally resolved that question -- the same crisis Church History's own final levels cover from the institutional angle.",
+      "hint": "Recall the same figure and the same real question, already covered from a different angle in Church History's final levels.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-003",
+      "topic": "saints",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What real question did Romero's canonization formally settle, after decades of dispute?",
+      "choices": [
+        "Whether his 1980 assassination counted as martyrdom for the faith",
+        "Whether he had actually served as archbishop of San Salvador",
+        "Whether the Mass he was celebrating when killed was validly celebrated",
+        "Whether his own writings contained any doctrinal error"
+      ],
+      "correctAnswer": "Whether his 1980 assassination counted as martyrdom for the faith",
+      "explanation": "This is a real, documented case of the canonization process taking decades to resolve a genuinely difficult question -- not because Romero's holiness was doubted, but because 'martyrdom in hatred of the faith' has a specific meaning the Church had to carefully determine applied here.",
+      "hint": "Consider what specific distinction made his cause take so much longer than many others.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-004",
+      "topic": "saints",
+      "level": 19,
+      "type": "fill_blank",
+      "difficultyElo": 2260,
+      "prompt": "A young Italian, Carlo Acutis, who died of leukemia as a teenager in 2006, became known for using his computer skills to catalog reported ____ around the world before his own death.",
+      "correctAnswer": "Eucharistic miracles",
+      "acceptedAnswers": [
+        "Eucharistic miracles",
+        "miracles"
+      ],
+      "explanation": "Acutis's short life -- ordinary in many ways, marked by real technical skill and a deep personal devotion to the Eucharist -- has made him a widely recognized model of sanctity for a generation that grew up with the same technology he used.",
+      "hint": "The specific kind of reported miracles his website cataloged, all connected to one sacrament.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-005",
+      "topic": "saints",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Carlo Acutis died as a teenager, making him one of the youngest figures in recent memory to be formally recognized by the Church as a model of holiness.",
+      "correctAnswer": true,
+      "explanation": "True. His case shows this topic's opening claim, from level 1, still holding true at the very end of its chronological arc: real sainthood is not limited by age, era, or how ordinary a person's outward circumstances may look.",
+      "hint": "Consider how young he actually was at the time of his death.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-006",
+      "topic": "saints",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2240,
+      "prompt": "Match each contemporary figure to what makes them one of this level's recent recognitions of holiness.",
+      "pairs": [
+        {
+          "left": "John XXIII and John Paul II",
+          "right": "Canonized together by Francis in 2014"
+        },
+        {
+          "left": "Óscar Romero",
+          "right": "A canonization that formally resolved decades of dispute over martyrdom"
+        },
+        {
+          "left": "Carlo Acutis",
+          "right": "A young model of holiness shaped by modern technology and Eucharistic devotion"
+        },
+        {
+          "left": "This whole level",
+          "right": "Brings this topic's chronological survey up to the present day"
+        }
+      ],
+      "explanation": "This level closes a journey that opened with the apostles nearly two thousand years earlier -- proof the Church continues recognizing real, documented holiness in every generation, including the most recent one.",
+      "hint": "Three rows name individual figures or a pair; one names what this whole level accomplishes for the topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-007",
+      "topic": "saints",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: The pattern of costly, documented witness this topic opened with in its earliest levels has, according to this level, simply stopped occurring in the contemporary Church.",
+      "correctAnswer": false,
+      "explanation": "False. Romero's own martyrdom, formally recognized decades after his death, shows the exact pattern this topic opened with -- Stephen, the Roman martyrs, Kolbe -- still occurring, and still being recognized, within living memory.",
+      "hint": "Consider whether Romero's own story fits, or breaks, the pattern this topic's earliest levels established.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-008",
+      "topic": "saints",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "Taken together, what does this level's mix of two popes, a martyred archbishop, and a teenager show about how the Church recognizes holiness today?",
+      "choices": [
+        "That real sanctity continues to be recognized across every kind of life, public and hidden alike",
+        "That only popes and bishops can realistically be canonized in the modern era",
+        "That the Church has stopped recognizing new saints since the Second Vatican Council",
+        "That canonization today requires no real historical or medical investigation"
+      ],
+      "correctAnswer": "That real sanctity continues to be recognized across every kind of life, public and hidden alike",
+      "explanation": "This level's own range -- from the most publicly visible office in the Church to a teenager's short, largely private life -- mirrors the whole topic's own range from level 1 onward: sainthood was never confined to one kind of life.",
+      "hint": "Consider the real range of public visibility across this level's own figures.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-009",
+      "topic": "saints",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "Having traced this topic's chronological arc from the apostles to the present day, what does the next level in this topic turn to?",
+      "choices": [
+        "How the Church's canonization process actually works, the formal stages behind every figure covered so far",
+        "A complete repeat of this same level's material about contemporary saints",
+        "A jump backward to the apostolic era, already fully covered at the start of this topic",
+        "A subject entirely unrelated to anything this topic has covered so far"
+      ],
+      "correctAnswer": "How the Church's canonization process actually works, the formal stages behind every figure covered so far",
+      "explanation": "Having now met saints across the whole of Christian history, the topic shifts from individual lives to the process itself -- the structure behind every canonization this topic has already described in passing, now explained directly.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l19-010",
+      "topic": "saints",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: This level marks the end of this topic's chronological survey, from the apostolic era through to figures within living memory.",
+      "correctAnswer": true,
+      "explanation": "True. From here, this topic shifts from following saints in the order they lived to examining the Church's own process, its defense against objections, its connections across the whole app, and finally a set of genuinely hard cases -- concrete history first, the abstract and contested questions only now that the foundation is real.",
+      "hint": "Consider how many more levels remain in this topic, and what kind of content they cover.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-001",
+      "topic": "saints",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Per John Paul II's apostolic constitution Divinus Perfectionis Magister (1983), how many miracles are typically required, and at which stages?",
+      "choices": [
+        "One miracle for beatification, a second, different miracle for canonization",
+        "Two miracles are required for beatification, none for canonization",
+        "No miracles are ever required if the candidate died a martyr",
+        "Three miracles are required, all before beatification"
+      ],
+      "correctAnswer": "One miracle for beatification, a second, different miracle for canonization",
+      "explanation": "Divinus Perfectionis Magister set the modern norms: a miracle attributed to the candidate's intercession is required for beatification, and a second, distinct miracle occurring after beatification is required for canonization -- martyrs are typically exempted from the beatification miracle, but a canonization miracle is still normally required.",
+      "hint": "The two miracles are not interchangeable -- the second one has to happen after the first stage, not before it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
+          "quote": "Most recent experience... has shown us the appropriateness of revising further the manner of instructing causes... so structuring the Congregation for the Causes of Saints that we might meet the needs of experts and the desires of Our Brother Bishops, who have often called for a simpler process while maintaining the soundness of the investigation."
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-002",
+      "topic": "saints",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Pope John Paul II's 1997 proclamation naming St. Therese of Lisieux a Doctor of the Church specifically cited her 'eminens doctrina' (eminent learning). Given that Therese never wrote a formal theological treatise, what does this criterion actually require?",
+      "choices": [
+        "A teaching of genuine depth and value for the whole Church, not necessarily an academic theological treatise",
+        "A completed doctorate earned personally from a formally recognized Catholic university",
+        "Ordination to the sacrament of holy orders, either the priesthood or the episcopate",
+        "Formal, documented training received directly under an already-canonized theologian"
+      ],
+      "correctAnswer": "A teaching of genuine depth and value for the whole Church, not necessarily an academic theological treatise",
+      "explanation": "The three criteria for a Doctor of the Church are eminent learning, outstanding sanctity, and formal proclamation by the Pope or an ecumenical council. Therese's 'Little Way,' though expressed in an autobiography rather than academic theology, was judged to meet 'eminens doctrina' because of its genuine doctrinal depth and universal pastoral value, not its academic form.",
+      "hint": "This criterion is about the depth and universal value of the teaching, not the format it comes in.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Divini Amoris Scientia (1997)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-003",
+      "topic": "saints",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: Pope Benedict XVI's 2012 equipollent canonization of Hildegard of Bingen required her to pass through the normal two-miracle process just like any other saint.",
+      "correctAnswer": false,
+      "explanation": "Equipollent (or 'equivalent') canonization extends universal veneration based on an already well-established, ancient cultus, unanimous testimony from reliable historians about the person's virtue, and a constant reputation for miracles -- bypassing the normal formal miracle investigation process. Benedict XVI used this route for Hildegard of Bingen in 2012, whose veneration was already centuries old.",
+      "hint": "This route exists precisely because some holy figures already have such a long, unbroken tradition of veneration that the normal process would be redundant.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Decree on the Equivalent Canonization of Hildegard of Bingen (2012)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-004",
+      "topic": "saints",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "The Church distinguishes first-, second-, and third-class relics (a saint's body, an item they used, an item touched to their tomb or remains). Per CCC 1674, what does the Church actually permit regarding these objects?",
+      "choices": [
+        "Their veneration, but never worship, which belongs to God alone",
+        "Their worship, on the same level as the Eucharist",
+        "Veneration only for first-class relics, none for the other two classes",
+        "No use of relics at all in current Church practice"
+      ],
+      "correctAnswer": "Their veneration, but never worship, which belongs to God alone",
+      "explanation": "CCC 1674 situates relics among the popular forms of piety that 'extend the liturgical life of the Church' -- the Church permits and encourages their veneration as reminders of a saint's holiness and closeness to God, while reserving worship (latria) for God alone.",
+      "hint": "This is the same latria/dulia distinction that answers the 'isn't this idolatry' objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, and medals."
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-005",
+      "topic": "saints",
+      "level": 20,
+      "type": "fill_blank",
+      "difficultyElo": 2335,
+      "prompt": "The Roman Martyrology's dated entry for a saint carries more evidentiary weight than a later ____ elaboration, which may add pious details not found in the earliest sources.",
+      "correctAnswer": "hagiographic",
+      "explanation": "The Roman Martyrology is the Church's official liturgical list of saints and their feast days, kept to a sober, dated entry. Later hagiographic (saint-biography) elaborations -- especially medieval collections like the Golden Legend -- often add vivid but unverifiable details layered on top of the earlier, more reliable record.",
+      "hint": "This is the same word used for the entire genre of saint-biography writing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-006",
+      "topic": "saints",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each term from this level to what it actually means.",
+      "pairs": [
+        {
+          "left": "Equipollent canonization",
+          "right": "Extending universal veneration based on an already ancient, established cultus, bypassing the normal miracle process"
+        },
+        {
+          "left": "Doctor of the Church",
+          "right": "Requires eminent learning, outstanding sanctity, and formal papal or conciliar proclamation"
+        },
+        {
+          "left": "First-class relic",
+          "right": "A saint's own body or bodily remains"
+        },
+        {
+          "left": "Official patronage",
+          "right": "Formally assigned by a papal decree, distinct from a devotion that is merely traditional"
+        }
+      ],
+      "explanation": "Each of these terms names a specific, documented process or category -- not a vague impression of 'how the Church honors saints,' but a defined mechanism with its own requirements and its own named source.",
+      "hint": "One of these four bypasses the normal process entirely; the others describe how the normal process actually works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-007",
+      "topic": "saints",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "What is the difference between beatification and canonization in the process?",
+      "choices": [
+        "Beatification permits local or limited veneration; canonization declares the person a saint for the whole universal Church",
+        "They are, in ordinary Church practice, simply two different names for the identical final step",
+        "Beatification actually happens after canonization is granted, in reverse of the usual order",
+        "Canonization itself, unlike beatification, requires no verified miracle of any kind at all"
+      ],
+      "correctAnswer": "Beatification permits local or limited veneration; canonization declares the person a saint for the whole universal Church",
+      "explanation": "Beatification is an intermediate step — the person is declared 'Blessed' and may be venerated in a limited context (a diocese, a religious order) — while canonization extends that recognition and veneration to the whole Church, typically requiring an additional verified miracle beyond the one required for beatification.",
+      "hint": "Ask which step is limited in scope and which extends to the whole Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-008",
+      "topic": "saints",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: John Paul II's 1983 reform, Divinus Perfectionis Magister, reduced the number of required miracles and restructured the process to function more like a rigorous historical investigation.",
+      "correctAnswer": true,
+      "explanation": "True. The reform streamlined a process that had grown extremely lengthy, emphasizing careful historical and theological investigation of the candidate's life and reducing (though not eliminating) the number of miracles formally required at each stage.",
+      "hint": "Ask whether this reform made the process more or less historically rigorous, and simpler or more complex.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Divinus Perfectionis Magister, Pope St. John Paul II (1983)"
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-009",
+      "topic": "saints",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "What is an 'equipollent' canonization, as used for Hildegard of Bingen and a small number of other cases?",
+      "choices": [
+        "A recognition of existing, longstanding veneration, bypassing the usual formal process of beatification and a verified miracle",
+        "A canonization that requires, quite unusually, exactly double the normal number of formally verified miracles required",
+        "A canonization performed directly and solely by a diocese rather than by the Pope himself",
+        "A purely honorary title that carries no actual, formal recognition of sainthood whatsoever"
+      ],
+      "correctAnswer": "A recognition of existing, longstanding veneration, bypassing the usual formal process of beatification and a verified miracle",
+      "explanation": "This route recognizes that a person has, in effect, already been venerated as a saint by the faithful for centuries, and the Pope simply extends that existing veneration to the universal Church — a real alternative to the standard process rather than an exception undermining it.",
+      "hint": "Ask what already existed, for centuries, before this kind of canonization is used.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l20-010",
+      "topic": "saints",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each term from this level to what it actually means.",
+      "pairs": [
+        {
+          "left": "Beatification",
+          "right": "Limited, local veneration granted as an intermediate step"
+        },
+        {
+          "left": "Canonization",
+          "right": "Universal Church veneration with a mandatory feast day"
+        },
+        {
+          "left": "Equipollent canonization",
+          "right": "Recognizing existing longstanding veneration, bypassing the usual steps"
+        },
+        {
+          "left": "Divinus Perfectionis Magister",
+          "right": "John Paul II's 1983 reform of the canonization process"
+        }
+      ],
+      "explanation": "Understanding these terms precisely is what separates informed discussion of how saints are actually recognized from vague impressions of 'the Church just decides someone is a saint' with no further structure behind it.",
+      "hint": "Two of these are stages in the standard process; two concern how that process itself works or can be bypassed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-001",
+      "topic": "saints",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "A candidate for canonization is documented to have cared faithfully for the poor for decades, but also to have had an ordinary temper and occasional impatience, well short of extraordinary or superhuman perfection. Does this disqualify the candidate from meeting the 'heroic virtue' standard?",
+      "choices": [
+        "No -- heroic virtue means habitually and readily practicing virtue to an exceptional degree despite real human weakness",
+        "Yes -- heroic virtue requires a complete and total absence of any recorded human flaw",
+        "No -- heroic virtue only concerns a single dramatic act, not a lifetime pattern of behavior",
+        "Yes -- ordinary impatience of any kind is automatically disqualifying under current canon law"
+      ],
+      "correctAnswer": "No -- heroic virtue means habitually and readily practicing virtue to an exceptional degree despite real human weakness",
+      "explanation": "'Heroic virtue' does not mean a flawless life -- it means a habitual, ready, and exceptional practice of the virtues (especially the theological and cardinal virtues) sustained over time, even amid ordinary human weaknesses. Nearly every canonized saint's own recorded life includes some real, documented struggle.",
+      "hint": "This standard is about a consistent, exceptional pattern over a lifetime, not the absence of any flaw at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-002",
+      "topic": "saints",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "An objector says asking a saint to pray for you violates 1 Timothy 2:5 ('there is one mediator between God and men, the man Christ Jesus'). What is the Church's actual distinction in response?",
+      "choices": [
+        "Christ is the one mediator of redemption; asking a saint to intercede is the same kind of request made of any living Christian",
+        "1 Timothy 2:5 has, according to this objection, been formally reinterpreted by the Magisterium to no longer apply",
+        "Saints are not, in this view, actually being asked to pray at all, only admired as historical examples",
+        "The verse in question, on this reading, only applies to Old Testament intercessors, never New Testament saints"
+      ],
+      "correctAnswer": "Christ is the one mediator of redemption; asking a saint to intercede is the same kind of request made of any living Christian",
+      "explanation": "The Church distinguishes Christ's unique mediation of redemption (the sole basis of anyone's access to the Father) from asking a fellow member of the Body of Christ -- living or dead -- to pray for you, which Scripture itself commends (James 5:16) and which does not compete with Christ's mediation any more than asking a friend to pray for you does.",
+      "hint": "The distinction is between the one basis for redemption and an ordinary request for prayer.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 5:16",
+          "quote": "Therefore, confess your sins to one another and pray for one another, that you may be healed. The fervent prayer of a righteous person is very powerful."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2683",
+          "quote": "The witnesses who have preceded us into the kingdom... share in the living tradition of prayer by the example of their lives, the transmission of their writings, and their prayer today."
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-003",
+      "topic": "saints",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: 2 Kings 13:21, where a dead man is restored to life upon touching Elisha's bones, and Acts 19:11-12, where cloths that touched Paul carried healing power, are scriptural precedents the Church cites in response to the claim that venerating relics is idolatry.",
+      "correctAnswer": true,
+      "explanation": "Both passages show Scripture itself treating physical contact with a holy person's remains or belongings as a channel of God's power, well before any developed Catholic theology of relics -- precedent the Church points to against the charge that relic veneration has no biblical basis, while still maintaining the power belongs to God, not the object itself.",
+      "hint": "Both of these are Old and New Testament examples of physical contact with something belonging to a holy person having an effect.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Kings 13:21",
+          "quote": "But when the man came in contact with the bones of Elisha, he came back to life and got to his feet."
+        },
+        {
+          "type": "scripture",
+          "reference": "Acts 19:11-12",
+          "quote": "So extraordinary were the mighty deeds God accomplished at the hands of Paul that when face cloths or aprons that touched his skin were applied to the sick, their diseases left them and the evil spirits were cast out."
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-004",
+      "topic": "saints",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "An early Church account describes a woman who refused to marry in order to consecrate her life entirely to Christ, and who died of natural causes in old age after decades of this consecrated life, never having been put to death for the faith. Using the traditional classifications, how would this figure be classified?",
+      "choices": [
+        "A virgin (a title for lifelong consecrated chastity, distinct from martyrdom)",
+        "A martyr (death is not required if the intention to die for the faith existed)",
+        "A confessor only if she also held ordained office",
+        "None of these classifications apply without a Church-recorded miracle"
+      ],
+      "correctAnswer": "A virgin (a title for lifelong consecrated chastity, distinct from martyrdom)",
+      "explanation": "'Virgin' in this traditional classification names a state of life -- lifelong consecrated chastity for the sake of the Kingdom -- not a synonym for martyrdom. Since this figure died of natural causes rather than for the faith, 'martyr' does not apply; the evidence (refused marriage, consecrated life, natural death) points specifically to 'virgin.'",
+      "hint": "The key facts here are what she refused and how she died, not any dramatic final act.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 922",
+          "quote": "Christian virgins and widows, called by the Lord to cling only to him with greater freedom of heart, body, and spirit, have decided with the Church's approval to live in the respective states of virginity or perpetual chastity 'for the sake of the Kingdom of heaven.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-005",
+      "topic": "saints",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "A family reports that a loved one's illness improved shortly after visiting a saint's shrine, though the illness was of a type known to sometimes improve on its own without explanation. Why would this not, by itself, meet the Church's standard for a canonization miracle?",
+      "choices": [
+        "The Church's process requires medical experts to rule out a natural explanation before attributing a cure to intercession",
+        "The Church accepts any reported improvement following a visit to a shrine as sufficient evidence",
+        "Canonization miracles no longer require any medical review since Vatican II",
+        "A miracle claim is automatically approved once a bishop personally believes it"
+      ],
+      "correctAnswer": "The Church's process requires medical experts to rule out a natural explanation before attributing a cure to intercession",
+      "explanation": "The Congregation for the Causes of Saints refers claimed medical miracles to a panel of doctors (believers and non-believers alike) who must first agree the cure has no natural or medical explanation before theologians even consider whether it can be attributed to the candidate's intercession. A coincidental improvement in a condition known to sometimes resolve on its own would not clear that first medical hurdle.",
+      "hint": "Before theologians even get involved, doctors have to agree there's no ordinary medical explanation at all.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
+          "quote": "Most recent experience... has shown us the appropriateness of revising further the manner of instructing causes... so structuring the Congregation for the Causes of Saints that we might meet the needs of experts and the desires of Our Brother Bishops, who have often called for a simpler process while maintaining the soundness of the investigation."
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-006",
+      "topic": "saints",
+      "level": 21,
+      "type": "matching_pairs",
+      "difficultyElo": 2390,
+      "prompt": "Match each objection or scenario to the response this level builds.",
+      "pairs": [
+        {
+          "left": "'Asking saints to pray violates 1 Timothy 2:5'",
+          "right": "Christ's unique mediation is distinct from an ordinary request for a fellow believer's prayer"
+        },
+        {
+          "left": "'Venerating relics is idolatry'",
+          "right": "2 Kings 13:21 and Acts 19:11-12 as scriptural precedent for God's power acting through physical contact"
+        },
+        {
+          "left": "A holy but imperfect life, with real recorded flaws",
+          "right": "Heroic virtue means an exceptional, habitual pattern, not sinless perfection"
+        },
+        {
+          "left": "An unusual medical improvement of an uncertain kind",
+          "right": "Must first be ruled out as having no natural explanation before it can count as a canonization miracle"
+        }
+      ],
+      "explanation": "Each of these responses depends on a real distinction, not a dismissal -- the objector's concern is taken seriously and then shown where it misses the Church's actual claim.",
+      "hint": "None of the four correct answers simply says 'the objection is wrong' -- each draws a specific line the objection missed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2683",
+          "quote": "The witnesses who have preceded us into the kingdom... share in the living tradition of prayer by the example of their lives, the transmission of their writings, and their prayer today."
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-007",
+      "topic": "saints",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "An objector says: 'Asking a saint to pray for you violates 1 Timothy 2:5, since Christ alone is mediator between God and man.'  What is the accurate response?",
+      "choices": [
+        "Asking a saint's intercession is the same kind of request as asking a living friend to pray for you",
+        "The verse has, in fact, been formally reinterpreted by the Church to permit multiple mediators",
+        "1 Timothy 2:5 does not, in reality, actually appear anywhere in Catholic Bibles",
+        "The objection is entirely correct and the practice should therefore be discontinued"
+      ],
+      "correctAnswer": "Asking a saint's intercession is the same kind of request as asking a living friend to pray for you",
+      "explanation": "The whole force of the objection rests on treating 'ask someone to pray for me' as identical to 'appoint a rival mediator to Christ.' It is not — every request for another Christian's prayer, living or dead, presupposes Christ's mediation rather than competing with it.",
+      "hint": "Ask whether requesting a living friend's prayers is also considered a violation of this verse.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2683"
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-008",
+      "topic": "saints",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: 2 Kings 13:21, where a dead man is restored to life upon touching Elisha's bones, provides Old Testament precedent for the Church's practice of venerating relics.",
+      "correctAnswer": true,
+      "explanation": "True. This account, along with the New Testament's description of healing occurring through cloths that touched Paul, is part of the scriptural basis for the Church's confidence that God can work through physical objects connected to holy people — not the objects' own inherent power, but God's action through them.",
+      "hint": "Ask what this narrative shows about God's power working through physical remains.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-009",
+      "topic": "saints",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "A family reports that a loved one's illness improved shortly after visiting a saint's shrine, though the illness was already responding to treatment. How should the Church's investigative process treat this?",
+      "choices": [
+        "With careful medical and theological scrutiny to rule out natural explanations first -- the process is deliberately skeptical",
+        "As automatically and immediately miraculous, simply because the improvement followed the visit itself",
+        "As entirely irrelevant to any canonization process of any kind whatsoever",
+        "As definitive, conclusive proof that the shrine itself holds independent supernatural power"
+      ],
+      "correctAnswer": "With careful medical and theological scrutiny to rule out natural explanations first -- the process is deliberately skeptical",
+      "explanation": "The Church's own miracle investigations (often involving independent medical panels) are built to rule out natural or coincidental explanations first — a claimed miracle that could equally be explained by ongoing treatment would not survive this scrutiny, which is the opposite of automatic credulity.",
+      "hint": "Ask whether the Church's actual investigative process assumes a miracle or tries to rule one out first.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2003"
+        }
+      ]
+    },
+    {
+      "id": "saints-l21-010",
+      "topic": "saints",
+      "level": 21,
+      "type": "matching_pairs",
+      "difficultyElo": 2390,
+      "prompt": "Match each objection or scenario to the response this level builds.",
+      "pairs": [
+        {
+          "left": "'Praying to saints violates 1 Timothy 2:5'",
+          "right": "Same kind of request as asking a living friend to pray"
+        },
+        {
+          "left": "'Relics have no biblical basis'",
+          "right": "2 Kings 13:21 and Acts 19 provide real Old and New Testament precedent"
+        },
+        {
+          "left": "A reported healing during ongoing treatment",
+          "right": "Rigorous scrutiny to rule out natural causes first"
+        },
+        {
+          "left": "An early candidate with faithful service but no miracle",
+          "right": "Canonization requires more than virtue alone — a verified miracle, except in equipollent cases"
+        }
+      ],
+      "explanation": "Every row corrects an assumption in the same direction: that the Church's practices around saints are either biblically baseless or uncritically credulous, when the actual process is both scripturally grounded and deliberately rigorous.",
+      "hint": "Every row here answers a version of 'isn't this either unbiblical or superstitious.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Timothy 2:5"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2003"
+        }
+      ]
+    },
+    {
+      "id": "saints-l22-001",
+      "topic": "saints",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "Catherine of Siena's role in ending the Avignon Papacy connects directly to which Church History period?",
+      "choices": [
+        "The late medieval crisis of the Avignon Papacy and the Western Schism",
+        "The Arian controversy of the 4th century specifically",
+        "The medieval Investiture Controversy between popes and emperors",
+        "The 16th-century Counter-Reformation more broadly"
+      ],
+      "correctAnswer": "The late medieval crisis of the Avignon Papacy and the Western Schism",
+      "explanation": "Catherine's letters to Gregory XI directly pressed for the papacy's return to Rome from Avignon, and she remained an active voice through the early stages of the resulting Western Schism -- her sanctity and her historical role are inseparable from this specific crisis.",
+      "hint": "Look back to level 8's question about Catherine's documented action -- what crisis was she actually intervening in?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2679",
+          "quote": "Mary is the perfect Orans (pray-er), a figure of the Church."
+        }
+      ],
+      "tags": [
+        "prerequisite:church-history-l4"
+      ]
+    },
+    {
+      "id": "saints-l22-002",
+      "topic": "saints",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "The doctrine of the Communion of Saints (CCC 946-962) provides the doctrinal basis for which two practices covered elsewhere in this topic?",
+      "choices": [
+        "Intercession by and veneration of the saints",
+        "The requirement of a canonization miracle",
+        "The classification of relics into three classes",
+        "The formal process for beatification"
+      ],
+      "correctAnswer": "Intercession by and veneration of the saints",
+      "explanation": "The Communion of Saints names the spiritual union of all the faithful -- living, in purgatory, and in heaven -- in the one Body of Christ. This union is precisely why asking a saint in heaven to intercede, and venerating their memory, makes theological sense: it isn't reaching outside the Church, but drawing on a bond that already exists within it.",
+      "hint": "This doctrine describes a real spiritual bond among believers living and dead -- ask what two things people do BECAUSE of that bond.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 946",
+          "quote": "What is the Church if not the assembly of all the saints? The communion of saints is the Church."
+        }
+      ],
+      "tags": [
+        "prerequisite:dogmas-and-doctrine-l7"
+      ]
+    },
+    {
+      "id": "saints-l22-003",
+      "topic": "saints",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: Maximilian Kolbe and Edith Stein, both killed at Auschwitz, are typically presented as martyrs of 20th-century totalitarianism, connecting directly to the same historical period Church History covers under Nazi persecution of the Church.",
+      "correctAnswer": true,
+      "explanation": "Both died at Auschwitz under the Nazi regime -- Kolbe in 1941, Stein in 1942 -- and both are held up as witnesses of faith specifically against totalitarian persecution, the same period and context covered in Church History's level on the Church under Nazi, communist, and other 20th-century persecutions.",
+      "hint": "Look back to Church History's own level on the Church facing Nazi and communist persecution -- both died in the same camp, under the same regime.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ],
+      "tags": [
+        "prerequisite:church-history-l8"
+      ]
+    },
+    {
+      "id": "saints-l22-004",
+      "topic": "saints",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "Scholars, including the critical edition by Thomas Heffernan, have debated the authorship and editorial history of the Passion of Perpetua and Felicity -- specifically how much of the text is Perpetua's own prison diary versus a later editor's framing. What does this scholarly dispute NOT touch?",
+      "choices": [
+        "The Church's own liturgical veneration of Perpetua and Felicity, resting on cultus, not on resolving every authorship question",
+        "Whether Perpetua and Felicity are venerated by the wider Church as martyrs at all in the first place",
+        "Whether the surviving text of their account has any editorial layers in it at all",
+        "Whether the text ought properly to be read only in a critical scholarly edition today"
+      ],
+      "correctAnswer": "The Church's own liturgical veneration of Perpetua and Felicity, resting on cultus, not on resolving every authorship question",
+      "explanation": "Textual and authorship questions -- exactly how much of the surviving account is Perpetua's own voice versus an editor's -- are real, ongoing historical-critical questions, documented in critical editions like Heffernan's. They are historical-judgment questions, not doctrinal ones: the Church's veneration of these two martyrs rests on the ancient, continuous cultus, not on settling every textual-critical detail.",
+      "hint": "This dispute is about how a text was assembled, not about whether the martyrdom itself is venerated.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 61",
+          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honored as saints in all the Church's liturgical traditions."
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "saints-l22-005",
+      "topic": "saints",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: The Church treats married, lay sanctity and cloistered, religious sanctity as two competing paths, where one must be considered spiritually superior to the other.",
+      "correctAnswer": false,
+      "explanation": "The Church presents lay and religious vocations as parallel, non-competing paths to holiness, each suited to a different state in life -- the universal call to holiness applies to every state of life, not only consecrated ones, and canonized married saints stand as real evidence the Church treats this as a genuine, not merely theoretical, parallel.",
+      "hint": "This isn't a ranking -- it's two different real vocations, each capable of reaching the same goal.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium, ch. 5",
+          "quote": "All the faithful of Christ of whatever rank or status are called to the fullness of the Christian life and to the perfection of charity."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "saints-l22-006",
+      "topic": "saints",
+      "level": 22,
+      "type": "matching_pairs",
+      "difficultyElo": 2465,
+      "prompt": "Match each item to the topic/level it cross-references, or the status this level gives it.",
+      "pairs": [
+        {
+          "left": "Catherine of Siena and the Avignon Papacy",
+          "right": "Church History's coverage of that same crisis"
+        },
+        {
+          "left": "The Communion of Saints (CCC 946-962)",
+          "right": "Dogmas and Doctrine's Mary and the Communion of Saints unit"
+        },
+        {
+          "left": "Kolbe and Stein at Auschwitz",
+          "right": "Church History's level on 20th-century totalitarian persecution"
+        },
+        {
+          "left": "The Passion of Perpetua and Felicity's authorship",
+          "right": "A historical-judgment question, not a doctrinal one"
+        }
+      ],
+      "explanation": "This level's whole method is connection with an explicit source -- every cross-topic claim here names exactly which other level it presumes, rather than asserting a connection the reader has to take on faith.",
+      "hint": "Three of these four point to a specific other topic and level; one points to a status tag instead.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 946",
+          "quote": "What is the Church if not the assembly of all the saints? The communion of saints is the Church."
+        }
+      ]
+    },
+    {
+      "id": "saints-l22-007",
+      "topic": "saints",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "Catherine of Siena's role in ending the Avignon Papacy, covered in this topic, connects directly to which fact covered in Church History?",
+      "choices": [
+        "The Avignon Papacy, 1309 to 1377, covered in Church History's own treatment of the medieval Church's life",
+        "The Second Vatican Council's own later teaching on religious liberty specifically",
+        "The Council of Trent's own later decree establishing seminaries for clergy",
+        "The 1054 Great Schism between Rome and Constantinople, centuries earlier"
+      ],
+      "correctAnswer": "The Avignon Papacy, 1309 to 1377, covered in Church History's own treatment of the medieval Church's life",
+      "explanation": "This level's whole purpose is making these cross-topic links explicit: a saint's biography and a historical period are not separate subjects, and Catherine's letters only make sense against the actual institutional crisis Church History documents independently.",
+      "hint": "Ask which historical period, not doctrinal event, this saint's action is directly tied to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        }
+      ]
+    },
+    {
+      "id": "saints-l22-008",
+      "topic": "saints",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "The doctrine of the Communion of Saints (CCC 946-962) provides the doctrinal basis for which two practices covered across this topic?",
+      "choices": [
+        "Asking for the intercession of the saints, and venerating their relics",
+        "The canonization process's requirement of a miracle, and nothing else",
+        "The distinction between beatification and canonization only",
+        "The liturgical calendar's dating system exclusively"
+      ],
+      "correctAnswer": "Asking for the intercession of the saints, and venerating their relics",
+      "explanation": "The Communion of Saints names the real, living bond between the faithful on earth, the souls being purified, and the saints in glory — which is the doctrinal foundation underneath both intercessory prayer to saints and the honor given their physical remains, rather than either practice standing alone without a doctrinal basis.",
+      "hint": "Ask which two practices actually depend on there being a real, ongoing bond between the living and the dead in Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 946"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
+      "id": "saints-l22-009",
+      "topic": "saints",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: Maximilian Kolbe and Edith Stein (Teresa Benedicta of the Cross), both killed at Auschwitz, are typically presented together as a shared witness against the same twentieth-century atrocity.",
+      "correctAnswer": true,
+      "explanation": "True. Though their lives and religious paths differed substantially — Kolbe a Franciscan friar, Stein a Jewish convert and Carmelite nun — both are frequently commemorated together as saints whose deaths bear witness against the Holocaust specifically.",
+      "hint": "Ask what specific historical atrocity both of their deaths are most often connected to in how they are remembered.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l22-010",
+      "topic": "saints",
+      "level": 22,
+      "type": "matching_pairs",
+      "difficultyElo": 2465,
+      "prompt": "Match each item to the topic or level this item cross-references, or the status it is given.",
+      "pairs": [
+        {
+          "left": "Catherine of Siena and the Avignon Papacy",
+          "right": "Church History's coverage of the medieval institutional Church"
+        },
+        {
+          "left": "The Little Way and the dark night",
+          "right": "The Prayer topic's own treatment of the same concepts"
+        },
+        {
+          "left": "Communion of Saints",
+          "right": "Doctrinal basis for both intercession and relic veneration"
+        },
+        {
+          "left": "Married, lay sanctity versus cloistered sanctity",
+          "right": "Equally real paths to holiness, not a hierarchy of one over the other"
+        }
+      ],
+      "explanation": "This level is deliberately built to show that Saints is not an isolated topic of biographical trivia — it draws on and reinforces material from History, Prayer, and core doctrine at every level, which is the actual point of studying the saints rather than merely their stories.",
+      "hint": "Every row connects material in this topic to something taught elsewhere in the app.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2044"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 946"
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-001",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A hypothetical cause has: decades of documented, quietly heroic charity; a strong, long-standing local devotion; but no medically-attested miracle yet formally investigated. Based on the Church's actual standard, what is this cause missing to reach canonization (not beatification alone)?",
+      "choices": [
+        "A second miracle, medically investigated and attributed to intercession after beatification -- assuming a first miracle and beatification have already occurred",
+        "Nothing further at all is required -- documented charity and long-standing local devotion alone are already fully sufficient",
+        "Ordination to the priesthood, which this process formally requires for absolutely every canonization cause",
+        "A strict minimum of one hundred years since death, regardless of any other evidence presented"
+      ],
+      "correctAnswer": "A second miracle, medically investigated and attributed to intercession after beatification -- assuming a first miracle and beatification have already occurred",
+      "explanation": "Documented heroic virtue and a genuine cultus are necessary but not sufficient on their own -- the Church's process still requires the medically-investigated miracles at each stage (per Divinus Perfectionis Magister), which this hypothetical cause has not yet cleared. A long local devotion can support the case, but it does not substitute for the required miracle.",
+      "hint": "One miracle clears beatification; canonization itself requires a second, separate one investigated afterward.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
+          "quote": "Most recent experience... has shown us the appropriateness of revising further the manner of instructing causes... so structuring the Congregation for the Causes of Saints that we might meet the needs of experts and the desires of Our Brother Bishops, who have often called for a simpler process while maintaining the soundness of the investigation."
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-002",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Lumen Gentium's chapter 5 teaches a universal call to holiness. Applied to a saint known for extreme personal penance, what does the Church's actual guidance say about imitating that saint?",
+      "choices": [
+        "The underlying virtue -- self-denial, love of God -- is what's meant to be imitated, not necessarily the specific extreme practice itself",
+        "Every Catholic is obligated to adopt the exact same specific penitential practices that particular saint personally used",
+        "Canonization itself formally mandates that exact practice for anyone who holds devotion to that saint",
+        "Only priests and religious are truly called to holiness; the universal call applies only to consecrated life"
+      ],
+      "correctAnswer": "The underlying virtue -- self-denial, love of God -- is what's meant to be imitated, not necessarily the specific extreme practice itself",
+      "explanation": "Lumen Gentium's universal call to holiness applies to every state of life, and canonization recognizes a saint's heroic virtue, not a mandate to replicate their specific external practices. What is meant to be imitated is the underlying love of God and self-denial the practice expressed, applied in a way fitted to one's own vocation and circumstances.",
+      "hint": "Canonization recognizes the virtue behind a practice, not a prescription for everyone to copy the practice exactly.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium, ch. 5",
+          "quote": "All the faithful of Christ of whatever rank or status are called to the fullness of the Christian life and to the perfection of charity."
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-003",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "St. Maximilian Kolbe's one documented act -- volunteering to die in place of a stranger, a father, in the Auschwitz starvation bunker -- is often used to teach a broader daily practice. Which conclusion best follows from that one incident, without overstating what it shows?",
+      "choices": [
+        "A willingness to make smaller, everyday sacrifices for others is a fitting, scaled-down imitation of that same self-giving love",
+        "Everyone is strictly obligated to actively seek out martyrdom in order to imitate Kolbe properly",
+        "The incident, by itself, proves that Kolbe never once experienced fear or hesitation of any kind",
+        "The incident only applies as an example to men who are also ordained priests, since Kolbe himself was ordained"
+      ],
+      "correctAnswer": "A willingness to make smaller, everyday sacrifices for others is a fitting, scaled-down imitation of that same self-giving love",
+      "explanation": "Kolbe's single extraordinary act reveals a habitual disposition of self-giving love that can be imitated, in smaller and more ordinary ways, by anyone -- the goal is drawing the right-sized lesson from one documented incident, not manufacturing an obligation the incident doesn't actually support.",
+      "hint": "The right conclusion scales the lesson down to something any person could actually practice, rather than demanding the exact same extreme act.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-004",
+      "topic": "saints",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: St. Robert Bellarmine's role in the Galileo affair is a live, unresolved theological controversy still awaiting the Church's official position.",
+      "correctAnswer": false,
+      "explanation": "The Galileo affair is a closed historical episode with an extensive documented record; Pope John Paul II formally addressed it in 1992, acknowledging errors in how the case was handled by the theological advisors and judges of the time. Historians still debate the fine details of Bellarmine's own personal view and conduct, but this is historical assessment of a settled, closed episode, not an open theological question awaiting resolution.",
+      "hint": "A pope has already formally spoken on this historical episode -- that's what makes it closed rather than still pending.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason... methodical research in all branches of knowledge... can never conflict with the faith, because the things of the world and the things of faith derive from the same God."
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "saints-l23-005",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "St. Therese of Lisieux's 'Little Way' is often summarized in her own words: she wished to do 'small things with great love.' Which theological reasoning best supports this as a coherent rule of life, rather than a sentimental slogan?",
+      "choices": [
+        "Holiness lies in the love behind an act, not its size, so ordinary daily tasks can be real means of sanctification",
+        "Only dramatic, publicly visible acts of real heroism actually count toward genuine holiness in the end",
+        "Small acts merely substitute entirely for the theological virtue of charity itself, rather than ever truly expressing it",
+        "The outward size of an act determines its spiritual value far more than the love actually behind it"
+      ],
+      "correctAnswer": "Holiness lies in the love behind an act, not its size, so ordinary daily tasks can be real means of sanctification",
+      "explanation": "Therese's 'Little Way' rests on the theological principle that charity -- love of God and neighbor -- is what gives any act its spiritual weight, not the act's scale or visibility. This is exactly why her teaching was judged to have real doctrinal depth (level 6's 'eminens doctrina') despite consisting of ordinary daily practices rather than dramatic exploits.",
+      "hint": "Look back to level 6 -- this is the same teaching that earned her the title Doctor of the Church.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 826",
+          "quote": "Charity is the soul of the holiness to which all are called: it 'governs, shapes, and perfects all the means of sanctification.'"
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-006",
+      "topic": "saints",
+      "level": 23,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each capstone item to what this level actually asks of it.",
+      "pairs": [
+        {
+          "left": "A cause with virtue and devotion but no investigated miracle",
+          "right": "Still missing a required step -- devotion alone doesn't substitute for it"
+        },
+        {
+          "left": "A saint known for extreme personal penance",
+          "right": "Imitate the underlying virtue, not necessarily the specific extreme practice"
+        },
+        {
+          "left": "Kolbe's one documented act of self-sacrifice",
+          "right": "Scales down to an everyday, imitable practice of self-giving love"
+        },
+        {
+          "left": "St. Robert Bellarmine and the Galileo affair",
+          "right": "A closed historical episode with a settled Church position, not a live controversy"
+        }
+      ],
+      "explanation": "Across this whole topic, the same discipline keeps showing up: take what is actually documented and settled, distinguish it clearly from legend, extreme cases, or open questions, and only then decide what is actually worth imitating.",
+      "hint": "Each right answer draws a boundary -- between missing and complete, between practice and virtue, between one act and a general lesson, or between closed and open.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-007",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A hypothetical cause has decades of documented, quietly heroic charity but no verified miracle and no widespread existing veneration. Using this whole topic's material, what is the most accurate assessment?",
+      "choices": [
+        "A real and worthy life of virtue, but not yet sufficient for canonization under the ordinary process, which requires a verified miracle",
+        "The person should, on this particular view, be canonized immediately just on the strength of documented charity alone",
+        "The simple lack of a verified miracle proves, by itself, that the person was not actually holy at all",
+        "This particular case is, in fact, functionally identical to a genuine equipollent canonization"
+      ],
+      "correctAnswer": "A real and worthy life of virtue, but not yet sufficient for canonization under the ordinary process, which requires a verified miracle",
+      "explanation": "This draws directly on level 6's material: heroic virtue alone, however real, is not sufficient under the Church's ordinary process without a verified miracle — and this case, lacking longstanding widespread veneration too, does not qualify as equipollent either.",
+      "hint": "Heroic virtue alone, however real, still isn't enough under the ordinary process without a verified miracle.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-008",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Lumen Gentium chapter 5 teaches a universal call to holiness. Applied to a saint known for extraordinary physical austerity alongside one known chiefly for ordinary daily charity, what does this teaching imply?",
+      "choices": [
+        "Both callings are genuine paths to the same holiness, not one specific form of ascetic practice",
+        "Only the ascetic saint, in this reading, represents any form of authentic holiness under this teaching",
+        "Only the saint known for ordinary charity represents any real form of authentic holiness under this teaching",
+        "This teaching, properly read, applies only to the ordained, and to neither of these two lay examples"
+      ],
+      "correctAnswer": "Both callings are genuine paths to the same holiness, not one specific form of ascetic practice",
+      "explanation": "This is level 8's point (dramatically different intensities of asceticism among real canonized saints) read through Lumen Gentium's actual teaching: the call is universal in scope and singular in its object (holiness), not a call to one particular practice everyone must replicate identically.",
+      "hint": "Ask what exactly the universal call is TO — a specific practice, or a reality achievable through many different real paths.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 40"
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-009",
+      "topic": "saints",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "St. Maximilian Kolbe's one documented act of self-offering at Auschwitz is sometimes framed as 'proving' every detail of his broader biography beyond dispute. What is the more careful position?",
+      "choices": [
+        "The act is extremely well documented and not seriously disputed; this doesn't make every other claim about him equally certain",
+        "The act itself has, in fact, never been verified by any independent witness of any kind",
+        "Every single claim ever made about his whole biography must therefore be treated as equally certain, simply because of this one act",
+        "The act is, in reality, disputed precisely because so much else about his life remains genuinely uncertain"
+      ],
+      "correctAnswer": "The act is extremely well documented and not seriously disputed; this doesn't make every other claim about him equally certain",
+      "explanation": "This is a general historical-method point applied to hagiography specifically: strong evidence for one specific, well-attested act does not automatically extend certainty to every other claim in a person's broader legend — the two questions can and should be evaluated separately.",
+      "hint": "Ask whether certainty about one specific, well-documented act logically requires certainty about everything else ever claimed about the same person.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "saints-l23-010",
+      "topic": "saints",
+      "level": 23,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each capstone item to what this level actually asks of it.",
+      "pairs": [
+        {
+          "left": "A cause with virtue but no miracle",
+          "right": "Not yet sufficient; recall the ordinary process's actual requirements"
+        },
+        {
+          "left": "Ascetic and ordinary-charity saints together",
+          "right": "Both express one universal call to holiness, not competing standards"
+        },
+        {
+          "left": "Kolbe's documented act versus his wider legend",
+          "right": "Strong evidence for one claim does not certify every other claim"
+        },
+        {
+          "left": "Robert Bellarmine and the Galileo affair",
+          "right": "A live, unresolved historical-theological question, not a settled one"
+        }
+      ],
+      "explanation": "This closing level asks the reader to apply precision built across all ten levels rather than adding new facts: distinguishing sufficiency from worthiness, one calling from many paths, one well-evidenced claim from a whole legend, and a live scholarly question from a settled one.",
+      "hint": "None of these four rows introduces a brand-new fact -- each applies a distinction built earlier in this topic.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 40"
+        }
+      ]
+    }
+  ]
+}
