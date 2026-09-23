@@ -1,0 +1,683 @@
+{
+  "_comment": "DRAFT -- NOT live. Councils levels 13-15 of 19: level 13 carries old live level 5's Vatican I content forward (renumbered, re-seeded) with new material on Dei Filius, the council's unfinished agenda, and the irony that the same Italian unification enabling the long gap's end also cut this council short. Level 14 is new: the ~90-year gap between Vatican I and Vatican II, spanning two world wars, and John XXIII's surprise 1959 announcement plus the real preparatory years before the council opened. Level 15 carries old live level 5's Vatican II opening content forward with new material on Paul VI completing the council after John XXIII's 1963 death.",
+  "topic": "councils",
+  "questions": [
+    {
+      "id": "councils-l13-001",
+      "topic": "councils",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "The First Vatican Council, which opened in 1869, was suspended the following year and never formally closed because of:",
+      "choices": [
+        "The outbreak of the Franco-Prussian War and the fall of the Papal States",
+        "A schism among the many bishops present at the council itself",
+        "The unexpected death of the reigning Pope during the council",
+        "A deliberate decision by Pope Pius IX to end the council early"
+      ],
+      "correctAnswer": "The outbreak of the Franco-Prussian War and the fall of the Papal States",
+      "explanation": "Italian troops entered Rome in 1870 as the council was underway, ending the Papal States and forcing its indefinite suspension before it could complete its planned agenda -- the same crisis Church History's own treatment of Pius IX covers independently.",
+      "hint": "A European war, not a Church decision, is why this council never formally closed.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-002",
+      "topic": "councils",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "What specific doctrine, still cited elsewhere in this app, did the First Vatican Council formally define?",
+      "choices": [
+        "Papal infallibility under specific, solemn conditions",
+        "The dogma of the Immaculate Conception, defined years earlier",
+        "The full canon of Sacred Scripture, already settled centuries before",
+        "The exact total number of the Church's seven sacraments"
+      ],
+      "correctAnswer": "Papal infallibility under specific, solemn conditions",
+      "explanation": "Vatican I's Pastor Aeternus defines that the Pope, speaking ex cathedra under precise conditions, is preserved from error when solemnly defining a doctrine of faith or morals for the whole Church -- a narrow, carefully bounded definition, not a claim that everything a pope ever says is infallible.",
+      "hint": "This is the same doctrine already referenced when this topic covered the Honorius I episode several levels back.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-003",
+      "topic": "councils",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: Besides defining papal infallibility, Vatican I also taught that God can be known with certainty by the natural light of human reason.",
+      "correctAnswer": true,
+      "explanation": "True, and the second is easily forgotten. Dei Filius answered fideism as well as rationalism: reason alone cannot reach the mysteries of faith, but neither is it powerless before the question of God. The council that is remembered for limiting private judgment also defended reason's competence.",
+      "hint": "The council answered two opposite errors, not one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-004",
+      "topic": "councils",
+      "level": 13,
+      "type": "fill_blank",
+      "difficultyElo": 2010,
+      "prompt": "Vatican I's decree on faith and reason, answering both fideism and rationalism, is called Dei ____.",
+      "correctAnswer": "Filius",
+      "acceptedAnswers": [
+        "Filius"
+      ],
+      "explanation": "This decree, less famous than Pastor Aeternus but issued by the same council, defends both the real competence of reason and its real limits before the mysteries of faith -- a genuine balance, not a one-sided answer to either error.",
+      "hint": "This decree's Latin title means 'Son of God.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-005",
+      "topic": "councils",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: Because Vatican I was suspended rather than formally closed, some of the topics it had planned to address were never actually taken up by that council.",
+      "correctAnswer": true,
+      "explanation": "True. The council's own bishops had a wider agenda planned before the war forced its suspension -- an unfinished business this topic's next level will show was part of what, nearly a century later, John XXIII had in mind when he finally called another council.",
+      "hint": "Consider what a council's own suspension, rather than a planned close, would leave unfinished.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-006",
+      "topic": "councils",
+      "level": 13,
+      "type": "matching_pairs",
+      "difficultyElo": 1990,
+      "prompt": "Match each fact about Vatican I to what it involves.",
+      "pairs": [
+        {
+          "left": "Pastor Aeternus",
+          "right": "Defines papal infallibility under specific, solemn conditions"
+        },
+        {
+          "left": "Dei Filius",
+          "right": "Defends reason's real competence against both fideism and rationalism"
+        },
+        {
+          "left": "The Franco-Prussian War",
+          "right": "Forced the council's indefinite suspension in 1870"
+        },
+        {
+          "left": "An unfinished agenda",
+          "right": "Topics the council never reached before it was suspended"
+        }
+      ],
+      "explanation": "Vatican I's own real, unfinished business is part of why this topic's story does not simply skip forward to Vatican II -- the gap between the two councils, and what carries over, matters in its own right.",
+      "hint": "Two rows name Vatican I's own real teaching; two name what cut the council short and what it left undone.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)",
+          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-007",
+      "topic": "councils",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: Vatican I is remembered only for defining papal infallibility, with no other real doctrinal content of its own.",
+      "correctAnswer": false,
+      "explanation": "False. Dei Filius's real teaching on faith and reason is just as much a part of this council's own work as Pastor Aeternus -- a real, often-overlooked balance this level has already shown answers two opposite errors at once.",
+      "hint": "Recall the second decree this level has already covered, alongside Pastor Aeternus.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-008",
+      "topic": "councils",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "What real irony connects Vatican I's own suspension to the political situation this topic's level 12 already described?",
+      "choices": [
+        "The same Italian unification and loss of the Papal States that ended the long gap's political fragmentation also cut this specific council short",
+        "There is, in fact, no real connection between Vatican I's suspension and anything covered in the previous levels of this topic",
+        "Vatican I was suspended for exactly the same specific reason Trent itself was interrupted three centuries earlier",
+        "Vatican I's own suspension had nothing whatsoever to do with Europe's own wider political situation at the time"
+      ],
+      "correctAnswer": "The same Italian unification and loss of the Papal States that ended the long gap's political fragmentation also cut this specific council short",
+      "explanation": "The very political conditions the previous level described as finally allowing a new council to be called are also, in a real and direct way, what cut that same council short -- a genuinely ironic turn this topic's own chronology makes visible.",
+      "hint": "Consider what specific political event, already covered by Church History, both surrounds and interrupts this council.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-009",
+      "topic": "councils",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1900,
+      "prompt": "True or False: Nearly a century passed between Vatican I's suspension in 1870 and the next ecumenical council this topic will cover.",
+      "correctAnswer": true,
+      "explanation": "True, and this second gap -- shorter than the one before Vatican I, but still real -- is exactly what the next level in this topic examines directly.",
+      "hint": "Consider how many years actually separate 1870 from the next council this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Vatican Council (1870)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l13-010",
+      "topic": "councils",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1950,
+      "prompt": "Given Vatican I's own unfinished business and abrupt suspension, what does the next level in this topic turn to?",
+      "choices": [
+        "The roughly ninety-year gap before another council, and John XXIII's own surprise announcement that finally ended it",
+        "A complete and exhaustive repeat of this same level's own material about Vatican I",
+        "A jump directly to Vatican II's own documents, skipping over how it actually came to be called",
+        "A subject entirely unrelated to any single council this topic has covered up to this point"
+      ],
+      "correctAnswer": "The roughly ninety-year gap before another council, and John XXIII's own surprise announcement that finally ended it",
+      "explanation": "The next level examines this second real gap in this topic's chronology, and the specific moment that finally closed it.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-001",
+      "topic": "councils",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 2042,
+      "prompt": "Roughly how many years passed between Vatican I's suspension in 1870 and the calling of the next ecumenical council?",
+      "choices": [
+        "About ninety years",
+        "About ten years",
+        "About three hundred years",
+        "No further council has ever been called since Vatican I"
+      ],
+      "correctAnswer": "About ninety years",
+      "explanation": "This second gap is real, though shorter than the roughly three centuries between Trent and Vatican I -- and it spans two world wars and the totalitarian violence this app's own Church History and Saints topics have already covered from their own angles.",
+      "hint": "This gap spans two world wars, already covered elsewhere in this app.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-002",
+      "topic": "councils",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1992,
+      "prompt": "True or False: The two World Wars and the rise of totalitarian regimes across Europe are part of the real historical backdrop to this second gap between councils.",
+      "correctAnswer": true,
+      "explanation": "True. This is the same century Church History's own coverage of Pius XI and Pius XII, and Saints' own coverage of Kolbe and Faustina, already treats in real detail -- the same conditions that made global war a reality also made convening a global council genuinely difficult.",
+      "hint": "Recall the same century's totalitarian violence already covered elsewhere in this app.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2242"
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-003",
+      "topic": "councils",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 2042,
+      "prompt": "Who surprised the College of Cardinals in January 1959 by announcing his intention to call a new ecumenical council?",
+      "choices": [
+        "Pope St. John XXIII",
+        "Pope Pius XII",
+        "Pope St. John Paul II",
+        "Pope Paul VI"
+      ],
+      "correctAnswer": "Pope St. John XXIII",
+      "explanation": "John XXIII, elected pope only months earlier and initially expected by many to be a transitional figure, announced the council to the assembled cardinals barely three months into his own pontificate -- a real, documented surprise, not a long-planned initiative.",
+      "hint": "This same pope's own 2014 canonization was already covered in the Saints topic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-004",
+      "topic": "councils",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1992,
+      "prompt": "True or False: John XXIII was widely expected, at the time of his election, to be a brief, transitional pope with no major new initiatives.",
+      "correctAnswer": true,
+      "explanation": "True, and this makes his announcement of a new council even more striking -- a pope many expected to be a quiet caretaker instead launched the single largest ecumenical gathering in the Church's whole history.",
+      "hint": "Consider how his election was widely read at the time, given his age and background.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-005",
+      "topic": "councils",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 2042,
+      "prompt": "What real preparatory work had to happen between John XXIII's 1959 announcement and the council's actual 1962 opening?",
+      "choices": [
+        "Years of consultation with bishops worldwide, along with theological commissions drafting preparatory documents",
+        "No real preparation was needed at all; the council opened immediately right after the announcement",
+        "A single brief afternoon meeting settled every question the whole council would address",
+        "The preparation consisted entirely of formally restoring the long-lost Papal States"
+      ],
+      "correctAnswer": "Years of consultation with bishops worldwide, along with theological commissions drafting preparatory documents",
+      "explanation": "Convening a council of this real scale -- eventually the largest in Church history -- required years of genuine groundwork, not a single announcement followed immediately by an opening session.",
+      "hint": "Consider the real gap between the 1959 announcement and the 1962 opening session.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-006",
+      "topic": "councils",
+      "level": 14,
+      "type": "matching_pairs",
+      "difficultyElo": 2082,
+      "prompt": "Match each fact about this gap and John XXIII's own call to what it involves.",
+      "pairs": [
+        {
+          "left": "The ~90-year gap",
+          "right": "Spans two world wars and totalitarian violence, already covered elsewhere in this app"
+        },
+        {
+          "left": "January 1959",
+          "right": "John XXIII's surprise announcement to the assembled cardinals"
+        },
+        {
+          "left": "John XXIII's own election",
+          "right": "Widely expected to be a brief, transitional papacy"
+        },
+        {
+          "left": "1959-1962",
+          "right": "Years of real preparatory consultation before the council's actual opening"
+        }
+      ],
+      "explanation": "This whole level's real point is that Vatican II did not appear out of nowhere -- a real gap, a real surprise, and real years of preparation all precede the opening session the next level covers.",
+      "hint": "Follow the real timeline in order: the gap itself, the announcement, who made it, and what followed before the opening.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-007",
+      "topic": "councils",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1992,
+      "prompt": "True or False: John XXIII's own decision to call a council can be understood, in part, as finally taking up some of the unfinished business Vatican I's own suspension left behind.",
+      "correctAnswer": true,
+      "explanation": "True, and this is a real thread connecting the previous level to this one -- nearly a century later, the Church again had both the practical stability and a real sense that more needed to be addressed than Vatican I alone had managed.",
+      "hint": "Recall the previous level's own point about Vatican I's unfinished agenda.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-008",
+      "topic": "councils",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 2042,
+      "prompt": "What does this level's picture of the gap between Vatican I and Vatican II add to this topic's overall picture of ecumenical councils?",
+      "choices": [
+        "That real preparation takes years, even after a council is called -- not a single decision followed by an immediate meeting",
+        "That every council in Church history has followed an identical timeline from announcement to opening",
+        "That John XXIII personally wrote every document Vatican II would go on to produce",
+        "That no real preparation is ever needed before an ecumenical council can open"
+      ],
+      "correctAnswer": "That real preparation takes years, even after a council is called -- not a single decision followed by an immediate meeting",
+      "explanation": "This level's own timeline -- a surprise announcement followed by years of real consultation -- is itself part of what this topic has been showing since level 1: councils are real historical events with real practical requirements, not abstractions.",
+      "hint": "Consider what this level's own three-year preparatory period suggests about how councils actually come together.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-009",
+      "topic": "councils",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1992,
+      "prompt": "True or False: This level marks this topic's second real conciliar gap, mirroring the roughly three-century gap between Trent and Vatican I this topic already covered.",
+      "correctAnswer": true,
+      "explanation": "True, and this repeated pattern is itself instructive -- councils across this topic's whole chronological arc genuinely cluster around real crises and real opportunities, rather than falling on any fixed, regular schedule.",
+      "hint": "Recall the earlier gap this topic already covered, several levels back.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l14-010",
+      "topic": "councils",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 2042,
+      "prompt": "Given the real preparatory work this level has described, what does the next level in this topic turn to?",
+      "choices": [
+        "The Second Vatican Council's actual opening session in 1962, and its real scale as the largest council in Church history",
+        "A complete repeat of this same level's material about the gap and John XXIII's own announcement",
+        "A jump directly to Vatican II's own documents, skipping its opening session entirely",
+        "A subject entirely unrelated to any council this topic has covered so far"
+      ],
+      "correctAnswer": "The Second Vatican Council's actual opening session in 1962, and its real scale as the largest council in Church history",
+      "explanation": "The next level finally arrives at the council itself, meeting the real scale and real purpose of the gathering this level has spent its whole time preparing a learner to understand.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-001",
+      "topic": "councils",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: The Second Vatican Council (1962-1965) was the largest ecumenical council in the Church's history, measured by the number of bishops who attended.",
+      "correctAnswer": true,
+      "explanation": "Over two thousand bishops from around the world took part, drawn from a global Church far larger and more geographically spread than at any earlier council -- the real preparatory years the previous level described made this scale possible.",
+      "hint": "Over two thousand bishops came from every corner of the world for this one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-002",
+      "topic": "councils",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Pope St. John XXIII, who convened the Second Vatican Council, described its purpose using the Italian word 'aggiornamento,' meaning:",
+      "choices": [
+        "An updating or bringing up to date",
+        "A return to strict tradition",
+        "A merger with other Christian bodies",
+        "A doctrinal revolution"
+      ],
+      "correctAnswer": "An updating or bringing up to date",
+      "explanation": "John XXIII's vision of 'aggiornamento' was famously likened to opening a window to let in fresh air -- renewing the Church's engagement with the modern world without changing her doctrine.",
+      "hint": "An Italian word for opening a window and letting in fresh air.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-003",
+      "topic": "councils",
+      "level": 15,
+      "type": "fill_blank",
+      "difficultyElo": 2193,
+      "prompt": "The Second Vatican Council was held in four separate sessions between 1962 and ____.",
+      "correctAnswer": "1965",
+      "acceptedAnswers": [
+        "1965"
+      ],
+      "explanation": "Unlike Vatican I, which was cut short by the war this topic's own previous levels already covered, Vatican II completed its full planned work across four autumn sessions over three years.",
+      "hint": "Four sessions, spread across roughly three years.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-004",
+      "topic": "councils",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Did Pope John XXIII himself preside over the entire Second Vatican Council from opening to close?",
+      "choices": [
+        "No -- John XXIII died in 1963 during the council, and Pope Paul VI presided over its remaining sessions",
+        "Yes -- John XXIII personally presided over all four full sessions himself, from 1962 to 1965",
+        "No -- the whole council, in fact, had no single presiding pope at any point at all",
+        "Yes -- John XXIII went on to live for many more decades after the council's own eventual close"
+      ],
+      "correctAnswer": "No -- John XXIII died in 1963 during the council, and Pope Paul VI presided over its remaining sessions",
+      "explanation": "John XXIII opened the council in 1962 but died the following year, before it could complete its work -- Paul VI, elected shortly after, carried the council through its remaining three sessions to its formal close in 1965.",
+      "hint": "Consider whether the pope who opened the council is the same one who is remembered for closing it in 1965.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-005",
+      "topic": "councils",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: The Catholic Church counts the Second Vatican Council as its twenty-first ecumenical council, and its most recent to date.",
+      "correctAnswer": true,
+      "explanation": "From Nicaea in 325 to Vatican II in 1965, the Church traditionally reckons twenty-one ecumenical councils -- Vatican II remains the most recent, closing out this topic's own real chronological list.",
+      "hint": "Nicaea in 325 was the first; Vatican II, so far, is the most recent.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-006",
+      "topic": "councils",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Vatican II differs from most earlier ecumenical councils in one structural respect. Which?",
+      "choices": [
+        "It defined no new dogma and issued no anathemas, being pastoral in purpose",
+        "It was attended only by bishops belonging specifically to the Latin rite",
+        "Its documents were, in the end, never formally promulgated by any pope",
+        "It formally reversed the definitions of several earlier councils outright"
+      ],
+      "correctAnswer": "It defined no new dogma and issued no anathemas, being pastoral in purpose",
+      "explanation": "Earlier councils typically met to settle a specific error and attached anathemas to their canons. Vatican II was convened to present the faith to the modern world rather than to condemn a particular heresy -- which is why reading it for new definitions, whether hopefully or anxiously, misreads what kind of council it was.",
+      "hint": "Consider what earlier councils attached to their canons, and whether this one did.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-007",
+      "topic": "councils",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: Vatican II's pastoral purpose means its teaching carries no real weight or authority in the life of the Church.",
+      "correctAnswer": false,
+      "explanation": "False. A pastoral council's documents are still real, authoritative teaching of an ecumenical council -- 'pastoral' describes its purpose and manner, presenting the faith rather than condemning an error, not a lesser degree of authority.",
+      "hint": "Consider whether 'pastoral in purpose' is the same thing as 'without real authority.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-008",
+      "topic": "councils",
+      "level": 15,
+      "type": "matching_pairs",
+      "difficultyElo": 2173,
+      "prompt": "Match each fact about Vatican II's own opening to what it involves.",
+      "pairs": [
+        {
+          "left": "Over two thousand bishops",
+          "right": "The largest ecumenical council in Church history"
+        },
+        {
+          "left": "Aggiornamento",
+          "right": "John XXIII's own word for the council's real purpose"
+        },
+        {
+          "left": "John XXIII's death in 1963",
+          "right": "Paul VI carried the council through its remaining sessions"
+        },
+        {
+          "left": "No anathemas issued",
+          "right": "A pastoral council, not one condemning a specific heresy"
+        }
+      ],
+      "explanation": "Together these four facts describe a council genuinely different in scale, purpose, and even leadership continuity from every earlier council this topic has covered.",
+      "hint": "Each row names a real, specific fact about how this particular council actually unfolded.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-009",
+      "topic": "councils",
+      "level": 15,
+      "type": "true_false",
+      "difficultyElo": 2083,
+      "prompt": "True or False: Vatican II's real scale and pastoral purpose make it, in a real sense, a genuinely different kind of council from anything else this topic has covered so far.",
+      "correctAnswer": true,
+      "explanation": "True. No earlier council in this topic's whole chronological arc gathered this many bishops or set out with this specific a purpose -- engaging the modern world rather than condemning a particular error.",
+      "hint": "Compare this council's own scale and purpose to every earlier council this topic has covered.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+        }
+      ]
+    },
+    {
+      "id": "councils-l15-010",
+      "topic": "councils",
+      "level": 15,
+      "type": "multiple_choice",
+      "difficultyElo": 2133,
+      "prompt": "Having now met Vatican II's own real opening and purpose, what does the next level in this topic turn to?",
+      "choices": [
+        "Vatican II's own major documents in real depth, beyond the general facts this level has already covered",
+        "A complete and exhaustive repeat of this same level's own material about Vatican II's opening",
+        "A jump backward to Vatican I, which this topic has already fully covered several levels earlier",
+        "A subject entirely unrelated to any single council this topic has covered up to this point"
+      ],
+      "correctAnswer": "Vatican II's own major documents in real depth, beyond the general facts this level has already covered",
+      "explanation": "Having established the council's scale, purpose, and real timeline, the next level moves inside the council's own actual work -- its four constitutions and the specific teaching each one carries.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council (1962-1965)"
+        }
+      ]
+    }
+  ]
+}
