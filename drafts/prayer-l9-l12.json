@@ -1,0 +1,957 @@
+{
+  "_comment": "Prayer levels 9-12: praying with beads (new bridging), Liturgy of the Hours (remapped old L4), praying a single hour (new bridging), first introduction to contemplative prayer (remapped old L5)",
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l9-001",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "The previous level covered the Rosary and popular devotions. Someone new to the Rosary asks how to actually begin, without feeling overwhelmed by all twenty real Mysteries at once. What is the real, practical, first step?",
+      "choices": [
+        "Simply pray one decade -- Our Father, ten Hail Marys, Glory Be -- meditating on a single Mystery, not all twenty at once",
+        "Attempt all twenty real Mysteries, all five decades of each set, in one single, real sitting, from the very first day",
+        "Actually memorize every real Mystery's own theological background before ever picking up a real Rosary",
+        "The Rosary actually cannot be begun gradually, and must always actually be prayed in its full, real entirety"
+      ],
+      "correctAnswer": "Simply pray one decade -- Our Father, ten Hail Marys, Glory Be -- meditating on a single Mystery, not all twenty at once",
+      "explanation": "This is a real, practical, encouraging first step -- praying just one real decade, on a single Mystery, actually builds the habit gradually, matching this topic's own earlier real teaching that a short, consistent practice beats an overwhelming one.",
+      "hint": "Recall this topic's own earlier real teaching on what actually makes a new, daily habit sustainable.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-002",
+      "topic": "prayer",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: A person new to the Rosary can actually begin with just one real decade, rather than attempting all twenty Mysteries at once.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical encouragement matters -- one real decade is a genuinely achievable, sustainable first step for anyone actually beginning.",
+      "hint": "Recall this level's own real, practical suggestion for a beginner starting the Rosary.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-003",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Physically, what real, practical purpose do the actual beads of a Rosary actually serve?",
+      "choices": [
+        "They let the fingers keep count without the mind needing to, freeing attention for the Mystery",
+        "The beads actually have no real, practical purpose at all, and are purely decorative",
+        "The beads actually require the mind to count them consciously, adding a real, additional mental task",
+        "The beads actually replace the need for any real words to be spoken at all"
+      ],
+      "correctAnswer": "They let the fingers keep count without the mind needing to, freeing attention for the Mystery",
+      "explanation": "This is a real, practical, physical purpose -- the beads let the fingers keep count automatically, freeing the mind's own real attention for the Mystery actually being meditated on, rather than counting.",
+      "hint": "Consider what real, practical task the beads actually take off the mind's own attention.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-004",
+      "topic": "prayer",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: The Rosary's beads free the mind's own attention for the Mystery being meditated on, rather than requiring the mind to consciously count.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- the beads' own real purpose is to let the fingers count automatically, so real, mental attention stays on the Mystery itself.",
+      "hint": "Recall this level's own real point about what the beads actually free the mind to do.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-005",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Pope St. John Paul II described the Rosary as a real 'path of contemplation.' What real, practical difference does this actually make to how a beginner should approach it?",
+      "choices": [
+        "The goal is meditating on Christ's life through Mary's eyes, not reciting words quickly to finish decades",
+        "The real goal is actually to recite the words as quickly as possible, with no real attention to any Mystery at all",
+        "The phrase 'path of contemplation' actually has no real, practical bearing on how the Rosary should actually be prayed",
+        "The Rosary's own real words should actually be recited without any accompanying, real meditation at all"
+      ],
+      "correctAnswer": "The goal is meditating on Christ's life through Mary's eyes, not reciting words quickly to finish decades",
+      "explanation": "This is exactly this level's own real, guiding point -- the Rosary's own real goal is contemplating Christ's life through Mary's eyes, not simply reciting words quickly to finish a set count.",
+      "hint": "Recall this level's own real citation calling the Rosary a path of contemplation.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-006",
+      "topic": "prayer",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: The Rosary's own real goal is to meditate on Christ's life, not merely to recite its words quickly to finish a set number of decades.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, guiding point matters for a beginner -- the Rosary is a real path of contemplation, not a race to finish reciting a fixed count of words.",
+      "hint": "Recall this level's own real citation calling the Rosary a path of contemplation.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-007",
+      "topic": "prayer",
+      "level": 9,
+      "type": "matching_pairs",
+      "difficultyElo": 1490,
+      "prompt": "Match each fact about praying with beads as a real, beginning habit to what it actually means.",
+      "pairs": [
+        {
+          "left": "A real, practical first step",
+          "right": "Pray just one real decade, on a single Mystery, not all twenty at once"
+        },
+        {
+          "left": "What the beads actually do physically",
+          "right": "Let the fingers keep count, freeing the mind for the Mystery"
+        },
+        {
+          "left": "\"A path of contemplation\"",
+          "right": "The real goal is meditating on Christ's life, not reciting words quickly"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Turns the Rosary into a genuinely achievable, real, beginning habit"
+        }
+      ],
+      "explanation": "These four facts together turn the previous level's own real knowledge of the Rosary into an actual, achievable, beginning practice.",
+      "hint": "Each row gives one real, practical step for beginning the Rosary as a real, sustainable habit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-008",
+      "topic": "prayer",
+      "level": 9,
+      "type": "true_false",
+      "difficultyElo": 1400,
+      "prompt": "True or False: Having now covered praying with beads as a real, beginning habit, this topic's next level turns to the Liturgy of the Hours.",
+      "correctAnswer": true,
+      "explanation": "True. Having built this real, achievable, beginning practice, this topic's next level turns to the Liturgy of the Hours, the Church's own real, structured daily prayer.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-009",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "What real, general habit has this level added to the previous level's own real knowledge of the Rosary and popular devotions?",
+      "choices": [
+        "Turning general knowledge of the Rosary into an actual, achievable, beginning practice",
+        "Assuming the Rosary should actually never be prayed gradually or in small, real steps",
+        "Replacing the previous level's own real content with an entirely unrelated devotion",
+        "Assuming real, practical technique has no bearing on how the Rosary is actually prayed"
+      ],
+      "correctAnswer": "Turning general knowledge of the Rosary into an actual, achievable, beginning practice",
+      "explanation": "This level's own real habit -- turning knowledge into an actual, achievable practice -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real knowledge of the Rosary.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l9-010",
+      "topic": "prayer",
+      "level": 9,
+      "type": "multiple_choice",
+      "difficultyElo": 1450,
+      "prompt": "Given this level's own real, beginning practice with the Rosary, what does the next level in this topic turn to?",
+      "choices": [
+        "The Liturgy of the Hours",
+        "A complete repeat of this same level's material about praying with beads",
+        "A jump ahead to contemplative prayer, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, daily practice"
+      ],
+      "correctAnswer": "The Liturgy of the Hours",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from a personal devotion to the Church's own real, structured, communal prayer.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-001",
+      "topic": "prayer",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The Liturgy of the Hours (also called the Divine Office) is structured around:",
+      "choices": [
+        "Set times throughout the day, sanctifying the whole day with prayer, primarily using the Psalms",
+        "A single prayer said only once a year",
+        "Private devotions with no fixed structure at all",
+        "Silent meditation with no spoken words whatsoever"
+      ],
+      "correctAnswer": "Set times throughout the day, sanctifying the whole day with prayer, primarily using the Psalms",
+      "explanation": "The Liturgy of the Hours extends the Church's prayer across the whole day -- morning, evening, and other set hours -- consecrating time itself through the praying of the Psalms.",
+      "hint": "This form of prayer is spread across the day, not concentrated in a single moment.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-002",
+      "topic": "prayer",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Liturgy of the Hours is the private prayer of clergy alone, with no real connection to the wider Church's public worship.",
+      "correctAnswer": false,
+      "explanation": "The Liturgy of the Hours is described as the public, official prayer of the whole Church, offered in her name -- not a merely private devotion belonging only to clergy.",
+      "hint": "This is described as the Church's own public prayer, not a private clerical exercise.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "The Liturgy of the Hours is intended to become the prayer of the whole People of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-003",
+      "topic": "prayer",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The two 'hinge hours' of the Liturgy of the Hours, considered the most important of the day, are Morning Prayer (Lauds) and Evening Prayer (____).",
+      "correctAnswer": "Vespers",
+      "explanation": "These two hours anchor the whole day in prayer, consecrating its beginning and its close -- the other hours (like Midday Prayer or Night Prayer) are considered supplementary to these two.",
+      "hint": "This is the traditional name for Evening Prayer.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Vatican II, Sacrosanctum Concilium 89"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "Lauds as morning prayer and vespers as evening prayer are the two hinges on which the daily office turns; hence they are to be considered as the chief hours."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l10-004",
+      "topic": "prayer",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The Liturgy of the Hours draws most heavily on which book of Scripture for its content?",
+      "choices": [
+        "The Psalms",
+        "Revelation",
+        "Genesis",
+        "The Song of Songs"
+      ],
+      "correctAnswer": "The Psalms",
+      "explanation": "The 150 Psalms, Israel's own ancient prayer book, form the backbone of the Liturgy of the Hours, prayed in a repeating cycle alongside other Scripture readings, canticles, and prayers.",
+      "hint": "This Old Testament book is essentially a prayer book in its own right.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1176",
+          "quote": "The celebration of the Liturgy of the Hours demands... a deeper 'understanding of the liturgy and of the Bible, especially of the Psalms.'"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-005",
+      "topic": "prayer",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Lay Catholics, not just priests and religious, are encouraged by the Church to pray the Liturgy of the Hours.",
+      "correctAnswer": true,
+      "explanation": "While priests and religious are typically bound to pray it daily, the Church actively encourages all the faithful to join in this prayer, since it belongs to the whole Church, not to clergy alone.",
+      "hint": "This prayer is described as belonging to the whole Church, not to one group within it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "The laity, too, are encouraged to recite the divine office, either with the priests, or among themselves, or even individually."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-006",
+      "topic": "prayer",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each term related to the Liturgy of the Hours to its meaning.",
+      "pairs": [
+        {
+          "left": "Lauds",
+          "right": "Morning Prayer"
+        },
+        {
+          "left": "Vespers",
+          "right": "Evening Prayer"
+        },
+        {
+          "left": "Compline",
+          "right": "Night Prayer, before sleep"
+        },
+        {
+          "left": "Divine Office",
+          "right": "Another name for the Liturgy of the Hours"
+        }
+      ],
+      "explanation": "Together these hours mark out the rhythm of a day consecrated to God, from its first light to its final rest.",
+      "hint": "Three of these are specific named hours of the day; one is simply another name for the whole practice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l10-007",
+      "topic": "prayer",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "Morning Prayer in the Liturgy of the Hours traditionally includes the Benedictus, the New Testament canticle proclaimed by ____ at the birth of his son John the Baptist.",
+      "correctAnswer": "Zechariah",
+      "explanation": "Zechariah's canticle of praise, given his voice back after nine months of silence, forms a fitting hymn to open each new day of prayer.",
+      "hint": "This is John the Baptist's father, whose speech returned only once he named his son.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:67-79",
+          "quote": "because of the tender mercy of our God by which the daybreak from on high will visit us to shine on those who sit in darkness and death's shadow, to guide our feet into the path of peace."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-008",
+      "topic": "prayer",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Evening Prayer (Vespers) in the Liturgy of the Hours traditionally includes the Magnificat, Mary's own canticle of praise.",
+      "correctAnswer": true,
+      "explanation": "Mary's Magnificat, her song of praise at the Visitation, traditionally closes the day's work in prayer at Vespers, just as Zechariah's canticle opens it at Lauds.",
+      "hint": "This is the same canticle Mary sings at her cousin Elizabeth's house.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-55",
+          "quote": "My soul proclaims the greatness of the Lord; my spirit rejoices in God my savior."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-009",
+      "topic": "prayer",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Compline, the final hour of the Liturgy of the Hours prayed before sleep, takes its name from a Latin root meaning:",
+      "choices": [
+        "Completion",
+        "Beginning",
+        "Silence",
+        "Darkness"
+      ],
+      "correctAnswer": "Completion",
+      "explanation": "Compline completes the day's cycle of prayer, fittingly prayed right before rest -- a way of entrusting the day just finished, and the sleep about to begin, into God's hands.",
+      "hint": "This hour brings the day's prayer to a close.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l10-010",
+      "topic": "prayer",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Why is the Liturgy of the Hours described as the prayer of the whole Church rather than a private devotion?",
+      "choices": [
+        "It is Christ's own prayer continuing in his Body, so the one praying it prays with and for the whole Church, alone or not",
+        "Because it must always be prayed in a group",
+        "Because only the ordained may pray it",
+        "Because it consists entirely of Scripture"
+      ],
+      "correctAnswer": "It is Christ's own prayer continuing in his Body, so the one praying it prays with and for the whole Church, alone or not",
+      "explanation": "This is why a monk praying Vigils at three in the morning with no one present is not praying privately. The Hours sanctify the whole course of day and night, and the one praying them stands in for more than himself \u2014 which is what makes it liturgy rather than devotion.",
+      "hint": "Whose prayer is it, before it is anyone's in particular?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1175"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-001",
+      "topic": "prayer",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The previous level covered the Liturgy of the Hours' own real structure. Someone intimidated by the idea of praying all its real hours asks how to actually begin. What is the real, practical, first step?",
+      "choices": [
+        "Begin with just one real hour -- often Night Prayer (Compline), the shortest -- rather than actually attempting the entire real Office at once",
+        "Attempt all seven real hours of the Divine Office, in full, from the very first day",
+        "The Liturgy of the Hours actually cannot be begun gradually, and requires actually praying every hour from the start",
+        "Actually memorize the entire real Psalter before ever praying a single, real hour"
+      ],
+      "correctAnswer": "Begin with just one real hour -- often Night Prayer (Compline), the shortest -- rather than actually attempting the entire real Office at once",
+      "explanation": "This is a real, practical, encouraging first step -- beginning with just one real, shorter hour, often Compline, builds the habit gradually, matching this topic's own recurring, real pattern of starting small and sustainable.",
+      "hint": "Recall this topic's own recurring, real pattern for beginning any new, real, structured practice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-002",
+      "topic": "prayer",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: A person new to the Liturgy of the Hours can actually begin with just one, shorter hour, rather than the entire real Office at once.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical encouragement matters -- one real hour is a genuinely achievable, sustainable first step, exactly this topic's own recurring, real pattern.",
+      "hint": "Recall this level's own real, practical suggestion for a beginner starting the Liturgy of the Hours.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-003",
+      "topic": "prayer",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Compline, prayed right before sleep, tends to fit especially well as a real, first hour for a beginner. What real, practical reason actually supports this choice?",
+      "choices": [
+        "It attaches to an already-existing part of the day -- going to bed -- making the new habit easier to sustain",
+        "Compline is actually the longest of all the real hours, giving a beginner the fullest, real introduction",
+        "Compline actually requires the most real, specialized training of any of the hours",
+        "The real, practical reason for choosing Compline actually has nothing to do with when it is prayed"
+      ],
+      "correctAnswer": "It attaches to an already-existing part of the day -- going to bed -- making the new habit easier to sustain",
+      "explanation": "This connects directly to this topic's own earlier real teaching on attaching a new habit to an existing routine -- Compline's own real place right before sleep makes it easy to actually remember and sustain.",
+      "hint": "Recall this topic's own earlier real teaching on attaching a new habit to an existing, daily routine.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-004",
+      "topic": "prayer",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Compline's own real place right before sleep makes it easier to actually remember and sustain as a beginner's first hour, connecting to this topic's own earlier real teaching on attaching new habits to existing routines.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this connection matters -- this level's own real, practical suggestion rests directly on this topic's own earlier, real teaching about attaching a new habit to an existing routine.",
+      "hint": "Recall this topic's own earlier real teaching on attaching a new habit to an existing, daily routine.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-005",
+      "topic": "prayer",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Even praying just one real hour of the Divine Office, does the person praying actually join the whole, real Church's own prayer, or only their own, individual, real prayer?",
+      "choices": [
+        "They join the whole real Church's own prayer -- the Liturgy of the Hours is the prayer of the whole People of God, even prayed alone",
+        "They actually pray only their own, individual, private prayer, with no real connection to the wider, real Church",
+        "Praying just one real hour actually has no real, meaningful connection to the whole Church's own prayer at all",
+        "Joining the whole, real Church's own prayer actually requires praying all seven real hours together"
+      ],
+      "correctAnswer": "They join the whole real Church's own prayer -- the Liturgy of the Hours is the prayer of the whole People of God, even prayed alone",
+      "explanation": "This is a real, encouraging point -- even one real hour, prayed alone, joins the whole, real Church's own prayer, since the Liturgy of the Hours is intended to become the prayer of the whole People of God, not a private devotion requiring every hour at once.",
+      "hint": "Recall this app's own earlier real teaching on the Liturgy of the Hours as the prayer of the whole People of God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "The Liturgy of the Hours is intended to become the prayer of the whole People of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-006",
+      "topic": "prayer",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Praying even just one real hour of the Divine Office actually joins the whole, real Church's own prayer, not merely a private, individual devotion.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, encouraging point matters for a beginner -- the Liturgy of the Hours is intended to become the prayer of the whole People of God, even when only one real hour is actually prayed.",
+      "hint": "Recall this level's own real citation on the Liturgy of the Hours as the prayer of the whole People of God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "The Liturgy of the Hours is intended to become the prayer of the whole People of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-007",
+      "topic": "prayer",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each fact about praying a single, real hour to what it actually means.",
+      "pairs": [
+        {
+          "left": "A real, practical first step",
+          "right": "Begin with just one hour, often Compline, not the entire real Office"
+        },
+        {
+          "left": "Why Compline fits especially well",
+          "right": "Attaches naturally to an existing routine -- going to bed"
+        },
+        {
+          "left": "Praying one real hour alone",
+          "right": "Still joins the whole, real Church's own prayer"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Turns the Liturgy of the Hours into a genuinely achievable, real, beginning habit"
+        }
+      ],
+      "explanation": "These four facts together turn the previous level's own real knowledge of the Liturgy of the Hours into an actual, achievable, beginning practice.",
+      "hint": "Each row gives one real, practical step for beginning the Liturgy of the Hours as a sustainable habit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "The Liturgy of the Hours is intended to become the prayer of the whole People of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-008",
+      "topic": "prayer",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Having now covered praying a single, real hour, this topic's next level turns to a first, real introduction to contemplative prayer.",
+      "correctAnswer": true,
+      "explanation": "True. Having built this real, achievable, beginning practice, this topic's next level turns to a first, genuine introduction to contemplative prayer.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-009",
+      "topic": "prayer",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, general habit has this level added to the previous level's own real knowledge of the Liturgy of the Hours?",
+      "choices": [
+        "Turning general knowledge of the Liturgy of the Hours into an actual, achievable, beginning practice",
+        "Assuming the Liturgy of the Hours should actually never be prayed gradually, one hour at a time",
+        "Replacing the previous level's own real content with an entirely unrelated devotion",
+        "Assuming a single, real hour actually has no real, meaningful connection to the whole Church"
+      ],
+      "correctAnswer": "Turning general knowledge of the Liturgy of the Hours into an actual, achievable, beginning practice",
+      "explanation": "This level's own real habit -- turning knowledge into an actual, achievable practice -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real knowledge of the Liturgy of the Hours.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1175",
+          "quote": "The Liturgy of the Hours is intended to become the prayer of the whole People of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l11-010",
+      "topic": "prayer",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given this level's own real, beginning practice with a single hour, what does the next level in this topic turn to?",
+      "choices": [
+        "A first, real introduction to contemplative prayer",
+        "A complete repeat of this same level's material about praying a single hour",
+        "A jump ahead to named schools of spirituality, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, daily practice"
+      ],
+      "correctAnswer": "A first, real introduction to contemplative prayer",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from structured, vocal prayer to a first, real introduction to contemplative prayer.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174",
+          "quote": "The mystery of Christ, his Incarnation and Passover, permeates and transfigures the time of each day, through the celebration of the Liturgy of the Hours."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-001",
+      "topic": "prayer",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The Catechism describes contemplative prayer as, above all:",
+      "choices": [
+        "A gift of grace, a gaze of faith fixed on Jesus -- not a technique to be mastered through practice",
+        "A skill anyone can master with enough practice",
+        "A form of prayer reserved only for cloistered religious",
+        "Simply another word for meditation"
+      ],
+      "correctAnswer": "A gift of grace, a gaze of faith fixed on Jesus -- not a technique to be mastered through practice",
+      "explanation": "The Catechism is explicit: contemplative prayer 'is a gift, a grace' -- it can be received and disposed toward, but never simply produced through effort or technique the way a skill can be.",
+      "hint": "This form of prayer is something received, not something achieved through practice like a skill.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2713",
+          "quote": "Contemplative prayer is the simplest expression of the mystery of prayer. It is a gift, a grace; it can be accepted only in humility and poverty."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-002",
+      "topic": "prayer",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Catechism teaches that contemplative prayer is reserved only for a spiritual elite, such as monks and mystics, and isn't meant for ordinary lay Catholics.",
+      "correctAnswer": false,
+      "explanation": "The Catechism presents contemplative prayer as a gift offered to all the baptized -- how and when God chooses to give it remains entirely his own, but it isn't fenced off from ordinary lay believers in principle.",
+      "hint": "This gift isn't taught as limited by vocation -- only by when and how God chooses to give it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-003",
+      "topic": "prayer",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "St. Teresa of Avila described contemplative prayer as 'nothing else than a close sharing between friends; it means taking time frequently to be alone with him who we know ____ us.'",
+      "correctAnswer": "loves",
+      "explanation": "This famous definition, quoted directly in the Catechism, describes contemplative prayer not as a technique or a mental exercise, but simply as time spent with a God already known to love us.",
+      "hint": "This is what a friend already believes to be true about the one they're spending time with.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-004",
+      "topic": "prayer",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Because contemplative prayer is a pure gift rather than a technique, the most a person can do to prepare for it is:",
+      "choices": [
+        "Cultivate humility, silence, and attentive availability to God, without presuming to produce the gift themselves",
+        "Follow a precise step-by-step method guaranteed to produce it",
+        "Simply wait passively and do nothing at all",
+        "Achieve it through sheer willpower and effort"
+      ],
+      "correctAnswer": "Cultivate humility, silence, and attentive availability to God, without presuming to produce the gift themselves",
+      "explanation": "A person can dispose themselves -- through silence, humility, and attentiveness -- without this disposition itself guaranteeing or producing the gift, which remains God's alone to give.",
+      "hint": "The posture here is receptive availability, not a guaranteed technique.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2713",
+          "quote": "Contemplative prayer is the simplest expression of the mystery of prayer. It is a gift, a grace; it can be accepted only in humility and poverty."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-005",
+      "topic": "prayer",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The 'dark night' described by mystics like St. John of the Cross refers to a period of special consolation and comfort in prayer.",
+      "correctAnswer": false,
+      "explanation": "The 'dark night' refers instead to a period of spiritual dryness or apparent absence of God's felt presence -- understood by the mystical tradition as purifying rather than comforting, even though it can be genuinely difficult to endure.",
+      "hint": "This experience is closer to feeling God's apparent absence than to feeling his comforting presence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2719",
+          "quote": "Contemplative prayer is a communion of love bearing Life for the multitude, to the extent that it consents to abide in the night of faith."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-006",
+      "topic": "prayer",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each term related to contemplative prayer to its meaning.",
+      "pairs": [
+        {
+          "left": "Contemplative prayer",
+          "right": "A gift of grace, not a technique to master"
+        },
+        {
+          "left": "St. Teresa of Avila's definition",
+          "right": "A close sharing between friends who know they are loved"
+        },
+        {
+          "left": "Availability",
+          "right": "A disposition one can cultivate, without producing the gift itself"
+        },
+        {
+          "left": "The dark night",
+          "right": "A period of spiritual dryness described by St. John of the Cross"
+        }
+      ],
+      "explanation": "Every one of these terms resists turning contemplative prayer into a skill to be mastered -- even the disposition a person can cultivate stops short of producing the gift itself, which remains God's alone to give.",
+      "hint": "Notice how each term, in its own way, points away from technique and toward gift and relationship.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2713",
+          "quote": "Contemplative prayer is the simplest expression of the mystery of prayer. It is a gift, a grace; it can be accepted only in humility and poverty."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l12-007",
+      "topic": "prayer",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "Lectio Divina, an ancient method of prayerful Scripture reading, is traditionally described in four movements: reading, meditation, prayer, and ____.",
+      "correctAnswer": "contemplation",
+      "explanation": "This traditional four-step pattern -- read, reflect, respond, rest -- moves a person from studying a text toward simply resting in God's presence.",
+      "hint": "This final movement is the same word used elsewhere on this level for a wordless gaze on God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire. This mobilization of faculties is necessary in order to deepen our convictions of faith, prompt the conversion of our heart, and strengthen our will to follow Christ."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-008",
+      "topic": "prayer",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Catechism treats meditation and contemplation as simply two different names for the exact same kind of prayer, with no real distinction between them.",
+      "correctAnswer": false,
+      "explanation": "The Catechism distinguishes these as two of prayer's three great expressions -- meditation actively engages thought, imagination, and desire, while contemplation is a simpler, more receptive gaze that doesn't work the same way.",
+      "hint": "Recall the three distinct expressions of prayer named earlier: vocal, meditative, and contemplative.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2699",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative. They have one basic trait in common: composure of heart."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-009",
+      "topic": "prayer",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Meditation, as the Catechism describes it, especially engages:",
+      "choices": [
+        "Thought, imagination, emotion, and desire, working together toward union with God's will",
+        "Only the intellect, with no place for imagination or emotion",
+        "The body alone, through posture and gesture",
+        "Other people, rather than God directly"
+      ],
+      "correctAnswer": "Thought, imagination, emotion, and desire, working together toward union with God's will",
+      "explanation": "Meditation is active and engaged -- it puts the whole person's faculties to work reflecting on God's word or truth, aiming to deepen faith and conform the will to Christ's.",
+      "hint": "This form of prayer puts several different faculties of the person to work together.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire. This mobilization of faculties is necessary in order to deepen our convictions of faith, prompt the conversion of our heart, and strengthen our will to follow Christ."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-010",
+      "topic": "prayer",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Since contemplative prayer is a gift, there is nothing a person can usefully do about it.",
+      "correctAnswer": false,
+      "explanation": "False, and both halves matter. Contemplation cannot be produced by any technique; it is given. But a person can dispose themselves \u2014 fidelity to set times, silence, purification of heart, humility. Disposing is real work that does not cause the gift, which is precisely why it must be done without expecting to earn anything.",
+      "hint": "Distinguish preparing to receive something from producing it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2713"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l12-011",
+      "topic": "prayer",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each movement of lectio divina to what you actually do in it.",
+      "pairs": [
+        {
+          "left": "Lectio",
+          "right": "Read the passage slowly, more than once, noticing a word that stands out"
+        },
+        {
+          "left": "Meditatio",
+          "right": "Turn that word or phrase over; ask what it says to your life now"
+        },
+        {
+          "left": "Oratio",
+          "right": "Respond to God about it, in your own words"
+        },
+        {
+          "left": "Contemplatio",
+          "right": "Stop speaking and rest in his presence, without trying to produce anything"
+        }
+      ],
+      "explanation": "The fourth movement is where people assume they are failing, because nothing appears to be happening. Nothing is supposed to be happening \u2014 that is the point of it.\n\nTry it: take five verses, not a chapter. Fifteen minutes. If you only get as far as the second movement, that is a complete lectio.",
+      "hint": "Read, ponder, respond, rest. The last is the one that feels like doing nothing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2717"
+        }
+      ],
+      "miniGameEligible": true
+    }
+  ]
+}
