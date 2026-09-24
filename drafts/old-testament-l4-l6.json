@@ -53,7 +53,6 @@
       "prompt": "Abram settles a quarrel with Lot by saying: 'Let there be no strife between you and me... for we are ____.'",
       "correctAnswer": "kinsmen",
       "acceptedAnswers": [
-        "kinsmen",
         "kinsman",
         "brothers"
       ],
@@ -117,10 +116,22 @@
       "difficultyElo": 1115,
       "prompt": "Match each promise made to Abraham to how the story carries it forward.",
       "pairs": [
-        { "left": "A land", "right": "Israel, entered under Joshua" },
-        { "left": "Descendants", "right": "A nation formed at Sinai" },
-        { "left": "Blessing for all nations", "right": "Fulfilled in Christ" },
-        { "left": "A covenant", "right": "Renewed with David and the prophets" }
+        {
+          "left": "A land",
+          "right": "Israel, entered under Joshua"
+        },
+        {
+          "left": "Descendants",
+          "right": "A nation formed at Sinai"
+        },
+        {
+          "left": "Blessing for all nations",
+          "right": "Fulfilled in Christ"
+        },
+        {
+          "left": "A covenant",
+          "right": "Renewed with David and the prophets"
+        }
       ],
       "explanation": "Each promise takes centuries to unfold, and the third takes the longest. The Old Testament can be read as the slow working-out of these four commitments.",
       "hint": "Three of the four are settled within the Old Testament itself.",
@@ -194,7 +205,6 @@
       "prompt": "The Catechism traces a practice back to one man: 'Since ____, intercession -- asking on behalf of another -- has been characteristic of a heart attuned to God's mercy.'",
       "correctAnswer": "Abraham",
       "acceptedAnswers": [
-        "Abraham",
         "Abram"
       ],
       "explanation": "Every later intercessor in Scripture -- Moses on the mountain, Samuel, the prophets -- is working in a pattern this man began.",
@@ -236,7 +246,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l5-001",
       "topic": "old-testament",
@@ -292,9 +301,6 @@
       "difficultyElo": 1210,
       "prompt": "Seeing Jesus approach, John the Baptist says: 'Behold, the ____ of God, who takes away the sin of the world.'",
       "correctAnswer": "Lamb",
-      "acceptedAnswers": [
-        "Lamb"
-      ],
       "explanation": "The title only lands with full weight if you have read the Old Testament first. A lamb provided in a son's place on Moriah, a lamb slain at Passover -- and now a man named as the Lamb himself.",
       "hint": "The animal provided in Isaac's place, and slain at Passover.",
       "citations": [
@@ -355,10 +361,22 @@
       "difficultyElo": 1190,
       "prompt": "Match each detail of the Moriah account to what the Church sees it pointing toward.",
       "pairs": [
-        { "left": "Abraham's only son", "right": "The only Son of the Father" },
-        { "left": "The wood carried uphill", "right": "The cross carried to Calvary" },
-        { "left": "The ram provided instead", "right": "The Lamb of God" },
-        { "left": "The mountain of sacrifice", "right": "The hill outside Jerusalem" }
+        {
+          "left": "Abraham's only son",
+          "right": "The only Son of the Father"
+        },
+        {
+          "left": "The wood carried uphill",
+          "right": "The cross carried to Calvary"
+        },
+        {
+          "left": "The ram provided instead",
+          "right": "The Lamb of God"
+        },
+        {
+          "left": "The mountain of sacrifice",
+          "right": "The hill outside Jerusalem"
+        }
       ],
       "explanation": "None of these is a coincidence noticed afterward. The Catechism's word is prefiguration -- a real shape in the earlier event that the later one fills out completely.",
       "hint": "Each detail on the left has a counterpart in the Passion.",
@@ -426,7 +444,6 @@
       "prompt": "Of the Cross and the Eucharist the Catechism says: 'The victim is one and the same... only the ____ of offering is different.'",
       "correctAnswer": "manner",
       "acceptedAnswers": [
-        "manner",
         "mode"
       ],
       "explanation": "One victim, one sacrifice, offered differently. That is why the Church can say the Mass does not repeat Calvary but makes the one sacrifice present.",
@@ -468,7 +485,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l6-001",
       "topic": "old-testament",
@@ -520,7 +536,6 @@
       "prompt": "Jacob exclaims at Bethel: 'How awesome is this place! This is nothing else but the house of God, and this is the ____ of heaven!'",
       "correctAnswer": "gate",
       "acceptedAnswers": [
-        "gate",
         "gateway"
       ],
       "explanation": "A doorway, not a destination. Jacob has found a place where the traffic between heaven and earth is visible -- which is exactly the claim the Church later makes about the Incarnation.",
@@ -583,10 +598,22 @@
       "difficultyElo": 1265,
       "prompt": "Match each moment in Jacob's life to what it establishes.",
       "pairs": [
-        { "left": "The ladder at Bethel", "right": "A place where heaven and earth meet" },
-        { "left": "Wrestling until daybreak", "right": "The name Israel" },
-        { "left": "His twelve sons", "right": "The twelve tribes" },
-        { "left": "The house of Jacob", "right": "Named again at the Annunciation" }
+        {
+          "left": "The ladder at Bethel",
+          "right": "A place where heaven and earth meet"
+        },
+        {
+          "left": "Wrestling until daybreak",
+          "right": "The name Israel"
+        },
+        {
+          "left": "His twelve sons",
+          "right": "The twelve tribes"
+        },
+        {
+          "left": "The house of Jacob",
+          "right": "Named again at the Annunciation"
+        }
       ],
       "explanation": "Jacob is the hinge between a family and a nation. By the end of his life there is no longer just a promise to one man -- there is a people with a name.",
       "hint": "One gives a name, one gives a structure, one gives a place.",
@@ -653,9 +680,6 @@
       "difficultyElo": 1285,
       "prompt": "The angel tells Mary that 'the Lord God will give him the throne of ____ his father.'",
       "correctAnswer": "David",
-      "acceptedAnswers": [
-        "David"
-      ],
       "explanation": "Two names in one sentence -- David and Jacob -- and both reach backward into this topic. Luke is placing the Annunciation at the end of a line that started with a wandering family.",
       "hint": "The king whose throne was promised to last forever.",
       "citations": [

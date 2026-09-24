@@ -76,9 +76,6 @@
       "difficultyElo": 910,
       "prompt": "Genesis closes the account of creation with God's own verdict: 'God looked at everything he had made, and found it very ____.'",
       "correctAnswer": "good",
-      "acceptedAnswers": [
-        "good"
-      ],
       "explanation": "The goodness of the created world is stated before anything goes wrong in it. Whatever the Old Testament later says about sin, it never says that matter itself was a mistake.",
       "hint": "The verdict God gives on his own work.",
       "citations": [
@@ -139,10 +136,22 @@
       "difficultyElo": 890,
       "prompt": "Match each opening truth of Genesis to what it means.",
       "pairs": [
-        { "left": "Made out of nothing", "right": "God needed no material to work with" },
-        { "left": "In the image of God", "right": "Every person has a God-given dignity" },
-        { "left": "Found it very good", "right": "The created world is good in itself" },
-        { "left": "The Old Covenant stands", "right": "These Scriptures still belong to Christians" }
+        {
+          "left": "Made out of nothing",
+          "right": "God needed no material to work with"
+        },
+        {
+          "left": "In the image of God",
+          "right": "Every person has a God-given dignity"
+        },
+        {
+          "left": "Found it very good",
+          "right": "The created world is good in itself"
+        },
+        {
+          "left": "The Old Covenant stands",
+          "right": "These Scriptures still belong to Christians"
+        }
       ],
       "explanation": "These four claims are the floor the whole Old Testament is built on. Nothing later in the story -- not the fall, not the exile -- takes any of them back.",
       "hint": "Each one is a claim about God, about us, or about the world.",
@@ -209,9 +218,6 @@
       "difficultyElo": 910,
       "prompt": "Genesis states it twice in a single verse: 'God created mankind in his ____.'",
       "correctAnswer": "image",
-      "acceptedAnswers": [
-        "image"
-      ],
       "explanation": "Said once and then immediately repeated, as if to make sure it could not be missed. It is the reason the Old Testament treats every human life as belonging to God.",
       "hint": "The word is repeated for emphasis in the same sentence.",
       "citations": [
@@ -222,7 +228,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l2-001",
       "topic": "old-testament",
@@ -279,7 +284,6 @@
       "prompt": "God says to the serpent: 'I will put enmity between you and the woman, and between your offspring and ____.'",
       "correctAnswer": "hers",
       "acceptedAnswers": [
-        "hers",
         "her offspring"
       ],
       "explanation": "The line divides the whole human story into two lines of descent. Everything that follows -- Abraham, David, the prophets -- narrows the question of which offspring is meant.",
@@ -342,10 +346,22 @@
       "difficultyElo": 965,
       "prompt": "Match each Old Testament reality to what the Church sees it pointing toward.",
       "pairs": [
-        { "left": "The crossing of the Red Sea", "right": "Christian Baptism" },
-        { "left": "The offspring of the woman", "right": "The promised redeemer" },
-        { "left": "The patriarchs and prophets", "right": "Saints honored by the Church" },
-        { "left": "The Old Covenant", "right": "A covenant never revoked" }
+        {
+          "left": "The crossing of the Red Sea",
+          "right": "Christian Baptism"
+        },
+        {
+          "left": "The offspring of the woman",
+          "right": "The promised redeemer"
+        },
+        {
+          "left": "The patriarchs and prophets",
+          "right": "Saints honored by the Church"
+        },
+        {
+          "left": "The Old Covenant",
+          "right": "A covenant never revoked"
+        }
       ],
       "explanation": "Reading this way is what the Catechism calls typology. The Old Testament is not a set of separate lessons; it is one story whose meaning becomes fully visible only at the end.",
       "hint": "Each left-hand item points forward to something on the right.",
@@ -413,7 +429,6 @@
       "prompt": "Typology, the Catechism says, discerns in God's works of the Old Covenant ____ of what he accomplished in the fullness of time.",
       "correctAnswer": "prefigurations",
       "acceptedAnswers": [
-        "prefigurations",
         "prefiguration"
       ],
       "explanation": "The word matters: a prefiguration is not a coincidence noticed after the fact, but a real shape in the earlier event that the later one fills out.",
@@ -450,7 +465,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l3-001",
       "topic": "old-testament",
@@ -506,9 +520,6 @@
       "difficultyElo": 1060,
       "prompt": "God tells Noah: 'I set my bow in the clouds to serve as a sign of the ____ between me and the earth.'",
       "correctAnswer": "covenant",
-      "acceptedAnswers": [
-        "covenant"
-      ],
       "explanation": "This word will carry the rest of the Old Testament. A covenant is not a contract between equals -- it is God binding himself to a people, again and again, each time more specifically.",
       "hint": "The word for a sacred bond God makes and keeps.",
       "citations": [
@@ -569,10 +580,22 @@
       "difficultyElo": 1040,
       "prompt": "Match each early event in Genesis to what it establishes for the rest of the story.",
       "pairs": [
-        { "left": "Creation", "right": "Everything that exists is made and good" },
-        { "left": "The fall", "right": "Something has gone wrong that needs undoing" },
-        { "left": "The promise to the woman", "right": "A rescuer is coming from her line" },
-        { "left": "The covenant with Noah", "right": "God binds himself by a visible sign" }
+        {
+          "left": "Creation",
+          "right": "Everything that exists is made and good"
+        },
+        {
+          "left": "The fall",
+          "right": "Something has gone wrong that needs undoing"
+        },
+        {
+          "left": "The promise to the woman",
+          "right": "A rescuer is coming from her line"
+        },
+        {
+          "left": "The covenant with Noah",
+          "right": "God binds himself by a visible sign"
+        }
       ],
       "explanation": "These four moments set every term the Old Testament will use from here on: a good creation, a real wound, a promised rescuer, and a God who makes binding covenants.",
       "hint": "Read them in order -- each one sets up the next.",
@@ -650,7 +673,6 @@
       "prompt": "At Babel the LORD says: 'Let us then go down and there ____ their language, so that no one will understand the speech of another.'",
       "correctAnswer": "confuse",
       "acceptedAnswers": [
-        "confuse",
         "confound"
       ],
       "explanation": "The scattering at Babel is the last thing that happens before Abraham is called. The Old Testament's answer to a divided humanity begins on the very next page.",

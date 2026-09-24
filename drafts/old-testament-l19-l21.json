@@ -52,9 +52,6 @@
       "difficultyElo": 2260,
       "prompt": "The book of Judges closes with a telling line: 'In those days there was no ____ in Israel; everyone did as they saw fit.'",
       "correctAnswer": "king",
-      "acceptedAnswers": [
-        "king"
-      ],
       "explanation": "The book's own closing verdict names what it thinks is missing -- not simply better judges, but a king. That sentence is what the next level's story directly answers.",
       "hint": "It names the office Israel will ask for in the next level.",
       "citations": [
@@ -115,10 +112,22 @@
       "difficultyElo": 2240,
       "prompt": "Match each stage of the Judges cycle to what happens in it.",
       "pairs": [
-        { "left": "Israel sins", "right": "Turns from the LORD toward other gods" },
-        { "left": "Oppression follows", "right": "A foreign power gains control over Israel" },
-        { "left": "Israel cries out", "right": "Calls on the LORD for deliverance" },
-        { "left": "A judge is raised up", "right": "Delivers Israel only as long as they live" }
+        {
+          "left": "Israel sins",
+          "right": "Turns from the LORD toward other gods"
+        },
+        {
+          "left": "Oppression follows",
+          "right": "A foreign power gains control over Israel"
+        },
+        {
+          "left": "Israel cries out",
+          "right": "Calls on the LORD for deliverance"
+        },
+        {
+          "left": "A judge is raised up",
+          "right": "Delivers Israel only as long as they live"
+        }
       ],
       "explanation": "This cycle repeats through the whole book with different names attached to the fourth stage each time. The pattern itself, not any one judge, is the real subject of Judges.",
       "hint": "Read the four stages as one repeating cycle, not four separate events.",
@@ -180,9 +189,6 @@
       "difficultyElo": 2260,
       "prompt": "Judges says the LORD saved Israel from their enemies as long as the ____ lived.",
       "correctAnswer": "judge",
-      "acceptedAnswers": [
-        "judge"
-      ],
       "explanation": "Deliverance in this period is tied to one person's life. It is exactly this instability that the book's closing verse points to as the real problem.",
       "hint": "The deliverance lasted only as long as this one person was alive.",
       "citations": [
@@ -217,7 +223,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l20-001",
       "topic": "old-testament",
@@ -268,9 +273,6 @@
       "difficultyElo": 2335,
       "prompt": "Samuel is told: 'God does not see as a mortal... the LORD looks into the ____.'",
       "correctAnswer": "heart",
-      "acceptedAnswers": [
-        "heart"
-      ],
       "explanation": "The standard God uses to choose a king has nothing to do with the standards Israel would later demand -- height, appearance, the look of a warrior. What God sees is not visible at all.",
       "hint": "What a human being cannot see directly, but God can.",
       "citations": [
@@ -331,10 +333,22 @@
       "difficultyElo": 2315,
       "prompt": "Match each figure in the anointing account to their role.",
       "pairs": [
-        { "left": "Samuel", "right": "Sent by God to anoint the next king" },
-        { "left": "Jesse's older sons", "right": "Passed over despite impressive appearance" },
-        { "left": "David", "right": "The youngest, chosen for his heart" },
-        { "left": "The flock in the field", "right": "What David was tending when he was chosen" }
+        {
+          "left": "Samuel",
+          "right": "Sent by God to anoint the next king"
+        },
+        {
+          "left": "Jesse's older sons",
+          "right": "Passed over despite impressive appearance"
+        },
+        {
+          "left": "David",
+          "right": "The youngest, chosen for his heart"
+        },
+        {
+          "left": "The flock in the field",
+          "right": "What David was tending when he was chosen"
+        }
       ],
       "explanation": "Every detail works against expectation: the prophet's own first instinct is wrong, the obvious candidates are passed over, and the one chosen is not even present until called.",
       "hint": "Notice how each figure defies what would normally be expected.",
@@ -396,9 +410,6 @@
       "difficultyElo": 2335,
       "prompt": "Samuel is told not to judge David's older brother by his appearance or his lofty ____.",
       "correctAnswer": "stature",
-      "acceptedAnswers": [
-        "stature"
-      ],
       "explanation": "Physical impressiveness is named specifically as the wrong measure. Whatever made this brother look like an obvious king is exactly what God says does not matter here.",
       "hint": "It refers to how tall or physically impressive someone appears.",
       "citations": [
@@ -438,7 +449,6 @@
         }
       ]
     },
-
     {
       "id": "old-testament-l21-001",
       "topic": "old-testament",
@@ -489,9 +499,6 @@
       "difficultyElo": 2410,
       "prompt": "David asks: 'How can the ark of the Lord come to ____?'",
       "correctAnswer": "me",
-      "acceptedAnswers": [
-        "me"
-      ],
       "explanation": "Even as king, David does not treat the ark's presence as something he is simply entitled to. The question is genuine reverence, not rhetorical hesitation.",
       "hint": "David is asking about himself specifically, not about the ark in general.",
       "citations": [
@@ -552,10 +559,22 @@
       "difficultyElo": 2390,
       "prompt": "Match each moment of David's kingship to what it establishes.",
       "pairs": [
-        { "left": "Anointed as a shepherd-boy", "right": "Chosen for his heart, not his stature" },
-        { "left": "Fear before the ark", "right": "Reverence for what is genuinely holy" },
-        { "left": "Three months' delay at Obed-edom", "right": "Caution before completing the procession" },
-        { "left": "The ark brought to Jerusalem", "right": "Worship and kingship united in one city" }
+        {
+          "left": "Anointed as a shepherd-boy",
+          "right": "Chosen for his heart, not his stature"
+        },
+        {
+          "left": "Fear before the ark",
+          "right": "Reverence for what is genuinely holy"
+        },
+        {
+          "left": "Three months' delay at Obed-edom",
+          "right": "Caution before completing the procession"
+        },
+        {
+          "left": "The ark brought to Jerusalem",
+          "right": "Worship and kingship united in one city"
+        }
       ],
       "explanation": "David's whole kingship, from his anointing to this procession, is marked by the same thing: a real regard for what is God's, not a king's casual claim on it.",
       "hint": "Trace how each moment builds David's specific character as king.",
@@ -628,7 +647,6 @@
       "prompt": "The ark remained in the house of ____ the Gittite for three months.",
       "correctAnswer": "Obed-edom",
       "acceptedAnswers": [
-        "Obed-edom",
         "Obed edom"
       ],
       "explanation": "A specific man, a specific household, named directly in the text -- Scripture is precise about where the ark rested during David's hesitation, not vague about the delay.",

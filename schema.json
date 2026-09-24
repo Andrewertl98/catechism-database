@@ -69,8 +69,8 @@
         "level": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 10,
-          "description": "Topics no longer share one fixed level count -- see the Aug 13, 2026 curriculum-design debate. This schema-level max is a loose outer bound (the highest ceiling any topic reaches); each topic's real ceiling is enforced by its own TopicMaster.levelNames.count in the app, not here."
+          "maximum": 23,
+          "description": "Topics no longer share one fixed level count -- see the Aug 13, 2026 curriculum-design debate, and the Sep 24, 2026 curriculum reorganization (CURRICULUM-PLAN.md) that raised the real ceiling from 10 to as high as 23. This schema-level max is a loose outer bound (the highest ceiling any topic reaches); each topic's real ceiling is enforced by its own TopicMaster.levelNames.count in the app, not here."
         },
         "type": {
           "type": "string",
