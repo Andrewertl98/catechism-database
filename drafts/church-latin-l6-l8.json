@@ -1,0 +1,682 @@
+{
+  "_comment": "Church Latin levels 6-8: common Marian/personal prayers (remapped old L2), a further prayer -- Sub tuum praesidium, Mass dialogue responses (remapped old L3)",
+  "topic": "church-latin",
+  "questions": [
+    {
+      "id": "church-latin-l6-001",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "'Ave Maria, gratia plena' is the opening of which prayer?",
+      "choices": [
+        "The Hail Mary",
+        "The Our Father",
+        "The Glory Be",
+        "The Angelus"
+      ],
+      "correctAnswer": "The Hail Mary",
+      "explanation": "'Ave Maria, gratia plena' translates the Angel Gabriel's own greeting to Mary at the Annunciation: 'Hail, full of grace' -- the scriptural root of this prayer's opening words.",
+      "hint": "This prayer's opening line comes directly from the Angel Gabriel's greeting.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "Hail, full of grace, the Lord is with thee."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-002",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: 'Gloria Patri' ('Glory be to the Father') is a Trinitarian doxology, naming Father, Son, and Holy Spirit together.",
+      "correctAnswer": true,
+      "explanation": "This short prayer names all three divine Persons together, echoing the same Trinitarian pattern found in Christ's own baptismal command to the apostles.",
+      "hint": "This prayer names all three Persons the way Christ himself did when instituting Baptism.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-003",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The 'Magnificat,' Mary's hymn of praise prayed daily at Evening Prayer, begins 'My soul magnifies the ____.'",
+      "correctAnswer": "Lord",
+      "explanation": "Mary's canticle, prayed by the whole Church every evening in the Liturgy of the Hours, opens with these words of praise she spoke at the Visitation, greeting her cousin Elizabeth.",
+      "hint": "This is the title Scripture gives to God himself, right at the start of the line.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:46-55",
+          "quote": "My soul proclaims the greatness of the Lord; my spirit rejoices in God my savior."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-004",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "'Requiem aeternam dona eis, Domine,' a traditional prayer for the deceased, means:",
+      "choices": [
+        "Eternal rest grant unto them, O Lord",
+        "Rise again on the last day, O Lord",
+        "Forgive their sins, O Lord",
+        "Welcome them home, O Lord"
+      ],
+      "correctAnswer": "Eternal rest grant unto them, O Lord",
+      "explanation": "This is the opening line of the traditional Requiem prayer for the dead, asking God to grant the deceased eternal rest and perpetual light.",
+      "hint": "'Requiem' is Latin for 'rest' -- this is where the English word for a funeral Mass comes from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1032",
+          "quote": "From the beginning the Church has honored the memory of the dead and offered prayers in suffrage for them, above all the Eucharistic sacrifice, so that, thus purified, they may attain the beatific vision of God."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-005",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Angelus prayer includes the 'Ave Maria' (Hail Mary) three times, once after each of its three short verses.",
+      "correctAnswer": true,
+      "explanation": "The Angelus alternates three short verses about the Annunciation with three full recitations of the Hail Mary, forming a brief but rich meditation on the Incarnation.",
+      "hint": "This prayer has three verses, and follows each one with the same Marian prayer.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "Hail, full of grace, the Lord is with thee."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-006",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each Latin prayer title to its English meaning or use.",
+      "pairs": [
+        {
+          "left": "Ave Maria",
+          "right": "Hail Mary, from the Angel Gabriel's greeting"
+        },
+        {
+          "left": "Gloria Patri",
+          "right": "Glory be to the Father, a Trinitarian doxology"
+        },
+        {
+          "left": "Salve Regina",
+          "right": "Hail, Holy Queen, a Marian hymn"
+        },
+        {
+          "left": "Requiem aeternam",
+          "right": "Eternal rest, a prayer for the dead"
+        }
+      ],
+      "explanation": "Each of these prayers has been prayed continuously in Latin for many centuries, forming part of the Church's shared devotional memory across generations and languages.",
+      "hint": "Two of these are Marian prayers; one is Trinitarian; one is for the deceased.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "Hail, full of grace, the Lord is with thee."
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "church-latin-l6-007",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The 'Salve Regina,' traditionally sung at the close of the day, opens by addressing Mary as:",
+      "choices": [
+        "Hail, Holy Queen",
+        "Hail, full of grace",
+        "Holy Mary, Mother of God",
+        "Queen of Heaven, rejoice"
+      ],
+      "correctAnswer": "Hail, Holy Queen",
+      "explanation": "'Salve Regina' is 'Hail, Holy Queen.' It is distinct from the 'Ave Maria' ('Hail Mary') and from the 'Regina Caeli' ('Queen of Heaven'), which replaces it during Eastertide.",
+      "hint": "'Regina' is the giveaway -- it is the same root behind 'reign' and 'regal.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-008",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: In 'Ave Maria, gratia plena,' the phrase 'gratia plena' means 'full of grace.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Gratia' is grace and 'plena' is full -- the Latin rendering of the angel's greeting at the Annunciation, and the phrase behind the Church's reflection on Mary's unique preparation for her role.",
+      "hint": "The second word survives in English as 'plenary' and 'plenty.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 490-491"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-009",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The Glory Be ends 'et in saecula saeculorum. Amen' -- literally 'and unto ages of ____.'",
+      "correctAnswer": "ages",
+      "explanation": "'Saecula saeculorum' is a Hebrew-style superlative rendered literally into Latin: 'ages of ages,' meaning unending duration. English smooths it to 'world without end,' which loses the doubling that carries the force.",
+      "hint": "The Latin simply repeats the same noun in a different case -- the emphasis is in the repetition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1061-1062"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l6-010",
+      "topic": "church-latin",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "'Veni, Sancte Spiritus' -- sung at Pentecost and at confirmations -- is a prayer of:",
+      "choices": [
+        "Invocation, asking the Holy Spirit to come",
+        "Thanksgiving after Communion",
+        "Penitence before confession",
+        "Dismissal at the end of Mass"
+      ],
+      "correctAnswer": "Invocation, asking the Holy Spirit to come",
+      "explanation": "'Veni' is an imperative: 'Come.' The whole sequence is an epiclesis in miniature -- a calling-down of the Spirit -- which is why it belongs to Pentecost and to the sacrament of Confirmation.",
+      "hint": "The first word is a command, and it is the same one in 'Veni, Veni Emmanuel.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1299"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-001",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "The previous level covered several real, common Marian prayers -- Ave Maria, Gloria Patri, Magnificat, Salve Regina. A further, real, ancient prayer, 'Sub tuum praesidium' ('We fly to thy patronage'), is actually considered the oldest known real prayer to Mary. What does it actually, chiefly ask?",
+      "choices": [
+        "For Mary's own real intercession and protection, fleeing to her patronage in present need",
+        "For a real, complete, theological explanation of the Incarnation, with no real, personal petition at all",
+        "This real, ancient prayer actually contains no genuine, real request of any kind",
+        "For real, protection against a specific, real, historical military threat alone, with no lasting, real use"
+      ],
+      "correctAnswer": "For Mary's own real intercession and protection, fleeing to her patronage in present need",
+      "explanation": "This is a further, real, ancient Marian prayer -- 'Sub tuum praesidium' asks for Mary's own real intercession and protection, echoing this app's own earlier, real teaching on asking Mary's own prayer as the 'Mother of Mercy.'",
+      "hint": "Recall this app's own earlier, real teaching on asking Mary's own real intercession as the Mother of Mercy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-002",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: 'Sub tuum praesidium' is actually considered the oldest known, real prayer directly addressed to Mary.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, historical fact matters -- 'Sub tuum praesidium' is genuinely, actually the oldest known real prayer to Mary, extending this topic's own real, Marian content further back historically.",
+      "hint": "Recall this level's own real point about 'Sub tuum praesidium's' own real, historical significance.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-003",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Why does asking Mary's own real intercession, as in 'Sub tuum praesidium,' actually differ from real, direct worship, which belongs to God alone?",
+      "choices": [
+        "Asking Mary's prayer is the same kind of act as asking a living friend's prayers, not adoration owed to God alone",
+        "Because asking Mary's own real intercession actually is genuine worship, indistinguishable from adoration owed to God",
+        "Because Mary's own real intercession actually has no genuine, real, theological basis at all",
+        "Because 'Sub tuum praesidium' actually addresses God directly, not Mary, despite its own real, apparent wording"
+      ],
+      "correctAnswer": "Asking Mary's prayer is the same kind of act as asking a living friend's prayers, not adoration owed to God alone",
+      "explanation": "This is a real, careful, important distinction -- asking Mary's own real intercession is fundamentally the same, real act as asking a living friend's prayers, not the distinct, real act of adoration owed to God alone.",
+      "hint": "Consider the real, structural similarity between asking a living friend's prayers and asking Mary's own real intercession.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-004",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Asking Mary's own real intercession, as 'Sub tuum praesidium' actually does, is fundamentally the same real kind of act as asking a living friend's own real prayers.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, careful distinction matters -- asking Mary's own real intercession is not the distinct, real act of adoration owed to God alone.",
+      "hint": "Recall this level's own real, structural comparison to asking a living friend's own real prayers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-005",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "How does 'Sub tuum praesidium's' own real, ancient age actually strengthen this topic's own real, growing sense of Latin's own historical depth?",
+      "choices": [
+        "It shows the Latin tradition of Marian prayer reaching back to the Church's earliest centuries, not just a later, medieval development",
+        "It actually has no real, meaningful bearing on this topic's own sense of Latin's own historical depth at all",
+        "It shows the real, Latin tradition of Marian prayer actually began only in a real, recent, modern period",
+        "'Sub tuum praesidium's' own real age actually contradicts everything the previous level already established"
+      ],
+      "correctAnswer": "It shows the Latin tradition of Marian prayer reaching back to the Church's earliest centuries, not just a later, medieval development",
+      "explanation": "This is a real, important point about historical depth -- 'Sub tuum praesidium's' own real, ancient age shows the Latin, Marian tradition reaches back to the Church's own earliest centuries, not merely a later, medieval development.",
+      "hint": "Consider what real, historical significance 'Sub tuum praesidium's' own real, ancient age actually adds.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-006",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: 'Sub tuum praesidium's' own real, ancient age shows the Latin, Marian tradition reaches back to the Church's own earliest, real centuries.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, historical point matters -- this further, real, ancient prayer deepens this topic's own real, growing sense of Latin's own historical roots.",
+      "hint": "Recall this level's own real point about 'Sub tuum praesidium's' own real, historical depth.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-007",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1340,
+      "prompt": "Match each fact about a further, real, common prayer, 'Sub tuum praesidium,' to what it actually means.",
+      "pairs": [
+        {
+          "left": "'Sub tuum praesidium,' chiefly",
+          "right": "Asks for Mary's own real intercession and protection"
+        },
+        {
+          "left": "Its own real, historical significance",
+          "right": "The oldest known, real prayer directly addressed to Mary"
+        },
+        {
+          "left": "Why this differs from real, direct worship",
+          "right": "The same real kind of act as asking a living friend's own prayers"
+        },
+        {
+          "left": "Why its own real age matters",
+          "right": "Shows the Latin, Marian tradition reaching back to the Church's earliest centuries"
+        }
+      ],
+      "explanation": "These four facts together extend the previous level's own real, Marian prayers to a further, real, ancient, and deeply historical example.",
+      "hint": "Each row names one real, careful fact about 'Sub tuum praesidium.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-008",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Having now engaged a further, real, common prayer, this topic's next level turns to the Mass's own real, dialogue responses.",
+      "correctAnswer": true,
+      "explanation": "True. Having engaged this further, real, ancient prayer, this topic's next level turns to the Mass's own real, dialogue responses.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-009",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "What real, general habit has this level added to the previous level's own real, common Marian prayers?",
+      "choices": [
+        "Extending the same careful pattern to a further prayer, deepening this topic's sense of Latin's historical depth",
+        "Assuming every real, further prayer is automatically identical to those already covered",
+        "Abandoning the previous level's own real, Marian prayers entirely",
+        "Assuming real, ancient prayers actually have no bearing on this topic's own historical understanding"
+      ],
+      "correctAnswer": "Extending the same careful pattern to a further prayer, deepening this topic's sense of Latin's historical depth",
+      "explanation": "This level's own real habit -- extending real, careful engagement to a further, common prayer -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, Marian prayers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l7-010",
+      "topic": "church-latin",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Given this level's own real engagement with 'Sub tuum praesidium,' what does the next level in this topic turn to?",
+      "choices": [
+        "The Mass's own real, dialogue responses",
+        "A complete repeat of this same level's material about Sub tuum praesidium",
+        "A jump ahead to grammatical analysis, skipping over everything in between",
+        "A subject entirely unrelated to Latin or real, common prayer"
+      ],
+      "correctAnswer": "The Mass's own real, dialogue responses",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from a further, common prayer to the Mass's own real, structured, dialogue responses.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2677"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-001",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "When the priest says 'Dominus vobiscum' ('The Lord be with you'), the congregation traditionally responds:",
+      "choices": [
+        "'Et cum spiritu tuo' ('And with your spirit')",
+        "'Deo gratias' ('Thanks be to God')",
+        "'Amen'",
+        "'Kyrie eleison' ('Lord, have mercy')"
+      ],
+      "correctAnswer": "'Et cum spiritu tuo' ('And with your spirit')",
+      "explanation": "This exchange happens at several points in the Mass, greeting the assembly and receiving this specific response -- distinct from the responses used elsewhere in the liturgy.",
+      "hint": "This exact call-and-response happens more than once during Mass.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-002",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: 'Ite, missa est,' the dismissal at the end of Mass, is answered by the congregation with 'Deo gratias' ('Thanks be to God').",
+      "correctAnswer": true,
+      "explanation": "This closing exchange sends the assembly out with gratitude -- and, as noted elsewhere, gives the Mass its very name, since 'missa' is the root of the English word 'Mass.'",
+      "hint": "The congregation's response here is a simple expression of gratitude.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-003",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "Before the Gospel reading, the assembly responds to the greeting with 'Gloria tibi, Domine,' meaning 'Glory to you, O ____.'",
+      "correctAnswer": "Lord",
+      "explanation": "This brief acclamation honors Christ's own words about to be proclaimed in the Gospel, distinct from the honor given to the other Scripture readings.",
+      "hint": "It's the title given to Jesus in this greeting, matching who the Gospel is about.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-004",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "After receiving the Body of Christ, a communicant traditionally responds to the minister's words 'Corpus Christi' ('The Body of Christ') with:",
+      "choices": [
+        "'Amen'",
+        "'Alleluia'",
+        "'Et cum spiritu tuo'",
+        "'Deo gratias'"
+      ],
+      "correctAnswer": "'Amen'",
+      "explanation": "This single-word response affirms belief in what's being received -- Christ's own Body, truly present -- echoing the same word's ancient meaning of 'so be it' or 'truly.'",
+      "hint": "It's the same word that closes most prayers, affirming what was just said is true.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-005",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: 'Mea culpa, mea culpa, mea maxima culpa,' from the Confiteor, means 'through my fault, through my fault, through my most grievous fault.'",
+      "correctAnswer": true,
+      "explanation": "This threefold repetition, part of the Confiteor's penitential act, intensifies with each phrase -- from 'my fault' to 'my most grievous fault' -- as the assembly acknowledges sin before God.",
+      "hint": "The phrase repeats three times, growing more intense each time.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-006",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each Latin call from the Mass to its traditional response.",
+      "pairs": [
+        {
+          "left": "Dominus vobiscum",
+          "right": "Et cum spiritu tuo"
+        },
+        {
+          "left": "Ite, missa est",
+          "right": "Deo gratias"
+        },
+        {
+          "left": "Corpus Christi",
+          "right": "Amen"
+        },
+        {
+          "left": "Sursum corda",
+          "right": "Habemus ad Dominum"
+        }
+      ],
+      "explanation": "These call-and-response exchanges, some in continuous use for over a thousand years, give the Mass its distinctive rhythm of dialogue between priest and people.",
+      "hint": "Each Latin call has its own fixed, traditional response -- memorize the pairs as fixed units.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "church-latin-l8-007",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "Before Communion the assembly says 'Domine, non sum dignus...' Which English rendering is it?",
+      "choices": [
+        "Lord, I am not worthy",
+        "Lord, have mercy on me",
+        "Lord, I believe; help my unbelief",
+        "Lord, to whom shall we go?"
+      ],
+      "correctAnswer": "Lord, I am not worthy",
+      "explanation": "'Non sum dignus' is 'I am not worthy.' The words are the centurion's, borrowed by the Church and placed on every communicant's lips immediately before receiving.",
+      "hint": "It is a quotation from a Roman soldier who asked Jesus to heal a servant from a distance.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 8:8"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-008",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: 'Oremus,' said by the priest before a collect, means 'Let us pray.'",
+      "correctAnswer": true,
+      "explanation": "True. 'Oremus' is first person plural hortatory -- 'let us pray.' It is an invitation to the whole assembly, not an announcement that the priest alone is about to pray.",
+      "hint": "The form is 'let us,' not 'I will' -- that distinction is the point of the word.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-009",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "To 'Habemus ad Dominum' the priest has just said 'Sursum ____' -- 'Lift up your hearts.'",
+      "correctAnswer": "corda",
+      "explanation": "'Sursum corda' is 'hearts upward,' and the reply 'Habemus ad Dominum' means 'We have lifted them to the Lord.' The exchange opens the Preface of every Eucharistic Prayer.",
+      "hint": "The missing word is the plural of the same root behind 'cordial' and 'courage.'",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l8-010",
+      "topic": "church-latin",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each Latin phrase from the Order of Mass to the moment it belongs to.",
+      "pairs": [
+        {
+          "left": "Kyrie eleison",
+          "right": "The penitential act, near the start"
+        },
+        {
+          "left": "Sursum corda",
+          "right": "Opening the Eucharistic Prayer"
+        },
+        {
+          "left": "Agnus Dei",
+          "right": "The breaking of the bread, before Communion"
+        },
+        {
+          "left": "Ite, missa est",
+          "right": "The dismissal, at the end"
+        }
+      ],
+      "explanation": "Each phrase marks a hinge in the Mass: contrition, the lifting of hearts into the anaphora, the fraction, and the sending out. Knowing where a phrase sits is most of knowing what it does.",
+      "hint": "Put them in the order you would actually hear them, then match.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Roman Missal, Order of Mass"
+        }
+      ],
+      "miniGameEligible": true
+    }
+  ]
+}
