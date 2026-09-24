@@ -1,0 +1,497 @@
+{
+  "_comment": "Prayer levels 22-23: capstone -- lectio divina, dark night, infused contemplation (remapped old L10), final capstone -- prayer as a real, lifelong relationship, not a mastered technique",
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l22-001",
+      "topic": "prayer",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "Guigo II's Scala Claustralium ('The Ladder of Monks') names four movements of lectio divina in order: lectio, meditatio, oratio, and contemplatio. What is the correct order and basic content of these four movements?",
+      "choices": [
+        "Reading the text attentively, reflecting on its meaning, responding to God in prayer, and resting in God's presence",
+        "Reading, then immediately resting in silence, with no reflection or verbal response involved",
+        "Praying first, then reading the text afterward as a form of thanksgiving",
+        "The four movements have no fixed order and can be done in any sequence"
+      ],
+      "correctAnswer": "Reading the text attentively, reflecting on its meaning, responding to God in prayer, and resting in God's presence",
+      "explanation": "Guigo II's Scala Claustralium describes lectio (attentive reading), meditatio (reflecting on the text's meaning), oratio (responding to God in prayer), and contemplatio (resting in God's presence) as four connected movements, each doing distinct work and building on the one before it, like rungs of a single ladder.",
+      "hint": "Each movement's Latin name is close to its English cognate -- reading, meditating, praying, contemplating, in that order.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2705",
+          "quote": "Meditation is above all a quest. The mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-002",
+      "topic": "prayer",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "A person describes their prayer this way: 'The words feel empty, but I choose to stay present out of love rather than leave.' Which traditional description from the Church's spiritual writers best names what this describes?",
+      "choices": [
+        "A description consistent with spiritual dryness endured in fidelity and love, which spiritual writers describe as itself a real form of prayer, not a failure of prayer",
+        "Proof that this person should stop attempting to pray altogether",
+        "A guaranteed sign that infused contemplation has now been achieved through effort",
+        "Evidence that this person has committed a mortal sin"
+      ],
+      "correctAnswer": "A description consistent with spiritual dryness endured in fidelity and love, which spiritual writers describe as itself a real form of prayer, not a failure of prayer",
+      "explanation": "This description matches the traditional account of dryness endured faithfully -- itself recognized by spiritual writers as real prayer, since the choice to remain in love despite the absence of felt consolation is precisely what makes it prayer rather than technique. This app can name and recognize such an experience; it is not teaching a method for producing any further, deeper state, which -- as this topic's earlier level on infused gifts makes clear -- is not something effort can achieve.",
+      "hint": "The key word here is 'choose' -- an act of the will in love, not a technique for producing a feeling.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731",
+          "quote": "Dryness belongs to contemplative prayer when the heart is separated from God, with no taste for thoughts, memories, and feelings, even spiritual ones."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-003",
+      "topic": "prayer",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "A described meditation consists entirely of analyzing a Gospel passage's historical background and grammar, with no personal response to God at any point. What is this meditation missing, in the traditional vocabulary this level has covered?",
+      "choices": [
+        "A movement from discursive analysis toward oratio -- an actual personal response of the heart to God, not just intellectual analysis of the text",
+        "Nothing -- historical and grammatical analysis alone is already the complete traditional structure of meditation",
+        "A requirement that all meditation be done in complete silence with no thought at all",
+        "A formal liturgical setting, without which meditation cannot occur"
+      ],
+      "correctAnswer": "A movement from discursive analysis toward oratio -- an actual personal response of the heart to God, not just intellectual analysis of the text",
+      "explanation": "Discursive analysis of a text's meaning is real and valuable (the meditatio movement), but the traditional structure this level has covered moves from there into oratio -- an actual personal response of prayer to God arising from that reflection. Analysis alone, without ever turning to address God personally, stops short of that next movement.",
+      "hint": "Look back to Guigo II's four movements -- this meditation only completes the second of four steps.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire. This mobilization of faculties is necessary in order to deepen our convictions of faith."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-004",
+      "topic": "prayer",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: Teresa of \u00c1vila's seven-mansions schema and the traditional progression of stages of mental prayer (vocal prayer, meditation, affective prayer, the prayer of simplicity, infused contemplation) are two competing, contradictory maps of the spiritual life, and a person must choose only one framework to follow.",
+      "correctAnswer": false,
+      "explanation": "These are best understood as two compatible maps describing the same underlying territory of growth in prayer, developed by different spiritual writers using different organizing images -- one a castle's mansions, the other a sequence of prayer forms -- rather than rival systems in competition with each other.",
+      "hint": "This is the same 'compatible maps, not competing claims' pattern this whole topic has used for its licensed diversity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-005",
+      "topic": "prayer",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "Someone experiencing spiritual dryness asks what they should actually do about it this week. Drawing on CCC 2731 and John of the Cross's guidance, which is the most accurate, sayable response?",
+      "choices": [
+        "Keep showing up to pray in faithful love despite the absence of felt consolation, since perseverance through dryness -- not manufacturing a feeling -- is itself the traditional counsel",
+        "Stop praying entirely until the felt consolation naturally returns on its own",
+        "Switch permanently to a completely different religion or spiritual practice",
+        "Conclude that dryness means one should seek an intense emotional experience through any means necessary"
+      ],
+      "correctAnswer": "Keep showing up to pray in faithful love despite the absence of felt consolation, since perseverance through dryness -- not manufacturing a feeling -- is itself the traditional counsel",
+      "explanation": "CCC 2731 and John of the Cross's writings on the dark night consistently counsel perseverance in faithful prayer through dryness, not seeking a technique to force consolation's return -- the fidelity itself, not a produced feeling, is what the tradition names as the real substance of prayer in this experience.",
+      "hint": "The traditional counsel is about persevering, not about a method for making a feeling come back.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731",
+          "quote": "Dryness belongs to contemplative prayer when the heart is separated from God... This is the moment of sheer faith clinging faithfully to Jesus in his agony and in his tomb."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-006",
+      "topic": "prayer",
+      "level": 22,
+      "type": "matching_pairs",
+      "difficultyElo": 2465,
+      "prompt": "Given Psalm 23 ('The Lord is my shepherd'), match each lectio divina movement to what it would actually do with this text.",
+      "pairs": [
+        {
+          "left": "Lectio",
+          "right": "Reading the psalm slowly and attentively, noticing its actual words and images"
+        },
+        {
+          "left": "Meditatio",
+          "right": "Reflecting on what 'the Lord is my shepherd' means for one's own life and current circumstances"
+        },
+        {
+          "left": "Oratio",
+          "right": "Responding to God in personal prayer arising from that reflection, e.g. asking for trust in his care"
+        },
+        {
+          "left": "Contemplatio",
+          "right": "Resting quietly in God's presence, without further need for words"
+        }
+      ],
+      "explanation": "This is the same four-movement structure from earlier in this level, now applied all the way through a single concrete text -- a real, sayable and doable exercise, closing this topic on an actual practice rather than one more fact to recall.",
+      "hint": "Each movement does one distinct job, in the same order taught earlier in this level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2705",
+          "quote": "Meditation is above all a quest. The mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-007",
+      "topic": "prayer",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "How should someone tell the difference between the dark night described by John of the Cross and clinical depression?",
+      "choices": [
+        "Not alone \u2014 the tradition assumes a director, and the distinction has practical consequences, since one calls for perseverance and the other for treatment",
+        "By the duration alone",
+        "The two are the same phenomenon under different names",
+        "By whether the person still attends Mass"
+      ],
+      "correctAnswer": "Not alone \u2014 the tradition assumes a director, and the distinction has practical consequences, since one calls for perseverance and the other for treatment",
+      "explanation": "This matters more than most points in this topic. Reading depression as a spiritual purification can keep someone from care they need; reading purification as pathology can medicate away something God is doing. The classic signs John gives are real but they are not self-administered, and the Church's own respect for medicine applies here.",
+      "hint": "Notice that both wrong readings cause harm, in opposite directions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1503"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-008",
+      "topic": "prayer",
+      "level": 22,
+      "type": "true_false",
+      "difficultyElo": 2375,
+      "prompt": "True or False: Since infused contemplation cannot be produced by any method, a person's own effort in prayer is ultimately irrelevant.",
+      "correctAnswer": false,
+      "explanation": "False, and this is the hinge of the whole topic. What is given cannot be earned, and disposing oneself is still real work \u2014 fidelity when nothing is felt, silence kept, the heart purified. The tradition holds both without resolving the tension: God gives freely, and he ordinarily gives to those who kept showing up.",
+      "hint": "The tradition holds two things here that sound as though only one can be true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2713"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-009",
+      "topic": "prayer",
+      "level": 22,
+      "type": "multiple_choice",
+      "difficultyElo": 2425,
+      "prompt": "A person reports that after years of discursive meditation they can no longer meditate, feel drawn to simply rest in God's presence, and are troubled by having no thoughts. What does the tradition suggest?",
+      "choices": [
+        "These are the classic signs of a transition from meditation toward contemplative prayer, which should be received rather than resisted by forcing discursive method",
+        "They should redouble their efforts at discursive meditation",
+        "They have lost the ability to pray and should begin again as a beginner",
+        "They are certainly experiencing the dark night of the spirit"
+      ],
+      "correctAnswer": "These are the classic signs of a transition from meditation toward contemplative prayer, which should be received rather than resisted by forcing discursive method",
+      "explanation": "The inability to meditate combined with a drawing toward simple loving attention is the described pattern. The right response is not to force the earlier method back \u2014 but note the last option overreaches: naming this the dark night of the spirit is a stronger claim than the signs support, which is where a director matters.",
+      "hint": "Two options here are wrong by resisting the change, and one by over-diagnosing it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2711"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l22-010",
+      "topic": "prayer",
+      "level": 22,
+      "type": "matching_pairs",
+      "difficultyElo": 2465,
+      "prompt": "Match each state to what it actually is.",
+      "pairs": [
+        {
+          "left": "Ordinary dryness",
+          "right": "A normal season of prayer; persevere without changing course"
+        },
+        {
+          "left": "Acedia",
+          "right": "Sloth arising from lax vigilance; met by renewed discipline"
+        },
+        {
+          "left": "Dark night",
+          "right": "God's purifying withdrawal of consolation; discerned with a director"
+        },
+        {
+          "left": "Depression",
+          "right": "An illness calling for treatment, not only spiritual counsel"
+        }
+      ],
+      "explanation": "These are frequently confused with one another, and each confusion has a cost. The last row is the one this app most wants right: a person told to pray harder through an illness has been failed, and the Church's own regard for medicine gives no ground for that advice.",
+      "hint": "Only one of these four is answered by anything other than prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1503"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-001",
+      "topic": "prayer",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "This topic's own capstone showed lectio divina, the dark night, and infused contemplation -- real, mystical stages no technique can actually produce. After every real habit, every precise term, and every named, real spiritual master this topic has covered, what is its own final, real, integrating measure of a genuinely good prayer life?",
+      "choices": [
+        "Real, faithful relationship, sustained over a whole lifetime -- not any single, mastered technique or any one, particular mystical stage actually reached",
+        "The real, only measure of a genuinely good prayer life is actually reaching infused contemplation as quickly as possible",
+        "The real, only measure of a genuinely good prayer life is actually mastering every technique this topic has covered",
+        "This topic's own real journey actually has no final, real, integrating measure at all"
+      ],
+      "correctAnswer": "Real, faithful relationship, sustained over a whole lifetime -- not any single, mastered technique or any one, particular mystical stage actually reached",
+      "explanation": "This is this topic's own real, final, integrating point -- since prayer is, from its very first level, a real, covenant relationship, its own true measure is real, faithful relationship sustained over a lifetime, not any single technique mastered or stage reached.",
+      "hint": "Recall this topic's own very first, real level's own definition of prayer as a covenant relationship.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-002",
+      "topic": "prayer",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: A prayer life that never reaches infused contemplation has not necessarily failed, by this topic's own final, real standard.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this level's own real, final point -- since prayer's own true measure is faithful relationship, not a particular mystical stage reached, a prayer life that never reaches infused contemplation has not failed by this topic's own real, final standard.",
+      "hint": "Recall this level's own real point about what actually measures a genuinely good prayer life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-003",
+      "topic": "prayer",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Looking back across this entire topic's own real journey -- from its very first level on what prayer actually is, through daily habits, the Our Father, devotions, the Hours, contemplative prayer, difficulties, named masters -- what real, single thread actually ties every one of these levels together?",
+      "choices": [
+        "Prayer as an ongoing, faithful relationship with God, sustained through habit and honest difficulty, never a technique once mastered and finished",
+        "This topic's own real levels actually share no single, real thread connecting them at all",
+        "The real, single thread is actually mastering an ever-more advanced, real technique, level after level, until none remain",
+        "The real, single thread is actually reaching a real, felt, emotional experience as quickly as genuinely possible"
+      ],
+      "correctAnswer": "Prayer as an ongoing, faithful relationship with God, sustained through habit and honest difficulty, never a technique once mastered and finished",
+      "explanation": "This is this level's own real, final, integrating answer -- prayer as an ongoing, faithful relationship has run underneath every single level this topic has taught, from its very first level's own real, covenant definition onward.",
+      "hint": "Consider what every one of this topic's own levels -- habit, honesty, named masters, mystical stages -- actually had in common.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-004",
+      "topic": "prayer",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This app's own earlier real teaching -- that prayer is a vital necessity -- names the same real thread that ties this entire topic's own journey together.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this final, real connection matters -- 'vital necessity' names, from this topic's very first levels, the same real thread of ongoing, faithful relationship that every later level has continued to practice.",
+      "hint": "Recall this topic's own very first levels' own real citation on prayer as a vital necessity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-005",
+      "topic": "prayer",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A person who has completed this entire topic asks: 'now that I know all these habits, terms, and named masters, what should I actually do differently tomorrow?' What is the real, honest, final answer?",
+      "choices": [
+        "Keep showing up, in weakness and dryness as much as consolation, letting relationship carry the prayer forward",
+        "Attempt every real habit and technique this topic has taught, all at once, in a single, real day",
+        "Real habits and techniques actually matter more than actually showing up consistently over time",
+        "Nothing this topic has taught actually has any real, practical bearing on tomorrow's real prayer"
+      ],
+      "correctAnswer": "Keep showing up, in weakness and dryness as much as consolation, letting relationship carry the prayer forward",
+      "explanation": "This is this topic's own real, final, practical answer -- every habit this topic has taught serves the real work of actually showing up, in weakness and dryness as much as consolation, letting real relationship carry the prayer life forward.",
+      "hint": "Recall this level's own real point about what every habit this topic has taught actually ultimately serves.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 8:26"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-006",
+      "topic": "prayer",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: Scripture itself teaches that the Spirit actually helps us in our own real weakness, even when we do not actually know how to pray as we ought.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this topic's own real, final word -- the Spirit's own real help in weakness means a faithful, real prayer life never actually depends on first mastering a technique.",
+      "hint": "Recall this level's own real citation on the Spirit's help in our own real weakness.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 8:26"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-007",
+      "topic": "prayer",
+      "level": 23,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each fact about this topic's own final, real capstone to what it actually means.",
+      "pairs": [
+        {
+          "left": "This topic's own final, real measure",
+          "right": "Real, faithful relationship sustained over a lifetime, not a mastered technique"
+        },
+        {
+          "left": "The single, real thread through every level",
+          "right": "Prayer as an ongoing, faithful relationship, never simply finished"
+        },
+        {
+          "left": "\"A vital necessity\"",
+          "right": "Named this same real thread from this topic's very first levels"
+        },
+        {
+          "left": "What should actually govern tomorrow's prayer",
+          "right": "Keep showing up, in weakness and dryness as much as consolation"
+        }
+      ],
+      "explanation": "These four facts together give this topic's own final, real, integrating word -- every habit, every precise term, every named master this topic has taught has served real, faithful relationship throughout.",
+      "hint": "Each row names one real, final step in this topic's own concluding, integrating answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-008",
+      "topic": "prayer",
+      "level": 23,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This level is this topic's own final, real capstone, completing its full, real journey from what prayer is to prayer as a real, lifelong relationship, not a mastered technique.",
+      "correctAnswer": true,
+      "explanation": "True. This level completes this topic's own full, real journey -- from its very first level's own simple, real definition to this final, real word that faithful relationship, not technique, is the true measure of a genuinely good prayer life.",
+      "hint": "Consider what this level's own real place actually is within this topic's full journey.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-009",
+      "topic": "prayer",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "What real, general habit has this level added, as this topic's own final word, to every habit and precise term this topic has taught?",
+      "choices": [
+        "Naming real, faithful relationship as the true measure and final purpose every habit this topic has taught has served all along",
+        "Replacing every habit this topic has taught with an entirely new, unrelated approach",
+        "Assuming real relationship actually has no bearing whatsoever on any habit this topic has taught",
+        "Assuming technical mastery alone, without real relationship, is actually sufficient for a genuinely good prayer life"
+      ],
+      "correctAnswer": "Naming real, faithful relationship as the true measure and final purpose every habit this topic has taught has served all along",
+      "explanation": "This level's own real, final habit -- naming real, faithful relationship as the true measure and governing purpose behind every habit -- completes this topic's own full, real journey honestly and fittingly.",
+      "hint": "Consider what this level actually did with every habit and precise term this topic has taught.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l23-010",
+      "topic": "prayer",
+      "level": 23,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Given this level's own final, real picture of relationship as the true measure of a real prayer life, what does this topic's own full, real journey ultimately teach about prayer?",
+      "choices": [
+        "That every habit this topic taught exists to serve relationship with God, not to stand alone",
+        "That real technique alone, without any real relationship with God, is actually fully sufficient on its own",
+        "That this topic's own full, real journey actually has no coherent, final lesson at all",
+        "That real relationship and real habit are actually entirely unrelated, with no real bearing on each other"
+      ],
+      "correctAnswer": "That every habit this topic taught exists to serve relationship with God, not to stand alone",
+      "explanation": "This is this topic's own full, real, final teaching -- every habit it has ever taught exists to serve real, faithful relationship with God, completing its own real journey from a first, simple definition to this final, integrating word.",
+      "hint": "Consider what this topic's own full, real journey, taken as a whole, actually teaches about prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    }
+  ]
+}
