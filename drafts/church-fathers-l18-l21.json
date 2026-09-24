@@ -1,0 +1,1041 @@
+{
+  "_comment": "Church-fathers levels 18-21: exact heresy premises (remapped old L8), applying the method to Apollinarianism, capstone -- Augustinian synthesis (remapped old L9), final capstone -- living companionship",
+  "topic": "church-fathers",
+  "questions": [
+    {
+      "id": "church-fathers-l18-001",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2252,
+      "prompt": "Augustine's case against Pelagius rests on attacking one specific premise. Which premise, if removed, collapses the rest of Pelagius's position?",
+      "choices": [
+        "That human nature was not wounded by Adam's sin and the will remains entirely intact",
+        "That Christ's death atoned for sin",
+        "That infant baptism has any spiritual effect",
+        "That grace is entirely unnecessary for any human action"
+      ],
+      "correctAnswer": "That human nature was not wounded by Adam's sin and the will remains entirely intact",
+      "explanation": "Pelagius's system depends on denying that Adam's sin wounded human nature itself -- if the will is fully intact, unaided obedience to the law becomes possible in principle. Augustine's Enchiridion attacks exactly this premise: once the will is granted to be wounded, unaided sinlessness becomes impossible, and Pelagius's entire structure follows it down.",
+      "hint": "This is the one claim everything else in Pelagius's system needs to be true.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 407",
+          "quote": "Human nature... is wounded in the natural powers proper to it, subject to ignorance, suffering and the dominion of death, and inclined to sin."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 8",
+          "quote": "For it was by the evil use of his free-will that man destroyed both it and himself."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-002",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2292,
+      "prompt": "Match each Nestorian-style claim about Christ to the specific soteriological problem Cyril of Alexandria raises against it.",
+      "pairs": [
+        {
+          "left": "Mary is 'Christotokos' but not 'Theotokos'",
+          "right": "If she bore only a man conjoined to the Word, the Word himself was never truly born or made man"
+        },
+        {
+          "left": "The divine Word and the human Jesus are two distinct subjects loosely united",
+          "right": "There is no single 'I' who is both God and the one who suffered, so the cross does not actually save"
+        },
+        {
+          "left": "Only the human Jesus, not the divine Word, suffered and died",
+          "right": "A merely human death cannot accomplish infinite atonement for sin"
+        }
+      ],
+      "explanation": "Cyril's recurring move is to show that Nestorius's language, whatever its intent, keeps splitting the one Christ into two subjects -- and a savior split into two subjects can no longer guarantee that God himself, not merely a man closely associated with God, is the one who died and rose.",
+      "hint": "Cyril's central worry in every case is the same: has the divine Word himself really become the one who suffers?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
+        },
+        {
+          "type": "church_father",
+          "reference": "Cyril of Alexandria, Third Letter to Nestorius",
+          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-003",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2252,
+      "prompt": "Comparing Theodore of Mopsuestia's Commentary on the Minor Prophets (Antiochene) with Cyril of Alexandria's commentaries on the same texts, which best describes the difference in emphasis, without treating either as simply wrong?",
+      "choices": [
+        "Antiochene exegesis emphasizes the plain historical sense of the text; Alexandrian exegesis emphasizes typological and christological meaning beneath it",
+        "Antiochene exegesis rejects the Old Testament outright; Alexandrian exegesis accepts only the New Testament",
+        "Antiochene exegesis is entirely allegorical; Alexandrian exegesis is entirely literal",
+        "The two schools produced no surviving texts that can actually be compared"
+      ],
+      "correctAnswer": "Antiochene exegesis emphasizes the plain historical sense of the text; Alexandrian exegesis emphasizes typological and christological meaning beneath it",
+      "explanation": "Theodore's surviving commentary work stays close to a passage's plain historical sense, while Cyril's commentaries characteristically read the same texts for the christological pattern beneath the surface. Both are real, named, surviving approaches -- neither school is well-represented by an unsourced caricature of 'ignoring Christ' or 'ignoring history.'",
+      "hint": "One emphasis stays closer to what the original human author meant; the other looks for what it foreshadows.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115"
+        },
+        {
+          "type": "church_father",
+          "reference": "Theodore of Mopsuestia, Commentary on the Minor Prophets, Preface"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-004",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2202,
+      "prompt": "True or False: If Arius's claim that the Son is a created being were true, Athanasius's argument that 'God became man so that man might become God' (theosis) would still work exactly as before.",
+      "correctAnswer": false,
+      "explanation": "Athanasius's argument for theosis depends on the Son himself being fully God -- only a truly divine Son can communicate divine life to what he assumes. If the Son were merely the highest creature, as Arius held, he could not give humanity a share in a divine life he does not himself fully possess, and theosis collapses along with the premise being granted.",
+      "hint": "Theosis requires the one uniting himself to human nature to actually possess divine life to give.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460",
+          "quote": "For the Son of God became man so that we might become God."
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, On the Incarnation, ch. 54",
+          "quote": "For the Son of God became man so that we might become God."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-005",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2252,
+      "prompt": "Augustine's City of God argues that Rome's pagan gods did not actually protect Rome from disaster, even in pagan times. Which of the following would this argument NOT directly refute?",
+      "choices": [
+        "A claim that Christianity is false because it contains internal logical contradictions",
+        "A claim that abandoning Rome's traditional gods for Christianity caused the sack of Rome in 410",
+        "A claim that Rome's earlier military successes prove the pagan gods' favor",
+        "A claim that pagan worship guaranteed civic security"
+      ],
+      "correctAnswer": "A claim that Christianity is false because it contains internal logical contradictions",
+      "explanation": "City of God's argument here is historical and dialectical -- it shows Rome suffered disasters long before Christianity, undercutting the specific claim that abandoning the old gods caused Rome's sack. It says nothing about internal logical contradictions in Christian doctrine, a different kind of objection Augustine addresses elsewhere, not with this argument.",
+      "hint": "This argument answers a claim about historical cause and effect, not a claim about logical consistency.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 302",
+          "quote": "'divine providence' the dispositions by which God guides his creation toward this perfection"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book I, ch. 1",
+          "quote": "For to this earthly city belong the enemies against whom I have to defend the city of God."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-006",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2292,
+      "prompt": "Match each heresy or claim to the exact premise this level shows it depends on.",
+      "pairs": [
+        {
+          "left": "Pelagianism",
+          "right": "That Adam's sin left the human will entirely unwounded"
+        },
+        {
+          "left": "Arianism",
+          "right": "That the Son is a created being, not fully sharing the Father's nature"
+        },
+        {
+          "left": "Nestorianism (as Cyril reads it)",
+          "right": "That the divine Word and the human Jesus remain two separate subjects"
+        },
+        {
+          "left": "'Rome fell because it abandoned the old gods'",
+          "right": "That the pagan gods, not divine providence, actually governed Rome's history"
+        }
+      ],
+      "explanation": "Each heresy in this level is defeated by attacking one identifiable premise, not by a vague appeal to 'that's not what the Church teaches' -- the difference between labeling an error and actually showing where it breaks.",
+      "hint": "In every case here, removing one specific claim brings down everything built on top of it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 302",
+          "quote": "'divine providence' the dispositions by which God guides his creation toward this perfection"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book I, ch. 1",
+          "quote": "For to this earthly city belong the enemies against whom I have to defend the city of God."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-007",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2252,
+      "prompt": "Augustine's argument against Pelagius depends on establishing one claim about fallen human nature. Which, if granted, makes the rest of his case largely follow?",
+      "choices": [
+        "That the will, wounded by original sin, cannot of itself turn to God without prevenient grace already at work",
+        "That human beings are entirely incapable of any good act whatsoever",
+        "That infant baptism is a merely symbolic rite",
+        "That grace is given in proportion to merit already achieved"
+      ],
+      "correctAnswer": "That the will, wounded by original sin, cannot of itself turn to God without prevenient grace already at work",
+      "explanation": "Once the will's inability to initiate its own turning is granted, Pelagius's picture of unaided moral effort as sufficient collapses, and the necessity of grace at every stage \u2014 not just at the finish \u2014 follows fairly directly. Isolating the load-bearing premise is more useful than reciting the conclusion.",
+      "hint": "Ask which claim, if false, would make Pelagius's whole position reasonable again.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, De Gratia Christi"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-008",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2252,
+      "prompt": "Cyril of Alexandria pressed Nestorius on a specific soteriological consequence of dividing Christ into two subjects. What was it?",
+      "choices": [
+        "If the man Jesus and the Word are not one subject, then it is not truly God who suffered and died, and the exchange that saves us \u2014 God taking what is ours to give us what is his \u2014 fails",
+        "That dividing Christ into two subjects makes the Trinity into four persons",
+        "That it denies Mary was a real historical person",
+        "That it makes the Eucharist impossible to celebrate validly"
+      ],
+      "correctAnswer": "If the man Jesus and the Word are not one subject, then it is not truly God who suffered and died, and the exchange that saves us \u2014 God taking what is ours to give us what is his \u2014 fails",
+      "explanation": "Cyril's argument is soteriological before it is technical: unless the one who suffered is genuinely the Word made flesh, the saving exchange has no divine party to it. This is why Ephesus fought so hard over what could look like a narrow question of Christ's unity.",
+      "hint": "Ask what has to be true of the sufferer on the Cross for that suffering to save anyone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 468"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-009",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2202,
+      "prompt": "True or False: Augustine's City of God argues that Rome fell because she abandoned her old gods for Christianity.",
+      "correctAnswer": false,
+      "explanation": "False \u2014 that was the pagan charge Augustine was answering, not his own claim. He argues the reverse: the old gods never actually protected Rome even in her pagan centuries, citing catastrophes the gods failed to prevent long before Christ. He denies the premise rather than conceding it and arguing about degrees.",
+      "hint": "Whose argument is being described here \u2014 the objector's, or Augustine's reply to it?",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, City of God I.1"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 314"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l18-010",
+      "topic": "church-fathers",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2292,
+      "prompt": "Match each claim to the single premise this level shows it actually depends on.",
+      "pairs": [
+        {
+          "left": "Pelagianism",
+          "right": "That the will needs no prevenient grace to turn toward God"
+        },
+        {
+          "left": "Nestorius's division of Christ",
+          "right": "That the man Jesus and the Word are not strictly one subject"
+        },
+        {
+          "left": "The pagan charge against Rome's fall",
+          "right": "That the old gods had actually protected Rome before"
+        },
+        {
+          "left": "Arianism",
+          "right": "That the Son is a creature rather than fully God"
+        },
+        {
+          "left": "Rejecting divine images after the Incarnation",
+          "right": "That God did not truly take visible, depictable flesh"
+        }
+      ],
+      "explanation": "Every position here looks strong until its load-bearing premise is named and tested on its own. Learning to isolate that single premise is the actual skill this level is built to teach, more than memorising which Father answered which heresy.",
+      "hint": "For each row, ask: what ONE thing would have to be true for this claim to work?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 468"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-001",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2335,
+      "prompt": "The previous level identified the exact, single premise several heresies actually depend on -- Pelagius, Nestorius, Arius. Applying this same, real method to Apollinarianism -- the claim that Christ's divine Word actually replaced his own, human soul -- what is the exact, single premise this real heresy actually depends on?",
+      "choices": [
+        "That Christ's own real, human nature actually didn't need a genuine, rational, human soul to actually be a real, complete human nature",
+        "That Christ actually possessed two, real, completely separate, real Persons, rather than one, unified Person",
+        "That the Father and the Son actually share no real, common substance or nature at all",
+        "That Mary actually contributed no real, genuine, human nature to Christ at all"
+      ],
+      "correctAnswer": "That Christ's own real, human nature actually didn't need a genuine, rational, human soul to actually be a real, complete human nature",
+      "explanation": "This is the exact, single premise Apollinarianism actually depends on -- that a complete, real, human nature doesn't actually require a genuine, rational, human soul, since the divine Word could actually replace it.",
+      "hint": "Recall this level's own real citation on Apollinarius's own claim about Christ's own human soul.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-002",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2285,
+      "prompt": "True or False: Apollinarianism actually depends on the premise that a complete, real, human nature doesn't actually require a genuine, rational, human soul.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, precise identification matters -- naming the exact, single premise shows exactly where this real heresy's own real error actually lies.",
+      "hint": "Recall this level's own real point about the exact, single premise Apollinarianism actually depends on.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-003",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2335,
+      "prompt": "If this real, single premise is actually removed -- if a complete, real, human nature does actually require a genuine, rational, human soul -- what actually happens to Apollinarianism's own real conclusion?",
+      "choices": [
+        "The conclusion collapses -- Christ must have assumed a genuine, rational, human soul to have a complete human nature",
+        "The real, conclusion actually remains completely, genuinely unaffected by removing this real, single premise",
+        "Removing this real, premise actually has no bearing whatsoever on Apollinarianism's own real, theological conclusion",
+        "The real, conclusion actually becomes even more, genuinely certain once this real, premise is actually removed"
+      ],
+      "correctAnswer": "The conclusion collapses -- Christ must have assumed a genuine, rational, human soul to have a complete human nature",
+      "explanation": "This is exactly this topic's own real, recurring method -- removing the exact, single premise a heresy depends on makes its own real conclusion collapse entirely, showing precisely where the real error actually lay.",
+      "hint": "Recall this topic's own recurring, real method for testing what actually happens when a heresy's own single premise is removed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-004",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2285,
+      "prompt": "True or False: Removing Apollinarianism's own single, exact premise makes its own real, theological conclusion collapse entirely.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, recurring method matters -- removing the exact, single premise a heresy depends on shows precisely where its own real error actually lay.",
+      "hint": "Recall this level's own real point about what actually happens when this exact premise is removed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-005",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2335,
+      "prompt": "Why does actually identifying this exact, single premise matter more, pastorally, than simply real, memorizing that 'Apollinarianism is a real heresy'?",
+      "choices": [
+        "Identifying the exact premise lets someone understand why the heresy fails, and recognize the same error if it reappears",
+        "Because this real, precise identification actually has no genuine, practical advantage over simply memorizing the real, bare label 'heresy'",
+        "Because identifying the real, exact premise actually makes the heresy's own real, theological conclusion genuinely more persuasive",
+        "Because real, precise identification actually applies only to real, professional, academic theologians, never to an ordinary, real Catholic"
+      ],
+      "correctAnswer": "Identifying the exact premise lets someone understand why the heresy fails, and recognize the same error if it reappears",
+      "explanation": "This is a real, important, practical point -- identifying the exact premise lets someone genuinely understand why the heresy fails, and recognize the same underlying error if it reappears in a new, modern form.",
+      "hint": "Consider what real, practical advantage understanding the exact, single premise actually has over merely memorizing a bare label.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-006",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2285,
+      "prompt": "True or False: Identifying a heresy's own exact premise lets someone recognize the same, underlying error if it reappears in a new, modern form.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point closes this level honestly -- this is exactly why this topic's own recurring method matters beyond mere, historical memorization.",
+      "hint": "Recall this level's own real point about the practical, ongoing value of identifying an exact, single premise.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-007",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2375,
+      "prompt": "Match each fact about applying this real method to Apollinarianism to what it actually means.",
+      "pairs": [
+        {
+          "left": "Apollinarianism's own exact, single premise",
+          "right": "A complete human nature doesn't need a genuine, rational, human soul"
+        },
+        {
+          "left": "What happens when this premise is removed",
+          "right": "The heresy's own conclusion collapses -- Christ must have a real, human soul"
+        },
+        {
+          "left": "Why identifying the exact premise matters",
+          "right": "Lets someone recognize the same, underlying error in a new, modern form"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Applies this topic's own recurring, real method to a further, real heresy"
+        }
+      ],
+      "explanation": "These four facts together apply the previous level's own real method to a further, real, historical heresy, showing this topic's own recurring, precise approach in action once more.",
+      "hint": "Each row names one real, careful step in this level's own application of the exact-premise method.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-008",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2285,
+      "prompt": "True or False: Having now applied this real method to a further heresy, this topic's next level turns to its own capstone on the Augustinian synthesis and the Second Council of Orange.",
+      "correctAnswer": true,
+      "explanation": "True. Having practiced this real, precise method one further time, this topic's next level turns to its own capstone, drawing everything together.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-009",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2335,
+      "prompt": "What real, general habit has this level added to the previous level's own real, exact-premise method?",
+      "choices": [
+        "Extending the same real, precise method to a further, real heresy, showing it actually transfers reliably beyond the original, real examples",
+        "Assuming this real, exact-premise method actually only applies to the specific heresies already covered",
+        "Abandoning the previous level's own real, exact-premise method entirely",
+        "Assuming identifying an exact, single premise actually has no bearing on recognizing a modern, real reappearance of an old error"
+      ],
+      "correctAnswer": "Extending the same real, precise method to a further, real heresy, showing it actually transfers reliably beyond the original, real examples",
+      "explanation": "This level's own real habit -- extending a precise method to further, real material -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, exact-premise method.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l19-010",
+      "topic": "church-fathers",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2335,
+      "prompt": "Given this level's own real application of the exact-premise method to Apollinarianism, what does the next level in this topic turn to?",
+      "choices": [
+        "This topic's own capstone on the Augustinian synthesis and the Second Council of Orange",
+        "A complete repeat of this same level's material about Apollinarianism",
+        "A jump backward to the Apostolic Fathers, skipping over everything learned since",
+        "A subject entirely unrelated to the Fathers or real, theological history"
+      ],
+      "correctAnswer": "This topic's own capstone on the Augustinian synthesis and the Second Council of Orange",
+      "explanation": "This is exactly what the next level in this topic covers -- drawing everything this topic has built into its own capstone.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 470",
+          "quote": "Apollinarius of Laodicaea asserted that in Christ the divine Word had replaced the soul or spirit. Against this error the Church confessed that the eternal Son also assumed a rational, human soul."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l20-001",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2418,
+      "prompt": "The Second Council of Orange (529) closed the semi-Pelagian controversy by canonizing which position built up across this topic's earlier levels?",
+      "choices": [
+        "That even the beginning of faith requires God's prevenient grace, not unaided human initiative",
+        "That the human will contributes nothing whatsoever, even after grace is given",
+        "That baptism is unnecessary once a person has faith",
+        "That predestination guarantees salvation regardless of a person's free response"
+      ],
+      "correctAnswer": "That even the beginning of faith requires God's prevenient grace, not unaided human initiative",
+      "explanation": "Orange II's canons condemn the semi-Pelagian claim that the beginning of faith can come from unaided human will, canonizing the Augustinian position built up across levels 6-8: grace must move the will even at its very first stirring toward God, while still affirming that the human will genuinely cooperates once moved.",
+      "hint": "This is the exact sequencing question level 7's 'try hard enough on my own first' scenario was built to test.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529), Canon 5",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ],
+      "tags": [
+        "theological-status:settled",
+        "prerequisite:councils-l6"
+      ]
+    },
+    {
+      "id": "church-fathers-l20-002",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2418,
+      "prompt": "Orange II condemns the semi-Pelagian formula that a person can, by natural strength alone, 'ask, seek, and knock' so that grace is given as a reward. Which earlier Augustinian argument does this condemnation draw on most directly?",
+      "choices": [
+        "That prevenient grace must move the will before any good act, including the first desire to seek God",
+        "That homoousios rules out any created intermediary between God and creatures",
+        "That recapitulation requires Christ to pass through every stage of human life",
+        "That synkatabasis explains why Scripture uses anthropomorphic language"
+      ],
+      "correctAnswer": "That prevenient grace must move the will before any good act, including the first desire to seek God",
+      "explanation": "The condemned formula reintroduces exactly the sequencing error Orange II rejects: treating the desire to seek God as something natural strength supplies on its own, with grace arriving only afterward as a reward. This is the same prevenient-grace argument from level 7, now shown to be precisely what Orange II made binding.",
+      "hint": "Look back to the level 7 question about 'trying hard enough on my own first.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529), Canon 3",
+          "quote": "If anyone says that the grace of God can be conferred as a result of human prayer, but that it is not grace itself which makes us pray to God, he contradicts the prophet Isaiah."
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l20-003",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2368,
+      "prompt": "True or False: The Eastern Fathers' language of theosis (Athanasius, the Cappadocians) and Augustine's Western vocabulary of grace describe two contradictory accounts of salvation that the Church has never reconciled.",
+      "correctAnswer": false,
+      "explanation": "The two vocabularies emphasize different facets of the same reality rather than contradicting each other: theosis language stresses the goal (real participation in God's own life), while Augustine's grace vocabulary stresses the mechanism (how a wounded will is healed and moved). The Church has never treated these as rival doctrines needing arbitration between East and West -- they are complementary emphases from two authentic patristic traditions, not the same claim stated twice.",
+      "hint": "This isn't a dispute needing a winner -- it's two authentic traditions describing different facets of one reality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 460",
+          "quote": "For the Son of God became man so that we might become God."
+        },
+        {
+          "type": "church_father",
+          "reference": "Athanasius of Alexandria, On the Incarnation, ch. 54",
+          "quote": "For the Son of God became man so that we might become God."
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l20-004",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2418,
+      "prompt": "Which of the following did the Second Council of Orange (529) NOT settle, remaining a question the Fathers and later theologians continued to debate?",
+      "choices": [
+        "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+        "Whether the beginning of faith requires prevenient grace",
+        "Whether unaided human nature can achieve its own initial turning to God",
+        "Whether grace is necessary at all for salvation"
+      ],
+      "correctAnswer": "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+      "explanation": "Orange II definitively closed the semi-Pelagian question of whether grace must move even the will's first turning to God. It did not attempt to settle the deeper philosophical question of exactly how grace and a genuinely free human choice relate at the moment of decision -- a question later theological schools continued to debate for centuries without a single magisterial resolution.",
+      "hint": "Orange II answers a sequencing question, not the deeper mechanical one.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
+      ]
+    },
+    {
+      "id": "church-fathers-l20-005",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2418,
+      "prompt": "Applying Augustine's doctrine of grace to a besetting sin someone struggles with, which prayer posture does his theology most directly support?",
+      "choices": [
+        "Asking God first to give the very desire to change, not just the strength to follow through once desire is already there",
+        "Refusing to pray about it until willpower alone has produced real progress",
+        "Concluding that grace makes personal effort pointless, so no practical response is needed",
+        "Treating the struggle as proof that grace has been permanently withdrawn"
+      ],
+      "correctAnswer": "Asking God first to give the very desire to change, not just the strength to follow through once desire is already there",
+      "explanation": "Augustine's famous prayer 'grant what you command, and command what you will' (Confessions X) captures exactly this: asking for grace at the root, in the very desire to change, not only for strength to execute a resolution the person has already independently formed.",
+      "hint": "This is the same order of operations as prevenient grace, applied to a concrete daily struggle.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001",
+          "quote": "The preparation of man for the reception of grace is already a work of grace."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Confessions, Book X, ch. 29",
+          "quote": "Give what you command, and then command whatever you will."
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l20-006",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2458,
+      "prompt": "Match each concept to what the Augustinian Synthesis level shows about it.",
+      "pairs": [
+        {
+          "left": "Second Council of Orange (529)",
+          "right": "Canonized prevenient grace, settling the semi-Pelagian sequencing dispute"
+        },
+        {
+          "left": "Theosis (Eastern vocabulary) and grace (Augustine's vocabulary)",
+          "right": "Complementary emphases within one reality, not rival doctrines"
+        },
+        {
+          "left": "The precise mechanics of grace and free choice",
+          "right": "Left genuinely open by Orange II, debated by later theological schools"
+        },
+        {
+          "left": "'Grant what you command, and command what you will'",
+          "right": "Augustine's own prayer applying prevenient grace to personal struggle"
+        }
+      ],
+      "explanation": "This level's point is distinguishing what is actually settled (the sequencing Orange II closed) from what remains a live, bounded theological question (the deeper mechanics) -- tagging the difference honestly rather than presenting every patristic claim with the same false certainty.",
+      "hint": "Two of these four are settled; one is explicitly still open; one is a personal application, not a doctrinal claim at all.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)",
+          "quote": "if anyone says that this belongs to us by nature and not by a gift of grace... it is proof that he is opposed to the teaching of the Apostles."
+        }
+      ],
+      "tags": [
+        "theological-status:settled"
+      ]
+    },
+    {
+      "id": "church-fathers-l20-007",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2418,
+      "prompt": "Applying Orange II's teaching that even the desire to believe is itself a gift of grace, how should someone respond to a friend who says 'I want to want to believe, but I don't even have that much'?",
+      "choices": [
+        "Point out that this half-desire is already a movement grace has begun, not a disqualifying deficiency to be overcome unaided first",
+        "Tell them to keep trying until the full desire arrives on its own",
+        "Explain that this shows they lack the predestined election",
+        "Advise them that nothing can be done until stronger desire appears"
+      ],
+      "correctAnswer": "Point out that this half-desire is already a movement grace has begun, not a disqualifying deficiency to be overcome unaided first",
+      "explanation": "Orange II located grace at the very beginning of the process, including the first faint motion toward belief. A wish to want to believe is not evidence grace is absent; on this doctrine it is exactly what grace beginning to work looks like from the inside.",
+      "hint": "Ask where, on Orange II's teaching, grace is located \u2014 only at the end, or already at the start.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 4"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l20-008",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2368,
+      "prompt": "True or False: Because theosis and Augustine's language of grace developed somewhat independently in East and West, they describe two different destinies for the redeemed.",
+      "correctAnswer": false,
+      "explanation": "False. Different vocabularies, same reality: Peter's 'partakers of the divine nature' and Augustine's justified soul indwelt by grace are converging descriptions of one destiny, sharing in God's own life, rather than two separate outcomes. Treating vocabulary differences as doctrinal differences is a common error in reading East against West.",
+      "hint": "Ask whether a difference in words always means a difference in what is meant.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Peter 1:4"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1996"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l20-009",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2418,
+      "prompt": "Orange II settled that grace precedes even the first motion of faith. What did it explicitly leave unresolved?",
+      "choices": [
+        "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+        "Whether grace is necessary at all for salvation",
+        "Whether infants require baptism",
+        "Whether God predestines anyone to hell"
+      ],
+      "correctAnswer": "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
+      "explanation": "The council answered the sequencing question \u2014 grace goes first \u2014 without resolving the harder metaphysical question of exactly how grace and a free choice coexist without either grace overriding freedom or freedom operating independently of grace. That question occupied theologians for centuries after.",
+      "hint": "The council fixed WHO moves first, not HOW the two forces relate once both are in play.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 25"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l20-010",
+      "topic": "church-fathers",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2458,
+      "prompt": "Match each element of the Augustinian synthesis to what it actually establishes.",
+      "pairs": [
+        {
+          "left": "Orange II, Canon 4",
+          "right": "Even the desire to believe is already a work of grace"
+        },
+        {
+          "left": "Semi-Pelagianism condemned",
+          "right": "Unaided human initiative in seeking God is ruled out"
+        },
+        {
+          "left": "What Orange II left open",
+          "right": "The precise mechanics of grace and freedom together"
+        },
+        {
+          "left": "Theosis and Augustinian grace",
+          "right": "Converging vocabularies for one shared destiny"
+        }
+      ],
+      "explanation": "This level's whole point is precision about what a settled question actually settled, and what it deliberately did not. Overclaiming Orange II's scope is as much a mistake as denying its authority.",
+      "hint": "Two of these rows describe what WAS settled; one describes what was NOT.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Council of Orange, Canon 4"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-001",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "This topic's own capstone showed the Augustinian synthesis integrating this topic's own full, real arc -- grace, human nature, and the Second Council of Orange. After every real Father engaged and every real heresy's own exact premise identified, what is this topic's own final, real, integrating measure of why the Fathers actually matter?",
+      "choices": [
+        "The Fathers actually remain real, living witnesses -- a real, ongoing, lifelong companionship in the faith, not a closed, finished body of merely, historical facts",
+        "The real, only measure of success is actually having memorized every single, real Father, heresy, and technical term this topic has ever covered",
+        "The real, only measure of success is actually reaching level 21 itself, with no further, real, ongoing relationship implied",
+        "This topic's own real journey actually has no final, real, integrating measure at all"
+      ],
+      "correctAnswer": "The Fathers actually remain real, living witnesses -- a real, ongoing, lifelong companionship in the faith, not a closed, finished body of merely, historical facts",
+      "explanation": "This is this topic's own real, final, integrating point -- the Fathers remain real, living witnesses, offering a genuine, ongoing, lifelong companionship in the faith, not a closed, finished body of facts to merely memorize.",
+      "hint": "Recall this topic's own very first levels' own real point about why the Fathers still actually matter today.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-002",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This topic's own final, real measure of why the Fathers matter is a genuine, ongoing, lifelong companionship, not a closed, finished body of historical facts.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this level's own real, final point -- the Fathers remain real, living witnesses, not a merely completed, historical curriculum.",
+      "hint": "Recall this level's own real point about what actually measures the real value of engaging the Fathers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-003",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Looking back across this entire topic's own real journey -- from who a Church Father actually is, through the apologists, martyrs, Golden Age, later Fathers, Doctors, precise terms, objections, and heresies -- what real, single thread actually ties every one of these levels together?",
+      "choices": [
+        "A living, historical community of faith, stretching back unbroken to the apostles, whose testimony remains available today",
+        "This topic's own real levels actually share no single, real thread connecting them at all",
+        "The real, single thread is actually memorizing isolated, real historical facts, with no real, cumulative, living connection at all",
+        "The real, single thread is actually academic, technical precision alone, with no real, personal, or spiritual dimension at all"
+      ],
+      "correctAnswer": "A living, historical community of faith, stretching back unbroken to the apostles, whose testimony remains available today",
+      "explanation": "This is this level's own real, final, integrating answer -- a real, living, historical community of faith, stretching back unbroken to the apostles, has run underneath every single level this topic has taught.",
+      "hint": "Consider what every one of this topic's own levels -- Fathers, Doctors, heresies, objections -- actually had in common.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-004",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This topic's own earlier real teaching -- that the Fathers give a genuine, felt connection to a living, historical community -- names the same real thread that ties this entire topic's own journey together.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this final, real connection matters -- this real, living connection, named from this topic's very first levels, is the same real thread every later level has continued to serve.",
+      "hint": "Recall this topic's own very first levels' own real point about a felt connection to a living, historical community.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-005",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "A person who has completed this entire topic asks: 'now that I know all these Fathers, terms, and heresies, what should I actually do differently going forward?' What is the real, honest, final answer?",
+      "choices": [
+        "Keep reading the Fathers' own words directly, letting this living companionship continue naturally, not treating this topic as finished",
+        "Attempt to memorize every possible, real Father, heresy, and technical term that could ever conceivably be encountered, all at once",
+        "Real historical knowledge actually matters more than actually continuing any real, ongoing relationship with the Fathers' own words",
+        "Nothing this topic has taught actually has any real, practical bearing on future, real encounters with the Fathers"
+      ],
+      "correctAnswer": "Keep reading the Fathers' own words directly, letting this living companionship continue naturally, not treating this topic as finished",
+      "explanation": "This is this topic's own real, final, practical answer -- every Father, term, and heresy this topic has taught serves the real, ongoing habit of reading the Fathers directly, letting this living companionship continue naturally.",
+      "hint": "Recall this level's own real point about what every Father and term this topic has taught actually ultimately serves.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-006",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This topic's own real, final word is that this living companionship with the Fathers should continue naturally, rather than the topic being treated as finished.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this topic's own real, final word -- growth continues naturally through real, ongoing engagement, never simply finished.",
+      "hint": "Recall this level's own real, final point about ongoing, real companionship with the Fathers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-007",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "matching_pairs",
+      "difficultyElo": 2540,
+      "prompt": "Match each fact about this topic's own final, real capstone to what it actually means.",
+      "pairs": [
+        {
+          "left": "This topic's own final, real measure",
+          "right": "A living, lifelong companionship, not a closed, finished body of facts"
+        },
+        {
+          "left": "The single, real thread through every level",
+          "right": "A living, historical community of faith, stretching back to the apostles"
+        },
+        {
+          "left": "\"Our heart is restless until it rests in you\"",
+          "right": "Returns to this topic's own very first, real reading, full circle"
+        },
+        {
+          "left": "What should actually continue going forward",
+          "right": "Reading the Fathers' own words directly, letting the companionship grow naturally"
+        }
+      ],
+      "explanation": "These four facts together give this topic's own final, real, integrating word -- every Father, term, and heresy this topic has taught has served this same, living companionship throughout.",
+      "hint": "Each row names one real, final step in this topic's own concluding, integrating answer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-008",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2450,
+      "prompt": "True or False: This level is this topic's own final, real capstone, completing its full, real journey from who a Church Father is to the Fathers as living witnesses, a lifelong companionship.",
+      "correctAnswer": true,
+      "explanation": "True. This level completes this topic's own full, real journey -- from its very first level's own simple, real definition to this final, real word that living companionship, not finished knowledge, is the true measure of engaging the Fathers.",
+      "hint": "Consider what this level's own real place actually is within this topic's full journey.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-009",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "What real, general habit has this level added, as this topic's own final word, to every Father and precise term this topic has taught?",
+      "choices": [
+        "Naming a genuine, living companionship as the true, real measure and final governing purpose this topic has actually served all along",
+        "Replacing every real Father and term this topic has taught with an entirely new, unrelated approach",
+        "Assuming ongoing, real engagement with the Fathers actually has no bearing on this topic's own real, final purpose",
+        "Assuming a finished, closed body of memorized, historical facts alone is actually sufficient for a genuinely successful engagement with the Fathers"
+      ],
+      "correctAnswer": "Naming a genuine, living companionship as the true, real measure and final governing purpose this topic has actually served all along",
+      "explanation": "This level's own real, final habit -- naming an ongoing, living companionship as the true measure and governing purpose -- completes this topic's own full, real journey honestly and fittingly.",
+      "hint": "Consider what this level actually did with every real Father and term this topic has taught.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l21-010",
+      "topic": "church-fathers",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2500,
+      "prompt": "Given this level's own final, real picture of the Fathers as living witnesses, what does this topic's own full, real journey ultimately teach about the Church Fathers?",
+      "choices": [
+        "That every Father, term, and heresy this topic taught exists to serve a living, lifelong companionship in the faith",
+        "That real, historical knowledge alone, without any real, ongoing companionship, is actually fully sufficient on its own",
+        "That this topic's own full, real journey actually has no coherent, final lesson at all",
+        "That the Fathers' own real testimony and a real, present-day reader's own life are actually entirely unrelated"
+      ],
+      "correctAnswer": "That every Father, term, and heresy this topic taught exists to serve a living, lifelong companionship in the faith",
+      "explanation": "This is this topic's own full, real, final teaching -- every Father it has ever taught exists to serve a genuine, living, lifelong companionship in the faith, completing its own real journey from a first, simple definition to this final, integrating word.",
+      "hint": "Consider what this topic's own full, real journey, taken as a whole, actually teaches about the Church Fathers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        }
+      ]
+    }
+  ]
+}
