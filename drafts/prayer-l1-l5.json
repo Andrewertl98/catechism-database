@@ -1,0 +1,1200 @@
+{
+  "_comment": "Prayer levels 1-5: what prayer is, talking to God personally, a first daily habit, the Catechism definition and ACTS (remapped old L1), turning ACTS into a real daily practice",
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l1-001",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "In the very simplest, real terms, what is prayer?",
+      "choices": [
+        "Raising your mind and heart to God -- turning your attention toward him, in words or silence",
+        "A special, formal ritual only priests or religious can actually perform",
+        "A real, magic formula that automatically produces whatever is asked for",
+        "A real, private hobby that has nothing actually to do with anyone else"
+      ],
+      "correctAnswer": "Raising your mind and heart to God -- turning your attention toward him, in words or silence",
+      "explanation": "This is the Catechism's own simplest, real definition -- prayer is the raising of one's mind and heart to God, something anyone can actually do, in words or in silence, not a formal ritual reserved for a few.",
+      "hint": "Think of the simplest possible way to describe turning your attention toward God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-002",
+      "topic": "prayer",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Prayer requires special training or formal ritual before someone can actually begin.",
+      "correctAnswer": false,
+      "explanation": "False -- prayer is, at its simplest, real root, just raising your mind and heart to God, something anyone can actually begin doing right now, without any special training first.",
+      "hint": "Recall this level's own real, simplest definition of prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-003",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "The Catechism describes Christian prayer as a real, two-sided relationship -- what does this actually mean?",
+      "choices": [
+        "It's a real, covenant relationship -- both God and the person praying are actually involved",
+        "It's a real, one-sided action where only the person praying actually does anything",
+        "It's a real, one-sided action where only God actually does anything",
+        "It's actually not a relationship of any kind at all"
+      ],
+      "correctAnswer": "It's a real, covenant relationship -- both God and the person praying are actually involved",
+      "explanation": "Christian prayer is a real, covenant relationship -- it flows from both the Holy Spirit's own real action and the person's own real response, not from either side alone.",
+      "hint": "Consider whether prayer is something one side does alone, or something both sides actually share.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-004",
+      "topic": "prayer",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: In Christian prayer, God is actually just as real a participant as the person praying.",
+      "correctAnswer": true,
+      "explanation": "True -- Christian prayer is a real, covenant relationship, springing from both the Holy Spirit and the person praying, so God is genuinely, actually a real participant, not a passive listener.",
+      "hint": "Recall this level's own real description of prayer as a covenant relationship.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-005",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Why does the Catechism actually call prayer a 'vital necessity' rather than merely a nice, optional extra?",
+      "choices": [
+        "Because prayer is as necessary to real, spiritual life as breathing is to physical life",
+        "Because prayer is actually only necessary for priests and religious, not for ordinary people",
+        "Because prayer is actually only necessary during a real crisis, and unnecessary otherwise",
+        "Because the phrase 'vital necessity' actually has no real, particular meaning here"
+      ],
+      "correctAnswer": "Because prayer is as necessary to real, spiritual life as breathing is to physical life",
+      "explanation": "Calling prayer a 'vital necessity' means it is as basic and real to a genuine spiritual life as breathing is to physical life -- not a nice extra reserved for the specially devout.",
+      "hint": "Consider what 'vital' actually means, and what it would mean applied to prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-006",
+      "topic": "prayer",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: Calling prayer a 'vital necessity' means it is actually optional, reserved only for the specially devout.",
+      "correctAnswer": false,
+      "explanation": "False -- exactly the opposite: 'vital necessity' means prayer is as basic and real to a genuine spiritual life as breathing is to physical life, not an optional extra.",
+      "hint": "Consider what the word 'vital' actually implies about whether something is optional.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-007",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Someone says, 'I don't know any real prayers, so I can't actually pray.' What is the real, simple, honest response?",
+      "choices": [
+        "Prayer is simply raising your mind and heart to God -- it can begin with your own simple words, or silence",
+        "This is actually correct -- memorized, formal prayers are required before anyone can actually begin praying at all",
+        "This person should actually give up on prayer entirely until they've memorized several formal prayers",
+        "This objection actually has no real, honest response available at all"
+      ],
+      "correctAnswer": "Prayer is simply raising your mind and heart to God -- it can begin with your own simple words, or silence",
+      "explanation": "This directly applies this level's own real, simplest definition -- prayer can begin with your own real, simple words or even silence, since it is fundamentally about raising your mind and heart to God, not reciting memorized, formal text.",
+      "hint": "Recall this level's own real, simplest definition of what prayer actually is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-008",
+      "topic": "prayer",
+      "level": 1,
+      "type": "true_false",
+      "difficultyElo": 800,
+      "prompt": "True or False: A person can actually begin praying with their own simple words, before ever learning a single memorized, formal prayer.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, encouraging point matters for anyone just beginning -- prayer's own real, simplest definition, raising mind and heart to God, requires no memorized, formal text at all.",
+      "hint": "Recall this level's own real, simplest definition of prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-009",
+      "topic": "prayer",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 890,
+      "prompt": "Match each fact about what prayer actually is to what it actually means.",
+      "pairs": [
+        {
+          "left": "Prayer, in its simplest, real terms",
+          "right": "Raising one's mind and heart to God"
+        },
+        {
+          "left": "Christian prayer's own real, covenant shape",
+          "right": "Both God and the person praying are genuinely, actually involved"
+        },
+        {
+          "left": "Why prayer is a real, 'vital necessity'",
+          "right": "As basic to real, spiritual life as breathing is to physical life"
+        },
+        {
+          "left": "Beginning to pray without memorized, formal prayers",
+          "right": "Genuinely possible -- simple words or silence are actually enough to start"
+        }
+      ],
+      "explanation": "These four facts together give the simplest, real, foundational picture of what prayer actually is, before this topic's own later levels build on it.",
+      "hint": "Each row names one real, basic fact this level actually established about prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l1-010",
+      "topic": "prayer",
+      "level": 1,
+      "type": "multiple_choice",
+      "difficultyElo": 850,
+      "prompt": "Given this level's own real, simplest picture of what prayer actually is, what does the next level in this topic turn to?",
+      "choices": [
+        "Talking to God like someone who actually loves you",
+        "A complete repeat of this same level's material about prayer's own basic definition",
+        "A jump ahead to the Liturgy of the Hours, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real relationship with God"
+      ],
+      "correctAnswer": "Talking to God like someone who actually loves you",
+      "explanation": "This is exactly what the next level in this topic covers -- taking this level's own real, basic definition and making it feel genuinely personal and approachable.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-001",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "The previous level defined prayer as raising your mind and heart to God, a real, covenant relationship. What real, everyday image actually helps someone approach that relationship personally?",
+      "choices": [
+        "Talking to God like someone who actually loves you -- honestly, simply, without needing to perform",
+        "Talking to God the way you'd address a real, distant stranger, formally and impersonally",
+        "Talking to God is actually never comparable to any real, human relationship at all",
+        "Talking to God requires actually hiding your real thoughts and feelings from him"
+      ],
+      "correctAnswer": "Talking to God like someone who actually loves you -- honestly, simply, without needing to perform",
+      "explanation": "This is exactly this level's own real, guiding image -- since prayer is a real, covenant relationship, approaching God honestly and simply, as you would someone who actually loves you, fits far better than formal performance.",
+      "hint": "Consider what kind of real, human relationship prayer's own covenant shape actually most resembles.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-002",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Approaching God in prayer actually requires hiding your real thoughts and feelings, presenting only a polished, formal version of yourself.",
+      "correctAnswer": false,
+      "explanation": "False -- since prayer is a real, covenant relationship, honesty actually fits far better than a polished performance, the same as with anyone who genuinely loves you.",
+      "hint": "Consider what kind of real relationship prayer's own covenant shape actually calls for.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-003",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Jesus himself taught his followers to begin prayer by actually calling God 'Father.' What does this real, opening word actually suggest about the relationship prayer involves?",
+      "choices": [
+        "It suggests real, genuine, familial closeness -- God approached as a loving parent, not a distant power",
+        "It suggests God should actually be approached only formally, as a distant, impersonal power",
+        "It suggests the word 'Father' actually has no real, particular significance here",
+        "It suggests prayer should actually avoid any real, personal or relational language entirely"
+      ],
+      "correctAnswer": "It suggests real, genuine, familial closeness -- God approached as a loving parent, not a distant power",
+      "explanation": "Jesus' own real choice to open prayer with 'Father' suggests a genuine, familial closeness -- God is approached as a real, loving parent, exactly the kind of relationship this level's own opening image already pointed toward.",
+      "hint": "Consider what calling someone 'Father' actually suggests about real closeness.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9-13",
+          "quote": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as in heaven."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-004",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: Jesus taught his followers to open prayer by actually calling God 'Father,' suggesting genuine, real closeness rather than distant formality.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, opening word matters -- calling God 'Father' suggests exactly the kind of genuine, familial closeness this level's own opening image already pointed toward.",
+      "hint": "Recall this level's own real citation on how Jesus taught prayer to begin.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9-13",
+          "quote": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as in heaven."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-005",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "A child asks, 'If God already knows what I actually need, why do I still have to ask him for it?' What is the real, honest answer?",
+      "choices": [
+        "God already knows what we need, but awaits our own real request, because our freedom matters to him",
+        "This is actually a real, unanswerable question with no honest response available",
+        "God actually does not know what we need until we tell him ourselves",
+        "Asking God for things is actually pointless, since he already knows everything"
+      ],
+      "correctAnswer": "God already knows what we need, but awaits our own real request, because our freedom matters to him",
+      "explanation": "This is a real, honest, Catechism-grounded answer -- God already knows what we need, but genuinely awaits our own real, free request, because our real dignity and freedom as his children actually matters to him.",
+      "hint": "Recall this level's own real citation on why God awaits our petition despite already knowing our needs.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2736",
+          "quote": "Are we convinced that 'we do not know how to pray as we ought'? Our Father knows what we need before we ask him, but he awaits our petition because the dignity of his children lies in their freedom."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-006",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: God awaits our own real petition in prayer because our real freedom, as his own children, actually matters to him.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, honest point matters -- God's own real waiting for our petition isn't because he lacks knowledge, but because our real dignity and freedom as his children actually matters to him.",
+      "hint": "Recall this level's own real citation on why God awaits our petition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2736",
+          "quote": "Are we convinced that 'we do not know how to pray as we ought'? Our Father knows what we need before we ask him, but he awaits our petition because the dignity of his children lies in their freedom."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-007",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Someone worries their real prayer, spoken in their own words, isn't 'good enough' compared to a formal, memorized prayer. What real, honest reassurance actually fits here?",
+      "choices": [
+        "Since prayer is a real, honest relationship, your own simple words genuinely count, as honestly as any formal prayer",
+        "This worry is actually correct -- only memorized, formal prayers actually count as real prayer",
+        "Real, personal prayer in one's own words is actually never acceptable in the Christian tradition",
+        "This worry actually has no real, honest response available at all"
+      ],
+      "correctAnswer": "Since prayer is a real, honest relationship, your own simple words genuinely count, as honestly as any formal prayer",
+      "explanation": "This directly applies this level's own real, guiding image -- since prayer is a real, honest relationship, one's own simple, real words genuinely count, exactly as honestly as any formal, memorized prayer.",
+      "hint": "Recall this level's own real, guiding image for approaching God honestly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-008",
+      "topic": "prayer",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: A real, simple prayer spoken in one's own words genuinely counts just as much as a formal, memorized prayer.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, encouraging point matters -- since prayer is fundamentally a real, honest relationship, one's own simple words genuinely count as real, honest prayer.",
+      "hint": "Recall this level's own real, guiding image for approaching God honestly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-009",
+      "topic": "prayer",
+      "level": 2,
+      "type": "matching_pairs",
+      "difficultyElo": 965,
+      "prompt": "Match each fact about talking to God like someone who loves you to what it actually means.",
+      "pairs": [
+        {
+          "left": "The real, guiding image for approaching God",
+          "right": "Honestly, simply, the way you'd talk to someone who actually loves you"
+        },
+        {
+          "left": "Jesus' own real choice to open prayer with 'Father'",
+          "right": "Suggests genuine, familial closeness, not distant formality"
+        },
+        {
+          "left": "Why God awaits our own real petition",
+          "right": "Our real freedom and dignity as his children actually matters to him"
+        },
+        {
+          "left": "Prayer in one's own simple, real words",
+          "right": "Genuinely counts, as honestly as any formal, memorized prayer"
+        }
+      ],
+      "explanation": "These four facts together show why prayer can genuinely feel like a real, personal relationship, not a distant, formal performance.",
+      "hint": "Each row names one real, basic fact this level actually established about approaching God personally.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2736",
+          "quote": "Are we convinced that 'we do not know how to pray as we ought'? Our Father knows what we need before we ask him, but he awaits our petition because the dignity of his children lies in their freedom."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l2-010",
+      "topic": "prayer",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "Given this level's own real, personal picture of talking to God, what does the next level in this topic turn to?",
+      "choices": [
+        "A first, real, daily habit -- picking one real moment each day",
+        "A complete repeat of this same level's material about talking to God personally",
+        "A jump ahead to the Liturgy of the Hours, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, daily habit"
+      ],
+      "correctAnswer": "A first, real, daily habit -- picking one real moment each day",
+      "explanation": "This is exactly what the next level in this topic covers -- turning this level's own real, personal picture of prayer into an actual, practical, daily habit.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-001",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "The previous level covered talking to God personally, like someone who actually loves you. What real, practical step actually turns that into an actual, sustained habit?",
+      "choices": [
+        "Choosing one specific, real moment each day and consciously willing to pray then",
+        "Waiting until you actually feel a strong, spontaneous urge to pray, with no fixed, real time chosen",
+        "Praying only when a real crisis actually happens, with no regular, daily habit needed",
+        "A real, daily habit is actually never necessary for genuine, real prayer"
+      ],
+      "correctAnswer": "Choosing one specific, real moment each day and consciously willing to pray then",
+      "explanation": "This is the Catechism's own real, practical point -- we must remember God more often than we draw breath, but this actually requires praying at specific, real times, consciously willed, not simply waiting for a spontaneous feeling.",
+      "hint": "Recall this level's own real citation on needing to pray at specific times to actually pray at all times.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-002",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Praying 'at all times' actually requires first praying at specific, real, consciously chosen times.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- the Catechism itself teaches that praying at all times actually depends on first praying at specific, real, consciously willed times.",
+      "hint": "Recall this level's own real citation on remembering God more often than drawing breath.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-003",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Someone new to prayer asks how long their first, real, daily moment of prayer should actually be. What is the real, practical, honest answer?",
+      "choices": [
+        "Even a genuinely short moment, consistently kept, matters more at the start than a long session that quickly becomes unsustainable",
+        "It must actually be at least one full, real hour from the very first day, or it doesn't actually count",
+        "The real, actual length of the moment chosen has no bearing whatsoever on whether it counts as real prayer",
+        "A real, daily prayer habit should actually never be attempted by a true beginner"
+      ],
+      "correctAnswer": "Even a genuinely short moment, consistently kept, matters more at the start than a long session that quickly becomes unsustainable",
+      "explanation": "This is a real, practical, encouraging point for a true beginner -- a short, real, consistently kept moment builds a real, sustainable habit far better than an ambitious session abandoned after a few days.",
+      "hint": "Consider what actually makes a new, real habit sustainable for a true beginner.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-004",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: A short, real, consistently kept daily prayer moment actually builds a more sustainable habit for a true beginner than a long, ambitious session quickly abandoned.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical encouragement matters for anyone just beginning -- consistency in a short, real, daily moment matters more than an ambitious length that doesn't actually last.",
+      "hint": "Consider what actually makes a new habit sustainable versus quickly abandoned.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-005",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Why does actually choosing the same, real time each day -- rather than a genuinely different, random time -- tend to help a new, real habit actually take hold?",
+      "choices": [
+        "A fixed, repeated time becomes attached to an existing, real routine, making the new habit far easier to sustain",
+        "A real, fixed, repeated time actually has no bearing whatsoever on whether a new habit takes hold",
+        "A genuinely random, unpredictable time actually always works better for building any new, real habit",
+        "The real, actual time chosen should actually change every single day for a new habit to succeed"
+      ],
+      "correctAnswer": "A fixed, repeated time becomes attached to an existing, real routine, making the new habit far easier to sustain",
+      "explanation": "This is a real, practical point about how habits actually form -- a fixed, repeated time attaches to an existing, real routine, making a new habit far easier to remember and sustain than a random, shifting time.",
+      "hint": "Consider what real, practical advantage a fixed, repeated time actually has over a random one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-006",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Attaching a new, real prayer habit to an existing, real daily routine -- like right after waking, or right before a meal -- tends to help it actually take hold.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical tip matters -- a fixed, repeated time attached to an existing routine is far easier to remember and sustain than a new habit floating with no real anchor.",
+      "hint": "Consider what real, practical advantage attaching a new habit to an existing routine actually provides.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-007",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Someone misses their chosen, real prayer moment one day and feels they've actually failed completely. What is the real, honest, encouraging response?",
+      "choices": [
+        "Missing one real day doesn't erase the habit -- prayer is a vital necessity to return to, not a perfect streak",
+        "Missing one real day actually means the entire habit must be abandoned for good",
+        "This person should actually feel genuinely ashamed and stop attempting to pray daily at all",
+        "A missed day actually has no bearing whatsoever on whether the person should try again"
+      ],
+      "correctAnswer": "Missing one real day doesn't erase the habit -- prayer is a vital necessity to return to, not a perfect streak",
+      "explanation": "This connects directly to this topic's own earlier real teaching that prayer is a vital necessity -- something to actually return to, not a perfect streak ruined by one missed, real day.",
+      "hint": "Recall this topic's own earlier real teaching on prayer as a vital necessity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-008",
+      "topic": "prayer",
+      "level": 3,
+      "type": "true_false",
+      "difficultyElo": 950,
+      "prompt": "True or False: Missing one real day of a new prayer habit actually means the whole habit must be abandoned for good.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, honest encouragement matters -- prayer is a vital necessity to actually return to, not a perfect streak permanently ruined by one missed day.",
+      "hint": "Recall this level's own real point about prayer as a vital necessity to return to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-009",
+      "topic": "prayer",
+      "level": 3,
+      "type": "matching_pairs",
+      "difficultyElo": 1040,
+      "prompt": "Match each fact about building a first, real, daily prayer habit to what it actually means.",
+      "pairs": [
+        {
+          "left": "Praying 'at all times'",
+          "right": "Actually requires first praying at specific, consciously chosen times"
+        },
+        {
+          "left": "A short, real, consistent moment",
+          "right": "Builds a more sustainable habit than a long, ambitious one quickly abandoned"
+        },
+        {
+          "left": "Attaching prayer to an existing routine",
+          "right": "Makes a new habit far easier to actually remember and sustain"
+        },
+        {
+          "left": "Missing one real day",
+          "right": "Doesn't erase the habit -- prayer is a vital necessity to return to"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, practical foundation for building a first, sustainable, daily prayer habit.",
+      "hint": "Each row names one real, practical step this level actually established for a new, daily habit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l3-010",
+      "topic": "prayer",
+      "level": 3,
+      "type": "multiple_choice",
+      "difficultyElo": 1000,
+      "prompt": "Given this level's own real, practical foundation for a first, daily prayer habit, what does the next level in this topic turn to?",
+      "choices": [
+        "The Catechism's own real definition, forms, and expressions of prayer",
+        "A complete repeat of this same level's material about building a daily habit",
+        "A jump ahead to the Liturgy of the Hours, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, daily practice"
+      ],
+      "correctAnswer": "The Catechism's own real definition, forms, and expressions of prayer",
+      "explanation": "This is exactly what the next level in this topic covers -- building on this real, practical, daily foundation with the Catechism's own fuller, real teaching on prayer's own forms and expressions.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-001",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "How does the Catechism define prayer?",
+      "choices": [
+        "The raising of one's mind and heart to God, or the requesting of good things from God",
+        "A purely private feeling with no connection to God",
+        "A ritual required only of priests and religious",
+        "Any positive thought about the future"
+      ],
+      "correctAnswer": "The raising of one's mind and heart to God, or the requesting of good things from God",
+      "explanation": "CCC 2559 gives this classic definition, drawn from St. John Damascene, capturing both dimensions of prayer: lifting our whole selves toward God, and asking him for what is good.",
+      "hint": "This classic definition has two halves: lifting the heart up, and asking for something.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-002",
+      "topic": "prayer",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "Complete the opening line of the Lord's Prayer as Jesus taught it: 'Our Father, who art in heaven, hallowed be thy _____.'",
+      "correctAnswer": "name",
+      "explanation": "Jesus gave his disciples this prayer, found in Matthew 6:9-13, as the model for all Christian prayer -- often called the 'Our Father' or, in Latin, the 'Pater Noster.'",
+      "hint": "It's what the first petition asks to be made holy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9-13",
+          "quote": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as in heaven."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l4-003",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "According to the Catechism, Christian prayer is a covenant relationship between God and man, springing forth from both the Holy Spirit and:",
+      "choices": [
+        "Ourselves",
+        "The angels",
+        "The Church hierarchy alone",
+        "Sacred art"
+      ],
+      "correctAnswer": "Ourselves",
+      "explanation": "CCC 2564 describes Christian prayer as 'a covenant relationship between God and man in Christ... springing forth from both the Holy Spirit and ourselves, wholly directed to the Father.'",
+      "hint": "Prayer isn't just God acting on us, or just us acting alone -- it's both together.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564",
+          "quote": "Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-004",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Catechism identifies three traditional 'expressions of prayer.' Which answer correctly lists all three?",
+      "choices": [
+        "Vocal prayer, meditation, and contemplative prayer",
+        "Singing, dancing, and fasting",
+        "Reading, writing, and public speaking",
+        "Standing, kneeling, and bowing"
+      ],
+      "correctAnswer": "Vocal prayer, meditation, and contemplative prayer",
+      "explanation": "These three expressions share one deep foundation -- recollection of the heart -- but differ in how they engage the mind, imagination, and will in prayer.",
+      "hint": "These three range from spoken words, to reflective thought, to wordless gazing on God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2699",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative. They have one basic trait in common: composure of heart."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-005",
+      "topic": "prayer",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: According to the Catechism, prayer is meant to be a constant, ongoing orientation of life, not just an occasional activity squeezed into busy days.",
+      "correctAnswer": true,
+      "explanation": "The Catechism calls prayer 'a vital necessity' and encourages faithfulness to set times of prayer while insisting that a spirit of prayer can remain always possible, woven through the whole of daily life.",
+      "hint": "The Church wants prayer woven through daily life, not treated as an occasional extra.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697",
+          "quote": "We must remember God more often than we draw breath. But we cannot pray 'at all times' if we do not pray at specific times, consciously willing it."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-006",
+      "topic": "prayer",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The Catechism lists five 'forms' of prayer: blessing and adoration, petition, intercession, thanksgiving, and ____.",
+      "correctAnswer": "praise",
+      "explanation": "Each of these five forms expresses a different movement of the heart toward God -- from asking for what we need, to praying for others, to simply praising God for who he is.",
+      "hint": "This form of prayer glorifies God for who he is, apart from anything asked for.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626-2643",
+          "quote": "The Catechism designates five forms of prayer: blessing, adoration, petition, intercession, and thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-007",
+      "topic": "prayer",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Catechism describes prayer as a 'vital necessity' for the Christian, not merely something practiced when convenient.",
+      "correctAnswer": true,
+      "explanation": "The Catechism uses this strong phrase deliberately -- prayer isn't presented as an optional add-on for the especially devout, but as something the Christian life cannot be sustained without.",
+      "hint": "This teaching uses a strong word: not just helpful, but truly needed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-008",
+      "topic": "prayer",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "The most familiar of all Marian prayers, the Hail Mary, opens with the Angel Gabriel's own greeting to Mary: 'Hail, full of ____, the Lord is with thee.'",
+      "correctAnswer": "grace",
+      "explanation": "This opening line is drawn directly from the angel's greeting to Mary at the Annunciation -- the Hail Mary begins with Scripture itself before the Church's own added petition.",
+      "hint": "This is the same word the angel uses to describe what fills Mary.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "Hail, full of grace, the Lord is with thee."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l4-009",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Catechism describes adoration, one of the forms of prayer, as chiefly:",
+      "choices": [
+        "Acknowledging that we are creatures before our Creator, apart from any request",
+        "A prayer said only by priests during Mass",
+        "The same thing as asking God for forgiveness",
+        "A posture of kneeling, and nothing more"
+      ],
+      "correctAnswer": "Acknowledging that we are creatures before our Creator, apart from any request",
+      "explanation": "Adoration comes first among the forms of prayer precisely because it asks for nothing -- it simply recognizes who God is, and who we are before him.",
+      "hint": "This form of prayer isn't about asking for anything at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2628",
+          "quote": "Adoration is the first attitude of man acknowledging that he is a creature before his Creator."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-010",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "The Catechism says humility is the foundation of prayer. Why?",
+      "choices": [
+        "Because we do not know how to pray as we ought, so prayer begins by receiving rather than achieving",
+        "Because God rewards those who think poorly of themselves",
+        "Because prayer should always use formal language",
+        "Because only the humble are permitted to pray"
+      ],
+      "correctAnswer": "Because we do not know how to pray as we ought, so prayer begins by receiving rather than achieving",
+      "explanation": "Humility here is not self-deprecation but accuracy. Paul says plainly that we do not know how to pray as we ought and that the Spirit himself intercedes \u2014 so the first move in prayer is admitting it is not a skill we bring, which is why beginners and mystics start in the same place.",
+      "hint": "The reason concerns what we lack, not what we deserve.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2559"
+        },
+        {
+          "type": "scripture",
+          "reference": "Romans 8:26"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-011",
+      "topic": "prayer",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Someone wants to begin praying daily but has never done it. What does the tradition actually advise as a first step?",
+      "choices": [
+        "Choose a short fixed time and keep it, even badly \u2014 faithfulness to the appointment matters more at the start than what happens in it",
+        "Wait until they feel moved to pray",
+        "Begin with an hour of silence",
+        "Read several books on prayer before attempting any"
+      ],
+      "correctAnswer": "Choose a short fixed time and keep it, even badly \u2014 faithfulness to the appointment matters more at the start than what happens in it",
+      "explanation": "The Catechism says plainly that we cannot pray at all times unless we pray at specific times, and that choosing the time and keeping it is where a life of prayer is actually built.\n\nTry it: pick five minutes and a place \u2014 the same five minutes tomorrow. Begin with the Sign of the Cross, say the Our Father slowly enough to mean it, and sit for what remains. If your mind wanders the whole time, you have still prayed.",
+      "hint": "The advice concerns when you will pray, before it concerns how.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2697"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2710"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l4-012",
+      "topic": "prayer",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "A simple traditional pattern for personal prayer is remembered as ACTS. Match each letter to what it means.",
+      "pairs": [
+        {
+          "left": "Adoration",
+          "right": "Praising God for who he is, before asking anything"
+        },
+        {
+          "left": "Contrition",
+          "right": "Naming what you have done wrong and asking pardon"
+        },
+        {
+          "left": "Thanksgiving",
+          "right": "Naming specific things you have received"
+        },
+        {
+          "left": "Supplication",
+          "right": "Asking for what you and others need"
+        }
+      ],
+      "explanation": "The order is doing work. Beginning with adoration puts petition in its place \u2014 you are speaking to someone, not operating something. Many people who say they cannot pray have only ever done the fourth part.\n\nTry it: one sentence for each letter, in order. It takes under two minutes and it is a complete prayer.",
+      "hint": "Only one of these four is asking for something. Notice where it sits.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2644"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l5-001",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The previous level covered ACTS -- Adoration, Contrition, Thanksgiving, Supplication -- as a simple, traditional pattern for personal prayer. How could this pattern actually become a real, five-minute daily practice?",
+      "choices": [
+        "Spending roughly one real minute on each letter -- adoring, admitting a fault, giving thanks, asking -- in the same order each day",
+        "ACTS is actually meant only as an abstract idea, with no real, practical way to actually use it daily",
+        "All four real letters must actually be expanded into a full, real hour before the pattern actually works",
+        "ACTS actually requires a trained, real spiritual director present before it can be genuinely used"
+      ],
+      "correctAnswer": "Spending roughly one real minute on each letter -- adoring, admitting a fault, giving thanks, asking -- in the same order each day",
+      "explanation": "This is a real, practical way to actually use ACTS daily -- a genuinely short, real minute on each letter, in the same fixed order, turns an abstract pattern into an actual, sustainable, five-minute habit.",
+      "hint": "Recall the previous level's own real ACTS pattern, and consider how briefly each letter could actually be practiced.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626-2643",
+          "quote": "The Catechism designates five forms of prayer: blessing, adoration, petition, intercession, and thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-002",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: ACTS can actually become a real, sustainable, five-minute daily practice by spending roughly one real minute on each of its four letters.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- a genuinely short, fixed pattern turns an abstract idea into an actual, sustainable, daily habit.",
+      "hint": "Recall this level's own real, practical suggestion for turning ACTS into a daily habit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626-2643",
+          "quote": "The Catechism designates five forms of prayer: blessing, adoration, petition, intercession, and thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-003",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "In ACTS, the 'A' stands for Adoration -- what does this real, first step actually involve, in real, practical terms?",
+      "choices": [
+        "Briefly acknowledging who God really is -- his greatness and goodness -- before any request",
+        "Immediately, actually listing every real request you have, before anything else",
+        "Adoration actually has no real, practical content of its own within the ACTS pattern",
+        "Adoration actually means avoiding any real mention of God at all"
+      ],
+      "correctAnswer": "Briefly acknowledging who God really is -- his greatness and goodness -- before any request",
+      "explanation": "Adoration, the first real step, is the real, first attitude of a creature acknowledging his Creator -- briefly, actually turning attention to who God really is before ever moving on to oneself or a request.",
+      "hint": "Recall this app's own earlier real teaching on adoration as the first attitude of a creature before the Creator.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2628",
+          "quote": "Adoration is the first attitude of man acknowledging that he is a creature before his Creator."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-004",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Adoration, ACTS' own first real step, means briefly acknowledging God's own greatness before moving on to any real, personal request.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, ordering point matters -- adoration is the first, real attitude of a creature before the Creator, coming before any real, personal request in the ACTS pattern.",
+      "hint": "Recall this level's own real citation on adoration as the first, real attitude of a creature.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2628",
+          "quote": "Adoration is the first attitude of man acknowledging that he is a creature before his Creator."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-005",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Someone says a real, five-minute ACTS practice feels too short to actually count as genuine prayer. What is the real, honest response?",
+      "choices": [
+        "Since prayer is a vital necessity, a short, consistent practice matters more than a longer one abandoned after a few days",
+        "This is actually correct -- only a real practice of an hour or more genuinely counts as prayer",
+        "A five-minute, real practice is actually never sufficient, regardless of how consistently it's kept",
+        "This concern actually has no real, honest response available at all"
+      ],
+      "correctAnswer": "Since prayer is a vital necessity, a short, consistent practice matters more than a longer one abandoned after a few days",
+      "explanation": "This connects directly to this topic's own earlier real teaching on building a sustainable habit -- a short, consistent, real practice matters more than an ambitious one quickly abandoned, since length alone doesn't measure genuineness.",
+      "hint": "Recall this topic's own earlier real teaching on what actually makes a new prayer habit sustainable.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-006",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: A short but genuinely consistent, real ACTS practice actually matters more than a longer, real practice quickly abandoned.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, encouraging point matters -- this topic's own earlier teaching on sustainable habits applies directly here: consistency matters more than length alone.",
+      "hint": "Recall this topic's own earlier real teaching on what actually makes a new prayer habit sustainable.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-007",
+      "topic": "prayer",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each letter of ACTS to its real, brief, practical, daily content.",
+      "pairs": [
+        {
+          "left": "A -- Adoration",
+          "right": "Briefly acknowledging God's own real greatness, before any request"
+        },
+        {
+          "left": "C -- Contrition",
+          "right": "Admitting one real, specific fault honestly"
+        },
+        {
+          "left": "T -- Thanksgiving",
+          "right": "Naming one real, specific thing to actually thank God for"
+        },
+        {
+          "left": "S -- Supplication",
+          "right": "Asking God for one real, specific need"
+        }
+      ],
+      "explanation": "These four real, brief steps together turn ACTS from an abstract idea into an actual, sustainable, five-minute daily practice.",
+      "hint": "Each row gives one real, brief, practical step within the ACTS pattern.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2628",
+          "quote": "Adoration is the first attitude of man acknowledging that he is a creature before his Creator."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-008",
+      "topic": "prayer",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Having now turned ACTS into a real, practical, daily practice, this topic's next level turns to the Our Father, verse by verse.",
+      "correctAnswer": true,
+      "explanation": "True. Having built this real, practical daily habit, this topic's next level turns to the Our Father itself, examined verse by verse.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626-2643",
+          "quote": "The Catechism designates five forms of prayer: blessing, adoration, petition, intercession, and thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-009",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What real, general habit has this level added to the previous level's own real teaching on ACTS?",
+      "choices": [
+        "Turning an abstract, traditional pattern into an actual, sustainable, five-minute daily practice",
+        "Assuming ACTS actually has no real, practical use in a genuine, daily prayer habit",
+        "Replacing ACTS entirely with an unrelated, real, new pattern",
+        "Assuming a real, five-minute practice is actually never sufficient for genuine prayer"
+      ],
+      "correctAnswer": "Turning an abstract, traditional pattern into an actual, sustainable, five-minute daily practice",
+      "explanation": "This level's own real habit -- turning an abstract pattern into a real, practical, daily habit -- is exactly the same real discipline this topic will keep practicing through its own later, bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real ACTS pattern.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626-2643",
+          "quote": "The Catechism designates five forms of prayer: blessing, adoration, petition, intercession, and thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l5-010",
+      "topic": "prayer",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Given this level's own real, practical ACTS practice, what does the next level in this topic turn to?",
+      "choices": [
+        "The Our Father, verse by verse",
+        "A complete repeat of this same level's material about ACTS",
+        "A jump ahead to the Liturgy of the Hours, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, daily practice"
+      ],
+      "correctAnswer": "The Our Father, verse by verse",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from a general, daily pattern to Jesus' own real, specific prayer, examined verse by verse.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2626-2643",
+          "quote": "The Catechism designates five forms of prayer: blessing, adoration, petition, intercession, and thanksgiving."
+        }
+      ]
+    }
+  ]
+}
