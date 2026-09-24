@@ -1,0 +1,708 @@
+{
+  "_comment": "Sacred-scripture levels 10-12: New Testament letters, reading a letter as a letter, senses of Scripture",
+  "topic": "sacred-scripture",
+  "questions": [
+    {
+      "id": "sacred-scripture-l10-001",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The largest single block of New Testament letters was written by:",
+      "choices": [
+        "St. Paul",
+        "St. Peter",
+        "St. John",
+        "St. James"
+      ],
+      "correctAnswer": "St. Paul",
+      "explanation": "Paul's letters to various churches and individuals -- Romans, Corinthians, Galatians, and many more -- make up the largest portion of the New Testament's epistolary literature.",
+      "hint": "This apostle's missionary journeys generated letters to many of the churches he founded.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:1",
+          "quote": "Paul, a slave of Christ Jesus, called to be an apostle and set apart for the gospel of God"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-002",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Letter to the Romans is widely regarded as containing Paul's most systematic presentation of the Gospel and the doctrine of justification.",
+      "correctAnswer": true,
+      "explanation": "Romans opens with Paul's programmatic statement that he is 'not ashamed of the gospel,' since 'the righteous shall live by faith' -- launching one of Scripture's most sustained theological arguments.",
+      "hint": "This letter is often called Paul's theological masterwork.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-003",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The Letter to the Hebrews presents Christ as the perfect and eternal ____ Priest, superior to the Levitical priesthood of the Old Covenant.",
+      "correctAnswer": "High",
+      "explanation": "Hebrews argues at length that Christ's priesthood, offered once for all, fulfills and surpasses the repeated sacrifices of the Old Covenant's priesthood.",
+      "hint": "This title pairs with 'priest' to describe the very highest priestly office.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Hebrews 4:14-15",
+          "quote": "We have a great high priest who has passed through the heavens, Jesus, the Son of God... one who has similarly been tested in every way, yet without sin."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-004",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "The 'Catholic Epistles' (James, 1-2 Peter, 1-3 John, Jude) are called 'Catholic' meaning:",
+      "choices": [
+        "Universal or general, addressed broadly rather than to one specific local church",
+        "Written exclusively by popes",
+        "Approved only at the Council of Trent",
+        "Written in Latin rather than Greek"
+      ],
+      "correctAnswer": "Universal or general, addressed broadly rather than to one specific local church",
+      "explanation": "Unlike Paul's letters, which typically address a specific community (Rome, Corinth, Galatia), these letters are addressed more broadly -- hence 'catholic,' meaning 'universal.'",
+      "hint": "'Catholic' here carries its original Greek meaning -- 'according to the whole,' or universal.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 1:1",
+          "quote": "James, a slave of God and of the Lord Jesus Christ, to the twelve tribes in the dispersion, greetings."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-005",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Letter of James teaches that faith without works is dead.",
+      "correctAnswer": true,
+      "explanation": "James 2:17 states plainly: 'faith of itself, if it does not have works, is dead.' The letter insists genuine faith must show itself alive through concrete action.",
+      "hint": "This is one of the most direct statements in the New Testament connecting faith and action.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 2:17",
+          "quote": "So also faith of itself, if it does not have works, is dead."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-006",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each letter to its key theme.",
+      "pairs": [
+        {
+          "left": "Romans",
+          "right": "Justification by grace through faith, systematically explained"
+        },
+        {
+          "left": "Hebrews",
+          "right": "Christ as the eternal High Priest"
+        },
+        {
+          "left": "James",
+          "right": "Faith must be shown alive through works"
+        },
+        {
+          "left": "1 John",
+          "right": "God is love, and love of neighbor flows from love of God"
+        }
+      ],
+      "explanation": "Each New Testament letter addresses its own pressing pastoral concern, together forming a rich theological witness alongside the Gospels.",
+      "hint": "One is about justification, one about priesthood, one about works, one about love.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        },
+        {
+          "type": "scripture",
+          "reference": "James 2:17",
+          "quote": "So also faith of itself, if it does not have works, is dead."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-007",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "What is the central theme of Paul's Letter to the Galatians?",
+      "choices": [
+        "Justification comes through faith in Christ, not through works of the Mosaic Law such as circumcision",
+        "The order of offices in the local church",
+        "The proper conduct of the Eucharistic assembly",
+        "A detailed philosophical argument for God's existence"
+      ],
+      "correctAnswer": "Justification comes through faith in Christ, not through works of the Mosaic Law such as circumcision",
+      "explanation": "Galatians is Paul at his most polemical, responding to a specific crisis: some were insisting Gentile converts be circumcised and keep the Mosaic Law. Paul's forceful response shaped how the Church has read the relationship of faith, grace, and the Law ever since.",
+      "hint": "This letter responds to a specific controversy about circumcision and the Mosaic Law.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1991"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-008",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Revelation (the Apocalypse) is written primarily to satisfy curiosity about the precise timeline of future events.",
+      "correctAnswer": false,
+      "explanation": "False. Revelation is apocalyptic literature written to encourage a persecuted Church with the assurance that God's sovereignty will triumph \u2014 its symbolic imagery is meant to console and exhort suffering Christians, not to function as a coded almanac of future dates.",
+      "hint": "Ask what a persecuted first-century audience most needed to hear from this book.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 677"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-009",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "The Letter to the Hebrews presents Christ as the perfect and eternal High ____, superior to the Levitical priesthood he fulfills.",
+      "correctAnswer": "Priest",
+      "explanation": "Hebrews' whole argument builds toward this: the old priesthood offered repeated sacrifices that could never fully take away sin, where Christ's single, perfect self-offering accomplishes once for all what the Levitical system could only foreshadow.",
+      "hint": "The letter compares Christ's role to the Old Testament priesthood, and finds him superior to it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1544"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l10-010",
+      "topic": "sacred-scripture",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each New Testament letter to its central theme.",
+      "pairs": [
+        {
+          "left": "Galatians",
+          "right": "Justification by faith, not by works of the Law"
+        },
+        {
+          "left": "Hebrews",
+          "right": "Christ as the perfect and eternal High Priest"
+        },
+        {
+          "left": "James",
+          "right": "Faith without works is dead"
+        },
+        {
+          "left": "Revelation",
+          "right": "Assurance of God's sovereignty for a persecuted Church"
+        }
+      ],
+      "explanation": "Read together, Galatians and James have sometimes been read as though they contradict each other on faith and works \u2014 they do not, once each is read for the specific error it is actually correcting rather than pitted against the other in the abstract.",
+      "hint": "Two of these letters are sometimes wrongly read as contradicting each other on faith and works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1991"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1815"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-001",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The previous level covered the New Testament letters. Why does it actually matter to read a letter like Romans as a real, whole letter, rather than a list of individually quotable proof-texts?",
+      "choices": [
+        "A letter has its own developing argument -- a verse pulled from context can mean something different than the whole argument establishes",
+        "Because reading a real letter as a whole and reading it as isolated proof-texts always produce the exact same real meaning either way",
+        "Because Paul's own real letters actually have no real, internal structure or developing argument at all",
+        "Because a real letter's own context has no real bearing on how any single verse within it should actually be understood"
+      ],
+      "correctAnswer": "A letter has its own developing argument -- a verse pulled from context can mean something different than the whole argument establishes",
+      "explanation": "A real letter like Romans builds a real, developing argument across its own real structure -- pulling a single verse out of that real context can genuinely distort what the letter's own whole argument actually establishes.",
+      "hint": "Consider what could actually go wrong when a single sentence is lifted out of a longer, real, developing argument.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-002",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Romans 1:16-17 is often described as containing the letter's own real thesis statement, the real, central claim the rest of the letter then actually develops.",
+      "correctAnswer": true,
+      "explanation": "True, and this is a real, concrete example of why reading a letter's own real structure matters -- these verses function as a real thesis, with the rest of Romans's own real argument actually building out from this exact claim.",
+      "hint": "Recall this level's own real citation, and consider what real, structural role it actually plays within the whole letter.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-003",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "This app's own Apologetics topic already covered the real, apparent tension between Romans 3:28 ('justified by faith apart from works') and James 2:24 ('justified by works and not by faith alone'). How does this level's own real point about reading a letter as a whole actually help resolve that real tension?",
+      "choices": [
+        "Reading each letter's whole argument shows Paul and James answer different real questions, not contradicting each other",
+        "This level's own real point actually has no bearing on that specific real tension at all",
+        "Reading each letter as a whole actually proves Paul and James genuinely contradict one another",
+        "This real tension can only actually be resolved by simply ignoring one of the two real letters entirely"
+      ],
+      "correctAnswer": "Reading each letter's whole argument shows Paul and James answer different real questions, not contradicting each other",
+      "explanation": "This is a real, direct, practical application of this level's own real point -- reading each letter's own whole, real argument in context shows Paul and James are genuinely answering different real questions (initial justification versus a living, active faith), not contradicting each other on the exact same real question.",
+      "hint": "Recall this app's own Apologetics topic's own earlier real treatment of this exact apparent tension.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 2:24",
+          "quote": "See how a person is justified by works and not by faith alone."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-004",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: James 2:17 ('faith of itself, if it does not have works, is dead') actually shows James is concerned with a living, active faith, not denying Paul's own real teaching that initial justification comes through faith.",
+      "correctAnswer": true,
+      "explanation": "True, and reading this verse within James's own real, whole argument -- not in isolation -- shows James's own real concern is a living, active faith that actually produces real works, not a denial of Paul's own real teaching on initial justification through faith.",
+      "hint": "Consider what real, whole point James's own letter is actually making about the kind of faith that saves.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 2:17",
+          "quote": "So also faith of itself, if it does not have works, is dead."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-005",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, practical habit does this level actually recommend for reading any New Testament letter well?",
+      "choices": [
+        "Reading a whole letter or substantial section first, before focusing on any single verse",
+        "Reading only a single, isolated verse at a time, with no real attention to its own surrounding context ever needed",
+        "Skipping the real, opening and closing sections of a letter, since only the real middle actually matters",
+        "Assuming every New Testament letter actually has an identical real structure, with no need to read each one individually"
+      ],
+      "correctAnswer": "Reading a whole letter or substantial section first, before focusing on any single verse",
+      "explanation": "This is a real, practical, achievable habit -- reading a whole letter or a substantial real section first, before zooming in on any single verse, actually lets a reader grasp the real, developing argument a letter is making before examining its own real parts.",
+      "hint": "Consider a real, practical, achievable reading habit that would actually let someone grasp a letter's whole real argument first.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-006",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: This level's own real method -- reading a whole argument before isolating a single verse -- is the same real discipline this topic's own earlier level on genre already established.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this shared real method matters -- both levels practice the same underlying real discipline: attending to a passage's own real, actual form and context before drawing a real, isolated conclusion.",
+      "hint": "Recall this topic's own earlier level on why genre matters for reading Scripture well.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-007",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each fact about reading a real letter as a letter to what it actually means.",
+      "pairs": [
+        {
+          "left": "A letter's own real, developing argument",
+          "right": "A single verse pulled from context can mean something genuinely different from the whole"
+        },
+        {
+          "left": "Romans 1:16-17",
+          "right": "Functions as the letter's own real thesis, developed across the whole letter"
+        },
+        {
+          "left": "Paul and James, read in their own real contexts",
+          "right": "Answering genuinely different real questions, not contradicting one another"
+        },
+        {
+          "left": "A real, practical reading habit",
+          "right": "Reading a whole letter or substantial section before isolating any single verse"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, practical method for reading New Testament letters well -- as real, whole arguments, not lists of proof-texts.",
+      "hint": "Two rows explain why reading in context matters; two apply it to a real, concrete example and a real, practical habit.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-008",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Having now shown how to read a real letter as a letter, this topic's next level turns to the senses of Scripture and real interpretation.",
+      "correctAnswer": true,
+      "explanation": "True. Having established the real importance of context within a single letter, this topic's next level turns to a real, broader framework for interpreting Scripture as a whole.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-009",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, general lesson does this level's own real resolution of the Paul-James tension teach about resolving apparent real contradictions in Scripture generally?",
+      "choices": [
+        "Many apparent contradictions dissolve once a passage is read within its own whole context, not in isolation",
+        "Every apparent real contradiction in Scripture actually requires abandoning one of the two real texts involved",
+        "Apparent real contradictions in Scripture can never actually be resolved by any real, careful method",
+        "Context has no real, meaningful bearing on whether two real passages actually contradict each other"
+      ],
+      "correctAnswer": "Many apparent contradictions dissolve once a passage is read within its own whole context, not in isolation",
+      "explanation": "This level's own real lesson, drawn from the Paul-James case, is a real, general one worth carrying forward -- many apparent contradictions actually dissolve once each real passage is read within its own real, whole context, exactly the real habit this topic's later levels on objections will keep practicing.",
+      "hint": "Consider what actually resolved the apparent Paul-James tension in this level's own real example.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "James 2:24",
+          "quote": "See how a person is justified by works and not by faith alone."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l11-010",
+      "topic": "sacred-scripture",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given this level's picture of reading a real letter as a whole, what does the next level in this topic turn to?",
+      "choices": [
+        "The senses of Scripture and real interpretation",
+        "A complete repeat of this same level's material about reading letters in context",
+        "A jump ahead to precise textual-criticism vocabulary, skipping over everything in between",
+        "A subject entirely unrelated to Scripture or its own real interpretation"
+      ],
+      "correctAnswer": "The senses of Scripture and real interpretation",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from context within a single letter to a real, broader framework for interpreting Scripture as a whole.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 1:16-17",
+          "quote": "For I am not ashamed of the gospel. It is the power of God for the salvation of everyone who believes... For in it is revealed the righteousness of God from faith to faith; as it is written, 'The one who is righteous by faith will live.'"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-001",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "The Catechism lists several senses of Scripture beyond the literal sense. Together these additional senses are called the:",
+      "choices": [
+        "Spiritual senses (allegorical, moral, and anagogical)",
+        "Historical senses",
+        "Apocryphal senses",
+        "Vernacular senses"
+      ],
+      "correctAnswer": "Spiritual senses (allegorical, moral, and anagogical)",
+      "explanation": "Beyond the literal sense (what the words directly mean), Catholic tradition reads Scripture for its spiritual senses -- how it points to Christ, teaches right action, and points toward our final destiny.",
+      "hint": "Three senses, all beyond the plain literal meaning of the words.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115-118",
+          "quote": "According to an ancient tradition, one can distinguish between two senses of Scripture: the literal and the spiritual, the latter being subdivided into the allegorical, moral and anagogical senses."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-002",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The 'literal sense' of Scripture, in Catholic interpretation, means always reading every passage as a strict, scientifically precise historical report, regardless of its literary form.",
+      "correctAnswer": false,
+      "explanation": "The literal sense means the meaning conveyed by the words themselves, discovered through sound interpretation that respects the author's own literary form -- poetry, parable, and historical narrative are all read according to what they actually are.",
+      "hint": "The literal sense respects what kind of writing a passage actually is -- poem, parable, history, and so on.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116",
+          "quote": "The literal sense is the meaning conveyed by the words of Scripture and discovered by exegesis, following the rules of sound interpretation."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-003",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The Catechism teaches that Sacred Scripture must be read and interpreted 'in the light of the same ____' by which it was written -- that is, with the guidance of the Holy Spirit.",
+      "correctAnswer": "Spirit",
+      "explanation": "Because the Holy Spirit inspired Scripture's human authors, faithful interpretation requires reading it in that same Spirit, within the living Tradition of the Church that first received it.",
+      "hint": "This is the same divine Person who inspired the biblical authors in the first place.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 111",
+          "quote": "Sacred Scripture must be read and interpreted in the light of the same Spirit by whom it was written."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-004",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Which of the following is NOT one of the Catechism's three criteria for interpreting Scripture 'in accordance with the Spirit'?",
+      "choices": [
+        "Purely private interpretation, independent of the Church's living Tradition",
+        "Attention to the content and unity of the whole of Scripture",
+        "Reading Scripture within the living Tradition of the Church",
+        "Attention to the analogy of faith"
+      ],
+      "correctAnswer": "Purely private interpretation, independent of the Church's living Tradition",
+      "explanation": "The Catechism's three actual criteria all situate the individual reader within the Church's living Tradition and the coherence of the whole faith -- not apart from it.",
+      "hint": "Three of these four criteria all point back to the Church's own living Tradition; one explicitly cuts against it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 112-114",
+          "quote": "Be especially attentive 'to the content and unity of the whole Scripture'... read the Scripture within 'the living Tradition of the whole Church'... be attentive to the analogy of faith."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-005",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The Catechism teaches that all the books and parts of Scripture are one, because all of Scripture is inspired by one and the same God.",
+      "correctAnswer": true,
+      "explanation": "This is the first of the Catechism's criteria for interpreting Scripture -- reading with attention to the content and unity of the whole, since one divine author stands behind every book.",
+      "hint": "This is about Scripture's underlying unity, despite its many human authors and books.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 112",
+          "quote": "Be especially attentive 'to the content and unity of the whole Scripture,' [since] Scripture is a unity by reason of the unity of God's plan, of which Christ Jesus is the center and heart."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-006",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each sense of Scripture to its focus.",
+      "pairs": [
+        {
+          "left": "Literal sense",
+          "right": "The meaning intended by the human author's own words"
+        },
+        {
+          "left": "Allegorical sense",
+          "right": "How events and figures point to Christ"
+        },
+        {
+          "left": "Moral sense",
+          "right": "How Scripture teaches us to act justly"
+        },
+        {
+          "left": "Anagogical sense",
+          "right": "How realities point toward our eternal destiny"
+        }
+      ],
+      "explanation": "These four senses, working together, let the same passage of Scripture speak on multiple levels at once -- what it plainly says, and what it points beyond itself toward.",
+      "hint": "One sense is about the plain words; three others point toward Christ, right action, or eternity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 115-118",
+          "quote": "According to an ancient tradition, one can distinguish between two senses of Scripture: the literal and the spiritual, the latter being subdivided into the allegorical, moral and anagogical senses."
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-007",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Why does the Catechism insist that attention to the literal sense must come before any spiritual reading?",
+      "choices": [
+        "Because the spiritual senses build on and presuppose what the human author actually intended to convey, rather than replacing it",
+        "Because the spiritual senses are unnecessary once the literal sense is established",
+        "Because the literal sense is the only sense the Church actually endorses",
+        "Because the spiritual senses were invented independently of the literal text"
+      ],
+      "correctAnswer": "Because the spiritual senses build on and presuppose what the human author actually intended to convey, rather than replacing it",
+      "explanation": "A spiritual reading detached from the literal sense becomes arbitrary \u2014 anything could mean anything. Grounding the spiritual senses in the literal sense first is what keeps typology and allegory disciplined rather than free-floating.",
+      "hint": "Ask what would happen to spiritual interpretation if it had no anchor in what the text actually says.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-008",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The 'moral sense' of Scripture concerns what a passage teaches us to do, for a just life.",
+      "correctAnswer": true,
+      "explanation": "True. Alongside the allegorical sense (Christ's presence in the text) and the anagogical sense (its meaning for our eternal destiny), the moral sense asks what a passage teaches about acting justly here and now \u2014 a practical dimension of reading Scripture.",
+      "hint": "Of the three spiritual senses, this one concerns present action.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1117"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-009",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "What are the Catechism's three criteria for interpreting Scripture 'in accordance with the Spirit who inspired it'?",
+      "choices": [
+        "Attention to the content and unity of the whole of Scripture, reading within the living Tradition of the Church, and being attentive to the analogy of faith",
+        "Attention only to the original Hebrew or Greek grammar",
+        "Consulting only the earliest surviving manuscripts",
+        "Relying exclusively on a single Church Father's interpretation"
+      ],
+      "correctAnswer": "Attention to the content and unity of the whole of Scripture, reading within the living Tradition of the Church, and being attentive to the analogy of faith",
+      "explanation": "These three criteria work together to prevent an isolated verse from being read against the coherence of the whole: unity keeps a passage from contradicting the rest of the Bible, Tradition keeps interpretation from floating free of the Church's living understanding, and the analogy of faith checks a reading against the connection of all doctrines to each other.",
+      "hint": "One criterion concerns the whole Bible, one concerns the Church's living understanding, one concerns doctrine's own coherence.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 112"
+        }
+      ]
+    },
+    {
+      "id": "sacred-scripture-l12-010",
+      "topic": "sacred-scripture",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each sense of Scripture to its focus.",
+      "pairs": [
+        {
+          "left": "Literal sense",
+          "right": "What the human author intended to convey"
+        },
+        {
+          "left": "Allegorical sense",
+          "right": "How the events point to Christ"
+        },
+        {
+          "left": "Moral sense",
+          "right": "How the text teaches us to act justly"
+        },
+        {
+          "left": "Anagogical sense",
+          "right": "How the text points to our eternal destiny"
+        }
+      ],
+      "explanation": "The three spiritual senses do not compete with the literal sense; they build on it. A reading that skips the literal sense entirely, moving straight to allegory, has lost the anchor the Catechism insists on keeping.",
+      "hint": "Three of these are the 'spiritual senses,' built on the foundation of the first.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 117"
+        }
+      ]
+    }
+  ]
+}
