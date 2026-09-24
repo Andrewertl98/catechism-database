@@ -1,0 +1,804 @@
+{
+  "_comment": "Prayer levels 16-18: pastoral difficulties and doubts (remapped old L7), the Examen as a further daily habit, the Trinity/kataphatic-apophatic/guides for prayer (remapped old L8)",
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l16-001",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Someone says, 'I used to feel close to God when I prayed, but now prayer just feels dry and empty -- I think it doesn't work anymore.' Per CCC 2727-2733, what is the more accurate way to understand this experience?",
+      "choices": [
+        "This sounds like spiritual dryness, a real and common experience in the life of prayer that is not the same as prayer failing or God being absent",
+        "This proves the person has committed a serious sin that has cut them off from God entirely",
+        "This means the person should stop praying until the feeling returns on its own",
+        "This is proof that prayer has no real spiritual effect and never did"
+      ],
+      "correctAnswer": "This sounds like spiritual dryness, a real and common experience in the life of prayer that is not the same as prayer failing or God being absent",
+      "explanation": "CCC 2731 names dryness as a real, common trial in prayer, distinct from distraction (the mind simply wandering) -- it is not evidence God has withdrawn or that prayer has stopped 'working,' but a real experience the saints themselves describe encountering, which faithfulness through rather than abandonment of prayer is the traditional response to.",
+      "hint": "The Catechism has a specific name for this exact experience, distinct from ordinary distraction.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731",
+          "quote": "Dryness belongs to contemplative prayer when the heart is separated from God, with no taste for thoughts, memories, and feelings, even spiritual ones. This is the moment of sheer faith clinging faithfully to Jesus in his agony and in his tomb."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-002",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "An objector cites Matthew 6:7 ('do not babble like the pagans... they think they will be heard because of their many words') to argue the Rosary is 'vain repetition.' Using CCC 2668, what is the accurate response?",
+      "choices": [
+        "Matthew 6:7 condemns empty, faithless babbling meant to manipulate God with sheer word-count, not repeated prayer offered with attention and love, which the Church distinguishes as a different thing entirely",
+        "The Church agrees the Rosary is exactly the practice Matthew 6:7 condemns",
+        "Matthew 6:7 has been formally removed from the Catholic canon of Scripture",
+        "Repetition of any kind in prayer has never been practiced by any saint"
+      ],
+      "correctAnswer": "Matthew 6:7 condemns empty, faithless babbling meant to manipulate God with sheer word-count, not repeated prayer offered with attention and love, which the Church distinguishes as a different thing entirely",
+      "explanation": "CCC 2668 situates repeated invocation (like the Jesus Prayer, and by extension the Rosary's repeated Hail Marys) as a form of continual prayer rooted in attention and love, not the manipulative, faithless 'babbling' Matthew 6:7 actually condemns -- the target of Jesus's warning is the attitude behind the words, not repetition itself.",
+      "hint": "The key distinction is the attitude behind the words -- manipulative word-count versus attentive, loving repetition.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:7",
+          "quote": "In praying, do not babble like the pagans, who think that they will be heard because of their many words."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2668",
+          "quote": "The invocation of the holy name of Jesus is the simplest way of praying always... the prayer is not lost by heaping up empty phrases, but holds fast to the word and 'brings forth fruit with patience.'"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-003",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "A child asks, 'If God already knows what I need, why do I have to ask for it in prayer?' Applying CCC 2736's answer, what is the most accurate response?",
+      "choices": [
+        "Asking in prayer is part of how God has willed to draw us into a real relationship of trust and dependence on Him, not information He is otherwise missing",
+        "God does not actually know what we need until we tell Him in prayer",
+        "Petitionary prayer is only a formality with no real spiritual purpose",
+        "Asking for things is discouraged in Catholic prayer; only adoration is truly valid"
+      ],
+      "correctAnswer": "Asking in prayer is part of how God has willed to draw us into a real relationship of trust and dependence on Him, not information He is otherwise missing",
+      "explanation": "CCC 2736 teaches that petitionary prayer isn't supplying God with information He lacks -- it's part of the real, willed relationship of a child asking a Father, deepening trust and dependence rather than serving a merely informational function.",
+      "hint": "The point of asking isn't to inform God -- it's about the relationship the asking itself expresses and deepens.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2736",
+          "quote": "Are we convinced that 'we do not know how to pray as we ought'? Our Father knows what we need before we ask him, but he awaits our petition because the dignity of his children lies in their freedom."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-004",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Why does the Our Father open with 'hallowed be thy name' and 'thy kingdom come' before any petition for daily needs?",
+      "choices": [
+        "The prayer's structure places God's glory and kingdom first, teaching the one praying to seek God's things before their own -- a deliberate order, not an arbitrary sequence",
+        "The order is arbitrary and carries no theological significance",
+        "Because early petitions are considered less important than later ones",
+        "Because Jesus originally taught the petitions in a different, reversed order"
+      ],
+      "correctAnswer": "The prayer's structure places God's glory and kingdom first, teaching the one praying to seek God's things before their own -- a deliberate order, not an arbitrary sequence",
+      "explanation": "The Our Father's structure moves from petitions oriented to God (his name, his kingdom, his will) to petitions oriented to our needs (daily bread, forgiveness, deliverance) -- a deliberate ordering that shapes the one praying to seek God's things first, echoing Christ's own teaching to 'seek first the kingdom of God.'",
+      "hint": "Notice which petitions come first -- they aren't about us at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2804",
+          "quote": "The first series of petitions carries us toward him, for his own sake: thy name, thy kingdom, thy will! It is characteristic of love to think first of the one whom we love."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-005",
+      "topic": "prayer",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: A monastery continuing to pray the Divine Office's night hour even when no visitors are present reflects the principle, per Sacrosanctum Concilium 84, that the Liturgy of the Hours sanctifies the course of the day itself, not merely serves as a performance for an audience.",
+      "correctAnswer": true,
+      "explanation": "SC 84 describes the Liturgy of the Hours as extending the praise and thanksgiving of the Eucharist to sanctify the whole course of the day and night -- its value doesn't depend on an audience witnessing it, since its purpose is consecrating time itself to God, which a monastery continues whether or not anyone else is present.",
+      "hint": "The purpose named here is about time being consecrated, not about anyone watching.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 84",
+          "quote": "The divine office is devised so that the whole course of the day and night is made holy by the praises of God."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-006",
+      "topic": "prayer",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each experience or scenario to the correct traditional response.",
+      "pairs": [
+        {
+          "left": "'Prayer feels dry and empty; I think it doesn't work anymore'",
+          "right": "Spiritual dryness -- a real, common trial, not evidence prayer has failed"
+        },
+        {
+          "left": "'The Rosary is just vain repetition' (citing Matthew 6:7)",
+          "right": "Matthew 6:7 condemns manipulative babbling, not attentive repeated prayer"
+        },
+        {
+          "left": "'Why ask God for things He already knows?'",
+          "right": "Petition deepens a real relationship of trust, not supplying missing information"
+        },
+        {
+          "left": "Someone wants to quit a daily holy hour purely from restless boredom with the good itself",
+          "right": "Acedia, a form of spiritual sloth distinct from ordinary tiredness"
+        }
+      ],
+      "explanation": "CCC 2725-2745's 'battle of prayer' names these as real, distinguishable trials -- each has its own traditional diagnosis and response, rather than a single generic answer of 'just try harder.'",
+      "hint": "One of these four names a specific vice, not just a difficult feeling.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2733",
+          "quote": "More common in our own age is neither discouragement in the face of unanswered prayer nor presumption, but acedia."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-007",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Someone prayed for years that a family member would recover, and they died. They ask whether God heard. What does the Catechism's teaching on filial trust actually say?",
+      "choices": [
+        "Prayer is not a mechanism for obtaining outcomes; God answers as a Father, and the answer may not be the granting \u2014 which is not the same as not being heard",
+        "The prayer must have lacked sufficient faith",
+        "God always grants what is asked if the request is good",
+        "Unanswered prayer shows the person prayed incorrectly"
+      ],
+      "correctAnswer": "Prayer is not a mechanism for obtaining outcomes; God answers as a Father, and the answer may not be the granting \u2014 which is not the same as not being heard",
+      "explanation": "The two wrong answers that blame the person do real damage and are commonly said. Christ's own prayer in Gethsemane was not granted in the form asked. Whether to say any of this to someone freshly bereaved is a separate question \u2014 often the answer is not yet.",
+      "hint": "Consider a prayer in Scripture that was heard and not granted.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2734"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2735"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 22:42"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-008",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "Someone says they have stopped praying because they no longer feel anything when they do. What is the most useful response?",
+      "choices": [
+        "Feelings are not the measure; the Catechism treats dryness as the hour of sheer faith, and perseverance without consolation is prayer at its most costly",
+        "They should find a method that restores the feeling",
+        "The absence of feeling means God has withdrawn",
+        "They should wait until the desire returns before praying again"
+      ],
+      "correctAnswer": "Feelings are not the measure; the Catechism treats dryness as the hour of sheer faith, and perseverance without consolation is prayer at its most costly",
+      "explanation": "Equating prayer with felt experience is the assumption underneath this, and it will eventually stop anyone praying. The last option is the most damaging in practice: waiting for desire to return usually means never returning at all.",
+      "hint": "Ask what is actually being measured when someone says prayer 'isn't working'.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2742"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-009",
+      "topic": "prayer",
+      "level": 16,
+      "type": "true_false",
+      "difficultyElo": 1925,
+      "prompt": "True or False: Praying at fixed times, even when one does not feel like it, is a lesser form of prayer than praying spontaneously when moved.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism urges praying at regular hours precisely because feeling is unreliable, and a life ordered by set times of prayer is how 'pray always' becomes possible for someone with work and children. Spontaneity is good; depending on it alone means praying only when it is easy.",
+      "hint": "Ask which of the two survives a difficult month.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2742"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2743"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-010",
+      "topic": "prayer",
+      "level": 16,
+      "type": "matching_pairs",
+      "difficultyElo": 2015,
+      "prompt": "Match each thing someone says about prayer to what actually answers it.",
+      "pairs": [
+        {
+          "left": "'God knows already, so why ask?'",
+          "right": "Asking changes the one asking, and God wills to be asked"
+        },
+        {
+          "left": "'My prayer wasn't answered'",
+          "right": "Heard is not the same as granted; Gethsemane shows the difference"
+        },
+        {
+          "left": "'I feel nothing when I pray'",
+          "right": "Dryness is the hour of faith, not evidence of absence"
+        },
+        {
+          "left": "'I'm too distracted to pray well'",
+          "right": "Turn back gently; distraction reveals attachment, not disqualification"
+        }
+      ],
+      "explanation": "Each of these is usually said with real discouragement rather than as an argument. The answers matter, and the manner of giving them matters as much \u2014 delivered as corrections they confirm the person's suspicion that they were doing it wrong.",
+      "hint": "All four are more often confessions than objections.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2734"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2729"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l16-011",
+      "topic": "prayer",
+      "level": 16,
+      "type": "multiple_choice",
+      "difficultyElo": 1975,
+      "prompt": "The Ignatian Examen is a short daily review. What is it chiefly for?",
+      "choices": [
+        "Noticing where God was present and where you turned away during the day, so the pattern becomes visible over time",
+        "Producing a list of sins for confession",
+        "Assessing whether the day was productive",
+        "Deciding what to pray for tomorrow"
+      ],
+      "correctAnswer": "Noticing where God was present and where you turned away during the day, so the pattern becomes visible over time",
+      "explanation": "It is a review of a day for God's action in it, not an audit. Its power is cumulative: one Examen tells you little, a month of them shows you where you are consistently drawn and consistently defeated.\n\nTry it tonight, five steps, ten minutes: ask for light; give thanks for two specific things; walk through the day noticing where you felt most and least alive; name one thing you regret and ask pardon; choose one concrete thing for tomorrow.",
+      "hint": "Ask what accumulates from doing it every night for a month.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1779"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-001",
+      "topic": "prayer",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "The previous level covered real, pastoral difficulties and doubts about prayer -- including the Ignatian Examen, a short, daily review, briefly named there. What is the Examen actually chiefly for?",
+      "choices": [
+        "A brief, daily review noticing where God was present and where one fell short, bringing honest self-awareness into prayer",
+        "A real, lengthy theological study of the day's own events, requiring at least an hour of real, sustained analysis",
+        "The Examen actually has no real, practical purpose within a genuine, daily prayer life",
+        "A real, formal, liturgical rite that actually requires an ordained minister to actually lead it"
+      ],
+      "correctAnswer": "A brief, daily review noticing where God was present and where one fell short, bringing honest self-awareness into prayer",
+      "explanation": "This is exactly what the Examen actually is -- a brief, daily review noticing where God was present and where one fell short, bringing real, honest self-awareness into prayer, as this topic's own earlier level already named.",
+      "hint": "Recall the previous level's own real, brief mention of the Examen as a short daily review.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-002",
+      "topic": "prayer",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Examen is a real, brief, daily review, not a real, lengthy, hour-long theological study.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- the Examen's own real, brief, daily character is exactly what makes it a genuinely sustainable, further habit.",
+      "hint": "Recall this level's own real description of what the Examen actually is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-003",
+      "topic": "prayer",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "How could someone actually begin the Examen as a real, structured daily habit, in genuinely practical, real terms?",
+      "choices": [
+        "A few minutes at day's end asking two questions -- where was God present, where did I fall short -- ending in a brief prayer",
+        "Attempting a full, real, formal, hour-long theological analysis of the entire day, every single night",
+        "The Examen actually cannot be practiced without a real, trained spiritual director physically present",
+        "Waiting for a real, spontaneous urge to actually reflect, with no fixed, real, daily structure at all"
+      ],
+      "correctAnswer": "A few minutes at day's end asking two questions -- where was God present, where did I fall short -- ending in a brief prayer",
+      "explanation": "This is a real, practical, achievable way to begin the Examen -- a few real minutes, two simple questions, ending in a brief prayer, matching this topic's own recurring, real pattern of starting small and sustainable.",
+      "hint": "Recall this topic's own recurring, real pattern for beginning any new, structured, daily habit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-004",
+      "topic": "prayer",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Examen can actually be practiced in just a few real minutes, asking two simple questions, rather than requiring an hour-long, formal analysis.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical encouragement matters -- a few minutes and two simple questions is a genuinely achievable, sustainable way to actually begin.",
+      "hint": "Recall this level's own real, practical suggestion for beginning the Examen.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-005",
+      "topic": "prayer",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Why does the Examen actually fit especially well right alongside real, pastoral honesty about prayer's own real difficulties, the previous level's own real subject?",
+      "choices": [
+        "The Examen models the same honest self-awareness this topic has practiced throughout, naming difficulty rather than pretending all is fine",
+        "Because the Examen actually has no real, meaningful connection to pastoral honesty about prayer's own difficulties",
+        "Because the Examen actually requires denying any real, personal fault or difficulty ever occurred",
+        "Because the Examen actually replaces the need for any further, honest engagement with real, pastoral doubts"
+      ],
+      "correctAnswer": "The Examen models the same honest self-awareness this topic has practiced throughout, naming difficulty rather than pretending all is fine",
+      "explanation": "This is a real, direct connection -- the Examen's own real, honest self-awareness fits exactly the same real pattern this topic has practiced throughout, naming difficulty honestly rather than pretending otherwise.",
+      "hint": "Consider what real, underlying habit the Examen actually shares with this topic's own earlier, pastoral honesty.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-006",
+      "topic": "prayer",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: The Examen's own real, honest self-awareness fits the same real pattern this topic has practiced throughout in naming prayer's own real difficulties honestly.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, shared pattern matters -- both the Examen and this topic's own earlier pastoral honesty practice naming real difficulty honestly, rather than pretending otherwise.",
+      "hint": "Consider what real, underlying habit the Examen actually shares with this topic's own earlier, pastoral honesty.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-007",
+      "topic": "prayer",
+      "level": 17,
+      "type": "matching_pairs",
+      "difficultyElo": 2090,
+      "prompt": "Match each fact about the Examen as a further, real, structured daily habit to what it actually means.",
+      "pairs": [
+        {
+          "left": "The Examen, chiefly",
+          "right": "A brief, daily review noticing where God was present and where one fell short"
+        },
+        {
+          "left": "A real, practical way to begin",
+          "right": "A few real minutes, two simple questions, ending in a brief prayer"
+        },
+        {
+          "left": "Why it fits alongside pastoral honesty",
+          "right": "Both practice honest self-awareness, rather than pretending all is fine"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Turns a further, real, spiritual tool into an achievable, daily habit"
+        }
+      ],
+      "explanation": "These four facts together turn the previous level's own real, brief mention of the Examen into an actual, achievable, daily practice.",
+      "hint": "Each row gives one real, practical step for beginning the Examen as a sustainable, daily habit.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-008",
+      "topic": "prayer",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2000,
+      "prompt": "True or False: Having now covered the Examen as a further, real, structured daily habit, this topic's next level turns to the Trinity, kataphatic and apophatic prayer, and real guides for prayer.",
+      "correctAnswer": true,
+      "explanation": "True. Having built this further, real, structured habit, this topic's next level turns to the Trinity, kataphatic and apophatic prayer, and the real, traditional guides for prayer.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-009",
+      "topic": "prayer",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "What real, general habit has this level added to the previous level's own real, brief mention of the Examen?",
+      "choices": [
+        "Turning a brief mention into an actual, achievable, further daily habit, not leaving it as a passing reference",
+        "Assuming the Examen should actually never be practiced as a genuine, daily habit",
+        "Replacing the previous level's own real content with an entirely unrelated, real practice",
+        "Assuming the Examen actually requires no real, honest self-awareness at all"
+      ],
+      "correctAnswer": "Turning a brief mention into an actual, achievable, further daily habit, not leaving it as a passing reference",
+      "explanation": "This level's own real habit -- turning a brief mention into an actual, achievable habit -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, brief mention of the Examen.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l17-010",
+      "topic": "prayer",
+      "level": 17,
+      "type": "multiple_choice",
+      "difficultyElo": 2050,
+      "prompt": "Given this level's own real, further, structured daily habit, what does the next level in this topic turn to?",
+      "choices": [
+        "The Trinity, kataphatic and apophatic prayer, and real guides for prayer",
+        "A complete repeat of this same level's material about the Examen",
+        "A jump ahead to named schools of spirituality, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, daily practice"
+      ],
+      "correctAnswer": "The Trinity, kataphatic and apophatic prayer, and real guides for prayer",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from a further, daily habit to the Catechism's own real, deeper teaching on the Trinity and real guides for prayer.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-001",
+      "topic": "prayer",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Per CCC 2664-2672, the Church addresses prayer to each Person of the Trinity in a specific way rather than interchangeably. To whom is Christian prayer, in its most proper Trinitarian structure, typically addressed, and through whom?",
+      "choices": [
+        "To the Father, through the Son, in the Holy Spirit",
+        "To the Holy Spirit alone, bypassing the Father and Son",
+        "To the Son alone, since only he became incarnate",
+        "Equally and interchangeably to whichever Person feels most fitting in the moment"
+      ],
+      "correctAnswer": "To the Father, through the Son, in the Holy Spirit",
+      "explanation": "CCC 2664 describes the Church's characteristic pattern of prayer as addressed to the Father, through Christ the mediator, in the power of the Holy Spirit -- a Trinitarian structure reflecting each Person's distinct role, not an arbitrary or interchangeable choice among three equally undifferentiated addressees.",
+      "hint": "This is the same structure found at the end of most liturgical prayers ('through Christ our Lord...').",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2664",
+          "quote": "There is no other way of Christian prayer than Christ... it has access to the Father only if we pray 'in the name' of Jesus."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-002",
+      "topic": "prayer",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "The Hail Mary places praise ('full of grace,' 'blessed art thou') before its petition ('pray for us sinners'). What does this structure reflect about the Church's understanding of Mary?",
+      "choices": [
+        "Honoring Mary's unique grace and role first is fitting before asking for her intercession, reflecting her real dignity rather than treating her intercession as a mere transaction",
+        "The petition is considered more theologically important than the praise",
+        "The praise portion of the prayer was added centuries after the petition",
+        "The structure has no connection to any Marian doctrine"
+      ],
+      "correctAnswer": "Honoring Mary's unique grace and role first is fitting before asking for her intercession, reflecting her real dignity rather than treating her intercession as a mere transaction",
+      "explanation": "Just as the Our Father orders God's glory before our needs, the Hail Mary orders praise of Mary's unique grace and role in salvation history before asking for her prayers -- a structure that reflects real Marian doctrine (her fullness of grace, her motherhood of the Redeemer) rather than an arbitrary sequence.",
+      "hint": "This mirrors the same 'God's things first' structure already seen in the Our Father.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2676",
+          "quote": "By asking Mary to pray for us, we acknowledge ourselves to be poor sinners and we address ourselves to the 'Mother of Mercy,' the All-Holy One."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-003",
+      "topic": "prayer",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "CCC 2709 and 2717 distinguish kataphatic (image-using, imaginative) prayer from apophatic (imageless) prayer. A prayer practice that meditates on a Gospel scene, picturing its sights and sounds in the imagination, is best classified as which?",
+      "choices": [
+        "Kataphatic",
+        "Apophatic",
+        "Neither, since imagination has no place in any legitimate Catholic prayer",
+        "Both equally, since the two terms are interchangeable"
+      ],
+      "correctAnswer": "Kataphatic",
+      "explanation": "Kataphatic prayer actively uses images, imagination, and concepts -- picturing a Gospel scene is a classic kataphatic approach, contrasted with apophatic prayer's movement beyond images and concepts toward a more direct, wordless resting in God's presence. Both are legitimate, complementary approaches within the Church's prayer tradition.",
+      "hint": "This term comes from the Greek for 'affirmative' or 'image-using,' as opposed to 'without images.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-004",
+      "topic": "prayer",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: The 'cloud of witnesses' in Hebrews 12:1 is connected by CCC 2683 to the Church's teaching that the saints in heaven can be asked to intercede for us.",
+      "correctAnswer": true,
+      "explanation": "CCC 2683 draws on the image of the 'great cloud of witnesses' surrounding believers (Hebrews 12:1) as scriptural grounding for the Church's practice of asking the saints, who already share in God's glory, to intercede for those still on the earthly journey -- witnesses who are also companions in prayer, not merely spectators.",
+      "hint": "The image is witnesses surrounding and accompanying us, not just watching from a distance -- which is why they can be asked to pray for us.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Hebrews 12:1",
+          "quote": "Therefore, since we are surrounded by so great a cloud of witnesses, let us rid ourselves of every burden and sin that clings to us and persevere in running the race that lies before us."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2683",
+          "quote": "The witnesses who have preceded us into the kingdom... share in the living tradition of prayer by the example of their lives, the transmission of their writings, and their prayer today."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-005",
+      "topic": "prayer",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "CCC 2685-2696 names several 'guides for prayer,' including the family, ordained ministers, religious life, and spiritual direction. Which of these is described as prayer's 'first school'?",
+      "choices": [
+        "The Christian family",
+        "A monastery",
+        "A diocesan seminary",
+        "A retreat center"
+      ],
+      "correctAnswer": "The Christian family",
+      "explanation": "CCC 2685 describes the Christian family as the 'domestic church' and the 'first school of prayer,' where children first learn to pray by seeing and joining their parents at prayer -- before any more formal guide (a priest, religious community, or spiritual director) enters the picture.",
+      "hint": "This 'school' has no classroom or formal curriculum -- it's simply where prayer is first modeled and learned.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-006",
+      "topic": "prayer",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each item to what CCC 2663-2696 teaches about it.",
+      "pairs": [
+        {
+          "left": "Prayer's Trinitarian structure",
+          "right": "To the Father, through the Son, in the Holy Spirit"
+        },
+        {
+          "left": "The Hail Mary's praise-then-petition structure",
+          "right": "Honors Mary's real dignity before asking her intercession"
+        },
+        {
+          "left": "Kataphatic prayer",
+          "right": "Actively uses images and imagination, e.g. picturing a Gospel scene"
+        },
+        {
+          "left": "The Jesus Prayer (CCC 2667) and Western invocation of the Holy Name",
+          "right": "Two forms answering the same need, shared inheritance rather than competing traditions"
+        }
+      ],
+      "explanation": "CCC 2667 itself frames the Jesus Prayer as part of the Church's shared inheritance, not an exotic Eastern alternative to 'normal' Western prayer -- this level compares real methods without ranking one as more authentically Catholic than another.",
+      "hint": "The last pairing is explicit about not treating East and West as competing options.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2667",
+          "quote": "The most usual formulation... 'Lord Jesus Christ, Son of God, have mercy on us sinners'... combines the Christological hymn of Philippians 2:6-11 with the cry of the publican and the blind men begging for light."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-007",
+      "topic": "prayer",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "The Jesus Prayer \u2014 'Lord Jesus Christ, Son of God, have mercy on me, a sinner' \u2014 is valued in the tradition chiefly because:",
+      "choices": [
+        "It unites the invocation of the holy name with the humility of the tax collector, and can be prayed continually until it accompanies the breath",
+        "It is the shortest possible prayer",
+        "It replaces the need for liturgical prayer",
+        "It guarantees contemplative experience when repeated enough"
+      ],
+      "correctAnswer": "It unites the invocation of the holy name with the humility of the tax collector, and can be prayed continually until it accompanies the breath",
+      "explanation": "The prayer joins two things: the holy Name, which the tradition holds is itself powerful, and the publican's plea, which keeps the one praying in the truth about himself. The last option is precisely the error to avoid \u2014 no repetition produces contemplation, which is given and not extracted.",
+      "hint": "Two Gospel elements are combined here: a name, and a sinner's words.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2667"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2668"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 18:13"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-008",
+      "topic": "prayer",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Prayer addressed to the Holy Spirit is unusual in the tradition, since prayer is normally offered to the Father through the Son.",
+      "correctAnswer": false,
+      "explanation": "False. The ordinary movement of liturgical prayer is to the Father through the Son in the Spirit, but the Church also prays to the Spirit directly \u2014 Veni Creator, Veni Sancte Spiritus \u2014 and the Catechism treats invoking him as the simplest and most direct way to enter prayer at all.",
+      "hint": "Recall two hymns sung at Pentecost and at confirmations.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2670"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2671"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-009",
+      "topic": "prayer",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "What is the danger in treating apophatic prayer as simply superior to kataphatic prayer?",
+      "choices": [
+        "It mistakes a difference of mode for a scale of value, and can lead someone to abandon images before they are actually being drawn beyond them",
+        "Apophatic prayer is forbidden",
+        "Kataphatic prayer is only for beginners",
+        "Images are always obstacles to God"
+      ],
+      "correctAnswer": "It mistakes a difference of mode for a scale of value, and can lead someone to abandon images before they are actually being drawn beyond them",
+      "explanation": "The Incarnation makes imageless prayer a strange thing to treat as automatically higher; God gave himself an image. Emptying the mind on purpose because one has read that the advanced do so is a technique, and the whole point of apophatic prayer is that it is not one.",
+      "hint": "Ask whether God's own self-revelation was imageless.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2717"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l18-010",
+      "topic": "prayer",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each guide for prayer to what the Catechism says it provides.",
+      "pairs": [
+        {
+          "left": "The family",
+          "right": "The first place where prayer is learned, day by day"
+        },
+        {
+          "left": "Ordained ministers",
+          "right": "Formation of the faithful in the life of prayer"
+        },
+        {
+          "left": "Consecrated life",
+          "right": "A form of life ordered wholly toward contemplation"
+        },
+        {
+          "left": "A spiritual director",
+          "right": "Personal accompaniment in discernment"
+        }
+      ],
+      "explanation": "The first is easy to overlook and hardest to substitute for. The Catechism calls the family the domestic church and the first school of prayer \u2014 nothing later fully replaces having seen adults pray.",
+      "hint": "One of these comes before any institution and is the hardest to replace.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2686"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2687"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    }
+  ]
+}
