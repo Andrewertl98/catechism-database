@@ -1,0 +1,923 @@
+{
+  "_comment": "Church Latin levels 12-14: theological terms of art (remapped old L5), using terms of art precisely, real Latin hymns and Advent O Antiphons (remapped old L6, 18 questions)",
+  "topic": "church-latin",
+  "questions": [
+    {
+      "id": "church-latin-l12-001",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "'In nomine Patris, et Filii, et Spiritus Sancti' -- the words accompanying the Sign of the Cross -- means:",
+      "choices": [
+        "In the name of the Father, and of the Son, and of the Holy Spirit",
+        "By the power of the Father, Son, and Holy Spirit",
+        "In memory of the Father, Son, and Holy Spirit",
+        "Through the grace of the Father, Son, and Holy Spirit"
+      ],
+      "correctAnswer": "In the name of the Father, and of the Son, and of the Holy Spirit",
+      "explanation": "This formula echoes Christ's own words instituting Baptism, and marks the beginning and end of most Catholic prayers, invoking the Trinity by name.",
+      "hint": "This phrase directly echoes Christ's own words at the institution of Baptism.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Baptizing them in the name of the Father, and of the Son, and of the holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-002",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: The word 'consubstantialem' ('consubstantial'), used in the Nicene Creed to describe the Son's relationship to the Father, was specifically adopted to refute the Arian heresy.",
+      "correctAnswer": true,
+      "explanation": "The council chose this precise term -- declaring the Son 'of one substance' with the Father -- specifically to close off any Arian reading that would make the Son a lesser, created being rather than true God.",
+      "hint": "This council convened in 325 specifically to answer a priest named Arius.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-003",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "The motto of the Order of Preachers (Dominicans), 'Veritas,' is simply the Latin word for '____.'",
+      "correctAnswer": "truth",
+      "explanation": "This single Latin word sums up the Dominican charism -- a religious order especially devoted to study, preaching, and the pursuit and defense of revealed and philosophical truth.",
+      "hint": "This is exactly the kind of thing Fides et Ratio spends a whole encyclical defending the pursuit of.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-004",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "'Magisterium,' the Church's official teaching authority, comes from the Latin 'magister,' meaning:",
+      "choices": [
+        "Teacher or master",
+        "King or ruler",
+        "Servant",
+        "Judge"
+      ],
+      "correctAnswer": "Teacher or master",
+      "explanation": "The word ties the Church's teaching office directly to the image of a master teacher -- authoritative not by force, but by responsibility for faithfully handing on and explaining the truth entrusted to the Church.",
+      "hint": "This word is also the root of the English word 'magistrate' and 'maestro.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-005",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: 'Imprimatur,' printed in the front of many Catholic books, is Latin for 'let it be printed,' indicating a bishop has found nothing doctrinally objectionable in the text.",
+      "correctAnswer": true,
+      "explanation": "An imprimatur is not a papal endorsement of everything a book says -- it simply certifies that a bishop, exercising the Church's teaching oversight, found nothing contrary to faith and morals in it.",
+      "hint": "This Latin phrase literally grants permission for something to happen -- specifically, to be printed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God... has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-006",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each Latin term to its meaning.",
+      "pairs": [
+        {
+          "left": "Sacramentum",
+          "right": "Originally a soldier's oath; root of 'sacrament'"
+        },
+        {
+          "left": "Magisterium",
+          "right": "From 'magister' (teacher); the Church's teaching authority"
+        },
+        {
+          "left": "Veritas",
+          "right": "Truth (the Dominican motto)"
+        },
+        {
+          "left": "Imprimatur",
+          "right": "'Let it be printed' -- a bishop's doctrinal approval of a text"
+        }
+      ],
+      "explanation": "Fluency in terms like these unlocks a whole vocabulary the Church has used for centuries to describe her own authority, sacraments, and mission -- reading them well means reading the Church's own self-description more clearly.",
+      "hint": "Two of these terms are about the Church's teaching function; two are about sacred realities and permissions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God... has been entrusted to the living teaching office of the Church alone."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1113",
+          "quote": "There are seven sacraments in the Church: Baptism, Confirmation or Chrismation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "church-latin-l12-007",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "'Ex opere operato,' describing how the sacraments act, is best rendered:",
+      "choices": [
+        "By the very fact of the action being performed",
+        "By the worthiness of the minister",
+        "By the fervour of the recipient",
+        "By the authority of the bishop"
+      ],
+      "correctAnswer": "By the very fact of the action being performed",
+      "explanation": "'Ex opere operato' means the sacrament's efficacy comes from Christ's saving work through the rite itself, not from the holiness of the minister. It is precisely what protects a communicant from having to assess the priest's interior state.",
+      "hint": "The phrase locates the power in the act, not in either person involved.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-008",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: 'Sensus fidei,' the 'sense of the faith' belonging to the whole body of believers, refers to a supernatural instinct for the truth of the faith, not merely to majority opinion among Catholics.",
+      "correctAnswer": true,
+      "explanation": "True. The sensus fidei is described as a supernatural appreciation of the faith aroused by the Holy Spirit in the whole People of God. It is not a poll: a widespread opinion is not automatically the sensus fidei, which is why the term cannot be used to overrule what the Church teaches.",
+      "hint": "Ask whether an instinct given by the Spirit and a headcount of opinions are the same thing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 91-93"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-009",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "'Opus Dei,' St. Benedict's name for the Liturgy of the Hours, means 'the ____ of God.'",
+      "correctAnswer": "work",
+      "explanation": "'Opus' is 'work.' Benedict calls the Hours the Work of God because for a monk the sung prayer of the Church is not a break from labour but the central labour itself -- the term reorders what counts as productive.",
+      "hint": "Same root as 'opera' -- literally, works.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1174"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l12-010",
+      "topic": "church-latin",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each Latin term of art to what it actually names.",
+      "pairs": [
+        {
+          "left": "Ex cathedra",
+          "right": "A pope teaching definitively from the chair of Peter"
+        },
+        {
+          "left": "Ex opere operato",
+          "right": "Sacramental efficacy from the rite itself, not the minister"
+        },
+        {
+          "left": "Sensus fidei",
+          "right": "The believing instinct of the whole People of God"
+        },
+        {
+          "left": "Lex orandi",
+          "right": "The Church's rule of prayer, expressing her belief"
+        }
+      ],
+      "explanation": "All four are frequently misused. Each names something narrow and specific: a rare mode of papal teaching, a claim about where sacramental power comes from, a Spirit-given instinct rather than an opinion poll, and the doctrinal seriousness of liturgical texts.",
+      "hint": "Two are about the sacraments and the papacy; two are about where the faith is sensed and expressed.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "church-latin-l13-001",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "The previous level covered several real, theological terms of art -- Magisterium, ex opere operato, sensus fidei. A real, common misuse actually calls any individual, real theologian's own private opinion 'the Magisterium's own teaching.' What is the real, precise correction?",
+      "choices": [
+        "The Magisterium is the Church's official teaching authority, exercised by the pope and bishops in communion with him -- not any theologian's private opinion",
+        "This real, usage is actually correct -- any sufficiently learned, real theologian's own opinion actually does count as the Magisterium's own teaching",
+        "'Magisterium' actually has no real, precise, technical meaning at all, and can be genuinely used for any real, theological claim",
+        "The Magisterium actually refers exclusively to real, academic theology faculties, never to the pope and bishops"
+      ],
+      "correctAnswer": "The Magisterium is the Church's official teaching authority, exercised by the pope and bishops in communion with him -- not any theologian's private opinion",
+      "explanation": "This is a real, precise, important correction -- the Magisterium actually names the Church's own official teaching authority, exercised specifically by the pope and bishops in communion with him, not any individual theologian's own private opinion.",
+      "hint": "Recall the previous level's own real definition of 'Magisterium,' and consider who actually exercises it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-002",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: Calling any individual, real theologian's own private opinion 'the Magisterium's own teaching' is actually a precise, correct use of the term.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, precise distinction matters -- the Magisterium actually names the Church's own official teaching authority, not any individual theologian's own private, personal opinion.",
+      "hint": "Recall this level's own real, precise correction about who actually exercises the Magisterium.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-003",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "'Ex opere operato' describes how the sacraments actually act -- 'from the work worked,' by the real, objective action itself, not by the real, personal holiness of the minister. What real, precise, practical use does this real, technical term actually serve?",
+      "choices": [
+        "It actually reassures a real, sincere recipient that a sacrament's own real validity doesn't actually depend on the minister's own real, personal, moral worthiness",
+        "It actually means the real, personal disposition of the recipient has no bearing whatsoever on the sacrament's own real fruitfulness",
+        "It actually means any real, minister's own grave, personal sin genuinely invalidates every real sacrament he confers",
+        "This real, technical term actually has no genuine, practical use beyond real, abstract, academic theology"
+      ],
+      "correctAnswer": "It actually reassures a real, sincere recipient that a sacrament's own real validity doesn't actually depend on the minister's own real, personal, moral worthiness",
+      "explanation": "This is a real, precise, practical use for this technical term -- 'ex opere operato' reassures a sincere recipient that a sacrament's own real validity rests on Christ's own real action, not the minister's own personal, moral worthiness.",
+      "hint": "Recall the previous level's own real definition of 'ex opere operato,' and consider what real, practical reassurance it actually provides.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-004",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: 'Ex opere operato' reassures a sincere recipient that a sacrament's own real validity doesn't depend on the minister's own personal, moral worthiness.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- this precise, technical term actually serves a genuine, pastoral purpose, not merely an academic one.",
+      "hint": "Recall this level's own real point about what 'ex opere operato' actually reassures a sincere recipient of.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-005",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "Someone assumes 'sensus fidei' -- the 'sense of the faith' belonging to the whole body of believers -- actually means whatever most Catholics happen to currently believe is automatically, real doctrine. What is the real, precise correction?",
+      "choices": [
+        "'Sensus fidei' names a genuine, supernatural instinct operating in harmony with the Magisterium, not an independent vote overriding it",
+        "This real, assumption is actually entirely correct -- majority, popular opinion among Catholics automatically actually becomes real doctrine",
+        "'Sensus fidei' actually has no genuine, real, technical meaning at all within Catholic theology",
+        "'Sensus fidei' actually applies only to real, ordained clergy, never to the ordinary, real lay faithful"
+      ],
+      "correctAnswer": "'Sensus fidei' names a genuine, supernatural instinct operating in harmony with the Magisterium, not an independent vote overriding it",
+      "explanation": "This is a real, precise, important correction -- 'sensus fidei' names a genuine, supernatural instinct operating in real harmony with the Magisterium, not an independent, popular vote that could actually override it.",
+      "hint": "Recall the previous level's own real definition of 'sensus fidei,' and consider its own real, precise relationship to the Magisterium.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-006",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: 'Sensus fidei' actually operates in real harmony with the Magisterium's own teaching, not as an independent, popular vote that could genuinely override it.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, precise distinction matters -- 'sensus fidei' and the Magisterium actually work together, not in real, independent competition.",
+      "hint": "Recall this level's own real point about 'sensus fidei's' own real, precise relationship to the Magisterium.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-007",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "matching_pairs",
+      "difficultyElo": 1790,
+      "prompt": "Match each real, theological term of art to its own, precise, correct real use.",
+      "pairs": [
+        {
+          "left": "Magisterium",
+          "right": "The Church's own official teaching authority, not any theologian's private opinion"
+        },
+        {
+          "left": "Ex opere operato",
+          "right": "A sacrament's validity doesn't depend on the minister's own personal worthiness"
+        },
+        {
+          "left": "Sensus fidei",
+          "right": "A supernatural instinct operating in harmony with the Magisterium, not an independent vote"
+        },
+        {
+          "left": "Why precision matters here",
+          "right": "Prevents real, common, careless misuses of genuinely precise, technical terms"
+        }
+      ],
+      "explanation": "These four facts together turn the previous level's own real, bare definitions into precise, correctly applied, theological vocabulary.",
+      "hint": "Each row corrects one real, common, careless misuse of a precise, theological term.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-008",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "true_false",
+      "difficultyElo": 1700,
+      "prompt": "True or False: Having now practiced using theological terms of art precisely, this topic's next level turns to real Latin hymns, including the Advent O Antiphons.",
+      "correctAnswer": true,
+      "explanation": "True. Having practiced this real, precise, technical use, this topic's next level turns to real, Latin hymns, including the Advent O Antiphons.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-009",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "What real, general habit has this level added to the previous level's own real, theological terms of art?",
+      "choices": [
+        "Correcting real, common, careless misuses, turning bare definitions into precise, correctly applied, theological vocabulary",
+        "Assuming every real, common, careless misuse of a technical term is actually harmless and unimportant",
+        "Replacing the previous level's own real terms with an entirely unrelated, real subject",
+        "Assuming precise, real, technical vocabulary actually has no genuine, practical use beyond academic theology"
+      ],
+      "correctAnswer": "Correcting real, common, careless misuses, turning bare definitions into precise, correctly applied, theological vocabulary",
+      "explanation": "This level's own real habit -- correcting common misuses -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, theological terms of art.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l13-010",
+      "topic": "church-latin",
+      "level": 13,
+      "type": "multiple_choice",
+      "difficultyElo": 1750,
+      "prompt": "Given this level's own real, precise use of theological terms of art, what does the next level in this topic turn to?",
+      "choices": [
+        "Real Latin hymns, including the Advent O Antiphons",
+        "A complete repeat of this same level's material about theological terms of art",
+        "A jump ahead to grammatical analysis, skipping over everything in between",
+        "A subject entirely unrelated to Latin or real, theological vocabulary"
+      ],
+      "correctAnswer": "Real Latin hymns, including the Advent O Antiphons",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from precise, theological terms to real, Latin hymns and the Advent O Antiphons.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-001",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "Tantum Ergo's line 'praestet fides supplementum sensuum defectui' is often sung in English as roughly 'faith our outward sense befriending, makes our inward vision clear.' A more literal rendering is 'let faith supply a supplement for the deficiency of the senses.' Which structural feature does the more literal rendering preserve that the common singing translation risks softening?",
+      "choices": [
+        "Faith's active role as the very thing that supplies for what the senses cannot perceive regarding the Real Presence, not merely 'helping' or 'clarifying' an already-functioning sense",
+        "The line's reference to the Trinity",
+        "The meter needed for the hymn to be sung to its traditional tune",
+        "The grammatical case of the word 'fides'"
+      ],
+      "correctAnswer": "Faith's active role as the very thing that supplies for what the senses cannot perceive regarding the Real Presence, not merely 'helping' or 'clarifying' an already-functioning sense",
+      "explanation": "The Latin 'supplementum... defectui' names an actual deficiency (defectus) the senses have regarding the Eucharistic change, which faith actively supplies for (supplementum) -- a stronger epistemological claim than a softer paraphrase like 'faith clarifies our vision,' which can read as merely improving an already-working sense rather than supplying for what the senses genuinely cannot perceive at all. CCC 1381 makes the same point traditionally associated with Aquinas's own words here on the Real Presence.",
+      "hint": "Ask which version treats the senses as simply limited-but-working, and which treats them as genuinely unable to perceive the change at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381",
+          "quote": "Seeing, touching, tasting are in thee deceived; how says trusty hearing? that shall be believed; what God's Son has told me, take for truth I do."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-002",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "Adoro Te Devote's line 'visus, tactus, gustus in te fallitur, sed auditu solo tuto creditur' names three specific senses said to be deceived regarding the Eucharist. Which three senses does the Latin actually name?",
+      "choices": [
+        "Sight, touch, and taste",
+        "Sight, hearing, and smell",
+        "Touch, taste, and smell",
+        "All five senses equally, with none named specifically"
+      ],
+      "correctAnswer": "Sight, touch, and taste",
+      "explanation": "'Visus, tactus, gustus' names sight, touch, and taste specifically as deceived regarding the Eucharistic species, while 'auditu solo tuto creditur' -- 'by hearing alone is it safely believed' -- points to the word of Christ, heard and believed, as the one reliable ground for faith in the Real Presence, a point traditionally attributed to Aquinas as the hymn's author.",
+      "hint": "Notice which sense is explicitly set apart as trustworthy ('auditu') rather than included among the deceived three.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381",
+          "quote": "Seeing, touching, tasting are in thee deceived; how says trusty hearing? that shall be believed."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-003",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1775,
+      "prompt": "True or False: 'Accende lumen sensibus' in Veni Creator Spiritus is a grammatical imperative -- a direct petition asking the Holy Spirit to kindle light in the senses -- fitting its traditional use at ordinations and papal conclaves as an actual invocation, not merely a general description of the Spirit's activity.",
+      "correctAnswer": true,
+      "explanation": "'Accende' is an imperative verb form -- a direct command/petition, 'kindle!' -- addressed to the Holy Spirit, consistent with the hymn's overall structure as a real invocation calling the Spirit down, which is exactly why it is actually prayed (not just read) at moments like conclaves and ordinations where the Church is asking the Spirit to act.",
+      "hint": "Check the verb form -- is it describing something happening, or directly commanding/asking for it to happen?",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2671",
+          "quote": "The simplest and most direct prayer is also traditional, 'Come, Holy Spirit,' and every liturgical tradition has developed it in antiphons and hymns."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-004",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "Vexilla Regis's line 'impleta sunt quae concinit David fideli carmine' makes a specific claim. What is it?",
+      "choices": [
+        "That a specific prophecy sung by David in a faithful song has now been fulfilled (in Christ's Passion)",
+        "That King David personally witnessed the crucifixion",
+        "That the entire Book of Psalms was composed after the Passion",
+        "That David's prophecies apply only to the Old Testament and have no New Testament fulfillment"
+      ],
+      "correctAnswer": "That a specific prophecy sung by David in a faithful song has now been fulfilled (in Christ's Passion)",
+      "explanation": "'Impleta sunt' ('they have been fulfilled') makes an explicit fulfillment claim about what David 'sang' ('concinit') in a 'fideli carmine' ('faithful song') -- a direct assertion that a specific Davidic psalm-prophecy finds its fulfillment in the events of Christ's Passion being commemorated by this hymn.",
+      "hint": "The key verb 'impleta sunt' names a fulfillment, not merely a comparison or resemblance.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Psalm 96:10",
+          "quote": "declare among the nations: The LORD is king."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-005",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "Stabat Mater's line describing Mary's soul, 'cuius animam gementem... pertransivit gladius' ('whose grieving soul... a sword pierced through'), directly echoes which Gospel passage?",
+      "choices": [
+        "Simeon's prophecy to Mary in Luke 2:35 ('a sword will pierce your own soul too')",
+        "The Annunciation account in Luke 1:26-38",
+        "The wedding at Cana in John 2:1-11",
+        "Christ's words from the cross to the beloved disciple in John 19:26-27"
+      ],
+      "correctAnswer": "Simeon's prophecy to Mary in Luke 2:35 ('a sword will pierce your own soul too')",
+      "explanation": "'Pertransivit gladius' ('a sword pierced through') is a direct verbal echo of Simeon's prophecy at the Presentation, that a sword would pierce Mary's own soul -- Stabat Mater presents that prophecy as fulfilled at the foot of the cross, connecting the two Gospel moments through the hymn's own careful word choice.",
+      "hint": "This connects Mary's presence at the crucifixion to a specific prophecy made about her decades earlier, at Jesus's infancy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 2:35",
+          "quote": "This child is destined for the fall and rise of many in Israel, and to be a sign that will be contradicted -- and you yourself a sword will pierce."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-006",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "matching_pairs",
+      "difficultyElo": 1865,
+      "prompt": "Match each Latin hymn line to the specific theological claim it makes.",
+      "pairs": [
+        {
+          "left": "Tantum Ergo: 'praestet fides supplementum sensuum defectui'",
+          "right": "Faith actively supplies for what the senses cannot perceive about the Real Presence"
+        },
+        {
+          "left": "Adoro Te Devote: 'visus, tactus, gustus in te fallitur, sed auditu solo tuto creditur'",
+          "right": "Three named senses are deceived; hearing Christ's word alone is the trustworthy ground of belief"
+        },
+        {
+          "left": "Vexilla Regis: 'impleta sunt quae concinit David fideli carmine'",
+          "right": "A specific Davidic prophecy is now fulfilled in Christ's Passion"
+        },
+        {
+          "left": "Dies Irae: 'recordare, Iesu pie, quod sum causa tuae viae'",
+          "right": "A direct causal claim -- 'I am the cause of your journey' -- not a generic expression of gratitude"
+        }
+      ],
+      "explanation": "Each of these lines makes a specific, structurally precise theological claim in the Latin -- this level's whole discipline is judging whether a given English rendering preserves that precise claim or softens it into something vaguer.",
+      "hint": "Every right answer names something specific and structural, not a general summary of 'this hymn is about the Eucharist/Mary/judgment.'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1381",
+          "quote": "Seeing, touching, tasting are in thee deceived; how says trusty hearing? that shall be believed."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "church-latin-l14-007",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "Pange Lingua's final two stanzas -- 'Tantum ergo Sacramentum veneremur cernui, et antiquum documentum novo cedat ritui' -- make a claim about the relationship between the old covenant and the new. Which is it?",
+      "choices": [
+        "The ancient document yields to a new rite, fulfilment rather than contradiction",
+        "The ancient document is shown to have been false all along",
+        "The new rite is a temporary concession, with the older form still normative",
+        "The two rites are unrelated and simply coexist"
+      ],
+      "correctAnswer": "The ancient document yields to a new rite, fulfilment rather than contradiction",
+      "explanation": "'Cedat' is 'let it yield' -- a word for giving place, not for being refuted. The line names succession and fulfilment: the older figure gives way because what it pointed toward has arrived, which is precisely the Church's reading of the Old Testament's relation to the New.",
+      "hint": "Everything turns on 'cedat.' Yielding is not the same as being disproved.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 128-129"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-008",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "true_false",
+      "difficultyElo": 1775,
+      "prompt": "True or False: In Veni Creator Spiritus, the title itself contains an imperative and a description -- 'Come, Creator Spirit' -- naming the Holy Spirit as Creator, not only as sanctifier.",
+      "correctAnswer": true,
+      "explanation": "True. 'Veni' is the imperative and 'Creator' modifies 'Spiritus.' The hymn ascribes creative work to the Spirit rather than reserving creation to the Father, which matches the Creed's own confession of the Spirit as Lord and giver of life.",
+      "hint": "Look at what word is doing the describing, and what it claims the Spirit does.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 291"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-009",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "The Dies Irae line 'quaerens me, sedisti lassus' -- 'seeking me, you sat down weary' -- draws its force from alluding to which specific Gospel scene?",
+      "choices": [
+        "Christ, tired from the journey, sitting at Jacob's well",
+        "Christ asleep in the boat during the storm",
+        "Christ weeping over Jerusalem",
+        "Christ resting after the feeding of the five thousand"
+      ],
+      "correctAnswer": "Christ, tired from the journey, sitting at Jacob's well",
+      "explanation": "The line borrows the detail of a wearied Christ seated at the well in John 4, and reads that physical tiredness as the cost of seeking one soul. The hymn's power is in taking a small narrative detail and making it personal to the singer.",
+      "hint": "The scene involves a well, a foreign woman, and an explicitly tired Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 4:6"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-010",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "fill_blank",
+      "difficultyElo": 1885,
+      "prompt": "O Salutaris Hostia opens by addressing the Eucharist as the 'saving ____' -- the Latin word 'Hostia,' meaning a sacrificial offering.",
+      "correctAnswer": "victim",
+      "explanation": "'Hostia' is the sacrificial victim, not merely 'host' in the sense of bread. English keeps the word but drops its meaning, which is why the hymn's opening line sounds gentler in translation than the Latin actually is.",
+      "hint": "The English word we kept looks harmless; the Latin one names something offered in sacrifice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1367"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-011",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "The Advent hymn 'Veni, veni, Emmanuel' takes its name and its refrain directly from the 'O Antiphons' -- seven antiphons sung at Vespers on the days leading up to Christmas. What does 'Emmanuel' itself mean, per the Gospel's own translation of the name?",
+      "choices": [
+        "'God with us'",
+        "'Prince of Peace'",
+        "'Root of David'",
+        "'Morning Star'"
+      ],
+      "correctAnswer": "'God with us'",
+      "explanation": "Matthew's Gospel quotes Isaiah's prophecy of a child called Emmanuel and immediately glosses the name for the reader: 'which means, God with us.' The hymn's refrain -- 'Gaude, gaude, Emmanuel nascetur pro te, Israel,' 'Rejoice, rejoice, Emmanuel shall be born for thee, O Israel' -- leans on that same title Matthew already unpacks.",
+      "hint": "Matthew's Gospel translates this exact name for its readers right after quoting the prophecy.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 1:23",
+          "quote": "\u2018Behold, the virgin shall conceive and bear a son, and they shall call his name Emmanuel,\u2019 which means, God with us."
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 7:14"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-012",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "The first O Antiphon, 'O Sapientia' ('O Wisdom'), addresses Christ as Wisdom 'reaching from end to end and ordering all things mightily and sweetly.' Which Old Testament book most directly supplies this description of Wisdom's cosmic reach?",
+      "choices": [
+        "The Book of Wisdom (Wisdom 8:1)",
+        "The Book of Judges",
+        "The Book of Ruth",
+        "The Book of Tobit"
+      ],
+      "correctAnswer": "The Book of Wisdom (Wisdom 8:1)",
+      "explanation": "Wisdom 8:1 describes divine Wisdom as reaching 'from end to end mightily, and ordering all things sweetly' -- exactly the phrase the antiphon borrows almost word for word, applying to Christ what the Old Testament already says of Wisdom personified.",
+      "hint": "Look for the book that personifies Wisdom herself, spanning the whole created order.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Wisdom 8:1"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:2-3"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-013",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "'O Adonai' addresses Christ by the Hebrew title for 'Lord,' recalling that he appeared to Moses 'in the flame of the burning bush' and gave him the Law on Sinai. What is the point of calling Christ by this specific Old Testament title?",
+      "choices": [
+        "It identifies Christ with the very LORD who revealed himself to Moses and gave Israel the Law -- not a separate, later figure, but the same divine 'I AM' now coming in the flesh",
+        "It refers only to Christ's human ancestry through the tribe of Levi",
+        "It is simply an honorific title with no connection to the Old Testament",
+        "It refers to Christ's future role as an earthly king of Israel alone"
+      ],
+      "correctAnswer": "It identifies Christ with the very LORD who revealed himself to Moses and gave Israel the Law -- not a separate, later figure, but the same divine 'I AM' now coming in the flesh",
+      "explanation": "This is one of the boldest of the seven antiphons theologically: it applies the divine name revealed at the burning bush directly to the Christ-child about to be born, making an explicit claim about his divine identity within a text otherwise soaked in Old Testament imagery.",
+      "hint": "This antiphon is making a claim about who was actually present at the burning bush and Sinai.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:2-6"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 33:22"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-014",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "fill_blank",
+      "difficultyElo": 1885,
+      "prompt": "'O Radix Jesse' -- 'O Root of Jesse' -- takes its title from Isaiah's prophecy that a shoot shall come forth from the stump of ______, the father of King David, from whose apparently dead line new life would spring.",
+      "correctAnswer": "Jesse",
+      "explanation": "Isaiah pictures David's royal line as a tree cut down to a stump -- yet Isaiah 11:1 promises a shoot will still spring from that stump's roots. Naming Christ 'Root of Jesse' claims him as the fulfillment of that promise: life returning to a line that looked finished.",
+      "hint": "This is King David's father's name -- the promised shoot springs from his 'stump.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:1"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:10"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-015",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "'O Clavis David' -- 'O Key of David' -- calls Christ the one 'who opens and no man shuts, who shuts and no man opens.' This image is drawn from Isaiah's description of a royal steward, and is applied to Christ directly in which New Testament book?",
+      "choices": [
+        "Revelation, where the risen Christ is described holding 'the key of David... who opens and no one shall shut, who shuts and no one opens'",
+        "The Acts of the Apostles, describing Peter's ministry",
+        "The Letter to the Hebrews, describing the Temple veil",
+        "The Gospel of Mark, describing the empty tomb"
+      ],
+      "correctAnswer": "Revelation, where the risen Christ is described holding 'the key of David... who opens and no one shall shut, who shuts and no one opens'",
+      "explanation": "Isaiah 22:22 originally describes Eliakim, a steward given 'the key of the house of David' with authority over who enters the king's court. Revelation 3:7 applies that same image directly to the risen Christ, and the antiphon in turn applies it to the Christ still awaited in Advent -- the one with final authority over the gates of the kingdom.",
+      "hint": "Look for the New Testament's most direct, explicit reuse of the 'key of David' image, addressed to the risen Christ himself.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 3:7"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 22:22"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-016",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "'O Oriens' -- 'O Dawn' or 'O Rising Sun' -- calls Christ 'the splendor of eternal light,' come to give light to those who sit in darkness. Which Gospel canticle, prayed daily at Morning Prayer, uses this same 'dawn' image for Christ?",
+      "choices": [
+        "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
+        "The Magnificat",
+        "The Nunc Dimittis",
+        "The Te Deum"
+      ],
+      "correctAnswer": "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
+      "explanation": "Zechariah's canticle, prayed every morning in the Church's Liturgy of the Hours, already closes on exactly this image -- Christ as the dawn breaking on those in darkness -- itself echoing Isaiah's earlier promise that 'the people who walked in darkness have seen a great light.'",
+      "hint": "This canticle is prayed every single day at Morning Prayer, and it ends on an image of light breaking over darkness.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:78-79"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 9:2"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-017",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "multiple_choice",
+      "difficultyElo": 1825,
+      "prompt": "'O Rex Gentium' -- 'O King of the Nations' -- calls Christ the one all peoples desire, and 'the cornerstone who makes both one.' Isaiah 2:4's vision of nations beating swords into plowshares under this king's rule points toward which New Testament theme?",
+      "choices": [
+        "Christ as the one who breaks down the dividing wall of hostility, making Jew and Gentile one people rather than two",
+        "The eventual disarmament of every earthly nation-state",
+        "The abolition of all civil government",
+        "The reunification of the northern and southern kingdoms of Israel alone"
+      ],
+      "correctAnswer": "Christ as the one who breaks down the dividing wall of hostility, making Jew and Gentile one people rather than two",
+      "explanation": "Isaiah's 'king of the nations' looks toward every people, not Israel alone, being brought under one peace. Ephesians reads this fulfilled in Christ specifically as the reconciliation of Jew and Gentile into 'one new man' -- the 'cornerstone' language of the antiphon points to exactly this same reconciling role.",
+      "hint": "Paul's letters describe Christ uniting two groups that were previously divided -- not literal disarmament.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Ephesians 2:14-16"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 2:4"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l14-018",
+      "topic": "church-latin",
+      "level": 14,
+      "type": "matching_pairs",
+      "difficultyElo": 1865,
+      "prompt": "Match each O Antiphon's Latin title to the Old Testament image it draws on.",
+      "pairs": [
+        {
+          "left": "O Sapientia (O Wisdom)",
+          "right": "Wisdom reaching from end to end, ordering all things (Wisdom 8:1)"
+        },
+        {
+          "left": "O Radix Jesse (O Root of Jesse)",
+          "right": "A shoot springing from the stump of Jesse (Isaiah 11:1)"
+        },
+        {
+          "left": "O Clavis David (O Key of David)",
+          "right": "The steward's key over the house of David (Isaiah 22:22)"
+        },
+        {
+          "left": "O Oriens (O Dawn)",
+          "right": "Light dawning on a people walking in darkness (Isaiah 9:2)"
+        }
+      ],
+      "explanation": "Each of the seven O Antiphons takes a specific Old Testament image -- Wisdom, a royal line, a steward's key, a rising dawn -- and applies it to the Christ still awaited, so that the last week before Christmas prays through the whole of the Old Testament's hope in miniature.",
+      "hint": "Each Latin title names an Old Testament image the antiphon is applying to Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Isaiah 9:2"
+        },
+        {
+          "type": "scripture",
+          "reference": "Isaiah 11:1"
+        }
+      ],
+      "miniGameEligible": true
+    }
+  ]
+}
