@@ -1,0 +1,729 @@
+{
+  "_comment": "Church Latin levels 18-20: patristic Latin (remapped old L8, self-referential text fixed), verifying a Latin tag found online honestly, grammatical analysis (remapped old L9)",
+  "topic": "church-latin",
+  "questions": [
+    {
+      "id": "church-latin-l18-001",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Augustine's most famous line, from the opening of the Confessions, reads 'Cor nostrum inquietum est, donec requiescat in te.' What does it say?",
+      "choices": [
+        "Our heart is restless until it rests in you",
+        "Our heart is silent until it speaks of you",
+        "Our mind is troubled until it understands you",
+        "Our soul is weak until it serves you"
+      ],
+      "correctAnswer": "Our heart is restless until it rests in you",
+      "explanation": "'Inquietum' -- literally 'un-quieted' -- names the restlessness, and 'requiescat' -- 'may it rest' -- names the only cure Augustine will accept for it. The whole Confessions is essentially one long argument for this single opening sentence.",
+      "hint": "'Requiescat' is the same root behind the funeral prayer 'requiescat in pace' -- rest in peace.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Confessions I.1"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 30"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-002",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Tertullian's phrase 'Anima naturaliter Christiana' -- 'the soul is naturally Christian' -- claims every person is born already believing explicit Christian doctrine.",
+      "correctAnswer": false,
+      "explanation": "False. Tertullian's point is narrower and more interesting: even pagan speech unconsciously invokes the true God in moments of surprise or fear, suggesting the soul has a natural orientation toward him -- not that doctrine is innate, but that the soul's deepest instincts already point where explicit faith later leads.",
+      "hint": "Ask whether 'naturally oriented toward' and 'already explicitly believing' are the same claim.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "Tertullian, Apologeticus 17"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 28"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-003",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "St. Vincent of L\u00e9rins gave the classic test for authentic tradition in Latin as 'quod ubique, quod semper, quod ab ____' -- what has been believed everywhere, always, and by all.",
+      "correctAnswer": "omnibus",
+      "explanation": "'Omnibus' is dative/ablative plural of 'omnis,' all -- the same root that gives English 'omnibus' (a vehicle for everyone) and 'omniscient.' The threefold test names where, when, and by whom, in that order.",
+      "hint": "This word gives English a word for a vehicle that carries everyone.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-004",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio Scripturarum ignoratio Christi est.' What does it claim?",
+      "choices": [
+        "Ignorance of the Scriptures is ignorance of Christ",
+        "Knowledge of Scripture replaces the need to know Christ personally",
+        "The Scriptures are too difficult for ordinary believers to understand",
+        "Christ is known only apart from the Scriptures"
+      ],
+      "correctAnswer": "Ignorance of the Scriptures is ignorance of Christ",
+      "explanation": "Vatican II found this fourth-century line important enough to quote directly, urging all the faithful toward frequent reading of Scripture on the strength of Jerome's own maxim -- a patristic voice given fresh authority eight centuries later.",
+      "hint": "The same word, 'ignoratio,' appears twice, once about Scripture and once about Christ.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 25"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-005",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: The maxim 'Extra Ecclesiam nulla salus' (outside the Church there is no salvation), already met earlier in this topic, is traditionally attributed to St. Cyprian of Carthage.",
+      "correctAnswer": true,
+      "explanation": "True. Cyprian's third-century formulation is the origin of the phrase; its later, careful interpretation -- distinguishing formal from invincible ignorance -- is a separate development this database covers elsewhere, but the phrase itself is genuinely patristic in origin, not a later invention.",
+      "hint": "This is the same Latin phrase from Level 4 -- the new information here is who first said it.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Cyprian of Carthage, Epistle 73"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-006",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "Why does this database treat 'Roma locuta, causa finita est' ('Rome has spoken, the matter is settled') with caution when attributing it to Augustine?",
+      "choices": [
+        "It is a later summary of Augustine's actual argument, not a sentence he wrote verbatim in this exact form",
+        "Because Augustine never discussed Rome's authority at all",
+        "Because the phrase is entirely modern in origin, with no patristic root",
+        "Because the phrase was formally condemned by a later council"
+      ],
+      "correctAnswer": "It is a later summary of Augustine's actual argument, not a sentence he wrote verbatim in this exact form",
+      "explanation": "Augustine did argue, in the Pelagian controversy, that Rome's judgment settled the matter -- but the pithy Latin tag itself is a later distillation of that argument, not a verified direct quotation. This level's whole point is telling the two apart: real influence does not always come with an exact matching sentence.",
+      "hint": "Ask whether a phrase capturing someone's real argument is the same as a verified direct quotation.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-007",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "fill_blank",
+      "difficultyElo": 2185,
+      "prompt": "Jerome's maxim on Scripture and Christ was important enough for the Second Vatican Council to quote directly, in the document Dei ____.",
+      "correctAnswer": "Verbum",
+      "explanation": "'Dei Verbum' -- 'the Word of God' -- is Vatican II's constitution on divine revelation, and its own title uses the same word, 'Verbum,' that opens John's Gospel in Latin.",
+      "hint": "'Verbum' is Latin for 'Word' -- the same word John's Gospel uses for Christ himself.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 25"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-008",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "true_false",
+      "difficultyElo": 2075,
+      "prompt": "True or False: Reading a Church Father's Latin directly, rather than only a translation, can surface a precise word choice -- like Augustine's 'inquietum' -- that an English rendering may soften or lose.",
+      "correctAnswer": true,
+      "explanation": "True, and this is the whole reason a level on Patristic Latin belongs in this topic. 'Restless' is a fair translation of 'inquietum,' but the Latin's own shape -- 'un-quieted,' built from the same root as 'requiescat' two words later -- creates an echo within the sentence that translation alone does not preserve.",
+      "hint": "Compare 'inquietum' and 'requiescat' -- do they share a root in the Latin the way 'restless' and 'rest' barely do in English?",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Confessions I.1"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 108"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-009",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "multiple_choice",
+      "difficultyElo": 2125,
+      "prompt": "What does reading Vincent of L\u00e9rins's threefold test in its original Latin word order -- ubique, semper, ab omnibus -- preserve that a looser paraphrase might lose?",
+      "choices": [
+        "The deliberate sequence: place, then time, then people, building the case cumulatively in that specific order",
+        "Nothing; word order carries no meaning in Latin",
+        "That the three tests must be applied in reverse order",
+        "That only the third test, 'ab omnibus,' actually matters"
+      ],
+      "correctAnswer": "The deliberate sequence: place, then time, then people, building the case cumulatively in that specific order",
+      "explanation": "Vincent builds his case in a specific order -- everywhere, then always, then by everyone -- moving from geography to history to universal human witness. A paraphrase that reorders the three loses the sense of a case being built, term by term.",
+      "hint": "Ask whether the three tests are simply listed, or built up in a deliberate sequence.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l18-010",
+      "topic": "church-latin",
+      "level": 18,
+      "type": "matching_pairs",
+      "difficultyElo": 2165,
+      "prompt": "Match each patristic Latin phrase to the Father it is genuinely attributed to.",
+      "pairs": [
+        {
+          "left": "Cor nostrum inquietum est, donec requiescat in te",
+          "right": "St. Augustine of Hippo"
+        },
+        {
+          "left": "Anima naturaliter Christiana",
+          "right": "Tertullian"
+        },
+        {
+          "left": "Quod ubique, quod semper, quod ab omnibus",
+          "right": "St. Vincent of L\u00e9rins"
+        },
+        {
+          "left": "Extra Ecclesiam nulla salus",
+          "right": "St. Cyprian of Carthage"
+        }
+      ],
+      "explanation": "Each of these phrases is genuinely traceable to the Father named, unlike 'Roma locuta' discussed earlier in this level -- the distinction between a verified quotation and a later summary is worth carrying into how any of these four phrases gets used or repeated.",
+      "hint": "All four of these, unlike the example discussed earlier in this level, are genuinely verified to their named author.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 846"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 94"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "church-latin-l19-001",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "The previous level covered patristic Latin, including 'Roma locuta, causa finita est,' treated with real caution when attributed to Augustine. Someone actually finds a real, Latin tag attributed to a Church Father online, with no clear, real source given. What is the real, honest, practical rule to actually follow?",
+      "choices": [
+        "Treat it as unverified until a specific, citable source can be found, rather than repeating it as confirmed",
+        "Actually repeat it confidently as a real, genuine quotation, since it sounds authentically patristic",
+        "Actually assume every real, Latin tag found online is automatically, genuinely fabricated, with no possible, real exception",
+        "The real, honest, practical rule is actually to ignore the question of a real source entirely"
+      ],
+      "correctAnswer": "Treat it as unverified until a specific, citable source can be found, rather than repeating it as confirmed",
+      "explanation": "This is exactly the same real, honest method the previous level already modeled with 'Roma locuta, causa finita est' -- treating an unsourced, real tag as genuinely unverified until a real, specific, citable source can actually be found.",
+      "hint": "Recall the previous level's own real, careful treatment of 'Roma locuta, causa finita est.'",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-002",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: A real, Latin tag found online, with no clear, real source given, should actually be treated as genuinely unverified until a specific, citable source can actually be found.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, honest rule matters -- an unsourced, real tag should actually be treated as unverified, not repeated confidently as a genuine quotation.",
+      "hint": "Recall this level's own real, honest rule for treating an unsourced, real Latin tag.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-003",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What real, practical, first step actually helps verify whether a real, Latin tag attributed to a Church Father is actually genuine?",
+      "choices": [
+        "Searching for the specific work and passage it's supposedly drawn from, checking whether it genuinely appears there",
+        "Actually assuming it's genuine if it merely sounds authentically patristic in real, general style",
+        "Actually assuming it's genuine if it has actually been repeated many times online",
+        "There is actually no real, practical, first step available for verifying such a real, Latin tag"
+      ],
+      "correctAnswer": "Searching for the specific work and passage it's supposedly drawn from, checking whether it genuinely appears there",
+      "explanation": "This is a real, practical, first step -- actually searching for the specific, real work and passage, checking whether the quotation genuinely appears there, rather than trusting mere style or repetition.",
+      "hint": "Consider what real, practical, first step would actually help confirm or disconfirm a real, Latin tag's own genuine source.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-004",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Searching for the specific, real work and passage a Latin tag is supposedly drawn from is a real, practical, first step toward actually verifying it.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical step matters -- it actually confirms or disconfirms a real tag's own genuine source, rather than trusting style or repetition alone.",
+      "hint": "Recall this level's own real, practical, first step for verifying a Latin tag.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-005",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "Why does actually treating an unsourced, real, Latin tag with genuine, real caution matter, beyond mere real, academic pedantry?",
+      "choices": [
+        "Misattributing a false quotation to a Church Father misrepresents the authentic tradition this topic works to present",
+        "Because this real caution actually has no genuine, practical bearing on anything beyond real, academic pedantry",
+        "Because every real, patristic quotation actually turns out to be genuinely false upon actual, careful investigation",
+        "Because real caution about sources actually applies only to modern texts, never to genuinely ancient ones"
+      ],
+      "correctAnswer": "Misattributing a false quotation to a Church Father misrepresents the authentic tradition this topic works to present",
+      "explanation": "This is a real, important point -- misattributing a false or unverified quotation genuinely misrepresents the authentic tradition, exactly the kind of real, careful accuracy this topic has practiced throughout.",
+      "hint": "Consider what real, practical harm actually follows from repeating a false, real, patristic attribution.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-006",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Misattributing a false or unverified quotation to a genuine Church Father actually misrepresents the authentic tradition this topic has worked to accurately present.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, careful point matters -- accuracy about sources is a genuine, real matter of honesty, not mere academic pedantry.",
+      "hint": "Recall this level's own real point about what misattribution actually does to the authentic tradition.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-007",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2240,
+      "prompt": "Match each fact about verifying a real, Latin tag found online to what it actually means.",
+      "pairs": [
+        {
+          "left": "An unsourced, real, Latin tag",
+          "right": "Treated as genuinely unverified until a citable source is actually found"
+        },
+        {
+          "left": "A real, practical, first step",
+          "right": "Search for the specific, real work and passage it's supposedly drawn from"
+        },
+        {
+          "left": "Why this real caution matters",
+          "right": "Misattribution genuinely misrepresents the authentic, real tradition"
+        },
+        {
+          "left": "This level's own real method",
+          "right": "The same real, honest method already modeled for 'Roma locuta, causa finita est'"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, practical method for honestly verifying a Latin tag found online, extending the previous level's own real, careful practice.",
+      "hint": "Each row names one real, careful step in this level's own honest, verification method.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-008",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Having now practiced verifying a real, Latin tag found online, this topic's next level turns to real, grammatical analysis.",
+      "correctAnswer": true,
+      "explanation": "True. Having practiced this real, honest, verification method, this topic's next level turns to real, grammatical analysis.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-009",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What real, general habit has this level added to the previous level's own real, careful, patristic attribution?",
+      "choices": [
+        "Turning the previous method into a practical habit anyone could apply to a new, unsourced tag",
+        "Assuming every real, patristic quotation found online is automatically, genuinely accurate",
+        "Abandoning the previous level's own real, careful method of checking attribution",
+        "Assuming real, careful attribution actually has no bearing on how faithfully this topic represents the tradition"
+      ],
+      "correctAnswer": "Turning the previous method into a practical habit anyone could apply to a new, unsourced tag",
+      "explanation": "This level's own real habit -- turning a careful method into a practical, applicable habit -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, careful, patristic method.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l19-010",
+      "topic": "church-latin",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "Given this level's own real, practical method for verifying a Latin tag online, what does the next level in this topic turn to?",
+      "choices": [
+        "Real, grammatical analysis",
+        "A complete repeat of this same level's material about verifying Latin tags",
+        "A jump ahead to the capstone, skipping over everything in between",
+        "A subject entirely unrelated to Latin or real, honest, patristic attribution"
+      ],
+      "correctAnswer": "Real, grammatical analysis",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from honest, real, patristic verification to real, grammatical analysis.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Vincent of L\u00e9rins, Commonitorium 2"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God, whether in its written form or in the form of Tradition, has been entrusted to the living teaching office of the Church alone."
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-001",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "'Dominus vobiscum' -- 'The Lord be with you' -- fuses 'cum' with the pronoun 'vobis' as 'vobiscum,' placing 'cum' after the pronoun rather than before it. What is this an example of?",
+      "choices": [
+        "A regular feature of Latin grammar: the personal pronouns place 'cum' after themselves (mecum, tecum, secum, nobiscum, vobiscum), reversing the usual preposition-then-noun order",
+        "A unique, one-off exception found only in this specific liturgical phrase",
+        "An error introduced by a medieval copyist",
+        "A feature found only in ecclesiastical, not classical, Latin"
+      ],
+      "correctAnswer": "A regular feature of Latin grammar: the personal pronouns place 'cum' after themselves (mecum, tecum, secum, nobiscum, vobiscum), reversing the usual preposition-then-noun order",
+      "explanation": "This is ordinary classical Latin grammar, not a liturgical peculiarity -- 'cum' regularly follows rather than precedes the personal pronouns as one fused word, in exactly the pattern 'vobiscum' shows.",
+      "hint": "Compare 'vobiscum' to 'mecum' and 'tecum' -- the same pattern, different pronoun each time.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-002",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: In the Agnus Dei, 'qui tollis peccata mundi,' the verb 'tollis' is second person singular -- addressing Christ directly as 'thou who takest away' rather than describing him in the third person.",
+      "correctAnswer": true,
+      "explanation": "True, and the grammar itself carries theology: English translations often render this 'who takes away,' which sounds like a description, where the Latin's second-person 'tollis' makes the whole line a direct address to Christ -- the same pattern already met in 'Domine, non sum dignus' earlier in this topic.",
+      "hint": "Compare this to the second-person address already met in 'Domine, non sum dignus.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:29"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-003",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Many Collects in the Roman Missal close with a purpose clause introduced by 'ut' followed by a subjunctive verb (for example, '...ut mereamur' -- 'that we may deserve/attain'). What does 'ut + subjunctive' signal here?",
+      "choices": [
+        "Purpose -- the goal or result the prayer is asking God to bring about",
+        "A simple statement of fact with no request involved",
+        "A direct command addressed to the congregation",
+        "A quotation from an earlier speaker"
+      ],
+      "correctAnswer": "Purpose -- the goal or result the prayer is asking God to bring about",
+      "explanation": "'Ut' triggering the subjunctive is a standard Latin purpose construction: 'so that' something may result. Recognizing this pattern lets a reader spot the actual request buried at the end of a long Collect, rather than losing it in the sentence's length.",
+      "hint": "'Ut' with the subjunctive typically answers the question 'to what end?'",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1156"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-004",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "fill_blank",
+      "difficultyElo": 2335,
+      "prompt": "In 'Sursum corda,' 'corda' is the direct object of an implied command verb, 'levate' -- lift. 'Corda' is accusative plural of 'cor, cordis,' meaning ____.",
+      "correctAnswer": "heart",
+      "explanation": "'Cor, cordis' is heart -- the root behind 'cordial' and 'courage.' 'Sursum corda' compresses an entire imperative sentence ('Lift up your hearts') into two words, with the verb itself left understood.",
+      "hint": "The root gives English 'cordial' and 'courage' -- both, in different ways, about the heart.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-005",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: 'Credo in unum Deum,' the Creed's opening, uses 'credo' with 'in' plus the accusative, a construction distinct from ordinary Latin verbs of believing, which normally take the dative alone.",
+      "correctAnswer": true,
+      "explanation": "True, and it is a real, noticed feature of Christian Latin: classical Latin more often expresses trust in a person with the simple dative, while 'credere in' with the accusative is a construction that develops and spreads specifically in Christian usage -- the grammar itself marking out something distinctively Christian about the act of faith.",
+      "hint": "Ask whether this exact grammatical construction was already standard in classical, pre-Christian Latin.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 150"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-006",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "'Corpus Christi' and 'Corpus Domini' are both genitive constructions -- 'Body of Christ,' 'Body of the Lord.' What does the genitive case do grammatically in both phrases?",
+      "choices": [
+        "Shows possession or close relation -- whose body it is",
+        "Marks the subject performing an action",
+        "Marks the direct object receiving an action",
+        "Indicates the location where something happens"
+      ],
+      "correctAnswer": "Shows possession or close relation -- whose body it is",
+      "explanation": "The genitive is Latin's possessive case, here linking 'body' to whose body is meant. Recognizing the genitive by its typical endings (-i, -is, and others depending on declension) is one of the most useful single skills for reading any Latin liturgical phrase.",
+      "hint": "Ask what relationship 'of' typically expresses in English -- that is the genitive's usual job.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1331"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-007",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "fill_blank",
+      "difficultyElo": 2335,
+      "prompt": "'Et cum spiritu tuo' -- 'and with your spirit' -- uses 'tuo,' the ablative singular form matching 'spiritu' in gender, number, and case: this agreement is called ____.",
+      "correctAnswer": "concord",
+      "explanation": "Concord (or agreement) is the rule that an adjective or possessive must match the noun it modifies in gender, number and case -- which is why 'tuo' takes this particular ending to match the masculine ablative singular noun 'spiritu,' rather than a different ending that would match some other noun.",
+      "hint": "This grammatical term names the requirement that a modifying word 'agree' with the noun it describes.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-008",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: 'Ite, missa est' uses 'missa' as a passive participle related to the verb 'mittere,' to send -- the same root that gives the Mass its own name.",
+      "correctAnswer": true,
+      "explanation": "True, and this closes a loop from Level 1 of this topic: 'missa,' 'sent,' is a form of the same verb that gives English 'mission' and 'missionary' -- the dismissal literally sends the assembly out, which is exactly why the Mass takes its name from this one word.",
+      "hint": "This is the same root discussed in Level 1, where the Mass's own name was first explained.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1332"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-009",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Composing a short original sentence, 'Gratias tibi ago' ('I give thanks to you'), what case is 'tibi'?",
+      "choices": [
+        "Dative -- the indirect object, to or for whom the thanks are given",
+        "Genitive -- showing possession",
+        "Ablative -- showing means or manner",
+        "Vocative -- direct address"
+      ],
+      "correctAnswer": "Dative -- the indirect object, to or for whom the thanks are given",
+      "explanation": "'Ago' (I do/give) takes 'gratias' as its direct object (accusative) and 'tibi' as its indirect object (dative) -- to whom the thanks are directed. Recognizing this pattern is what lets a reader compose, not merely recognize, a simple original Latin sentence.",
+      "hint": "Ask who is receiving the thanks, as distinct from what is being given.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2637"
+        }
+      ]
+    },
+    {
+      "id": "church-latin-l20-010",
+      "topic": "church-latin",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each grammatical feature to the phrase that illustrates it.",
+      "pairs": [
+        {
+          "left": "Fused preposition + pronoun",
+          "right": "Vobiscum -- cum placed after the pronoun"
+        },
+        {
+          "left": "Second-person direct address",
+          "right": "Qui tollis -- 'thou who takest away'"
+        },
+        {
+          "left": "Purpose clause (ut + subjunctive)",
+          "right": "'...ut mereamur' -- 'that we may attain'"
+        },
+        {
+          "left": "Genitive of possession",
+          "right": "Corpus Christi -- 'Body of Christ'"
+        }
+      ],
+      "explanation": "None of these four features is unique to liturgical Latin -- all are ordinary classical grammar. Recognizing them is what turns memorized phrases into a language that can actually be read, rather than a set of vocabulary flashcards.",
+      "hint": "Ask, for each row, what grammatical job the highlighted word or ending is doing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1140"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1352"
+        }
+      ],
+      "miniGameEligible": true
+    }
+  ]
+}
