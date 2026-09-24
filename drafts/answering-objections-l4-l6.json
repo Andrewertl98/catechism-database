@@ -1,0 +1,708 @@
+{
+  "_comment": "Answering-objections levels 4-6: common objections, recognizing objections, science and faith",
+  "topic": "answering-objections",
+  "questions": [
+    {
+      "id": "answering-objections-l4-001",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "A common objection asks: 'If God is good, why does he allow suffering?' Which New Testament verse is often cited as a starting point in response, teaching that God works all things for good for those who love him?",
+      "choices": [
+        "Romans 8:28",
+        "Matthew 5:3",
+        "1 Corinthians 15:3",
+        "Revelation 21:4"
+      ],
+      "correctAnswer": "Romans 8:28",
+      "explanation": "Romans 8:28 doesn't explain away suffering, but it grounds a Christian response: God can bring good even out of evil and suffering for those who trust him -- a starting point rather than a full answer to this ancient question.",
+      "hint": "This verse promises God works all things together for good, not that suffering isn't real.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 8:28",
+          "quote": "We know that all things work for good for those who love God, who are called according to his purpose."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-002",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Objection: 'The Catholic Church just invented the idea that bishops have real teaching authority -- Jesus never set that up.' How would the Catechism most directly answer this?",
+      "choices": [
+        "By pointing to CCC 77: the apostles themselves left bishops as their successors with their own teaching authority",
+        "By conceding the objection is correct",
+        "By appealing only to a medieval papal decree",
+        "By arguing the objection doesn't need a response"
+      ],
+      "correctAnswer": "By pointing to CCC 77: the apostles themselves left bishops as their successors with their own teaching authority",
+      "explanation": "This objection assumes episcopal authority is a late invention. The Catechism roots it directly in apostolic practice: the apostles 'left bishops as their successors,' handing on 'their own position of teaching authority.'",
+      "hint": "The Catechism traces this authority back to the apostles themselves, not a later medieval invention.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-003",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Bible nowhere calls believers to be ready to explain and defend their faith to others.",
+      "correctAnswer": false,
+      "explanation": "1 Peter 3:15 directly calls Christians to 'always be ready to give an explanation to anyone who asks... for the reason for your hope' -- the biblical foundation for the practice of answering objections.",
+      "hint": "This whole topic exists because of one specific verse calling for exactly this readiness.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-004",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Objection: 'If God already knows everything I'll do, I don't really have free will.' What's the traditional Catholic response?",
+      "choices": [
+        "God's knowledge is outside time, seeing all moments at once, rather than causing our choices the way one event causes another",
+        "The Church agrees, and denies human free will",
+        "God only knows the past, not the future",
+        "This question has no possible answer in Catholic theology"
+      ],
+      "correctAnswer": "God's knowledge is outside time, seeing all moments at once, rather than causing our choices the way one event causes another",
+      "explanation": "God's foreknowledge doesn't work like a human prediction that forces an outcome -- as eternal, he simply sees every moment of time, including our free choices, without causing them the way one event in time causes another.",
+      "hint": "The key move is that God isn't 'inside' time predicting the future the way we would.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-005",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: The Church teaches that praying to saints means worshiping them the same way Catholics worship God.",
+      "correctAnswer": false,
+      "explanation": "The Church carefully distinguishes the honor (veneration) given to saints from the worship (adoration) owed to God alone -- asking a saint's prayers is not the same act as worship.",
+      "hint": "There's a real, deliberate distinction between honoring a saint and worshiping God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 957",
+          "quote": "It is not merely by the title of example that we cherish the memory of those in heaven; we seek, rather, that by this devotion... the union of the whole Church."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-006",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "Objection: 'Confessing sins to a priest is unbiblical.' Response: In John 20:23, Jesus gives the apostles authority to forgive sins, saying 'Whose sins you forgive are forgiven them, and whose sins you retain are ____.'",
+      "correctAnswer": "retained",
+      "explanation": "This verse gives the apostles -- and, through them, their successors -- real authority to forgive or retain sins, which requires actually hearing what those sins are, grounding sacramental confession in Scripture itself.",
+      "hint": "It's the opposite of 'forgiven,' matching the first half of the sentence.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 20:23",
+          "quote": "Whose sins you forgive are forgiven them, and whose sins you retain are retained."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-007",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "multiple_choice",
+      "difficultyElo": 1075,
+      "prompt": "Objection: 'Jesus said call no man father, so calling a priest Father is unbiblical.' What is the response?",
+      "choices": [
+        "Paul calls himself a father to the Corinthians through the gospel, so the phrase cannot be an absolute ban on the word",
+        "The verse applies only to biological fathers",
+        "The verse was mistranslated from the Greek",
+        "The objection is correct and the practice should stop"
+      ],
+      "correctAnswer": "Paul calls himself a father to the Corinthians through the gospel, so the phrase cannot be an absolute ban on the word",
+      "explanation": "Scripture interprets Scripture here. If the saying were an absolute prohibition, Paul violated it in writing, and so does anyone addressing a male parent. Christ is warning against claiming a fatherhood that belongs to God \u2014 the objection reads a warning about pride as a rule about vocabulary.",
+      "hint": "Someone in the New Testament uses the word about himself. That constrains how the saying can be read.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 4:15"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-008",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "true_false",
+      "difficultyElo": 1025,
+      "prompt": "True or False: Asking a saint to pray for you is a different act from asking God to grant something.",
+      "correctAnswer": true,
+      "explanation": "True. Asking someone to pray for you is a request for intercession, not an act of worship \u2014 the same thing you do when you ask a friend to pray. The objection usually assumes the two are the same act, and it collapses once that assumption is named.",
+      "hint": "Compare it to asking a living friend to pray for you.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 956"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2683"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-009",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "fill_blank",
+      "difficultyElo": 1135,
+      "prompt": "Objection: 'Faith is believing without evidence.' The Catechism instead calls faith an act of the intellect assenting to divine truth, moved by the ____ \u2014 not a leap taken blindly.",
+      "correctAnswer": "will",
+      "explanation": "Faith engages both intellect and will. The Church explicitly rejects the idea that faith is a blind impulse, holding instead that there are motives of credibility making the assent reasonable \u2014 a definition the objection assumes cannot exist.",
+      "hint": "Two faculties are involved: one assents, the other moves it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 155"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 156"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l4-010",
+      "topic": "answering-objections",
+      "level": 4,
+      "type": "matching_pairs",
+      "difficultyElo": 1115,
+      "prompt": "Match each common objection to the point that answers it.",
+      "pairs": [
+        {
+          "left": "'Catholics worship Mary'",
+          "right": "Honour given to a creature differs in kind from adoration of God"
+        },
+        {
+          "left": "'Confession to a priest is unbiblical'",
+          "right": "Christ gave the apostles authority to forgive and retain sins"
+        },
+        {
+          "left": "'Calling priests Father is forbidden'",
+          "right": "Paul uses the term of himself in the same Scriptures"
+        },
+        {
+          "left": "'Faith means believing without evidence'",
+          "right": "Faith is a reasoned assent, not a blind impulse"
+        }
+      ],
+      "explanation": "Each of these is answered from Scripture or from the Church's own definition rather than by appeal to authority. That matters practically: the person raising them usually does not grant the authority, so an answer resting on it settles nothing.",
+      "hint": "Three are answered from the Bible itself, one from a definition.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 971"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 20:23"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-001",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "The previous level covered several distinct common objections -- confession, calling priests 'Father,' praying to saints, predestination and free will. A friend says: 'If God already knows what I'll choose, my choice isn't really free.' Which specific, real objection is this?",
+      "choices": [
+        "The predestination-and-free-will objection -- whether God's foreknowledge removes genuine human freedom",
+        "The confession objection, about whether confessing sins to a priest is actually biblical",
+        "The praying-to-saints objection, about whether this actually amounts to real worship",
+        "The 'call no man father' objection, about calling a priest 'Father'"
+      ],
+      "correctAnswer": "The predestination-and-free-will objection -- whether God's foreknowledge removes genuine human freedom",
+      "explanation": "Recognizing which specific, real objection is actually being raised -- here, the real tension between divine foreknowledge and genuine human freedom -- lets a Catholic actually draw on the real, specific answer the previous level already covered, rather than a generic response.",
+      "hint": "Recall the previous level's own real citation on God's eternal plan already including each person's own free response.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-002",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Recognizing which specific, real objection is actually being raised lets a Catholic draw on the specific, real answer already prepared for it, rather than improvising a generic response.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this level's own real, practical point -- correctly identifying which specific objection is actually being raised lets a real, precise, already-prepared answer be used, rather than a vague, generic improvisation.",
+      "hint": "Consider what real, practical benefit comes from correctly identifying which specific objection is actually being raised.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-003",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "A friend says: 'Jesus said call no man father, so Catholics calling priests 'Father' contradicts Scripture.' What real, additional biblical evidence, beyond simply asserting the contrary, actually helps here?",
+      "choices": [
+        "Paul himself calls himself a spiritual father to the Corinthians, showing the saying wasn't an absolute prohibition",
+        "Simply repeating the real claim that priests may be called Father, with no real, further biblical evidence offered",
+        "Conceding the objection is entirely correct and abandoning the real practice of calling priests 'Father'",
+        "Dismissing the objection outright as unworthy of any real, biblical engagement"
+      ],
+      "correctAnswer": "Paul himself calls himself a spiritual father to the Corinthians, showing the saying wasn't an absolute prohibition",
+      "explanation": "This is a real, direct, textual answer -- the very same New Testament that records Christ's own saying also has Paul himself using real, spiritual-father language, showing the original saying addressed a real, specific concern (religious pride), not an absolute, universal prohibition on the word itself.",
+      "hint": "Recall the previous level's own real citation on Paul's own use of spiritual-father language.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 4:15"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-004",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Recognizing that a real objection has already been directly addressed elsewhere in this app -- for instance, in this app's own Apologetics topic -- can actually save real, redundant effort in preparing a response.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- since this app's own topics genuinely connect, recognizing a real objection already addressed elsewhere lets a Catholic actually draw on that real, existing answer rather than starting from scratch.",
+      "hint": "Consider what real, practical benefit comes from recognizing a real objection this app has already addressed somewhere else.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-005",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "A friend raises what sounds like a new, real objection: 'Praying to saints is basically necromancy, talking to the dead.' Which previously covered, real objection category does this actually, most closely resemble?",
+      "choices": [
+        "The praying-to-saints objection -- distinguishing intercession from any occult practice",
+        "The predestination-and-free-will objection, about divine foreknowledge",
+        "The confession objection, about confessing sins to a priest",
+        "The 'call no man father' objection, about calling a priest 'Father'"
+      ],
+      "correctAnswer": "The praying-to-saints objection -- distinguishing intercession from any occult practice",
+      "explanation": "This is a real, important recognition skill -- a seemingly new, real phrasing ('necromancy') actually maps onto the already-covered real objection about praying to saints, letting the same real, precise distinction (intercession, not necromancy) be applied directly.",
+      "hint": "Consider which previously covered, real objection category this new, real phrasing actually falls under.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 956"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-006",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: The real practice of asking a saint's intercession is fundamentally the same real thing as asking a living friend to pray for you, differing only in the real, current location of the person being asked.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, precise distinction actually answers the necromancy objection directly -- asking a saint's intercession is fundamentally the same real act as asking a living friend's prayers, not consulting the dead for real, hidden knowledge.",
+      "hint": "Consider the real, structural similarity between asking a living friend to pray for you and asking a saint's own real intercession.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 956"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-007",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "matching_pairs",
+      "difficultyElo": 1190,
+      "prompt": "Match each real, rephrased objection to the previously covered, real category it actually falls under.",
+      "pairs": [
+        {
+          "left": "\"If God knows my choice, it's not free\"",
+          "right": "The predestination-and-free-will objection"
+        },
+        {
+          "left": "\"Praying to saints is necromancy\"",
+          "right": "The praying-to-saints objection, distinguishing intercession from necromancy"
+        },
+        {
+          "left": "\"Call no man father\" contradiction",
+          "right": "Answered by Paul's own real, spiritual-father language elsewhere in the New Testament"
+        },
+        {
+          "left": "Why recognition actually matters",
+          "right": "Lets a real, already-prepared answer be used, rather than improvising a generic one"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, practical recognition skill -- matching a new, real phrasing to an already-covered, real category, rather than treating every new phrasing as an entirely new problem.",
+      "hint": "Two rows match a real, rephrased objection to its real category; two explain the real method and its own real value.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-008",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "true_false",
+      "difficultyElo": 1100,
+      "prompt": "True or False: Having now practiced recognizing common real objections, this topic's next level turns to science and faith objections.",
+      "correctAnswer": true,
+      "explanation": "True. Having established this real, practical recognition skill, this topic's next level turns to a specific, real cluster of objections concerning science and faith.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-009",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "What real, general habit has this level added to the previous level's own real body of common objections?",
+      "choices": [
+        "Recognizing a new phrasing maps onto an already-covered category, not treating it as an entirely new problem",
+        "Assuming every real, differently phrased challenge is automatically an entirely new, unrelated real problem",
+        "Assuming the previous level's own real content has no real, further application beyond its own exact original wording",
+        "Avoiding any real, practical recognition of how a new, real phrasing might actually relate to previously covered content"
+      ],
+      "correctAnswer": "Recognizing a new phrasing maps onto an already-covered category, not treating it as an entirely new problem",
+      "explanation": "This level's own real habit -- recognizing a real, new phrasing as an already-covered, real category -- is exactly the same real discipline this topic will keep practicing through its own later levels.",
+      "hint": "Consider what this level actually did with each of its own two, real, differently phrased challenges.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l5-010",
+      "topic": "answering-objections",
+      "level": 5,
+      "type": "multiple_choice",
+      "difficultyElo": 1150,
+      "prompt": "Given this level's picture of recognizing common real objections, what does the next level in this topic turn to?",
+      "choices": [
+        "Science and faith objections",
+        "A complete repeat of this same level's material about recognizing objections",
+        "A jump ahead to advanced dialogue principles, skipping over everything in between",
+        "A subject entirely unrelated to real objections or their own real recognition"
+      ],
+      "correctAnswer": "Science and faith objections",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from recognizing objections in general to a specific, real cluster concerning science and faith.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 600",
+          "quote": "To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-001",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Objection: 'A rational, scientifically-minded person cannot also believe in miracles.' The Catholic response distinguishes:",
+      "choices": [
+        "The ordinary laws of nature from God's own freedom, as their author, to act beyond them without violating reason",
+        "Nothing -- the Church agrees miracles are irrational",
+        "Miracles from all natural events, treating them as entirely unrelated categories",
+        "Old Testament miracles, which are accepted, from New Testament ones, which are not"
+      ],
+      "correctAnswer": "The ordinary laws of nature from God's own freedom, as their author, to act beyond them without violating reason",
+      "explanation": "A miracle isn't a violation of reason -- it's an act by the very author of nature's laws, who is free to act beyond the ordinary course of events he himself established, without those events being random or contrary to reason.",
+      "hint": "God wrote the laws of nature -- an author isn't bound the same way a character inside the story is.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-002",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Catholic Church requires all Catholics to reject the Big Bang theory as incompatible with the Genesis creation account.",
+      "correctAnswer": false,
+      "explanation": "The Church teaches that genuine scientific inquiry, properly conducted, can never truly conflict with faith -- there is no requirement to reject well-supported scientific theories like the Big Bang.",
+      "hint": "The Church's actual position is that real science and real faith can't ultimately contradict each other.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-003",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "Pope St. John Paul II taught that the theory of evolution, regarding the human body, is 'more than a ____' -- while insisting the human soul is directly created by God, not the product of material processes alone.",
+      "correctAnswer": "hypothesis",
+      "explanation": "In a 1996 message to the Pontifical Academy of Sciences, John Paul II acknowledged evolution's strong scientific standing regarding the body, while firmly maintaining that the spiritual soul cannot be explained by material evolution alone.",
+      "hint": "This word describes a tentative guess -- and he said evolution's evidence had moved well beyond that stage.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Message to the Pontifical Academy of Sciences, Pope St. John Paul II (1996)",
+          "quote": "Today, almost half a century after the publication of the encyclical, new knowledge has led to the recognition of the theory of evolution as more than a hypothesis."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-004",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Objection: 'Genetics and cosmology have made belief in a soul obsolete.' Catholic teaching responds that the human soul is:",
+      "choices": [
+        "A spiritual reality, not reducible to or identical with any physical or biological process",
+        "Simply another name for brain activity",
+        "A concept the Church has quietly abandoned",
+        "Something only some human beings possess"
+      ],
+      "correctAnswer": "A spiritual reality, not reducible to or identical with any physical or biological process",
+      "explanation": "The Church teaches that every human soul is directly created by God -- a spiritual reality that no amount of physical or biological description, however accurate on its own terms, could fully capture or explain away.",
+      "hint": "The soul, on this view, isn't a stand-in for something physics or biology could eventually explain.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 366",
+          "quote": "The Church teaches that every spiritual soul is created immediately by God - it is not 'produced' by the parents"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-005",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Catholic Church has historically operated observatories and supported significant contributions to modern astronomy, including through the Vatican Observatory.",
+      "correctAnswer": true,
+      "explanation": "Far from opposing astronomy wholesale, the Church has long sponsored serious scientific research -- a concrete expression of the conviction that faith and genuine science are not at war.",
+      "hint": "The Vatican itself runs a research observatory, staffed by Jesuit scientists.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-006",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each science-related objection to a fitting Catholic response.",
+      "pairs": [
+        {
+          "left": "'Miracles are irrational'",
+          "right": "God, as author of nature's laws, can act beyond them without violating reason"
+        },
+        {
+          "left": "'The Big Bang disproves Genesis'",
+          "right": "A Catholic priest-scientist first proposed the Big Bang theory"
+        },
+        {
+          "left": "'Evolution disproves the soul'",
+          "right": "The soul is a spiritual reality, directly created by God, not a physical process"
+        },
+        {
+          "left": "'The Church has always opposed science'",
+          "right": "The Church has long supported research, including its own observatory"
+        }
+      ],
+      "explanation": "Each objection assumes a conflict between faith and science that the Church's actual teaching and history don't bear out.",
+      "hint": "Notice each response corrects a specific factual assumption behind the objection.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366",
+          "quote": "The Church teaches that every spiritual soul is created immediately by God - it is not 'produced' by the parents"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-007",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Objection: 'Genesis says six days, so Catholics must reject an ancient universe.' What does the Church actually hold?",
+      "choices": [
+        "Genesis uses figurative language while affirming a primeval event; the Church makes no claim about the age of the universe",
+        "Catholics must hold that creation took six twenty-four-hour days",
+        "Genesis is a myth with no historical reference at all",
+        "The Church has never addressed the question"
+      ],
+      "correctAnswer": "Genesis uses figurative language while affirming a primeval event; the Church makes no claim about the age of the universe",
+      "explanation": "The Catechism says outright that the account uses figurative language and that it affirms something real about the beginning. Holding both is the Catholic position: neither a literalism the text does not require, nor a dismissal that empties it.",
+      "hint": "The Church affirms two things here that the objection assumes cannot both be held.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 390"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 337"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-008",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: Because scientific study of origins has advanced so far, the Church regards such research as a threat to faith.",
+      "correctAnswer": false,
+      "explanation": "False. The Catechism treats discoveries about the origins of the universe and of life as an invitation to greater admiration for the Creator. Framing science as a rival requires a view of God the Church does not hold \u2014 as one cause among others inside the universe rather than its source.",
+      "hint": "Consider whether learning how something works competes with the question of why it exists at all.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 283"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-009",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "A miracle is not a violation of nature by an outsider, but an act of the ____ of nature, who is not bound by what he made.",
+      "correctAnswer": "author",
+      "explanation": "The objection pictures God as an intruder breaking rules he is subject to. On the Christian account the regularities of nature exist because he sustains them, so his acting differently is not a violation of a law over him \u2014 which is why the argument from natural law against miracles assumes the conclusion it needs.",
+      "hint": "Ask who the laws of nature belong to.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 548"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l6-010",
+      "topic": "answering-objections",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each science-and-faith objection to what actually answers it.",
+      "pairs": [
+        {
+          "left": "'Genesis requires a young universe'",
+          "right": "The account uses figurative language while affirming a real beginning"
+        },
+        {
+          "left": "'Miracles violate natural law'",
+          "right": "The author of nature is not bound by what he sustains"
+        },
+        {
+          "left": "'Neuroscience disproves the soul'",
+          "right": "Describing a mechanism does not settle what the thing is"
+        },
+        {
+          "left": "'Science and religion are at war'",
+          "right": "The historical record does not support a standing conflict"
+        }
+      ],
+      "explanation": "Three of these rest on a category error and one on a historical claim. Sorting which kind of mistake is in front of you decides whether the answer is a distinction or a fact, and offering the wrong kind misses in both directions.",
+      "hint": "Only one of these four is settled by history rather than by a distinction.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
+        }
+      ]
+    }
+  ]
+}
