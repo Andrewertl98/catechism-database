@@ -803,10 +803,72 @@ levels 20 and 18, not 9 and 8.
 | 22 | Capstone: why the Church maintains Latin's own real place `[L10]` | 21 |
 | 23 | Capstone: reading the Church's own real words directly, a lifelong habit `[NEW]` | 22 |
 
-Church Latin goes next, following the same on-ramp pattern used
+**Done, Sep 24, 2026: Church Latin (23 levels), following Church
+History, the Old Testament, Saints, Councils, Heresies,
+Dogmas-and-doctrine, Metaphysics, Apologetics, Liturgy-and-mass,
+Sacred-scripture, Answering-objections, and Prayer.** Drafted,
+verified, committed. Its own live bank was already a genuine,
+pedagogical progression from simple vocabulary to grammar and
+integration. Kept that real order fully intact, adding 3 new,
+gentler, truly beginner levels (pronunciation, why Latin, everyday
+Latin phrases already known) plus 10 new bridging levels, each
+connecting bare vocabulary to its own real, Scriptural or theological
+source, or extending it to a further real example. Its own new final
+capstone names a genuine, lifelong habit of reading the Church's own
+words directly as the true measure of success, not a finished, closed
+body of memorized vocabulary.
+
+---
+
+## Worked example -- Virtues-and-vices, 21 levels (N=9 -> 2*9+3=21)
+
+Virtues-and-vices' own live bank (9 levels) is already a genuine,
+real, pedagogical progression: the cardinal virtues (L1), the
+theological virtues (L2), the seven capital vices (L3), the gifts and
+fruits of the Holy Spirit (L4), the Beatitudes (L5), precise,
+Thomistic terms of art -- the connexio virtutum, prudence as
+"charioteer of the virtues" (L6), counterfeits and distortions of
+genuine virtue (L7), vice-gift pairings and mortal sin's own real
+conditions (L8), and a real, integrating capstone tying the Beatitudes
+to every prior level (L9). This on-ramp keeps that real order fully
+intact, adding 3 new, gentler, truly beginner levels below the floor
+(what a virtue actually is, what a vice actually is, a first, real
+virtue to practice this week) plus 8 new bridging levels interleaved
+after each of L1 through L8, each turning a general, real teaching
+into an actual, practical habit or a further, honest, real
+application. Old L9's own capstone was checked for self-referential,
+level-count language and found clean -- it names "this topic" and
+"this topic's full arc" generically, with no specific level numbers
+that would break once remapped.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What a virtue actually is, in the simplest possible terms `[NEW]` | nothing assumed |
+| 2 | What a vice actually is, in the simplest possible terms `[NEW]` | 1 |
+| 3 | A first, real virtue to actually practice this week `[NEW]` | 2 |
+| 4 | The cardinal virtues `[L1]` | 3 |
+| 5 | Practicing one real, cardinal virtue in an everyday choice `[NEW bridging]` | 4 |
+| 6 | The theological virtues `[L2]` | 5 |
+| 7 | Why the theological virtues can't be earned, only received `[NEW bridging]` | 6 |
+| 8 | The seven capital vices `[L3]` | 7 |
+| 9 | Recognizing a real, capital vice in an everyday moment `[NEW bridging]` | 8 |
+| 10 | The gifts and fruits of the Holy Spirit `[L4]` | 9 |
+| 11 | Distinguishing a real gift from a real fruit, practically `[NEW bridging]` | 10 |
+| 12 | The Beatitudes `[L5]` | 11 |
+| 13 | Living one real Beatitude concretely this week `[NEW bridging]` | 12 |
+| 14 | Precise, Thomistic terms -- the charioteer, the connexio virtutum `[L6]` | 13 |
+| 15 | Using these real, precise terms correctly `[NEW bridging]` | 14 |
+| 16 | Counterfeits and distortions of genuine virtue `[L7]` | 15 |
+| 17 | Spotting a further, real counterfeit in everyday life `[NEW bridging]` | 16 |
+| 18 | Vice-gift pairings and mortal sin's own real conditions `[L8]` | 17 |
+| 19 | Applying mortal sin's own real conditions honestly and mercifully `[NEW bridging]` | 18 |
+| 20 | Capstone: the Beatitudes, integrating this topic's full, real arc `[L9]` | 19 |
+| 21 | Capstone: virtue as love rightly ordered, a real, lifelong journey `[NEW]` | 20 |
+
+Virtues-and-vices goes next, following the same on-ramp pattern used
 throughout this session, since its own live bank is already a
-genuine, real, pedagogical progression from simple vocabulary to
-grammar and integration.
+genuine, real, pedagogical progression from the cardinal virtues
+through a real, integrating capstone.
 
 ---
 
