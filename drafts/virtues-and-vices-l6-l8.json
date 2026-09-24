@@ -1,0 +1,725 @@
+{
+  "_comment": "Virtues-and-vices levels 6-8: theological virtues (remapped old L2), why they cant be earned only received, seven capital vices (remapped old L3)",
+  "topic": "virtues-and-vices",
+  "questions": [
+    {
+      "id": "virtues-and-vices-l6-001",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1262,
+      "prompt": "Unlike the cardinal virtues, which are developed by human effort and habit, the theological virtues -- faith, hope, and charity -- are:",
+      "choices": [
+        "Infused directly by God, disposing us to relate to him as our supernatural end",
+        "Earned entirely through years of ascetic discipline",
+        "Optional extras for especially devout Catholics",
+        "Available only to canonized saints"
+      ],
+      "correctAnswer": "Infused directly by God, disposing us to relate to him as our supernatural end",
+      "explanation": "The theological virtues have God himself as their direct object -- they can't be acquired by repeated human acts alone, but are given by God, usually at Baptism, and adapt our faculties to share in his own life.",
+      "hint": "'Theological' hints at the difference -- these are directly about God, not just about being a good person in general.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1812-1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l6-002",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1212,
+      "prompt": "True or False: Of the three theological virtues, St. Paul teaches that love (charity) is the greatest.",
+      "correctAnswer": true,
+      "explanation": "Paul's hymn to love concludes: 'So faith, hope, love abide, these three; but the greatest of these is love.' Charity alone will remain in heaven, where faith gives way to sight and hope to possession.",
+      "hint": "This is from Paul's famous chapter on love, often read at weddings.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 13:13",
+          "quote": "So faith, hope, love remain, these three; but the greatest of these is love."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l6-003",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1322,
+      "prompt": "____ is the theological virtue by which we believe in God and everything he has revealed, because he is Truth itself and cannot deceive or be deceived.",
+      "correctAnswer": "Faith",
+      "explanation": "Faith is not a blind guess -- it's a reasonable trust grounded in who God is: Truth itself, who neither deceives nor can be deceived.",
+      "hint": "It's the first of the three theological virtues, usually listed before hope and charity.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1814",
+          "quote": "Faith is the theological virtue by which we believe in God and believe all that he has said and revealed to us... because he is truth itself."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-004",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1262,
+      "prompt": "'Hope,' as a theological virtue, is the virtue by which we:",
+      "choices": [
+        "Desire and trust in eternal life and God's help to attain it",
+        "Merely wish for good luck in life",
+        "Assume everything will simply work out on its own",
+        "Avoid thinking seriously about the future"
+      ],
+      "correctAnswer": "Desire and trust in eternal life and God's help to attain it",
+      "explanation": "Hope isn't wishful thinking or passive optimism -- it's an active trust that God will give the grace needed to reach the eternal life he promises, if we cooperate with him.",
+      "hint": "This virtue is directed specifically toward eternal life, relying on God's own help.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1817",
+          "quote": "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l6-005",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1212,
+      "prompt": "True or False: 'Charity,' as a theological virtue, is essentially the same thing as ordinary human friendliness or being generally nice.",
+      "correctAnswer": false,
+      "explanation": "Charity is the supernatural virtue of loving God above all things and neighbor as oneself for God's own sake -- something deeper than natural warmth, though it doesn't exclude it.",
+      "hint": "This virtue is specifically about loving God above all things, not just being pleasant to be around.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1822",
+          "quote": "Charity is the theological virtue by which we love God above all things for his own sake, and our neighbor as ourselves for the love of God."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l6-006",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1302,
+      "prompt": "Match each theological virtue to its object.",
+      "pairs": [
+        {
+          "left": "Faith",
+          "right": "Believing God and everything he has revealed"
+        },
+        {
+          "left": "Hope",
+          "right": "Desiring and trusting in eternal life and God's help"
+        },
+        {
+          "left": "Charity",
+          "right": "Loving God above all and neighbor as oneself, for his sake"
+        }
+      ],
+      "explanation": "All three theological virtues have God as their direct object -- what he has said (faith), what he promises (hope), and who he is, loved for his own sake (charity).",
+      "hint": "One is about believing, one about trusting the future, one about loving.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-007",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1262,
+      "prompt": "Why can the theological virtues not be acquired by practice the way the cardinal virtues can?",
+      "choices": [
+        "They have God himself as their direct object and origin, so they are infused by God, not built up by repeated human acts",
+        "They require more discipline than the cardinal virtues",
+        "They can be acquired, only more slowly",
+        "They are given only to the ordained"
+      ],
+      "correctAnswer": "They have God himself as their direct object and origin, so they are infused by God, not built up by repeated human acts",
+      "explanation": "A human habit is built from the inside out, by acts within our own power. Faith, hope and charity relate the person directly to God, which is beyond what any repetition of acts could produce on its own \u2014 hence 'infused,' not merely 'developed.'",
+      "hint": "Ask what each of the three is actually directed toward.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1812"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1813"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-008",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1212,
+      "prompt": "True or False: A person can have faith without charity, but cannot have genuine charity without faith.",
+      "correctAnswer": true,
+      "explanation": "True \u2014 this is the difference between what tradition calls 'dead' faith and 'living' faith. Faith without charity is possible (even demons believe, and shudder); charity is love of God as he has revealed himself, so it presupposes the faith by which he is known.",
+      "hint": "Recall James's description of a faith that believes but does nothing.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1815"
+        },
+        {
+          "type": "scripture",
+          "reference": "James 2:19"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l6-009",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1322,
+      "prompt": "Hope is the virtue by which we desire eternal life as our happiness, placing our trust in Christ's promises and relying on the help of the ____, not on our own strength.",
+      "correctAnswer": "Holy Spirit",
+      "explanation": "Hope is not optimism about outcomes in this life; it is trust that God will supply what is needed for eternal life, and that the trust itself rests on grace rather than self-reliance \u2014 which is why hope can survive even severe present suffering.",
+      "hint": "The virtue rests on divine help, not human effort.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1817"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l6-010",
+      "topic": "virtues-and-vices",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1302,
+      "prompt": "Match each theological virtue to its precise object.",
+      "pairs": [
+        {
+          "left": "Faith",
+          "right": "Believing God and all he has revealed, because he is truth itself"
+        },
+        {
+          "left": "Hope",
+          "right": "Desiring eternal life and trusting God's help to attain it"
+        },
+        {
+          "left": "Charity",
+          "right": "Loving God above all and neighbour as oneself for his sake"
+        },
+        {
+          "left": "Dead faith",
+          "right": "Intellectual assent without the charity that would animate it"
+        }
+      ],
+      "explanation": "The fourth entry is not a fourth virtue but a warning built into the other three: assent alone, without love, is what James calls faith that does not save.",
+      "hint": "Three of these are virtues; the fourth is a deficient version of one of them.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1814"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1817"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1822"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-001",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "The previous level covered the theological virtues -- faith, hope, and charity -- infused by God, not acquired by human effort alone. Someone asks, 'If I just try hard enough, can I actually earn more faith or charity through my own real effort?' What is the real, honest answer?",
+      "choices": [
+        "No -- the theological virtues are actually a real, genuine gift, infused by God, not something a person can actually earn through effort alone, the way a cardinal virtue is built through habit",
+        "Yes -- sufficient, real, personal effort alone can actually, fully produce genuine faith, hope, and charity, the same way it produces a cardinal virtue",
+        "The theological virtues actually have no real, meaningful difference from the cardinal virtues in how they're actually acquired",
+        "This question actually has no real, honest answer, since the theological virtues are actually undefined"
+      ],
+      "correctAnswer": "No -- the theological virtues are actually a real, genuine gift, infused by God, not something a person can actually earn through effort alone, the way a cardinal virtue is built through habit",
+      "explanation": "This is exactly the previous level's own real, important point -- the theological virtues are genuinely infused by God as a gift, not earned through effort alone the way a cardinal virtue is built through habit.",
+      "hint": "Recall the previous level's own real distinction between the theological virtues and the cardinal virtues.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-002",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: Faith, hope, and charity can actually be fully earned through sufficient, real, personal effort alone, the same way a cardinal virtue is built through habit.",
+      "correctAnswer": false,
+      "explanation": "False, and this real, important distinction matters -- the theological virtues are genuinely infused by God as a gift, not produced by effort alone.",
+      "hint": "Recall this level's own real point about the theological virtues being a genuine gift, not earned by effort.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-003",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "If the theological virtues can't actually be earned by effort, what is the most a person can actually, honestly do to grow in them?",
+      "choices": [
+        "Disposing themselves to receive this gift more fully -- through prayer, the sacraments, and openness -- without presuming it is owed",
+        "Actually nothing at all -- since they can't be earned, there's actually no honest, real way to grow in them further",
+        "Actually demand the gift directly from God, since sufficient, real effort should actually guarantee it regardless",
+        "Actually achieve them through a sufficiently long, real, disciplined habit, despite technically being called a gift"
+      ],
+      "correctAnswer": "Disposing themselves to receive this gift more fully -- through prayer, the sacraments, and openness -- without presuming it is owed",
+      "explanation": "This is a real, honest, middle position -- a person can actually dispose themselves to receive this gift more fully through real, ordinary prayer and the sacraments, without presuming the gift is owed to them by effort alone.",
+      "hint": "Consider the real, similar distinction this app's own Prayer topic already drew about disposing oneself for a gift versus producing it by technique.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-004",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: A person can actually dispose themselves to receive the gift of the theological virtues more fully, without this amounting to earning them by effort alone.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, careful distinction matters -- disposing oneself for a gift is genuinely different from producing that gift through effort alone.",
+      "hint": "Consider whether disposing oneself for a gift is the same real thing as earning that gift through effort.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-005",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "Does the theological virtues actually being a gift, rather than earned, mean a person's own real cooperation and effort actually play no meaningful role at all?",
+      "choices": [
+        "No -- real, personal cooperation and effort genuinely matter in disposing oneself to receive and actually live out the gift, even though the gift's own real origin is never earned",
+        "Yes -- since the theological virtues are actually a gift, a person's own real effort and cooperation actually play no meaningful role whatsoever",
+        "The real, relationship between gift and personal effort actually has no coherent, honest answer available at all",
+        "Yes -- a person's own real, personal cooperation actually contradicts the theological virtues' own real, gift-nature entirely"
+      ],
+      "correctAnswer": "No -- real, personal cooperation and effort genuinely matter in disposing oneself to receive and actually live out the gift, even though the gift's own real origin is never earned",
+      "explanation": "This is a real, careful, important clarification -- personal cooperation genuinely matters in disposing oneself and actually living out the gift, even though its own real origin as a gift is never earned by that effort.",
+      "hint": "Consider whether a gift, once received, still actually requires a person's own real cooperation to actually be lived out.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-006",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: Personal cooperation and effort still genuinely matter in disposing oneself to receive and live out the theological virtues, even though their own real origin is never earned.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, careful point closes this level honestly -- a gift's own real origin being unearned doesn't actually remove the genuine, real role of personal cooperation in living it out.",
+      "hint": "Recall this level's own real point about personal cooperation still mattering, even for a genuine gift.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-007",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1385,
+      "prompt": "Match each fact about why the theological virtues can't be earned to what it actually means.",
+      "pairs": [
+        {
+          "left": "The theological virtues, at their core",
+          "right": "A real, genuine gift infused by God, not earned by effort alone"
+        },
+        {
+          "left": "The most a person can honestly do",
+          "right": "Dispose themselves to receive the gift, without presuming it's owed"
+        },
+        {
+          "left": "Does personal effort still matter?",
+          "right": "Yes -- in disposing oneself and living out the gift, though not earning it"
+        },
+        {
+          "left": "Why this level's own point matters",
+          "right": "Clarifies real hope and real, honest effort without false presumption"
+        }
+      ],
+      "explanation": "These four facts together give this level's own real, honest, careful teaching on why the theological virtues resist being reduced to earned achievements.",
+      "hint": "Each row names one real, careful step in this level's own honest teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-008",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: Having now shown why the theological virtues can't be earned, this topic's next level turns to the seven capital vices.",
+      "correctAnswer": true,
+      "explanation": "True. Having named this real, honest limit, this topic's next level turns to the seven capital vices.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-009",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "What real, general habit has this level added to the previous level's own real, theological virtue definitions?",
+      "choices": [
+        "Naming honestly what effort can and cannot actually do for the theological virtues, distinguishing disposing oneself from earning the gift",
+        "Assuming the theological virtues are actually identical to the cardinal virtues in how they're actually acquired",
+        "Abandoning the previous level's own real, theological virtue definitions entirely",
+        "Assuming no real, honest cooperation with the theological virtues is actually possible at all"
+      ],
+      "correctAnswer": "Naming honestly what effort can and cannot actually do for the theological virtues, distinguishing disposing oneself from earning the gift",
+      "explanation": "This level's own real habit -- honestly naming a real limit, while still leaving room for genuine, real cooperation -- is exactly the same real discipline this topic will keep practicing through its own later levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, theological virtue definitions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l7-010",
+      "topic": "virtues-and-vices",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "Given this level's own real point about why the theological virtues can't be earned, what does the next level in this topic turn to?",
+      "choices": [
+        "The seven capital vices",
+        "A complete repeat of this same level's material about the theological virtues as a gift",
+        "A jump ahead to the Beatitudes, skipping over everything in between",
+        "A subject entirely unrelated to virtue or real, spiritual growth"
+      ],
+      "correctAnswer": "The seven capital vices",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from the theological virtues' own real, gift-nature to the seven capital vices.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1813",
+          "quote": "The theological virtues... are infused by God into the souls of the faithful to make them capable of acting as his children."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-001",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "The 'capital' or 'deadly' vices are called that not because each one is automatically a mortal sin, but because they:",
+      "choices": [
+        "Give rise to other sins and vices, serving as their root or 'head'",
+        "Were the very first sins ever committed by anyone",
+        "All involve capital punishment under Church law",
+        "Can never be forgiven under any circumstances"
+      ],
+      "correctAnswer": "Give rise to other sins and vices, serving as their root or 'head'",
+      "explanation": "'Capital' comes from the Latin caput, 'head' -- these vices are the head or source from which many other sins branch out, not a special category immune to forgiveness.",
+      "hint": "Think of 'capital' as in 'head' or 'source,' the root Latin meaning -- not as in punishment.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866",
+          "quote": "They are called 'capital' because they engender other sins, other vices. They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-002",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1378,
+      "prompt": "True or False: Pride is traditionally considered the first and most fundamental of the capital vices.",
+      "correctAnswer": true,
+      "explanation": "Pride -- an excessive, disordered self-regard that refuses to acknowledge dependence on God -- is traditionally named first among the capital vices, often seen as the root from which the others grow.",
+      "hint": "This is the vice most directly opposed to humility before God.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866",
+          "quote": "They are called 'capital' because they engender other sins, other vices. They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l8-003",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1488,
+      "prompt": "____, the capital vice of resentment at another person's good fortune and secret pleasure at their misfortune, is directly opposed to the virtue of charity.",
+      "correctAnswer": "Envy",
+      "explanation": "Envy is sorrow at another's good, as though it diminished one's own -- the opposite of charity, which rejoices in the good of others as a friend would.",
+      "hint": "It's the vice at work when someone else's success feels like your loss.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2539-2540",
+          "quote": "Envy is a capital sin. It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-004",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "'Sloth' (acedia), as a capital vice, is best understood as:",
+      "choices": [
+        "A spiritual apathy or sluggishness that resists the effort love of God requires",
+        "Simply being physically tired at the end of a long day",
+        "Taking a legitimate day of rest",
+        "Enjoying leisure time with family or friends"
+      ],
+      "correctAnswer": "A spiritual apathy or sluggishness that resists the effort love of God requires",
+      "explanation": "Sloth isn't ordinary tiredness or healthy rest -- it's a spiritual sluggishness so deep it refuses the joy that comes from God, neglecting the effort love of him actually requires.",
+      "hint": "This is about the soul's laziness toward God, not the body's need for sleep.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2094",
+          "quote": "Acedia or spiritual sloth goes so far as to refuse the joy that comes from God and to be repelled by divine goodness."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l8-005",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1378,
+      "prompt": "True or False: 'Gluttony' refers only to eating too much food, and has nothing to do with drink or other bodily pleasures.",
+      "correctAnswer": false,
+      "explanation": "Gluttony traditionally names a broader disordered attachment to food and drink -- excess, but also excessive fussiness, eating too eagerly, or too often -- not just overeating narrowly defined.",
+      "hint": "This vice is opposed to the same virtue that governs desire for pleasure more broadly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1809",
+          "quote": "Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l8-006",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1468,
+      "prompt": "Match each capital vice to the virtue it most directly opposes.",
+      "pairs": [
+        {
+          "left": "Pride",
+          "right": "Humility"
+        },
+        {
+          "left": "Envy",
+          "right": "Charity (rejoicing in another's good)"
+        },
+        {
+          "left": "Sloth",
+          "right": "Zeal and diligence for God"
+        },
+        {
+          "left": "Gluttony",
+          "right": "Temperance"
+        }
+      ],
+      "explanation": "Each capital vice is a distortion or refusal of a corresponding virtue -- growth in virtue is, in large part, the slow uprooting of these very tendencies.",
+      "hint": "Each vice is essentially the absence or corruption of one specific virtue.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866",
+          "quote": "They are called 'capital' because they engender other sins, other vices. They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-007",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "Why is 'capital' the more precise term than 'deadly' for these seven vices?",
+      "choices": [
+        "Because they are the head (caput) from which other sins spring, not because each one is itself always a mortal sin",
+        "Because each one always causes physical death",
+        "Because they were first listed by a pope named Capital",
+        "Because they concern only the seven deadliest crimes"
+      ],
+      "correctAnswer": "Because they are the head (caput) from which other sins spring, not because each one is itself always a mortal sin",
+      "explanation": "A single act of envy or a passing moment of gluttony need not be mortal at all. What earns the name is their generative role \u2014 each is a habitual disposition that tends to breed further sins, which is a claim about origin, not automatically about gravity.",
+      "hint": "The Latin root gives the real reason for the name.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l8-008",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1378,
+      "prompt": "True or False: Wrath, as a capital vice, refers to any and all anger whatsoever, including anger at genuine injustice.",
+      "correctAnswer": false,
+      "explanation": "False. The vice is disordered anger \u2014 desire for revenge exceeding what justice actually requires, or anger detached from any real wrong. Christ's anger clearing the Temple is not the vice; anger nursed past what the offense warrants, or aimed at an innocent target, is.",
+      "hint": "Ask whether all anger is disordered, or only anger past its proper measure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        },
+        {
+          "type": "scripture",
+          "reference": "Ephesians 4:26"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l8-009",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "Which capital vice is traditionally understood as sorrow at the good God offers, or aversion to the effort holiness requires?",
+      "choices": [
+        "Sloth (acedia)",
+        "Envy",
+        "Gluttony",
+        "Pride"
+      ],
+      "correctAnswer": "Sloth (acedia)",
+      "explanation": "Acedia is not mere laziness about chores; classically it is a spiritual weariness that recoils from the demands of the good, including from prayer itself. It is closer to giving up on holiness as too costly than to an afternoon on the sofa.",
+      "hint": "This vice is specifically about resistance to spiritual effort, not physical idleness.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2094"
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "virtues-and-vices-l8-010",
+      "topic": "virtues-and-vices",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1468,
+      "prompt": "Match each capital vice to the virtue it most directly opposes.",
+      "pairs": [
+        {
+          "left": "Pride",
+          "right": "Humility"
+        },
+        {
+          "left": "Envy",
+          "right": "Charity, rejoicing in another's good"
+        },
+        {
+          "left": "Wrath",
+          "right": "Meekness, or patience"
+        },
+        {
+          "left": "Sloth",
+          "right": "Diligence, or fervor of spirit"
+        }
+      ],
+      "explanation": "Naming the opposing virtue does more work than naming the vice alone: it shows exactly what to build rather than only what to avoid, which is the more useful half of moral formation.",
+      "hint": "For each vice, ask what its exact opposite habit would look like.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1866"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2540"
+        }
+      ]
+    }
+  ]
+}
