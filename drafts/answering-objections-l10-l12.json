@@ -1,0 +1,735 @@
+{
+  "_comment": "Answering-objections levels 10-12: historical scandals (remapped old L4), a further historical scandal (Pius XII/Day of Pardon), advanced dialogue principles (remapped old L5)",
+  "topic": "answering-objections",
+  "questions": [
+    {
+      "id": "answering-objections-l10-001",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Objection: 'The Church has never admitted wrongdoing for events like the Crusades or the Inquisition.' In fact, Pope St. John Paul II:",
+      "choices": [
+        "Publicly asked forgiveness for sins committed by members of the Church throughout history, at a 'Day of Pardon' liturgy in 2000",
+        "Refused to ever discuss the topic publicly",
+        "Argued the Crusades and Inquisition never actually happened",
+        "Excommunicated historians who studied these events"
+      ],
+      "correctAnswer": "Publicly asked forgiveness for sins committed by members of the Church throughout history, at a 'Day of Pardon' liturgy in 2000",
+      "explanation": "As part of the Jubilee Year 2000, John Paul II led a public liturgy of repentance at St. Peter's Basilica, explicitly asking forgiveness for historical sins committed by members of the Church, including violence done in God's name.",
+      "hint": "This was a public liturgy, not a private conversation, held during the Jubilee Year 2000.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-002",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: The Galileo affair means the Catholic Church officially teaches that Scripture must always be read as a scientific textbook on astronomy.",
+      "correctAnswer": false,
+      "explanation": "The Church's own teaching on Scripture holds that it reliably teaches what is needed for our salvation, using the literary forms and worldview of its time -- not that it functions as a modern scientific astronomy textbook.",
+      "hint": "The Church's actual teaching on how to read Scripture doesn't demand this kind of scientific literalism.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-003",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "fill_blank",
+      "difficultyElo": 1585,
+      "prompt": "Pope St. John Paul II commissioned a study of the Galileo case and, in a 1992 address, publicly acknowledged that Church officials of the time had made ____ in their handling of the matter.",
+      "correctAnswer": "errors",
+      "explanation": "After more than a decade of study by a Pontifical commission, John Paul II publicly acknowledged the real mistakes made by theologians and officials in the Galileo case -- a notable example of the Church reckoning honestly with its own history.",
+      "hint": "It's a word for mistakes -- the Church acknowledged real ones were made.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Address to the Pontifical Academy of Sciences, Pope St. John Paul II (1992)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-004",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Regarding the sin of slavery, one of the Catholic Church's clearest direct condemnations of the slave trade came in Pope Gregory XVI's 1839 document:",
+      "choices": [
+        "In Supremo Apostolatus",
+        "Rerum Novarum",
+        "Humani Generis",
+        "Pascendi Dominici Gregis"
+      ],
+      "correctAnswer": "In Supremo Apostolatus",
+      "explanation": "In Supremo Apostolatus condemned the slave trade and the enslavement of indigenous peoples and Africans -- an explicit papal statement against practices some Catholics, in contradiction of Church teaching, had participated in.",
+      "hint": "The other three documents address labor conditions, evolution, and Modernism -- not slavery specifically.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)",
+          "quote": "We reprove, then, by virtue of Our Apostolic Authority, all the practices abovementioned as absolutely unworthy of the Christian name."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-005",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Historical wrongdoing by some members of the Church, even including clergy, does not by itself disprove the truth of Catholic doctrine, any more than a scientist's personal misconduct disproves a scientific theory.",
+      "correctAnswer": true,
+      "explanation": "The Catechism describes the Church as holy in her founder, sacraments, and teaching, while always including sinful members in need of ongoing purification -- a distinction between the truth she holds and the failures of individuals within her.",
+      "hint": "The truth of a claim and the behavior of people who claim to believe it are two separate questions.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827",
+          "quote": "The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-006",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each historical challenge to a documented Church response.",
+      "pairs": [
+        {
+          "left": "Crusades / Inquisition",
+          "right": "JPII's public 'Day of Pardon' asking forgiveness (2000)"
+        },
+        {
+          "left": "Galileo affair",
+          "right": "JPII publicly acknowledged errors by Church officials (1992)"
+        },
+        {
+          "left": "Slavery",
+          "right": "Gregory XVI's In Supremo Apostolatus condemned the slave trade (1839)"
+        },
+        {
+          "left": "Sins of individual members",
+          "right": "Don't by themselves disprove the truth of Church teaching"
+        }
+      ],
+      "explanation": "The Church's response to hard historical questions has generally been honest acknowledgment rather than denial -- while still distinguishing members' sins from the truth of what the Church actually teaches.",
+      "hint": "Three of these are specific documented papal acts; the last is a general principle about members versus doctrine.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827",
+          "quote": "The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "In Supremo Apostolatus, Pope Gregory XVI (1839)",
+          "quote": "We reprove, then, by virtue of Our Apostolic Authority, all the practices abovementioned as absolutely unworthy of the Christian name."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-007",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "Someone says: 'The abuse crisis shows the Church's claims are false.' What is the honest response?",
+      "choices": [
+        "Name the evil without qualification, acknowledge that those who abused and those who concealed it betrayed the people they were ordained to serve, and recognise the objection is usually not a syllogism",
+        "Point out that abuse rates are comparable in other institutions",
+        "Explain that the Church's holiness is Christ's, so the failures of members are irrelevant",
+        "Note that most accusations concern decades past"
+      ],
+      "correctAnswer": "Name the evil without qualification, acknowledge that those who abused and those who concealed it betrayed the people they were ordained to serve, and recognise the objection is usually not a syllogism",
+      "explanation": "The other three answers are each partly true and all three function as deflections. Comparative statistics say other children were also failed. An appeal to the Church's holiness, offered here, sounds like the institution excusing itself. And the Church's own teaching is that scandal is graver, not lesser, when given by those whose office is to teach \u2014 so the argument that clergy failures do not matter is one the Church herself rejects.",
+      "hint": "Three of these options are true statements that would still be wrong to say.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2284"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-008",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "true_false",
+      "difficultyElo": 1475,
+      "prompt": "True or False: Because scandal given by those in office is graver, the Church's own teaching intensifies rather than lessens the charge against clergy who abused.",
+      "correctAnswer": true,
+      "explanation": "True, and it is worth saying plainly. Scandal is grave in proportion to the authority of the one giving it. The Church does not possess a doctrine that softens what was done; her own moral theology makes it worse, which is the opposite of what an outsider expects to hear.",
+      "hint": "Ask whether the Church's teaching on scandal makes an ordained abuser's guilt greater or smaller.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-009",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "multiple_choice",
+      "difficultyElo": 1525,
+      "prompt": "How should the distinction between the Church's holiness and her members' sin be used?",
+      "choices": [
+        "It explains how the Church can be holy while containing sinners; it never functions as a reply to someone harmed by those sinners",
+        "It shows that the failures of members are unimportant",
+        "It proves the institution bears no responsibility for what its ministers do",
+        "It should be the first thing said whenever the abuse crisis is raised"
+      ],
+      "correctAnswer": "It explains how the Church can be holy while containing sinners; it never functions as a reply to someone harmed by those sinners",
+      "explanation": "The distinction is true and it has a proper use, which is theological. Deployed to a victim it becomes an evasion wearing doctrine as cover. Knowing a true thing and knowing when saying it would be wrong are different competencies, and this topic requires the second.",
+      "hint": "The question is not whether the distinction is true, but what it can and cannot be used for.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l10-010",
+      "topic": "answering-objections",
+      "level": 10,
+      "type": "matching_pairs",
+      "difficultyElo": 1565,
+      "prompt": "Match each historical charge to what the record actually shows.",
+      "pairs": [
+        {
+          "left": "The Galileo affair",
+          "right": "A real failure, publicly acknowledged and studied by John Paul II"
+        },
+        {
+          "left": "The slave trade",
+          "right": "Condemned by Gregory XVI in In Supremo Apostolatus (1839)"
+        },
+        {
+          "left": "The Day of Pardon (2000)",
+          "right": "A formal request for forgiveness for sins of the Church's members"
+        },
+        {
+          "left": "The abuse crisis",
+          "right": "Grave evil, made graver by the office of those who committed it"
+        }
+      ],
+      "explanation": "Two of these are answered by pointing to a documented record; two require admitting fault without qualification. An apologetic that can only do the first kind is not honest, and people can tell.",
+      "hint": "Two of these are defended with evidence; two are not to be defended at all.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2285"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-001",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "The previous level covered several documented historical charges -- the Crusades, the Galileo affair, slavery, the abuse crisis. A further real objection: 'Pope Pius XII stayed silent during the Holocaust.' What is the real, careful, honest response?",
+      "choices": [
+        "Historians genuinely debate this -- some credit quiet wartime efforts to shelter Jews, others wanted more public action",
+        "This objection has actually never been raised by any real historian, ever",
+        "The real, honest answer is that Pius XII actually did nothing at all during this period",
+        "This objection should actually be dismissed outright, with no real, honest engagement at all"
+      ],
+      "correctAnswer": "Historians genuinely debate this -- some credit quiet wartime efforts to shelter Jews, others wanted more public action",
+      "explanation": "This is exactly the same real, honest method the previous level already modeled -- naming the actual, documented historical record, including its own real, genuine complexity, rather than either a defensive denial or an uncritical concession.",
+      "hint": "Recall the previous level's own real method for the Galileo affair -- naming the documented record honestly, not defensively.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-002",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: An honest response to a genuinely debated historical charge should name the real, ongoing scholarly debate rather than presenting a falsely simple, one-sided verdict.",
+      "correctAnswer": true,
+      "explanation": "True, and this is exactly this level's own real point -- real, honest engagement with a genuinely debated historical question names the actual complexity, rather than manufacturing false, one-sided certainty in either direction.",
+      "hint": "Consider what this level's own real answer actually did with the genuinely debated historical record.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-003",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "In the year 2000, Pope St. John Paul II led a real, public 'Day of Pardon' liturgy at St. Peter's Basilica. What did this real, concrete act actually do?",
+      "choices": [
+        "It publicly asked forgiveness for historical sins by Church members, modeling this topic's own honesty",
+        "It actually denied that the Church had ever committed any real, historical wrongdoing at all",
+        "It actually had no real, public or historical significance whatsoever",
+        "It was actually held in complete secrecy, with no real, public participation"
+      ],
+      "correctAnswer": "It publicly asked forgiveness for historical sins by Church members, modeling this topic's own honesty",
+      "explanation": "This real, historical event is a concrete, institutional example of exactly the honesty this topic has modeled throughout -- publicly, formally naming real historical wrongdoing rather than denying or minimizing it.",
+      "hint": "Consider what a public liturgy specifically dedicated to asking pardon would actually accomplish.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-004",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: The Church's own real, official teaching holds that she is at once holy and always in need of purification, following a constant path of real penance and renewal.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, official teaching is exactly why events like the Day of Pardon are not actually embarrassing exceptions, but a real, consistent expression of the Church's own self-understanding as always in need of purification.",
+      "hint": "Recall this app's own earlier real citation on the Church clasping sinners to her bosom, always in need of purification.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827",
+          "quote": "The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-005",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Why does acknowledging the Church's own real, official teaching on being 'always in need of purification' actually strengthen, rather than weaken, an honest response to historical scandals?",
+      "choices": [
+        "Because it shows this response flows from the Church's own consistent teaching, not an embarrassed concession under outside pressure",
+        "Because this real teaching actually has no bearing whatsoever on how historical scandals should be addressed",
+        "Because acknowledging this real teaching actually admits the Church's own claims are entirely false",
+        "Because this real teaching actually contradicts everything the previous level already established"
+      ],
+      "correctAnswer": "Because it shows this response flows from the Church's own consistent teaching, not an embarrassed concession under outside pressure",
+      "explanation": "This is a real, important point -- the Church's own honesty about historical sin isn't a reluctant concession under real, outside pressure, but flows from her own consistent, official self-understanding as holy and always in need of purification.",
+      "hint": "Consider whether the Church's own honesty here looks more like a forced concession or a consistent, internal teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827",
+          "quote": "The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-006",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: This level's own real method -- naming genuine historical debate honestly, then pointing to the Church's own real, official teaching and real, concrete acts of acknowledgment -- is the same real pattern the previous level already established.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this shared real method matters -- this level extends the exact same real, honest pattern the previous level already established for the Crusades, Galileo, slavery, and the abuse crisis.",
+      "hint": "Recall the previous level's own real method for engaging documented historical charges honestly.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-007",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "matching_pairs",
+      "difficultyElo": 1640,
+      "prompt": "Match each fact about a further real historical scandal to what it actually means.",
+      "pairs": [
+        {
+          "left": "The Pius XII/Holocaust-silence objection",
+          "right": "A genuinely debated real historical question, not a simple, one-sided verdict"
+        },
+        {
+          "left": "The 2000 Day of Pardon liturgy",
+          "right": "A real, concrete, public act of asking forgiveness for historical sin"
+        },
+        {
+          "left": "\"Always in need of purification\"",
+          "right": "The Church's own real, official teaching, not an ad hoc, embarrassed concession"
+        },
+        {
+          "left": "Why this level's own method matters",
+          "right": "The same real, honest pattern the previous level already established"
+        }
+      ],
+      "explanation": "These four facts together extend the previous level's own real method to a further, genuinely debated historical charge, showing the same real, consistent honesty this topic has practiced throughout.",
+      "hint": "Two rows name the real, specific objection and the Church's own real, concrete response; two explain the real, underlying teaching and method.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827",
+          "quote": "The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-008",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "true_false",
+      "difficultyElo": 1550,
+      "prompt": "True or False: Having now extended this topic's own real method to a further historical scandal, this topic's next level turns to advanced dialogue principles.",
+      "correctAnswer": true,
+      "explanation": "True. Having practiced this real, honest method on a further, genuinely debated historical charge, this topic's next level turns to a genuinely different, real set of advanced principles for hard dialogue itself.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-009",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "What real, general habit has this level added to the previous level's own real body of documented historical charges?",
+      "choices": [
+        "Extending the same honest method to a debated question, grounded in official teaching and concrete acts of acknowledgment",
+        "Assuming every real, further historical charge is automatically completely false",
+        "Abandoning the previous level's own real, honest method entirely",
+        "Assuming genuinely debated historical questions should actually never be honestly acknowledged"
+      ],
+      "correctAnswer": "Extending the same honest method to a debated question, grounded in official teaching and concrete acts of acknowledgment",
+      "explanation": "This level's own real habit -- extending the same honest method, grounded in official teaching and concrete acts -- is exactly the same real discipline this topic will keep practicing through its own later levels.",
+      "hint": "Consider what this level actually did with a further, genuinely debated historical charge.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 827",
+          "quote": "The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l11-010",
+      "topic": "answering-objections",
+      "level": 11,
+      "type": "multiple_choice",
+      "difficultyElo": 1600,
+      "prompt": "Given this level's picture of a further real historical scandal, answered, what does the next level in this topic turn to?",
+      "choices": [
+        "Advanced dialogue principles",
+        "A complete repeat of this same level's material about historical scandals",
+        "A jump ahead to the capstone, skipping over everything in between",
+        "A subject entirely unrelated to real objections or real, historical honesty"
+      ],
+      "correctAnswer": "Advanced dialogue principles",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from documented historical charges to advanced, real principles for the dialogue itself.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-001",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "When engaging a sophisticated philosophical objection to theism, such as the logical problem of evil, the most effective response typically:",
+      "choices": [
+        "Directly addresses the argument's specific premises with careful reasoning, rather than changing the subject or relying on emotional appeals",
+        "Simply repeats one's own position louder",
+        "Avoids the argument entirely and appeals only to authority",
+        "Dismisses the objection as unworthy of serious engagement"
+      ],
+      "correctAnswer": "Directly addresses the argument's specific premises with careful reasoning, rather than changing the subject or relying on emotional appeals",
+      "explanation": "Fides et Ratio commends rigorous philosophical engagement as part of the Church's own intellectual tradition -- serious objections deserve a serious, reasoned answer, not evasion.",
+      "hint": "At an advanced level, the objection deserves the same careful reasoning it was made with.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-002",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Catholic theology holds that a well-formed conscience can, in principle, discover basic moral truths -- like the wrongness of murder -- even without explicit reference to divine revelation.",
+      "correctAnswer": true,
+      "explanation": "The natural law, according to Catholic teaching, is written on every human heart and knowable by reason -- revelation confirms and elevates it, but doesn't create it from nothing.",
+      "hint": "This is about the natural law, which reason alone can access to some real degree.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1954-1955",
+          "quote": "The natural law is written and engraved in the soul of each and every man, because it is human reason ordaining him to do good and forbidding him to sin."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-003",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "fill_blank",
+      "difficultyElo": 1735,
+      "prompt": "In dialogue with a skeptic who demands 'scientific proof' for God's existence, it helps to note that God's existence is properly a question for ____, which uses different methods and evidence than a laboratory experiment.",
+      "correctAnswer": "philosophy",
+      "explanation": "Demanding a laboratory-style proof for a philosophical or metaphysical question applies the wrong tool to the wrong kind of question -- philosophy has its own rigorous methods, distinct from the empirical sciences.",
+      "hint": "This discipline includes metaphysics and natural theology, distinct from the empirical sciences.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-004",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "St. Thomas Aquinas' method in the Summa Theologiae, still used as a model in advanced apologetics dialogue, involves:",
+      "choices": [
+        "Stating the strongest form of an objection first, before offering a reasoned response to it",
+        "Ignoring objections entirely and only presenting conclusions",
+        "Only ever quoting Scripture, never using philosophical argument",
+        "Refusing to consider any position other than his own"
+      ],
+      "correctAnswer": "Stating the strongest form of an objection first, before offering a reasoned response to it",
+      "explanation": "Aquinas' famous structure -- objections, a counter-authority, his own resolution, and replies to each objection -- models taking opposing views seriously rather than caricaturing them before responding.",
+      "hint": "Aquinas' articles always present the other side's best case before answering it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
+          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-005",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Advanced apologetics dialogue should aim to 'win' every single exchange, treating any concession or moment of genuine listening as a defeat.",
+      "correctAnswer": false,
+      "explanation": "Even at the most advanced level, 1 Peter 3:15's call for 'gentleness and reverence' still applies -- the goal remains genuine dialogue and witness, not a combative scorecard of wins and losses.",
+      "hint": "The same charter verse from Level 1 still governs the tone here, even in advanced dialogue.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-006",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each advanced dialogue principle to its source.",
+      "pairs": [
+        {
+          "left": "Address the argument's actual premises",
+          "right": "Fides et Ratio's call for rigorous philosophical engagement"
+        },
+        {
+          "left": "Natural law is knowable by reason",
+          "right": "CCC 1954-1955"
+        },
+        {
+          "left": "State the objection in its strongest form first",
+          "right": "Aquinas' method in the Summa Theologiae"
+        },
+        {
+          "left": "Maintain gentleness even in advanced debate",
+          "right": "1 Peter 3:15"
+        }
+      ],
+      "explanation": "These four principles together describe a mature apologetics practice: rigorous, reasoned, aware of what reason alone can reach, and never abandoning charity even under pressure.",
+      "hint": "Each principle traces back to a distinct source -- an encyclical, a Catechism section, a medieval method, and a Scripture verse.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1954-1955",
+          "quote": "The natural law is written and engraved in the soul of each and every man, because it is human reason ordaining him to do good and forbidding him to sin."
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence."
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-007",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "Before answering a serious objection, what should you be able to do?",
+      "choices": [
+        "State the objection in a form its holder would accept as fair, including its strongest version",
+        "Identify the objector's motive for raising it",
+        "Locate a magisterial text that condemns it",
+        "Establish that the objector is not qualified to raise it"
+      ],
+      "correctAnswer": "State the objection in a form its holder would accept as fair, including its strongest version",
+      "explanation": "If you cannot state it fairly, you do not yet know what you are answering, and the person will recognise that before you do. Answering a weakened version is worse than saying nothing: it teaches them the real objection has no answer, since you avoided it.",
+      "hint": "The test is whether the other person would recognise their own position in your description of it.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-008",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "true_false",
+      "difficultyElo": 1625,
+      "prompt": "True or False: Saying 'I don't know' to an objection damages your credibility and should be avoided.",
+      "correctAnswer": false,
+      "explanation": "False \u2014 it is usually the opposite. Admitting a limit makes everything else you claim more believable, and improvising an answer you cannot support hands the other person a genuine reason to distrust the rest. 'I don't know, but I will find out' also leaves the conversation open, which pretending never does.",
+      "hint": "Consider what an obviously improvised answer does to the credibility of your earlier ones.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2469"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-009",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "multiple_choice",
+      "difficultyElo": 1675,
+      "prompt": "An objection is raised with real anger. What does the anger most often indicate?",
+      "choices": [
+        "That the objection is carrying an injury, and the injury has to be heard before any argument can be",
+        "That the person is arguing in bad faith and should be disengaged from",
+        "That the argument must be answered more forcefully to be heard",
+        "That the topic should be avoided entirely"
+      ],
+      "correctAnswer": "That the objection is carrying an injury, and the injury has to be heard before any argument can be",
+      "explanation": "Anger at the Church is very often anger about something that actually happened \u2014 to them or to someone they love. An argument delivered over it, however sound, communicates that the injury was heard as a debating position. Nothing is lost by listening first; a great deal is lost by not.",
+      "hint": "Ask what an angry objection is usually about, underneath the words.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Romans 12:15"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        }
+      ]
+    },
+    {
+      "id": "answering-objections-l12-010",
+      "topic": "answering-objections",
+      "level": 12,
+      "type": "matching_pairs",
+      "difficultyElo": 1715,
+      "prompt": "Match each dialogue habit to the reason it matters.",
+      "pairs": [
+        {
+          "left": "Stating the objection at its strongest",
+          "right": "Otherwise you answer something they did not say"
+        },
+        {
+          "left": "Admitting what you do not know",
+          "right": "Improvised answers discredit your sound ones"
+        },
+        {
+          "left": "Listening before answering anger",
+          "right": "An injury heard as an argument is not heard"
+        },
+        {
+          "left": "Leaving the conversation open",
+          "right": "A question can be returned to; a quarrel usually cannot"
+        }
+      ],
+      "explanation": "None of these concerns the content of any argument, and all four decide whether the content ever gets a hearing. Most failed apologetic conversations fail here rather than on the merits.",
+      "hint": "All four are about the conditions of a conversation, not its substance.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16"
+        }
+      ]
+    }
+  ]
+}
