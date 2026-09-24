@@ -737,10 +737,76 @@ real, honest extension, rather than simply repeating it.
 | 22 | Capstone: lectio divina, the dark night, infused contemplation `[L10]` | 21 |
 | 23 | Capstone: prayer as a real, lifelong relationship, not a mastered technique `[NEW]` | 22 |
 
-Prayer goes next, following the same on-ramp pattern used throughout
-this session, adapted specifically to Andrew's own standing
-instruction that this topic's own syllabus be genuinely pedagogical,
-not chronological -- which its live bank, read closely, already is.
+**Done, Sep 24, 2026: Prayer (23 levels), following Church History,
+the Old Testament, Saints, Councils, Heresies, Dogmas-and-doctrine,
+Metaphysics, Apologetics, Liturgy-and-mass, Sacred-scripture, and
+Answering-objections.** Drafted, verified, committed. Its own live
+bank was already a genuine, pedagogical progression, not a
+chronological one -- exactly Andrew's own standing instruction for
+this specific topic. It kept that real order fully intact (basic
+definition through infused contemplation) and added 3 new, gentler,
+truly beginner levels plus 10 new bridging levels, each turning the
+previous level's own real content into an actual, practical, daily
+habit rather than leaving it as knowledge alone. Its own new final
+capstone names real, faithful relationship with God, sustained over a
+whole lifetime, as the true measure of a genuinely good prayer life --
+not any single, mastered technique or mystical stage reached.
+
+---
+
+## Worked example -- Church Latin, 23 levels (N=10 -> 2*10+3=23)
+
+Church Latin's own live bank (10 levels) is already a genuine, real,
+pedagogical progression: basic Mass vocabulary (L1), common Marian and
+personal prayers (L2), the Mass's own real, dialogue responses (L3),
+magisterial and canonical phrases (L4), precise theological terms of
+art (L5), real Latin hymns including the Advent O Antiphons (L6, 18
+questions), the Vulgate's own real Scripture (L7), patristic Latin
+(L8), real, grammatical analysis (L9), and a real, integrating
+capstone on why the Church maintains Latin's own place (L10). This
+on-ramp keeps that real order fully intact, adding 3 new, gentler,
+truly beginner levels below the floor (ecclesiastical pronunciation
+basics, since CLAUDE.md's own Church Latin note requires this be
+taught in text only, no audio; why the Church still uses Latin, in
+the simplest terms; recognizing Latin phrases already known without
+realizing it) plus 10 new bridging levels interleaved after each old
+level, each turning real vocabulary into further, practical,
+real recognition or further, real, engaged content. Old L10's own
+capstone items 006 and 007 reference "level 9" and "level 8" by
+number -- these need rewording once remapped, matching the fix
+pattern used throughout this session, since old L9 and L8 land at new
+levels 20 and 18, not 9 and 8.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | Ecclesiastical pronunciation, in the simplest possible terms `[NEW]` | nothing assumed |
+| 2 | Why the Church still uses Latin, in the simplest terms `[NEW]` | 1 |
+| 3 | Latin phrases you already know without realizing it `[NEW]` | 2 |
+| 4 | Basic Mass vocabulary `[L1]` | 3 |
+| 5 | Practicing basic Mass words in real, everyday context `[NEW bridging]` | 4 |
+| 6 | Common Marian and personal prayers `[L2]` | 5 |
+| 7 | A further real, common prayer engaged `[NEW bridging]` | 6 |
+| 8 | The Mass's own real, dialogue responses `[L3]` | 7 |
+| 9 | Practicing the real, dialogue responses aloud, in text `[NEW bridging]` | 8 |
+| 10 | Magisterial and canonical phrases `[L4]` | 9 |
+| 11 | A further real, magisterial phrase engaged `[NEW bridging]` | 10 |
+| 12 | Precise theological terms of art `[L5]` | 11 |
+| 13 | Using these real terms of art precisely `[NEW bridging]` | 12 |
+| 14 | Real Latin hymns, including the Advent O Antiphons `[L6]` | 13 |
+| 15 | A further real hymn line engaged `[NEW bridging]` | 14 |
+| 16 | The Vulgate's own real Scripture `[L7]` | 15 |
+| 17 | A further real Vulgate passage engaged `[NEW bridging]` | 16 |
+| 18 | Patristic Latin `[L8]` | 17 |
+| 19 | Verifying a real Latin tag found online, honestly `[NEW bridging]` | 18 |
+| 20 | Real, grammatical analysis `[L9]` | 19 |
+| 21 | Applying real grammar to a newly encountered phrase `[NEW bridging]` | 20 |
+| 22 | Capstone: why the Church maintains Latin's own real place `[L10]` | 21 |
+| 23 | Capstone: reading the Church's own real words directly, a lifelong habit `[NEW]` | 22 |
+
+Church Latin goes next, following the same on-ramp pattern used
+throughout this session, since its own live bank is already a
+genuine, real, pedagogical progression from simple vocabulary to
+grammar and integration.
 
 ---
 
