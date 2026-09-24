@@ -1,0 +1,761 @@
+{
+  "_comment": "Prayer levels 6-8: the Our Father verse by verse (remapped old L2), praying it slowly, the Rosary and popular devotions (remapped old L3)",
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l6-001",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The Catechism, quoting Tertullian, calls the Our Father the 'summary of the whole:",
+      "choices": [
+        "Gospel",
+        "Old Testament",
+        "Ten Commandments",
+        "Creed"
+      ],
+      "correctAnswer": "Gospel",
+      "explanation": "Tertullian's famous line, quoted in the Catechism, captures how the Our Father condenses the whole of Christ's teaching into a single, short prayer given by Jesus himself.",
+      "hint": "This is the same word used for the four New Testament accounts of Christ's life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2761",
+          "quote": "The Lord's Prayer is truly the summary of the whole gospel."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-002",
+      "topic": "prayer",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Our Father contains seven petitions.",
+      "correctAnswer": true,
+      "explanation": "Three petitions are oriented toward God's glory ('hallowed be thy name,' 'thy kingdom come,' 'thy will be done'), and four toward our own needs -- seven in total.",
+      "hint": "Count them: three about God's glory, then four more about our own needs.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2803",
+          "quote": "The Spirit of adoption stirs up in our hearts seven petitions, seven blessings. The first three, more theological, draw us toward the glory of the Father; the last four... commend our wretchedness to his grace."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-003",
+      "topic": "prayer",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The Our Father's seven petitions divide into two groups: three oriented toward God's own glory, and four oriented toward our own ____.",
+      "correctAnswer": "needs",
+      "explanation": "This structure moves the pray-er from focusing first on God -- his name, his kingdom, his will -- before turning to ask for bread, forgiveness, and protection from trial and evil.",
+      "hint": "The second group of petitions is about what we require to live and be saved.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2803",
+          "quote": "The first three, more theological, draw us toward the glory of the Father; the last four, as ways toward him, commend our wretchedness to his grace."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-004",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "'Give us this day our daily bread' is understood by the Catechism to include, in a special way, a request for:",
+      "choices": [
+        "The Eucharistic Bread of Life, in addition to ordinary material sustenance",
+        "Only literal, physical bread and nothing more",
+        "Financial wealth in general",
+        "A miracle of multiplication like the loaves and fishes"
+      ],
+      "correctAnswer": "The Eucharistic Bread of Life, in addition to ordinary material sustenance",
+      "explanation": "This petition asks for both the material bread we need to live and, in its fullest sense, the Eucharist itself -- the Bread of Life that sustains the soul.",
+      "hint": "This petition has both a very ordinary meaning and a much deeper, sacramental one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2837",
+          "quote": "This word ['epiousios'] taken in the temporal sense, is a pedagogical repetition of 'this day'... taken in the qualitative sense, it signifies what is necessary for life... this bread is 'the daily bread'... of the Eucharist."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-005",
+      "topic": "prayer",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: 'Forgive us our trespasses as we forgive those who trespass against us' ties our own forgiveness of others to receiving God's forgiveness.",
+      "correctAnswer": true,
+      "explanation": "Jesus immediately follows the Our Father with a direct warning: 'if you do not forgive others, neither will your Father forgive your transgressions' -- the two are bound together.",
+      "hint": "Jesus comments directly on this petition right after teaching the prayer.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:14-15",
+          "quote": "If you forgive others their transgressions, your heavenly Father will forgive you. But if you do not forgive others, neither will your Father forgive your transgressions."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-006",
+      "topic": "prayer",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each petition of the Our Father to its focus.",
+      "pairs": [
+        {
+          "left": "Hallowed be thy name",
+          "right": "God's own glory and holiness"
+        },
+        {
+          "left": "Thy kingdom come",
+          "right": "The coming of God's reign"
+        },
+        {
+          "left": "Give us this day our daily bread",
+          "right": "Material sustenance and the Eucharist"
+        },
+        {
+          "left": "Lead us not into temptation",
+          "right": "Asking for strength to resist trial and evil"
+        }
+      ],
+      "explanation": "Each petition, brief as it is, opens onto a vast area of Christian life and doctrine -- which is exactly why the Catechism spends so much space unpacking this one short prayer.",
+      "hint": "Two of these petitions look toward God's glory; two look toward our own daily needs.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2803",
+          "quote": "The first three, more theological, draw us toward the glory of the Father; the last four, as ways toward him, commend our wretchedness to his grace."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2837",
+          "quote": "This word ['epiousios']... signifies what is necessary for life... this bread is 'the daily bread'... of the Eucharist."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l6-007",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "'And lead us not into temptation' is understood by the Catechism NOT to mean that God himself:",
+      "choices": [
+        "Actively leads us into evil or tempts us to sin",
+        "Ever forgives sin",
+        "Answers any prayer at all",
+        "Loves those who are being tempted"
+      ],
+      "correctAnswer": "Actively leads us into evil or tempts us to sin",
+      "explanation": "The Catechism is careful here: this petition doesn't suggest God tempts us to sin -- Scripture itself insists God tempts no one -- but asks for the strength not to consent when trial and temptation come.",
+      "hint": "James 1:13 says plainly who does not tempt anyone to sin.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2846",
+          "quote": "'God cannot be tempted by evil and he himself tempts no one'; on the contrary, he wants to set us free from evil."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-008",
+      "topic": "prayer",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The word 'Amen,' which concludes the Our Father, is a word of affirmation, consenting to everything just prayed.",
+      "correctAnswer": true,
+      "explanation": "'Amen' is not a throwaway closing word -- it's an active act of consent, sealing agreement with everything the prayer just asked.",
+      "hint": "This word doesn't just end the prayer -- it agrees with it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2856",
+          "quote": "After the prayer is over you say 'Amen,' which means 'So be it,' thus ratifying with our 'Amen' what is contained in the prayer that God has taught us."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-009",
+      "topic": "prayer",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The doxology often added to the Our Father in liturgical use -- 'For thine is the kingdom, the power, and the glory, forever' -- takes up again, in praise, the prayer's first three ____.",
+      "correctAnswer": "petitions",
+      "explanation": "The doxology echoes back the prayer's opening three petitions -- God's name, kingdom, and will -- now offered as praise rather than request.",
+      "hint": "These are the same things asked for at the very start of the prayer, now offered back as praise.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2855",
+          "quote": "The doxology takes up again, by inclusion, the first three petitions to our Father: the glorification of his name, the coming of his reign, and the power of his saving will."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l6-010",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The Catechism says calling God 'Our Father' requires purifying our heart of certain false images. Which?",
+      "choices": [
+        "Images drawn from our own experience of fathers or authority, which may distort rather than reveal who God is",
+        "Any image of God as personal at all",
+        "Images taken from Scripture rather than philosophy",
+        "Images of God as merciful rather than just"
+      ],
+      "correctAnswer": "Images drawn from our own experience of fathers or authority, which may distort rather than reveal who God is",
+      "explanation": "The word Father is given by Christ, but everyone hears it through a particular history. For someone whose father was absent or cruel, the word carries freight that has to be purified rather than ignored \u2014 the Catechism names this directly rather than assuming the word lands cleanly.",
+      "hint": "The purification concerns what we bring to the word, not the word itself.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2779"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-011",
+      "topic": "prayer",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "What is a 'rule of life' in the Christian tradition?",
+      "choices": [
+        "A modest, written, realistic commitment about when and how you will pray, kept over time and reviewed rather than improvised daily",
+        "A vow binding under sin",
+        "A set of rules only for those in religious orders",
+        "A list of prayers that must be finished each day"
+      ],
+      "correctAnswer": "A modest, written, realistic commitment about when and how you will pray, kept over time and reviewed rather than improvised daily",
+      "explanation": "Improvised prayer collapses under a busy week, because the decision has to be made afresh every day and eventually the answer is no. A rule makes the decision once. The classic counsel is to make it smaller than you think you can manage \u2014 a rule you keep forms you, and one you abandon teaches you that you cannot pray.\n\nTry it: write one line. 'I will pray for ten minutes after the kettle boils, every weekday.' That is a rule of life.",
+      "hint": "The word 'rule' here is closer to a trellis than to a law.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2710"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2697"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l6-012",
+      "topic": "prayer",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: A person who misses their prayer time for a week has broken their rule and should start again with a stricter one.",
+      "correctAnswer": false,
+      "explanation": "False on both counts. Missing is expected \u2014 the tradition treats prayer as a battle, not a streak. And responding to failure by tightening the rule is how most rules die: the new one is harder, so it breaks sooner, and the person concludes the fault is in them.\n\nThe counsel is to return without drama and, if a rule breaks repeatedly, make it smaller rather than stricter.",
+      "hint": "Ask what usually happens to a rule made harder after a failure.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2725"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2742"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-001",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "The previous level covered the Our Father's seven petitions, verse by verse. What real, practical way of actually praying it turns that knowledge into a real, lived practice?",
+      "choices": [
+        "Praying it genuinely slowly, pausing after each real petition to actually let its own real meaning sink in, rather than reciting all seven quickly, by rote",
+        "Reciting the Our Father as quickly as actually possible, without pausing on any single petition",
+        "Studying the Our Father's own real petitions is actually sufficient by itself, with no real, practical need to actually pray it slowly",
+        "The Our Father should actually never be prayed slowly, since this would actually distort its real, traditional use"
+      ],
+      "correctAnswer": "Praying it genuinely slowly, pausing after each real petition to actually let its own real meaning sink in, rather than reciting all seven quickly, by rote",
+      "explanation": "This is a real, practical way to turn the previous level's own real, verse-by-verse knowledge into a lived practice -- praying it slowly, pausing on each petition, rather than reciting it quickly by rote.",
+      "hint": "Recall the previous level's own real, verse-by-verse content, and consider how it could actually shape the way the prayer is actually said.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2761",
+          "quote": "The Lord's Prayer is truly the summary of the whole gospel."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-002",
+      "topic": "prayer",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Praying the Our Father genuinely slowly, pausing on each real petition, actually helps its own real meaning sink in more than reciting it quickly by rote.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical point matters -- pausing on each real petition lets its own real, specific meaning actually sink in, rather than being lost in quick, habitual recitation.",
+      "hint": "Recall this level's own real, practical suggestion for praying the Our Father slowly.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2761",
+          "quote": "The Lord's Prayer is truly the summary of the whole gospel."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-003",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "The Our Father's first three real petitions -- 'hallowed be thy name,' 'thy kingdom come,' 'thy will be done' -- are oriented toward God's own real glory. What real, practical difference does pausing on these three actually make?",
+      "choices": [
+        "It reorients the person praying away from their own needs first, toward God's own greatness, before any request",
+        "It actually has no real, practical bearing on the person's own real posture in prayer at all",
+        "It actually means personal, real requests should never genuinely be prayed at all",
+        "It actually means the first three petitions should genuinely be skipped over quickly"
+      ],
+      "correctAnswer": "It reorients the person praying away from their own needs first, toward God's own greatness, before any request",
+      "explanation": "Pausing on these first three real petitions actually reorients the person praying toward God's own real greatness first, echoing this app's own earlier real teaching that love thinks first of the one loved.",
+      "hint": "Recall this app's own earlier real teaching on why the Our Father's first three petitions come before any personal request.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2804",
+          "quote": "The first series of petitions carries us toward him, for his own sake: thy name, thy kingdom, thy will! It is characteristic of love to think first of the one whom we love."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-004",
+      "topic": "prayer",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Pausing on the Our Father's first three real petitions actually reorients the person praying toward God's own real glory before any personal request.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, ordering point matters -- love thinks first of the one loved, which is exactly why the first three real petitions come before any personal, real request.",
+      "hint": "Recall this level's own real citation on why love thinks first of the one loved.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2804",
+          "quote": "The first series of petitions carries us toward him, for his own sake: thy name, thy kingdom, thy will! It is characteristic of love to think first of the one whom we love."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-005",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Someone finds it hard to actually pause meaningfully on 'forgive us our trespasses as we forgive those who trespass against us.' What real, practical step actually helps?",
+      "choices": [
+        "Naming one real, specific person who needs forgiveness, turning the abstract petition into a concrete moment",
+        "Skipping over this real petition entirely, since it's actually too difficult to pause on meaningfully",
+        "Reciting this real petition faster than the others, to actually avoid its own real difficulty",
+        "This real petition actually has no genuine, practical way to be prayed meaningfully at all"
+      ],
+      "correctAnswer": "Naming one real, specific person who needs forgiveness, turning the abstract petition into a concrete moment",
+      "explanation": "This is a real, practical, honest way to pray this real petition meaningfully -- naming one specific, real person turns an abstract line into a real, concrete moment of actual forgiveness.",
+      "hint": "Consider what real, practical step could turn an abstract line into something genuinely concrete and real.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:14-15",
+          "quote": "If you forgive others their transgressions, your heavenly Father will forgive you. But if you do not forgive others, neither will your Father forgive your transgressions."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-006",
+      "topic": "prayer",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Naming one real, specific person who needs forgiveness can actually turn the forgiveness petition from an abstract line into a real, concrete moment of prayer.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, practical technique matters -- turning an abstract petition into a real, concrete, named moment is exactly what makes slow, real prayer of the Our Father actually meaningful.",
+      "hint": "Recall this level's own real, practical suggestion for making the forgiveness petition concrete.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:14-15",
+          "quote": "If you forgive others their transgressions, your heavenly Father will forgive you. But if you do not forgive others, neither will your Father forgive your transgressions."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-007",
+      "topic": "prayer",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1340,
+      "prompt": "Match each fact about praying the Our Father slowly to what it actually means.",
+      "pairs": [
+        {
+          "left": "Pausing after each real petition",
+          "right": "Lets its own real meaning actually sink in, rather than quick, rote recitation"
+        },
+        {
+          "left": "The first three real petitions",
+          "right": "Reorient the person praying toward God's own real glory first"
+        },
+        {
+          "left": "The forgiveness petition",
+          "right": "Made concrete by actually naming one real, specific person"
+        },
+        {
+          "left": "Why this real, slow practice matters",
+          "right": "Turns verse-by-verse knowledge into an actual, lived, real practice"
+        }
+      ],
+      "explanation": "These four facts together turn the previous level's own real, verse-by-verse knowledge into an actual, practical, slow way of praying the Our Father.",
+      "hint": "Each row gives one real, practical step for praying the Our Father slowly and meaningfully.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2804",
+          "quote": "The first series of petitions carries us toward him, for his own sake: thy name, thy kingdom, thy will! It is characteristic of love to think first of the one whom we love."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-008",
+      "topic": "prayer",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Having now covered praying the Our Father slowly, this topic's next level turns to the Rosary and popular devotions.",
+      "correctAnswer": true,
+      "explanation": "True. Having practiced this real, slow way of praying, this topic's next level turns to the Rosary and other popular, real devotions.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2761",
+          "quote": "The Lord's Prayer is truly the summary of the whole gospel."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-009",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "What real, general habit has this level added to the previous level's own real, verse-by-verse knowledge of the Our Father?",
+      "choices": [
+        "Turning verse-by-verse knowledge into an actual, slow, lived practice, rather than leaving it as knowledge alone",
+        "Assuming the Our Father should actually never be prayed slowly or meaningfully",
+        "Replacing the previous level's own real, verse-by-verse content with an entirely different prayer",
+        "Assuming real, practical technique has no bearing on how the Our Father is actually prayed"
+      ],
+      "correctAnswer": "Turning verse-by-verse knowledge into an actual, slow, lived practice, rather than leaving it as knowledge alone",
+      "explanation": "This level's own real habit -- turning knowledge into an actual, lived practice -- is exactly the same real discipline this topic will keep practicing through its own later, bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, verse-by-verse content.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2761",
+          "quote": "The Lord's Prayer is truly the summary of the whole gospel."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l7-010",
+      "topic": "prayer",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Given this level's own real, slow way of praying the Our Father, what does the next level in this topic turn to?",
+      "choices": [
+        "The Rosary and popular devotions",
+        "A complete repeat of this same level's material about praying the Our Father slowly",
+        "A jump ahead to the Liturgy of the Hours, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, practical habit"
+      ],
+      "correctAnswer": "The Rosary and popular devotions",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from the Our Father itself to the Rosary and other popular, real devotions built around it.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2761",
+          "quote": "The Lord's Prayer is truly the summary of the whole gospel."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-001",
+      "topic": "prayer",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "The Rosary involves meditating on sets of 'Mysteries' while praying its decades. How many total sets of Mysteries does the modern Rosary include, counting the Luminous Mysteries added by John Paul II?",
+      "choices": [
+        "Four (Joyful, Luminous, Sorrowful, Glorious)",
+        "Two",
+        "Three",
+        "Six"
+      ],
+      "correctAnswer": "Four (Joyful, Luminous, Sorrowful, Glorious)",
+      "explanation": "John Paul II's 2002 apostolic letter Rosarium Virginis Mariae added the Luminous Mysteries (focused on Christ's public ministry) alongside the traditional Joyful, Sorrowful, and Glorious Mysteries.",
+      "hint": "One set was added relatively recently, in 2002, to the three traditional sets.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-002",
+      "topic": "prayer",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: Each decade of the Rosary consists of one Our Father, ten Hail Marys, and one Glory Be.",
+      "correctAnswer": true,
+      "explanation": "This simple, repeated structure -- one decade at a time -- provides a steady rhythm that supports meditation on each Mystery, rather than being the point of the prayer in itself.",
+      "hint": "Count the prayers in a single decade: one, then ten, then one.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-003",
+      "topic": "prayer",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "The Rosary is, at its heart, a meditation on the ____ of Christ's life, using repeated Hail Marys as a contemplative rhythm rather than an end in themselves.",
+      "correctAnswer": "mysteries",
+      "explanation": "The repeated Hail Marys aren't the point of the Rosary -- they form a rhythm that frees the mind to meditate on the Gospel events they accompany.",
+      "hint": "It's the same word used for each set: Joyful, Luminous, Sorrowful, Glorious.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l8-004",
+      "topic": "prayer",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "The Angelus, traditionally prayed three times a day, commemorates:",
+      "choices": [
+        "The Annunciation -- the Angel Gabriel announcing Christ's conception to Mary",
+        "The Nativity of Christ at Bethlehem",
+        "The Resurrection on Easter morning",
+        "Pentecost and the descent of the Holy Spirit"
+      ],
+      "correctAnswer": "The Annunciation -- the Angel Gabriel announcing Christ's conception to Mary",
+      "explanation": "The Angelus takes its name from its opening Latin word, 'Angelus' ('angel'), recalling Gabriel's announcement and Mary's fiat -- her 'yes' -- to becoming the Mother of God.",
+      "hint": "The prayer's very name comes from the messenger who appeared to Mary.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:26-38",
+          "quote": "In the sixth month, the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph... and the virgin's name was Mary."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-005",
+      "topic": "prayer",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: Devotions like the Rosary, novenas, and the Angelus hold equal liturgical rank with the Mass itself.",
+      "correctAnswer": false,
+      "explanation": "Popular devotions are genuinely valuable and encouraged, but the Church distinguishes them from the liturgy proper (the Mass and the Liturgy of the Hours), which holds a unique, official, communal character devotions don't share.",
+      "hint": "One category is the Church's own official public worship; the other is valuable but distinct from it.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-006",
+      "topic": "prayer",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each devotion to its focus.",
+      "pairs": [
+        {
+          "left": "Rosary",
+          "right": "Meditating on Christ's life through repeated Hail Marys"
+        },
+        {
+          "left": "Angelus",
+          "right": "Commemorates the Annunciation, prayed three times daily"
+        },
+        {
+          "left": "Novena",
+          "right": "Nine days of prayer for a particular intention"
+        },
+        {
+          "left": "Stations of the Cross",
+          "right": "Meditating on Christ's Passion through fourteen scenes"
+        }
+      ],
+      "explanation": "These popular devotions have developed over centuries to help ordinary Catholics enter more deeply into the mysteries of Christ's life outside of the liturgy itself.",
+      "hint": "One meditates on Christ's whole life, one on a single moment, one on a set number of days, one on the Passion specifically.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
+          "quote": "The Rosary should always be seen and experienced as a path of contemplation... helping to meditate on the mysteries of the Lord's life as seen through the eyes of Mary."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l8-007",
+      "topic": "prayer",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: A novena traditionally consists of nine days of prayer for a specific intention, recalling the days the apostles spent in prayer awaiting Pentecost.",
+      "correctAnswer": true,
+      "explanation": "The word 'novena' comes from the Latin for 'nine' -- the practice traditionally recalls the apostles and Mary gathered in prayer between the Ascension and Pentecost.",
+      "hint": "Its name comes from the Latin word for this specific number.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:12-14",
+          "quote": "All these devoted themselves with one accord to prayer, together with some women, and Mary the mother of Jesus, and his brothers."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-008",
+      "topic": "prayer",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "The Stations of the Cross traditionally guide the one praying through how many scenes of Christ's Passion?",
+      "choices": [
+        "Fourteen",
+        "Seven",
+        "Twelve",
+        "Twenty"
+      ],
+      "correctAnswer": "Fourteen",
+      "explanation": "Fourteen stations trace Christ's Passion from his condemnation to his burial, most often prayed by moving physically between images or markers representing each scene.",
+      "hint": "Count them by walking the story from condemnation to burial -- one station per scene.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1674-1675",
+          "quote": "Catechesis must take into account the forms of piety and popular devotions among the faithful, including the veneration of relics, visits to sanctuaries, pilgrimages, processions, the stations of the cross, religious dances, the rosary, medals, etc."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-009",
+      "topic": "prayer",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "The Hail Mary's opening line is Scripture itself; its second half -- 'pray for us sinners, now and at the hour of our ____' -- is the Church's own later addition.",
+      "correctAnswer": "death",
+      "explanation": "The prayer moves from the angel's own biblical greeting to a petition composed by the Church, asking Mary's intercession at the two poles of a Christian's life: now, and at its very end.",
+      "hint": "This petition asks for Mary's help at the final moment of earthly life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2676-2677",
+          "quote": "By asking Mary to pray for us, we acknowledge ourselves to be poor sinners and we address ourselves to the 'Mother of Mercy,' the All-Holy One."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "prayer-l8-010",
+      "topic": "prayer",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: Popular devotions such as the Rosary are meant to lead toward the liturgy and flow from it, not to substitute for it.",
+      "correctAnswer": true,
+      "explanation": "True. The Church values popular devotion highly while keeping its relation to the liturgy clear: devotions prepare for the sacraments and extend their effect into daily life. A Rosary prayed during Mass, rather than participation in the Mass, inverts that order.",
+      "hint": "Ask which one the other is ordered toward.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1675"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l8-011",
+      "topic": "prayer",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "Someone finds the Rosary's repetition mechanical and distracting. What does the tradition say the repetition is for?",
+      "choices": [
+        "The vocal prayer occupies the surface of the mind so attention can rest on the mystery being contemplated \u2014 the words are the setting, not the subject",
+        "The number of prayers is what obtains the grace",
+        "Repetition is meant to induce an altered state",
+        "The repetition is a penance to be endured"
+      ],
+      "correctAnswer": "The vocal prayer occupies the surface of the mind so attention can rest on the mystery being contemplated \u2014 the words are the setting, not the subject",
+      "explanation": "Trying to attend fully to the words of every Hail Mary makes the Rosary impossible; that was never the intention. The Hail Marys are a rhythm within which the mind holds a scene from Christ's life.\n\nTry it: pray one decade only. Before it, read the Gospel passage for that mystery. Then let the words carry while you stay with the scene.",
+      "hint": "Ask what your attention is supposed to be resting on while your lips move.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2708"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1674"
+        }
+      ]
+    }
+  ]
+}
