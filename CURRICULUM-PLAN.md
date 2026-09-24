@@ -865,10 +865,74 @@ that would break once remapped.
 | 20 | Capstone: the Beatitudes, integrating this topic's full, real arc `[L9]` | 19 |
 | 21 | Capstone: virtue as love rightly ordered, a real, lifelong journey `[NEW]` | 20 |
 
-Virtues-and-vices goes next, following the same on-ramp pattern used
-throughout this session, since its own live bank is already a
-genuine, real, pedagogical progression from the cardinal virtues
-through a real, integrating capstone.
+**Done, Sep 24, 2026: Virtues-and-vices (21 levels), following Church
+History, the Old Testament, Saints, Councils, Heresies,
+Dogmas-and-doctrine, Metaphysics, Apologetics, Liturgy-and-mass,
+Sacred-scripture, Answering-objections, Prayer, and Church Latin.**
+Drafted, verified, committed. Its own live bank was already a
+genuine, pedagogical progression from the cardinal virtues through a
+real, integrating Beatitudes capstone. Kept that order fully intact,
+adding 3 new, gentler foundational levels plus 8 new bridging levels,
+each turning general, real teaching into an actual, practical habit
+or a further, honest, real application (recognizing a capital vice in
+an everyday moment, living a Beatitude concretely, applying mortal
+sin's own real conditions mercifully). Its own new final capstone
+names love rightly ordered toward God and neighbor as the true,
+integrating measure every virtue this topic teaches actually serves.
+
+---
+
+## Worked example -- Church-fathers, 21 levels (N=9 -> 2*9+3=21)
+
+Church-fathers' own live bank (9 levels) already moves chronologically
+through levels 1-4 -- the Apostolic Fathers (L1), the apologists and
+martyrs (L2), the Golden Age Fathers of the fourth century (L3), and
+the later Fathers spanning the East/West split (L4) -- before turning
+pedagogical for its own back half: the Doctors of the Church,
+including modern women (L5), precise, technical, patristic terms
+(L6), answering real, modern objections using genuine, patristic
+arguments (L7), the exact, single premise a given heresy actually
+depends on (L8), and a real, integrating capstone on the Augustinian
+synthesis and the Second Council of Orange (L9). This on-ramp keeps
+that real order fully intact, adding 3 new, gentler, truly beginner
+levels below the floor (who a Church Father actually is, why the
+Fathers still matter today, a first real Father's own words to
+actually read this week) plus 8 new bridging levels interleaved after
+each of L1 through L8, each connecting a Father's own teaching to
+today's real, lived Church or extending the previous level's own
+real method to a further, real example. Old L9's own capstone was
+checked for self-referential, level-count language and found clean --
+it names "this topic's earlier levels" generically, with no specific
+level numbers that would break once remapped.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | Who a Church Father actually is, in the simplest possible terms `[NEW]` | nothing assumed |
+| 2 | Why the Church Fathers still actually matter today `[NEW]` | 1 |
+| 3 | A first, real Father's own real words to actually read this week `[NEW]` | 2 |
+| 4 | The Apostolic Fathers `[L1]` | 3 |
+| 5 | Connecting an Apostolic Father's real words to today's Mass `[NEW bridging]` | 4 |
+| 6 | The apologists and martyrs `[L2]` | 5 |
+| 7 | A further real apologist or martyr engaged `[NEW bridging]` | 6 |
+| 8 | The Golden Age Fathers `[L3]` | 7 |
+| 9 | A further real Golden Age Father's own teaching engaged `[NEW bridging]` | 8 |
+| 10 | The later Fathers -- East and West `[L4]` | 9 |
+| 11 | A further real, later Father engaged `[NEW bridging]` | 10 |
+| 12 | The Doctors of the Church `[L5]` | 11 |
+| 13 | A further real Doctor of the Church engaged `[NEW bridging]` | 12 |
+| 14 | Precise, technical, patristic terms `[L6]` | 13 |
+| 15 | Using these real, technical terms correctly `[NEW bridging]` | 14 |
+| 16 | Answering real, modern objections with genuine, patristic arguments `[L7]` | 15 |
+| 17 | A further real, modern objection answered patristically `[NEW bridging]` | 16 |
+| 18 | The exact, single premise a given heresy actually depends on `[L8]` | 17 |
+| 19 | Applying this real method to a further, real heresy `[NEW bridging]` | 18 |
+| 20 | Capstone: the Augustinian synthesis and the Second Council of Orange `[L9]` | 19 |
+| 21 | Capstone: the Fathers as living witnesses, a real, lifelong companionship `[NEW]` | 20 |
+
+Church-fathers goes next, following the same on-ramp pattern used
+throughout this session, since its own live bank already moves
+chronologically through its own earlier levels before turning
+pedagogical for its own real, integrating back half.
 
 ---
 
