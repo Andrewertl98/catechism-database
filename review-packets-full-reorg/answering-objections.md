@@ -1,0 +1,5012 @@
+# Review packet — Answering Objections
+
+**Questions in this packet:** 234 (levels 1–23)
+
+## What we are asking
+
+Please check each question below for **doctrinal accuracy** and for whether the
+**citation actually supports** what the question and explanation claim. A question
+can be factually true and still be wrong for our purposes if the citation does not
+carry the claim.
+
+For each question, tick one of the three verdicts and add a note where useful.
+Anything you mark Rejected or Approved-with-change will be revised and sent back
+to you — nothing goes into the app on a maybe.
+
+## What happens to your answers
+
+Only questions you approve get marked audited and served in the app. The six
+doctrinally load-bearing topics are hard-gated in code: their harder levels are
+literally not shown to any user until your sign-off is recorded. That gate is
+enforced by a signature check in the app, not by a flag in a file, so it cannot be
+set by accident.
+
+Please reply to the email this came attached to with your verdicts — a written
+reply from you is the record of the review, and it gets archived alongside the
+content. The technical signature only proves the repository owner marked something
+audited; your email is what proves a theologian actually read it.
+
+---
+
+### 1. `answering-objections-l1-001`  ·  Level 1  ·  Multiple choice
+
+**Question.** What actually distinguishes a real objection from a simple misunderstanding?
+
+**Answer options.**
+- [✓] A real objection challenges a correctly understood claim; a misunderstanding challenges a claim never actually made
+- [ ] There is actually no real, meaningful difference between the two
+- [ ] A misunderstanding is always more real, serious, and difficult to answer than a genuine objection
+- [ ] A real objection can never actually come from a genuine, sincere misunderstanding
+
+**Explanation shown to the user.** This real, precise distinction matters -- a genuine objection engages what the Church actually, really teaches; a misunderstanding argues against a claim the Church never actually made, requiring a real, different first response: clarification, not defense.
+
+**Hint.** Consider the real, first step needed before actually answering either kind of real challenge.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 2. `answering-objections-l1-002`  ·  Level 1  ·  True / false
+
+**Question.** True or False: Answering a misunderstanding as if it were a real objection to actual Church teaching can actually waste a real, valuable opportunity to clarify what the Church really teaches.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Defending a claim the Church never actually made misses the real, valuable chance to simply clarify what she actually does teach -- a real, different and often much simpler real response.
+
+**Hint.** Consider what actually happens when a real defense is offered for a claim that was never actually made.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 3. `answering-objections-l1-003`  ·  Level 1  ·  Multiple choice
+
+**Question.** What real, practical first step actually helps tell a real objection apart from a simple misunderstanding?
+
+**Answer options.**
+- [✓] Asking what specific teaching is actually thought to be challenged, before assuming either possibility
+- [ ] Assuming every real challenge is automatically a genuine, correctly understood objection
+- [ ] Assuming every real challenge is automatically a simple misunderstanding
+- [ ] Responding immediately with a full defense, without ever checking what is actually being challenged
+
+**Explanation shown to the user.** This real, practical step -- asking what specific teaching is actually being challenged -- prevents wasted effort in either direction, whether defending an unmade claim or dismissing a genuine, real objection as mere confusion.
+
+**Hint.** Consider a real, practical way to check which of the two real possibilities is actually the case.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 4. `answering-objections-l1-004`  ·  Level 1  ·  True / false
+
+**Question.** True or False: This app's own Apologetics topic already introduced a real, similar habit of distinguishing a real objection from a caricature of Church teaching.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and recalling this connection matters -- this topic's own real distinction between objection and misunderstanding extends the same real habit Apologetics already taught for distinguishing real objections from caricatures.
+
+**Hint.** Recall this app's own Apologetics topic's own level on distinguishing a real objection from a caricature.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 5. `answering-objections-l1-005`  ·  Level 1  ·  Multiple choice
+
+**Question.** A friend says: 'Catholics worship Mary, which is basically idolatry.' Is this a real objection or a real misunderstanding?
+
+**Answer options.**
+- [✓] A misunderstanding -- the Church distinguishes veneration from worship, so clarification, not defense, is the first response
+- [ ] A real, genuine objection to an actual, correctly understood Church teaching
+- [ ] Neither a real objection nor a real misunderstanding, but an entirely meaningless real statement
+- [ ] A real objection so serious it actually has no possible real response at all
+
+**Explanation shown to the user.** This is a real, concrete example of a genuine misunderstanding -- the Church has never actually taught Mary should be worshiped; the real, first response is simply clarifying the real, precise distinction between veneration and worship.
+
+**Hint.** Recall this level's own real distinction, and consider what the Church actually teaches about honoring Mary.
+
+**Citations.**
+**ccc** — CCC 971
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 6. `answering-objections-l1-006`  ·  Level 1  ·  True / false
+
+**Question.** True or False: Recognizing a real, common misunderstanding, like the Mary-worship claim, generally requires a much less lengthy real response than a genuine, deeper objection would.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is a real, practical benefit of this level's own real distinction -- a real misunderstanding often needs only a real, simple clarification, while a genuine objection may require a much more real, developed response.
+
+**Hint.** Consider whether clarifying a real misunderstanding usually takes as much real, developed reasoning as answering a genuine, deep objection.
+
+**Citations.**
+**ccc** — CCC 971
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 7. `answering-objections-l1-007`  ·  Level 1  ·  Matching pairs
+
+**Question.** Match each fact about objections and misunderstandings to what it actually means.
+
+**Pairs.**
+- A real objection → Challenges a real, correctly understood Church teaching
+- A real misunderstanding → Challenges a claim the Church never actually made
+- "Catholics worship Mary" → A real, common misunderstanding, needing clarification rather than defense
+- The real, first practical step → Asking what specific teaching is actually being challenged
+
+**Explanation shown to the user.** These four facts together give this level's own real, foundational distinction this whole topic will keep using -- checking what is actually being challenged before deciding how to respond.
+
+**Hint.** Two rows define the real distinction itself; two apply it to a real, concrete example and a real, practical step.
+
+**Citations.**
+**ccc** — CCC 971
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 8. `answering-objections-l1-008`  ·  Level 1  ·  True / false
+
+**Question.** True or False: Having now distinguished a real objection from a misunderstanding, this topic's next level turns to the real, everyday settings these hard conversations actually happen in.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having established this real, foundational distinction, this topic's next level turns to a genuinely practical question -- where these real conversations actually take place.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 9. `answering-objections-l1-009`  ·  Level 1  ·  Multiple choice
+
+**Question.** What real, general habit has this level established for this whole topic going forward?
+
+**Answer options.**
+- [✓] Checking exactly what's being challenged before deciding how to respond, not assuming every challenge is the same
+- [ ] Assuming every real challenge is automatically a genuine, deep objection requiring a full, developed defense
+- [ ] Assuming every real challenge is automatically a simple misunderstanding requiring no real, careful thought
+- [ ] Avoiding any real, careful check of what is actually being challenged before responding
+
+**Explanation shown to the user.** This level's own real habit -- checking exactly what is actually being challenged -- is exactly the same real discipline this topic will keep practicing through every one of its own later levels.
+
+**Hint.** Consider what this level's own real distinction actually trains a reader to check before responding to any real challenge.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 10. `answering-objections-l1-010`  ·  Level 1  ·  Multiple choice
+
+**Question.** Given this level's picture of objections versus misunderstandings, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Real, everyday settings these hard conversations actually happen in
+- [ ] A complete repeat of this same level's material about objections and misunderstandings
+- [ ] A jump ahead to advanced dialogue principles, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real conversation
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- moving from this real, foundational distinction to the genuinely practical, real settings these conversations actually occur in.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 11. `answering-objections-l2-001`  ·  Level 2  ·  Multiple choice
+
+**Question.** Where do most real, hard objections a Catholic actually encounters tend to arise?
+
+**Answer options.**
+- [✓] Ordinary, everyday settings -- family gatherings, casual talk with coworkers -- not primarily formal debates
+- [ ] Almost exclusively in formal, staged academic debates
+- [ ] Only in specifically organized, official Church settings
+- [ ] Real, hard objections actually never arise in any genuinely real, everyday setting at all
+
+**Explanation shown to the user.** Most real, hard objections a Catholic actually encounters arise in genuinely ordinary, everyday settings -- not primarily formal debates, echoing this app's own Apologetics topic's earlier real teaching on everyday apologetic moments.
+
+**Hint.** Recall this app's own Apologetics topic's own earlier level on where real apologetic moments actually happen.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 12. `answering-objections-l2-002`  ·  Level 2  ·  True / false
+
+**Question.** True or False: A real, hard objection raised at a family dinner deserves a genuinely different real, practical approach than the exact same objection raised in a formal, academic debate setting.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is a real, important practical point -- the real, actual setting genuinely shapes what response actually fits, even when the underlying real objection is exactly the same.
+
+**Hint.** Consider whether the real, actual setting of a conversation actually changes what kind of response would genuinely fit.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 13. `answering-objections-l2-003`  ·  Level 2  ·  Multiple choice
+
+**Question.** At a family gathering, a relative raises a real, hard objection in front of several other people. What real, practical consideration actually matters here, beyond the objection's own real content?
+
+**Answer options.**
+- [✓] A lengthy public debate might embarrass the relative; a briefer, gentle response, continued privately, often fits better
+- [ ] The real, public setting actually has no bearing whatsoever on what kind of response would genuinely fit
+- [ ] A real, public setting always actually requires the longest, most thorough possible real response
+- [ ] A real, public setting means the objection should actually be ignored entirely, with no response at all
+
+**Explanation shown to the user.** This is a real, practical, pastoral consideration -- a real, public setting's own real dynamics genuinely matter, and a briefer, gentle real response, with a fuller real conversation continued privately, often actually serves everyone better than a lengthy public debate.
+
+**Hint.** Consider what could actually go wrong, socially and pastorally, from a lengthy, real, public debate at a family gathering.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 14. `answering-objections-l2-004`  ·  Level 2  ·  True / false
+
+**Question.** True or False: A coworker raising a real objection during a brief, casual workplace conversation calls for the exact same real, lengthy response as a friend asking the same real question over a long, private conversation specifically set aside for it.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and this real, practical point matters -- a brief, real, workplace moment calls for a genuinely different, more concise real response than a long, private, dedicated real conversation would, even for the exact same underlying objection.
+
+**Hint.** Consider whether the real, available time and setting would actually call for the same length and depth of response in both real cases.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 15. `answering-objections-l2-005`  ·  Level 2  ·  Multiple choice
+
+**Question.** A grieving friend, in a real, emotionally raw moment, raises what sounds like an intellectual objection about suffering. What real, practical consideration actually matters most in this real setting?
+
+**Answer options.**
+- [✓] Real presence and gentleness often matter more than an immediate, developed argument, in a raw emotional moment
+- [ ] The real, emotional state of the person actually has no bearing on what kind of response would genuinely fit
+- [ ] A grieving person should actually always receive the longest, most thorough possible philosophical response immediately
+- [ ] A real, emotional moment means the question should actually never be addressed at all, ever
+
+**Explanation shown to the user.** This is a real, crucial pastoral point this topic will develop much further later -- in a real, raw emotional moment, real presence and gentleness often serve a grieving person better than an immediate, full, intellectual response, even when the question sounds philosophical.
+
+**Hint.** Consider what a grieving person, in a real, raw emotional moment, might actually need most right now.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 16. `answering-objections-l2-006`  ·  Level 2  ·  True / false
+
+**Question.** True or False: This level's own real point about a grieving friend will actually be developed in much greater, real, pastoral depth later in this topic.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly how this topic's own real journey will proceed -- this level's own simple, real, practical point about grief will be unpacked with much greater real, pastoral depth once this topic reaches its own levels on sensitive, real scenarios.
+
+**Hint.** Consider whether a real, pastorally significant point like this one is likely to remain unexplored for the rest of this topic.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 17. `answering-objections-l2-007`  ·  Level 2  ·  Matching pairs
+
+**Question.** Match each real, everyday setting to the real, practical consideration it actually raises.
+
+**Pairs.**
+- A public family gathering → A briefer, gentle response, continued privately, often fits better than a lengthy public debate
+- A brief workplace conversation → Calls for a genuinely more concise real response than a long, dedicated conversation
+- A grieving friend's raw, emotional moment → Real presence and gentleness often matter more than an immediate, developed argument
+- Why real setting actually matters → The same real objection can call for genuinely different real responses in different settings
+
+**Explanation shown to the user.** These four real, everyday settings together show why this topic's own real approach must actually be sensitive to context, not a single, one-size-fits-all real script.
+
+**Hint.** Three rows give real, concrete settings and their own real considerations; one names the real, general lesson they share.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 18. `answering-objections-l2-008`  ·  Level 2  ·  True / false
+
+**Question.** True or False: Having now covered real, everyday settings, this topic's next level turns to listening first, as a real, practical step before ever actually answering.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having established that real setting genuinely matters, this topic's next level turns to a real, practical habit that applies across every one of these settings -- listening first.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 19. `answering-objections-l2-009`  ·  Level 2  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real distinction between objections and misunderstandings?
+
+**Answer options.**
+- [✓] Showing that the actual setting a challenge is raised in genuinely shapes what response fits
+- [ ] Assuming real setting has no bearing whatsoever on how any real challenge should actually be answered
+- [ ] Assuming every real setting actually calls for the exact same real, lengthy response
+- [ ] Abandoning the previous level's own real distinction between objections and misunderstandings
+
+**Explanation shown to the user.** This level's own real contribution moves from identifying what kind of challenge is being raised to considering the real, practical context it's actually raised in -- exactly the kind of real, practical depth this topic's later levels will keep adding.
+
+**Hint.** Consider what this level actually added to the previous level's own real distinction.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 20. `answering-objections-l2-010`  ·  Level 2  ·  Multiple choice
+
+**Question.** Given this level's picture of real, everyday settings, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Listening first -- a real, practical step before ever actually answering
+- [ ] A complete repeat of this same level's material about real, everyday settings
+- [ ] A jump ahead to advanced dialogue principles, skipping over everything in between
+- [ ] A subject entirely unrelated to real conversation or real objections
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- a real, practical habit that applies across every one of the real settings this level has already covered.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 21. `answering-objections-l3-001`  ·  Level 3  ·  Multiple choice
+
+**Question.** Why should a Catholic actually listen carefully before responding to a real, hard objection, rather than jumping immediately to a prepared, real answer?
+
+**Answer options.**
+- [✓] It reveals the real, specific concern behind an objection, which a generic prepared answer might miss
+- [ ] Because listening carefully actually has no real, practical bearing on how well a response actually lands
+- [ ] Because a prepared, real answer is always automatically more effective than actually listening first
+- [ ] Because listening carefully means a real response should actually never be given at all
+
+**Explanation shown to the user.** Real, careful listening reveals the actual, specific concern genuinely behind an objection -- a real, prepared, generic answer risks completely missing what the other person is actually, really asking.
+
+**Hint.** Recall this topic's very first level, and consider what real, practical step it already recommended before responding.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 22. `answering-objections-l3-002`  ·  Level 3  ·  True / false
+
+**Question.** True or False: Two people can raise the exact same, surface-level objection while actually meaning genuinely different real things by it.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly why real, careful listening actually matters -- the same surface-level real words can carry genuinely different real concerns underneath, which only real listening can actually uncover.
+
+**Hint.** Consider whether the same real words, spoken by two different real people, always actually mean the exact same real thing.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 23. `answering-objections-l3-003`  ·  Level 3  ·  Multiple choice
+
+**Question.** What real, practical technique actually helps a listener check they have genuinely understood an objection before responding?
+
+**Answer options.**
+- [✓] Restating the objection back in one's own real words and asking if that is actually what the other person genuinely means
+- [ ] Assuming the very first real interpretation that comes to mind is always the genuinely correct one
+- [ ] Responding immediately, without ever actually checking real understanding first
+- [ ] Assuming every real objection actually means the exact same real thing, regardless of who raises it
+
+**Explanation shown to the user.** This real, practical technique -- restating and checking -- prevents wasted effort answering a real concern the other person never actually had, and shows genuine, real respect for what they are actually trying to say.
+
+**Hint.** Recall this app's own Apologetics topic's own earlier level on a real, practical technique for checking genuine understanding.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 24. `answering-objections-l3-004`  ·  Level 3  ·  True / false
+
+**Question.** True or False: This level's own real technique -- restating an objection before answering it -- is the same real habit this app's own Apologetics topic already taught.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this connection matters -- this level extends the exact same real, practical technique Apologetics already established for distinguishing real objections from caricatures.
+
+**Hint.** Recall this app's own Apologetics topic's own earlier level on restating an objection before responding.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 25. `answering-objections-l3-005`  ·  Level 3  ·  Multiple choice
+
+**Question.** A friend says: 'The Church is just outdated.' What real, practical, listening-first response actually helps clarify what specific, real concern is behind this vague, real complaint?
+
+**Answer options.**
+- [✓] Asking a gentle follow-up -- 'what specifically feels outdated?' -- to surface the concern behind the complaint
+- [ ] Responding immediately with a full, real defense of every possible Church teaching at once
+- [ ] Assuming the complaint actually has no real, specific concern behind it at all
+- [ ] Dismissing the complaint outright as unworthy of any real, genuine response
+
+**Explanation shown to the user.** This is exactly this level's own real method in genuine, practical action -- a real, gentle follow-up question turns a vague, general complaint into a genuine, answerable real concern, exactly what real, careful listening actually makes possible.
+
+**Hint.** Recall this level's own real method, and consider what real, practical question would actually surface the real concern here.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 26. `answering-objections-l3-006`  ·  Level 3  ·  True / false
+
+**Question.** True or False: Real, careful listening means a Catholic should actually agree with every real claim a friend or family member makes, regardless of its actual content.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and this real, careful distinction matters -- real, careful listening means genuinely understanding what someone actually means before responding, not automatically agreeing with whatever they actually say.
+
+**Hint.** Consider whether genuinely understanding a real claim and automatically agreeing with it are actually the same real thing.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 27. `answering-objections-l3-007`  ·  Level 3  ·  Matching pairs
+
+**Question.** Match each fact about listening first to what it actually means.
+
+**Pairs.**
+- Why listening actually matters → Reveals the real, specific concern a prepared, generic answer might otherwise miss
+- Restating an objection back → A real, practical technique for checking genuine understanding before responding
+- "The Church is outdated" → A vague complaint a real, gentle follow-up question can turn into an answerable concern
+- Listening is not automatic agreement → Genuine understanding, not automatically agreeing with whatever is actually said
+
+**Explanation shown to the user.** These four facts together give this level's own real, practical method for listening well -- a real, foundational habit this whole topic will keep relying on.
+
+**Hint.** Two rows explain why and how real listening actually works; two apply it to a real, concrete example and a real, important limit.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 28. `answering-objections-l3-008`  ·  Level 3  ·  True / false
+
+**Question.** True or False: Having now covered listening first, this topic's next level turns to common, real objections, answered.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having established this real, foundational listening habit, this topic's next level turns to a specific, real body of common objections this app's own live bank has already gathered.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 29. `answering-objections-l3-009`  ·  Level 3  ·  Multiple choice
+
+**Question.** What real, general lesson do this level's own three real examples together teach about answering objections well?
+
+**Answer options.**
+- [✓] Real, careful listening is a genuinely achievable habit, not an intimidating, abstract ideal
+- [ ] Real, careful listening actually requires years of specialized, formal training before it can be attempted at all
+- [ ] None of this level's own three real examples actually has any real, practical bearing on listening well
+- [ ] Real, careful listening means never actually responding to any real objection at all
+
+**Explanation shown to the user.** This level's own real lesson, drawn from three practical examples, is that real, careful listening is a genuinely achievable habit -- not an intimidating, abstract ideal reserved for the specially trained.
+
+**Hint.** Consider what all three of this level's own real examples actually had in common.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 30. `answering-objections-l3-010`  ·  Level 3  ·  Multiple choice
+
+**Question.** Given this level's real, practical method for listening first, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Common, real objections, answered
+- [ ] A complete repeat of this same level's material about listening first
+- [ ] A jump ahead to advanced dialogue principles, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real listening
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- putting this level's own real, listening-first method to direct, practical use on a specific, real body of common objections.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 31. `answering-objections-l4-001`  ·  Level 4  ·  Multiple choice
+
+**Question.** A common objection asks: 'If God is good, why does he allow suffering?' Which New Testament verse is often cited as a starting point in response, teaching that God works all things for good for those who love him?
+
+**Answer options.**
+- [✓] Romans 8:28
+- [ ] Matthew 5:3
+- [ ] 1 Corinthians 15:3
+- [ ] Revelation 21:4
+
+**Explanation shown to the user.** Romans 8:28 doesn't explain away suffering, but it grounds a Christian response: God can bring good even out of evil and suffering for those who trust him -- a starting point rather than a full answer to this ancient question.
+
+**Hint.** This verse promises God works all things together for good, not that suffering isn't real.
+
+**Citations.**
+**scripture** — Romans 8:28
+  > We know that all things work for good for those who love God, who are called according to his purpose.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 32. `answering-objections-l4-002`  ·  Level 4  ·  Multiple choice
+
+**Question.** Objection: 'The Catholic Church just invented the idea that bishops have real teaching authority -- Jesus never set that up.' How would the Catechism most directly answer this?
+
+**Answer options.**
+- [✓] By pointing to CCC 77: the apostles themselves left bishops as their successors with their own teaching authority
+- [ ] By conceding the objection is correct
+- [ ] By appealing only to a medieval papal decree
+- [ ] By arguing the objection doesn't need a response
+
+**Explanation shown to the user.** This objection assumes episcopal authority is a late invention. The Catechism roots it directly in apostolic practice: the apostles 'left bishops as their successors,' handing on 'their own position of teaching authority.'
+
+**Hint.** The Catechism traces this authority back to the apostles themselves, not a later medieval invention.
+
+**Citations.**
+**ccc** — CCC 77
+  > In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 33. `answering-objections-l4-003`  ·  Level 4  ·  True / false
+
+**Question.** True or False: The Bible nowhere calls believers to be ready to explain and defend their faith to others.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** 1 Peter 3:15 directly calls Christians to 'always be ready to give an explanation to anyone who asks... for the reason for your hope' -- the biblical foundation for the practice of answering objections.
+
+**Hint.** This whole topic exists because of one specific verse calling for exactly this readiness.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 34. `answering-objections-l4-004`  ·  Level 4  ·  Multiple choice
+
+**Question.** Objection: 'If God already knows everything I'll do, I don't really have free will.' What's the traditional Catholic response?
+
+**Answer options.**
+- [✓] God's knowledge is outside time, seeing all moments at once, rather than causing our choices the way one event causes another
+- [ ] The Church agrees, and denies human free will
+- [ ] God only knows the past, not the future
+- [ ] This question has no possible answer in Catholic theology
+
+**Explanation shown to the user.** God's foreknowledge doesn't work like a human prediction that forces an outcome -- as eternal, he simply sees every moment of time, including our free choices, without causing them the way one event in time causes another.
+
+**Hint.** The key move is that God isn't 'inside' time predicting the future the way we would.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 35. `answering-objections-l4-005`  ·  Level 4  ·  True / false
+
+**Question.** True or False: The Church teaches that praying to saints means worshiping them the same way Catholics worship God.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** The Church carefully distinguishes the honor (veneration) given to saints from the worship (adoration) owed to God alone -- asking a saint's prayers is not the same act as worship.
+
+**Hint.** There's a real, deliberate distinction between honoring a saint and worshiping God.
+
+**Citations.**
+**ccc** — CCC 957
+  > It is not merely by the title of example that we cherish the memory of those in heaven; we seek, rather, that by this devotion... the union of the whole Church.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 36. `answering-objections-l4-006`  ·  Level 4  ·  Fill in the blank
+
+**Question.** Objection: 'Confessing sins to a priest is unbiblical.' Response: In John 20:23, Jesus gives the apostles authority to forgive sins, saying 'Whose sins you forgive are forgiven them, and whose sins you retain are ____.'
+
+**Correct answer.** retained
+
+**Explanation shown to the user.** This verse gives the apostles -- and, through them, their successors -- real authority to forgive or retain sins, which requires actually hearing what those sins are, grounding sacramental confession in Scripture itself.
+
+**Hint.** It's the opposite of 'forgiven,' matching the first half of the sentence.
+
+**Citations.**
+**scripture** — John 20:23
+  > Whose sins you forgive are forgiven them, and whose sins you retain are retained.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 37. `answering-objections-l4-007`  ·  Level 4  ·  Multiple choice
+
+**Question.** Objection: 'Jesus said call no man father, so calling a priest Father is unbiblical.' What is the response?
+
+**Answer options.**
+- [✓] Paul calls himself a father to the Corinthians through the gospel, so the phrase cannot be an absolute ban on the word
+- [ ] The verse applies only to biological fathers
+- [ ] The verse was mistranslated from the Greek
+- [ ] The objection is correct and the practice should stop
+
+**Explanation shown to the user.** Scripture interprets Scripture here. If the saying were an absolute prohibition, Paul violated it in writing, and so does anyone addressing a male parent. Christ is warning against claiming a fatherhood that belongs to God — the objection reads a warning about pride as a rule about vocabulary.
+
+**Hint.** Someone in the New Testament uses the word about himself. That constrains how the saying can be read.
+
+**Citations.**
+**scripture** — 1 Corinthians 4:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 38. `answering-objections-l4-008`  ·  Level 4  ·  True / false
+
+**Question.** True or False: Asking a saint to pray for you is a different act from asking God to grant something.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Asking someone to pray for you is a request for intercession, not an act of worship — the same thing you do when you ask a friend to pray. The objection usually assumes the two are the same act, and it collapses once that assumption is named.
+
+**Hint.** Compare it to asking a living friend to pray for you.
+
+**Citations.**
+**ccc** — CCC 956
+**ccc** — CCC 2683
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 39. `answering-objections-l4-009`  ·  Level 4  ·  Fill in the blank
+
+**Question.** Objection: 'Faith is believing without evidence.' The Catechism instead calls faith an act of the intellect assenting to divine truth, moved by the ____ — not a leap taken blindly.
+
+**Correct answer.** will
+
+**Explanation shown to the user.** Faith engages both intellect and will. The Church explicitly rejects the idea that faith is a blind impulse, holding instead that there are motives of credibility making the assent reasonable — a definition the objection assumes cannot exist.
+
+**Hint.** Two faculties are involved: one assents, the other moves it.
+
+**Citations.**
+**ccc** — CCC 155
+**ccc** — CCC 156
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 40. `answering-objections-l4-010`  ·  Level 4  ·  Matching pairs
+
+**Question.** Match each common objection to the point that answers it.
+
+**Pairs.**
+- 'Catholics worship Mary' → Honour given to a creature differs in kind from adoration of God
+- 'Confession to a priest is unbiblical' → Christ gave the apostles authority to forgive and retain sins
+- 'Calling priests Father is forbidden' → Paul uses the term of himself in the same Scriptures
+- 'Faith means believing without evidence' → Faith is a reasoned assent, not a blind impulse
+
+**Explanation shown to the user.** Each of these is answered from Scripture or from the Church's own definition rather than by appeal to authority. That matters practically: the person raising them usually does not grant the authority, so an answer resting on it settles nothing.
+
+**Hint.** Three are answered from the Bible itself, one from a definition.
+
+**Citations.**
+**ccc** — CCC 971
+**scripture** — John 20:23
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 41. `answering-objections-l5-001`  ·  Level 5  ·  Multiple choice
+
+**Question.** The previous level covered several distinct common objections -- confession, calling priests 'Father,' praying to saints, predestination and free will. A friend says: 'If God already knows what I'll choose, my choice isn't really free.' Which specific, real objection is this?
+
+**Answer options.**
+- [✓] The predestination-and-free-will objection -- whether God's foreknowledge removes genuine human freedom
+- [ ] The confession objection, about whether confessing sins to a priest is actually biblical
+- [ ] The praying-to-saints objection, about whether this actually amounts to real worship
+- [ ] The 'call no man father' objection, about calling a priest 'Father'
+
+**Explanation shown to the user.** Recognizing which specific, real objection is actually being raised -- here, the real tension between divine foreknowledge and genuine human freedom -- lets a Catholic actually draw on the real, specific answer the previous level already covered, rather than a generic response.
+
+**Hint.** Recall the previous level's own real citation on God's eternal plan already including each person's own free response.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 42. `answering-objections-l5-002`  ·  Level 5  ·  True / false
+
+**Question.** True or False: Recognizing which specific, real objection is actually being raised lets a Catholic draw on the specific, real answer already prepared for it, rather than improvising a generic response.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly this level's own real, practical point -- correctly identifying which specific objection is actually being raised lets a real, precise, already-prepared answer be used, rather than a vague, generic improvisation.
+
+**Hint.** Consider what real, practical benefit comes from correctly identifying which specific objection is actually being raised.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 43. `answering-objections-l5-003`  ·  Level 5  ·  Multiple choice
+
+**Question.** A friend says: 'Jesus said call no man father, so Catholics calling priests 'Father' contradicts Scripture.' What real, additional biblical evidence, beyond simply asserting the contrary, actually helps here?
+
+**Answer options.**
+- [✓] Paul himself calls himself a spiritual father to the Corinthians, showing the saying wasn't an absolute prohibition
+- [ ] Simply repeating the real claim that priests may be called Father, with no real, further biblical evidence offered
+- [ ] Conceding the objection is entirely correct and abandoning the real practice of calling priests 'Father'
+- [ ] Dismissing the objection outright as unworthy of any real, biblical engagement
+
+**Explanation shown to the user.** This is a real, direct, textual answer -- the very same New Testament that records Christ's own saying also has Paul himself using real, spiritual-father language, showing the original saying addressed a real, specific concern (religious pride), not an absolute, universal prohibition on the word itself.
+
+**Hint.** Recall the previous level's own real citation on Paul's own use of spiritual-father language.
+
+**Citations.**
+**scripture** — 1 Corinthians 4:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 44. `answering-objections-l5-004`  ·  Level 5  ·  True / false
+
+**Question.** True or False: Recognizing that a real objection has already been directly addressed elsewhere in this app -- for instance, in this app's own Apologetics topic -- can actually save real, redundant effort in preparing a response.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, practical point matters -- since this app's own topics genuinely connect, recognizing a real objection already addressed elsewhere lets a Catholic actually draw on that real, existing answer rather than starting from scratch.
+
+**Hint.** Consider what real, practical benefit comes from recognizing a real objection this app has already addressed somewhere else.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 45. `answering-objections-l5-005`  ·  Level 5  ·  Multiple choice
+
+**Question.** A friend raises what sounds like a new, real objection: 'Praying to saints is basically necromancy, talking to the dead.' Which previously covered, real objection category does this actually, most closely resemble?
+
+**Answer options.**
+- [✓] The praying-to-saints objection -- distinguishing intercession from any occult practice
+- [ ] The predestination-and-free-will objection, about divine foreknowledge
+- [ ] The confession objection, about confessing sins to a priest
+- [ ] The 'call no man father' objection, about calling a priest 'Father'
+
+**Explanation shown to the user.** This is a real, important recognition skill -- a seemingly new, real phrasing ('necromancy') actually maps onto the already-covered real objection about praying to saints, letting the same real, precise distinction (intercession, not necromancy) be applied directly.
+
+**Hint.** Consider which previously covered, real objection category this new, real phrasing actually falls under.
+
+**Citations.**
+**ccc** — CCC 956
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 46. `answering-objections-l5-006`  ·  Level 5  ·  True / false
+
+**Question.** True or False: The real practice of asking a saint's intercession is fundamentally the same real thing as asking a living friend to pray for you, differing only in the real, current location of the person being asked.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, precise distinction actually answers the necromancy objection directly -- asking a saint's intercession is fundamentally the same real act as asking a living friend's prayers, not consulting the dead for real, hidden knowledge.
+
+**Hint.** Consider the real, structural similarity between asking a living friend to pray for you and asking a saint's own real intercession.
+
+**Citations.**
+**ccc** — CCC 956
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 47. `answering-objections-l5-007`  ·  Level 5  ·  Matching pairs
+
+**Question.** Match each real, rephrased objection to the previously covered, real category it actually falls under.
+
+**Pairs.**
+- "If God knows my choice, it's not free" → The predestination-and-free-will objection
+- "Praying to saints is necromancy" → The praying-to-saints objection, distinguishing intercession from necromancy
+- "Call no man father" contradiction → Answered by Paul's own real, spiritual-father language elsewhere in the New Testament
+- Why recognition actually matters → Lets a real, already-prepared answer be used, rather than improvising a generic one
+
+**Explanation shown to the user.** These four facts together give this level's own real, practical recognition skill -- matching a new, real phrasing to an already-covered, real category, rather than treating every new phrasing as an entirely new problem.
+
+**Hint.** Two rows match a real, rephrased objection to its real category; two explain the real method and its own real value.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 48. `answering-objections-l5-008`  ·  Level 5  ·  True / false
+
+**Question.** True or False: Having now practiced recognizing common real objections, this topic's next level turns to science and faith objections.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having established this real, practical recognition skill, this topic's next level turns to a specific, real cluster of objections concerning science and faith.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 49. `answering-objections-l5-009`  ·  Level 5  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real body of common objections?
+
+**Answer options.**
+- [✓] Recognizing a new phrasing maps onto an already-covered category, not treating it as an entirely new problem
+- [ ] Assuming every real, differently phrased challenge is automatically an entirely new, unrelated real problem
+- [ ] Assuming the previous level's own real content has no real, further application beyond its own exact original wording
+- [ ] Avoiding any real, practical recognition of how a new, real phrasing might actually relate to previously covered content
+
+**Explanation shown to the user.** This level's own real habit -- recognizing a real, new phrasing as an already-covered, real category -- is exactly the same real discipline this topic will keep practicing through its own later levels.
+
+**Hint.** Consider what this level actually did with each of its own two, real, differently phrased challenges.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 50. `answering-objections-l5-010`  ·  Level 5  ·  Multiple choice
+
+**Question.** Given this level's picture of recognizing common real objections, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Science and faith objections
+- [ ] A complete repeat of this same level's material about recognizing objections
+- [ ] A jump ahead to advanced dialogue principles, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or their own real recognition
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- moving from recognizing objections in general to a specific, real cluster concerning science and faith.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 600
+  > To God, all moments of time are present in their immediacy. When therefore he establishes his eternal plan of 'predestination', he includes in it each person's free response to his grace.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 51. `answering-objections-l6-001`  ·  Level 6  ·  Multiple choice
+
+**Question.** Objection: 'A rational, scientifically-minded person cannot also believe in miracles.' The Catholic response distinguishes:
+
+**Answer options.**
+- [✓] The ordinary laws of nature from God's own freedom, as their author, to act beyond them without violating reason
+- [ ] Nothing -- the Church agrees miracles are irrational
+- [ ] Miracles from all natural events, treating them as entirely unrelated categories
+- [ ] Old Testament miracles, which are accepted, from New Testament ones, which are not
+
+**Explanation shown to the user.** A miracle isn't a violation of reason -- it's an act by the very author of nature's laws, who is free to act beyond the ordinary course of events he himself established, without those events being random or contrary to reason.
+
+**Hint.** God wrote the laws of nature -- an author isn't bound the same way a character inside the story is.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 52. `answering-objections-l6-002`  ·  Level 6  ·  True / false
+
+**Question.** True or False: The Catholic Church requires all Catholics to reject the Big Bang theory as incompatible with the Genesis creation account.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** The Church teaches that genuine scientific inquiry, properly conducted, can never truly conflict with faith -- there is no requirement to reject well-supported scientific theories like the Big Bang.
+
+**Hint.** The Church's actual position is that real science and real faith can't ultimately contradict each other.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 53. `answering-objections-l6-003`  ·  Level 6  ·  Fill in the blank
+
+**Question.** Pope St. John Paul II taught that the theory of evolution, regarding the human body, is 'more than a ____' -- while insisting the human soul is directly created by God, not the product of material processes alone.
+
+**Correct answer.** hypothesis
+
+**Explanation shown to the user.** In a 1996 message to the Pontifical Academy of Sciences, John Paul II acknowledged evolution's strong scientific standing regarding the body, while firmly maintaining that the spiritual soul cannot be explained by material evolution alone.
+
+**Hint.** This word describes a tentative guess -- and he said evolution's evidence had moved well beyond that stage.
+
+**Citations.**
+**magisterial_document** — Message to the Pontifical Academy of Sciences, Pope St. John Paul II (1996)
+  > Today, almost half a century after the publication of the encyclical, new knowledge has led to the recognition of the theory of evolution as more than a hypothesis.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 54. `answering-objections-l6-004`  ·  Level 6  ·  Multiple choice
+
+**Question.** Objection: 'Genetics and cosmology have made belief in a soul obsolete.' Catholic teaching responds that the human soul is:
+
+**Answer options.**
+- [✓] A spiritual reality, not reducible to or identical with any physical or biological process
+- [ ] Simply another name for brain activity
+- [ ] A concept the Church has quietly abandoned
+- [ ] Something only some human beings possess
+
+**Explanation shown to the user.** The Church teaches that every human soul is directly created by God -- a spiritual reality that no amount of physical or biological description, however accurate on its own terms, could fully capture or explain away.
+
+**Hint.** The soul, on this view, isn't a stand-in for something physics or biology could eventually explain.
+
+**Citations.**
+**ccc** — CCC 366
+  > The Church teaches that every spiritual soul is created immediately by God - it is not 'produced' by the parents
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 55. `answering-objections-l6-005`  ·  Level 6  ·  True / false
+
+**Question.** True or False: The Catholic Church has historically operated observatories and supported significant contributions to modern astronomy, including through the Vatican Observatory.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** Far from opposing astronomy wholesale, the Church has long sponsored serious scientific research -- a concrete expression of the conviction that faith and genuine science are not at war.
+
+**Hint.** The Vatican itself runs a research observatory, staffed by Jesuit scientists.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 56. `answering-objections-l6-006`  ·  Level 6  ·  Matching pairs
+
+**Question.** Match each science-related objection to a fitting Catholic response.
+
+**Pairs.**
+- 'Miracles are irrational' → God, as author of nature's laws, can act beyond them without violating reason
+- 'The Big Bang disproves Genesis' → A Catholic priest-scientist first proposed the Big Bang theory
+- 'Evolution disproves the soul' → The soul is a spiritual reality, directly created by God, not a physical process
+- 'The Church has always opposed science' → The Church has long supported research, including its own observatory
+
+**Explanation shown to the user.** Each objection assumes a conflict between faith and science that the Church's actual teaching and history don't bear out.
+
+**Hint.** Notice each response corrects a specific factual assumption behind the objection.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+**ccc** — CCC 366
+  > The Church teaches that every spiritual soul is created immediately by God - it is not 'produced' by the parents
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 57. `answering-objections-l6-007`  ·  Level 6  ·  Multiple choice
+
+**Question.** Objection: 'Genesis says six days, so Catholics must reject an ancient universe.' What does the Church actually hold?
+
+**Answer options.**
+- [✓] Genesis uses figurative language while affirming a primeval event; the Church makes no claim about the age of the universe
+- [ ] Catholics must hold that creation took six twenty-four-hour days
+- [ ] Genesis is a myth with no historical reference at all
+- [ ] The Church has never addressed the question
+
+**Explanation shown to the user.** The Catechism says outright that the account uses figurative language and that it affirms something real about the beginning. Holding both is the Catholic position: neither a literalism the text does not require, nor a dismissal that empties it.
+
+**Hint.** The Church affirms two things here that the objection assumes cannot both be held.
+
+**Citations.**
+**ccc** — CCC 390
+**ccc** — CCC 337
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 58. `answering-objections-l6-008`  ·  Level 6  ·  True / false
+
+**Question.** True or False: Because scientific study of origins has advanced so far, the Church regards such research as a threat to faith.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False. The Catechism treats discoveries about the origins of the universe and of life as an invitation to greater admiration for the Creator. Framing science as a rival requires a view of God the Church does not hold — as one cause among others inside the universe rather than its source.
+
+**Hint.** Consider whether learning how something works competes with the question of why it exists at all.
+
+**Citations.**
+**ccc** — CCC 283
+**ccc** — CCC 159
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 59. `answering-objections-l6-009`  ·  Level 6  ·  Fill in the blank
+
+**Question.** A miracle is not a violation of nature by an outsider, but an act of the ____ of nature, who is not bound by what he made.
+
+**Correct answer.** author
+
+**Explanation shown to the user.** The objection pictures God as an intruder breaking rules he is subject to. On the Christian account the regularities of nature exist because he sustains them, so his acting differently is not a violation of a law over him — which is why the argument from natural law against miracles assumes the conclusion it needs.
+
+**Hint.** Ask who the laws of nature belong to.
+
+**Citations.**
+**ccc** — CCC 548
+**ccc** — CCC 159
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 60. `answering-objections-l6-010`  ·  Level 6  ·  Matching pairs
+
+**Question.** Match each science-and-faith objection to what actually answers it.
+
+**Pairs.**
+- 'Genesis requires a young universe' → The account uses figurative language while affirming a real beginning
+- 'Miracles violate natural law' → The author of nature is not bound by what he sustains
+- 'Neuroscience disproves the soul' → Describing a mechanism does not settle what the thing is
+- 'Science and religion are at war' → The historical record does not support a standing conflict
+
+**Explanation shown to the user.** Three of these rest on a category error and one on a historical claim. Sorting which kind of mistake is in front of you decides whether the answer is a distinction or a fact, and offering the wrong kind misses in both directions.
+
+**Hint.** Only one of these four is settled by history rather than by a distinction.
+
+**Citations.**
+**ccc** — CCC 159
+**ccc** — CCC 366
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 61. `answering-objections-l7-001`  ·  Level 7  ·  Multiple choice
+
+**Question.** The previous level covered several science-and-faith objections. A friend raises a further one: 'The universe's physical constants seem finely tuned for life, but the multiverse theory explains this without needing God -- with enough universes, one bound to have the right conditions by pure chance.' What is the real, careful response?
+
+**Answer options.**
+- [✓] The multiverse doesn't remove the deeper question of why any mechanism exists -- it relocates, not answers, it
+- [ ] The multiverse theory has actually been definitively disproven by all real, current science
+- [ ] The Church actually forbids Catholics from ever considering the real, multiverse hypothesis
+- [ ] This objection has no real, careful response available, so it should simply be conceded
+
+**Explanation shown to the user.** This is a real, precise, philosophical response -- even granting a real multiverse, the real, deeper question of why any universe-generating mechanism exists, and why it operates by laws capable of producing life at all, remains -- the multiverse hypothesis relocates the real question rather than actually answering it.
+
+**Hint.** Consider whether explaining one real, specific universe by appeal to many actually answers the deeper real question of why any of them exist at all.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 62. `answering-objections-l7-002`  ·  Level 7  ·  True / false
+
+**Question.** True or False: The Church actually forbids Catholics from considering or discussing the multiverse hypothesis as a real, legitimate scientific question.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False. The Church does not forbid real, legitimate scientific hypotheses -- consistent with this app's own earlier real teaching that faith and reason can never actually be in real discrepancy, the multiverse remains a real, open scientific question, not one the Church actually prohibits.
+
+**Hint.** Recall this topic's own earlier level's own real teaching on faith and reason never actually conflicting.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 63. `answering-objections-l7-003`  ·  Level 7  ·  Multiple choice
+
+**Question.** This level's own real answer -- 'relocates the question rather than answering it' -- connects to which of this app's own earlier real teachings most directly?
+
+**Answer options.**
+- [✓] Metaphysics' level on why anything that begins needs a cause, and why infinite regress doesn't remove the need for a final explanation
+- [ ] This level's own real answer actually has no connection to anything else in this app
+- [ ] This app's own Church Latin topic, which addresses an entirely unrelated real subject
+- [ ] This app's own Saints topic's own level on canonization, which addresses a completely different real question
+
+**Explanation shown to the user.** This is a real, direct connection to this app's own Metaphysics topic -- the same real logic that shows an infinite causal regress doesn't remove the need for a real, first cause also shows that multiplying universes doesn't remove the need for a real, final explanation of why any of them, or their own real laws, actually exist.
+
+**Hint.** Recall this app's own Metaphysics topic's own earlier real teaching on causal regress and the real need for a final explanation.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 64. `answering-objections-l7-004`  ·  Level 7  ·  True / false
+
+**Question.** True or False: This level's own real response means a Catholic must actually reject the multiverse hypothesis as scientifically false.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and this real, careful distinction matters -- this level's own real response doesn't require rejecting the multiverse as false; it shows that even if true, it doesn't actually remove the deeper, real philosophical question at stake.
+
+**Hint.** Consider whether this level's own real answer actually requires denying the multiverse hypothesis outright, or simply shows its own real, philosophical limits.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 65. `answering-objections-l7-005`  ·  Level 7  ·  Multiple choice
+
+**Question.** A skeptic pushes further: 'Isn't this just a real, updated version of the god-of-the-gaps fallacy?' What is the real, careful answer?
+
+**Answer options.**
+- [✓] No -- not a gap-filler; a philosophical point about needing a final, non-contingent ground, the same distinction Apologetics already drew
+- [ ] Yes -- the objection is correct, and this level's own real response really is just a disguised god-of-the-gaps argument
+- [ ] No -- because science has actually never made any real progress in explaining the universe's own origins
+- [ ] Yes -- but this is presented as an acceptable real approach regardless of the objection's own real force
+
+**Explanation shown to the user.** This is exactly the same real distinction this app's own Apologetics topic already drew for a similar objection -- this is not inserting God into a temporary gap in current knowledge, but a real, philosophical point about why any real explanatory chain still needs a real, final, non-contingent ground.
+
+**Hint.** Recall this app's own Apologetics topic's own earlier level distinguishing a real god-of-the-gaps argument from a genuinely different, stronger real philosophical point.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 66. `answering-objections-l7-006`  ·  Level 7  ·  True / false
+
+**Question.** True or False: This level's own real answer draws directly on real content already built in this app's own Metaphysics and Apologetics topics, rather than introducing an entirely new, unconnected real argument.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this connection matters -- this level's own real strength comes from drawing directly on this app's own already-established real content, showing this whole app's own real, connected coherence.
+
+**Hint.** Consider what real content this level actually drew on from this app's own other topics.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 67. `answering-objections-l7-007`  ·  Level 7  ·  Matching pairs
+
+**Question.** Match each fact about the multiverse objection to what it actually means.
+
+**Pairs.**
+- The multiverse hypothesis → Relocates the real question of why anything exists, rather than answering it
+- The Church's own real position → Does not forbid the hypothesis as a real, legitimate scientific question
+- Connection to Metaphysics → The same logic showing infinite regress doesn't remove the need for a final explanation
+- Why this isn't god-of-the-gaps → A philosophical point about a final, non-contingent ground, not a temporary knowledge gap
+
+**Explanation shown to the user.** These four facts together show this level's own real, careful, philosophically grounded answer to a genuinely sophisticated real objection.
+
+**Hint.** Each row builds toward the same real, careful, multi-part answer this level actually gives.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 68. `answering-objections-l7-008`  ·  Level 7  ·  True / false
+
+**Question.** True or False: Having now answered a further science-and-faith objection, this topic's next level turns to the problem of evil.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having deepened this topic's own real engagement with science and faith, this topic's next level turns to a genuinely different, real challenge -- the problem of evil.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 69. `answering-objections-l7-009`  ·  Level 7  ·  Multiple choice
+
+**Question.** What real, general habit has this level modeled for engaging a genuinely sophisticated, modern real objection?
+
+**Answer options.**
+- [✓] Drawing on precise distinctions already established elsewhere in this app to answer a sophisticated claim carefully
+- [ ] Dismissing a sophisticated, real objection outright as unworthy of any real, careful engagement
+- [ ] Conceding a sophisticated, real objection entirely without offering any real, careful response
+- [ ] Answering with a vague, generic reassurance rather than real, specific philosophical reasoning
+
+**Explanation shown to the user.** This level's own real habit -- drawing on precise, real distinctions already established elsewhere to answer a sophisticated real claim carefully -- is exactly the same real discipline this topic will keep practicing through its own later levels.
+
+**Hint.** Consider what real content this level actually drew on before answering the skeptic's own real objection.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 70. `answering-objections-l7-010`  ·  Level 7  ·  Multiple choice
+
+**Question.** Given this level's picture of answering a further science-and-faith objection, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] The problem of evil
+- [ ] A complete repeat of this same level's material about the multiverse objection
+- [ ] A jump ahead to advanced dialogue principles, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real, careful reasoning
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- turning from science-and-faith objections to a genuinely different, real challenge many people actually raise.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 71. `answering-objections-l8-001`  ·  Level 8  ·  Multiple choice
+
+**Question.** Philosophers distinguish 'moral evil' (evil caused by free human choices) from:
+
+**Answer options.**
+- [✓] 'Natural evil' (suffering caused by natural processes like disease or disaster)
+- [ ] 'Fake evil' (evil that isn't actually real)
+- [ ] 'Divine evil' (evil directly willed by God)
+- [ ] 'Necessary evil' (evil the Church requires)
+
+**Explanation shown to the user.** This classic distinction separates suffering that flows from human freedom and sin from suffering that flows from the natural world's own processes -- both raise real questions, but of somewhat different kinds.
+
+**Hint.** One kind of evil comes from human choices; the other from the natural world itself.
+
+**Citations.**
+**ccc** — CCC 385
+  > suffering or the evils in nature which seem to be linked to the limitations proper to creatures
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 72. `answering-objections-l8-002`  ·  Level 8  ·  True / false
+
+**Question.** True or False: The Catholic Church teaches that God directly causes moral evil (sin) in order to bring about some greater good.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** The Church teaches that God is in no way, directly or indirectly, the cause of moral evil -- he permits it, out of respect for creaturely freedom, but he never wills or causes sin itself.
+
+**Hint.** God permits this kind of evil; he does not cause it.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 73. `answering-objections-l8-003`  ·  Level 8  ·  Fill in the blank
+
+**Question.** St. Augustine's classical answer to the problem of evil holds that evil is not a positive thing in itself, but a ____ -- a lack of a good that ought to be present.
+
+**Correct answer.** privation
+
+**Explanation shown to the user.** On this view, evil has no independent existence of its own -- it's always a corruption or absence of some good that should be there, not a rival substance created alongside goodness.
+
+**Hint.** It names an absence or lack, not a positive thing in its own right.
+
+**Citations.**
+**scripture** — Genesis 1:31
+  > God looked at everything he had made, and found it very good.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 74. `answering-objections-l8-004`  ·  Level 8  ·  Multiple choice
+
+**Question.** The 'free will defense' against the problem of evil argues that:
+
+**Answer options.**
+- [✓] A world with genuine freedom, and the real possibility of moral evil, is more valuable than a world of forced, robotic goodness
+- [ ] Free will is an illusion invented to excuse God
+- [ ] God removed free will after the Fall to prevent further evil
+- [ ] Only some human beings actually have free will
+
+**Explanation shown to the user.** This defense argues that love and goodness freely chosen are worth the real risk that freedom could be misused -- a world without any possibility of moral evil would also be a world without any real freedom to love.
+
+**Hint.** This defense argues that real freedom is worth its real risks.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 75. `answering-objections-l8-005`  ·  Level 8  ·  True / false
+
+**Question.** True or False: Catholic theology teaches that God is powerless to prevent evil, since he is not truly all-powerful.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** The Church holds firmly to God's almighty power even while acknowledging the real experience of evil and suffering -- God permits evil for reasons connected to a greater good, without this implying any limit on his power.
+
+**Hint.** The Church's answer to evil doesn't come at the cost of denying God's power.
+
+**Citations.**
+**ccc** — CCC 272
+  > God can sometimes seem to be absent and incapable of stopping evil. But in the most mysterious way God the Father has revealed his almighty power in the voluntary humiliation and Resurrection of his Son, by which he conquered evil.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 76. `answering-objections-l8-006`  ·  Level 8  ·  Matching pairs
+
+**Question.** Match each term related to the problem of evil to its meaning.
+
+**Pairs.**
+- Moral evil → Evil caused by free human choices, like sin
+- Natural evil → Suffering from natural causes, like disease or disaster
+- Privation theory → Evil as a lack of a due good, not a positive substance
+- Free will defense → Genuine freedom is worth the real risk of moral evil
+
+**Explanation shown to the user.** These four ideas together form the backbone of the classical Christian approach to the problem of evil -- distinguishing its kinds, its metaphysical status, and why God permits it.
+
+**Hint.** Two describe kinds of evil; two describe philosophical explanations for why evil exists at all.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+**ccc** — CCC 385
+  > suffering or the evils in nature which seem to be linked to the limitations proper to creatures
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 77. `answering-objections-l8-007`  ·  Level 8  ·  Multiple choice
+
+**Question.** The Exsultet calls Adam's sin a 'happy fault' that earned so great a Redeemer. What is the claim, and what is it not?
+
+**Answer options.**
+- [✓] That God draws a greater good from evil he permits — not that the evil was good, nor that it was necessary
+- [ ] That sin is good because it produced redemption
+- [ ] That the Fall was part of God's positive will
+- [ ] That evil and good are ultimately the same
+
+**Explanation shown to the user.** The phrase is easily misused in both directions. It does not baptise the sin, and it does not make the sin required for the Incarnation. It says God's response to evil so exceeds the evil that the Church can sing about the outcome without approving the cause.
+
+**Hint.** Ask what exactly is being called happy — the fault, or what God did about it.
+
+**Citations.**
+**ccc** — CCC 412
+**ccc** — CCC 324
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 78. `answering-objections-l8-008`  ·  Level 8  ·  True / false
+
+**Question.** True or False: The right first response to someone in acute grief asking 'why did God let this happen' is to present the free-will defence.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and getting this wrong does real damage. In grief the words are usually not a request for an argument. A philosophical answer delivered then tells the person their pain has been heard as a debating position — the correct response is presence, and the argument belongs to a different conversation, if it belongs at all.
+
+**Hint.** Ask whether the question is being asked as a question.
+
+**Citations.**
+**scripture** — Romans 12:15
+**ccc** — CCC 1506
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 79. `answering-objections-l8-009`  ·  Level 8  ·  Multiple choice
+
+**Question.** Why does the Church say evil is a privation rather than a thing?
+
+**Answer options.**
+- [✓] Because everything that exists is created good; evil is the absence of a good that ought to be there, not a rival substance
+- [ ] Because evil is an illusion with no real effects
+- [ ] Because evil was created by a lesser deity
+- [ ] Because evil exists only in human perception
+
+**Explanation shown to the user.** Privation is not a denial that evil is real — blindness is real, and it is the absence of sight. The doctrine rules out dualism: if evil were a substance, something would have had to create it, and God creates only good.
+
+**Hint.** Compare it to blindness or a wound — real, and defined by what is missing.
+
+**Citations.**
+**ccc** — CCC 385
+**scripture** — Genesis 1:31
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 80. `answering-objections-l8-010`  ·  Level 8  ·  Matching pairs
+
+**Question.** Match each formulation about evil to what it actually maintains.
+
+**Pairs.**
+- Privation → Evil is the absence of a due good, not a created substance
+- Free-will defence → Genuine freedom makes real refusal possible
+- Felix culpa → God draws a greater good from evil he permits
+- Divine permission → God permits moral evil without causing it
+
+**Explanation shown to the user.** These are complementary rather than competing, and none of them is offered as an explanation of any particular person's suffering. Treating a general account of why evil is possible as an answer to a specific grief is the most common misuse of all four.
+
+**Hint.** All four address why evil is possible, not why a given thing happened.
+
+**Citations.**
+**ccc** — CCC 311
+**ccc** — CCC 385
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 81. `answering-objections-l9-001`  ·  Level 9  ·  Multiple choice
+
+**Question.** The previous level covered moral evil as flowing from real, free human choices, which God permits out of respect for real freedom. A skeptic pushes: 'Couldn't God have created free creatures who always freely choose good, avoiding evil entirely?' What is the real, careful, deeper answer?
+
+**Answer options.**
+- [✓] This is a genuinely debated question -- real freedom capable of good seems to require the genuine possibility of choosing otherwise
+- [ ] This objection has actually never been seriously considered by any real philosopher or theologian
+- [ ] The real, obvious answer is that God actually could have done this easily, but arbitrarily chose not to
+- [ ] Free will and the real possibility of choosing evil are actually entirely unrelated concepts
+
+**Explanation shown to the user.** This is a real, honest, deeper engagement -- philosophers genuinely debate this exact question (Plantinga's own real 'transworld depravity' argument being one serious real answer), but the real, underlying intuition holds: freedom capable of real moral good seems to require the real, genuine possibility of choosing otherwise.
+
+**Hint.** Consider whether a 'freedom' that could never possibly choose wrongly would actually still be real, meaningful freedom.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 82. `answering-objections-l9-002`  ·  Level 9  ·  True / false
+
+**Question.** True or False: This deeper question about whether God could have created free creatures who always freely choose good is actually a real, genuinely debated question among serious philosophers, not one with an easy, obvious answer either way.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, honest acknowledgment matters -- serious philosophers genuinely debate this exact real question, and pretending it has an easy, obvious answer either way would actually misrepresent the real, genuine philosophical difficulty involved.
+
+**Hint.** Recall this level's own real, honest acknowledgment of ongoing philosophical debate on this exact question.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 83. `answering-objections-l9-003`  ·  Level 9  ·  Multiple choice
+
+**Question.** Why does this level's own real, honest engagement with a genuinely unresolved philosophical question actually strengthen, rather than weaken, this topic's own real credibility?
+
+**Answer options.**
+- [✓] Because honestly naming ongoing debate, rather than pretending every question has an easy answer, shows commitment to truth over false certainty
+- [ ] Because acknowledging real, ongoing debate always actually weakens any real argument's own credibility, without exception
+- [ ] Because this level's own real honesty actually has no bearing on this topic's own overall credibility
+- [ ] Because pretending every real question has an easy answer would actually be the more real, credible approach
+
+**Explanation shown to the user.** This is a real, important point about intellectual credibility -- honestly naming genuine, ongoing debate, rather than manufacturing false certainty, shows a real, consistent commitment to truth, exactly the kind of real, honest engagement this app's own Apologetics and Sacred-scripture topics have already modeled.
+
+**Hint.** Recall this app's own Apologetics topic's own earlier level on honest engagement with an inconvenient real finding.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 84. `answering-objections-l9-004`  ·  Level 9  ·  True / false
+
+**Question.** True or False: This level's own real habit of honest engagement follows the same real pattern this app's own Apologetics and Sacred-scripture topics already modeled for genuinely hard, unresolved real questions.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this shared real method matters -- both topics practice the same underlying real discipline: honest, careful engagement with genuinely hard real questions, rather than a convenient, falsely certain answer.
+
+**Hint.** Recall this app's own Apologetics and Sacred-scripture topics' own earlier levels on honestly engaging genuinely hard real questions.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 85. `answering-objections-l9-005`  ·  Level 9  ·  Multiple choice
+
+**Question.** Even granting the free-will defense answers moral evil, what real, further question does it leave genuinely open?
+
+**Answer options.**
+- [✓] Natural evil -- suffering from natural causes like disease or disasters, which doesn't flow from any free human choice, and needs its own separate account
+- [ ] The free-will defense actually answers every possible form of evil completely, leaving no real, further question open at all
+- [ ] The free-will defense actually has no real bearing on moral evil either, leaving that question equally open
+- [ ] This level's own real point actually contradicts everything the previous level already established
+
+**Explanation shown to the user.** This is a real, important limit worth naming honestly -- the free-will defense addresses moral evil specifically, but natural evil (disease, natural disasters) doesn't flow from any real, free human choice, requiring its own real, separate account, which this app's own related content on creation's own real limitations begins to address.
+
+**Hint.** Recall the previous level's own real citation on suffering linked to the real limitations proper to creatures, distinct from moral evil.
+
+**Citations.**
+**ccc** — CCC 385
+  > suffering or the evils in nature which seem to be linked to the limitations proper to creatures
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 86. `answering-objections-l9-006`  ·  Level 9  ·  True / false
+
+**Question.** True or False: The free-will defense and the real, separate account of natural evil are two distinct, real answers, not one single, unified real answer to every possible form of evil.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, careful distinction closes this level honestly -- moral evil and natural evil are genuinely different real problems, needing genuinely different, real, careful answers, not one single, unified real response.
+
+**Hint.** Consider whether moral evil (from free choices) and natural evil (from natural causes) are actually the same real kind of problem.
+
+**Citations.**
+**ccc** — CCC 385
+  > suffering or the evils in nature which seem to be linked to the limitations proper to creatures
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 87. `answering-objections-l9-007`  ·  Level 9  ·  Matching pairs
+
+**Question.** Match each fact about the free-will defense, deepened, to what it actually means.
+
+**Pairs.**
+- "Could God have made creatures who always freely choose good?" → A real, genuinely debated philosophical question, not an easy, settled one
+- Honestly naming real, ongoing debate → Strengthens real credibility, showing commitment to truth over false certainty
+- Natural evil → A genuinely different real problem the free-will defense does not itself resolve
+- Why both real limits matter → Moral and natural evil need genuinely different, real, careful answers
+
+**Explanation shown to the user.** These four facts together deepen the previous level's own basic teaching, showing exactly where the free-will defense's own real strength lies and where its own real limits actually are.
+
+**Hint.** Two rows deepen the free-will defense itself; two name its own real limits honestly.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 88. `answering-objections-l9-008`  ·  Level 9  ·  True / false
+
+**Question.** True or False: Having now deepened the free-will defense, this topic's next level turns to historical scandals, answered.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having deepened this topic's own engagement with the problem of evil, this topic's next level turns to a genuinely different, real cluster of objections concerning the Church's own historical record.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 89. `answering-objections-l9-009`  ·  Level 9  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real teaching on moral evil?
+
+**Answer options.**
+- [✓] Honestly distinguishing what the free-will defense settles from what it leaves open, not treating it complete
+- [ ] Assuming the free-will defense actually settles every possible form of evil completely
+- [ ] Abandoning the previous level's own real teaching on moral evil entirely
+- [ ] Avoiding any real, honest acknowledgment of this level's own real, further limits
+
+**Explanation shown to the user.** This level's own real habit -- honestly distinguishing what is settled from what remains genuinely open -- is exactly the same real discipline this topic will keep practicing through its own later levels on precise philosophical vocabulary.
+
+**Hint.** Consider what this level actually did with the previous level's own real teaching on moral evil.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 90. `answering-objections-l9-010`  ·  Level 9  ·  Multiple choice
+
+**Question.** Given this level's picture of the free-will defense, deepened, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Historical scandals, answered
+- [ ] A complete repeat of this same level's material about the free-will defense
+- [ ] A jump ahead to advanced dialogue principles, skipping over everything in between
+- [ ] A subject entirely unrelated to evil, freedom, or real objections
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- moving from the philosophical problem of evil to the Church's own real, historical record.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 91. `answering-objections-l10-001`  ·  Level 10  ·  Multiple choice
+
+**Question.** Objection: 'The Church has never admitted wrongdoing for events like the Crusades or the Inquisition.' In fact, Pope St. John Paul II:
+
+**Answer options.**
+- [✓] Publicly asked forgiveness for sins committed by members of the Church throughout history, at a 'Day of Pardon' liturgy in 2000
+- [ ] Refused to ever discuss the topic publicly
+- [ ] Argued the Crusades and Inquisition never actually happened
+- [ ] Excommunicated historians who studied these events
+
+**Explanation shown to the user.** As part of the Jubilee Year 2000, John Paul II led a public liturgy of repentance at St. Peter's Basilica, explicitly asking forgiveness for historical sins committed by members of the Church, including violence done in God's name.
+
+**Hint.** This was a public liturgy, not a private conversation, held during the Jubilee Year 2000.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 92. `answering-objections-l10-002`  ·  Level 10  ·  True / false
+
+**Question.** True or False: The Galileo affair means the Catholic Church officially teaches that Scripture must always be read as a scientific textbook on astronomy.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** The Church's own teaching on Scripture holds that it reliably teaches what is needed for our salvation, using the literary forms and worldview of its time -- not that it functions as a modern scientific astronomy textbook.
+
+**Hint.** The Church's actual teaching on how to read Scripture doesn't demand this kind of scientific literalism.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 93. `answering-objections-l10-003`  ·  Level 10  ·  Fill in the blank
+
+**Question.** Pope St. John Paul II commissioned a study of the Galileo case and, in a 1992 address, publicly acknowledged that Church officials of the time had made ____ in their handling of the matter.
+
+**Correct answer.** errors
+
+**Explanation shown to the user.** After more than a decade of study by a Pontifical commission, John Paul II publicly acknowledged the real mistakes made by theologians and officials in the Galileo case -- a notable example of the Church reckoning honestly with its own history.
+
+**Hint.** It's a word for mistakes -- the Church acknowledged real ones were made.
+
+**Citations.**
+**magisterial_document** — Address to the Pontifical Academy of Sciences, Pope St. John Paul II (1992)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 94. `answering-objections-l10-004`  ·  Level 10  ·  Multiple choice
+
+**Question.** Regarding the sin of slavery, one of the Catholic Church's clearest direct condemnations of the slave trade came in Pope Gregory XVI's 1839 document:
+
+**Answer options.**
+- [✓] In Supremo Apostolatus
+- [ ] Rerum Novarum
+- [ ] Humani Generis
+- [ ] Pascendi Dominici Gregis
+
+**Explanation shown to the user.** In Supremo Apostolatus condemned the slave trade and the enslavement of indigenous peoples and Africans -- an explicit papal statement against practices some Catholics, in contradiction of Church teaching, had participated in.
+
+**Hint.** The other three documents address labor conditions, evolution, and Modernism -- not slavery specifically.
+
+**Citations.**
+**magisterial_document** — In Supremo Apostolatus, Pope Gregory XVI (1839)
+  > We reprove, then, by virtue of Our Apostolic Authority, all the practices abovementioned as absolutely unworthy of the Christian name.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 95. `answering-objections-l10-005`  ·  Level 10  ·  True / false
+
+**Question.** True or False: Historical wrongdoing by some members of the Church, even including clergy, does not by itself disprove the truth of Catholic doctrine, any more than a scientist's personal misconduct disproves a scientific theory.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** The Catechism describes the Church as holy in her founder, sacraments, and teaching, while always including sinful members in need of ongoing purification -- a distinction between the truth she holds and the failures of individuals within her.
+
+**Hint.** The truth of a claim and the behavior of people who claim to believe it are two separate questions.
+
+**Citations.**
+**ccc** — CCC 827
+  > The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 96. `answering-objections-l10-006`  ·  Level 10  ·  Matching pairs
+
+**Question.** Match each historical challenge to a documented Church response.
+
+**Pairs.**
+- Crusades / Inquisition → JPII's public 'Day of Pardon' asking forgiveness (2000)
+- Galileo affair → JPII publicly acknowledged errors by Church officials (1992)
+- Slavery → Gregory XVI's In Supremo Apostolatus condemned the slave trade (1839)
+- Sins of individual members → Don't by themselves disprove the truth of Church teaching
+
+**Explanation shown to the user.** The Church's response to hard historical questions has generally been honest acknowledgment rather than denial -- while still distinguishing members' sins from the truth of what the Church actually teaches.
+
+**Hint.** Three of these are specific documented papal acts; the last is a general principle about members versus doctrine.
+
+**Citations.**
+**ccc** — CCC 827
+  > The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal.
+**magisterial_document** — In Supremo Apostolatus, Pope Gregory XVI (1839)
+  > We reprove, then, by virtue of Our Apostolic Authority, all the practices abovementioned as absolutely unworthy of the Christian name.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 97. `answering-objections-l10-007`  ·  Level 10  ·  Multiple choice
+
+**Question.** Someone says: 'The abuse crisis shows the Church's claims are false.' What is the honest response?
+
+**Answer options.**
+- [✓] Name the evil without qualification, acknowledge that those who abused and those who concealed it betrayed the people they were ordained to serve, and recognise the objection is usually not a syllogism
+- [ ] Point out that abuse rates are comparable in other institutions
+- [ ] Explain that the Church's holiness is Christ's, so the failures of members are irrelevant
+- [ ] Note that most accusations concern decades past
+
+**Explanation shown to the user.** The other three answers are each partly true and all three function as deflections. Comparative statistics say other children were also failed. An appeal to the Church's holiness, offered here, sounds like the institution excusing itself. And the Church's own teaching is that scandal is graver, not lesser, when given by those whose office is to teach — so the argument that clergy failures do not matter is one the Church herself rejects.
+
+**Hint.** Three of these options are true statements that would still be wrong to say.
+
+**Citations.**
+**ccc** — CCC 2284
+**ccc** — CCC 2285
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 98. `answering-objections-l10-008`  ·  Level 10  ·  True / false
+
+**Question.** True or False: Because scandal given by those in office is graver, the Church's own teaching intensifies rather than lessens the charge against clergy who abused.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and it is worth saying plainly. Scandal is grave in proportion to the authority of the one giving it. The Church does not possess a doctrine that softens what was done; her own moral theology makes it worse, which is the opposite of what an outsider expects to hear.
+
+**Hint.** Ask whether the Church's teaching on scandal makes an ordained abuser's guilt greater or smaller.
+
+**Citations.**
+**ccc** — CCC 2285
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 99. `answering-objections-l10-009`  ·  Level 10  ·  Multiple choice
+
+**Question.** How should the distinction between the Church's holiness and her members' sin be used?
+
+**Answer options.**
+- [✓] It explains how the Church can be holy while containing sinners; it never functions as a reply to someone harmed by those sinners
+- [ ] It shows that the failures of members are unimportant
+- [ ] It proves the institution bears no responsibility for what its ministers do
+- [ ] It should be the first thing said whenever the abuse crisis is raised
+
+**Explanation shown to the user.** The distinction is true and it has a proper use, which is theological. Deployed to a victim it becomes an evasion wearing doctrine as cover. Knowing a true thing and knowing when saying it would be wrong are different competencies, and this topic requires the second.
+
+**Hint.** The question is not whether the distinction is true, but what it can and cannot be used for.
+
+**Citations.**
+**ccc** — CCC 827
+**ccc** — CCC 2285
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 100. `answering-objections-l10-010`  ·  Level 10  ·  Matching pairs
+
+**Question.** Match each historical charge to what the record actually shows.
+
+**Pairs.**
+- The Galileo affair → A real failure, publicly acknowledged and studied by John Paul II
+- The slave trade → Condemned by Gregory XVI in In Supremo Apostolatus (1839)
+- The Day of Pardon (2000) → A formal request for forgiveness for sins of the Church's members
+- The abuse crisis → Grave evil, made graver by the office of those who committed it
+
+**Explanation shown to the user.** Two of these are answered by pointing to a documented record; two require admitting fault without qualification. An apologetic that can only do the first kind is not honest, and people can tell.
+
+**Hint.** Two of these are defended with evidence; two are not to be defended at all.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+**ccc** — CCC 2285
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 101. `answering-objections-l11-001`  ·  Level 11  ·  Multiple choice
+
+**Question.** The previous level covered several documented historical charges -- the Crusades, the Galileo affair, slavery, the abuse crisis. A further real objection: 'Pope Pius XII stayed silent during the Holocaust.' What is the real, careful, honest response?
+
+**Answer options.**
+- [✓] Historians genuinely debate this -- some credit quiet wartime efforts to shelter Jews, others wanted more public action
+- [ ] This objection has actually never been raised by any real historian, ever
+- [ ] The real, honest answer is that Pius XII actually did nothing at all during this period
+- [ ] This objection should actually be dismissed outright, with no real, honest engagement at all
+
+**Explanation shown to the user.** This is exactly the same real, honest method the previous level already modeled -- naming the actual, documented historical record, including its own real, genuine complexity, rather than either a defensive denial or an uncritical concession.
+
+**Hint.** Recall the previous level's own real method for the Galileo affair -- naming the documented record honestly, not defensively.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 102. `answering-objections-l11-002`  ·  Level 11  ·  True / false
+
+**Question.** True or False: An honest response to a genuinely debated historical charge should name the real, ongoing scholarly debate rather than presenting a falsely simple, one-sided verdict.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly this level's own real point -- real, honest engagement with a genuinely debated historical question names the actual complexity, rather than manufacturing false, one-sided certainty in either direction.
+
+**Hint.** Consider what this level's own real answer actually did with the genuinely debated historical record.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 103. `answering-objections-l11-003`  ·  Level 11  ·  Multiple choice
+
+**Question.** In the year 2000, Pope St. John Paul II led a real, public 'Day of Pardon' liturgy at St. Peter's Basilica. What did this real, concrete act actually do?
+
+**Answer options.**
+- [✓] It publicly asked forgiveness for historical sins by Church members, modeling this topic's own honesty
+- [ ] It actually denied that the Church had ever committed any real, historical wrongdoing at all
+- [ ] It actually had no real, public or historical significance whatsoever
+- [ ] It was actually held in complete secrecy, with no real, public participation
+
+**Explanation shown to the user.** This real, historical event is a concrete, institutional example of exactly the honesty this topic has modeled throughout -- publicly, formally naming real historical wrongdoing rather than denying or minimizing it.
+
+**Hint.** Consider what a public liturgy specifically dedicated to asking pardon would actually accomplish.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 104. `answering-objections-l11-004`  ·  Level 11  ·  True / false
+
+**Question.** True or False: The Church's own real, official teaching holds that she is at once holy and always in need of purification, following a constant path of real penance and renewal.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, official teaching is exactly why events like the Day of Pardon are not actually embarrassing exceptions, but a real, consistent expression of the Church's own self-understanding as always in need of purification.
+
+**Hint.** Recall this app's own earlier real citation on the Church clasping sinners to her bosom, always in need of purification.
+
+**Citations.**
+**ccc** — CCC 827
+  > The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 105. `answering-objections-l11-005`  ·  Level 11  ·  Multiple choice
+
+**Question.** Why does acknowledging the Church's own real, official teaching on being 'always in need of purification' actually strengthen, rather than weaken, an honest response to historical scandals?
+
+**Answer options.**
+- [✓] Because it shows this response flows from the Church's own consistent teaching, not an embarrassed concession under outside pressure
+- [ ] Because this real teaching actually has no bearing whatsoever on how historical scandals should be addressed
+- [ ] Because acknowledging this real teaching actually admits the Church's own claims are entirely false
+- [ ] Because this real teaching actually contradicts everything the previous level already established
+
+**Explanation shown to the user.** This is a real, important point -- the Church's own honesty about historical sin isn't a reluctant concession under real, outside pressure, but flows from her own consistent, official self-understanding as holy and always in need of purification.
+
+**Hint.** Consider whether the Church's own honesty here looks more like a forced concession or a consistent, internal teaching.
+
+**Citations.**
+**ccc** — CCC 827
+  > The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 106. `answering-objections-l11-006`  ·  Level 11  ·  True / false
+
+**Question.** True or False: This level's own real method -- naming genuine historical debate honestly, then pointing to the Church's own real, official teaching and real, concrete acts of acknowledgment -- is the same real pattern the previous level already established.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this shared real method matters -- this level extends the exact same real, honest pattern the previous level already established for the Crusades, Galileo, slavery, and the abuse crisis.
+
+**Hint.** Recall the previous level's own real method for engaging documented historical charges honestly.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 107. `answering-objections-l11-007`  ·  Level 11  ·  Matching pairs
+
+**Question.** Match each fact about a further real historical scandal to what it actually means.
+
+**Pairs.**
+- The Pius XII/Holocaust-silence objection → A genuinely debated real historical question, not a simple, one-sided verdict
+- The 2000 Day of Pardon liturgy → A real, concrete, public act of asking forgiveness for historical sin
+- "Always in need of purification" → The Church's own real, official teaching, not an ad hoc, embarrassed concession
+- Why this level's own method matters → The same real, honest pattern the previous level already established
+
+**Explanation shown to the user.** These four facts together extend the previous level's own real method to a further, genuinely debated historical charge, showing the same real, consistent honesty this topic has practiced throughout.
+
+**Hint.** Two rows name the real, specific objection and the Church's own real, concrete response; two explain the real, underlying teaching and method.
+
+**Citations.**
+**ccc** — CCC 827
+  > The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 108. `answering-objections-l11-008`  ·  Level 11  ·  True / false
+
+**Question.** True or False: Having now extended this topic's own real method to a further historical scandal, this topic's next level turns to advanced dialogue principles.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having practiced this real, honest method on a further, genuinely debated historical charge, this topic's next level turns to a genuinely different, real set of advanced principles for hard dialogue itself.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 109. `answering-objections-l11-009`  ·  Level 11  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real body of documented historical charges?
+
+**Answer options.**
+- [✓] Extending the same honest method to a debated question, grounded in official teaching and concrete acts of acknowledgment
+- [ ] Assuming every real, further historical charge is automatically completely false
+- [ ] Abandoning the previous level's own real, honest method entirely
+- [ ] Assuming genuinely debated historical questions should actually never be honestly acknowledged
+
+**Explanation shown to the user.** This level's own real habit -- extending the same honest method, grounded in official teaching and concrete acts -- is exactly the same real discipline this topic will keep practicing through its own later levels.
+
+**Hint.** Consider what this level actually did with a further, genuinely debated historical charge.
+
+**Citations.**
+**ccc** — CCC 827
+  > The Church, however, clasping sinners to her bosom, at once holy and always in need of purification, follows constantly the path of penance and renewal.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 110. `answering-objections-l11-010`  ·  Level 11  ·  Multiple choice
+
+**Question.** Given this level's picture of a further real historical scandal, answered, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Advanced dialogue principles
+- [ ] A complete repeat of this same level's material about historical scandals
+- [ ] A jump ahead to the capstone, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real, historical honesty
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- moving from documented historical charges to advanced, real principles for the dialogue itself.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**magisterial_document** — Day of Pardon liturgy, Pope St. John Paul II (2000)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 111. `answering-objections-l12-001`  ·  Level 12  ·  Multiple choice
+
+**Question.** When engaging a sophisticated philosophical objection to theism, such as the logical problem of evil, the most effective response typically:
+
+**Answer options.**
+- [✓] Directly addresses the argument's specific premises with careful reasoning, rather than changing the subject or relying on emotional appeals
+- [ ] Simply repeats one's own position louder
+- [ ] Avoids the argument entirely and appeals only to authority
+- [ ] Dismisses the objection as unworthy of serious engagement
+
+**Explanation shown to the user.** Fides et Ratio commends rigorous philosophical engagement as part of the Church's own intellectual tradition -- serious objections deserve a serious, reasoned answer, not evasion.
+
+**Hint.** At an advanced level, the objection deserves the same careful reasoning it was made with.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 112. `answering-objections-l12-002`  ·  Level 12  ·  True / false
+
+**Question.** True or False: Catholic theology holds that a well-formed conscience can, in principle, discover basic moral truths -- like the wrongness of murder -- even without explicit reference to divine revelation.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** The natural law, according to Catholic teaching, is written on every human heart and knowable by reason -- revelation confirms and elevates it, but doesn't create it from nothing.
+
+**Hint.** This is about the natural law, which reason alone can access to some real degree.
+
+**Citations.**
+**ccc** — CCC 1954-1955
+  > The natural law is written and engraved in the soul of each and every man, because it is human reason ordaining him to do good and forbidding him to sin.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 113. `answering-objections-l12-003`  ·  Level 12  ·  Fill in the blank
+
+**Question.** In dialogue with a skeptic who demands 'scientific proof' for God's existence, it helps to note that God's existence is properly a question for ____, which uses different methods and evidence than a laboratory experiment.
+
+**Correct answer.** philosophy
+
+**Explanation shown to the user.** Demanding a laboratory-style proof for a philosophical or metaphysical question applies the wrong tool to the wrong kind of question -- philosophy has its own rigorous methods, distinct from the empirical sciences.
+
+**Hint.** This discipline includes metaphysics and natural theology, distinct from the empirical sciences.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 114. `answering-objections-l12-004`  ·  Level 12  ·  Multiple choice
+
+**Question.** St. Thomas Aquinas' method in the Summa Theologiae, still used as a model in advanced apologetics dialogue, involves:
+
+**Answer options.**
+- [✓] Stating the strongest form of an objection first, before offering a reasoned response to it
+- [ ] Ignoring objections entirely and only presenting conclusions
+- [ ] Only ever quoting Scripture, never using philosophical argument
+- [ ] Refusing to consider any position other than his own
+
+**Explanation shown to the user.** Aquinas' famous structure -- objections, a counter-authority, his own resolution, and replies to each objection -- models taking opposing views seriously rather than caricaturing them before responding.
+
+**Hint.** Aquinas' articles always present the other side's best case before answering it.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+  > Faith and reason are like two wings on which the human spirit rises to the contemplation of truth
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 115. `answering-objections-l12-005`  ·  Level 12  ·  True / false
+
+**Question.** True or False: Advanced apologetics dialogue should aim to 'win' every single exchange, treating any concession or moment of genuine listening as a defeat.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** Even at the most advanced level, 1 Peter 3:15's call for 'gentleness and reverence' still applies -- the goal remains genuine dialogue and witness, not a combative scorecard of wins and losses.
+
+**Hint.** The same charter verse from Level 1 still governs the tone here, even in advanced dialogue.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 116. `answering-objections-l12-006`  ·  Level 12  ·  Matching pairs
+
+**Question.** Match each advanced dialogue principle to its source.
+
+**Pairs.**
+- Address the argument's actual premises → Fides et Ratio's call for rigorous philosophical engagement
+- Natural law is knowable by reason → CCC 1954-1955
+- State the objection in its strongest form first → Aquinas' method in the Summa Theologiae
+- Maintain gentleness even in advanced debate → 1 Peter 3:15
+
+**Explanation shown to the user.** These four principles together describe a mature apologetics practice: rigorous, reasoned, aware of what reason alone can reach, and never abandoning charity even under pressure.
+
+**Hint.** Each principle traces back to a distinct source -- an encyclical, a Catechism section, a medieval method, and a Scripture verse.
+
+**Citations.**
+**ccc** — CCC 1954-1955
+  > The natural law is written and engraved in the soul of each and every man, because it is human reason ordaining him to do good and forbidding him to sin.
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 117. `answering-objections-l12-007`  ·  Level 12  ·  Multiple choice
+
+**Question.** Before answering a serious objection, what should you be able to do?
+
+**Answer options.**
+- [✓] State the objection in a form its holder would accept as fair, including its strongest version
+- [ ] Identify the objector's motive for raising it
+- [ ] Locate a magisterial text that condemns it
+- [ ] Establish that the objector is not qualified to raise it
+
+**Explanation shown to the user.** If you cannot state it fairly, you do not yet know what you are answering, and the person will recognise that before you do. Answering a weakened version is worse than saying nothing: it teaches them the real objection has no answer, since you avoided it.
+
+**Hint.** The test is whether the other person would recognise their own position in your description of it.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+**scripture** — 1 Peter 3:15-16
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 118. `answering-objections-l12-008`  ·  Level 12  ·  True / false
+
+**Question.** True or False: Saying 'I don't know' to an objection damages your credibility and should be avoided.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False — it is usually the opposite. Admitting a limit makes everything else you claim more believable, and improvising an answer you cannot support hands the other person a genuine reason to distrust the rest. 'I don't know, but I will find out' also leaves the conversation open, which pretending never does.
+
+**Hint.** Consider what an obviously improvised answer does to the credibility of your earlier ones.
+
+**Citations.**
+**scripture** — 1 Peter 3:15-16
+**ccc** — CCC 2469
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 119. `answering-objections-l12-009`  ·  Level 12  ·  Multiple choice
+
+**Question.** An objection is raised with real anger. What does the anger most often indicate?
+
+**Answer options.**
+- [✓] That the objection is carrying an injury, and the injury has to be heard before any argument can be
+- [ ] That the person is arguing in bad faith and should be disengaged from
+- [ ] That the argument must be answered more forcefully to be heard
+- [ ] That the topic should be avoided entirely
+
+**Explanation shown to the user.** Anger at the Church is very often anger about something that actually happened — to them or to someone they love. An argument delivered over it, however sound, communicates that the injury was heard as a debating position. Nothing is lost by listening first; a great deal is lost by not.
+
+**Hint.** Ask what an angry objection is usually about, underneath the words.
+
+**Citations.**
+**scripture** — Romans 12:15
+**ccc** — CCC 2447
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 120. `answering-objections-l12-010`  ·  Level 12  ·  Matching pairs
+
+**Question.** Match each dialogue habit to the reason it matters.
+
+**Pairs.**
+- Stating the objection at its strongest → Otherwise you answer something they did not say
+- Admitting what you do not know → Improvised answers discredit your sound ones
+- Listening before answering anger → An injury heard as an argument is not heard
+- Leaving the conversation open → A question can be returned to; a quarrel usually cannot
+
+**Explanation shown to the user.** None of these concerns the content of any argument, and all four decide whether the content ever gets a hearing. Most failed apologetic conversations fail here rather than on the merits.
+
+**Hint.** All four are about the conditions of a conversation, not its substance.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+**scripture** — 1 Peter 3:15-16
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 121. `answering-objections-l13-001`  ·  Level 13  ·  Multiple choice
+
+**Question.** The previous level covered advanced dialogue principles -- not aiming to 'win,' saying 'I don't know' without shame, reading anger correctly. A genuinely hard, real case: a family member interrupts a holiday dinner, visibly angry, raising three objections at once -- the Crusades, the abuse crisis, and 'the Church just wants your money.' What is the real, careful first move?
+
+**Answer options.**
+- [✓] Slow down and gently ask what's actually most upsetting, rather than launching into three separate answers at once
+- [ ] Immediately answer all three real objections at full, real, intellectual length, one after another
+- [ ] Ignore the real, emotional tone entirely and treat this as a purely academic, real debate
+- [ ] Refuse to engage with any of the three real objections at all, changing the subject immediately
+
+**Explanation shown to the user.** This applies the previous level's own real principle directly -- real anger most often signals a real, underlying hurt, so the real, careful first move is to gently surface what's actually most upsetting, not to fire off three prepared, real answers at once.
+
+**Hint.** Recall the previous level's own real teaching on what anger most often actually indicates.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 122. `answering-objections-l13-002`  ·  Level 13  ·  True / false
+
+**Question.** True or False: When three real objections are raised at once in a real, emotionally charged moment, the real, careful response should still slow down rather than immediately answering all three in full.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly this level's own real, practical point -- slowing down to find the real, underlying concern serves the conversation far better than a rapid-fire, real, intellectual barrage.
+
+**Hint.** Consider what actually happens to a real, emotionally charged moment when three prepared answers are fired off at once.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 123. `answering-objections-l13-003`  ·  Level 13  ·  Multiple choice
+
+**Question.** After the family member calms down, it turns out the real, deepest concern is actually 'the money' objection -- they feel the Church pressures people financially. Having already covered historical scandals in this topic, what real, careful next step actually fits best?
+
+**Answer options.**
+- [✓] Give a brief, honest answer to the actual financial concern, with gentleness, rather than pivoting back to objections no longer the live concern
+- [ ] Insist on returning to the Crusades objection first, since it was raised first, regardless of what the real, deepest concern turned out to be
+- [ ] Refuse to answer the real, financial concern at all, since it wasn't the first objection raised
+- [ ] Assume the real, financial concern is actually not a genuine objection at all, and dismiss it
+
+**Explanation shown to the user.** This is exactly this level's own real point in practical action -- once real, careful listening has surfaced the actual, live concern, the real response should address that concern directly, with real gentleness, rather than mechanically working through every objection originally listed.
+
+**Hint.** Recall this topic's own earlier level on listening first, and consider what the real, careful listening actually revealed here.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 124. `answering-objections-l13-004`  ·  Level 13  ·  True / false
+
+**Question.** True or False: This level's own real case draws directly on this topic's own much earlier level on listening first, applying it to a genuinely harder, real, multi-objection scenario.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this connection matters -- this level shows the same real, foundational listening habit from early in this topic still doing real work in a genuinely harder, later, real scenario.
+
+**Hint.** Recall this topic's own much earlier level on listening first, before ever answering.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 125. `answering-objections-l13-005`  ·  Level 13  ·  Multiple choice
+
+**Question.** If, after this real, gentler conversation, the family member still leaves the dinner upset, what does the previous level's own real teaching on 'winning' actually suggest?
+
+**Answer options.**
+- [✓] This conversation is not a failure -- the goal was never to 'win' every exchange, but to answer honestly and gently, leaving the outcome to God
+- [ ] This real, hard conversation should actually be counted as a complete, real failure requiring an immediate, forceful follow-up
+- [ ] The previous level's own real teaching actually has no bearing on how to evaluate this real, hard conversation's own outcome
+- [ ] A real conversation that doesn't end in agreement should actually never have been attempted at all
+
+**Explanation shown to the user.** This directly applies the previous level's own real principle -- an honest, gentle real answer that doesn't immediately persuade is not a failure, since the real goal was never to 'win' the exchange, but to answer faithfully.
+
+**Hint.** Recall the previous level's own real teaching on what advanced dialogue should actually aim at.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 126. `answering-objections-l13-006`  ·  Level 13  ·  True / false
+
+**Question.** True or False: A real, hard conversation that ends without full agreement should still be evaluated by whether it was answered honestly and gently, not solely by whether it ended in real, immediate persuasion.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, careful standard matters -- this level's own real case shows that honest, gentle engagement remains the real measure of success, regardless of whether the other person is actually persuaded immediately.
+
+**Hint.** Consider what real, practical standard this level's own case actually used to evaluate a hard conversation's own outcome.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 127. `answering-objections-l13-007`  ·  Level 13  ·  Matching pairs
+
+**Question.** Match each step of this level's own hard, real case to the principle it actually applies.
+
+**Pairs.**
+- Three objections raised in anger → Slow down and find the real, underlying concern first
+- The real, deepest concern turns out to be about money → Address the actual, live concern, not every objection originally listed
+- Answering with gentleness and reverence → This topic's own earlier teaching on listening first, put to hard use
+- The conversation ends without full agreement → Not a failure -- the real goal was never to 'win' every exchange
+
+**Explanation shown to the user.** These four steps together show this topic's own principles from earlier levels working together in a genuinely harder, real, multi-objection scenario.
+
+**Hint.** Each row applies a principle this topic has already taught to one specific moment in this level's own hard case.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 128. `answering-objections-l13-008`  ·  Level 13  ·  True / false
+
+**Question.** True or False: Having now applied advanced dialogue principles to a genuinely hard, real case, this topic's next level turns to precise philosophical vocabulary.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having practiced these real, advanced principles in a hard, real case, this topic's next level turns to the precise, real vocabulary -- theodicy, defense, the Kalam argument -- that sharpens this same kind of engagement further.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 129. `answering-objections-l13-009`  ·  Level 13  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real advanced dialogue principles?
+
+**Answer options.**
+- [✓] Showing these principles working together in one hard, real scenario, rather than treated as separate, abstract rules
+- [ ] Assuming the previous level's own real principles actually have no practical, real application to any hard case
+- [ ] Replacing the previous level's own real principles with an entirely new, unrelated set
+- [ ] Assuming a genuinely hard, real conversation should actually be avoided entirely
+
+**Explanation shown to the user.** This level's own real contribution moves from naming individual principles to showing them working together in one real, hard, integrated scenario -- exactly the kind of real, practical depth this topic will keep adding.
+
+**Hint.** Consider what this level actually did with the previous level's own separate, real principles.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 130. `answering-objections-l13-010`  ·  Level 13  ·  Multiple choice
+
+**Question.** Given this level's picture of applying advanced dialogue principles to a hard, real case, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Precise philosophical vocabulary -- theodicy, defense, the Kalam argument
+- [ ] A complete repeat of this same level's material about the family dinner case
+- [ ] A jump ahead to the capstone, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real dialogue
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- sharpening this same kind of real engagement with precise, real philosophical terms.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 131. `answering-objections-l14-001`  ·  Level 14  ·  Multiple choice
+
+**Question.** Philosophers distinguish the 'logical' problem of evil (evil's mere existence is claimed to be logically incompatible with an all-good, all-powerful God) from the 'evidential' problem of evil (the amount and kind of evil is claimed to make God's existence improbable, even if not strictly impossible). Which does CCC 309-314 primarily engage?
+
+**Answer options.**
+- [✓] The evidential concern, offering a positive account of why a good and all-powerful God permits evil, without claiming to logically disprove that evil and God's existence are compatible in the first place
+- [ ] The logical problem exclusively, treating the evidential problem as entirely irrelevant
+- [ ] Neither problem, since CCC 309-314 does not address evil at all
+- [ ] Only the specific case of moral evil, entirely excluding natural evil like disease or disaster
+
+**Explanation shown to the user.** CCC 309-314 doesn't try to prove a strict logical contradiction is impossible (most contemporary philosophers, including many atheist philosophers, already grant the logical problem has largely been answered) -- it addresses the more pressing evidential question, offering a positive account (free will, the greater good God can draw from evil, the definitive answer awaiting the world to come) for why a good God permits the evil that actually exists.
+
+**Hint.** Most philosophers today, on both sides, already treat the stricter of these two problems as answered -- CCC 309-314 engages the harder, remaining one.
+
+**Citations.**
+**ccc** — CCC 309
+  > There is not a single aspect of the Christian message that is not in part an answer to the question of evil.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 132. `answering-objections-l14-002`  ·  Level 14  ·  Multiple choice
+
+**Question.** Faith/science objections often trade on a precise fault line between 'methodological naturalism' (science studies only natural causes, as a working method) and 'metaphysical naturalism' (nature is all that actually exists, full stop). Why does this distinction matter for a Catholic response?
+
+**Answer options.**
+- [✓] The Church has no objection to methodological naturalism as a scientific method, but rejects metaphysical naturalism as a philosophical claim that goes beyond what science itself can establish
+- [ ] The Church rejects both methodological and metaphysical naturalism as equally opposed to genuine scientific inquiry
+- [ ] The Church fully embraces metaphysical naturalism as compatible with Catholic teaching
+- [ ] The distinction has no relevance to any actual faith/science objection
+
+**Explanation shown to the user.** CCC 159 affirms that properly conducted scientific research (using methodological naturalism -- studying natural causes by natural means) can never truly conflict with faith. What the Church rejects is metaphysical naturalism, the further philosophical claim that nature is the whole of reality -- a claim science's own method cannot establish, since that method is deliberately silent on anything beyond natural causes.
+
+**Hint.** One is a working method scientists use; the other is a further philosophical claim about all of reality.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 133. `answering-objections-l14-003`  ·  Level 14  ·  True / false
+
+**Question.** True or False: The free-will defense (associated with philosopher Alvin Plantinga) and Augustine's privation theodicy (evil as a privation or lack of good, not a positive substance) are two distinct technical answers to the problem of evil, not simply two names for the same argument.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** The free-will defense argues that a world with genuine free creatures, capable of real moral choice, is of greater value than a world without evil but also without real freedom -- a different technical move than Augustine's privation theodicy, which addresses evil's very metaphysical status (arguing evil is not a positive 'thing' God created but a lack or corruption of a good that should be present). Both are real, distinguishable Catholic-compatible answers, not the same argument under two names.
+
+**Hint.** One argument is about the value of freedom; the other is about what kind of 'thing' evil actually is metaphysically.
+
+**Citations.**
+**ccc** — CCC 311
+  > God is in no way, directly or indirectly, the cause of moral evil... God permits it, however, because he respects the freedom of his creatures.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 134. `answering-objections-l14-004`  ·  Level 14  ·  Multiple choice
+
+**Question.** Following the same named, dated template as this app's Church History coverage of the Galileo affair, which two specific documents anchor a precise, non-caricatured account of the episode?
+
+**Answer options.**
+- [✓] Pope John Paul II's 1992 address acknowledging errors in how the case was handled, and Cardinal Bellarmine's 1615 letter to Foscarini showing the actual theological caution being raised at the time
+- [ ] A single anonymous 17th-century pamphlet with no named author or date
+- [ ] Only Galileo's own private diary, with no magisterial or historical document involved at all
+- [ ] A 20th-century encyclical formally declaring heliocentrism a heresy
+
+**Explanation shown to the user.** Precise treatment of the Galileo affair, avoiding both an apologetic whitewash and an anti-Catholic caricature, rests on named, dated primary sources: Bellarmine's 1615 letter to Foscarini shows the real theological caution actually being raised at the time (distinguishing a hypothesis from a demonstrated fact), while John Paul II's 1992 address formally acknowledged errors in how the theological advisors and judges of the era handled the case.
+
+**Hint.** One document is from the time of the actual events; the other is a later papal acknowledgment of what went wrong.
+
+**Citations.**
+**magisterial_document** — John Paul II, Address to the Pontifical Academy of Sciences (1992)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 135. `answering-objections-l14-005`  ·  Level 14  ·  Multiple choice
+
+**Question.** The Kalam cosmological argument ('whatever begins to exist has a cause; the universe began to exist; therefore the universe has a cause') is distinct from the argument from contingency covered elsewhere in this app. What is the key structural difference?
+
+**Answer options.**
+- [✓] The Kalam argument turns specifically on the universe having a temporal beginning, while the argument from contingency applies even to a universe that had no beginning at all, since it concerns why anything contingent exists rather than nothing
+- [ ] The two arguments are simply identical in every respect
+- [ ] The Kalam argument concerns the existence of evil, not the existence of the universe
+- [ ] The argument from contingency requires the universe to have had a temporal beginning, exactly like the Kalam argument
+
+**Explanation shown to the user.** The Kalam argument's force depends on establishing the universe had an actual beginning in time. The argument from contingency (rooted in Aquinas's reasoning) doesn't need this premise at all -- it asks why any contingent thing exists rather than nothing, a question that would remain live even if the universe had always existed with no beginning, since an eternal series of contingent things would still need an explanation for its existence outside itself.
+
+**Hint.** One argument needs a temporal beginning to work; the other doesn't depend on that premise at all.
+
+**Citations.**
+**ccc** — CCC 33
+  > The soul, the 'seed of eternity we bear in ourselves, irreducible to the merely material', can have its origin only in God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 136. `answering-objections-l14-006`  ·  Level 14  ·  Matching pairs
+
+**Question.** Match each term or named source from this level to its precise meaning or function.
+
+**Pairs.**
+- Logical vs. evidential problem of evil → Two distinct philosophical categories; CCC 309-314 primarily engages the evidential concern
+- Methodological vs. metaphysical naturalism → A scientific working method the Church accepts, versus a further philosophical claim it rejects
+- The free-will defense and Augustine's privation theodicy → Two distinct technical answers to the problem of evil, not the same argument twice
+- Bellarmine's 1615 letter and JPII's 1992 address → The named, dated primary sources anchoring a precise account of the Galileo affair
+
+**Explanation shown to the user.** Each of these replaces a lay paraphrase already used at levels 1-5 with the actual named argument or precise, dated source a well-formed answer requires -- no new doctrinal ground, only precision.
+
+**Hint.** Each right answer names a real distinction or a real, findable source, not a vague restatement of the objection.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 137. `answering-objections-l14-007`  ·  Level 14  ·  Multiple choice
+
+**Question.** Philosophers distinguish a theodicy from a defence. What is the difference, and why does it matter?
+
+**Answer options.**
+- [✓] A theodicy proposes God's actual reasons for permitting evil; a defence shows only that permitting it is not contradictory — the second claims far less and is far harder to refute
+- [ ] They are two names for the same argument
+- [ ] A defence claims more than a theodicy
+- [ ] A theodicy is philosophical and a defence is scriptural
+
+**Explanation shown to the user.** Claiming less is a strength here. To refute a defence one must show the position is actually incoherent; to refute a theodicy one need only show the proposed reason is inadequate. Reaching for a theodicy where a defence suffices takes on a burden the argument never required.
+
+**Hint.** Ask which one has to be right about God's reasons, and which only has to be possible.
+
+**Citations.**
+**ccc** — CCC 309
+**ccc** — CCC 324
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 138. `answering-objections-l14-008`  ·  Level 14  ·  Multiple choice
+
+**Question.** The problem of divine hiddenness argues that a loving God would make his existence unmistakable to every sincere seeker. What does the Catholic tradition hold about the manner of revelation?
+
+**Answer options.**
+- [✓] God gives sufficient light for those who seek and enough obscurity to leave the response free; coercive evidence would compel rather than invite
+- [ ] God has made his existence unmistakable, so no one is sincerely uncertain
+- [ ] God deliberately conceals himself from most people
+- [ ] The question cannot be addressed
+
+**Explanation shown to the user.** The objection assumes the goal is maximal certainty. If what God seeks is love freely given, evidence that made refusal impossible would defeat the purpose — the tradition holds there is enough light for the willing and enough shadow that assent remains a free act.
+
+**Hint.** Ask what kind of response overwhelming evidence would make possible, and whether that is what is being sought.
+
+**Citations.**
+**ccc** — CCC 35
+**ccc** — CCC 154
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 139. `answering-objections-l14-009`  ·  Level 14  ·  True / false
+
+**Question.** True or False: An argument that proves too much is defective even if its conclusion happens to be true.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is worth applying to one's own arguments most of all. 'People do not die for what they know is false' would establish the truth of any belief held by a martyr, which is plainly wrong. The resurrection argument must be stated more narrowly — those particular people were positioned to know whether the specific claim was true.
+
+**Hint.** Test an argument by asking what else it would prove if it worked.
+
+**Citations.**
+**magisterial_document** — Fides et Ratio, Pope St. John Paul II (1998)
+**ccc** — CCC 159
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 140. `answering-objections-l14-010`  ·  Level 14  ·  Matching pairs
+
+**Question.** Match each precise term to what it denotes.
+
+**Pairs.**
+- Theodicy → An account of God's actual reasons for permitting evil
+- Defence → A demonstration that permitting evil is not contradictory
+- Methodological naturalism → Science studies natural causes as a working method
+- Metaphysical naturalism → The claim that nothing beyond nature exists
+
+**Explanation shown to the user.** Both pairs turn on the same skill: noticing when a modest claim is being swapped for an ambitious one. Science's working method does not entail that nothing else exists, and a defence does not entail knowing God's reasons.
+
+**Hint.** In each pair, one term claims much more than the other.
+
+**Citations.**
+**ccc** — CCC 159
+**ccc** — CCC 309
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 141. `answering-objections-l15-001`  ·  Level 15  ·  Multiple choice
+
+**Question.** The previous level covered precise philosophical vocabulary -- theodicy versus defense, the Kalam argument, divine hiddenness. A skeptic asks: 'Why does this precise, academic vocabulary actually matter to an ordinary, grieving person, who couldn't care less about the difference between a theodicy and a defense?' What is the real, careful answer?
+
+**Answer options.**
+- [✓] Offering a full theodicy when only a defense fits can claim more certainty than is honest, and genuinely wound rather than comfort
+- [ ] Precise, real vocabulary actually has no bearing whatsoever on how a grieving person should actually be addressed
+- [ ] A grieving person should actually always receive the most technical, real, academic vocabulary available, regardless of their own real state
+- [ ] This objection is actually correct, and precise, real vocabulary should actually be avoided in every real, pastoral setting
+
+**Explanation shown to the user.** This is a real, important pastoral point -- the precise, real distinction between a theodicy and a defense isn't merely academic; using the wrong one with a grieving real person can claim more certainty than is honest and genuinely cause real harm, rather than comfort.
+
+**Hint.** Recall the previous level's own real distinction between a theodicy and a defense, and consider what happens when the wrong one is offered to a grieving person.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 142. `answering-objections-l15-002`  ·  Level 15  ·  True / false
+
+**Question.** True or False: Offering a grieving person a full, real theodicy when only a modest, real defense is actually warranted can claim more real certainty than is honest.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, careful distinction is exactly this level's own real point -- precise, real vocabulary keeps a Catholic from claiming more certainty than is honestly available, which matters enormously in a real, pastoral moment.
+
+**Hint.** Consider what actually happens when more real certainty is claimed than the evidence or argument actually supports.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 143. `answering-objections-l15-003`  ·  Level 15  ·  Multiple choice
+
+**Question.** The Church's own real teaching holds that human language must be continually purified of anything limited or imperfect, since 'our human words always fall short of the mystery of God.' How does this real, official teaching actually support this level's own real point about precision?
+
+**Answer options.**
+- [✓] It shows precision flows from the Church's own official humility about the limits of any human word applied to God
+- [ ] It shows that real, precise language actually has no bearing whatsoever on how God should be spoken about
+- [ ] It shows that the Church actually prefers imprecise, real, casual language about God in every real setting
+- [ ] It shows that this real, official teaching actually contradicts this level's own real point entirely
+
+**Explanation shown to the user.** This is a real, direct connection -- the Church's own real, official teaching on purifying language about God grounds this level's own pastoral point: precise, real language matters because every human word, however careful, still falls short.
+
+**Hint.** Recall this level's own real citation on continually purifying human language about God.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 144. `answering-objections-l15-004`  ·  Level 15  ·  True / false
+
+**Question.** True or False: This level's own real point connects directly to this app's own earlier real teaching that human words always fall short of the mystery of God.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this connection matters -- this level's own pastoral point about precision is grounded in this app's own already-established real teaching on the real limits of human language about God.
+
+**Hint.** Recall this level's own real citation on purifying human language about God.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 145. `answering-objections-l15-005`  ·  Level 15  ·  Multiple choice
+
+**Question.** Does this level's own real point mean precise, real, academic vocabulary should actually be used directly with a grieving person, word for word?
+
+**Answer options.**
+- [✓] No -- the distinction serves the Catholic's own internal clarity, calibrating the real response, even without using the technical terms aloud
+- [ ] Yes -- a grieving person should actually always hear the exact, technical, real terms 'theodicy' and 'defense' used directly
+- [ ] No -- because precise, real vocabulary actually has no practical use in any real, pastoral setting at all
+- [ ] Yes -- but only because using the correct, real, technical term always actually comforts a grieving person immediately
+
+**Explanation shown to the user.** This is a real, careful, important clarification -- the precise, real vocabulary serves the Catholic's own internal clarity about what is honestly being claimed, letting the actual, spoken pastoral response be calibrated honestly, without necessarily using the technical terms aloud.
+
+**Hint.** Consider whether this level's own real point is about internal clarity or about the exact, real words spoken aloud to a grieving person.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 146. `answering-objections-l15-006`  ·  Level 15  ·  True / false
+
+**Question.** True or False: Precise, real vocabulary serves a Catholic's own real, internal clarity about what is honestly being claimed, even when the technical terms are never actually spoken aloud to a grieving person.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, careful distinction closes this level's own real point honestly -- precision serves internal, honest clarity first, which then shapes a genuinely calibrated, real, pastoral response.
+
+**Hint.** Consider what real, practical purpose precise vocabulary actually serves, even when never spoken aloud.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 147. `answering-objections-l15-007`  ·  Level 15  ·  Matching pairs
+
+**Question.** Match each fact about why precision matters pastorally to what it actually means.
+
+**Pairs.**
+- Offering a full theodicy when only a defense fits → Claims more real certainty than is honest, and can genuinely wound
+- "Our human words always fall short" → The Church's own real, official ground for continual precision in language about God
+- Precision without using technical terms aloud → Serves the Catholic's own internal clarity, calibrating the real, spoken response
+- Why this level's own point matters → Precision is pastoral honesty, not merely an academic exercise
+
+**Explanation shown to the user.** These four facts together show why this level's own real point about precision is a genuinely pastoral concern, not merely an academic one.
+
+**Hint.** Each row builds toward the same real, careful conclusion this level actually reaches.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 148. `answering-objections-l15-008`  ·  Level 15  ·  True / false
+
+**Question.** True or False: Having now shown why precision matters pastorally, this topic's next level turns to pastoral, sensitive real scenarios.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having grounded precise, real vocabulary in genuine pastoral honesty, this topic's next level turns directly to real, sensitive scenarios where this exact real habit will be put to practical use.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 149. `answering-objections-l15-009`  ·  Level 15  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real, precise philosophical vocabulary?
+
+**Answer options.**
+- [✓] Showing precise vocabulary serves pastoral honesty, not merely academic correctness, since false certainty can genuinely wound
+- [ ] Assuming real, precise vocabulary actually has no bearing on any real, pastoral setting whatsoever
+- [ ] Assuming a grieving person should actually always hear the exact, technical, real terms spoken aloud
+- [ ] Abandoning the previous level's own real, precise vocabulary entirely
+
+**Explanation shown to the user.** This level's own real habit -- grounding precision in pastoral honesty rather than mere academic correctness -- is exactly the same real discipline this topic will keep practicing through its own later, sensitive levels.
+
+**Hint.** Consider what this level actually did with the previous level's own precise, real vocabulary.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 150. `answering-objections-l15-010`  ·  Level 15  ·  Multiple choice
+
+**Question.** Given this level's picture of why precision matters pastorally, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Pastoral, sensitive real scenarios
+- [ ] A complete repeat of this same level's material about precise vocabulary
+- [ ] A jump ahead to the capstone, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real pastoral care
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- putting this level's own real, pastoral honesty to direct, practical use in specific, sensitive, real scenarios.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 151. `answering-objections-l16-001`  ·  Level 16  ·  Multiple choice
+
+**Question.** An objector points to animal suffering (e.g., predation, natural disasters affecting wildlife) that occurs entirely apart from any human moral choice, arguing this shows the free-will defense alone cannot fully answer the problem of evil. Is this a fair challenge to the free-will defense specifically?
+
+**Answer options.**
+- [✓] Yes -- the free-will defense specifically addresses moral evil arising from human choices, so cases of suffering with no human moral agent involved require additional theological resources (e.g., a fallen natural order, the mystery of a world not yet in its final state) rather than the free-will defense alone
+- [ ] No -- the free-will defense fully explains all forms of suffering including natural evil unrelated to any human choice
+- [ ] This challenge has no bearing on any theodicy whatsoever
+- [ ] The free-will defense denies that animals can suffer at all
+
+**Explanation shown to the user.** This is a fair and important limitation to name honestly: the free-will defense is built to explain moral evil traceable to free human choices, and doesn't by itself explain suffering with no human moral agent involved at all. A fuller Catholic response draws on additional resources -- teaching on a fallen created order, and the world's not-yet-completed state awaiting its fullness in Christ -- rather than stretching the free-will defense to cover territory it isn't built for.
+
+**Hint.** A precise answer names exactly what the free-will defense is built to explain, and honestly identifies what it isn't.
+
+**Citations.**
+**ccc** — CCC 400
+  > Harmony with creation is broken: visible creation has become alien and hostile to man.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 152. `answering-objections-l16-002`  ·  Level 16  ·  Multiple choice
+
+**Question.** Someone shares, 'I grew up being taught that any sexual sin made me worthless and unlovable, and that teaching devastated me.' Drawing on theodicy and grace vocabulary rather than a generic platitude, what is a genuinely responsive answer?
+
+**Answer options.**
+- [✓] Acknowledging that this experience reflects a real distortion -- Catholic teaching holds that sin never destroys a person's fundamental dignity or God's love, and that grace, not shame, is the actual context the Church's teaching on sexuality is meant to be received within
+- [ ] Insisting the person's feelings are entirely their own fault with no room to name any real pastoral failure
+- [ ] Denying that Church teaching on sexuality has ever been misrepresented or taught poorly by anyone
+- [ ] Responding only with 'everything happens for a reason' without engaging the actual claim being made
+
+**Explanation shown to the user.** A genuinely responsive answer takes the actual claim seriously rather than deflecting with a platitude: it names that treating sin as erasing a person's worth is a real distortion of Catholic teaching, which holds that human dignity is never lost through sin and that grace -- not shame -- is meant to be the actual lived context for teaching on sexuality, engaging the specific pastoral wound named rather than a generic reassurance.
+
+**Hint.** The strongest answer names the specific distortion in what was taught, not just a general comforting sentiment.
+
+**Citations.**
+**ccc** — CCC 1700
+  > The dignity of the human person is rooted in his creation in the image and likeness of God
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 153. `answering-objections-l16-003`  ·  Level 16  ·  Multiple choice
+
+**Question.** A claim states: 'Neuroscience has shown free will is an illusion, since every choice can be traced to prior brain states.' Applying the methodological/metaphysical naturalism distinction, what is the accurate response?
+
+**Answer options.**
+- [✓] Neuroscience's finding that choices correlate with and depend on brain activity (a methodologically naturalistic finding) doesn't by itself establish the further metaphysical claim that nothing beyond physical causation is real or that genuine freedom is impossible -- that further claim goes beyond what the neuroscience itself demonstrates
+- [ ] The Church denies that brain activity has any connection to human choices at all
+- [ ] This claim has been fully proven with no remaining philosophical question at all
+- [ ] Metaphysical naturalism has been formally adopted as Catholic teaching in light of this neuroscience
+
+**Explanation shown to the user.** This is level 6's naturalism distinction applied to a new case: the actual neuroscience (choices correlating with brain states) is a methodologically naturalistic finding, real and worth taking seriously -- but concluding from it that free will is therefore an 'illusion' smuggles in the further metaphysical claim that physical causation is the whole of reality, a philosophical leap the neuroscience's own methods can't establish on their own.
+
+**Hint.** Look back to level 6's distinction -- ask which of the two kinds of naturalism this claim is actually smuggling in.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 154. `answering-objections-l16-004`  ·  Level 16  ·  Multiple choice
+
+**Question.** A meme-level objection dismisses belief in God as believing in an 'invisible sky daddy.' What actual claim does this phrase distort, and what would an accurate correction look like?
+
+**Answer options.**
+- [✓] It distorts God's nature into an anthropomorphic being located in a physical place (the sky), when classical theism holds God is not a physical being located anywhere in space at all, but the transcendent, non-physical source of all being
+- [ ] The phrase is an entirely accurate summary of what classical theism actually teaches about God
+- [ ] The phrase correctly identifies that Catholics literally believe God has a physical body residing above the clouds
+- [ ] This objection cannot be meaningfully addressed at all
+
+**Explanation shown to the user.** 'Sky daddy' pictures God as a physical being occupying a location in the sky, essentially a very powerful person up there somewhere -- but classical theism (which this app's Metaphysics and Dogmas topics both cover) holds God is not a physical being located in space at all, but the transcendent, non-physical source and sustaining cause of all being. Correcting the strawman means naming precisely which real claim is being distorted, not just objecting to the tone.
+
+**Hint.** The correction should name exactly what real doctrine the phrase gets wrong, not just object that the phrase sounds dismissive.
+
+**Citations.**
+**ccc** — CCC 42
+  > God transcends all creatures. We must therefore continually purify our language of everything in it that is limited, image-bound or imperfect... Our human words always fall short of the mystery of God.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 155. `answering-objections-l16-005`  ·  Level 16  ·  Multiple choice
+
+**Question.** An unfamiliar claim states that 'the Crusades were a purely unprovoked war of aggression against a peaceful Muslim world, with no prior context at all.' What does the documented historical record actually show that complicates this specific claim?
+
+**Answer options.**
+- [✓] The First Crusade (1095) was launched partly in response to centuries of prior territorial conquest and a direct appeal from the Byzantine Emperor for military help against Turkish advances -- a real, documented prior context the 'purely unprovoked' framing omits, without this context alone justifying every action taken during the Crusades themselves
+- [ ] The documented record shows the Crusades had no historical context whatsoever, confirming the claim exactly as stated
+- [ ] The documented record shows the Crusades never actually took place
+- [ ] The documented record shows the Crusades began centuries before the birth of Islam
+
+**Explanation shown to the user.** The documented record complicates the 'purely unprovoked' framing by showing real prior context -- centuries of territorial conquest and a direct appeal for military aid from Byzantium -- without that context serving as a blanket justification for every specific action taken during the Crusades, some of which (such as the sack of Constantinople in 1204) the Church has itself acknowledged and apologized for. Precise historical engagement means neither a flattened accusation nor an uncritical defense.
+
+**Hint.** The accurate correction adds real documented context without using that context to excuse everything that happened.
+
+**Citations.**
+**ccc** — CCC 2317
+  > Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 156. `answering-objections-l16-006`  ·  Level 16  ·  Matching pairs
+
+**Question.** Match each objection or scenario to its precisely targeted response.
+
+**Pairs.**
+- Animal suffering with no human moral agent involved → Requires resources beyond the free-will defense alone -- a fallen natural order, the world's not-yet-completed state
+- 'Purity culture made me feel worthless' → Names the real distortion: sin never destroys a person's dignity or God's love; grace, not shame, is the true context
+- 'Neuroscience proves free will is an illusion' → Confuses a methodologically naturalistic finding with an unproven metaphysical claim
+- 'Sky daddy' → Distorts God into a physical being in the sky, when classical theism holds God is transcendent and non-physical
+
+**Explanation shown to the user.** None of these four scenarios states its underlying philosophical confusion directly -- this level's whole task is naming the precise confusion beneath a live, unlabeled objection, using the same vocabulary fixed at level 6.
+
+**Hint.** Each right answer names a specific confusion or gap, not a generic reassurance.
+
+**Citations.**
+**ccc** — CCC 159
+  > Though faith is above reason, there can never be any real discrepancy between faith and reason.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 157. `answering-objections-l16-007`  ·  Level 16  ·  Multiple choice
+
+**Question.** A grieving mother whose baby died before baptism asks whether her child is lost. What does the Church actually say?
+
+**Answer options.**
+- [✓] The Church entrusts such children to God's mercy and hopes for their salvation, a hope she teaches explicitly rather than merely permits
+- [ ] The Church teaches that unbaptised infants are certainly damned
+- [ ] The Church still proposes limbo as her answer to this question
+- [ ] The Church has no teaching on this
+
+**Explanation shown to the user.** The Catechism says the Church entrusts these children to God's mercy and allows us to hope there is a way of salvation for them, recalling Christ's tenderness toward children. On limbo: it was never a defined doctrine, it is absent from the Catechism entirely, and the International Theological Commission's 2007 study -- published with Benedict XVI's approval -- declined to endorse it and affirmed grounds for hope instead. It is not the Church's answer and should not be offered as though it were. Note too what the liturgy was already doing: the Holy Innocents, killed by Herod and unbaptised, have been venerated as martyrs and saints since antiquity. In this conversation the accuracy is pastoral -- a mother told the wrong thing here carries it for life.
+
+**Hint.** Ask whether hope here is something the Church merely tolerates or something she actually teaches.
+
+**Citations.**
+**ccc** — CCC 1261
+**scripture** — Mark 10:14
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 158. `answering-objections-l16-008`  ·  Level 16  ·  Multiple choice
+
+**Question.** Someone says: 'A loving God would not send anyone to hell.' Which response is both accurate and least likely to be misheard?
+
+**Answer options.**
+- [✓] Hell is definitive self-exclusion from communion with God, freely chosen and persisted in; God predestines no one to it
+- [ ] Hell is a necessary punishment God imposes on the wicked
+- [ ] Hell is probably empty, so the objection does not arise
+- [ ] The Church no longer teaches that hell exists
+
+**Explanation shown to the user.** The Catechism's own language places the cause in the creature's free refusal rather than in a divine sentence. The objection pictures God assigning people to torment; the doctrine describes a refusal God permits because he will not coerce love. The third option is not the Church's teaching and should not be offered as comfort.
+
+**Hint.** Notice where the Catechism locates the cause — in a decree, or in a refusal.
+
+**Citations.**
+**ccc** — CCC 1033
+**ccc** — CCC 1037
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 159. `answering-objections-l16-009`  ·  Level 16  ·  Multiple choice
+
+**Question.** Someone who was abused by a priest says the Church has no right to speak to them about God. What is the right response?
+
+**Answer options.**
+- [✓] Accept it without argument, say plainly that what was done was evil and should never have happened, and offer nothing further unless it is asked for
+- [ ] Explain that the Church's holiness does not depend on her ministers
+- [ ] Point out that the Church has instituted safeguarding reforms
+- [ ] Encourage them to distinguish the institution from the faith
+
+**Explanation shown to the user.** The last three are true and every one of them, said here, is a defence of the institution offered to someone the institution harmed. This is not an objection to be answered. The only fitting response acknowledges the wrong and does not ask anything of them — including that they keep listening.
+
+**Hint.** Ask who each possible answer is actually serving.
+
+**Citations.**
+**ccc** — CCC 2285
+**ccc** — CCC 2447
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 160. `answering-objections-l16-010`  ·  Level 16  ·  Matching pairs
+
+**Question.** Match each situation to what it actually calls for.
+
+**Pairs.**
+- A curious question asked in good faith → A clear answer, at the length the question invites
+- An objection carrying real injury → Listening, and no argument until it is asked for
+- A claim resting on a factual error → The record, offered without triumph
+- A question you cannot answer → Saying so, and finding out
+
+**Explanation shown to the user.** The whole topic reduces to telling these apart before choosing a response. Most damage in apologetics is done by giving a good answer of the wrong kind — and the second row is where it happens most.
+
+**Hint.** Only two of these four call for an argument at all.
+
+**Citations.**
+**scripture** — 1 Peter 3:15-16
+**ccc** — CCC 2447
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 161. `answering-objections-l16-011`  ·  Level 16  ·  Multiple choice
+
+**Question.** Objection: 'You teach baptism is necessary for salvation, so everyone who never received it is lost.' What does the Church actually hold?
+
+**Answer options.**
+- [✓] Alongside baptism of water she has always recognised baptism of blood and baptism of desire, so the necessity of baptism was never a claim that only the water-baptised can be saved
+- [ ] That only those baptised with water can be saved, without exception
+- [ ] That baptism is not really necessary after all
+- [ ] That the question cannot be answered
+
+**Explanation shown to the user.** Those who die for the faith without having received it are baptised by their death for and with Christ — baptism of blood. Catechumens who die before receiving it are assured salvation by their explicit desire together with repentance and charity — baptism of desire. Neither is a modern softening; both are long-standing, and the objection depends on a version of the doctrine the Church has never taught.
+
+**Hint.** The Church names three ways, not one. Two of them involve no water.
+
+**Citations.**
+**ccc** — CCC 1258
+**ccc** — CCC 1259
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 162. `answering-objections-l16-012`  ·  Level 16  ·  Multiple choice
+
+**Question.** Someone asks about a person who never heard the Gospel at all, so could not have desired baptism explicitly. What does the Catechism say?
+
+**Answer options.**
+- [✓] One who is ignorant of Christ and his Church but seeks the truth and does God's will as they understand it can be saved — an implicit desire for the baptism they would have sought had they known
+- [ ] Such a person is certainly lost, since desire must be explicit
+- [ ] Such a person is automatically saved regardless of how they live
+- [ ] The Church declines to address this case
+
+**Explanation shown to the user.** This is neither the rigorism that damns the unevangelised nor the indifferentism that makes the Gospel optional. Salvation still comes through Christ; what is not required is that the person knew his name. The two conditions in the text — seeking the truth and doing God's will as understood — are doing real work and should not be dropped when the passage is quoted.
+
+**Hint.** The text sets conditions. Notice what they are before deciding how far it reaches.
+
+**Citations.**
+**ccc** — CCC 1260
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 163. `answering-objections-l16-013`  ·  Level 16  ·  Multiple choice
+
+**Question.** The Church keeps the feast of the Holy Innocents on 28 December, honouring the children Herod killed. What does that feast establish about unbaptised children?
+
+**Answer options.**
+- [✓] That the Church has venerated unbaptised children as martyrs and saints since antiquity, long before any theory about their fate was proposed
+- [ ] That only children killed in that particular event can be saved
+- [ ] That the feast is symbolic and makes no claim about the children themselves
+- [ ] That baptism was not required in the apostolic age
+
+**Explanation shown to the user.** This is a liturgical argument, and it carries real weight: how the Church prays expresses what she believes. She was already keeping a feast for unbaptised children held to be in glory centuries before limbo was proposed as a hypothesis. Their case is also the clearest instance of baptism of blood -- they died for Christ without ever receiving the sacrament, though they could not have chosen it.
+
+**Hint.** Ask what the Church was already doing liturgically, before anyone theorised about the question.
+
+**Citations.**
+**scripture** — Matthew 2:16-18
+**ccc** — CCC 1258
+**magisterial_document** — Roman Missal, Feast of the Holy Innocents (28 December)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 164. `answering-objections-l16-014`  ·  Level 16  ·  True / false
+
+**Question.** True or False: Because the Holy Innocents could not consciously choose martyrdom, their veneration as saints tells us nothing about children who die without baptism today.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and the reasoning matters. The Innocents were incapable of an act of will, and the Church venerates them as martyrs regardless -- which shows she does not treat the absence of a personal choice as an obstacle to God's saving action. That is precisely the point at issue for any infant who dies unbaptised, which is why the ITC's 2007 study appealed to this feast among its liturgical grounds for hope.
+
+**Hint.** Ask what the Innocents were capable of choosing, and whether the Church's veneration of them depended on it.
+
+**Citations.**
+**ccc** — CCC 1261
+**ccc** — CCC 1258
+**magisterial_document** — Roman Missal, Feast of the Holy Innocents (28 December)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 165. `answering-objections-l17-001`  ·  Level 17  ·  Multiple choice
+
+**Question.** The previous level covered several real, sensitive pastoral scenarios -- a grieving mother whose baby died before baptism, an abuse survivor, the hell objection. A further genuinely sensitive, real scenario: someone asks whether a loved one who died by suicide is condemned to hell. What is the real, careful, honest response?
+
+**Answer options.**
+- [✓] The Church doesn't presume damnation, entrusting the person to mercy -- mortal sin requires full knowledge and consent, which anguish can diminish
+- [ ] The Church actually teaches with real, complete certainty that anyone who dies by suicide is automatically condemned to hell
+- [ ] This is actually not a real, sensitive question at all, and deserves no real, careful pastoral response
+- [ ] The Church actually has no real teaching whatsoever on mortal sin's own real, required conditions
+
+**Explanation shown to the user.** This is a real, careful, honest, pastoral answer -- the Church never presumes damnation, entrusting the person to God's own real mercy, and her own real teaching on mortal sin's three required conditions (grave matter, full knowledge, deliberate consent) means real, grave psychological anguish can genuinely diminish the culpability actually present.
+
+**Hint.** Recall this app's own earlier real teaching on the three conditions actually required together for mortal sin.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 166. `answering-objections-l17-002`  ·  Level 17  ·  True / false
+
+**Question.** True or False: The Church actually teaches with complete certainty that every single person who dies by suicide is automatically condemned to hell.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and this real, careful distinction matters enormously pastorally -- the Church never presumes any particular person's damnation, entrusting them instead to God's own real mercy.
+
+**Hint.** Recall this level's own real point about the Church never presuming any particular person's own damnation.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 167. `answering-objections-l17-003`  ·  Level 17  ·  Multiple choice
+
+**Question.** Why does mortal sin actually requiring all three conditions together -- grave matter, full knowledge, and deliberate consent -- matter so much pastorally in this real, sensitive scenario?
+
+**Answer options.**
+- [✓] Because grave anguish can genuinely diminish the knowledge or consent present, so objective gravity alone doesn't settle actual culpability
+- [ ] Because these three real conditions actually have no bearing whatsoever on any individual person's own real culpability
+- [ ] Because these three real conditions actually apply only to venial sin, never to any grave matter
+- [ ] Because grave matter alone, regardless of any other real condition, is actually sufficient by itself for mortal sin
+
+**Explanation shown to the user.** This is exactly this level's own real, pastoral point -- since mortal sin actually requires full knowledge and deliberate consent, not merely grave matter alone, real psychological anguish can genuinely diminish an individual person's own actual culpability, even for an objectively grave act.
+
+**Hint.** Consider what real difference it makes that mortal sin requires all three conditions together, not grave matter alone.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 168. `answering-objections-l17-004`  ·  Level 17  ·  True / false
+
+**Question.** True or False: This level's own real answer connects directly to this app's own earlier real teaching that mortal sin requires grave matter, full knowledge, and deliberate consent together, not any one condition alone.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this connection matters -- this level's own real, pastoral point rests directly on this app's own already-established real teaching on mortal sin's own three required conditions.
+
+**Hint.** Recall this level's own real citation on the three conditions actually required together for mortal sin.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 169. `answering-objections-l17-005`  ·  Level 17  ·  Multiple choice
+
+**Question.** How does this level's own real scenario actually relate to the previous level's own scenario of the grieving mother whose baby died before baptism?
+
+**Answer options.**
+- [✓] Both scenarios entrust an uncertain case to God's mercy, rather than presuming damnation or claiming false certainty either way
+- [ ] The two real scenarios actually have no meaningful, real connection to each other at all
+- [ ] Both real scenarios actually require presuming the same, automatic, negative outcome with complete certainty
+- [ ] The previous level's own real scenario actually contradicts this level's own real point entirely
+
+**Explanation shown to the user.** This is a real, important pastoral pattern shared by both scenarios -- neither presumes a negative outcome with false certainty, and both entrust the real, individual, uncertain case to God's own real mercy, exactly the same real, honest humility this topic has practiced throughout.
+
+**Hint.** Recall the previous level's own real scenario about the unbaptized infant, and consider what real, pastoral pattern both scenarios actually share.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 170. `answering-objections-l17-006`  ·  Level 17  ·  True / false
+
+**Question.** True or False: Both this level's own scenario and the previous level's own scenario of the unbaptized infant share the same, real, pastoral pattern of entrusting an uncertain case to God's mercy, rather than presuming a negative outcome.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, shared pattern matters -- both scenarios model the same real, honest, pastoral humility this topic has practiced consistently throughout its own real, sensitive levels.
+
+**Hint.** Consider what real, pastoral pattern this level's own scenario actually shares with the previous level's own scenario.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 171. `answering-objections-l17-007`  ·  Level 17  ·  Matching pairs
+
+**Question.** Match each fact about this further, real, sensitive scenario to what it actually means.
+
+**Pairs.**
+- The Church's own real response to this question → Never presumes damnation, entrusting the person to God's own real mercy
+- Mortal sin's three real, required conditions → Grave matter, full knowledge, and deliberate consent, together, not grave matter alone
+- Real, grave psychological anguish → Can genuinely diminish an individual's own actual culpability
+- Shared pattern with the unbaptized-infant scenario → Entrusting an uncertain, real, individual case to God's own real mercy
+
+**Explanation shown to the user.** These four facts together give this level's own real, careful, honest, pastoral answer to a genuinely sensitive real question, following the same real pattern this topic has practiced throughout.
+
+**Hint.** Each row names one real, careful step in this level's own honest pastoral answer.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 172. `answering-objections-l17-008`  ·  Level 17  ·  True / false
+
+**Question.** True or False: Having now addressed a further, real, sensitive pastoral scenario, this topic's next level turns to the logical problem of evil and salvation outside the Church.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having practiced this real, honest, pastoral care on a further sensitive scenario, this topic's next level turns to a genuinely different, real cluster of questions -- the logical problem of evil and salvation outside the Church.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 173. `answering-objections-l17-009`  ·  Level 17  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real body of sensitive pastoral scenarios?
+
+**Answer options.**
+- [✓] Extending the same honest pattern of entrusting an uncertain case to mercy to a further question, grounded in mortal sin's precise conditions
+- [ ] Assuming every real, further sensitive scenario is automatically settled with complete, negative certainty
+- [ ] Abandoning the previous level's own real, pastoral pattern of entrusting uncertain cases to God's mercy
+- [ ] Assuming real, psychological anguish actually has no bearing whatsoever on an individual's own real culpability
+
+**Explanation shown to the user.** This level's own real habit -- extending the same honest, pastoral pattern to a further sensitive question, grounded in precise doctrine -- is exactly the same real discipline this topic will keep practicing through its own later levels.
+
+**Hint.** Consider what this level actually did with the previous level's own real, pastoral pattern.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 174. `answering-objections-l17-010`  ·  Level 17  ·  Multiple choice
+
+**Question.** Given this level's picture of a further, real, sensitive pastoral scenario, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] The logical problem of evil and salvation outside the Church
+- [ ] A complete repeat of this same level's material about this scenario
+- [ ] A jump ahead to named theologians, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real pastoral care
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- moving from sensitive, individual pastoral scenarios to a genuinely different, real cluster of questions.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 175. `answering-objections-l18-001`  ·  Level 18  ·  Multiple choice
+
+**Question.** The logical problem of evil argues: (1) an all-good, all-powerful God would eliminate all evil; (2) evil exists; therefore (3) no such God exists. Plantinga's free-will defense denies premise (1). Which premise does the EVIDENTIAL problem of evil (arguing the sheer amount and severity of evil makes God's existence improbable, not logically impossible) leave untouched, meaning the free-will defense alone does not fully answer it?
+
+**Answer options.**
+- [✓] The evidential version doesn't claim evil is strictly logically incompatible with God's existence at all -- it grants premise (1) can be denied, and instead argues about probability given the observed SCALE and severity of evil, a separate challenge the free-will defense's logical point doesn't by itself resolve
+- [ ] The evidential problem denies that evil exists at all, unlike the logical problem
+- [ ] The evidential problem and the logical problem are actually identical in every respect
+- [ ] The free-will defense fully answers both versions in exactly the same way with no remaining work to do
+
+**Explanation shown to the user.** This is the precise anatomy this level requires: the free-will defense succeeds against the LOGICAL problem (it shows no strict contradiction between God and evil's existence), but the evidential problem grants that much and asks a different, probabilistic question about the sheer amount of evil observed -- which needs further resources (soul-making, greater goods, eschatological hope) the free-will defense alone doesn't supply.
+
+**Hint.** Ask whether the two versions of the argument are even making the same KIND of claim -- one is about logical possibility, the other about probability.
+
+**Citations.**
+**ccc** — CCC 309-314
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 176. `answering-objections-l18-002`  ·  Level 18  ·  Multiple choice
+
+**Question.** Lumen Gentium 16 teaches that those who, through no fault of their own, do not know the Gospel but sincerely seek God and follow their conscience, can attain salvation. Catholic theologians have proposed a real range of positions (from a stricter to a broader reading) on exactly how this happens and how it relates to the Church's necessity for salvation. What is settled here, and what remains open?
+
+**Answer options.**
+- [✓] LG 16's actual teaching -- that such salvation is possible by God's grace, through ways known to him -- is settled doctrine; the further theological question of exactly how this relates to the Church's own instrumental role in that salvation is a genuinely contested-within-orthodoxy range among faithful theologians, not itself dogmatically settled
+- [ ] Everything about this question, including every theologian's precise explanation of the mechanism, is settled dogma with no room for differing theological accounts
+- [ ] LG 16 itself is merely one theologian's opinion with no magisterial weight
+- [ ] The Church teaches that no one outside the Church can be saved under any circumstances, contradicting LG 16
+
+**Explanation shown to the user.** This is the exact distinction this level requires: the conciliar paragraph itself (LG 16) is settled Magisterial teaching, while the further theological project of explaining precisely how it coheres with the Church's necessity for salvation spans a real range of positions among orthodox theologians -- two different things that must not be blended into one answer.
+
+**Hint.** Separate what the council itself actually says from the further theological explanation of exactly how it works.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+**ccc** — CCC 847
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 177. `answering-objections-l18-003`  ·  Level 18  ·  Matching pairs
+
+**Question.** Published research on why people leave the Catholic Church groups reasons into broad categories. Match each documented category to the response it actually calls for.
+
+**Pairs.**
+- Moral disagreement (e.g., with a specific Church teaching) → A patient, reasoned explanation of the teaching's actual grounds -- not a demand to simply comply
+- Hurt by a person in the Church (scandal, abuse, a bad pastoral experience) → Acknowledgment of real harm and pastoral accompaniment first, not an argument or apologetic at all
+- Intellectual doubt (a specific unanswered question) → A real, honest answer to the specific question, not a generic reassurance
+- Simply drifted away (no dramatic break, gradual disengagement) → An invitation back into practice and community, since there may be no single objection to actually answer
+
+**Explanation shown to the user.** This is the whole point of naming these categories precisely rather than treating every departure the same: offering an apologetic argument to someone who was hurt by a person, or offering pastoral comfort alone to someone with a real unanswered intellectual question, both miss what the person in front of you actually needs.
+
+**Hint.** Each category needs a genuinely different KIND of response -- not every departure is actually an intellectual objection needing an argument.
+
+**Citations.**
+**ccc** — CCC 2472
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 178. `answering-objections-l18-004`  ·  Level 18  ·  Multiple choice
+
+**Question.** A bioethics objection states: 'the Church's opposition to certain reproductive technologies is arbitrary religious rule-following with no real reasoning behind it.' What does this objection actually miss, once connected to the natural-law premises taught elsewhere in this app?
+
+**Answer options.**
+- [✓] The Church's teaching here is grounded in a reasoned account of the human person and the proper meaning of the marital and procreative act, not an arbitrary rule -- whatever one concludes about the argument's soundness, it is a genuine philosophical and theological argument from premises about human nature, answerable on those terms rather than dismissible as bare rule-following
+- [ ] The objection is entirely correct, and there is no reasoning behind the Church's teaching here at all
+- [ ] The Church has no teaching on reproductive technology whatsoever
+- [ ] This is purely a matter of Church discipline with no doctrinal content, changeable at any time
+
+**Explanation shown to the user.** The precise correction this level requires isn't to settle the underlying bioethics debate itself, but to correct the objection's actual claim -- that there's no reasoning at all behind the teaching. There is a real argument here, built on premises about human nature and the person, and it deserves engagement on those terms rather than dismissal as arbitrary.
+
+**Hint.** The objection claims there's NO reasoning behind the teaching at all -- ask whether that specific claim is actually true.
+
+**Citations.**
+**ccc** — CCC 2366
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 179. `answering-objections-l18-005`  ·  Level 18  ·  Multiple choice
+
+**Question.** An objection asks: 'if an AI could pass every behavioral test for consciousness, wouldn't Catholic teaching have to grant it a soul, just like a human?' Against the Catholic anthropological premise that a human soul is the substantial form of a living, biologically human body, why does this objection's inference not follow?
+
+**Answer options.**
+- [✓] Because on this account, ensoulment is tied to being a particular kind of living organism (a human being), not to passing an external behavioral test -- an AI system, however sophisticated its outputs, is not a living organism of the human species, so the premises that ground human ensoulment do not automatically transfer to it
+- [ ] Because the Church has already officially declared that specific AI systems do have souls
+- [ ] Because behavioral tests are actually a reliable and sufficient way to detect the presence of a human soul
+- [ ] Because the question of AI and souls has no connection to any existing Catholic teaching on the soul
+
+**Explanation shown to the user.** This is a live, contemporary objection that still yields to a precise, existing premise: on the classical account (already taught in this app's Metaphysics content), a soul is the substantial form of a specific kind of living body. A behavioral test measures outputs, not whether the entity in question is the right kind of thing to begin with -- so the inference from 'passes the test' to 'therefore has a soul like a human's' doesn't actually follow from these premises.
+
+**Hint.** Ask what the argument actually claims ensoulment depends on -- passing a test, or being a certain kind of living thing.
+
+**Citations.**
+**ccc** — CCC 365
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 180. `answering-objections-l18-006`  ·  Level 18  ·  Multiple choice
+
+**Question.** An objection states: 'the Catholic Church supported slavery for centuries.' What does the actual documented record, without flattening its real complexity in either direction, show?
+
+**Answer options.**
+- [✓] The historical record is genuinely mixed and requires real precision: individual Catholics, including clergy, were involved in slavery and the slave trade across centuries -- a real prudential and moral failure -- while the Magisterium also issued clear doctrinal condemnations, most notably Gregory XVI's 1839 In Supremo Apostolatus condemning the slave trade specifically; both facts are true and neither should be flattened away to defend or to indict the Church wholesale
+- [ ] The Church never had any involvement whatsoever with slavery at any point in her history
+- [ ] The Church's teaching has always uniformly and unambiguously condemned all forms of slavery from the apostolic era onward with total consistency
+- [ ] In Supremo Apostolatus actually endorsed slavery rather than condemning it
+
+**Explanation shown to the user.** This is exactly the kind of objection where overcorrecting in either direction fails: pretending the Church has a spotless record ignores real documented complicity, while treating the whole institution as uniformly pro-slavery ignores real, dated, named magisterial condemnation. Precision, not defensiveness, is the actual apologetic task here.
+
+**Hint.** Resist the pull to flatten this into either 'the Church is spotless' or 'the Church was uniformly complicit' -- the real record has both.
+
+**Citations.**
+**magisterial_document** — Gregory XVI, In Supremo Apostolatus (1839)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 181. `answering-objections-l18-007`  ·  Level 18  ·  True / false
+
+**Question.** True or false: because Lumen Gentium 16 leaves room for salvation outside explicit Church membership, this means the Church's own necessity for salvation (extra ecclesiam nulla salus, rightly understood) has been quietly abandoned as a teaching.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** This is precisely the false inference this level guards against: LG 16's teaching about invincible ignorance and CCC 846-848's careful restatement of the Church's necessity for salvation are both held together, not one replacing the other. The Church's necessity is affirmed even while acknowledging that culpability for not belonging to her visibly can, in specific cases, be absent.
+
+**Hint.** The Church holds both of these together -- ask whether affirming one really requires abandoning the other.
+
+**Citations.**
+**ccc** — CCC 846-848
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 182. `answering-objections-l18-008`  ·  Level 18  ·  Fill in the blank
+
+**Question.** Plantinga's free-will defense answers the logical problem of evil by arguing that a world containing creatures with genuine ______ -- who can therefore also choose wrongly -- may be of greater overall value than a world with no such creatures at all, even though it permits real moral evil.
+
+**Correct answer.** freedom
+
+**Explanation shown to the user.** The defense's whole force rests on this premise: genuine freedom (the capacity to really choose, including choosing wrongly) is itself a real good, valuable enough that a world containing it, moral evil and all, isn't automatically worse than a world of morally neutral automatons incapable of either love or sin.
+
+**Hint.** This is the capacity that makes real love -- and real moral evil -- possible at all.
+
+**Citations.**
+**ccc** — CCC 311
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 183. `answering-objections-l18-009`  ·  Level 18  ·  Multiple choice
+
+**Question.** Why does this level insist on distinguishing 'settled' (LG 16 itself, the reality of the Church's necessity), 'contested-within-orthodoxy' (the precise theological mechanism reconciling the two), and simply answering objections with vocabulary, rather than just giving one flattened talking point per objection?
+
+**Answer options.**
+- [✓] Because collapsing these different categories into one flattened answer would either overclaim settled status for a genuinely open theological question, or understate real Church teaching as if it were merely one opinion among others -- both are real errors this level exists to prevent
+- [ ] Because the distinction has no practical importance and exists only to make the material harder
+- [ ] Because the Church actually has no settled teaching on any of these questions at all
+- [ ] Because every one of these questions is equally settled with no genuine theological openness anywhere
+
+**Explanation shown to the user.** This is the level's own methodological point: precision about WHICH KIND of claim is being made -- settled dogma, live theological debate, or historical-prudential judgment -- is itself part of giving an honest answer, not an academic nicety layered on top of the real content.
+
+**Hint.** Ask what goes wrong if a settled teaching gets treated as merely one opinion, or an open debate gets treated as settled dogma.
+
+**Citations.**
+**ccc** — CCC 88-90
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 184. `answering-objections-l18-010`  ·  Level 18  ·  Multiple choice
+
+**Question.** Someone hears the evidential problem of evil and the salvation-outside-the-Church question addressed in this level and concludes: 'so basically everything in Catholic teaching is up for grabs and nothing is really settled.' What is the error in this conclusion?
+
+**Answer options.**
+- [✓] It mistakes the presence of SOME genuinely open questions (a theological mechanism, a probabilistic weighing of evil's scale) for the absence of ANY settled teaching at all -- this level's whole method depends on most of its content being firmly settled (LG 16's actual words, the reality of moral evil's origin in free will), with only specific, named, narrower questions left open
+- [ ] The conclusion is entirely correct -- nothing in Catholic teaching is actually settled
+- [ ] This level has never addressed any genuinely open theological questions at all
+- [ ] The distinction between settled and open questions is purely arbitrary with no real basis
+
+**Explanation shown to the user.** This is the overcorrection in the OPPOSITE direction from overclaiming settledness -- concluding that any acknowledged openness anywhere means nothing is ever settled. The honest picture, which this whole level has modeled, is a mix: firmly settled teaching, a few named live debates, and pastoral-prudential judgment calls, each correctly labeled rather than collapsed into either extreme.
+
+**Hint.** Ask whether acknowledging a FEW open questions really implies that EVERYTHING is open.
+
+**Citations.**
+**ccc** — CCC 88-90
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 185. `answering-objections-l19-001`  ·  Level 19  ·  Multiple choice
+
+**Question.** The previous level covered the logical problem of evil and salvation outside the Church, insisting on distinguishing 'settled' teaching from 'contested-within-orthodoxy' theological questions. A skeptic presses: 'Isn't holding Lumen Gentium 16's real openness together with the Church's own real necessity for salvation just an actual contradiction?' What is the real, careful answer?
+
+**Answer options.**
+- [✓] No -- settled dogma differs from the contested mechanism of how someone outside is saved through the Church
+- [ ] Yes -- this really is a straightforward, actual contradiction in the Church's own official teaching
+- [ ] No -- because the Church's own necessity for salvation is actually not a real teaching at all
+- [ ] Yes -- but the Church actually accepts real contradictions in her own official teaching without concern
+
+**Explanation shown to the user.** This is exactly this level's own real, careful answer -- the settled dogma (the Church's own real necessity, God's own universal salvific will) and the contested theological mechanism explaining precisely how someone outside visible membership is saved through, not apart from, the Church are two real, distinct things, not a contradiction.
+
+**Hint.** Recall the previous level's own real distinction between 'settled' dogma and 'contested-within-orthodoxy' theological questions.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 186. `answering-objections-l19-002`  ·  Level 19  ·  True / false
+
+**Question.** True or False: Holding the Church's own real necessity for salvation together with Lumen Gentium 16's real openness to sincere non-Catholics is actually a genuine, real contradiction in Catholic teaching.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and this real, careful distinction matters -- both real teachings hold together once the settled dogma is distinguished from the contested, real, theological question of the precise mechanism actually involved.
+
+**Hint.** Recall this level's own real answer distinguishing settled dogma from a contested, real, theological mechanism.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 187. `answering-objections-l19-003`  ·  Level 19  ·  Multiple choice
+
+**Question.** This level's own real distinction -- settled dogma held together with a genuinely contested, real theological mechanism -- connects to which recurring, real pattern already seen elsewhere in this app?
+
+**Answer options.**
+- [✓] The same pattern of a settled conclusion held with legitimate diversity, seen across this app's own topics
+- [ ] This level's own real distinction actually has no connection whatsoever to anything else in this app
+- [ ] This app's own Church Latin topic, which addresses an entirely unrelated real subject
+- [ ] This app's own Saints topic's own level on canonization, which addresses a completely different real question
+
+**Explanation shown to the user.** This is a real, recurring pattern this app has already named several times -- a real, settled conclusion held together with genuine, legitimate diversity, appearing again here as the sixth real instance of this same, recurring structure.
+
+**Hint.** Recall this app's own several earlier topics that each showed a settled, real conclusion held together with legitimate, real diversity.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 188. `answering-objections-l19-004`  ·  Level 19  ·  True / false
+
+**Question.** True or False: This level's own real distinction is actually the sixth appearance, across this app, of the same recurring pattern -- a settled, real conclusion held together with genuine, legitimate diversity.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this recurring, real pattern matters -- this app has already shown this same structure in Apologetics, Dogmas-and-doctrine, Metaphysics, Liturgy-and-mass, and Sacred-scripture, and this level's own real distinction is its sixth appearance.
+
+**Hint.** Recall this app's own several earlier topics that each showed this same recurring, real pattern.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 189. `answering-objections-l19-005`  ·  Level 19  ·  Multiple choice
+
+**Question.** Why does it actually matter, pastorally, that this real distinction is named honestly rather than either flattened into false certainty or dismissed as a real contradiction?
+
+**Answer options.**
+- [✓] Because naming both what is settled and what remains open lets honest engagement without overclaiming certainty or conceding a false contradiction
+- [ ] Because naming this real distinction actually has no bearing whatsoever on any real, pastoral conversation
+- [ ] Because a Catholic should actually always claim complete, real certainty about every single theological question, without exception
+- [ ] Because conceding an actual, real contradiction is actually the most honest, real response available here
+
+**Explanation shown to the user.** This is a real, important pastoral point -- naming both what is settled and what remains genuinely, legitimately open lets a Catholic engage honestly, without either overclaiming certainty or wrongly conceding a contradiction that doesn't actually exist.
+
+**Hint.** Consider what real, practical difference honestly naming this distinction actually makes in a real conversation.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 190. `answering-objections-l19-006`  ·  Level 19  ·  True / false
+
+**Question.** True or False: Naming what is settled and what remains genuinely, legitimately open lets a Catholic engage a real, sincere question honestly, without either overclaiming certainty or wrongly conceding a contradiction.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, pastoral point closes this level honestly -- this real, careful honesty is exactly what has made this topic's own answers credible throughout.
+
+**Hint.** Consider what real, pastoral value this level's own careful, honest distinction actually provides.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 191. `answering-objections-l19-007`  ·  Level 19  ·  Matching pairs
+
+**Question.** Match each fact about why the Church holds both real teachings together to what it actually means.
+
+**Pairs.**
+- The Church's own real necessity, and openness in LG 16 → Not a real contradiction, once settled dogma and contested mechanism are distinguished
+- The recurring, real pattern named here → The sixth appearance of a settled conclusion held with legitimate real diversity
+- Why naming this distinction matters pastorally → Lets honest engagement without overclaiming certainty or conceding a false contradiction
+- What grounds this level's own real answer → Lumen Gentium 16's own real, official teaching
+
+**Explanation shown to the user.** These four facts together show why the Church's own real teachings actually hold together, following the same recurring, real pattern this app has already shown several times.
+
+**Hint.** Each row names one real, careful step in this level's own honest, integrating answer.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 192. `answering-objections-l19-008`  ·  Level 19  ·  True / false
+
+**Question.** True or False: Having now shown why the Church holds both real teachings together honestly, this topic's next level turns to named theologians and real, debated positions.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having named this real distinction honestly, this topic's next level turns to specific, real, named theologians and the genuinely debated positions they actually hold.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 193. `answering-objections-l19-009`  ·  Level 19  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real distinction between settled and contested questions?
+
+**Answer options.**
+- [✓] Naming this same distinction as a recurring pattern already seen across this app, and showing its own pastoral value directly
+- [ ] Assuming the previous level's own real distinction actually has no further, real application anywhere else
+- [ ] Abandoning the previous level's own real distinction between settled and contested questions entirely
+- [ ] Assuming this real distinction actually has no bearing whatsoever on any real, pastoral conversation
+
+**Explanation shown to the user.** This level's own real habit -- naming a recurring pattern and showing its own pastoral value -- is exactly the same real discipline this topic will keep practicing through its own later levels.
+
+**Hint.** Consider what this level actually did with the previous level's own real distinction.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 194. `answering-objections-l19-010`  ·  Level 19  ·  Multiple choice
+
+**Question.** Given this level's picture of why the Church holds both real teachings together, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] Named theologians and real, debated positions
+- [ ] A complete repeat of this same level's material about settled and contested questions
+- [ ] A jump ahead to the capstone, skipping over everything in between
+- [ ] A subject entirely unrelated to real objections or real theology
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- moving from the general distinction to specific, real, named theologians and their own genuinely debated positions.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 16 (1964)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 195. `answering-objections-l20-001`  ·  Level 20  ·  Multiple choice
+
+**Question.** A skeptic asks: 'if salvation is available to sincere non-Catholics through no fault of their own (LG 16), why does the Church claim any one Church is actually necessary at all?' Drawing on Dogmas' ecclesiology (the Church as sacrament and body) together with Apologetics' motives of credibility, what is the fuller answer?
+
+**Answer options.**
+- [✓] The Church's necessity is instrumental and willed by Christ (per Dogmas' ecclesiology -- the Church as the ordinary means Christ established for grace to reach the world), while God's mercy is not thereby limited only to those who visibly belong to her; the motives of credibility (apostolic succession, historical fruitfulness, the Church's own claims about her founding) are then what give reasoned grounds for believing THIS Church in particular carries that unique, willed role, rather than treating all religious paths as interchangeable
+- [ ] The Church's necessity claim is simply inconsistent with LG 16 and should be abandoned
+- [ ] Only explicit, visible Church membership can ever result in salvation, contradicting LG 16 entirely
+- [ ] Apologetics has no bearing on this question at all, since it concerns only ecclesiology
+
+**Explanation shown to the user.** This is the genuine cross-topic synthesis this level requires (prerequisite: Dogmas L6, Apologetics L8-9): the Church's necessity and God's wider mercy are not actually in tension once necessity is understood as instrumental rather than as a hard limit on where grace can reach; apologetics then supplies the reasoned case for why this particular Church, not religious indifferentism, is the object of that claim.
+
+**Hint.** This connects the Church's INSTRUMENTAL necessity (Dogmas) to the REASONED CASE for this particular Church (Apologetics) -- two different pieces of the same answer.
+
+**Citations.**
+**magisterial_document** — Second Vatican Council, Lumen Gentium, n. 14, 16 (1964)
+**ccc** — CCC 846
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 196. `answering-objections-l20-002`  ·  Level 20  ·  Multiple choice
+
+**Question.** John Hick's Irenaean 'soul-making' theodicy -- a real, named position from outside the Catholic tradition, engaged fairly rather than dismissed as heresy -- holds that a world with real struggle and difficulty is necessary for souls to develop moral and spiritual maturity, in contrast to the Augustinian privation theodicy. What is the key structural difference between the two?
+
+**Answer options.**
+- [✓] Augustinian theodicy explains evil as a privation (a lack of due good) in a creation originally good, with moral evil rooted in misused free will; Hick's soul-making theodicy instead treats the world's hardship as a positive, necessary environment FOR growth, making struggle itself instrumentally valuable rather than a privation to be explained away
+- [ ] The two theodicies are actually identical positions with different names
+- [ ] Hick's theodicy denies that evil exists at all, unlike Augustine's
+- [ ] Augustinian theodicy is a Protestant invention with no roots in Catholic tradition
+
+**Explanation shown to the user.** This is engaging a real, named, non-Catholic theological tradition fairly and precisely, per the level's own instruction -- Hick's account is a serious, structurally different answer, not a strawman, even though the Catholic tradition has generally favored the Augustinian privation account (already taught in Heresies and Metaphysics) as more consistent with a good creation and the reality of the Fall.
+
+**Hint.** Ask whether each theodicy treats hardship as something to be explained AWAY, or as something with its own positive purpose.
+
+**Citations.**
+**ccc** — CCC 385
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 197. `answering-objections-l20-003`  ·  Level 20  ·  Multiple choice
+
+**Question.** A bioethics objection concerns human dignity at the edges of life (e.g., a person with profound cognitive disability, or someone in a persistent unresponsive state). Using the hylomorphic body-soul unity taught in Metaphysics, what grounds the claim that such a person retains full human dignity?
+
+**Answer options.**
+- [✓] On hylomorphism, the soul is the substantial form of the whole living human body, present in its entirety wherever the body lives -- dignity attaches to being a living member of the human species with a rational soul as its form, not to the CURRENT EXERCISE of cognitive functions, so diminished or absent function does not mean a diminished or absent soul
+- [ ] Human dignity is entirely a function of currently demonstrable cognitive ability, which hylomorphism confirms
+- [ ] Hylomorphism has no bearing on questions of human dignity at all
+- [ ] Only persons with fully functioning cognitive abilities possess a substantial form at all
+
+**Explanation shown to the user.** This is the precise cross-topic dependency this level requires (prerequisite: Metaphysics L6-7): hylomorphism distinguishes having a rational soul (a matter of what kind of being one is) from currently exercising rational operations (a matter of function, which illness or injury can impair) -- the whole weight of the bioethics argument rests on that distinction actually being sound metaphysics, not merely an assertion.
+
+**Hint.** This is the same distinction between HAVING a capacity by nature and currently EXERCISING it -- already covered in Metaphysics.
+
+**Citations.**
+**ccc** — CCC 2276
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 198. `answering-objections-l20-004`  ·  Level 20  ·  True / false
+
+**Question.** True or false: the Church's teaching on the Church's necessity for salvation and her acknowledgment of colonial-era prudential failures both belong to the same category of settled dogma, with no distinction between what the Magisterium has doctrinally defined and what is a historical-moral judgment about past conduct.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** These are genuinely different categories, exactly as this level's own method requires distinguishing: the Church's doctrinal condemnation of the slave trade (In Supremo Apostolatus) is settled Magisterial teaching, while an assessment of how thoroughly that teaching was actually lived out by colonial-era Catholics on the ground is a historical-judgment-not-doctrinal question -- both real, but not the same kind of claim.
+
+**Hint.** Ask whether 'what the Church teaches is right' and 'how well people actually lived that teaching out historically' are the same kind of question.
+
+**Citations.**
+**magisterial_document** — Gregory XVI, In Supremo Apostolatus (1839)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 199. `answering-objections-l20-005`  ·  Level 20  ·  Multiple choice
+
+**Question.** Hans Urs von Balthasar's 'dare we hope that all may be saved?' is a real, debated theological question among faithful Catholic theologians. How does this differ from the Church's actual, settled teaching on the existence of hell?
+
+**Answer options.**
+- [✓] The existence of hell as a real possibility, and the reality that some may in fact be lost, remains settled Catholic teaching; von Balthasar's question is narrower and different -- whether a Christian may reasonably HOPE (not assert as certain) that, in the end, all in fact freely respond to grace, a hope the Church has never dogmatically forbidden but also never guaranteed
+- [ ] Von Balthasar's position asserts as settled dogma that hell is empty and no one is actually damned
+- [ ] The Church has officially adopted von Balthasar's hope as defined dogma, replacing the traditional teaching on hell
+- [ ] There is no difference at all between hoping all might be saved and asserting that hell does not exist
+
+**Explanation shown to the user.** This is the precise distinction this level requires, and the same category of care already shown regarding limbo and the unbaptized in Answering Objections' earlier levels: hell's real possibility is settled; hoping (not asserting) universal salvation is a genuinely debated theological question the Church has neither dogmatized nor condemned as heresy.
+
+**Hint.** The dispute is about whether one may HOPE for an outcome, not about whether hell is real -- those are two different claims.
+
+**Citations.**
+**ccc** — CCC 1037
+**ccc** — CCC 1058
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 200. `answering-objections-l20-006`  ·  Level 20  ·  Multiple choice
+
+**Question.** Someone describes a real deconstruction pattern: 'I was taught that any romantic thought outside marriage was basically as bad as the act itself, and it left me constantly anxious and unable to see myself as anything but dirty.' Drawing on Dogmas' 'Conscience and the Moral Act' unit (object, intention, circumstances; the distinction between mortal and venial sin), what precise correction addresses this without importing that unit's proportionalism warning incorrectly?
+
+**Answer options.**
+- [✓] This describes a real pastoral distortion, not the Church's actual teaching: not every failure to perfectly master one's thoughts is a mortal sin equal in gravity to a fully deliberate act -- full knowledge and deliberate consent are both required for mortal sin, and ordinary, unwanted, resisted temptation is not itself sin at all; correcting this distortion does not require weakening the objective wrongness of any act, only correctly applying the Church's own careful distinctions about culpability
+- [ ] The correction requires concluding that no thought or intention is ever sinful under any circumstances, which would misapply the proportionalism rejection to something it doesn't address
+- [ ] The correction requires agreeing that the original harsh teaching was entirely correct and needs no adjustment
+- [ ] This has no connection to the object/intention/circumstances framework at all
+
+**Explanation shown to the user.** This is the careful move the curriculum plan specifically warns is needed: correcting a real pastoral overreach (treating every unwanted thought as gravely sinful) using the Church's OWN existing distinctions about full knowledge and deliberate consent -- without smuggling in proportionalism (which was rejected in Dogmas L9) to argue that the underlying moral teaching itself was too strict.
+
+**Hint.** Fix the pastoral overreach using the Church's OWN distinctions about culpability -- don't use this as a backdoor to reopen the proportionalism question Dogmas L9 already settled.
+
+**Citations.**
+**ccc** — CCC 1857-1860
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 201. `answering-objections-l20-007`  ·  Level 20  ·  Fill in the blank
+
+**Question.** Gregory XVI's 1839 In Supremo Apostolatus specifically and directly condemned the ______ trade, giving the Church's colonial-era failures a clear doctrinal counterpoint: individual Catholics' complicity was a real, documented moral failure against an already-existing Magisterial condemnation, not evidence of an approving official teaching.
+
+**Correct answer.** slave
+
+**Explanation shown to the user.** Precision here matters for the historical-judgment-versus-doctrine distinction this level draws: the Magisterium's own teaching (this 1839 condemnation, building on earlier statements) stood against the practice even while many individual Catholics remained complicit -- a real gap between official teaching and lived practice, not a gap in the teaching itself.
+
+**Hint.** This is the trade Gregory XVI's 1839 document specifically condemns.
+
+**Citations.**
+**magisterial_document** — Gregory XVI, In Supremo Apostolatus (1839)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 202. `answering-objections-l20-008`  ·  Level 20  ·  Matching pairs
+
+**Question.** Match each contested or sensitive question to its correct tag.
+
+**Pairs.**
+- "Dare we hope all are saved?" (von Balthasar) → Contested-within-orthodoxy -- a real, debated theological hope, not settled either way
+- The reality that hell is a real possibility → Settled Catholic doctrine
+- How thoroughly colonial-era Catholics actually lived out the Church's own anti-slavery teaching → Historical-judgment-not-doctrinal
+- The Church's doctrinal condemnation of the slave trade itself (In Supremo Apostolatus) → Settled Catholic doctrine
+
+**Explanation shown to the user.** Every genuinely difficult question in this level needs exactly this kind of sorting -- settled dogma, live theological debate, or a judgment about historical conduct -- since collapsing any two of these categories together produces either an overclaim or an understatement of what the Church actually teaches.
+
+**Hint.** Ask, for each item: is this a claim about what happened historically, a settled doctrine, or a live theological debate?
+
+**Citations.**
+**ccc** — CCC 1037
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 203. `answering-objections-l20-009`  ·  Level 20  ·  Multiple choice
+
+**Question.** Why does this level engage John Hick's Irenaean theodicy and von Balthasar's hope for universal salvation fairly, by name, rather than only presenting positions already fully settled by the Magisterium?
+
+**Answer options.**
+- [✓] Because real intellectual honesty in apologetics requires engaging serious, real positions -- Catholic and non-Catholic -- as they actually are, clearly labeled for their actual status (a legitimate internal theological hope, or a fairly-engaged outside tradition), rather than only ever presenting a flattened, uncontested version of Catholic teaching that a real interlocutor would never actually encounter
+- [ ] Because the Church has secretly adopted both of these positions as settled dogma
+- [ ] Because Hick's and von Balthasar's positions are actually indistinguishable from official Catholic teaching
+- [ ] Because presenting contested or outside positions serves no purpose in apologetics
+
+**Explanation shown to the user.** This is the reason Answering Objections exists as its own topic, distinct from a simple catechism recitation: real conversations involve real, serious positions, and answering only strawmen or only fully-settled questions would leave a user unprepared for the actual, harder conversations this topic is named for.
+
+**Hint.** Ask what would happen if this topic only ever presented positions the Church had already fully settled -- would that prepare anyone for a real, hard conversation?
+
+**Citations.**
+**ccc** — CCC 2494
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 204. `answering-objections-l20-010`  ·  Level 20  ·  Multiple choice
+
+**Question.** This level has repeatedly required drawing on Dogmas, Metaphysics, Church History, and Apologetics content taught elsewhere in the app, rather than re-explaining it inline. What does this pattern show about what makes an objection genuinely hard to answer well?
+
+**Answer options.**
+- [✓] The hardest real objections rarely stay inside one neat topical box -- a salvation-exclusivity question needs ecclesiology AND apologetics; a bioethics question needs metaphysics; a historical question needs real historical record -- so answering them well requires actually integrating knowledge across domains, not reciting one memorized talking point
+- [ ] Hard objections are hard purely because they use unfamiliar vocabulary, with no deeper cross-domain content actually required
+- [ ] Every objection in this topic can be fully answered using only Answering Objections' own content, with no need for any other topic
+- [ ] There is no real pattern here; the cross-references are arbitrary
+
+**Explanation shown to the user.** This is this level's own name and point made explicit: contested ground is contested precisely because it sits at the intersection of several domains at once. A one-line talking point memorized in isolation collapses the first time a real interlocutor pushes on the part it didn't actually address.
+
+**Hint.** Ask why a memorized one-line answer to a hard objection tends to fall apart the moment someone pushes back with a follow-up question.
+
+**Citations.**
+**ccc** — CCC 2494
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 205. `answering-objections-l21-001`  ·  Level 21  ·  Multiple choice
+
+**Question.** The previous level named several real, debated theological positions -- Hick's soul-making theodicy, von Balthasar's hope for universal salvation. A further real, debated position: some real theologians hold that unbaptized infants who die may be saved through a real 'baptism of desire' extended by analogy through their parents' own real faith, though this remains a genuinely open, real theological question, not settled dogma. How should this be engaged?
+
+**Answer options.**
+- [✓] Named honestly as a hopeful opinion consistent with God not being bound by his sacraments, distinguished from settled dogma
+- [ ] Presented as actually settled, real, official Church dogma, with no remaining real uncertainty at all
+- [ ] Dismissed outright as an unworthy, real theological opinion that should never actually be discussed
+- [ ] Treated as actually contradicting everything the Church has ever officially, really taught
+
+**Explanation shown to the user.** This follows the exact same real method the previous level already modeled with Hick and von Balthasar -- naming a genuinely debated, real theological opinion honestly and fairly, while clearly distinguishing it from settled dogma.
+
+**Hint.** Recall the previous level's own real method for engaging Hick's and von Balthasar's own real, debated positions fairly.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 206. `answering-objections-l21-002`  ·  Level 21  ·  True / false
+
+**Question.** True or False: A real, hopeful theological opinion about unbaptized infants can be named fairly without actually presenting it as settled, official Church dogma.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this real, careful distinction matters -- a genuinely debated theological opinion can be engaged fairly and honestly, while still clearly marking it as distinct from actually settled dogma.
+
+**Hint.** Consider whether naming a real, hopeful opinion fairly actually requires presenting it as settled dogma.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 207. `answering-objections-l21-003`  ·  Level 21  ·  Multiple choice
+
+**Question.** This level's own real method for engaging a further debated position connects most directly to which of this topic's own earlier, real levels?
+
+**Answer options.**
+- [✓] This topic's earlier level on a sensitive scenario, which also entrusted an uncertain case to God's mercy rather than false certainty
+- [ ] This level's own real method actually has no connection whatsoever to anything earlier in this topic
+- [ ] This app's own Church Latin topic, which addresses an entirely unrelated real subject
+- [ ] This app's own Saints topic's own level on canonization, which addresses a completely different real question
+
+**Explanation shown to the user.** This is a real, direct connection to this topic's own earlier level on suicide and God's mercy -- both levels entrust a genuinely uncertain, real case to God's own real mercy, rather than claiming false, complete certainty in either direction.
+
+**Hint.** Recall this topic's own earlier level entrusting an uncertain, real case to God's own real mercy.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 208. `answering-objections-l21-004`  ·  Level 21  ·  True / false
+
+**Question.** True or False: This level's own real method actually shares the same underlying, real pastoral pattern as this topic's own earlier level about a loved one who died by suicide.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this connection matters -- both levels entrust a genuinely uncertain, real case to God's own real mercy, rather than claiming false, complete certainty in either direction.
+
+**Hint.** Recall this topic's own earlier level entrusting an uncertain, real case to God's own real mercy.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 209. `answering-objections-l21-005`  ·  Level 21  ·  Multiple choice
+
+**Question.** A skeptic presses further: 'Isn't naming a real, hopeful theological opinion just a way of avoiding a real, honest answer?' What is the real, careful response?
+
+**Answer options.**
+- [✓] No -- naming an open question honestly, while marking what is settled, is itself the honest answer; false certainty would be less honest
+- [ ] Yes -- the skeptic is actually correct, and this level's own real method really is a way of avoiding a real, honest answer
+- [ ] No -- because real, theological opinions actually never have any bearing on a real, honest answer at all
+- [ ] Yes -- but this is presented as an acceptable, real approach regardless of the skeptic's own real objection
+
+**Explanation shown to the user.** This is exactly this topic's own recurring real point -- honestly naming genuine, real theological openness, while clearly marking what is settled, is itself the honest answer; manufacturing false certainty would actually be less honest.
+
+**Hint.** Recall this topic's own earlier levels on honestly naming genuine, ongoing debate rather than manufacturing false certainty.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 210. `answering-objections-l21-006`  ·  Level 21  ·  True / false
+
+**Question.** True or False: Manufacturing false, complete certainty about a genuinely open, real theological question would actually be more honest than naming the real, ongoing debate.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** False, and this real, careful point matters -- manufacturing false certainty would actually be less honest than naming genuine, real theological openness clearly and fairly.
+
+**Hint.** Consider which is actually more honest -- naming real, ongoing debate, or manufacturing false, complete certainty.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 211. `answering-objections-l21-007`  ·  Level 21  ·  Matching pairs
+
+**Question.** Match each fact about engaging a further, real, debated theological position to what it actually means.
+
+**Pairs.**
+- Baptism of desire extended by analogy → A real, hopeful theological opinion, not settled, official dogma
+- Connection to this topic's suicide/mercy level → Both entrust an uncertain, real case to God's own real mercy
+- "Isn't this avoiding a real answer?" → No -- naming genuine openness honestly is itself the honest answer
+- Why manufacturing false certainty is worse → It would actually be less honest than naming real, ongoing debate
+
+**Explanation shown to the user.** These four facts together show this level's own real method for engaging a further debated position fairly and honestly, following this topic's own recurring, real pattern.
+
+**Hint.** Each row names one real, careful step in this level's own honest, fair engagement.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 212. `answering-objections-l21-008`  ·  Level 21  ·  True / false
+
+**Question.** True or False: Having now engaged a further, real, debated theological position, this topic's next level turns to its own capstone, practicing real, hard conversations.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. Having practiced this real, honest method one further time, this topic's next level turns to its own capstone, drawing everything together in real, hard, practiced conversations.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 213. `answering-objections-l21-009`  ·  Level 21  ·  Multiple choice
+
+**Question.** What real, general habit has this level added to the previous level's own real, named, debated theological positions?
+
+**Answer options.**
+- [✓] Extending the same fair method while showing why naming genuine openness honestly is itself the honest answer
+- [ ] Assuming every real, further debated position is automatically settled, official dogma
+- [ ] Abandoning the previous level's own real, fair method for engaging debated positions
+- [ ] Assuming genuinely open, real theological questions should actually never be named fairly
+
+**Explanation shown to the user.** This level's own real habit -- extending the same fair method while showing directly why honesty requires naming genuine openness -- is exactly the same real discipline this topic has practiced throughout.
+
+**Hint.** Consider what this level actually did with the previous level's own real, fair method.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 214. `answering-objections-l21-010`  ·  Level 21  ·  Multiple choice
+
+**Question.** Given this level's picture of engaging a further, real, debated theological position, what does the next level in this topic turn to?
+
+**Answer options.**
+- [✓] This topic's own capstone, practicing real, hard conversations
+- [ ] A complete repeat of this same level's material about debated positions
+- [ ] A jump backward to common objections, skipping over everything learned since
+- [ ] A subject entirely unrelated to real objections or real theology
+
+**Explanation shown to the user.** This is exactly what the next level in this topic covers -- drawing everything this topic has built together into its own capstone, real, practiced conversations.
+
+**Hint.** This is exactly what the next level in this topic covers.
+
+**Citations.**
+**ccc** — CCC 1257
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 215. `answering-objections-l22-001`  ·  Level 22  ·  Multiple choice
+
+**Question.** Published research on religious disaffiliation identifies a common aggregate pattern: 'I stopped believing gradually, not because of one dramatic event, but because practicing felt increasingly disconnected from the rest of my life, and no one ever seemed to notice I'd stopped.' Given this pattern (not any one named individual's story), what does the actual response require, that a purely doctrinal argument would miss?
+
+**Answer options.**
+- [✓] Since no single intellectual objection is actually being raised here, the honest first response is not a doctrinal argument at all but a real question and renewed relationship -- asking what disconnected practice from life, and re-extending genuine community and attention, since the described pattern is relational and practical, not primarily a dispute over a specific claim
+- [ ] The correct response is a rigorous philosophical proof of God's existence, since any deconversion is ultimately an intellectual failure
+- [ ] Nothing can be done in this case, since gradual drift can never be addressed
+- [ ] The correct response is to argue that the person never really believed in the first place
+
+**Explanation shown to the user.** This is the whole point of naming this pattern precisely: 'drifted away, unnoticed' calls for attention and relationship, not a rebuttal to an objection that was never actually made. Reaching for an apologetic argument here would answer a question nobody asked, while missing the real, sayable next step -- genuine interest and re-invitation.
+
+**Hint.** Ask whether this pattern actually contains a specific claim to rebut, or something else entirely that needs a different kind of response.
+
+**Citations.**
+**ccc** — CCC 2226
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 216. `answering-objections-l22-002`  ·  Level 22  ·  Multiple choice
+
+**Question.** A grieving friend, having just lost a parent, asks 'why would God let this happen?' -- not as an abstract philosophy question but in real pain. Weighing the classical theodicy content this app teaches and the pastoral demands of the moment, what is the single best opening sentence?
+
+**Answer options.**
+- [✓] "I don't have a tidy answer that would fix this right now, and I'm not going to pretend I do -- I'm just really sorry, and I'm here with you."
+- [ ] "Well, evil exists because of the misuse of free will, and this is a great example of the evidential problem of evil in action."
+- [ ] "Everything happens for a reason, so try not to be too sad about it."
+- [ ] "This is a great opportunity for you to grow spiritually from the suffering."
+
+**Explanation shown to the user.** This is a genuinely open pastoral-prudential judgment, not a doctrinal ranking -- but the whole app's theodicy content still matters, precisely because it means the person offering comfort isn't privately panicked by the question and can stay present rather than reaching for a rushed theological argument the moment isn't asking for. The right opening move here is presence, not proof.
+
+**Hint.** Ask what a grieving person actually needs in this exact moment -- an argument, or a person who stays present.
+
+**Citations.**
+**ccc** — CCC 2447
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 217. `answering-objections-l22-003`  ·  Level 22  ·  Multiple choice
+
+**Question.** John Paul II's Salvifici Doloris teaches that human suffering, united to Christ's own suffering on the Cross, can take on a real redemptive dimension rather than being sheer waste. Applied carefully -- without minimizing real grief -- to 'why would a good God let my mother suffer,' what does this actually offer, and what does it NOT claim?
+
+**Answer options.**
+- [✓] It offers a real, if mysterious, hope that suffering united to Christ is not meaningless and can bear a real spiritual fruit -- it does NOT claim the suffering itself was good, was deserved, or should not be grieved; the two truths (real grief, and real hope of redemptive meaning) are held together, not traded one for the other
+- [ ] It claims that suffering is not really evil at all and grief is therefore inappropriate
+- [ ] It claims that the sufferer must have specifically deserved the suffering as just punishment
+- [ ] It offers no comfort of any kind and simply restates the reality of pain
+
+**Explanation shown to the user.** This is the precise, careful use of a real, rare, precisely-cited source this level allows -- deployed to hold two truths together rather than resolve the tension by denying either one. Grief remains fully appropriate; hope of redemptive meaning is also real. Neither cancels the other.
+
+**Hint.** Ask whether this teaching is meant to replace grief with an explanation, or to sit alongside real grief without erasing it.
+
+**Citations.**
+**magisterial_document** — John Paul II, Salvifici Doloris, n. 19 (1984)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 218. `answering-objections-l22-004`  ·  Level 22  ·  Multiple choice
+
+**Question.** A coworker asks: 'if a machine could pass every test we have for a mind -- carry on a conversation, express apparent preferences, even seem to reflect on itself -- what would actually make a human soul different?' Give a response that resolves the underlying metaphysics AND is something a non-specialist could actually say.
+
+**Answer options.**
+- [✓] "Passing a behavior test tells you the machine's outputs LOOK like a mind's -- it doesn't tell you whether there's something it's actually like to BE that machine, whether it has genuine understanding rather than pattern-matching. A soul isn't about acting mind-like from the outside; it's about really being a subject on the inside -- and that's not something any test on outputs alone can settle."
+- [ ] "Machines can never be programmed to talk at all, so this scenario could never actually happen."
+- [ ] "If it passes every test, then it definitely does have a soul just like a human, no further discussion needed."
+- [ ] "Souls don't actually exist, so the question doesn't really mean anything."
+
+**Explanation shown to the user.** This resolves the actual metaphysical gap (behavioral output versus genuine interior subjectivity and understanding) in language a real conversation could use, without needing technical vocabulary like 'hylomorphism' to make the point land -- exactly the kind of translation this capstone level asks for.
+
+**Hint.** The key distinction is between what a test can measure from OUTSIDE (behavior) and what a soul actually concerns -- something on the INSIDE no behavioral test reaches.
+
+**Citations.**
+**ccc** — CCC 33
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 219. `answering-objections-l22-005`  ·  Level 22  ·  Multiple choice
+
+**Question.** A friend says, in a real conversation: 'the Church just cares more about controlling what people do in the bedroom than about actual justice issues.' What hidden premise does this objection rest on, and what is the accurate correction?
+
+**Answer options.**
+- [✓] It assumes the Church's actual teaching and public priorities can be reduced to sexual ethics alone -- the hidden premise doesn't survive contact with the Church's actual, sustained teaching on poverty, migrants, the death penalty, war, and the environment (Catholic Social Teaching); the honest opener acknowledges the perception is understandable given media coverage, while inviting a closer look at the fuller record
+- [ ] The premise is entirely correct, and the Church genuinely has no teaching on justice issues
+- [ ] The correct response is to argue that sexual ethics doesn't actually matter to Catholic teaching at all
+- [ ] The objection should be dismissed outright with no acknowledgment of why the perception exists
+
+**Explanation shown to the user.** This models the level's real task: name the hidden premise precisely (a reduction of the Church's whole moral vision to one topic), correct it honestly with real content (Catholic Social Teaching's actual breadth), while not dismissing why the perception exists in the first place -- opening a conversation rather than winning a point.
+
+**Hint.** Ask what the objection is secretly ASSUMING about the full scope of the Church's teaching -- then check whether that assumption survives a look at the actual record.
+
+**Citations.**
+**ccc** — CCC 2401-2402
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 220. `answering-objections-l22-006`  ·  Level 22  ·  Multiple choice
+
+**Question.** Role-play capstone: a friend says, 'I left because a priest treated my family terribly when we needed help most, and nobody in the parish ever followed up.' What is the correct response, per this level's own repeated principle?
+
+**Answer options.**
+- [✓] "That sounds like it was genuinely wrong, and I'm sorry that happened to you and your family -- that failure was real, and it was a failure of a person, not what the Church actually teaches people deserve. I'd like to actually stay in touch, if that's alright, rather than let this be another place where you got dropped."
+- [ ] "Well, technically the priest's personal failures don't affect Church doctrine, so you should come back regardless of how you were treated."
+- [ ] "You should forgive and forget and return to Mass as soon as possible without dwelling on it."
+- [ ] "That's unfortunate, but here's a solid philosophical proof for God's existence that should resolve the issue."
+
+**Explanation shown to the user.** This is exactly the case this whole level has been building toward: someone hurt by a person needs acknowledgment and continued relationship, not a doctrinal correction, a demand to return, or -- worst of all -- an argument that misses the actual wound entirely. The correct answer names the failure honestly and offers the one thing actually missing the first time: follow-up.
+
+**Hint.** This is the exact 'hurt by a person' category from level 8's matching exercise -- the correct response there was acknowledgment and accompaniment, not an argument.
+
+**Citations.**
+**ccc** — CCC 2284
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 221. `answering-objections-l22-007`  ·  Level 22  ·  True / false
+
+**Question.** True or false: because this level's own focus on real, hard conversations emphasizes accompaniment, relationship, and pastoral sensitivity, it follows that no real content or argument ever matters in these conversations -- only tone and presence.
+
+**Correct answer.** False
+
+**Explanation shown to the user.** This level does not abandon content -- it insists on using the RIGHT content at the right moment, with the right tone. A hidden false premise still needs to be actually named and corrected; a real theological resource (like Salvifici Doloris) still needs to be actually true and accurately applied. Tone without substance would be just as incomplete as substance without tone -- this level asks for both together.
+
+**Hint.** Ask whether any of this level's example answers actually dropped all content in favor of pure tone, or whether they combined real content with the right tone.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 222. `answering-objections-l22-008`  ·  Level 22  ·  Fill in the blank
+
+**Question.** Salvifici Doloris teaches that suffering, united to Christ's own passion, can share in the ______ work of the Cross -- a real spiritual fruitfulness, not mere meaningless pain, though this truth is offered as a source of hope alongside real grief, never as a replacement for it.
+
+**Correct answer.** redemptive
+
+**Explanation shown to the user.** This is the encyclical's own central claim, carefully bounded: suffering can share in Christ's redemptive work -- a real, hope-giving truth -- without that truth being used to minimize or explain away the real grief a person is actually carrying.
+
+**Hint.** This is the word describing the saving work Christ's own suffering on the Cross accomplished.
+
+**Citations.**
+**magisterial_document** — John Paul II, Salvifici Doloris, n. 19 (1984)
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 223. `answering-objections-l22-009`  ·  Level 22  ·  Matching pairs
+
+**Question.** Match each hard conversation to the kind of response it actually calls for.
+
+**Pairs.**
+- A friend hurt by a person in the Church → Acknowledgment of real wrong and renewed relationship, not an argument
+- A grieving friend asking why God allowed a death → Presence and honesty about not having a tidy answer, offered with real theological hope underneath
+- A coworker's sincere 'why do you believe any of this' question → A real, warm reason, combining more than one motive of credibility
+- A stated hidden premise reducing Church teaching to one issue → Naming the premise honestly and correcting it with the fuller record
+
+**Explanation shown to the user.** This is the whole topic's real capstone skill: recognizing that different hard conversations, even when they sound similar on the surface, call for genuinely different responses -- and that getting the KIND of response right matters as much as getting the content right.
+
+**Hint.** Match each situation to the kind of response actually suited to it -- not every hard conversation calls for the same tool.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 224. `answering-objections-l22-010`  ·  Level 22  ·  Multiple choice
+
+**Question.** Across this topic's own real, sustained journey, Answering Objections has moved from naming common questions to this level's own real, hard, personal conversations. What is this level's own real, integrating point about what 'answering an objection' actually means?
+
+**Answer options.**
+- [✓] A real answer is never just a correct proposition recited at a person -- it requires knowing which kind of claim is actually settled, contested, or historical; drawing on content from across the whole app when a question genuinely needs it; and delivering all of that with the gentleness and reverence 1 Peter 3:15 requires, aimed at an actual person rather than at winning an abstract argument
+- [ ] Answering an objection means winning the argument as decisively and quickly as possible
+- [ ] Answering an objection means avoiding any real content and relying only on personal warmth
+- [ ] Every objection in this topic has the exact same correct response regardless of context
+
+**Explanation shown to the user.** This is the topic's own capstone synthesis: correctness, precision about what kind of claim is being made, cross-topic integration, and a real person's actual situation all have to come together at once. Any one of these alone -- content without tone, tone without content, precision without care for the actual person in front of you -- falls short of what this whole topic has been building toward.
+
+**Hint.** Ask what this whole topic's best answers, across all ten levels, actually had in common.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 225. `answering-objections-l23-001`  ·  Level 23  ·  Multiple choice
+
+**Question.** This topic's own capstone showed real, hard conversations practiced -- weighing content against pastoral demand, offering redemptive hope without minimizing real grief. After every real technique, every precise term, and every named, debated position this topic has covered, what is its own final, real, integrating measure of a genuinely good answer?
+
+**Answer options.**
+- [✓] Real love -- rejoicing with those who rejoice, weeping with those who weep -- is the true measure a good answer must pass, beyond mere accuracy or victory
+- [ ] The real, only measure of a genuinely good answer is actually whether it wins the argument outright
+- [ ] The real, only measure of a genuinely good answer is actually its own technical, philosophical precision alone, regardless of the other person
+- [ ] This topic's own real journey actually has no final, real, integrating measure at all
+
+**Explanation shown to the user.** This is this topic's own real, final, integrating point -- every technique, every precise term, every honestly named debate this topic has covered ultimately serves real love, which is the true measure a genuinely good answer must actually pass.
+
+**Hint.** Recall this app's own earlier real citation on rejoicing with those who rejoice and weeping with those who weep.
+
+**Citations.**
+**scripture** — Romans 12:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 226. `answering-objections-l23-002`  ·  Level 23  ·  True / false
+
+**Question.** True or False: A technically accurate, real answer that actually fails to love the person receiving it has not yet fully succeeded, by this topic's own final, real standard.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly this level's own real, final point -- technical accuracy alone, without real love, falls short of this topic's own final, integrating measure of a genuinely good answer.
+
+**Hint.** Recall this level's own real point about what a genuinely good answer must actually pass beyond mere technical accuracy.
+
+**Citations.**
+**scripture** — Romans 12:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 227. `answering-objections-l23-003`  ·  Level 23  ·  Multiple choice
+
+**Question.** Looking back across this entire topic's own real journey -- from the very first level distinguishing an objection from a misunderstanding, through listening first, through hard cases, precise vocabulary, and honestly named debate -- what real, single thread actually ties every one of these levels together?
+
+**Answer options.**
+- [✓] Honest respect for the other person -- their questions, pain, freedom to be persuaded, not merely defeated -- underneath every technique
+- [ ] This topic's own real levels actually share no single, real thread connecting them at all
+- [ ] The real, single thread is actually winning every real argument decisively, regardless of the other person
+- [ ] The real, single thread is actually avoiding any real engagement with hard, genuine questions altogether
+
+**Explanation shown to the user.** This is this level's own real, final, integrating answer -- real, honest respect for the other person as a real, free, whole human being has run underneath every single level this topic has taught, from its very first level onward.
+
+**Hint.** Consider what every one of this topic's own levels -- listening, honesty about debate, pastoral gentleness -- actually had in common.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 228. `answering-objections-l23-004`  ·  Level 23  ·  True / false
+
+**Question.** True or False: This app's own earlier real teaching -- always being ready to give an explanation, but with gentleness and reverence -- names the same real thread that ties this entire topic's own journey together.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and naming this final, real connection matters -- 'gentleness and reverence' names, from this topic's very first level, the same real thread of honest respect that every later level has continued to practice.
+
+**Hint.** Recall this topic's own very first levels' own real citation on gentleness and reverence.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 229. `answering-objections-l23-005`  ·  Level 23  ·  Multiple choice
+
+**Question.** A person who has completed this entire topic asks: 'now that I know all these techniques and precise terms, what should I actually do differently in a real, hard conversation tomorrow?' What is the real, honest, final answer?
+
+**Answer options.**
+- [✓] Let real love for the actual person govern which techniques get used, not the desire to win or display precision
+- [ ] Use every real technique and precise term this topic has taught, all at once, in every single real conversation
+- [ ] Techniques and precise terms actually matter more than the real person actually standing in front of you
+- [ ] Nothing this topic has taught actually has any real, practical bearing on tomorrow's real conversation
+
+**Explanation shown to the user.** This is this topic's own real, final, practical answer -- every technique this topic has taught is a real servant of real love for the actual person present, not an end in itself, and real love, not technique, should actually govern the moment.
+
+**Hint.** Recall this level's own real point about what every technique this topic has taught actually ultimately serves.
+
+**Citations.**
+**scripture** — Romans 12:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 230. `answering-objections-l23-006`  ·  Level 23  ·  True / false
+
+**Question.** True or False: By this topic's own final, real teaching, every technique it has taught is meant to serve real love for the actual person present, not to stand as an end in itself.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True, and this is exactly this topic's own real, final word -- every real technique, every precise term, every honestly named debate has been a servant of real love throughout, never an end in itself.
+
+**Hint.** Consider what real, final purpose this topic's own many techniques have actually served all along.
+
+**Citations.**
+**scripture** — Romans 12:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 231. `answering-objections-l23-007`  ·  Level 23  ·  Matching pairs
+
+**Question.** Match each fact about this topic's own final, real capstone to what it actually means.
+
+**Pairs.**
+- This topic's own final, real measure → Real love, not mere technical accuracy or argumentative victory
+- The single, real thread through every level → Honest respect for the other person's real questions, pain, and freedom
+- "Gentleness and reverence" → Named this same real thread from this topic's very first levels
+- What should actually govern tomorrow's hard conversation → Real love for the actual person present, not the desire to win
+
+**Explanation shown to the user.** These four facts together give this topic's own final, real, integrating word -- every technique, every precise term, every honestly named debate this topic has taught has served real love throughout.
+
+**Hint.** Each row names one real, final step in this topic's own concluding, integrating answer.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 232. `answering-objections-l23-008`  ·  Level 23  ·  True / false
+
+**Question.** True or False: This level is this topic's own final, real capstone, completing its full, real journey from distinguishing an objection from a misunderstanding to real love as the true measure of a real answer.
+
+**Correct answer.** True
+
+**Explanation shown to the user.** True. This level completes this topic's own full, real journey -- from its very first level's own real distinction to this final, real word that love, not mere technique, is the true measure of a genuinely good answer.
+
+**Hint.** Consider what this level's own real place actually is within this topic's full journey.
+
+**Citations.**
+**scripture** — Romans 12:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 233. `answering-objections-l23-009`  ·  Level 23  ·  Multiple choice
+
+**Question.** What real, general habit has this level added, as this topic's own final word, to every technique and precise term this topic has taught?
+
+**Answer options.**
+- [✓] Naming real love as the true measure and final governing purpose every technique this topic has taught has served all along
+- [ ] Replacing every technique this topic has taught with an entirely new, unrelated approach
+- [ ] Assuming real love actually has no bearing whatsoever on any technique this topic has taught
+- [ ] Assuming technical precision alone, without real love, is actually sufficient for a genuinely good answer
+
+**Explanation shown to the user.** This level's own real, final habit -- naming real love as the true measure and governing purpose behind every technique -- completes this topic's own full, real journey honestly and fittingly.
+
+**Hint.** Consider what this level actually did with every technique and precise term this topic has taught.
+
+**Citations.**
+**scripture** — Romans 12:15
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
+### 234. `answering-objections-l23-010`  ·  Level 23  ·  Multiple choice
+
+**Question.** Given this level's own final, real picture of love as the true measure of a real answer, what does this topic's own full, real journey ultimately teach about answering objections well?
+
+**Answer options.**
+- [✓] That every technique this topic taught exists to serve real love for the person being answered, not to stand alone
+- [ ] That real technique alone, without any real love for the person, is actually fully sufficient on its own
+- [ ] That this topic's own full, real journey actually has no coherent, final lesson at all
+- [ ] That real love and real technique are actually entirely unrelated, with no real bearing on each other
+
+**Explanation shown to the user.** This is this topic's own full, real, final teaching -- every technique it has ever taught exists to serve real love for the actual person being answered, completing its own real journey from a first, simple distinction to this final, integrating word.
+
+**Hint.** Consider what this topic's own full, real journey, taken as a whole, actually teaches about answering objections well.
+
+**Citations.**
+**scripture** — 1 Peter 3:15
+  > Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence.
+
+**Reviewer verdict:**  ☐ Approved   ☐ Approved with change (note below)   ☐ Rejected
+
+> _Notes:_
+
+---
