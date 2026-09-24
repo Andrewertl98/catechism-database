@@ -1,0 +1,803 @@
+{
+  "_comment": "Church-fathers levels 6-8: apologists and martyrs (remapped old L2), a further martyr -- Perpetuas firsthand testimony, Golden Age Fathers (remapped old L3)",
+  "topic": "church-fathers",
+  "questions": [
+    {
+      "id": "church-fathers-l6-001",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1262,
+      "prompt": "St. Justin Martyr addressed his First Apology -- a reasoned defense of Christianity -- directly to which audience?",
+      "choices": [
+        "The Roman Emperor and Senate",
+        "The Jewish Sanhedrin",
+        "The bishops of Asia Minor",
+        "The philosophers of Athens alone"
+      ],
+      "correctAnswer": "The Roman Emperor and Senate",
+      "explanation": "Justin addressed his First Apology to the Emperor Antoninus Pius and the Roman Senate, arguing that Christians were being punished unjustly for a faith that was reasonable and good.",
+      "hint": "He wrote directly to the very government that could execute him for it.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Justin Martyr, First Apology",
+          "quote": "To the Emperor Titus Aelius Adrianus Antoninus Pius Augustus Caesar, and to his son Verissimus the Philosopher, and to Lucius the Philosopher... and to the sacred Senate, with the whole People of the Romans"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-002",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1212,
+      "prompt": "True or False: St. Perpetua and St. Felicity, martyred at Carthage around 203 AD, died alone, without any companions.",
+      "correctAnswer": false,
+      "explanation": "Perpetua, a young noblewoman, and Felicity, her slave, were martyred together in the arena along with several companions -- their shared witness, not solitary death, is what the Church has always remembered.",
+      "hint": "One was a noblewoman, the other her slave -- they were not alone in the arena.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-003",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1262,
+      "prompt": "St. Irenaeus of Lyons argued that the true teaching of the Church could be verified by tracing the bishops of his own day back, generation by generation, to whom?",
+      "choices": [
+        "The apostles",
+        "The Roman Senate",
+        "The local synagogue",
+        "Secret Gnostic teachers"
+      ],
+      "correctAnswer": "The apostles",
+      "explanation": "Irenaeus's argument in Against Heresies -- that unbroken succession from the apostles guarantees the truth of a bishop's teaching -- is the same doctrine of apostolic succession the Church still teaches.",
+      "hint": "He was tracing the line back to its source: the men Christ himself commissioned.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 77",
+          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies",
+          "quote": "The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate... In this order, and by this succession, the ecclesiastical tradition from the apostles... have come down to us."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-004",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1322,
+      "prompt": "The early Christian writer Tertullian famously wrote that the blood of martyrs is the ____ of the Church.",
+      "correctAnswer": "seed",
+      "explanation": "Tertullian's line -- that persecution, rather than destroying the Church, caused it to grow -- captures how the early Christians understood martyrdom as fruitful witness rather than defeat.",
+      "hint": "He meant that persecution, instead of destroying the Church, made it grow.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "Tertullian, Apologeticus",
+          "quote": "We multiply whenever we are mown down by you: the blood of Christians is seed."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-005",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1302,
+      "prompt": "Match each apologist or martyr to the fact he or she is known for.",
+      "pairs": [
+        {
+          "left": "St. Justin Martyr",
+          "right": "Wrote the First Apology defending Christianity to Rome"
+        },
+        {
+          "left": "St. Irenaeus of Lyons",
+          "right": "Refuted Gnosticism in Against Heresies"
+        },
+        {
+          "left": "St. Perpetua",
+          "right": "Noblewoman martyred at Carthage, kept a prison diary"
+        },
+        {
+          "left": "St. Felicity",
+          "right": "Slave martyred alongside Perpetua at Carthage"
+        }
+      ],
+      "explanation": "Together these figures show the two great tasks of the early Church: reasoned defense of the faith to a hostile world, and steadfast witness to it even unto death.",
+      "hint": "Two wrote in their own defense; two died for refusing to renounce Christ.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-006",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1212,
+      "prompt": "True or False: St. Justin Martyr taught that 'seeds of the Word' -- fragments of truth -- could be found even among pagan philosophers before Christ.",
+      "correctAnswer": true,
+      "explanation": "Justin's idea of the 'logos spermatikos' held that the divine Word had scattered seeds of truth throughout human thought before the Incarnation -- an early expression of the truth that God's light reaches every person.",
+      "hint": "His idea is called the 'logos spermatikos' -- the Word had already scattered seeds of itself through human reason.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 1:9",
+          "quote": "The true light, which enlightens everyone, was coming into the world."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Justin Martyr, Second Apology"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-007",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1262,
+      "prompt": "St. Justin Martyr's First Apology (c. 155) describes the Sunday gathering in detail. Why does that description matter?",
+      "choices": [
+        "It shows the shape of the Mass \u2014 readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution \u2014 already fixed by the mid-second century",
+        "It is the first description of a Christian funeral",
+        "It proves the liturgy was originally in Latin",
+        "It shows there was no fixed order of worship"
+      ],
+      "correctAnswer": "It shows the shape of the Mass \u2014 readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution \u2014 already fixed by the mid-second century",
+      "explanation": "Justin is explaining Christian worship to a hostile emperor, so he has no motive to invent continuity. A Catholic reading his account recognises the structure of Sunday Mass immediately, which is a stronger argument for liturgical continuity than any later assertion.",
+      "hint": "He is describing it to outsiders, which is why the detail is trustworthy.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1345"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Justin Martyr, First Apology 65-67"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-008",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1212,
+      "prompt": "True or False: Tertullian's question 'What has Athens to do with Jerusalem?' expressed the settled view of the Fathers that philosophy has no place in theology.",
+      "correctAnswer": false,
+      "explanation": "False. It expressed Tertullian's view, and it was not the settled one \u2014 Justin held that seeds of the Word were scattered among the philosophers, and the Cappadocians and Augustine used philosophy extensively. Tertullian is a Father, not the Fathers, and quoting him as though he spoke for all of them misrepresents a genuine disagreement.",
+      "hint": "Ask whether other Fathers agreed with him on this.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 39"
+        },
+        {
+          "type": "church_father",
+          "reference": "Tertullian, De Praescriptione Haereticorum 7"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-009",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1322,
+      "prompt": "Origen produced the ____, a six-column parallel edition of the Old Testament comparing the Hebrew with Greek versions \u2014 an early monument of textual scholarship.",
+      "correctAnswer": "Hexapla",
+      "explanation": "The name means 'sixfold'. Origen's willingness to compare the Hebrew against the Greek, and to note where they differed, is the ancestor of critical biblical scholarship \u2014 undertaken by a man usually remembered for allegory.",
+      "hint": "The Greek prefix for 'six' gives the name.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "church_father",
+          "reference": "Origen, Hexapla"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l6-010",
+      "topic": "church-fathers",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1302,
+      "prompt": "Match each second- and third-century figure to their characteristic contribution.",
+      "pairs": [
+        {
+          "left": "Justin Martyr",
+          "right": "Reasoned defence to the emperor; seeds of the Word among the philosophers"
+        },
+        {
+          "left": "Irenaeus",
+          "right": "Apostolic succession as the test of true teaching"
+        },
+        {
+          "left": "Tertullian",
+          "right": "Latin theological vocabulary, and suspicion of philosophy"
+        },
+        {
+          "left": "Origen",
+          "right": "Systematic exegesis and textual comparison of the Scriptures"
+        }
+      ],
+      "explanation": "Two of these looked outward to argue with the wider world and two looked inward to secure the Church's own reading of Scripture. Both tasks were already necessary within a century of the apostles.",
+      "hint": "Two are apologists addressing outsiders; two are chiefly concerned with Scripture and succession.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 78"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 113"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-001",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "The previous level covered several apologists and martyrs -- Justin Martyr, Irenaeus, Tertullian, Perpetua and Felicity. A further, real detail about Perpetua actually makes her own account genuinely unique among early, Christian texts. What is it?",
+      "choices": [
+        "Part of the Passion of Perpetua and Felicity is a genuine, firsthand prison diary in Perpetua's own first-person voice",
+        "Perpetua actually left no real, written record of her own at all, with her own real story known only through later, real, secondhand accounts",
+        "Perpetua's own real account is actually the only surviving, real text from the entire, early, Christian period",
+        "This real, detail actually has no genuine, historical significance worth actually noting"
+      ],
+      "correctAnswer": "Part of the Passion of Perpetua and Felicity is a genuine, firsthand prison diary in Perpetua's own first-person voice",
+      "explanation": "This is a further, real, remarkable detail -- part of the Passion of Perpetua and Felicity is a genuine, firsthand, prison diary in Perpetua's own real, first-person voice, making it genuinely unique among early, Christian texts.",
+      "hint": "Recall the previous level's own real, brief mention of Perpetua and Felicity, and consider what made her own real account actually distinctive.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-002",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: Part of the Passion of Perpetua and Felicity is actually a genuine, firsthand, prison diary, written in Perpetua's own real, first-person voice.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, remarkable detail matters -- a genuine, firsthand, prison diary is genuinely rare among surviving, early, Christian texts.",
+      "hint": "Recall this level's own real point about what makes Perpetua's own account actually distinctive.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-003",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "Why does actually having a genuine, firsthand, prison diary -- rather than only a real, later, secondhand account -- actually matter for understanding real, early, Christian martyrdom?",
+      "choices": [
+        "It actually gives real, direct, personal access to what a real, early martyr genuinely thought and felt, rather than only a real, outside, secondhand description",
+        "This real, distinction actually has no genuine, practical bearing on understanding early, Christian martyrdom at all",
+        "A real, firsthand account is actually always, automatically less historically reliable than a real, later, secondhand one",
+        "Having a real, firsthand account actually means the entire, real event should actually be treated with genuine, historical suspicion"
+      ],
+      "correctAnswer": "It actually gives real, direct, personal access to what a real, early martyr genuinely thought and felt, rather than only a real, outside, secondhand description",
+      "explanation": "This is a real, important point -- a genuine, firsthand account gives direct, personal access to what an early martyr actually thought and felt, rather than only an outside, secondhand description.",
+      "hint": "Consider what real, practical, historical value a firsthand account actually adds beyond a secondhand description.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-004",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: A genuine, firsthand account like Perpetua's own diary actually gives direct, personal access to what an early martyr genuinely thought and felt.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, historical point matters -- this direct access is exactly what makes Perpetua's own real account genuinely valuable, beyond a secondhand description alone.",
+      "hint": "Recall this level's own real point about what a firsthand account actually adds beyond a secondhand description.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-005",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "How does Perpetua's own real, firsthand testimony actually connect to the Church's own real, official teaching on martyrdom as 'the supreme witness given to the truth of the faith'?",
+      "choices": [
+        "Her firsthand words give a concrete, personal example of exactly the supreme witness the Church's teaching describes",
+        "Her own real, firsthand testimony actually contradicts the Church's own real, official teaching on martyrdom entirely",
+        "This real, connection actually has no meaningful, real bearing between her own account and the Church's own general teaching",
+        "The Church's own real teaching on martyrdom actually postdates, and was actually unrelated to, Perpetua's own real testimony"
+      ],
+      "correctAnswer": "Her firsthand words give a concrete, personal example of exactly the supreme witness the Church's teaching describes",
+      "explanation": "This is a real, direct connection -- Perpetua's own firsthand words give a concrete, personal example of exactly the kind of supreme witness the Church's own general teaching on martyrdom actually describes.",
+      "hint": "Recall this level's own real citation on martyrdom as the supreme witness to the truth of the faith.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-006",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: Perpetua's own real, firsthand words give a concrete, personal example of exactly the kind of supreme witness the Church's own general teaching on martyrdom actually describes.",
+      "correctAnswer": true,
+      "explanation": "True, and this real connection matters -- a concrete, personal, real example makes the Church's own general teaching genuinely, vividly real.",
+      "hint": "Recall this level's own real citation connecting Perpetua's own testimony to the Church's own teaching on martyrdom.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-007",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1385,
+      "prompt": "Match each fact about Perpetua's own real, firsthand testimony to what it actually means.",
+      "pairs": [
+        {
+          "left": "Part of Perpetua's own real account",
+          "right": "A genuine, firsthand, prison diary in her own first-person voice"
+        },
+        {
+          "left": "Why a firsthand account matters",
+          "right": "Gives direct, personal access to what an early martyr actually thought and felt"
+        },
+        {
+          "left": "Connection to \"the supreme witness\"",
+          "right": "A concrete, personal example of the Church's own general teaching on martyrdom"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Extends the previous level's own real, brief mention into a further, deep engagement"
+        }
+      ],
+      "explanation": "These four facts together extend the previous level's own real, brief mention of Perpetua into a further, deep, genuine engagement with her own firsthand testimony.",
+      "hint": "Each row names one real, careful fact about Perpetua's own firsthand account.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-008",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1295,
+      "prompt": "True or False: Having now engaged a further apologist or martyr, this topic's next level turns to the Golden Age Fathers.",
+      "correctAnswer": true,
+      "explanation": "True. Having engaged this further, real, firsthand testimony, this topic's next level turns to the Golden Age Fathers of the fourth century.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-009",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "What real, general habit has this level added to the previous level's own real, brief mention of Perpetua and Felicity?",
+      "choices": [
+        "Turning a real, brief, historical mention into a further, deep, genuine engagement with a real, firsthand, historical testimony",
+        "Assuming Perpetua's own real account actually has no genuine, further, historical detail worth actually exploring",
+        "Replacing the previous level's own real content with an entirely unrelated, real subject",
+        "Assuming a firsthand, real account is actually always less reliable than a secondhand one"
+      ],
+      "correctAnswer": "Turning a real, brief, historical mention into a further, deep, genuine engagement with a real, firsthand, historical testimony",
+      "explanation": "This level's own real habit -- turning a brief mention into a further, deep engagement -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, brief mention of Perpetua.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l7-010",
+      "topic": "church-fathers",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1345,
+      "prompt": "Given this level's own real engagement with Perpetua's own firsthand testimony, what does the next level in this topic turn to?",
+      "choices": [
+        "The Golden Age Fathers",
+        "A complete repeat of this same level's material about Perpetua's own real testimony",
+        "A jump ahead to the Doctors of the Church, skipping over everything in between",
+        "A subject entirely unrelated to the Fathers or real, early, Christian martyrdom"
+      ],
+      "correctAnswer": "The Golden Age Fathers",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from the second- and third-century apologists and martyrs to the fourth-century Golden Age Fathers.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "The Passion of Perpetua and Felicity"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-001",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "St. Athanasius of Alexandria spent much of his life defending the teaching of which council against the Arian heresy?",
+      "choices": [
+        "The Council of Nicaea (325)",
+        "The Council of Chalcedon (451)",
+        "The Council of Trent",
+        "The First Vatican Council"
+      ],
+      "correctAnswer": "The Council of Nicaea (325)",
+      "explanation": "Athanasius was Nicaea's fiercest and most persistent defender, insisting for decades that the Son is 'consubstantial' with the Father against Arius's claim that Christ was a created being.",
+      "hint": "He spent decades defending one word: that the Son is truly, fully God.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Athanasius of Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-002",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1378,
+      "prompt": "True or False: St. Athanasius was exiled from his own see multiple times because of his unwavering defense of Christ's full divinity.",
+      "correctAnswer": true,
+      "explanation": "Athanasius was driven from Alexandria five separate times as the political tide shifted for and against Arianism -- his persistence against overwhelming opposition gave rise to the phrase 'Athanasius against the world.'",
+      "hint": "His persistence against nearly everyone earned him a famous Latin phrase.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-003",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "St. Basil the Great, St. Gregory of Nazianzus, and St. Gregory of Nyssa are together known by what title, reflecting their shared defense of Trinitarian doctrine in the 4th century?",
+      "choices": [
+        "The Cappadocian Fathers",
+        "The Latin Doctors",
+        "The Apostolic Fathers",
+        "The Desert Fathers"
+      ],
+      "correctAnswer": "The Cappadocian Fathers",
+      "explanation": "Named for their home region in Asia Minor, the Cappadocian Fathers refined the Church's language for the Trinity and defended the divinity of the Holy Spirit affirmed at the Council of Constantinople.",
+      "hint": "Two brothers and a close friend, all from one region in modern-day Turkey.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-004",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1488,
+      "prompt": "St. Ambrose of Milan baptized the future Doctor of the Church and author of the Confessions, St. ____ of Hippo, in 387 AD.",
+      "correctAnswer": "Augustine",
+      "explanation": "Ambrose's preaching in Milan was instrumental in Augustine's conversion; Augustine describes the moment of his baptism, by Ambrose's hand, in Book Nine of his Confessions.",
+      "hint": "The bishop of Milan whose preaching finally won over a restless heart.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 30",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions",
+          "quote": "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-005",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1468,
+      "prompt": "Match each Golden Age Father to the fact he is remembered for.",
+      "pairs": [
+        {
+          "left": "St. Athanasius",
+          "right": "Defended Christ's full divinity against Arianism"
+        },
+        {
+          "left": "St. Basil the Great",
+          "right": "Wrote a monastic Rule and defended the Holy Spirit's divinity"
+        },
+        {
+          "left": "St. Ambrose of Milan",
+          "right": "Bishop whose preaching led to St. Augustine's baptism"
+        },
+        {
+          "left": "St. John Chrysostom",
+          "right": "Archbishop of Constantinople famed for his preaching"
+        }
+      ],
+      "explanation": "The 4th and 5th centuries produced an extraordinary generation of bishop-theologians who defended, defined, and preached the Church's core doctrines with lasting authority.",
+      "hint": "One preached so powerfully he earned a nickname meaning 'golden.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "First Council of Nicaea (325)",
+          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381)",
+          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-006",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1378,
+      "prompt": "True or False: St. John Chrysostom taught that honoring Christ in the Eucharist is inseparable from caring for Christ in the poor.",
+      "correctAnswer": true,
+      "explanation": "Chrysostom preached forcefully that it does no good to honor Christ's Eucharistic body while neglecting his body in the poor -- a teaching the Catechism still draws on when it links the Eucharist to charity.",
+      "hint": "This teaching is what the Catechism still draws on today when it links receiving the Eucharist to how we treat the poor.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1397",
+          "quote": "To receive in truth the Body and Blood of Christ given up for us, we must recognize Christ in the poorest, his brethren."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. John Chrysostom, Homilies on Matthew",
+          "quote": "Do you want to honor Christ's body? Then do not scorn him in his nakedness, nor honor him here in the church with silken garments while neglecting him outside where he is cold and naked."
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-007",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1428,
+      "prompt": "St. Jerome's greatest labour was the Vulgate. What made his approach distinctive?",
+      "choices": [
+        "He translated the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+        "He translated from Latin into Greek",
+        "He worked entirely from the Septuagint",
+        "He produced the first vernacular translation"
+      ],
+      "correctAnswer": "He translated the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+      "explanation": "Augustine worried that going behind the Septuagint would unsettle congregations who knew it. Jerome went to the Hebrew anyway. The disagreement is a useful corrective to the idea that the Fathers formed a \u0435\u0434\u0438\u043d\u044b\u0439 bloc \u2014 they argued, in writing, at length.",
+      "hint": "The controversy was about which language he translated from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 116"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Jerome, Prologues to the Vulgate"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-008",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1378,
+      "prompt": "True or False: St. Basil the Great founded a complex outside Caesarea providing housing, a hospital and care for the poor \u2014 an early institutional charity.",
+      "correctAnswer": true,
+      "explanation": "True; it became known as the Basiliad. The same bishop who wrote against the Arians on the divinity of the Spirit built a hospital, and the Fathers generally saw no distance between those two activities. Chrysostom makes the same point when he says honouring Christ in the Eucharist is inseparable from honouring him in the poor.",
+      "hint": "He is remembered for a monastic rule, a doctrinal fight, and a building.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Basil the Great"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-009",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1488,
+      "prompt": "St. Gregory of Nyssa taught that the soul's approach to God is an endless progress into greater love \u2014 a doctrine known by the Greek term ____.",
+      "correctAnswer": "epektasis",
+      "explanation": "From Paul's straining forward to what lies ahead. Since God is infinite, arrival is not the shape of the journey: the blessed go on receiving more of him for ever, and satisfaction and desire increase together rather than one ending the other.",
+      "hint": "The word comes from Philippians 3:13, 'straining forward'.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Philippians 3:13"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Gregory of Nyssa, Life of Moses"
+        }
+      ]
+    },
+    {
+      "id": "church-fathers-l8-010",
+      "topic": "church-fathers",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1468,
+      "prompt": "Match each Golden Age Father to what he is chiefly remembered for.",
+      "pairs": [
+        {
+          "left": "Athanasius",
+          "right": "Defending Nicaea through repeated exiles"
+        },
+        {
+          "left": "Basil the Great",
+          "right": "A monastic rule, the Spirit's divinity, and the Basiliad"
+        },
+        {
+          "left": "Gregory of Nazianzus",
+          "right": "The Theological Orations on the Trinity"
+        },
+        {
+          "left": "John Chrysostom",
+          "right": "Preaching, and Christ in the Eucharist inseparable from Christ in the poor"
+        }
+      ],
+      "explanation": "Every one of these men held office in a contested Church and several were exiled for it. Their doctrinal work was done under political pressure rather than in scholarly quiet, which is worth remembering when reading their sharper passages.",
+      "hint": "One is defined by exile, one by breadth of activity, one by preaching, one by trinitarian precision.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2447"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        }
+      ]
+    }
+  ]
+}
