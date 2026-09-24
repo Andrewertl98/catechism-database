@@ -1,0 +1,844 @@
+{
+  "_comment": "Prayer levels 19-21: choosing kataphatic/apophatic practically, named schools of spirituality (remapped old L9), a further spiritual master -- St. Francis de Sales",
+  "topic": "prayer",
+  "questions": [
+    {
+      "id": "prayer-l19-001",
+      "topic": "prayer",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "The previous level distinguished kataphatic (image-using, imaginative) prayer from apophatic (imageless) prayer. Someone new to both asks how to actually choose which to actually practice today. What is the real, practical, honest answer?",
+      "choices": [
+        "There's no single correct choice for everyone -- try each honestly and notice which helps you turn toward God more genuinely",
+        "Kataphatic prayer is actually always, objectively superior, and apophatic prayer should actually never be attempted",
+        "Apophatic prayer is actually always, objectively superior, and kataphatic prayer should actually never be attempted",
+        "This is actually an unanswerable question, with no honest, practical response available at all"
+      ],
+      "correctAnswer": "There's no single correct choice for everyone -- try each honestly and notice which helps you turn toward God more genuinely",
+      "explanation": "This is a real, honest, practical answer -- since the previous level already warned against treating one as simply superior, a person can actually try each and notice what genuinely helps, without imposing a false, universal ranking.",
+      "hint": "Recall the previous level's own real warning about the danger of treating one as simply superior to the other.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-002",
+      "topic": "prayer",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: There is actually no single, correct choice between kataphatic and apophatic prayer that fits every real person equally well.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, honest point matters -- since neither is simply superior, the real, practical choice actually depends on what genuinely helps a specific person turn toward God.",
+      "hint": "Recall this level's own real, honest point about there being no single, correct choice for everyone.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-003",
+      "topic": "prayer",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "In real, practical terms, what would actually trying kataphatic prayer today actually look like?",
+      "choices": [
+        "Actually imagining a real, specific Gospel scene -- for instance, sitting beside Christ at the Last Supper -- and letting real, concrete images shape the prayer",
+        "Actually emptying the mind of every real image entirely, sitting in complete, real silence with no imaginative content at all",
+        "Kataphatic prayer actually has no real, practical, imaginable content of any kind",
+        "Kataphatic prayer actually requires reciting a real, fixed, memorized formula with no personal, imaginative content"
+      ],
+      "correctAnswer": "Actually imagining a real, specific Gospel scene -- for instance, sitting beside Christ at the Last Supper -- and letting real, concrete images shape the prayer",
+      "explanation": "This is a real, concrete, practical example of kataphatic, image-using prayer -- imagining a specific Gospel scene and letting real images shape the prayer, as opposed to apophatic prayer's own imageless approach.",
+      "hint": "Recall the previous level's own real distinction between image-using and imageless prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-004",
+      "topic": "prayer",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Imagining a specific, real Gospel scene, and letting concrete images shape the prayer, is a real, practical example of kataphatic prayer.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, concrete example matters -- imagining a Gospel scene is exactly kataphatic prayer's own real, image-using character in practice.",
+      "hint": "Recall this level's own real, concrete example of kataphatic prayer in practice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-005",
+      "topic": "prayer",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "In real, practical terms, what would actually trying apophatic prayer today actually look like?",
+      "choices": [
+        "Sitting quietly, without forming any mental image, resting in God's presence beyond images and concepts",
+        "Actually forming as many vivid, real, mental images as genuinely possible, in rapid succession",
+        "Apophatic prayer actually requires reciting a real, lengthy, memorized formula out loud",
+        "Apophatic prayer actually has no real, practical, describable content of any kind"
+      ],
+      "correctAnswer": "Sitting quietly, without forming any mental image, resting in God's presence beyond images and concepts",
+      "explanation": "This is a real, concrete, practical example of apophatic, imageless prayer -- sitting quietly, resting in God's presence beyond images and concepts, as opposed to kataphatic prayer's own image-using approach.",
+      "hint": "Recall the previous level's own real distinction between image-using and imageless prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2717"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-006",
+      "topic": "prayer",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Sitting quietly without deliberately forming any mental image, resting in God's presence beyond images, is a real, practical example of apophatic prayer.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, concrete example matters -- resting quietly beyond images is exactly apophatic prayer's own real, imageless character in practice.",
+      "hint": "Recall this level's own real, concrete example of apophatic prayer in practice.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2717"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-007",
+      "topic": "prayer",
+      "level": 19,
+      "type": "matching_pairs",
+      "difficultyElo": 2240,
+      "prompt": "Match each fact about choosing between kataphatic and apophatic prayer to what it actually means.",
+      "pairs": [
+        {
+          "left": "Which approach is actually superior",
+          "right": "Neither -- what genuinely helps a person turn toward God matters most"
+        },
+        {
+          "left": "Trying kataphatic prayer today",
+          "right": "Imagining a specific Gospel scene, letting real images shape the prayer"
+        },
+        {
+          "left": "Trying apophatic prayer today",
+          "right": "Sitting quietly, resting in God's presence beyond images and concepts"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Turns a real, theological distinction into two, real, practical things to actually try"
+        }
+      ],
+      "explanation": "These four facts together turn the previous level's own real, theological distinction into an actual, practical choice someone could genuinely make today.",
+      "hint": "Each row gives one real, practical step for choosing and trying kataphatic or apophatic prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-008",
+      "topic": "prayer",
+      "level": 19,
+      "type": "true_false",
+      "difficultyElo": 2150,
+      "prompt": "True or False: Having now covered choosing a practical approach between kataphatic and apophatic prayer, this topic's next level turns to named schools of spirituality.",
+      "correctAnswer": true,
+      "explanation": "True. Having practiced this real, practical choice, this topic's next level turns to named, real schools of spirituality -- Teresa, John of the Cross, Ignatius, Th\u00e9r\u00e8se.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-009",
+      "topic": "prayer",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "What real, general habit has this level added to the previous level's own real, theological distinction between kataphatic and apophatic prayer?",
+      "choices": [
+        "Turning a theological distinction into two practical things a person could genuinely try today",
+        "Assuming one approach is actually always, objectively superior to the other, without exception",
+        "Replacing the previous level's own real distinction with an entirely unrelated, real topic",
+        "Assuming neither kataphatic nor apophatic prayer actually has any real, practical, describable content"
+      ],
+      "correctAnswer": "Turning a theological distinction into two practical things a person could genuinely try today",
+      "explanation": "This level's own real habit -- turning a theological distinction into practical, real options to try -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, theological distinction.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l19-010",
+      "topic": "prayer",
+      "level": 19,
+      "type": "multiple_choice",
+      "difficultyElo": 2200,
+      "prompt": "Given this level's own real, practical choice between kataphatic and apophatic prayer, what does the next level in this topic turn to?",
+      "choices": [
+        "Named schools of spirituality -- Teresa, John of the Cross, Ignatius, Th\u00e9r\u00e8se",
+        "A complete repeat of this same level's material about kataphatic and apophatic prayer",
+        "A jump ahead to the capstone, skipping over everything in between",
+        "A subject entirely unrelated to prayer or real, spiritual practice"
+      ],
+      "correctAnswer": "Named schools of spirituality -- Teresa, John of the Cross, Ignatius, Th\u00e9r\u00e8se",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from two general approaches to real, named, historical schools of Christian spirituality.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-001",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "St. Teresa of \u00c1vila's Interior Castle describes the soul's journey toward God through a series of 'mansions.' What does this schema represent?",
+      "choices": [
+        "A progressive structure of the soul's interior journey toward union with God, moving through successive stages of prayer and purification",
+        "A literal architectural plan for building a convent",
+        "A one-time event rather than a gradual progression",
+        "A schema that applies only to consecrated religious, never to laypeople"
+      ],
+      "correctAnswer": "A progressive structure of the soul's interior journey toward union with God, moving through successive stages of prayer and purification",
+      "explanation": "Teresa's Interior Castle (Las Moradas) uses the image of a castle with seven mansions to map the soul's gradual interior journey toward union with God -- a Carmelite contribution to the Church's broader prayer tradition, complementary to, not competing with, other legitimate schools.",
+      "hint": "Teresa pictures the soul as a castle with seven rooms, each one deeper toward the center where God dwells.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "Christian Tradition has retained three major expressions of prayer: vocal, meditative, and contemplative."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy",
+        "prerequisite:saints-l4"
+      ]
+    },
+    {
+      "id": "prayer-l20-002",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "St. John of the Cross distinguishes the 'dark night of the sense' from the 'dark night of the spirit' in his writings (Ascent of Mount Carmel and The Dark Night). What is the basic difference between them?",
+      "choices": [
+        "The dark night of the sense purifies attachment to sensory consolations in prayer; the dark night of the spirit is a deeper purification touching the soul's faculties themselves",
+        "They are two names for exactly the same experience with no real difference",
+        "The dark night of the sense only affects the body, never the soul",
+        "The dark night of the spirit happens before the dark night of the sense in every case"
+      ],
+      "correctAnswer": "The dark night of the sense purifies attachment to sensory consolations in prayer; the dark night of the spirit is a deeper purification touching the soul's faculties themselves",
+      "explanation": "John of the Cross describes the night of the sense as an earlier, more common purification of attachment to felt consolations in prayer, and the night of the spirit as a rarer, deeper purification of the soul's faculties (intellect, memory, will) themselves -- a Carmelite systematization of stages within the Church's broader prayer tradition, not a technique to manufacture either experience.",
+      "hint": "One purifies attachment to felt consolations in prayer; the other goes deeper, touching the intellect, memory, and will themselves.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2719",
+          "quote": "Contemplative prayer is a communion of love bearing Life for the multitude, to the extent that it consents to abide in the night of faith."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy",
+        "prerequisite:saints-l4"
+      ]
+    },
+    {
+      "id": "prayer-l20-003",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "St. Ignatius of Loyola's Spiritual Exercises include the Examen, a structured daily review of one's day before God. Why is the Examen traditionally prayed daily, rather than only during an extended retreat?",
+      "choices": [
+        "Because its purpose -- noticing God's presence and one's own responses throughout the day, to grow in discernment over time -- depends on regular, ongoing practice, not a single isolated exercise",
+        "Because the full Spiritual Exercises can only be legitimately prayed once in a lifetime",
+        "Because it is considered too difficult to be prayed more than once during a retreat",
+        "Because it replaces the need for any other form of daily prayer entirely"
+      ],
+      "correctAnswer": "Because its purpose -- noticing God's presence and one's own responses throughout the day, to grow in discernment over time -- depends on regular, ongoing practice, not a single isolated exercise",
+      "explanation": "The Examen's value lies in the ongoing habit of reviewing one's day for where God was present and how one responded, building the skill of discernment over time -- a daily practice suited to ordinary life, distinct from the intensive, typically once-completed structure of the full Spiritual Exercises retreat itself.",
+      "hint": "Its value comes from noticing God's presence again and again over time, not from one single review.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2690",
+          "quote": "The Holy Spirit gives to certain of the faithful the gifts of wisdom, faith and discernment for the sake of this common good which is prayer (spiritual direction)."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy",
+        "prerequisite:saints-l3"
+      ]
+    },
+    {
+      "id": "prayer-l20-004",
+      "topic": "prayer",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: St. Bonaventure's Itinerarium Mentis in Deum ('The Journey of the Mind to God'), a Franciscan spiritual classic, describes an ascent to God that begins by contemplating the traces of God in the created world, culminating in contemplation of the crucified Christ.",
+      "correctAnswer": true,
+      "explanation": "Bonaventure's Itinerarium, shaped by the Franciscan tradition's characteristic attention to creation and the crucified Christ, maps a six-stage ascent beginning with the created world's 'vestiges' of God and moving through the soul's own faculties to a final contemplation centered on Christ crucified -- a distinctly Franciscan emphasis on creation and the Passion, one legitimate accent among the Church's several schools of prayer.",
+      "hint": "Bonaventure's ascent moves from the traces of God in creation all the way to the cross -- a very Franciscan arc.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy",
+        "prerequisite:saints-l3"
+      ]
+    },
+    {
+      "id": "prayer-l20-005",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "St. Therese of Lisieux's 'Little Way,' a later Carmelite development, is best understood in relation to Teresa of \u00c1vila's and John of the Cross's earlier Carmelite framework as what?",
+      "choices": [
+        "A complementary development within the same Carmelite tradition, not a contradiction of the earlier framework's teaching on prayer and purification",
+        "A complete rejection of everything Teresa and John taught about prayer",
+        "Evidence that the Carmelite tradition is internally incoherent",
+        "A teaching that has no real connection to the earlier Carmelite mystics"
+      ],
+      "correctAnswer": "A complementary development within the same Carmelite tradition, not a contradiction of the earlier framework's teaching on prayer and purification",
+      "explanation": "Therese's 'Little Way' -- trust and love expressed through small, ordinary acts -- develops within the same Carmelite tradition as Teresa's and John's teaching on prayer and purification, offering an accessible path to the same goal of union with God through humble confidence rather than replacing or contradicting the earlier mystics' framework.",
+      "hint": "This is the same 'complementary development, not competing claim' pattern used throughout this level.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
+      ]
+    },
+    {
+      "id": "prayer-l20-006",
+      "topic": "prayer",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each described prayer practice to the school of Christian spirituality it belongs to.",
+      "pairs": [
+        {
+          "left": "Mapping the soul's interior journey through a series of 'mansions'",
+          "right": "Carmelite (Teresa of \u00c1vila)"
+        },
+        {
+          "left": "A structured daily review of the day's events before God, building discernment over time",
+          "right": "Ignatian"
+        },
+        {
+          "left": "An ascent to God beginning in creation's traces and culminating at the crucified Christ",
+          "right": "Franciscan (Bonaventure)"
+        },
+        {
+          "left": "Trusting confidence expressed through small, ordinary daily acts of love",
+          "right": "Carmelite (Therese of Lisieux's Little Way)"
+        }
+      ],
+      "explanation": "Per CCC 2684, these are legitimate, complementary schools of Christian spirituality, not competing claims about the one correct way to pray -- more than one of these approaches can genuinely fit the same person's actual prayer life at once.",
+      "hint": "Two of these four practices come from the same broader tradition, developed a few centuries apart.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "The personal charism of some witnesses to God's love for men has been handed on... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-007",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Ignatian discernment distinguishes consolation from desolation. What is the standard counsel about decisions made in desolation?",
+      "choices": [
+        "Do not change a resolution made in consolation while in desolation; hold the earlier course until clarity returns",
+        "Act quickly on whatever desolation suggests",
+        "Treat desolation as proof the earlier decision was wrong",
+        "Suspend all prayer until desolation lifts"
+      ],
+      "correctAnswer": "Do not change a resolution made in consolation while in desolation; hold the earlier course until clarity returns",
+      "explanation": "The rule protects against a predictable failure: desolation makes abandonment look like realism. Ignatius counsels holding to what was decided in light rather than revising it in darkness, and if anything increasing prayer rather than reducing it.",
+      "hint": "The counsel concerns which state you should be in when you decide.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2729"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-008",
+      "topic": "prayer",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: Th\u00e9r\u00e8se of Lisieux's 'Little Way' proposes an easier path than the Carmelite mysticism of Teresa of \u00c1vila and John of the Cross.",
+      "correctAnswer": false,
+      "explanation": "False. It is not a reduction of the demand but a relocation of it: since she could not perform great deeds, she would do small ones with complete love, and would let herself be carried rather than climb. Confidence in mercy replaces achievement \u2014 which is harder for most people than heroic effort, not easier.",
+      "hint": "Ask whether accepting that you cannot climb is a lower standard or a different one.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2011"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2558"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-009",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "What did John of the Cross mean by saying the dark night is God's work rather than the soul's failure?",
+      "choices": [
+        "It is a purification God brings about, withdrawing sensible consolation so attachment shifts from the gifts to the Giver",
+        "It is punishment for unconfessed sin",
+        "It is a psychological condition to be treated",
+        "It means the person has stopped praying properly"
+      ],
+      "correctAnswer": "It is a purification God brings about, withdrawing sensible consolation so attachment shifts from the gifts to the Giver",
+      "explanation": "This reverses the natural reading. The one experiencing it concludes they have failed or been abandoned; John says the darkness is the action of God on a soul that has been attached to consolations rather than to him. The distinction from ordinary dryness or from depression is exactly what a director is for.",
+      "hint": "Ask who is doing something in the night, on his account.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2712"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-010",
+      "topic": "prayer",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each school of spirituality to its characteristic emphasis.",
+      "pairs": [
+        {
+          "left": "Carmelite",
+          "right": "Interior ascent, purification, and infused contemplation"
+        },
+        {
+          "left": "Ignatian",
+          "right": "Imaginative engagement with Scripture and discernment of spirits"
+        },
+        {
+          "left": "Benedictine",
+          "right": "Lectio divina within a rhythm of ordered common prayer and work"
+        },
+        {
+          "left": "Franciscan",
+          "right": "Poverty, creation, and the humanity of Christ as the way in"
+        }
+      ],
+      "explanation": "These are complementary routes rather than rival systems, and the tradition assumes people differ in which one fits. Insisting everyone pray in one manner is a good way to convince someone with a different temperament that they cannot pray at all.",
+      "hint": "One is imaginative, one ascetical and interior, one liturgical and rhythmic, one incarnational.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2683"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2693"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-011",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "In Ignatian discernment, what distinguishes true spiritual consolation from mere good feeling?",
+      "choices": [
+        "Consolation draws the person toward God, faith, hope and love, and leaves peace; a good feeling that draws toward self-absorption or away from God is not consolation whatever it feels like",
+        "Consolation is always more intense than ordinary happiness",
+        "Any pleasant feeling during prayer is consolation",
+        "Consolation can only occur during formal prayer"
+      ],
+      "correctAnswer": "Consolation draws the person toward God, faith, hope and love, and leaves peace; a good feeling that draws toward self-absorption or away from God is not consolation whatever it feels like",
+      "explanation": "The test is direction, not intensity. This matters because the enemy can offer something that feels excellent while drawing a person away \u2014 which is why discernment attends to where a movement leads rather than to how strong it is.",
+      "hint": "Ask what the movement is pulling you toward, not how good it feels.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2847"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-012",
+      "topic": "prayer",
+      "level": 20,
+      "type": "multiple_choice",
+      "difficultyElo": 2275,
+      "prompt": "Ignatius describes desolation as darkness, turmoil, and being drawn toward the low and earthly. What are the three classic reasons he gives for God permitting it?",
+      "choices": [
+        "Our own negligence; testing to see how we act without consolation; and to teach that consolation is a gift, not something we produce",
+        "Punishment, abandonment, and the withdrawal of grace",
+        "Illness, fatigue, and external circumstance alone",
+        "It is never permitted by God"
+      ],
+      "correctAnswer": "Our own negligence; testing to see how we act without consolation; and to teach that consolation is a gift, not something we produce",
+      "explanation": "Only the first of the three is the person's fault, which already corrects the usual assumption. The third is the one that reframes everything: someone who has never lost consolation may quietly believe they generated it. Losing it teaches otherwise, and that lesson cannot be taught while it is present.",
+      "hint": "One reason is the person's doing; two are God's teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2847"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-013",
+      "topic": "prayer",
+      "level": 20,
+      "type": "true_false",
+      "difficultyElo": 2225,
+      "prompt": "True or False: The Church teaches that trial and temptation are the same thing, since both involve difficulty.",
+      "correctAnswer": false,
+      "explanation": "False, and the Catechism says the Holy Spirit makes us discern between the two. A trial is necessary for the growth of the inner man and leads to life; temptation leads toward sin and death. They can feel identical from inside, which is precisely why discernment is needed rather than mere endurance.",
+      "hint": "They differ not in how hard they are but in where they lead.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2847"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l20-014",
+      "topic": "prayer",
+      "level": 20,
+      "type": "matching_pairs",
+      "difficultyElo": 2315,
+      "prompt": "Match each counsel for a time of desolation to its reason.",
+      "pairs": [
+        {
+          "left": "Change nothing decided in consolation",
+          "right": "Desolation makes abandonment look like realism"
+        },
+        {
+          "left": "Increase prayer rather than reduce it",
+          "right": "The impulse to withdraw is the thing to resist"
+        },
+        {
+          "left": "Speak to someone",
+          "right": "Secrecy is where discouragement grows strongest"
+        },
+        {
+          "left": "Remember consolation will return",
+          "right": "Desolation presents itself as permanent, and is not"
+        }
+      ],
+      "explanation": "Every one of these runs against what desolation itself suggests, which is the point. The counsels are not techniques for feeling better; they are a way of not making decisions in the dark that you would not make in the light.",
+      "hint": "Notice that each counsel is the opposite of what the state inclines you to do.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2733"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2690"
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-001",
+      "topic": "prayer",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "The previous level named several real, historical schools of spirituality -- Teresa, John of the Cross, Ignatius, Th\u00e9r\u00e8se. A further, real spiritual master, St. Francis de Sales, taught a distinctive real, practical emphasis in his Introduction to the Devout Life. What was it?",
+      "choices": [
+        "That genuine devotion is possible within any ordinary state of life -- a layperson, a soldier, a shopkeeper -- not reserved to religious alone",
+        "That real, genuine devotion is actually possible only for monks and religious in a real, cloistered setting",
+        "That real, ordinary daily life actually has no bearing whatsoever on genuine, spiritual devotion",
+        "That a real, devout life actually requires abandoning one's own, ordinary work and family responsibilities entirely"
+      ],
+      "correctAnswer": "That genuine devotion is possible within any ordinary state of life -- a layperson, a soldier, a shopkeeper -- not reserved to religious alone",
+      "explanation": "This is Francis de Sales' own real, distinctive contribution -- genuine devotion is possible within any ordinary, real state of life, not reserved to monks and religious, extending this topic's own real journey to a further, real, historical voice.",
+      "hint": "Consider what real, distinctive emphasis Francis de Sales actually brought to the tradition of Christian spirituality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-002",
+      "topic": "prayer",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: St. Francis de Sales taught that real, genuine devotion is possible within any ordinary, real state of life, not reserved to monks and religious alone.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, distinctive teaching matters -- Francis de Sales' own real contribution was showing devotion's own genuine accessibility within ordinary, real life, whatever one's actual state.",
+      "hint": "Recall this level's own real point about Francis de Sales' own distinctive teaching.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-003",
+      "topic": "prayer",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "How does Francis de Sales' own real, distinctive emphasis actually connect to this app's own earlier, real teaching on the family as the 'domestic church'?",
+      "choices": [
+        "Both name the same truth -- ordinary family and daily life is itself a real place where prayer is learned and lived",
+        "The two actually have no real, meaningful connection to each other at all",
+        "Francis de Sales' own real teaching actually contradicts the Church's own teaching on the family as the domestic church",
+        "The family's own real role as domestic church actually applies only to formal, liturgical prayer, never to personal, real devotion"
+      ],
+      "correctAnswer": "Both name the same truth -- ordinary family and daily life is itself a real place where prayer is learned and lived",
+      "explanation": "This is a real, direct connection -- both Francis de Sales' own teaching and this app's own earlier real citation on the domestic church name the same, real truth: ordinary life is itself a genuine place devotion is actually lived, not a distraction from it.",
+      "hint": "Recall this app's own earlier real citation on the family as the first, real place of education in prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-004",
+      "topic": "prayer",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: Francis de Sales' own real teaching and this app's own earlier real teaching on the family as domestic church both name ordinary life as a genuine, real place devotion is actually lived.",
+      "correctAnswer": true,
+      "explanation": "True, and naming this real connection matters -- both point to the same, real, underlying truth about ordinary life's own genuine, spiritual significance.",
+      "hint": "Recall this app's own earlier real citation on the family as the first, real place of education in prayer.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-005",
+      "topic": "prayer",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "Someone feels their own, ordinary, busy life -- work, family, few quiet moments -- actually disqualifies them from real, genuine holiness or devotion. What is the real, honest, Salesian response?",
+      "choices": [
+        "No state of life disqualifies genuine devotion -- holiness is meant to be lived within one's own ordinary circumstances, not postponed",
+        "This person is actually correct -- genuine devotion actually requires leaving behind one's own, ordinary work and family responsibilities entirely",
+        "Real, genuine holiness is actually reserved only for those in a formal, real, religious vocation",
+        "This concern actually has no honest, real, Salesian response available at all"
+      ],
+      "correctAnswer": "No state of life disqualifies genuine devotion -- holiness is meant to be lived within one's own ordinary circumstances, not postponed",
+      "explanation": "This directly applies Francis de Sales' own real, distinctive teaching -- no ordinary state of life disqualifies genuine devotion, since holiness is meant to be lived within one's own, real, actual circumstances, not postponed.",
+      "hint": "Recall this level's own real point about Francis de Sales' own distinctive teaching on devotion in any state of life.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-006",
+      "topic": "prayer",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: By Francis de Sales' own real teaching, genuine holiness is meant to be lived within one's own, ordinary, real circumstances, not postponed until a more spiritually convenient life arrives.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, encouraging point closes this level honestly -- no ordinary state of life disqualifies genuine devotion, exactly Francis de Sales' own real, distinctive teaching.",
+      "hint": "Recall this level's own real point about holiness being lived within one's own actual, ordinary circumstances.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-007",
+      "topic": "prayer",
+      "level": 21,
+      "type": "matching_pairs",
+      "difficultyElo": 2390,
+      "prompt": "Match each fact about a further, real spiritual master, St. Francis de Sales, to what it actually means.",
+      "pairs": [
+        {
+          "left": "Francis de Sales' own real, distinctive teaching",
+          "right": "Genuine devotion is possible in any ordinary, real state of life"
+        },
+        {
+          "left": "Connection to \"the domestic church\"",
+          "right": "Both name ordinary life as a genuine, real place devotion is actually lived"
+        },
+        {
+          "left": "\"My own busy life disqualifies me\"",
+          "right": "No -- holiness is meant to be lived in one's own, real, actual circumstances"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Extends this topic's own real, historical journey to a further, real, honest voice"
+        }
+      ],
+      "explanation": "These four facts together extend the previous level's own real, named schools of spirituality to a further, real, practical, and genuinely accessible teacher.",
+      "hint": "Each row names one real, careful step in this level's own honest engagement with Francis de Sales.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-008",
+      "topic": "prayer",
+      "level": 21,
+      "type": "true_false",
+      "difficultyElo": 2300,
+      "prompt": "True or False: Having now engaged a further, real spiritual master, this topic's next level turns to its own capstone on lectio divina, the dark night, and infused contemplation.",
+      "correctAnswer": true,
+      "explanation": "True. Having engaged this further, real, honest voice, this topic's next level turns to its own capstone, drawing together lectio divina, the dark night, and infused contemplation.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-009",
+      "topic": "prayer",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "What real, general habit has this level added to the previous level's own real, named schools of spirituality?",
+      "choices": [
+        "Extending the same historical engagement to a further, honest voice, showing devotion's accessibility in ordinary life",
+        "Assuming every real, further spiritual master is automatically identical to those already named",
+        "Abandoning the previous level's own real, named schools of spirituality entirely",
+        "Assuming genuine devotion is actually reserved only for monks and religious, contrary to the tradition"
+      ],
+      "correctAnswer": "Extending the same historical engagement to a further, honest voice, showing devotion's accessibility in ordinary life",
+      "explanation": "This level's own real habit -- extending real, historical engagement to a further voice -- is exactly the same real discipline this topic has practiced since its own earlier bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, named schools of spirituality.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    },
+    {
+      "id": "prayer-l21-010",
+      "topic": "prayer",
+      "level": 21,
+      "type": "multiple_choice",
+      "difficultyElo": 2350,
+      "prompt": "Given this level's own real engagement with St. Francis de Sales, what does the next level in this topic turn to?",
+      "choices": [
+        "This topic's own capstone on lectio divina, the dark night, and infused contemplation",
+        "A complete repeat of this same level's material about Francis de Sales",
+        "A jump backward to the Our Father, skipping over everything learned since",
+        "A subject entirely unrelated to prayer or real, spiritual life"
+      ],
+      "correctAnswer": "This topic's own capstone on lectio divina, the dark night, and infused contemplation",
+      "explanation": "This is exactly what the next level in this topic covers -- drawing everything this topic has built into its own capstone, real, integrating content.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2685",
+          "quote": "The Christian family is the first place of education in prayer... the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer."
+        }
+      ]
+    }
+  ]
+}
