@@ -614,8 +614,59 @@ and a new bridging level after each old level.
 | 22 | Capstone: real textual-critical questions, honestly resolved `[L10]` | 21 |
 | 23 | Capstone: Scripture as a real letter from God, addressed to the reader personally `[NEW]` | 22 |
 
-Sacred-scripture goes next, since its live bank is already close to a
-real, natural order and needs the least invention of any remaining
+**Done, Sep 23, 2026: Sacred-scripture (23 levels), following Church
+History, the Old Testament, Saints, Councils, Heresies, Dogmas-and-
+doctrine, Metaphysics, Apologetics, and Liturgy-and-mass.** Drafted,
+verified, committed. Kept the live bank's own already-natural order
+fully intact, adding three new gentler foundational levels and a new
+bridging level after each old level, closing with a new capstone naming
+Scripture as a real letter from God addressed to the reader personally.
+
+---
+
+## Worked example -- Answering-objections, 23 levels (N=10 -> 2*10+3=23)
+
+Answering-objections is scenario-based per Andrew's own confirmed
+standard, paired with Apologetics in this app's own hard-gated list.
+Its live bank is already unusually mature and well-sequenced by real
+difficulty -- common objections -> science and faith -> the problem of
+evil -> historical scandals -> advanced dialogue principles -> precise
+philosophical vocabulary (theodicy vs. defense, Kalam) -> pastoral,
+sensitive real scenarios (abuse, limbo, grief) -> the logical problem
+of evil and salvation outside the Church -> named theologians and real
+debated positions (Hick, von Balthasar) -> a real capstone. The journey
+below keeps that order intact, adding three new gentler foundational
+levels below the current floor and a new bridging level after each old
+level, deepening or extending its content rather than repeating it.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What makes a real objection different from a simple misunderstanding `[NEW]` | nothing assumed |
+| 2 | Real, everyday settings these hard conversations actually happen in `[NEW]` | 1 |
+| 3 | Listening first -- a real, practical step before ever answering `[NEW]` | 2 |
+| 4 | Common real objections, answered `[L1]` | 3 |
+| 5 | Recognizing which real, common objection a person is actually raising `[NEW bridging]` | 4 |
+| 6 | Science and faith objections `[L2]` | 5 |
+| 7 | A further real, common science-and-faith objection, answered `[NEW bridging]` | 6 |
+| 8 | The problem of evil `[L3]` | 7 |
+| 9 | The free-will defense, more deeply considered `[NEW bridging]` | 8 |
+| 10 | Historical scandals, answered `[L4]` | 9 |
+| 11 | A further real historical scandal, answered `[NEW bridging]` | 10 |
+| 12 | Advanced dialogue principles `[L5]` | 11 |
+| 13 | Applying these principles to a genuinely hard real case `[NEW bridging]` | 12 |
+| 14 | Precise philosophical vocabulary -- theodicy, defense, the Kalam argument `[L6]` | 13 |
+| 15 | Why this precision matters pastorally, not just academically `[NEW bridging]` | 14 |
+| 16 | Pastoral, sensitive real scenarios `[L7]` | 15 |
+| 17 | A further sensitive, real pastoral scenario `[NEW bridging]` | 16 |
+| 18 | The logical problem of evil and salvation outside the Church `[L8]` | 17 |
+| 19 | Why the Church holds both real teachings together without contradiction `[NEW bridging]` | 18 |
+| 20 | Named theologians and real, debated positions `[L9]` | 19 |
+| 21 | Engaging a further real, debated theological position `[NEW bridging]` | 20 |
+| 22 | Capstone: real, hard conversations, practiced `[L10]` | 21 |
+| 23 | Capstone: real love as the true measure of a real answer `[NEW]` | 22 |
+
+Answering-objections goes next, since it is hard-gated and its live
+bank is already the most mature and well-sequenced of any remaining
 topic.
 
 ---
