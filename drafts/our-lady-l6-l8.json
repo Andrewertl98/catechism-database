@@ -1,0 +1,795 @@
+{
+  "_comment": "Our-lady levels 6-8: four Marian dogmas (remapped old L2), why each dogma is ultimately about Christ, Old Testament typology (remapped old L3)",
+  "topic": "our-lady",
+  "questions": [
+    {
+      "id": "our-lady-l6-001",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The dogma of the Immaculate Conception teaches that Mary was preserved from original sin from what moment?",
+      "choices": [
+        "The first instant of her own conception",
+        "The Annunciation",
+        "Her birth",
+        "The birth of Christ"
+      ],
+      "correctAnswer": "The first instant of her own conception",
+      "explanation": "The dogma concerns Mary's own conception, not Christ's \u2014 the single most common confusion about it. Pius IX defined it in 1854: she was preserved free from all stain of original sin from the first instant, by a singular grace, and in view of the merits of Christ.",
+      "hint": "The name of the dogma tells you the moment; the confusion is over whose conception is meant.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-002",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: The Immaculate Conception means Mary did not need to be redeemed by Christ.",
+      "correctAnswer": false,
+      "explanation": "False, and Ineffabilis Deus is explicit about it: she was preserved 'in view of the merits of Jesus Christ.' She is redeemed more completely than anyone else, not less \u2014 saved by being kept from the pit rather than lifted out of it. Mary herself calls God 'my savior' in the Magnificat.",
+      "hint": "The defining document says the grace was granted in view of something; ask in view of what.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "in view of the merits of Jesus Christ, the Savior of the human race"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:47",
+          "quote": "my spirit rejoices in God my savior"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-003",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The title 'Theotokos,' defined at the Council of Ephesus in 431, means:",
+      "choices": [
+        "God-bearer, or Mother of God",
+        "Ever-virgin",
+        "Queen of Heaven",
+        "Full of grace"
+      ],
+      "correctAnswer": "God-bearer, or Mother of God",
+      "explanation": "Ephesus defined the title against Nestorius, who preferred 'Christotokos,' Mother of Christ. The point of the definition is not primarily about Mary but about her Son: whoever was born of her was one divine Person, so she is truly the mother of God the Son made man.",
+      "hint": "The Greek splits into 'God' and 'bearer.'",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God (for she bore in a fleshly way the Word of God become flesh), let him be anathema."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-004",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: Calling Mary 'Mother of God' means the Church teaches that she is the origin of the divine nature.",
+      "correctAnswer": false,
+      "explanation": "False, and this is exactly the objection Ephesus anticipated. A mother is mother of a person, not of a nature \u2014 no human mother originates her child's soul either. Mary is mother of the Person of the Word, who is God, and who took his human nature from her.",
+      "hint": "Ask what any mother is the mother of: a nature, or a person?",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Chalcedon (451)",
+          "quote": "begotten before the ages from the Father as regards his divinity, and in the last days the same, for us and for our salvation, from Mary the virgin, the God-bearer, as regards his humanity"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-005",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "The dogma of the Assumption, defined by Pope Pius XII in 1950, teaches that Mary:",
+      "choices": [
+        "Was taken up body and soul into heavenly glory at the end of her earthly life",
+        "Did not die and was never on earth after Pentecost",
+        "Ascended into heaven by her own power",
+        "Appeared to the apostles after her death"
+      ],
+      "correctAnswer": "Was taken up body and soul into heavenly glory at the end of her earthly life",
+      "explanation": "Munificentissimus Deus defines that she was assumed body and soul into heavenly glory. Note the careful wording 'having completed the course of her earthly life' \u2014 the definition deliberately does not settle whether she died first, a question the Church has left open.",
+      "hint": "The word 'assumed' is passive on purpose: she is taken up rather than rising by her own power.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)",
+          "quote": "the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-006",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "What distinguishes Christ's Ascension from Mary's Assumption?",
+      "choices": [
+        "Christ ascends by his own divine power; Mary is taken up by God's power",
+        "Christ's happened bodily, Mary's only spiritually",
+        "One is defined dogma and the other is private opinion",
+        "There is no real distinction between them"
+      ],
+      "correctAnswer": "Christ ascends by his own divine power; Mary is taken up by God's power",
+      "explanation": "The grammar carries the theology. Christ ascends \u2014 active \u2014 because he is God. Mary is assumed \u2014 passive \u2014 because she is a creature receiving a gift. Both are bodily and both are taught by the Church; the difference is who is acting.",
+      "hint": "Compare the two words themselves: one is something you do, the other something done to you.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Acts 1:9",
+          "quote": "When he had said this, as they were looking on, he was lifted up, and a cloud took him from their sight."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-007",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "fill_blank",
+      "difficultyElo": 1285,
+      "prompt": "The dogma of Mary's perpetual virginity holds that she was a virgin before, during, and ____ the birth of Christ.",
+      "correctAnswer": "after",
+      "explanation": "The traditional formula is 'ever-virgin' \u2014 ante partum, in partu, post partum. The Lateran Council of 649 stated it in exactly those three moments, and it is professed in the Creed's 'born of the Virgin Mary.'",
+      "hint": "The formula names three moments in sequence; you have the first two.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)",
+          "quote": "the holy Ever-Virgin and immaculate Mary... conceived without seed... and incorruptibly bore him, her virginity remaining equally inviolate after the birth"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-008",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "true_false",
+      "difficultyElo": 1175,
+      "prompt": "True or False: All four Marian dogmas were defined by popes in the nineteenth and twentieth centuries.",
+      "correctAnswer": false,
+      "explanation": "False. Only two were: the Immaculate Conception (1854) and the Assumption (1950). Theotokos was defined by the Council of Ephesus in 431, and perpetual virginity was taught by councils in the early Church, notably the Lateran Council of 649. Two are ancient conciliar definitions, two are modern papal ones.",
+      "hint": "Two of the four are more than a thousand years older than the other two.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "council",
+          "reference": "Lateran Council (649)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-009",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "multiple_choice",
+      "difficultyElo": 1225,
+      "prompt": "Why does the Church insist that the Marian dogmas are ultimately statements about Christ?",
+      "choices": [
+        "Because each one protects something true about who Christ is and what he did",
+        "Because Mary is not important enough to define doctrine about",
+        "Because the dogmas were originally written about Christ and later applied to Mary",
+        "Because Marian doctrine is a matter of private devotion only"
+      ],
+      "correctAnswer": "Because each one protects something true about who Christ is and what he did",
+      "explanation": "Theotokos guards the unity of Christ's person. The Immaculate Conception guards the completeness of his redemption. The Assumption shows what his resurrection means for a redeemed creature. Marian doctrine has always developed as a defense of Christology, never in competition with it.",
+      "hint": "Ask what each dogma would leave unprotected about Christ if it were denied.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 65 (1964)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l6-010",
+      "topic": "our-lady",
+      "level": 6,
+      "type": "matching_pairs",
+      "difficultyElo": 1265,
+      "prompt": "Match each Marian dogma to what it affirms.",
+      "pairs": [
+        {
+          "left": "Theotokos",
+          "right": "She is truly the Mother of God the Son made man"
+        },
+        {
+          "left": "Immaculate Conception",
+          "right": "Preserved from original sin from her own conception"
+        },
+        {
+          "left": "Perpetual Virginity",
+          "right": "Virgin before, during, and after the birth of Christ"
+        },
+        {
+          "left": "The Assumption",
+          "right": "Taken body and soul into heavenly glory"
+        }
+      ],
+      "explanation": "These four are the whole of what the Church has dogmatically defined about Mary. Everything else \u2014 her titles, the apparitions, the devotions \u2014 is real but does not carry the same weight of definition.",
+      "hint": "Two of these concern her conception and her body; two concern her motherhood and her virginity.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Council of Ephesus (431)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l7-001",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "The previous level covered the four defined Marian dogmas. Ineffabilis Deus, defining the Immaculate Conception, actually says Mary was preserved from sin 'in view of the merits of Jesus Christ.' What does this real, specific phrase actually show about the dogma's own, ultimate, real focus?",
+      "choices": [
+        "Even Mary's own preservation from sin is credited to Christ's saving merits, not to any independent, Marian achievement",
+        "This real, phrase actually shows the Immaculate Conception has actually no genuine connection to Christ at all",
+        "This real, phrase actually means Mary earned her own real preservation from sin through her own, independent, real merit",
+        "The real, phrase 'merits of Jesus Christ' actually has no real, theological significance within the dogma's own text"
+      ],
+      "correctAnswer": "Even Mary's own preservation from sin is credited to Christ's saving merits, not to any independent, Marian achievement",
+      "explanation": "This is a real, important, Christological point -- even Mary's own real, unique preservation from sin is actually credited to Christ's own saving merits, not to any independent, real, Marian achievement.",
+      "hint": "Recall the previous level's own real citation from Ineffabilis Deus, and consider whose own real merits it actually credits.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-002",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: The Immaculate Conception credits Mary's own real preservation from sin to Christ's own saving merits, not to any independent, real achievement of her own.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, Christological point matters -- even this most, uniquely Marian dogma is actually, ultimately about Christ's own real, saving work.",
+      "hint": "Recall this level's own real point about whose own merits the Immaculate Conception actually credits.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-003",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Munificentissimus Deus, defining the Assumption, actually describes it as a preview of what real, further, Christian reality?",
+      "choices": [
+        "The general, real resurrection of the body, actually promised to every real, faithful believer at the end of real, human history",
+        "This real, dogma actually has no genuine, further connection to any real, wider, Christian doctrine at all",
+        "The Assumption actually applies exclusively to Mary, with no real, wider, theological significance for anyone else",
+        "The Assumption actually replaces the real, general resurrection, making it actually, genuinely unnecessary"
+      ],
+      "correctAnswer": "The general, real resurrection of the body, actually promised to every real, faithful believer at the end of real, human history",
+      "explanation": "This is a further, real, Christological connection -- the Assumption actually previews the general resurrection promised to every faithful believer, making Mary's own real destiny a real, hopeful sign of what awaits Christ's own faithful.",
+      "hint": "Consider what real, further, hopeful reality Munificentissimus Deus actually connects the Assumption to.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)",
+          "quote": "the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-004",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: The Assumption actually previews the general resurrection of the body, promised to every faithful believer.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, further connection matters -- Mary's own real destiny becomes a genuinely hopeful sign of what awaits every faithful believer, exactly the kind of real, Christ-centered hope this dogma actually offers.",
+      "hint": "Recall this level's own real point about what the Assumption actually previews.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus (1950)",
+          "quote": "the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-005",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Taking all four Marian dogmas together -- Theotokos, the Immaculate Conception, the Assumption, perpetual virginity -- what real, single, underlying pattern actually connects them?",
+      "choices": [
+        "Each dogma, in its own way, protects or reveals something true about Christ himself, not Mary considered in isolation",
+        "The four real dogmas actually have no genuine, underlying, connecting pattern at all",
+        "Each real dogma actually exists to elevate Mary's own real status independently of any real, connection to Christ",
+        "The four real dogmas actually contradict each other, with no real, coherent, underlying pattern possible"
+      ],
+      "correctAnswer": "Each dogma, in its own way, protects or reveals something true about Christ himself, not Mary considered in isolation",
+      "explanation": "This is the real, single, underlying pattern this level's own two, real examples have already shown -- each dogma, in its own way, protects or reveals a real truth about Christ, not Mary considered in isolation.",
+      "hint": "Recall this level's own two real examples -- the Immaculate Conception and the Assumption -- and consider what real pattern they actually share.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-006",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Each of the four Marian dogmas, in its own way, actually protects or reveals a real truth about Christ, not Mary considered in isolation.",
+      "correctAnswer": true,
+      "explanation": "True, and this real, underlying pattern matters -- it's exactly the same real point this topic's own earlier level on why the Church honors Mary already began to establish.",
+      "hint": "Recall this level's own real point about the single, underlying pattern connecting all four Marian dogmas.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-007",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "matching_pairs",
+      "difficultyElo": 1340,
+      "prompt": "Match each fact about why each Marian dogma is ultimately about Christ to what it actually means.",
+      "pairs": [
+        {
+          "left": "The Immaculate Conception",
+          "right": "Credits Mary's preservation from sin to Christ's own saving merits"
+        },
+        {
+          "left": "The Assumption",
+          "right": "Previews the general resurrection promised to every faithful believer"
+        },
+        {
+          "left": "The single, underlying pattern",
+          "right": "Each dogma protects or reveals a real truth about Christ, not Mary in isolation"
+        },
+        {
+          "left": "Why this level's own approach matters",
+          "right": "Deepens the previous level's own real teaching with specific, real examples"
+        }
+      ],
+      "explanation": "These four facts together deepen the previous level's own real teaching on the four Marian dogmas, showing their own real, Christological payoff concretely.",
+      "hint": "Each row names one real, careful fact about a dogma's own real, Christological focus.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-008",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "true_false",
+      "difficultyElo": 1250,
+      "prompt": "True or False: Having now shown why each Marian dogma is ultimately about Christ, this topic's next level turns to Old Testament typology.",
+      "correctAnswer": true,
+      "explanation": "True. Having deepened this topic's own real, Christological focus, this topic's next level turns to Old Testament typology.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-009",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "What real, general habit has this level added to the previous level's own real, four Marian dogmas?",
+      "choices": [
+        "Showing, with specific, real, concrete examples, exactly how each dogma actually protects or reveals a real truth about Christ",
+        "Assuming the four real, Marian dogmas actually have no real, meaningful, underlying, connecting pattern",
+        "Replacing the previous level's own real content with an entirely unrelated, real subject",
+        "Assuming the Marian dogmas actually exist to elevate Mary's own real status independently of Christ"
+      ],
+      "correctAnswer": "Showing, with specific, real, concrete examples, exactly how each dogma actually protects or reveals a real truth about Christ",
+      "explanation": "This level's own real habit -- showing concretely how each dogma serves Christology -- is exactly the same real discipline this topic will keep practicing through its own later, bridging levels.",
+      "hint": "Consider what this level actually did with the previous level's own real, four Marian dogmas.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l7-010",
+      "topic": "our-lady",
+      "level": 7,
+      "type": "multiple_choice",
+      "difficultyElo": 1300,
+      "prompt": "Given this level's own real, Christological focus on the Marian dogmas, what does the next level in this topic turn to?",
+      "choices": [
+        "Old Testament typology",
+        "A complete repeat of this same level's material about the Marian dogmas",
+        "A jump ahead to Marian titles, skipping over everything in between",
+        "A subject entirely unrelated to Mary or her own real, theological significance"
+      ],
+      "correctAnswer": "Old Testament typology",
+      "explanation": "This is exactly what the next level in this topic covers -- moving from the dogmas' own real, Christological focus to their own, deeper, real, Old Testament roots.",
+      "hint": "This is exactly what the next level in this topic covers.",
+      "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+        }
+      ]
+    },
+    {
+      "id": "our-lady-l8-001",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "In Luke's account of the Visitation, Elizabeth asks, 'How does this happen to me, that the mother of my Lord should come to me?' Which Old Testament scene does this deliberately echo?",
+      "choices": [
+        "David bringing the Ark of the Covenant to Jerusalem",
+        "Solomon dedicating the Temple",
+        "Moses receiving the Law at Sinai",
+        "Elijah on Mount Carmel"
+      ],
+      "correctAnswer": "David bringing the Ark of the Covenant to Jerusalem",
+      "explanation": "David asks almost the same question of the Ark: 'How can the ark of the Lord come to me?' Luke is building a deliberate parallel \u2014 Mary carrying Christ is the new Ark carrying the presence of God.",
+      "hint": "Someone else in Scripture asks nearly this exact question, and the answer he is asking about is an object, not a person.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Luke 1:43",
+          "quote": "And how does this happen to me, that the mother of my Lord should come to me?"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9",
+          "quote": "David feared the Lord that day and said, 'How can the ark of the Lord come to me?'"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-002",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: Both the Ark of the Covenant in 2 Samuel and Mary in Luke's Gospel remain for a period of three months before returning home.",
+      "correctAnswer": true,
+      "explanation": "True, and it is one of several details Luke lines up. The Ark stays three months in the house of Obed-edom; Mary stays about three months with Elizabeth. David also 'leaps' before the Ark, as John leaps in the womb.",
+      "hint": "Count the time each one stays, in the house of someone in the hill country of Judah.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:11",
+          "quote": "The ark of the Lord remained in the house of Obed-edom the Gittite for three months."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:56",
+          "quote": "Mary remained with her about three months and then returned to her home."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-003",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "The Ark of the Covenant contained the tablets of the Law, a jar of manna, and Aaron's staff. Why do the Fathers see this as a figure of Mary?",
+      "choices": [
+        "She carried the Word made flesh, the true bread from heaven, and the great high priest",
+        "She was made of gold, as the Ark was overlaid with gold",
+        "She was kept in the Temple as a child",
+        "She was carried by the Levites as the Ark was"
+      ],
+      "correctAnswer": "She carried the Word made flesh, the true bread from heaven, and the great high priest",
+      "explanation": "The Ark held the Law written on stone, the manna, and the staff of the priest. Mary held in her womb the Word himself, the living Bread come down from heaven, and the eternal High Priest \u2014 the reality each of those objects only pointed toward.",
+      "hint": "Take the three contents one at a time and ask what each one prefigures in Christ.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Hebrews 9:4",
+          "quote": "in which were the gold jar containing the manna, the staff of Aaron that had sprouted, and the tablets of the covenant"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 6:51",
+          "quote": "I am the living bread that came down from heaven."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-004",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "fill_blank",
+      "difficultyElo": 1435,
+      "prompt": "Genesis 3:15, in which God tells the serpent he will put enmity between it and the woman and between their offspring, is traditionally called the ____ \u2014 the first announcement of the Gospel.",
+      "correctAnswer": "protoevangelium",
+      "explanation": "The word means simply 'first gospel.' The Church reads the woman of Genesis 3:15 in light of Mary and her offspring in light of Christ \u2014 the promise of a victory over the serpent, made at the very moment of the fall.",
+      "hint": "Greek: 'proto' for first, and the same root as 'evangelist.'",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15",
+          "quote": "I will put enmity between you and the woman, and between your offspring and hers; He will strike at your head, while you strike at his heel."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-005",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "Early Fathers such as St. Irenaeus called Mary the 'New Eve.' What is the parallel they draw?",
+      "choices": [
+        "Eve's disobedience at a tree brought death; Mary's obedience brought the author of life",
+        "Both women were created without a human mother",
+        "Both were tempted by the serpent and refused",
+        "Eve was the mother of Cain and Mary the mother of Abel's line"
+      ],
+      "correctAnswer": "Eve's disobedience at a tree brought death; Mary's obedience brought the author of life",
+      "explanation": "Irenaeus put it memorably: the knot of Eve's disobedience was loosed by Mary's obedience. It is the same logic Paul uses in calling Christ the new Adam \u2014 the pattern of the fall run in reverse.",
+      "hint": "The comparison is between two answers given by two women, not between their circumstances.",
+      "citations": [
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies III.22.4",
+          "quote": "the knot of Eve's disobedience was loosed by the obedience of Mary"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 56 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-006",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "In the kingdom of Judah, the 'gebirah' or queen mother held a real office at court. Why does this matter for understanding Mary?",
+      "choices": [
+        "The queen in Davidic Israel was the king's mother, not his wife, and she interceded with him for the people",
+        "It shows that queenship was purely honorary and carried no authority",
+        "It proves Mary was of royal blood on her mother's side",
+        "It explains why Jesus called her 'woman' rather than 'mother'"
+      ],
+      "correctAnswer": "The queen in Davidic Israel was the king's mother, not his wife, and she interceded with him for the people",
+      "explanation": "Solomon has a throne brought in for Bathsheba at his right hand, and she comes to him bearing a petition. If Christ is the Davidic king, the office of queen mother belongs to his mother \u2014 which is what the Church means by calling Mary Queen, and why intercession is bound up in the title.",
+      "hint": "Look at who sits at Solomon's right hand in 1 Kings, and what she is doing there.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Kings 2:19",
+          "quote": "The king stood up to meet her and paid her homage. Then he sat down upon his throne, and a throne was provided for the king's mother, who sat at his right."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:32-33",
+          "quote": "the Lord God will give him the throne of David his father, and he will rule over the house of Jacob forever"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-007",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "true_false",
+      "difficultyElo": 1325,
+      "prompt": "True or False: The woman clothed with the sun in Revelation 12 has been read by the Church as referring both to Mary and to the Church herself.",
+      "correctAnswer": true,
+      "explanation": "True. Catholic reading holds both together rather than choosing: the woman who bears the male child who will rule the nations is Mary, and she is also the People of God bringing forth Christ into the world. Scripture's images routinely carry more than one true meaning.",
+      "hint": "The same chapter later calls the rest of her offspring those who 'keep the commandments of God and bear witness to Jesus' -- a description of every believer, not of Mary alone.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 12:1",
+          "quote": "A great sign appeared in the sky, a woman clothed with the sun, with the moon beneath her feet, and on her head a crown of twelve stars."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 63-65 (1964)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Revelation 12:17",
+          "quote": "the rest of her offspring, those who keep the commandments of God and bear witness to Jesus"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-008",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "In Revelation 11:19 the Ark of the Covenant is seen in God's temple, and the very next verse describes the woman clothed with the sun. Why do Catholic readers treat that sequence as significant?",
+      "choices": [
+        "The original text has no chapter break there, so the Ark and the woman are presented together",
+        "It proves the physical Ark was recovered in the first century",
+        "It shows the woman is a symbol of the Temple building",
+        "The two images are unrelated and the order is coincidental"
+      ],
+      "correctAnswer": "The original text has no chapter break there, so the Ark and the woman are presented together",
+      "explanation": "Chapter and verse divisions were added many centuries after the text was written. Read continuously, John sees the Ark of the Covenant and immediately describes a woman bearing a son \u2014 the same Ark-and-Mary identification Luke makes in the Visitation.",
+      "hint": "Ask when chapter numbers were added to the Bible, relative to when Revelation was written.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "Revelation 11:19",
+          "quote": "Then God's temple in heaven was opened, and the ark of his covenant could be seen in the temple."
+        },
+        {
+          "type": "scripture",
+          "reference": "Revelation 12:1-2"
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-009",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "multiple_choice",
+      "difficultyElo": 1375,
+      "prompt": "What does it mean to read Mary 'typologically' in the Old Testament?",
+      "choices": [
+        "Persons and things in Israel's history genuinely prefigure what God would later do in her",
+        "The Old Testament authors consciously intended to write about Mary",
+        "Any Old Testament woman can be treated as a symbol of Mary",
+        "The Old Testament passages are allegories with no historical basis"
+      ],
+      "correctAnswer": "Persons and things in Israel's history genuinely prefigure what God would later do in her",
+      "explanation": "A type is not a code to be cracked or a meaning invented after the fact. The Ark and the queen mother were real things with real functions, and God shaped that history so it pointed forward. The reality does not cancel the figure; it fulfills it.",
+      "hint": "The question is whether the Old Testament realities are historically real, invented, or merely symbolic.",
+      "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 16 (1965)",
+          "quote": "God, the inspirer and author of both Testaments, wisely arranged that the New Testament be hidden in the Old and the Old be made manifest in the New."
+        }
+      ],
+      "audit_status": "pending"
+    },
+    {
+      "id": "our-lady-l8-010",
+      "topic": "our-lady",
+      "level": 8,
+      "type": "matching_pairs",
+      "difficultyElo": 1415,
+      "prompt": "Match each Old Testament figure to what it prefigures about Mary.",
+      "pairs": [
+        {
+          "left": "The Ark of the Covenant",
+          "right": "She carries the real presence of God within her"
+        },
+        {
+          "left": "Eve",
+          "right": "A woman's answer at a tree, reversed by obedience"
+        },
+        {
+          "left": "The queen mother of Judah",
+          "right": "The king's mother holds an office of intercession"
+        },
+        {
+          "left": "The woman of Genesis 3:15",
+          "right": "Enmity with the serpent, and offspring who crushes it"
+        }
+      ],
+      "explanation": "Four different threads of Israel's history \u2014 worship, the fall, the monarchy, and the first promise \u2014 all converge on the same person. That convergence is the argument; no single one of them would carry it alone.",
+      "hint": "Each comes from a different part of Israel's story: the tabernacle, the garden, the court, and the first promise after the fall.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:9-11"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 3:15"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Kings 2:19"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 55 (1964)"
+        }
+      ],
+      "audit_status": "pending"
+    }
+  ]
+}
