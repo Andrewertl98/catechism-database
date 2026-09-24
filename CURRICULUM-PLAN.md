@@ -929,10 +929,76 @@ level numbers that would break once remapped.
 | 20 | Capstone: the Augustinian synthesis and the Second Council of Orange `[L9]` | 19 |
 | 21 | Capstone: the Fathers as living witnesses, a real, lifelong companionship `[NEW]` | 20 |
 
-Church-fathers goes next, following the same on-ramp pattern used
-throughout this session, since its own live bank already moves
-chronologically through its own earlier levels before turning
-pedagogical for its own real, integrating back half.
+**Done, Sep 24, 2026: Church-fathers (21 levels), following Church
+History, the Old Testament, Saints, Councils, Heresies,
+Dogmas-and-doctrine, Metaphysics, Apologetics, Liturgy-and-mass,
+Sacred-scripture, Answering-objections, Prayer, Church Latin, and
+Virtues-and-vices.** Drafted, verified, committed. Its own live bank
+moved chronologically through its own earlier levels (Apostolic
+Fathers through the East/West split) before turning pedagogical for
+its own real, integrating back half (Doctors, technical terms,
+objections, heresy premises, the Augustinian synthesis). Kept that
+order fully intact, adding 3 new, gentler foundational levels plus 8
+new bridging levels, each connecting a Father's own real teaching to
+today's lived Church or extending the previous level's own real
+method to a further, real example. Its own new final capstone names
+the Fathers as living witnesses, a genuine, lifelong companionship in
+the faith, not a closed, finished body of historical facts.
+
+---
+
+## Worked example -- Our-lady, 23 levels (N=10 -> 2*10+3=23)
+
+Our-lady's own live bank (10 levels) is already a genuine, real,
+pedagogical progression: Mary's own real, Gospel events (L1), the
+four defined Marian dogmas (L2), Old Testament typology (L3), further
+Gospel moments (L4), Marian titles (L5), approved apparitions (L6),
+prayers and devotions (L7), the councils and documents that actually
+defined the dogmas (L8), common objections to Marian doctrine,
+answered accurately (L9), and a real, integrating capstone on the
+liturgical calendar's own Marian solemnities and Mary as an
+"eschatological icon" of the Church (L10). This on-ramp keeps that
+real order fully intact, adding 3 new, gentler, truly beginner levels
+below the floor (who Mary actually is, why Catholics actually honor
+her, a first, real Marian prayer to actually pray this week) plus 9
+new bridging levels interleaved after each of L1 through L9, each
+turning general, real teaching into an actual, practical engagement
+or extending the previous level's own real content to a further,
+real example. Old L10's own capstone was checked for self-referential,
+level-count language and found clean -- it names "this whole topic"
+and "this topic" generically, with no specific level numbers that
+would break once remapped.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | Who Mary actually is, in the simplest possible terms `[NEW]` | nothing assumed |
+| 2 | Why Catholics actually honor Mary, in the simplest terms `[NEW]` | 1 |
+| 3 | A first, real Marian prayer to actually pray this week `[NEW]` | 2 |
+| 4 | Mary's own real, Gospel events `[L1]` | 3 |
+| 5 | Sitting with one real Gospel moment more slowly `[NEW bridging]` | 4 |
+| 6 | The four defined Marian dogmas `[L2]` | 5 |
+| 7 | Why each real dogma is ultimately about Christ `[NEW bridging]` | 6 |
+| 8 | Old Testament typology `[L3]` | 7 |
+| 9 | A further real Old Testament type engaged `[NEW bridging]` | 8 |
+| 10 | Further real Gospel moments `[L4]` | 9 |
+| 11 | A further real Gospel moment engaged `[NEW bridging]` | 10 |
+| 12 | Marian titles `[L5]` | 11 |
+| 13 | A further real Marian title engaged `[NEW bridging]` | 12 |
+| 14 | Approved apparitions `[L6]` | 13 |
+| 15 | A further real apparition engaged `[NEW bridging]` | 14 |
+| 16 | Prayers and devotions `[L7]` | 15 |
+| 17 | Practicing a further real Marian devotion `[NEW bridging]` | 16 |
+| 18 | The councils and documents that defined the dogmas `[L8]` | 17 |
+| 19 | A further real council or document engaged `[NEW bridging]` | 18 |
+| 20 | Common objections, answered accurately `[L9]` | 19 |
+| 21 | A further real objection answered accurately `[NEW bridging]` | 20 |
+| 22 | Capstone: the liturgical calendar and Mary as eschatological icon `[L10]` | 21 |
+| 23 | Capstone: Mary as the model of real, lived discipleship -- "do whatever he tells you" `[NEW]` | 22 |
+
+Our-lady goes next and is the final remaining topic in this entire,
+multi-session curriculum reorganization project -- once it is
+complete, every topic in `catechism-database` will have been
+reorganized into a genuine, real, learning journey.
 
 ---
 
