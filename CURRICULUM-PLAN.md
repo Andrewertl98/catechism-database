@@ -665,9 +665,82 @@ level, deepening or extending its content rather than repeating it.
 | 22 | Capstone: real, hard conversations, practiced `[L10]` | 21 |
 | 23 | Capstone: real love as the true measure of a real answer `[NEW]` | 22 |
 
-Answering-objections goes next, since it is hard-gated and its live
-bank is already the most mature and well-sequenced of any remaining
-topic.
+**Done, Sep 24, 2026: Answering-objections (23 levels), following
+Church History, the Old Testament, Saints, Councils, Heresies,
+Dogmas-and-doctrine, Metaphysics, Apologetics, Liturgy-and-mass, and
+Sacred-scripture.** Drafted, verified, committed. Its own real
+syllabus kept the live bank's already-natural order fully intact (10
+levels: common objections, science-and-faith, the problem of evil,
+historical scandals, advanced dialogue, precise vocabulary, pastoral
+scenarios, the logical problem of evil/salvation outside the Church,
+named theologians, capstone) and added 3 gentler foundational levels
+below the floor (objections vs. misunderstandings, real everyday
+settings, listening first) plus 10 new bridging levels interleaved
+after each old level, each deepening or extending its predecessor with
+a further real example rather than merely repeating it. The topic's
+own new final capstone names real love -- not technical accuracy or
+argumentative victory -- as the true, integrating measure every
+technique it teaches actually serves, closing a real, recurring,
+sixth appearance of this app's "settled conclusion held with
+legitimate diversity" pattern along the way (Apologetics,
+Dogmas-and-doctrine, Metaphysics, Liturgy-and-mass, Sacred-scripture,
+and now Answering-objections).
+
+---
+
+## Worked example -- Prayer, 23 levels (N=10 -> 2*10+3=23)
+
+Prayer's own live bank (10 levels) is already a genuine, real,
+pedagogical progression, not a chronological one -- exactly the shape
+Andrew asked for specifically for this topic. It moves from the
+Catechism's own basic definition and forms (L1), through the Our
+Father (L2), popular devotions like the Rosary (L3), the Liturgy of
+the Hours (L4), and a first, real introduction to contemplative prayer
+(L5) -- all genuinely attainable, ordinary, real practice -- into
+deeper Catechism citations on prayer's own real difficulties (L6),
+pastoral doubts and objections (L7), the Trinity and kataphatic/
+apophatic prayer (L8), named schools of spirituality (L9), and a real,
+integrating capstone on infused contemplation, the dark night, and
+lectio divina (L10) -- the "infused," ungraspable-by-technique end of
+the journey CLAUDE.md's own Prayer note already names. This on-ramp
+keeps that real, pedagogical order fully intact, adding 3 new,
+gentler, truly beginner levels below the floor (what prayer actually
+is, in the simplest possible terms; talking to God like someone who
+loves you; a first, real, daily habit) plus 10 new bridging levels
+interleaved after each old level, each turning the previous level's
+own real content into a further, practical, real habit or a further,
+real, honest extension, rather than simply repeating it.
+
+| # | Level | Builds on |
+|---|---|---|
+| 1 | What prayer actually is, in the simplest possible terms `[NEW]` | nothing assumed |
+| 2 | Talking to God like someone who actually loves you `[NEW]` | 1 |
+| 3 | A first, real, daily habit -- picking one real moment each day `[NEW]` | 2 |
+| 4 | The Catechism's own real definition, forms, and expressions of prayer `[L1]` | 3 |
+| 5 | Turning ACTS into an actual, real five-minute daily practice `[NEW bridging]` | 4 |
+| 6 | The Our Father, verse by verse `[L2]` | 5 |
+| 7 | Praying the Our Father slowly, one real petition at a time `[NEW bridging]` | 6 |
+| 8 | The Rosary and popular devotions `[L3]` | 7 |
+| 9 | Praying with beads as a real, practical, beginning habit `[NEW bridging]` | 8 |
+| 10 | The Liturgy of the Hours `[L4]` | 9 |
+| 11 | Praying a single, real hour -- a practical starting point `[NEW bridging]` | 10 |
+| 12 | A first, real introduction to contemplative prayer `[L5]` | 11 |
+| 13 | Why contemplative prayer can't actually be achieved by technique `[NEW bridging]` | 12 |
+| 14 | Prayer as a real battle -- distraction and dryness, per the Catechism `[L6]` | 13 |
+| 15 | A real, practical response to distraction and dryness `[NEW bridging]` | 14 |
+| 16 | Real, pastoral difficulties and doubts about prayer `[L7]` | 15 |
+| 17 | The Examen -- a further, real, structured daily habit `[NEW bridging]` | 16 |
+| 18 | The Trinity, kataphatic and apophatic prayer, real guides for prayer `[L8]` | 17 |
+| 19 | Choosing a real, practical approach -- kataphatic or apophatic `[NEW bridging]` | 18 |
+| 20 | Named schools of spirituality -- Teresa, John of the Cross, Ignatius, Thérèse `[L9]` | 19 |
+| 21 | A further, real spiritual master engaged -- St. Francis de Sales `[NEW bridging]` | 20 |
+| 22 | Capstone: lectio divina, the dark night, infused contemplation `[L10]` | 21 |
+| 23 | Capstone: prayer as a real, lifelong relationship, not a mastered technique `[NEW]` | 22 |
+
+Prayer goes next, following the same on-ramp pattern used throughout
+this session, adapted specifically to Andrew's own standing
+instruction that this topic's own syllabus be genuinely pedagogical,
+not chronological -- which its live bank, read closely, already is.
 
 ---
 
