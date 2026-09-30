@@ -163,24 +163,6 @@
       ]
     },
     {
-      "id": "church-history-l1-008",
-      "topic": "church-history",
-      "level": 1,
-      "type": "true_false",
-      "difficultyElo": 800,
-      "prompt": "True or False: The Gospels describe the apostles as confident and unshaken throughout Jesus' arrest and crucifixion.",
-      "correctAnswer": false,
-      "explanation": "False. The Gospels are strikingly honest about the apostles' failure -- they scattered, and Peter denied even knowing Jesus three times. That failure makes what happens to them at Pentecost, in the next level, all the more remarkable.",
-      "hint": "Consider what the Gospels themselves say happened at Gethsemane and during Peter's questioning in the courtyard.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "Mark 14:50",
-          "quote": "And they all left him and fled"
-        }
-      ]
-    },
-    {
       "id": "church-history-l1-009",
       "topic": "church-history",
       "level": 1,
@@ -212,7 +194,7 @@
         "None of them appear anywhere in the New Testament"
       ],
       "correctAnswer": "All were established by Jesus himself, before the Church took a single action of its own",
-      "explanation": "This level's whole point is that the Church does not invent its own foundation -- leadership, sacrament, mission, and the promise of the Spirit are all set in place by Christ himself, before Pentecost, before a single apostle acts on his own initiative.",
+      "explanation": "The whole point is that the Church does not invent its own foundation -- leadership, sacrament, mission, and the promise of the Spirit are all set in place by Christ himself, before Pentecost, before a single apostle acts on his own initiative.",
       "hint": "Who is the one common actor behind everything covered in this level?",
       "citations": [
         {
@@ -420,30 +402,6 @@
       ]
     },
     {
-      "id": "church-history-l2-010",
-      "topic": "church-history",
-      "level": 2,
-      "type": "multiple_choice",
-      "difficultyElo": 925,
-      "prompt": "Why does this level matter for understanding what comes next in the Church's story?",
-      "choices": [
-        "Because the sees the apostles planted become the centers the rest of this topic keeps returning to",
-        "Because none of these missionary journeys had any lasting institutional effect on the wider Church at all",
-        "Because the apostles' travels were completely unrelated to where later bishops and councils would ever be based",
-        "Because the early Church actively discouraged any lasting contact between these distant regions"
-      ],
-      "correctAnswer": "Because the sees the apostles planted become the centers the rest of this topic keeps returning to",
-      "explanation": "The next level asks how the faith these apostles planted gets handed on after they die -- and the answer runs directly through the sees this level has just mapped: Rome, Antioch, Alexandria, and the rest.",
-      "hint": "Think ahead to what has to happen once these apostles themselves eventually die.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "Acts 11:26",
-          "quote": "it was in Antioch that the disciples were first called Christians"
-        }
-      ]
-    },
-    {
       "id": "church-history-l3-001",
       "topic": "church-history",
       "level": 3,
@@ -639,30 +597,6 @@
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 22",
           "quote": "the college or body of bishops has no authority unless it is understood together with the Roman Pontiff, the successor of Peter as its head."
-        }
-      ]
-    },
-    {
-      "id": "church-history-l3-009",
-      "topic": "church-history",
-      "level": 3,
-      "type": "multiple_choice",
-      "difficultyElo": 1000,
-      "prompt": "Why does this level matter for what comes next: the Church's story returning, in the next level, to Peter, Pentecost, and the very first Christian community?",
-      "choices": [
-        "Because that structure is what preserved the Pentecost-era Church's teaching long enough for us to study it now",
-        "Because apostolic succession has no real connection whatsoever to Pentecost or the first community",
-        "Because the very next level abandons everything about structure that was just covered here",
-        "Because bishops as an office only appear in Church history many centuries after Pentecost itself"
-      ],
-      "correctAnswer": "Because that structure is what preserved the Pentecost-era Church's teaching long enough for us to study it now",
-      "explanation": "The next level goes back in time, not forward -- it studies Peter, Pentecost, and the Jerusalem community in closer detail. What this level has just shown is why that early community's faith did not simply vanish with the apostles' deaths: bishops like Linus were already carrying it forward even as it happened.",
-      "hint": "Consider what makes it possible to know anything reliable about the Pentecost-era Church at all, this many centuries later.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 77",
-          "quote": "In order that the full and living Gospel might always be preserved in the Church the apostles left bishops as their successors. They gave them their own position of teaching authority."
         }
       ]
     },
@@ -1158,30 +1092,6 @@
       ]
     },
     {
-      "id": "church-history-l5-010",
-      "topic": "church-history",
-      "level": 5,
-      "type": "multiple_choice",
-      "difficultyElo": 1150,
-      "prompt": "Given everything this level has shown -- no legal protection, real risk to life, no political power -- what question does the next level naturally have to confront?",
-      "choices": [
-        "How did Rome's opposition to this vulnerable, growing community actually play out in active persecution?",
-        "Why did the Roman Empire immediately embrace Christianity without any resistance?",
-        "Why did the early Church have no interest in growing beyond its first converts?",
-        "How did Christians achieve full legal equality within a single generation?"
-      ],
-      "correctAnswer": "How did Rome's opposition to this vulnerable, growing community actually play out in active persecution?",
-      "explanation": "This level has shown ordinary life under real risk; the next level shows what happens when that risk becomes active -- the martyrs, the apologists who defended the faith in writing, and the persecutions themselves.",
-      "hint": "This level has described the risk in the background; the next level is about that risk becoming active.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 4:16",
-          "quote": "But whoever is made to suffer as a Christian should not be ashamed but glorify God because of the name."
-        }
-      ]
-    },
-    {
       "id": "church-history-l6-001",
       "topic": "church-history",
       "level": 6,
@@ -1577,23 +1487,6 @@
         {
           "type": "ccc",
           "reference": "CCC 2105"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l7-008",
-      "topic": "church-history",
-      "level": 7,
-      "type": "true_false",
-      "difficultyElo": 1250,
-      "prompt": "True or False: Constantine's shift toward Christianity made the empire's religious situation immediately and fully settled, with no further controversy to come.",
-      "correctAnswer": false,
-      "explanation": "False. Legality did not mean unity -- the very next level covers the Council of Nicaea, called precisely because a serious internal dispute, Arianism, needed to be settled once Christians were finally free to gather openly and debate it.",
-      "hint": "Consider what the very next level in this topic is actually about.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Council of Nicaea (325)"
         }
       ]
     },
@@ -2078,29 +1971,6 @@
       ]
     },
     {
-      "id": "church-history-l9-010",
-      "topic": "church-history",
-      "level": 9,
-      "type": "multiple_choice",
-      "difficultyElo": 1450,
-      "prompt": "Taken together, what does this level's picture of monks, translators, preachers, and missionaries suggest about the Church in the centuries after Constantine?",
-      "choices": [
-        "Legal freedom let the Church build durable institutions -- monasteries, translated Scripture, mission -- that would outlast the Roman Empire itself",
-        "The Church became entirely and permanently dependent on the Roman imperial state for its own basic survival",
-        "Monastic life had no lasting cultural or intellectual influence on the West beyond private, individual prayer",
-        "Missionary activity stopped almost completely across the whole Church once active persecution had formally and finally ended"
-      ],
-      "correctAnswer": "Legal freedom let the Church build durable institutions -- monasteries, translated Scripture, mission -- that would outlast the Roman Empire itself",
-      "explanation": "This is the level's real payoff: the freedom won in level 7 was not just freedom from persecution, but freedom to build -- and what got built here (monasteries, the Vulgate, a reformed vision of the papacy, missions beyond Rome's own borders) proved durable enough to carry the faith through Rome's coming collapse, which the next level turns to directly.",
-      "hint": "Consider what these institutions were still doing long after the Roman Empire itself was gone.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2105"
-        }
-      ]
-    },
-    {
       "id": "church-history-l10-001",
       "topic": "church-history",
       "level": 10,
@@ -2270,46 +2140,6 @@
           "type": "scripture",
           "reference": "Matthew 22:21",
           "quote": "Then repay to Caesar what belongs to Caesar and to God what belongs to God."
-        }
-      ]
-    },
-    {
-      "id": "church-history-l10-009",
-      "topic": "church-history",
-      "level": 10,
-      "type": "true_false",
-      "difficultyElo": 1475,
-      "prompt": "True or False: Charlemagne's imperial coronation permanently and cleanly settled every question about the relationship between royal and papal authority.",
-      "correctAnswer": false,
-      "explanation": "False. Far from settling the question, it opened it -- disputes over the relative authority of pope and emperor would recur throughout the medieval period, including in the East-West tensions the next level turns to and the investiture conflicts of later centuries.",
-      "hint": "Consider whether this same tension keeps reappearing across the rest of this topic's medieval levels.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2105"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l10-010",
-      "topic": "church-history",
-      "level": 10,
-      "type": "multiple_choice",
-      "difficultyElo": 1525,
-      "prompt": "While Charlemagne's coronation strengthened ties between Rome and the Frankish West, what was happening, over these same centuries, to Rome's relationship with the Christian East?",
-      "choices": [
-        "It was gradually growing more distant, in language, custom, and authority, setting up the split the next level covers",
-        "It was growing rapidly closer and more fully unified with each passing decade of this period",
-        "It had already been fully and formally severed a full century earlier than this",
-        "The Christian East itself had already ceased to exist entirely by this period"
-      ],
-      "correctAnswer": "It was gradually growing more distant, in language, custom, and authority, setting up the split the next level covers",
-      "explanation": "Charlemagne's coronation itself was part of what strained relations with Constantinople -- crowning a Western emperor implicitly rivaled the existing Roman emperor still ruling from the East. The next level picks up exactly this gradual drift, tracing it to its formal rupture in 1054.",
-      "hint": "Consider how crowning a new 'Roman' emperor in the West might look from Constantinople, where a Roman emperor already reigned.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 247"
         }
       ]
     },
@@ -2504,35 +2334,12 @@
         "A conflict with no real theological substance behind it at all"
       ],
       "correctAnswer": "A slow estrangement, formalized once, that repeated sincere efforts have not yet been able to fully heal",
-      "explanation": "This level's honesty matters: the Church does not pretend an unresolved wound is resolved. Holding that tension is itself part of what this topic is teaching -- not every chapter of Church history ends in tidy resolution.",
+      "explanation": "The honesty matters: the Church does not pretend an unresolved wound is resolved. Holding that tension is itself part of what this topic is teaching -- not every chapter of Church history ends in tidy resolution.",
       "hint": "Weigh 'gradual and still unresolved' against 'sudden and already settled.'",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 247"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l11-010",
-      "topic": "church-history",
-      "level": 11,
-      "type": "multiple_choice",
-      "difficultyElo": 1600,
-      "prompt": "Meanwhile, in the Latin West during these same centuries, what new kind of institution and new kind of religious movement were beginning to take shape?",
-      "choices": [
-        "The medieval university and the mendicant, preaching religious orders",
-        "The first Christian monasteries of any kind, appearing for the very first time",
-        "A complete rejection of all formal education and learning",
-        "The permanent abolition of all religious orders founded earlier"
-      ],
-      "correctAnswer": "The medieval university and the mendicant, preaching religious orders",
-      "explanation": "While East and West grew further apart, the Latin West was undergoing its own real transformation -- universities organizing higher learning and new orders like the Franciscans and Dominicans reshaping religious life, which the next level turns to directly.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 159"
         }
       ]
     },
@@ -2729,30 +2536,6 @@
         {
           "type": "magisterial_document",
           "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l12-010",
-      "topic": "church-history",
-      "level": 12,
-      "type": "multiple_choice",
-      "difficultyElo": 1675,
-      "prompt": "Given the mendicant orders' deep involvement in the new universities this level has described, what kind of intellectual synthesis does the next level explore?",
-      "choices": [
-        "Scholasticism -- the disciplined use of reason to explore and defend the faith, most famously in St. Thomas Aquinas",
-        "A total and complete rejection of reason itself in favor of pure, unreflective faith alone",
-        "A complete and deliberate break from every single prior Church Father's own teaching",
-        "A synthesis with no meaningful connection at all to the universities just described here"
-      ],
-      "correctAnswer": "Scholasticism -- the disciplined use of reason to explore and defend the faith, most famously in St. Thomas Aquinas",
-      "explanation": "Aquinas himself was a Dominican, formed by exactly the combination this level has traced -- mendicant order and university -- and his work becomes the next level's whole subject.",
-      "hint": "Consider what order the next level's central theologian actually belonged to.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "The personal charism of some witnesses to God's love for men has been handed on... so that their followers may have a share in this spirit... In their rich diversity they are refractions of the one pure light of the Holy Spirit."
         }
       ]
     },
@@ -2957,29 +2740,6 @@
       ]
     },
     {
-      "id": "church-history-l13-010",
-      "topic": "church-history",
-      "level": 13,
-      "type": "multiple_choice",
-      "difficultyElo": 1750,
-      "prompt": "Even as Scholasticism was flourishing at the height of the medieval university system, what real institutional crisis was quietly building within the papacy itself?",
-      "choices": [
-        "A series of pressures that would soon move the papacy to Avignon and later split it between rival claimants",
-        "No institutional tension of any kind existed within the papacy during this entire period",
-        "The papacy had already permanently relocated to Constantinople by this point",
-        "The office of the papacy itself had been formally abolished"
-      ],
-      "correctAnswer": "A series of pressures that would soon move the papacy to Avignon and later split it between rival claimants",
-      "explanation": "Intellectual flourishing and institutional crisis run side by side in this period -- the next level turns from Scholasticism's confident synthesis to a genuinely painful chapter: the Avignon Papacy and the Western Schism.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2044"
-        }
-      ]
-    },
-    {
       "id": "church-history-l14-001",
       "topic": "church-history",
       "level": 14,
@@ -3171,30 +2931,6 @@
         {
           "type": "council",
           "reference": "Council of Constance (1414-1418)"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l14-010",
-      "topic": "church-history",
-      "level": 14,
-      "type": "multiple_choice",
-      "difficultyElo": 1825,
-      "prompt": "Having just resolved one severe institutional crisis at Constance, what does the Church face barely a century later, in the very next level of this topic?",
-      "choices": [
-        "The Protestant Reformation, met with the Church's own response at the Council of Trent",
-        "A second, entirely identical Western Schism with new rival papal claimants",
-        "A complete and permanent dissolution of the papal office itself, once and for all",
-        "No further institutional or doctrinal challenges of any real kind whatsoever"
-      ],
-      "correctAnswer": "The Protestant Reformation, met with the Church's own response at the Council of Trent",
-      "explanation": "The unresolved grievances Hus's execution left simmering -- clerical corruption, unclear authority, popular anger -- did not simply disappear once Constance ended the schism; they resurface, on a much larger scale, when Luther posts his theses roughly a century later.",
-      "hint": "Consider what unresolved tensions from this level might still be simmering a century later.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "[Each church shall] maintain, educate religiously, and train in ecclesiastical discipline a certain number of youths of their city and diocese."
         }
       ]
     },
@@ -3399,29 +3135,6 @@
       ]
     },
     {
-      "id": "church-history-l15-010",
-      "topic": "church-history",
-      "level": 15,
-      "type": "multiple_choice",
-      "difficultyElo": 1900,
-      "prompt": "Even as Trent was reforming the Church at home, what was happening at the same time on a much wider, global scale?",
-      "choices": [
-        "Catholic missionaries were carrying the faith to newly reached lands in Asia and the Americas",
-        "The Church was deliberately withdrawing entirely from any activity outside of Europe",
-        "All missionary activity had permanently and completely ceased since the apostolic era",
-        "Europe had lost essentially all contact with the wider world during this whole period"
-      ],
-      "correctAnswer": "Catholic missionaries were carrying the faith to newly reached lands in Asia and the Americas",
-      "explanation": "Trent's internal renewal and a real global missionary expansion happen side by side in this same century -- the next level turns to that missionary story directly, including the real cultural questions it raised.",
-      "hint": "This is exactly what the next level in this topic turns to.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 1567"
-        }
-      ]
-    },
-    {
       "id": "church-history-l16-001",
       "topic": "church-history",
       "level": 16,
@@ -3614,30 +3327,6 @@
       ]
     },
     {
-      "id": "church-history-l16-010",
-      "topic": "church-history",
-      "level": 16,
-      "type": "multiple_choice",
-      "difficultyElo": 1975,
-      "prompt": "While these missionary questions were unfolding abroad, what kind of disputes were unfolding within Europe itself during roughly this same period?",
-      "choices": [
-        "Serious internal disputes over grace and free will, and growing political pressure against the Jesuit order itself",
-        "No internal disputes of any real or serious kind existed anywhere within Europe during this whole period",
-        "A complete and total absence of theological disagreement across the entire Church at this time",
-        "Disputes that concerned exclusively foreign missionary policy abroad and nothing whatsoever besides that"
-      ],
-      "correctAnswer": "Serious internal disputes over grace and free will, and growing political pressure against the Jesuit order itself",
-      "explanation": "The next level turns from the missionary frontier back to Europe's own internal life -- Jansenism's rigorist theology of grace, and the mounting political pressure that would culminate in the Jesuits' 1773 suppression, the same order whose missionaries this level has just followed across three continents.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "magisterial_document",
-          "reference": "Clement XI, Unigenitus (1713)",
-          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
-        }
-      ]
-    },
-    {
       "id": "church-history-l17-001",
       "topic": "church-history",
       "level": 17,
@@ -3819,63 +3508,6 @@
       ]
     },
     {
-      "id": "church-history-l17-009",
-      "topic": "church-history",
-      "level": 17,
-      "type": "matching_pairs",
-      "difficultyElo": 2090,
-      "prompt": "Match each 18th-century episode to what it actually concerned.",
-      "pairs": [
-        {
-          "left": "Unigenitus (1713)",
-          "right": "Condemning Jansenist propositions on grace"
-        },
-        {
-          "left": "The Gallican Articles (1682)",
-          "right": "A council's authority asserted over the Pope"
-        },
-        {
-          "left": "Suppression of the Jesuits (1773)",
-          "right": "Yielding to sustained pressure from European monarchies"
-        },
-        {
-          "left": "Restoration of the Jesuits (1814)",
-          "right": "Confirming the suppression had been political, not doctrinal"
-        }
-      ],
-      "explanation": "Two of these are the Church teaching from within; two are the Church responding to, and eventually outlasting, external political pressure -- a distinction worth carrying forward into the revolutionary upheaval the next level covers.",
-      "hint": "Two of these four are theological corrections; two are political events with a later reversal.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2242"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l17-010",
-      "topic": "church-history",
-      "level": 17,
-      "type": "multiple_choice",
-      "difficultyElo": 2050,
-      "prompt": "The kind of state pressure that forced the Jesuits' suppression in 1773 was about to intensify dramatically. What major political upheaval does the next level turn to?",
-      "choices": [
-        "The French Revolution and its direct, often violent assault on the Church in France",
-        "A complete and total end to any tension between Church and state anywhere in Europe",
-        "The permanent restoration of the Papal States to their largest historical extent",
-        "A second Council of Trent convened to address the same 16th-century controversies again"
-      ],
-      "correctAnswer": "The French Revolution and its direct, often violent assault on the Church in France",
-      "explanation": "The Bourbon monarchies that pressured Clement XIV against the Jesuits would themselves soon face a revolution that turned violently against the Church itself -- the next level's central subject, and a far more severe test of the same underlying question: who holds legitimate authority, and on what basis.",
-      "hint": "Consider what happens to the very monarchies that pressured the Jesuits' suppression, within a generation.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2242"
-        }
-      ]
-    },
-    {
       "id": "church-history-l18-001",
       "topic": "church-history",
       "level": 18,
@@ -3907,7 +3539,7 @@
       "prompt": "True or False: During the Revolution's most radical phase, the Reign of Terror, thousands of priests and religious were imprisoned, exiled, or executed for refusing the new state-controlled Church structure.",
       "correctAnswer": true,
       "explanation": "True. Refusal to take the state's oath was treated as counter-revolutionary, and non-juring clergy faced imprisonment, exile, or execution -- a real, documented persecution, not a minor administrative dispute.",
-      "hint": "Consider what happened to clergy who refused the oath this level's first question described.",
+      "hint": "Consider what happened to clergy who refused the oath the first question described.",
       "citations": [
         {
           "type": "ccc",
@@ -4030,29 +3662,6 @@
       ]
     },
     {
-      "id": "church-history-l18-008",
-      "topic": "church-history",
-      "level": 18,
-      "type": "multiple_choice",
-      "difficultyElo": 2125,
-      "prompt": "Did the political restoration after 1815 fully resolve the tensions the Revolution had exposed between the Church and the modern liberal state?",
-      "choices": [
-        "No -- restoring old borders did not undo the new liberal and nationalist ideas the Revolution had spread, which kept challenging the Church's position for decades afterward",
-        "Yes -- the 1815 restoration completely and permanently ended any and all tension between the Church and liberal or nationalist movements everywhere",
-        "Yes, but only because liberalism and nationalism as movements had already fully disappeared on their own by 1815",
-        "No -- but only because the Congress of Vienna actually abolished the Papal States outright rather than restoring them"
-      ],
-      "correctAnswer": "No -- restoring old borders did not undo the new liberal and nationalist ideas the Revolution had spread, which kept challenging the Church's position for decades afterward",
-      "explanation": "A map can be redrawn faster than ideas can be unlearned -- the liberal and nationalist movements the Revolution helped unleash kept pressing against the Church's traditional position throughout the 19th century, which is exactly where the next level picks up.",
-      "hint": "Distinguish what a treaty can restore (borders, thrones) from what it cannot simply undo (ideas already spread).",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2242"
-        }
-      ]
-    },
-    {
       "id": "church-history-l18-009",
       "topic": "church-history",
       "level": 18,
@@ -4066,30 +3675,6 @@
         {
           "type": "ccc",
           "reference": "CCC 2242"
-        }
-      ]
-    },
-    {
-      "id": "church-history-l18-010",
-      "topic": "church-history",
-      "level": 18,
-      "type": "multiple_choice",
-      "difficultyElo": 2125,
-      "prompt": "Given the unresolved tension this level ends on, what does the next level turn to directly?",
-      "choices": [
-        "Pope Pius IX's confrontation with 19th-century liberalism in the Syllabus of Errors, and the First Vatican Council's teaching on papal authority",
-        "A complete and final resolution of every single Church-state tension, reached immediately and permanently after 1815",
-        "A simple return to exactly the same disputes already fully covered back in level 8's account of Nicaea",
-        "An entirely unrelated subject bearing no real connection at all to this level's central question"
-      ],
-      "correctAnswer": "Pope Pius IX's confrontation with 19th-century liberalism in the Syllabus of Errors, and the First Vatican Council's teaching on papal authority",
-      "explanation": "The question this level ends on -- where does legitimate authority actually come from -- is exactly what the next level's pope takes up directly, in a Church still working out its relationship to the modern state the Revolution had helped create.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)",
-          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
         }
       ]
     },
@@ -4974,7 +4559,7 @@
       "level": 22,
       "type": "multiple_choice",
       "difficultyElo": 2425,
-      "prompt": "Given this level's whole picture -- the Church's own nature, revelation, the modern world, other religions, religious liberty, and Christian unity all addressed within one council -- what does Vatican II represent within this topic's larger arc?",
+      "prompt": "Given the whole picture -- the Church's own nature, revelation, the modern world, other religions, religious liberty, and Christian unity all addressed within one council -- what does Vatican II represent within this topic's larger arc?",
       "choices": [
         "The 20th century's central act of aggiornamento, renewing engagement with the world while intending real continuity with this topic's past",
         "A total, sudden, and complete break with absolutely everything this topic has covered across every single previous level",
@@ -5180,7 +4765,7 @@
       "difficultyElo": 2450,
       "prompt": "True or False: The Congregation for the Doctrine of the Faith's correction of certain liberation theology, and its continued insistence on real concern for the poor, is itself an example of the same 'hermeneutic of reform' pattern -- correcting a specific error while remaining in continuity with the Church's own social teaching tradition.",
       "correctAnswer": true,
-      "explanation": "True. Libertatis Nuntius did not reject concern for the poor -- that concern runs continuously from Rerum Novarum's own founding of Catholic Social Teaching, through level 20, to this level's own correction of a specific ideological borrowing that risked distorting it.",
+      "explanation": "True. Libertatis Nuntius did not reject concern for the poor -- that concern runs continuously from Rerum Novarum's own founding of Catholic Social Teaching, through level 20, to the correction of a specific ideological borrowing that risked distorting it.",
       "hint": "Recall Rerum Novarum's own founding role for Catholic Social Teaching, several levels back in this same topic.",
       "citations": [
         {
