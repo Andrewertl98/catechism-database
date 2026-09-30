@@ -73,7 +73,7 @@
       "prompt": "True or False: An ecumenical council's teaching requires papal confirmation to bind the whole Church.",
       "correctAnswer": true,
       "explanation": "True, and this connects directly to level 1's own definition -- a council is ecumenical precisely because the bishops act in union with the Pope, not as an independent body apart from him.",
-      "hint": "Recall this level's own definition of what makes a council ecumenical in the first place.",
+      "hint": "Recall the definition of what makes a council ecumenical in the first place.",
       "citations": [
         {
           "type": "ccc",
@@ -147,47 +147,7 @@
       ],
       "correctAnswer": "No -- union with the Pope and universal scope are what matter, not headcount alone",
       "explanation": "A large regional synod is still not ecumenical if it lacks that union and universal scope; a smaller gathering meeting the real criteria is. Size is a common but mistaken shortcut for the actual test.",
-      "hint": "Recall this level's own stated criterion for ecumenical status.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 884"
-        }
-      ]
-    },
-    {
-      "id": "councils-l1-008",
-      "topic": "councils",
-      "level": 1,
-      "type": "true_false",
-      "difficultyElo": 800,
-      "prompt": "True or False: Every ecumenical council in this topic's whole chronological arc was called to resolve a question the wider Church genuinely needed settled.",
-      "correctAnswer": true,
-      "explanation": "True. From Nicaea's confrontation with Arianism, the very next level in this topic, all the way through the twentieth century, no council in this topic was convened for a trivial or merely ceremonial reason.",
-      "hint": "Consider whether any council in Church history was ever called for a purely ceremonial reason.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 884"
-        }
-      ]
-    },
-    {
-      "id": "councils-l1-009",
-      "topic": "councils",
-      "level": 1,
-      "type": "multiple_choice",
-      "difficultyElo": 850,
-      "prompt": "Given this level's definition of an ecumenical council, what does the next level in this topic turn to?",
-      "choices": [
-        "The very first ecumenical council itself -- Nicaea, in 325",
-        "A complete repeat of this same level's definitional material",
-        "A jump directly to the Second Vatican Council in the 20th century",
-        "A subject entirely unrelated to councils or to the Church's own teaching authority"
-      ],
-      "correctAnswer": "The very first ecumenical council itself -- Nicaea, in 325",
-      "explanation": "Having defined the category, this topic now moves in strict chronological order -- the next level meets the very first council to meet the definition this level has just established.",
-      "hint": "This is exactly what the next level in this topic covers.",
+      "hint": "Recall the stated criterion for ecumenical status.",
       "citations": [
         {
           "type": "ccc",
@@ -399,48 +359,6 @@
       ]
     },
     {
-      "id": "councils-l2-009",
-      "topic": "councils",
-      "level": 2,
-      "type": "true_false",
-      "difficultyElo": 892,
-      "prompt": "True or False: Nicaea's own creed, as issued in 325, was already the complete Nicene Creed said at Mass today, with nothing added later.",
-      "correctAnswer": false,
-      "explanation": "False. Nicaea's 325 creed confessed the Son's divinity but said comparatively little about the Holy Spirit -- the fuller creed said at Mass today was completed by a second council, which the next level in this topic covers.",
-      "hint": "Consider what this level's own creed said, or did not yet say, about the Holy Spirit.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Council of Nicaea (325)",
-          "quote": "God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father."
-        }
-      ]
-    },
-    {
-      "id": "councils-l2-010",
-      "topic": "councils",
-      "level": 2,
-      "type": "multiple_choice",
-      "difficultyElo": 942,
-      "prompt": "Given that Nicaea's own creed left the Holy Spirit's divinity comparatively undeveloped, what does the next level in this topic turn to?",
-      "choices": [
-        "Constantinople I (381), completing the creed on the Spirit's divinity, and Ephesus (431)",
-        "A complete and exhaustive repeat of this same level's material about Nicaea",
-        "A jump forward directly to the Council of Trent in the 16th century",
-        "A subject entirely unrelated to the Trinity or to Christ's own identity"
-      ],
-      "correctAnswer": "Constantinople I (381), completing the creed on the Spirit's divinity, and Ephesus (431)",
-      "explanation": "The next level picks up exactly where Nicaea's own creed leaves off -- completing the Trinitarian confession, then moving to the next real crisis the Church faced fifty years later.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Council of Constantinople (381)",
-          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
-        }
-      ]
-    },
-    {
       "id": "councils-l3-001",
       "topic": "councils",
       "level": 3,
@@ -606,72 +524,6 @@
           "type": "council",
           "reference": "First Council of Constantinople (381)",
           "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
-        }
-      ]
-    },
-    {
-      "id": "councils-l3-008",
-      "topic": "councils",
-      "level": 3,
-      "type": "multiple_choice",
-      "difficultyElo": 1033,
-      "prompt": "What real question, left open by Ephesus's own confession that Christ is one Person, does the very next council in this topic have to address?",
-      "choices": [
-        "Exactly how Christ's two natures, divine and human, relate to one another within that single Person",
-        "Whether the Holy Spirit is truly divine, a question already fully settled",
-        "Whether Mary should be honored at all, a question Ephesus had already resolved",
-        "No real question remained open after Ephesus"
-      ],
-      "correctAnswer": "Exactly how Christ's two natures, divine and human, relate to one another within that single Person",
-      "explanation": "Ephesus confessed Christ's unity of Person; it did not fully spell out how his divine and human natures relate within that one Person -- a real, unfinished question the next level's council takes up directly.",
-      "hint": "Consider what Ephesus's own confession -- one Person -- leaves still unexplained about that Person's two natures.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Ephesus (431)",
-          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
-        }
-      ]
-    },
-    {
-      "id": "councils-l3-009",
-      "topic": "councils",
-      "level": 3,
-      "type": "true_false",
-      "difficultyElo": 983,
-      "prompt": "True or False: Ephesus's confession of Christ as one Person, by itself, already fully answered every later christological question the Church would ever face.",
-      "correctAnswer": false,
-      "explanation": "False. A further error, teaching Christ had effectively only one nature rather than two, arises within a generation of Ephesus -- the exact crisis the next level's council, Chalcedon, is convened to answer.",
-      "hint": "Consider what new, different error arises within a generation after Ephesus's own council.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Ephesus (431)",
-          "quote": "the holy virgin is the mother of God, not as though the nature of the Word had the origin of its being from the holy virgin"
-        }
-      ]
-    },
-    {
-      "id": "councils-l3-010",
-      "topic": "councils",
-      "level": 3,
-      "type": "multiple_choice",
-      "difficultyElo": 1033,
-      "prompt": "Given the real question left open about Christ's two natures, what does the next level in this topic turn to?",
-      "choices": [
-        "Chalcedon (451), which defines how Christ's two natures relate within his one Person",
-        "A complete repeat of this same level's material about Constantinople I and Ephesus",
-        "A jump forward directly to the Council of Trent in the 16th century",
-        "A subject entirely unrelated to Christ's own identity or nature"
-      ],
-      "correctAnswer": "Chalcedon (451), which defines how Christ's two natures relate within his one Person",
-      "explanation": "The next level completes this topic's opening arc on Christ's own identity -- the fourth and final council in the sequence that began with Nicaea, twenty years after Ephesus.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Chalcedon (451)",
-          "quote": "To be acknowledged in two natures, without confusion, without change, without division, without separation... concurring in one Person and one Subsistence."
         }
       ]
     },
@@ -874,29 +726,6 @@
       ]
     },
     {
-      "id": "councils-l4-010",
-      "topic": "councils",
-      "level": 4,
-      "type": "multiple_choice",
-      "difficultyElo": 1125,
-      "prompt": "Having completed this topic's opening arc on Christ's own identity across four councils, what does the next level in this topic turn to?",
-      "choices": [
-        "Two later councils that had to clarify and defend Chalcedon's own teaching against continuing controversy",
-        "A complete and exhaustive repeat of this same level's own material about Chalcedon",
-        "A jump forward directly to the Protestant Reformation and the much later Council of Trent itself",
-        "A subject entirely unrelated to Christ's own nature or identity in any way"
-      ],
-      "correctAnswer": "Two later councils that had to clarify and defend Chalcedon's own teaching against continuing controversy",
-      "explanation": "Chalcedon's own precision did not end the underlying controversy immediately -- the next level covers two further councils that had to defend and complete its teaching more than a century later.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Council of Constantinople (553)"
-        }
-      ]
-    },
-    {
       "id": "councils-l5-001",
       "topic": "councils",
       "level": 5,
@@ -910,7 +739,7 @@
         "The First Vatican Council"
       ],
       "correctAnswer": "The Council of Chalcedon (451)",
-      "explanation": "A century after Chalcedon, some still found its teaching ambiguous or objectionable; Constantinople II worked to clarify and defend it against continuing controversy -- exactly the follow-up the previous level's own closing question anticipated.",
+      "explanation": "A century after Chalcedon, some still found its teaching ambiguous or objectionable; Constantinople II worked to clarify and defend it against continuing controversy -- exactly the follow-up the closing question anticipated.",
       "hint": "This council tried to clear up ambiguity left over from a council a century earlier.",
       "citations": [
         {
@@ -1096,30 +925,6 @@
       ]
     },
     {
-      "id": "councils-l5-010",
-      "topic": "councils",
-      "level": 5,
-      "type": "multiple_choice",
-      "difficultyElo": 1217,
-      "prompt": "Having now traced the six councils that settled Christ's own identity, from Nicaea through Constantinople III, what does the next level in this topic turn to?",
-      "choices": [
-        "A new controversy entirely -- Nicaea II (787), a dispute not about Christ's nature but about venerating religious images",
-        "A complete and exhaustive repeat of this same level's material about Constantinople II and III",
-        "A jump forward directly to the Protestant Reformation and the later Council of Trent",
-        "A subject entirely unrelated to any doctrinal controversy this topic has covered so far"
-      ],
-      "correctAnswer": "A new controversy entirely -- Nicaea II (787), a dispute not about Christ's nature but about venerating religious images",
-      "explanation": "With the six great Christological councils now complete, this topic moves to a genuinely different kind of question -- not who Christ is, but how the Church may rightly depict and honor him and the saints in art.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Council of Nicaea (787)",
-          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
-        }
-      ]
-    },
-    {
       "id": "councils-l6-001",
       "topic": "councils",
       "level": 6,
@@ -1288,7 +1093,7 @@
         "It means East and West have, in fact, remained in full unity ever since this council met"
       ],
       "correctAnswer": "It marks a turning point -- every later council here is recognized by only one side of a growing division",
-      "explanation": "From here forward, this topic's remaining councils -- Lyon, Florence, Trent, Vatican I and II -- are all specifically Western councils, a real, structural shift this level's placement makes visible.",
+      "explanation": "From here forward, this topic's remaining councils -- Lyon, Florence, Trent, Vatican I and II -- are all specifically Western councils, a real, structural shift the placement makes visible.",
       "hint": "Consider what kind of councils this topic covers from this point forward.",
       "citations": [
         {
@@ -1316,29 +1121,6 @@
           "type": "council",
           "reference": "Second Council of Nicaea (787)",
           "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
-        }
-      ]
-    },
-    {
-      "id": "councils-l6-010",
-      "topic": "councils",
-      "level": 6,
-      "type": "multiple_choice",
-      "difficultyElo": 1308,
-      "prompt": "Given Nicaea II's place as the last jointly recognized council, what does the next level in this topic turn to?",
-      "choices": [
-        "Later medieval attempts at East-West reunion -- the Second Council of Lyon and the Council of Florence",
-        "A complete repeat of this same level's material about Nicaea II",
-        "A jump forward directly to the Protestant Reformation and the Council of Trent",
-        "A subject entirely unrelated to East-West relations or to any council this topic has covered"
-      ],
-      "correctAnswer": "Later medieval attempts at East-West reunion -- the Second Council of Lyon and the Council of Florence",
-      "explanation": "The next level follows the growing East-West division this level has just introduced, through two real, serious, but ultimately unsuccessful medieval attempts to heal it.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Council of Lyon (1274)"
         }
       ]
     },
@@ -1542,29 +1324,6 @@
       ]
     },
     {
-      "id": "councils-l7-010",
-      "topic": "councils",
-      "level": 7,
-      "type": "multiple_choice",
-      "difficultyElo": 1400,
-      "prompt": "Given this level's picture of failed medieval reunion, what does the next level in this topic turn to?",
-      "choices": [
-        "The Fourth Lateran Council (1215), a major medieval council held entirely within the Western Church",
-        "A complete repeat of this same level's material about Lyon and Florence",
-        "A jump forward directly to the Protestant Reformation and the Council of Trent",
-        "A subject entirely unrelated to any council this topic has covered so far"
-      ],
-      "correctAnswer": "The Fourth Lateran Council (1215), a major medieval council held entirely within the Western Church",
-      "explanation": "The next level steps back within the timeline this topic has already covered, to a major Western council that shaped ordinary Catholic practice for centuries -- a real content gap the live bank barely touched before this reorganization.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Fourth Lateran Council (1215)"
-        }
-      ]
-    },
-    {
       "id": "councils-l8-001",
       "topic": "councils",
       "level": 8,
@@ -1703,7 +1462,7 @@
       "level": 8,
       "type": "matching_pairs",
       "difficultyElo": 1532,
-      "prompt": "Match each fact about this level's medieval councils to what it involves.",
+      "prompt": "Match each fact about the medieval councils to what it involves.",
       "pairs": [
         {
           "left": "Lateran IV's confession/Communion decree",
@@ -1737,7 +1496,7 @@
       "level": 8,
       "type": "true_false",
       "difficultyElo": 1442,
-      "prompt": "True or False: This level's picture of Lateran IV -- doctrine, sacramental discipline, and theological method all addressed in one gathering -- shows that medieval councils were narrower in scope than the earlier Christological councils this topic covered.",
+      "prompt": "True or False: The picture of Lateran IV -- doctrine, sacramental discipline, and theological method all addressed in one gathering -- shows that medieval councils were narrower in scope than the earlier Christological councils this topic covered.",
       "correctAnswer": false,
       "explanation": "False. If anything, Lateran IV's scope is broader -- earlier councils this topic covered generally focused tightly on a single Christological question, while Lateran IV legislates across doctrine, sacramental life, and theological language all in one gathering.",
       "hint": "Compare the range of subjects Lateran IV covers to the narrower focus of the earlier Christological councils.",
@@ -1768,30 +1527,6 @@
         {
           "type": "council",
           "reference": "Fourth Lateran Council (1215)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l8-010",
-      "topic": "councils",
-      "level": 8,
-      "type": "multiple_choice",
-      "difficultyElo": 1492,
-      "prompt": "Given this level's picture of the medieval Western Church legislating broadly across doctrine and practice, what does the next level in this topic turn to?",
-      "choices": [
-        "The Council of Trent, the Church's major response three centuries later to the Protestant Reformation",
-        "A complete and exhaustive repeat of this same level's own material about Lateran IV",
-        "A jump backward to the early Christological councils, which this topic has already fully covered",
-        "A subject entirely unrelated to any single council this topic has covered up to this point"
-      ],
-      "correctAnswer": "The Council of Trent, the Church's major response three centuries later to the Protestant Reformation",
-      "explanation": "The next level moves forward roughly three centuries, to the Church's own next great conciliar undertaking -- already covered from Church History's own institutional angle, and now returned to in full doctrinal and disciplinary depth.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "[Each church shall] maintain, educate religiously, and train in ecclesiastical discipline a certain number of youths of their city and diocese."
         }
       ]
     },
@@ -1993,47 +1728,6 @@
         {
           "type": "council",
           "reference": "Council of Trent, Session 6, Decree on Justification, ch. 16 and Canon 32 (1547)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l9-009",
-      "topic": "councils",
-      "level": 9,
-      "type": "true_false",
-      "difficultyElo": 1533,
-      "prompt": "True or False: Trent addressed the doctrinal questions of Scripture, Tradition, and justification in its very first working sessions, before turning to the sacraments and the Mass in later sessions.",
-      "correctAnswer": true,
-      "explanation": "True. Trent's own order of business reflects a real priority -- settling the deposit of revelation and the meaning of salvation itself before working through the sacramental and disciplinary questions the next level in this topic covers.",
-      "hint": "Consider which questions Trent addressed in its earliest sessions, before the later ones this topic's next level covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
-        }
-      ]
-    },
-    {
-      "id": "councils-l9-010",
-      "topic": "councils",
-      "level": 9,
-      "type": "multiple_choice",
-      "difficultyElo": 1583,
-      "prompt": "Given Trent's own early focus on Scripture, Tradition, and justification, what does the next level in this topic turn to?",
-      "choices": [
-        "Trent's later sessions on the sacraments, the Eucharist, purgatory, and sacred images",
-        "A complete repeat of this same level's material about Scripture, Tradition, and justification",
-        "A jump forward directly to the First Vatican Council three centuries later",
-        "A subject entirely unrelated to anything Trent itself addressed"
-      ],
-      "correctAnswer": "Trent's later sessions on the sacraments, the Eucharist, purgatory, and sacred images",
-      "explanation": "The next level continues Trent's own real chronological order of business, moving from revelation and salvation to the sacramental and devotional life those doctrines support.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Trent, Session 13, Decree on the Most Holy Eucharist (1551)"
         }
       ]
     },
@@ -2240,35 +1934,12 @@
       "prompt": "True or False: Every one of Trent's later sessions covered in this level responds to a real, specific claim made during the Reformation, rather than addressing a purely abstract or hypothetical question.",
       "correctAnswer": true,
       "explanation": "True. Sacraments, the Eucharist, purgatory, images, and holy orders were all live, contested points in the actual sixteenth-century debate -- Trent's own precision here is a direct response to real arguments being made at the time, not a theoretical exercise.",
-      "hint": "Consider whether any of this level's five sessions address a question no one was actually debating in the sixteenth century.",
+      "hint": "Consider whether any of the five sessions address a question no one was actually debating in the sixteenth century.",
       "citations": [
         {
           "type": "council",
           "reference": "Council of Trent (1545-1563)",
           "quote": "[The Synod] receives and venerates with an equal affection of piety and reverence all the books both of the Old and New Testament... as also the said traditions."
-        }
-      ]
-    },
-    {
-      "id": "councils-l10-010",
-      "topic": "councils",
-      "level": 10,
-      "type": "multiple_choice",
-      "difficultyElo": 1675,
-      "prompt": "Having now covered Trent's full doctrinal and sacramental work across two levels, what does the next level in this topic turn to?",
-      "choices": [
-        "Trent's own long institutional legacy -- what actually endured for centuries after the council itself formally closed",
-        "A complete and exhaustive repeat of this same level's material about Trent's later sessions",
-        "A jump forward directly to the Second Vatican Council in the twentieth century",
-        "A subject entirely unrelated to Trent or to anything this topic has covered up to now"
-      ],
-      "correctAnswer": "Trent's own long institutional legacy -- what actually endured for centuries after the council itself formally closed",
-      "explanation": "The next level steps back from Trent's own sessions to ask a different question: what of all this actually lasted, in ordinary Catholic life, long after the council's bishops had gone home.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Trent (1545-1563)"
         }
       ]
     },
@@ -2413,7 +2084,7 @@
       "prompt": "True or False: Trent's own reforms are remembered today only for their doctrinal canons, with no lasting effect on ordinary Catholic practice.",
       "correctAnswer": false,
       "explanation": "False. Seminaries, a standardized catechism, a standardized Mass lasting four centuries, and a real disciplinary apparatus all outlived Trent's own doctrinal canons in how directly they shaped ordinary Catholic life for generation after generation.",
-      "hint": "Consider how many of this level's own institutions are more about daily practice than abstract doctrine.",
+      "hint": "Consider how many of the institutions are more about daily practice than abstract doctrine.",
       "citations": [
         {
           "type": "council",
@@ -2435,52 +2106,12 @@
         "Not at all -- a council's real influence cannot be measured in any observable way whatsoever"
       ],
       "correctAnswer": "Not only by its formal doctrinal definitions, but by the durable practices and institutions it leaves behind",
-      "explanation": "This level's own institutions -- seminaries still training priests, a Mass that lasted four centuries -- make the case concretely: a council's real historical weight includes what it builds that outlasts the bishops who built it.",
+      "explanation": "The institutions -- seminaries still training priests, a Mass that lasted four centuries -- make the case concretely: a council's real historical weight includes what it builds that outlasts the bishops who built it.",
       "hint": "Weigh Trent's formal canons against the seminaries and Missal this level has just described.",
       "citations": [
         {
           "type": "council",
           "reference": "Council of Trent (1545-1563)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l11-009",
-      "topic": "councils",
-      "level": 11,
-      "type": "true_false",
-      "difficultyElo": 1717,
-      "prompt": "True or False: No ecumenical council met for roughly three hundred years after Trent formally closed in 1563.",
-      "correctAnswer": true,
-      "explanation": "True, and this long silence is real and worth understanding on its own terms -- the next level in this topic examines exactly why, after Trent's own intense burst of conciliar activity, the Church went without another ecumenical council for centuries.",
-      "hint": "Consider how long a gap actually separates Trent's own close from the next ecumenical council this topic will cover.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l11-010",
-      "topic": "councils",
-      "level": 11,
-      "type": "multiple_choice",
-      "difficultyElo": 1767,
-      "prompt": "Given this real three-century silence after Trent, what does the next level in this topic turn to?",
-      "choices": [
-        "Why the Church went without an ecumenical council for roughly three hundred years, before Vatican I finally met",
-        "A complete and exhaustive repeat of this same level's material about Trent's institutional legacy",
-        "A jump directly to the Second Vatican Council, skipping the long gap entirely",
-        "A subject entirely unrelated to any single council this topic has covered up to now"
-      ],
-      "correctAnswer": "Why the Church went without an ecumenical council for roughly three hundred years, before Vatican I finally met",
-      "explanation": "This gap is not empty space in the story -- the next level examines what real historical forces kept the Church from convening another ecumenical council for this long, before Vatican I finally does.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)"
         }
       ]
     },
@@ -2599,23 +2230,6 @@
       ]
     },
     {
-      "id": "councils-l12-006",
-      "topic": "councils",
-      "level": 12,
-      "type": "true_false",
-      "difficultyElo": 1808,
-      "prompt": "True or False: By the mid-19th century, political conditions in Europe had stabilized enough, and the intellectual challenges had grown urgent enough, that convening another ecumenical council again became genuinely possible and necessary.",
-      "correctAnswer": true,
-      "explanation": "True. Both conditions had to be present together -- enough real political stability to gather bishops safely, and a real enough doctrinal challenge to justify doing so -- which is exactly what comes together by the time the next level's council is convened.",
-      "hint": "Consider what two different kinds of conditions -- practical and doctrinal -- both had to be present before a new council became possible.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2242"
-        }
-      ]
-    },
-    {
       "id": "councils-l12-007",
       "topic": "councils",
       "level": 12,
@@ -2629,52 +2243,12 @@
         "That every period between one council and the next is functionally identical to every other"
       ],
       "correctAnswer": "Councils happen when real conditions allow, not on a fixed schedule -- sometimes separated by centuries",
-      "explanation": "This level's whole point is that this topic's own chronological pacing -- six councils in barely four centuries, then one long silence -- mirrors real history, not a tidy, evenly spaced schedule.",
+      "explanation": "The whole point is that this topic's own chronological pacing -- six councils in barely four centuries, then one long silence -- mirrors real history, not a tidy, evenly spaced schedule.",
       "hint": "Compare the tight spacing of this topic's early councils to the long gap this level has just explained.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2242"
-        }
-      ]
-    },
-    {
-      "id": "councils-l12-008",
-      "topic": "councils",
-      "level": 12,
-      "type": "true_false",
-      "difficultyElo": 1808,
-      "prompt": "True or False: The very next council this topic covers is convened specifically to address the modern intellectual challenges this level has just introduced.",
-      "correctAnswer": true,
-      "explanation": "True. This is exactly the thread the next level in this topic picks up directly -- a council convened in real response to the liberalism and rationalism this level has just named as part of what finally made a new council necessary.",
-      "hint": "Recall the specific intellectual challenge this level has already named as part of the reason for the coming council.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l12-009",
-      "topic": "councils",
-      "level": 12,
-      "type": "multiple_choice",
-      "difficultyElo": 1858,
-      "prompt": "Given both the practical and doctrinal conditions this level has described, what does the next level in this topic turn to?",
-      "choices": [
-        "The First Vatican Council (1869-1870), finally convened after this long gap",
-        "A complete repeat of this same level's material about the long gap itself",
-        "A jump directly to the Second Vatican Council, skipping Vatican I entirely",
-        "A subject entirely unrelated to any council this topic has covered so far"
-      ],
-      "correctAnswer": "The First Vatican Council (1869-1870), finally convened after this long gap",
-      "explanation": "The next level meets the council this whole level has been building toward -- the Church's own answer, after roughly three centuries, to conditions finally allowing and requiring another ecumenical gathering.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)"
         }
       ]
     },
@@ -2789,23 +2363,6 @@
       ]
     },
     {
-      "id": "councils-l13-005",
-      "topic": "councils",
-      "level": 13,
-      "type": "true_false",
-      "difficultyElo": 1900,
-      "prompt": "True or False: Because Vatican I was suspended rather than formally closed, some of the topics it had planned to address were never actually taken up by that council.",
-      "correctAnswer": true,
-      "explanation": "True. The council's own bishops had a wider agenda planned before the war forced its suspension -- an unfinished business this topic's next level will show was part of what, nearly a century later, John XXIII had in mind when he finally called another council.",
-      "hint": "Consider what a council's own suspension, rather than a planned close, would leave unfinished.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)"
-        }
-      ]
-    },
-    {
       "id": "councils-l13-006",
       "topic": "councils",
       "level": 13,
@@ -2881,47 +2438,6 @@
         {
           "type": "council",
           "reference": "First Vatican Council (1870)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l13-009",
-      "topic": "councils",
-      "level": 13,
-      "type": "true_false",
-      "difficultyElo": 1900,
-      "prompt": "True or False: Nearly a century passed between Vatican I's suspension in 1870 and the next ecumenical council this topic will cover.",
-      "correctAnswer": true,
-      "explanation": "True, and this second gap -- shorter than the one before Vatican I, but still real -- is exactly what the next level in this topic examines directly.",
-      "hint": "Consider how many years actually separate 1870 from the next council this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "First Vatican Council (1870)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l13-010",
-      "topic": "councils",
-      "level": 13,
-      "type": "multiple_choice",
-      "difficultyElo": 1950,
-      "prompt": "Given Vatican I's own unfinished business and abrupt suspension, what does the next level in this topic turn to?",
-      "choices": [
-        "The roughly ninety-year gap before another council, and John XXIII's own surprise announcement that finally ended it",
-        "A complete and exhaustive repeat of this same level's own material about Vatican I",
-        "A jump directly to Vatican II's own documents, skipping over how it actually came to be called",
-        "A subject entirely unrelated to any single council this topic has covered up to this point"
-      ],
-      "correctAnswer": "The roughly ninety-year gap before another council, and John XXIII's own surprise announcement that finally ended it",
-      "explanation": "The next level examines this second real gap in this topic's chronology, and the specific moment that finally closed it.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
         }
       ]
     },
@@ -3033,41 +2549,6 @@
       ]
     },
     {
-      "id": "councils-l14-006",
-      "topic": "councils",
-      "level": 14,
-      "type": "matching_pairs",
-      "difficultyElo": 2082,
-      "prompt": "Match each fact about this gap and John XXIII's own call to what it involves.",
-      "pairs": [
-        {
-          "left": "The ~90-year gap",
-          "right": "Spans two world wars and totalitarian violence, already covered elsewhere in this app"
-        },
-        {
-          "left": "January 1959",
-          "right": "John XXIII's surprise announcement to the assembled cardinals"
-        },
-        {
-          "left": "John XXIII's own election",
-          "right": "Widely expected to be a brief, transitional papacy"
-        },
-        {
-          "left": "1959-1962",
-          "right": "Years of real preparatory consultation before the council's actual opening"
-        }
-      ],
-      "explanation": "This whole level's real point is that Vatican II did not appear out of nowhere -- a real gap, a real surprise, and real years of preparation all precede the opening session the next level covers.",
-      "hint": "Follow the real timeline in order: the gap itself, the announcement, who made it, and what followed before the opening.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
-        }
-      ]
-    },
-    {
       "id": "councils-l14-007",
       "topic": "councils",
       "level": 14,
@@ -3076,7 +2557,7 @@
       "prompt": "True or False: John XXIII's own decision to call a council can be understood, in part, as finally taking up some of the unfinished business Vatican I's own suspension left behind.",
       "correctAnswer": true,
       "explanation": "True, and this is a real thread connecting the previous level to this one -- nearly a century later, the Church again had both the practical stability and a real sense that more needed to be addressed than Vatican I alone had managed.",
-      "hint": "Recall the previous level's own point about Vatican I's unfinished agenda.",
+      "hint": "Recall the point about Vatican I's unfinished agenda.",
       "citations": [
         {
           "type": "council",
@@ -3091,7 +2572,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 2042,
-      "prompt": "What does this level's picture of the gap between Vatican I and Vatican II add to this topic's overall picture of ecumenical councils?",
+      "prompt": "What does the picture of the gap between Vatican I and Vatican II add to this topic's overall picture of ecumenical councils?",
       "choices": [
         "That real preparation takes years, even after a council is called -- not a single decision followed by an immediate meeting",
         "That every council in Church history has followed an identical timeline from announcement to opening",
@@ -3099,8 +2580,8 @@
         "That no real preparation is ever needed before an ecumenical council can open"
       ],
       "correctAnswer": "That real preparation takes years, even after a council is called -- not a single decision followed by an immediate meeting",
-      "explanation": "This level's own timeline -- a surprise announcement followed by years of real consultation -- is itself part of what this topic has been showing since level 1: councils are real historical events with real practical requirements, not abstractions.",
-      "hint": "Consider what this level's own three-year preparatory period suggests about how councils actually come together.",
+      "explanation": "The timeline -- a surprise announcement followed by years of real consultation -- is itself part of what this topic has been showing since level 1: councils are real historical events with real practical requirements, not abstractions.",
+      "hint": "Consider what the three-year preparatory period suggests about how councils actually come together.",
       "citations": [
         {
           "type": "council",
@@ -3119,30 +2600,6 @@
       "correctAnswer": true,
       "explanation": "True, and this repeated pattern is itself instructive -- councils across this topic's whole chronological arc genuinely cluster around real crises and real opportunities, rather than falling on any fixed, regular schedule.",
       "hint": "Recall the earlier gap this topic already covered, several levels back.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
-        }
-      ]
-    },
-    {
-      "id": "councils-l14-010",
-      "topic": "councils",
-      "level": 14,
-      "type": "multiple_choice",
-      "difficultyElo": 2042,
-      "prompt": "Given the real preparatory work this level has described, what does the next level in this topic turn to?",
-      "choices": [
-        "The Second Vatican Council's actual opening session in 1962, and its real scale as the largest council in Church history",
-        "A complete repeat of this same level's material about the gap and John XXIII's own announcement",
-        "A jump directly to Vatican II's own documents, skipping its opening session entirely",
-        "A subject entirely unrelated to any council this topic has covered so far"
-      ],
-      "correctAnswer": "The Second Vatican Council's actual opening session in 1962, and its real scale as the largest council in Church history",
-      "explanation": "The next level finally arrives at the council itself, meeting the real scale and real purpose of the gathering this level has spent its whole time preparing a learner to understand.",
-      "hint": "This is exactly what the next level in this topic covers.",
       "citations": [
         {
           "type": "council",
@@ -3343,29 +2800,6 @@
           "type": "council",
           "reference": "Second Vatican Council (1962-1965)",
           "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
-        }
-      ]
-    },
-    {
-      "id": "councils-l15-010",
-      "topic": "councils",
-      "level": 15,
-      "type": "multiple_choice",
-      "difficultyElo": 2133,
-      "prompt": "Having now met Vatican II's own real opening and purpose, what does the next level in this topic turn to?",
-      "choices": [
-        "Vatican II's own major documents in real depth, beyond the general facts this level has already covered",
-        "A complete and exhaustive repeat of this same level's own material about Vatican II's opening",
-        "A jump backward to Vatican I, which this topic has already fully covered several levels earlier",
-        "A subject entirely unrelated to any single council this topic has covered up to this point"
-      ],
-      "correctAnswer": "Vatican II's own major documents in real depth, beyond the general facts this level has already covered",
-      "explanation": "Having established the council's scale, purpose, and real timeline, the next level moves inside the council's own actual work -- its four constitutions and the specific teaching each one carries.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)"
         }
       ]
     },
@@ -3571,29 +3005,6 @@
         {
           "type": "council",
           "reference": "Second Vatican Council (1962-1965)"
-        }
-      ]
-    },
-    {
-      "id": "councils-l16-010",
-      "topic": "councils",
-      "level": 16,
-      "type": "multiple_choice",
-      "difficultyElo": 2225,
-      "prompt": "Having now covered Vatican II's own real documents in depth, closing this topic's full chronological arc from Nicaea to Vatican II, what does the next level in this topic turn to?",
-      "choices": [
-        "The precise technical vocabulary this topic has used throughout -- canons, decrees, anathema sit -- now explained directly",
-        "A complete and exhaustive repeat of this same level's own material about Vatican II's documents",
-        "A jump backward to Nicaea, which this topic has already fully covered at the very start",
-        "A subject entirely unrelated to any single council this topic has covered up to now"
-      ],
-      "correctAnswer": "The precise technical vocabulary this topic has used throughout -- canons, decrees, anathema sit -- now explained directly",
-      "explanation": "With this topic's real chronological journey now complete, the remaining levels turn to the vocabulary, apologetics, and synthesis this whole journey has been building a learner toward -- concrete history first, the technical and contested questions only now.",
-      "hint": "This is exactly what the next level in this topic covers.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 884"
         }
       ]
     },
@@ -3994,7 +3405,7 @@
           "right": "Far broader than Vatican I's actual, narrow ex cathedra conditions"
         }
       ],
-      "explanation": "This level's whole task is matching a live claim -- something someone could actually say today -- to the precise historical rejection built to exclude it, not just recognizing a vocabulary word in isolation.",
+      "explanation": "The whole task is matching a live claim -- something someone could actually say today -- to the precise historical rejection built to exclude it, not just recognizing a vocabulary word in isolation.",
       "hint": "Each right answer names the specific historical error or precise conciliar condition the scenario actually tests, not a vague summary.",
       "citations": [
         {
