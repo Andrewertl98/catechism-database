@@ -244,6 +244,222 @@
       ]
     },
     {
+      "id": "saints-l1-011",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1000,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Patrick",
+          "right": "March 17"
+        },
+        {
+          "left": "St. Joseph",
+          "right": "March 19"
+        },
+        {
+          "left": "St. Anthony of Padua",
+          "right": "June 13"
+        },
+        {
+          "left": "St. Francis of Assisi",
+          "right": "October 4"
+        }
+      ],
+      "explanation": "The Church marks a saint's feast day, most often the date of their death -- their 'birth' into eternal life -- as a day for the whole Church to honor them and ask their intercession.",
+      "hint": "One of these dates is also a national holiday for the country whose patron he is.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "saints-l1-012",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1000,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Nicholas",
+          "right": "December 6"
+        },
+        {
+          "left": "St. Francis Xavier",
+          "right": "December 3"
+        },
+        {
+          "left": "St. Teresa of Ávila",
+          "right": "October 15"
+        },
+        {
+          "left": "St. Thérèse of Lisieux",
+          "right": "October 1"
+        }
+      ],
+      "explanation": "Two Carmelite Doctors of the Church, one Jesuit missionary, and the historical bishop behind a much later folk legend -- each honored on the day the Church assigns them.",
+      "hint": "Two of these four are Doctors of the Church, and share part of the same name.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "saints-l1-013",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1050,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Agnes",
+          "right": "January 21"
+        },
+        {
+          "left": "St. Thomas Aquinas",
+          "right": "January 28"
+        },
+        {
+          "left": "St. John Bosco",
+          "right": "January 31"
+        },
+        {
+          "left": "St. Benedict",
+          "right": "July 11"
+        }
+      ],
+      "explanation": "A teenage martyr, a Dominican theologian, and two founders, one of the Salesians and one of the Benedictine way of life, each have their own day in the Church's calendar.",
+      "hint": "Three of these four fall in the last third of January.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "saints-l1-014",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1050,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Dominic",
+          "right": "August 8"
+        },
+        {
+          "left": "St. Clare of Assisi",
+          "right": "August 11"
+        },
+        {
+          "left": "St. Monica",
+          "right": "August 27"
+        },
+        {
+          "left": "St. Augustine",
+          "right": "August 28"
+        }
+      ],
+      "explanation": "A mother and her son are remembered on consecutive days, and two thirteenth-century founders, Dominic and Clare, fall within a few days of each other earlier in the month.",
+      "hint": "A mother's feast comes the day before her son's.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "saints-l1-015",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1100,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Lawrence",
+          "right": "August 10"
+        },
+        {
+          "left": "St. Cecilia",
+          "right": "November 22"
+        },
+        {
+          "left": "St. Lucy",
+          "right": "December 13"
+        },
+        {
+          "left": "St. Stephen",
+          "right": "December 26"
+        }
+      ],
+      "explanation": "Four martyrs, from the first of all, Stephen, to the deacon Lawrence, are each honored on the day the Church assigns.",
+      "hint": "The first martyr is honored the day after Christmas.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
+      "id": "saints-l1-016",
+      "topic": "saints",
+      "level": 1,
+      "type": "matching_pairs",
+      "difficultyElo": 1100,
+      "prompt": "Match each saint to their feast day on the Church's General Roman Calendar.",
+      "pairs": [
+        {
+          "left": "St. Catherine of Siena",
+          "right": "April 29"
+        },
+        {
+          "left": "Sts. Peter and Paul",
+          "right": "June 29"
+        },
+        {
+          "left": "St. Mary Magdalene",
+          "right": "July 22"
+        },
+        {
+          "left": "St. Maximilian Kolbe",
+          "right": "August 14"
+        }
+      ],
+      "explanation": "Peter and Paul share a single feast, while Catherine of Siena, Mary Magdalene, and Maximilian Kolbe each have their own.",
+      "hint": "Two of these dates fall on the 29th of their months.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "By canonizing some of the faithful... the Church recognizes the power of the Spirit of holiness within her and sustains the hope of believers by proposing the saints to them as models and intercessors."
+        }
+      ],
+      "miniGameEligible": true
+    },
+    {
       "id": "saints-l2-001",
       "topic": "saints",
       "level": 2,

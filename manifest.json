@@ -2,9 +2,9 @@
   "auditSignature": "v/SjKkiPUV2Ri7VRZ5R23DlejNMo+vyErQUALyqxLGZmO/PQbmG3sZm0FGYulTO6Oi2xHWHZJqnjEm1n3uYZAw==",
   "auditedQuestionIDs": [],
   "citationPolicy": "Every question must carry at least one citation of type ccc, scripture, council, or magisterial_document. A church_father citation may supplement these but can never stand alone. Enforced by schema.json ('contains') and re-checked by validate.py.",
-  "databaseVersion": "0.4.7",
+  "databaseVersion": "0.4.8",
   "description": "Catechesi catechism content database -- the question bank behind the Catechesi app (iOS internal name Saintly). Every question carries at least one authoritative Magisterial citation (CCC paragraph, Scripture, Council text, or magisterial document); Church Fathers alone are never sufficient.",
-  "lastUpdated": "2026-10-06",
+  "lastUpdated": "2026-10-09",
   "miniGamesVersion": "1.0.0",
   "schemaVersion": "1.0.0",
   "topics": [
@@ -73,7 +73,7 @@
       "levels": 23,
       "name": "Saints",
       "questionCounts": {
-        "1": 10,
+        "1": 16,
         "2": 9,
         "3": 7,
         "4": 10,
@@ -492,7 +492,7 @@
     }
   ],
   "totals": {
-    "questions": 3245,
+    "questions": 3251,
     "topics": 16
   }
 }
