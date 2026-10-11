@@ -2,7 +2,8 @@
 """
 validate.py -- Schema and content validator for the FIDES catechism-database.
 
-Checks, for every file in topics/*.json:
+Checks, for every file in topics/*.json (and, with the same citation rule,
+seasonal/*.json against seasonal-schema.json -- see validate_seasonal):
   1. The file conforms to schema.json (structure, types, per-question-type
      shape, and the "at least one authoritative citation" rule).
   2. Every question's inline "topic" field matches the file's top-level
@@ -39,6 +40,8 @@ REPO_ROOT = Path(__file__).resolve().parent
 SCHEMA_PATH = REPO_ROOT / "schema.json"
 MANIFEST_PATH = REPO_ROOT / "manifest.json"
 TOPICS_DIR = REPO_ROOT / "topics"
+SEASONAL_DIR = REPO_ROOT / "seasonal"
+SEASONAL_SCHEMA_PATH = REPO_ROOT / "seasonal-schema.json"
 
 # Citation types considered authoritative / Magisterial-level on their own.
 # "church_father" is intentionally excluded: Church Fathers may supplement
@@ -160,6 +163,100 @@ AUX_GAME_FILES = ("who-am-i.json", "guess-the-book.json", "jeopardy.json")
 def _has_authoritative_citation(citations: list) -> bool:
     return any(c.get("type") in AUTHORITATIVE_CITATION_TYPES for c in (citations or []))
 
+
+# The longest each season can run, in days -- a season's challenge needs at
+# least this many levels to cover every year (Advent runs 22-28 days).
+SEASON_MAX_DAYS = {"advent": 28, "christmas": 19, "lent": 46, "easter": 49}
+
+
+def validate_seasonal(manifest: dict, seen_ids: dict[str, str], errors: list[str], warnings: list[str]) -> None:
+    """seasonal/<season>.json: one season's general topic and daily challenge.
+
+    Gated in the apps by manifest.json's seasonalVersion / seasonalFiles, so
+    the two must agree with what is on disk. Same citation rule as topics/.
+    """
+    declared = list(manifest.get("seasonalFiles", []))
+    on_disk = sorted(p.relative_to(REPO_ROOT).as_posix() for p in SEASONAL_DIR.glob("*.json")) if SEASONAL_DIR.is_dir() else []
+    if declared and not manifest.get("seasonalVersion"):
+        errors.append("manifest.json: seasonalFiles is set but seasonalVersion is missing")
+    for name in sorted(set(declared) - set(on_disk)):
+        errors.append(f"manifest.json: seasonalFiles lists '{name}', which does not exist")
+    for name in sorted(set(on_disk) - set(declared)):
+        warnings.append(f"{name}: not listed in manifest.json's seasonalFiles, so the apps will not load it")
+    if not on_disk:
+        return
+
+    try:
+        schema = load_json(SEASONAL_SCHEMA_PATH)
+    except LoadError as e:
+        errors.append(str(e))
+        return
+
+    for rel in on_disk:
+        path = REPO_ROOT / rel
+        try:
+            data = load_json(path)
+        except LoadError as e:
+            errors.append(str(e))
+            continue
+        try:
+            jsonschema.validate(instance=data, schema=schema)
+        except jsonschema.exceptions.ValidationError as e:
+            where = "/".join(str(p) for p in e.path) or "(root)"
+            errors.append(f"{rel}: schema validation failed at {where} -- {e.message}")
+            continue
+
+        season = data["season"]
+        if path.name != f"{season}.json":
+            errors.append(f"{rel}: filename does not match its season '{season}'")
+
+        topics = {t["slug"]: t for t in data["topics"]}
+        kinds = sorted(t["kind"] for t in data["topics"])
+        if kinds != ["challenge", "general"]:
+            errors.append(f"{rel}: needs exactly one 'general' and one 'challenge' topic (found {kinds})")
+        for slug, topic in topics.items():
+            expected = season if topic["kind"] == "general" else f"{season}-challenge"
+            if slug != expected:
+                errors.append(f"{rel}: the {topic['kind']} topic must be '{expected}', not '{slug}'")
+            numbers = [lv["level"] for lv in topic["levels"]]
+            if numbers != list(range(1, len(numbers) + 1)):
+                errors.append(f"{rel}: {slug} levels must be numbered 1..{len(numbers)} in order")
+            if topic["kind"] == "challenge":
+                if len(numbers) < SEASON_MAX_DAYS[season]:
+                    warnings.append(
+                        f"{rel}: {slug} has {len(numbers)} level(s); the longest {season} runs "
+                        f"{SEASON_MAX_DAYS[season]} days, so some days would have no level"
+                    )
+                if data["anchoredTailLevels"] > len(numbers):
+                    errors.append(f"{rel}: anchoredTailLevels exceeds the challenge's level count")
+                for lv in topic["levels"]:
+                    for field in ("reflection", "scripture", "saint"):
+                        if field not in lv:
+                            warnings.append(f"{rel}: {slug} level {lv['level']} has no '{field}' for its opening card")
+
+        per_level: dict[tuple[str, int], int] = {}
+        for q in data["questions"]:
+            qid = q["id"]
+            if qid in seen_ids:
+                errors.append(f"{rel}: duplicate question id '{qid}' (already used in {seen_ids[qid]})")
+            else:
+                seen_ids[qid] = rel
+            slug = q["topic"]
+            if slug not in topics:
+                errors.append(f"{rel}: question '{qid}' has topic '{slug}', which is not one of this file's topics")
+                continue
+            if not qid.startswith(f"{slug}-l{q['level']}-"):
+                errors.append(f"{rel}: question id '{qid}' does not match its topic and level")
+            if q["level"] > len(topics[slug]["levels"]):
+                errors.append(f"{rel}: question '{qid}' is on level {q['level']}, which {slug} does not declare")
+            check_citation_policy(q, rel, errors)
+            check_accepted_answers(q, rel, errors)
+            per_level[(slug, q["level"])] = per_level.get((slug, q["level"]), 0) + 1
+
+        for slug, topic in topics.items():
+            for lv in topic["levels"]:
+                if per_level.get((slug, lv["level"]), 0) == 0:
+                    errors.append(f"{rel}: {slug} level {lv['level']} has no questions")
 
 def validate_aux_games(errors: list[str], warnings: list[str]) -> None:
     """Structural + citation checks for the standalone mini-game content
@@ -373,6 +470,7 @@ def main() -> None:
         warnings.append(f"manifest.json lists topic '{slug}' but topics/{slug}.json has no valid questions")
 
     validate_aux_games(errors, warnings)
+    validate_seasonal(manifest, seen_ids, errors, warnings)
 
     if length_tells and mc_total:
         worst = sorted(length_tells, key=lambda t: t[1], reverse=True)[:5]
