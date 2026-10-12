@@ -297,6 +297,53 @@ def _validate_verse_file(path, name: str, errors: list[str]) -> None:
         if "[" in text or "]" in text or "  " in text or text != text.strip():
             errors.append(f"{where}: text has copy damage (bracket, double space or stray whitespace)")
 
+def validate_holyland(errors: list[str], warnings: list[str]) -> None:
+    """holyland.json: the Holy Land pin-drop game's map (Natural Earth, simplified) and its places.
+
+    Each place needs an id, name, prompt, reference, text, note and coordinates inside the map box. The verse text is an exact
+    Douay-Rheims copy made by the content tooling; this check only guards structure and obvious copy damage.
+    Absent file is fine (the game then hides itself).
+    """
+    path = REPO_ROOT / "holyland.json"
+    if not path.exists():
+        return
+    try:
+        data = load_json(path)
+    except LoadError as e:
+        errors.append(str(e))
+        return
+    box = (data.get("map") or {}).get("bbox")
+    if not (isinstance(box, list) and len(box) == 4 and box[0] < box[2] and box[1] < box[3]):
+        errors.append("holyland.json: map.bbox needs west, south, east, north")
+        return
+    for key in ("land", "lakes", "rivers"):
+        if not (data["map"].get(key)):
+            errors.append(f"holyland.json: map.{key} is empty")
+    places = data.get("places")
+    if not isinstance(places, list) or not places:
+        errors.append("holyland.json: needs a non-empty 'places' list")
+        return
+    seen: set[str] = set()
+    for p in places:
+        pid = str(p.get("id", "")).strip()
+        where = f"holyland.json:{pid or '?'}"
+        if not pid:
+            errors.append(f"{where}: place is missing an 'id'")
+        elif pid in seen:
+            errors.append(f"{where}: duplicate id")
+        seen.add(pid)
+        for field in ("name", "prompt", "reference", "text", "note"):
+            if not str(p.get(field, "")).strip():
+                errors.append(f"{where}: missing '{field}'")
+        lat, lon = p.get("lat"), p.get("lon")
+        if not (isinstance(lat, (int, float)) and isinstance(lon, (int, float))):
+            errors.append(f"{where}: needs numeric lat and lon")
+        elif not (box[0] <= lon <= box[2] and box[1] <= lat <= box[3]):
+            errors.append(f"{where}: lies outside the map box")
+        text = str(p.get("text", ""))
+        if "[" in text or "]" in text or "  " in text or text != text.strip():
+            errors.append(f"{where}: text has copy damage (bracket, double space or stray whitespace)")
+
 def validate_aux_games(errors: list[str], warnings: list[str]) -> None:
     """Structural + citation checks for the standalone mini-game content
     files (Who Am I?, Guess the Book, Jeopardy). These live at the repo root,
@@ -511,6 +558,7 @@ def main() -> None:
     validate_aux_games(errors, warnings)
     validate_seasonal(manifest, seen_ids, errors, warnings)
     validate_fishing_verses(errors, warnings)
+    validate_holyland(errors, warnings)
 
     if length_tells and mc_total:
         worst = sorted(length_tells, key=lambda t: t[1], reverse=True)[:5]
