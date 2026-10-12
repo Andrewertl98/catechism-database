@@ -298,13 +298,18 @@ def _validate_verse_file(path, name: str, errors: list[str]) -> None:
             errors.append(f"{where}: text has copy damage (bracket, double space or stray whitespace)")
 
 def validate_holyland(errors: list[str], warnings: list[str]) -> None:
-    """holyland.json: the Holy Land pin-drop game's map (Natural Earth, simplified) and its places.
+    for name in ("holyland.json", "earlychurch.json"):
+        validate_map_file(errors, warnings, name)
+
+
+def validate_map_file(errors: list[str], warnings: list[str], name: str) -> None:
+    """holyland.json / earlychurch.json: the pin-drop game's maps (Natural Earth, simplified) and their places.
 
     Each place needs an id, name, prompt, reference, text, note and coordinates inside the map box. The verse text is an exact
     Douay-Rheims copy made by the content tooling; this check only guards structure and obvious copy damage.
     Absent file is fine (the game then hides itself).
     """
-    path = REPO_ROOT / "holyland.json"
+    path = REPO_ROOT / name
     if not path.exists():
         return
     try:
@@ -314,19 +319,29 @@ def validate_holyland(errors: list[str], warnings: list[str]) -> None:
         return
     box = (data.get("map") or {}).get("bbox")
     if not (isinstance(box, list) and len(box) == 4 and box[0] < box[2] and box[1] < box[3]):
-        errors.append("holyland.json: map.bbox needs west, south, east, north")
+        errors.append(f"{name}: map.bbox needs west, south, east, north")
         return
     for key in ("land", "lakes", "rivers"):
         if not (data["map"].get(key)):
-            errors.append(f"holyland.json: map.{key} is empty")
+            errors.append(f"{name}: map.{key} is empty")
+    if data.get("title") is not None and not str(data["title"]).strip():
+        errors.append(f"{name}: title is blank")
+    sc = data.get("scoring")
+    if sc is not None:
+        keys = ("spotOnKm", "veryCloseKm", "closeKm", "zeroKm")
+        if not all(isinstance(sc.get(k), (int, float)) for k in keys) or not (0 < sc["spotOnKm"] <= sc["veryCloseKm"] <= sc["closeKm"] < sc["zeroKm"]):
+            errors.append(f"{name}: scoring distances must grow: spotOnKm <= veryCloseKm <= closeKm < zeroKm")
+    for lab in data["map"].get("labels") or []:
+        if not str(lab.get("name", "")).strip() or not (box[0] <= lab.get("lon", 1e9) <= box[2] and box[1] <= lab.get("lat", 1e9) <= box[3]):
+            errors.append(f"{name}: a map label is blank or outside the box")
     places = data.get("places")
     if not isinstance(places, list) or not places:
-        errors.append("holyland.json: needs a non-empty 'places' list")
+        errors.append(f"{name}: needs a non-empty 'places' list")
         return
     seen: set[str] = set()
     for p in places:
         pid = str(p.get("id", "")).strip()
-        where = f"holyland.json:{pid or '?'}"
+        where = f"{name}:{pid or '?'}"
         if not pid:
             errors.append(f"{where}: place is missing an 'id'")
         elif pid in seen:
