@@ -258,6 +258,41 @@ def validate_seasonal(manifest: dict, seen_ids: dict[str, str], errors: list[str
                 if per_level.get((slug, lv["level"]), 0) == 0:
                     errors.append(f"{rel}: {slug} level {lv['level']} has no questions")
 
+def validate_fishing_verses(errors: list[str], warnings: list[str]) -> None:
+    """fishing-verses.json: the verses the fish speak in Fishing with St. Peter.
+
+    Each entry is a Scripture text with its reference and a one-line note for the recap. The text must be an
+    exact copy of the Douay-Rheims (see content-workflow tooling, which copies it by script); this check only
+    guards the structure and obvious copy damage. Absent file is fine (the game then hides itself).
+    """
+    path = REPO_ROOT / "fishing-verses.json"
+    if not path.exists():
+        return
+    try:
+        data = load_json(path)
+    except LoadError as e:
+        errors.append(str(e))
+        return
+    seen: set[str] = set()
+    verses = data.get("verses") if isinstance(data, dict) else None
+    if not isinstance(verses, list) or not verses:
+        errors.append("fishing-verses.json: needs a non-empty 'verses' list")
+        return
+    for v in verses:
+        vid = str(v.get("id", "")).strip()
+        where = f"fishing-verses.json:{vid or '?'}"
+        if not vid:
+            errors.append(f"{where}: verse is missing an 'id'")
+        elif vid in seen:
+            errors.append(f"{where}: duplicate id")
+        seen.add(vid)
+        for field in ("reference", "text", "note"):
+            if not str(v.get(field, "")).strip():
+                errors.append(f"{where}: missing '{field}'")
+        text = str(v.get("text", ""))
+        if "[" in text or "]" in text or "  " in text or text != text.strip():
+            errors.append(f"{where}: text has copy damage (bracket, double space or stray whitespace)")
+
 def validate_aux_games(errors: list[str], warnings: list[str]) -> None:
     """Structural + citation checks for the standalone mini-game content
     files (Who Am I?, Guess the Book, Jeopardy). These live at the repo root,
@@ -471,6 +506,7 @@ def main() -> None:
 
     validate_aux_games(errors, warnings)
     validate_seasonal(manifest, seen_ids, errors, warnings)
+    validate_fishing_verses(errors, warnings)
 
     if length_tells and mc_total:
         worst = sorted(length_tells, key=lambda t: t[1], reverse=True)[:5]
