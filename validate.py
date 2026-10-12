@@ -259,13 +259,13 @@ def validate_seasonal(manifest: dict, seen_ids: dict[str, str], errors: list[str
                     errors.append(f"{rel}: {slug} level {lv['level']} has no questions")
 
 def validate_fishing_verses(errors: list[str], warnings: list[str]) -> None:
-    """fishing-verses.json, dove-verses.json and moses-verses.json: the verses the arcade games reveal.
+    """fishing-verses.json, dove-verses.json, moses-verses.json and rosary-verses.json: the verses the arcade games reveal.
 
     Each entry is a Scripture text with its reference and a one-line note for the recap. The text must be an
     exact copy of the Douay-Rheims (see content-workflow tooling, which copies it by script); this check only
     guards the structure and obvious copy damage. Absent file is fine (the game then hides itself).
     """
-    for name in ("fishing-verses.json", "dove-verses.json", "moses-verses.json"):
+    for name in ("fishing-verses.json", "dove-verses.json", "moses-verses.json", "rosary-verses.json"):
         _validate_verse_file(REPO_ROOT / name, name, errors)
 
 
