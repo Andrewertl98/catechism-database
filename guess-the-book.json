@@ -1,16 +1,16 @@
 {
   "game": "guess-the-book",
-  "description": "Identify the book of the Bible a passage comes from. Passages are quoted from the New American Bible, revised edition. The player types the book name; acceptedAnswers carries the ordinary variants (numbered-book spellings, common short forms).",
+  "description": "Identify the book of the Bible a passage comes from. Passages are quoted from the Douay-Rheims Bible (Challoner revision), copied from Project Gutenberg's public-domain text. The player types the book name; acceptedAnswers carries the ordinary variants (numbered-book spellings, common short forms).",
   "items": [
     {
       "id": "gtb-001",
       "testament": "OT",
       "book": "Genesis",
       "acceptedAnswers": [],
-      "passage": "In the beginning, when God created the heavens and the earth—and the earth was without form or shape, with darkness over the abyss and a mighty wind sweeping over the waters—",
+      "passage": "In the beginning God created heaven, and earth. And the earth was void and empty, and darkness was upon the face of the deep; and the spirit of God moved over the waters.",
       "explanation": "The opening of Genesis: God creates an ordered cosmos out of nothing, freely and by His word.",
       "citations": [
-        { "type": "scripture", "reference": "Genesis 1:1-2" }
+        { "type": "scripture", "reference": "Genesis 1:1-2", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -18,10 +18,10 @@
       "testament": "OT",
       "book": "Exodus",
       "acceptedAnswers": [],
-      "passage": "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall not have other gods beside me.",
+      "passage": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
       "explanation": "The first of the Ten Commandments, given at Sinai after the deliverance from Egypt.",
       "citations": [
-        { "type": "scripture", "reference": "Exodus 20:2-3" }
+        { "type": "scripture", "reference": "Exodus 20:2-3", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -29,10 +29,10 @@
       "testament": "OT",
       "book": "Psalms",
       "acceptedAnswers": ["Psalm", "the Psalms"],
-      "passage": "The LORD is my shepherd; there is nothing I lack. In green pastures he makes me lie down; to still waters he leads me; he restores my soul.",
+      "passage": "A psalm for David. The Lord ruleth me: and I shall want nothing. He hath set me in a place of pasture. He hath brought me up, on the water of refreshment: He hath converted my soul. He hath led me on the paths of justice, for his own name’s sake.",
       "explanation": "Psalm 23, the shepherd psalm, trusts God's provision and guidance through every danger.",
       "citations": [
-        { "type": "scripture", "reference": "Psalm 23:1-3" }
+        { "type": "scripture", "reference": "Psalm 23:1-3 (Douay-Rheims 22:1-3)", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -40,10 +40,10 @@
       "testament": "OT",
       "book": "Isaiah",
       "acceptedAnswers": [],
-      "passage": "For a child is born to us, a son is given to us; upon his shoulder dominion rests. They name him Wonderful Counselor, God-Hero, Father-Forever, Prince of Peace.",
+      "passage": "For a CHILD IS BORN to us, and a son is given to us, and the government is upon his shoulder: and his name shall be called Wonderful, Counsellor, God the Mighty, the Father of the world to come, the Prince of Peace.",
       "explanation": "Isaiah's prophecy of the messianic king, read by the Church at Christmas.",
       "citations": [
-        { "type": "scripture", "reference": "Isaiah 9:5" }
+        { "type": "scripture", "reference": "Isaiah 9:5 (Douay-Rheims 9:6)", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -51,10 +51,10 @@
       "testament": "OT",
       "book": "Proverbs",
       "acceptedAnswers": [],
-      "passage": "Trust in the LORD with all your heart, on your own intelligence do not rely; in all your ways be mindful of him, and he will make straight your paths.",
+      "passage": "Have confidence in the Lord with all thy heart, and lean not upon thy own prudence. In all thy ways think on him, and he will direct thy steps.",
       "explanation": "A proverb on the wisdom of entrusting one's whole life to God rather than to one's own cleverness.",
       "citations": [
-        { "type": "scripture", "reference": "Proverbs 3:5-6" }
+        { "type": "scripture", "reference": "Proverbs 3:5-6", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -62,10 +62,10 @@
       "testament": "OT",
       "book": "Ecclesiastes",
       "acceptedAnswers": ["Qoheleth"],
-      "passage": "There is an appointed time for everything, and a time for every affair under the heavens. A time to be born, and a time to die; a time to plant, and a time to uproot the plant.",
+      "passage": "All things have their season, and in their times all things pass under heaven. A time to be born and a time to die. A time to plant, and a time to pluck up that which is planted.",
       "explanation": "Qoheleth reflects on the seasons of human life, all of them held within God's providence.",
       "citations": [
-        { "type": "scripture", "reference": "Ecclesiastes 3:1-2" }
+        { "type": "scripture", "reference": "Ecclesiastes 3:1-2", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -73,10 +73,10 @@
       "testament": "OT",
       "book": "Job",
       "acceptedAnswers": [],
-      "passage": "Naked I came forth from my mother's womb, and naked shall I go back again. The LORD gave and the LORD has taken away; blessed be the name of the LORD!",
+      "passage": "And said: Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away: as it hath pleased the Lord, so is it done: blessed be the name of the Lord.",
       "explanation": "Job's response to catastrophic loss, holding to worship without cursing God.",
       "citations": [
-        { "type": "scripture", "reference": "Job 1:21" }
+        { "type": "scripture", "reference": "Job 1:21", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -84,10 +84,10 @@
       "testament": "OT",
       "book": "Jonah",
       "acceptedAnswers": [],
-      "passage": "But the LORD sent a large fish to swallow Jonah, and he remained in the belly of the fish three days and three nights.",
+      "passage": "Now the Lord prepared a great fish to swallow up Jonas: and Jonas was in the belly of the fish for three days and three nights.",
       "explanation": "Jonah's three days in the fish, which the Lord names as a sign of His own three days in the tomb.",
       "citations": [
-        { "type": "scripture", "reference": "Jonah 2:1" }
+        { "type": "scripture", "reference": "Jonah 2:1", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -95,10 +95,10 @@
       "testament": "NT",
       "book": "Matthew",
       "acceptedAnswers": [],
-      "passage": "Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are they who mourn, for they will be comforted.",
+      "passage": "Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are the meek: for they shall possess the land.",
       "explanation": "The opening of the Beatitudes in the Sermon on the Mount.",
       "citations": [
-        { "type": "scripture", "reference": "Matthew 5:3-4" }
+        { "type": "scripture", "reference": "Matthew 5:3-4", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -106,10 +106,10 @@
       "testament": "NT",
       "book": "John",
       "acceptedAnswers": ["Gospel of John"],
-      "passage": "In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things came to be through him.",
+      "passage": "In the beginning was the Word: and the Word was with God: and the Word was God. The same was in the beginning with God. All things were made by him: and without him was made nothing that was made.",
       "explanation": "The prologue of John's Gospel, proclaiming the eternity and divinity of the Word made flesh.",
       "citations": [
-        { "type": "scripture", "reference": "John 1:1-3" }
+        { "type": "scripture", "reference": "John 1:1-3", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -117,10 +117,10 @@
       "testament": "NT",
       "book": "Luke",
       "acceptedAnswers": ["Gospel of Luke"],
-      "passage": "Do not be afraid; for behold, I proclaim to you good news of great joy that will be for all the people. For today in the city of David a savior has been born for you who is Messiah and Lord.",
+      "passage": "And the angel said to them: Fear not; for, behold, I bring you good tidings of great joy that shall be to all the people: For, this day is born to you a Saviour, who is Christ the Lord, in the city of David.",
       "explanation": "The angel's announcement to the shepherds on the night of the Nativity.",
       "citations": [
-        { "type": "scripture", "reference": "Luke 2:10-11" }
+        { "type": "scripture", "reference": "Luke 2:10-11", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -128,10 +128,10 @@
       "testament": "NT",
       "book": "Acts",
       "acceptedAnswers": ["Acts of the Apostles", "the Acts of the Apostles"],
-      "passage": "When the time for Pentecost was fulfilled, they were all in one place together. And suddenly there came from the sky a noise like a strong driving wind, and it filled the entire house.",
+      "passage": "And when the days of the Pentecost were accomplished, they were all together in one place: And suddenly there came a sound from heaven, as of a mighty wind coming: and it filled the whole house where they were sitting.",
       "explanation": "The descent of the Holy Spirit on the apostles at Pentecost, the birthday of the Church's mission.",
       "citations": [
-        { "type": "scripture", "reference": "Acts 2:1-2" }
+        { "type": "scripture", "reference": "Acts 2:1-2", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -139,10 +139,10 @@
       "testament": "NT",
       "book": "Romans",
       "acceptedAnswers": [],
-      "passage": "We know that all things work for good for those who love God, who are called according to his purpose.",
+      "passage": "And we know that to them that love God all things work together unto good: to such as, according to his purpose, are called to be saints.",
       "explanation": "Paul's assurance that God draws good even out of suffering for those united to Him.",
       "citations": [
-        { "type": "scripture", "reference": "Romans 8:28" }
+        { "type": "scripture", "reference": "Romans 8:28", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -150,10 +150,10 @@
       "testament": "NT",
       "book": "1 Corinthians",
       "acceptedAnswers": ["First Corinthians", "1 Cor", "One Corinthians"],
-      "passage": "If I speak in human and angelic tongues but do not have love, I am a resounding gong or a clashing cymbal. Love is patient, love is kind.",
+      "passage": "If I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. ... Charity is patient, is kind: charity envieth not, dealeth not perversely, is not puffed up,",
       "explanation": "Paul's hymn to charity, the greatest of the theological virtues and the form of all the rest.",
       "citations": [
-        { "type": "scripture", "reference": "1 Corinthians 13:1,4" }
+        { "type": "scripture", "reference": "1 Corinthians 13:1,4", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -161,10 +161,10 @@
       "testament": "NT",
       "book": "Philippians",
       "acceptedAnswers": [],
-      "passage": "I have the strength for everything through him who empowers me.",
+      "passage": "I can do all things in him who strengtheneth me.",
       "explanation": "Paul, writing from prison, on the sufficiency of Christ's grace in every circumstance.",
       "citations": [
-        { "type": "scripture", "reference": "Philippians 4:13" }
+        { "type": "scripture", "reference": "Philippians 4:13", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -172,10 +172,10 @@
       "testament": "NT",
       "book": "Hebrews",
       "acceptedAnswers": [],
-      "passage": "Faith is the realization of what is hoped for and evidence of things not seen. Because of it the ancients were well attested.",
+      "passage": "Now, faith is the substance of things to be hoped for, the evidence of things that appear not. For by this the ancients obtained a testimony.",
       "explanation": "The definition of faith that opens Hebrews' roll-call of the faithful of the old covenant.",
       "citations": [
-        { "type": "scripture", "reference": "Hebrews 11:1-2" }
+        { "type": "scripture", "reference": "Hebrews 11:1-2", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -183,10 +183,10 @@
       "testament": "NT",
       "book": "James",
       "acceptedAnswers": [],
-      "passage": "So also faith of itself, if it does not have works, is dead. Indeed someone might say, “You have faith and I have works.” Demonstrate your faith to me without works, and I will demonstrate my faith to you from my works.",
+      "passage": "So faith also, if it have not works, is dead in itself. But some man will say: Thou hast faith, and I have works. Shew me thy faith without works; and I will shew thee, by works, my faith.",
       "explanation": "James on the inseparability of living faith and charitable works.",
       "citations": [
-        { "type": "scripture", "reference": "James 2:17-18" }
+        { "type": "scripture", "reference": "James 2:17-18", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -194,10 +194,10 @@
       "testament": "NT",
       "book": "Revelation",
       "acceptedAnswers": ["the Apocalypse", "Apocalypse", "the Book of Revelation"],
-      "passage": "Then I saw a new heaven and a new earth. The former heaven and the former earth had passed away, and the sea was no more. I also saw the holy city, a new Jerusalem, coming down out of heaven from God.",
+      "passage": "And I saw a new heaven and a new earth. For the first heaven and the first earth was gone: and the sea is now no more. And I, John, saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.",
       "explanation": "John's vision of the consummation of all things, when God will dwell with His people fully and forever.",
       "citations": [
-        { "type": "scripture", "reference": "Revelation 21:1-2" }
+        { "type": "scripture", "reference": "Revelation 21:1-2", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -205,10 +205,10 @@
       "testament": "OT",
       "book": "Deuteronomy",
       "acceptedAnswers": [],
-      "passage": "Hear, O Israel! The LORD is our God, the LORD alone! Therefore, you shall love the LORD, your God, with your whole heart, and with your whole being, and with your whole strength.",
+      "passage": "Hear, O Israel, the Lord our God is one Lord. Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole strength.",
       "explanation": "The Shema, Israel's daily prayer, which the Lord names as the greatest commandment.",
       "citations": [
-        { "type": "scripture", "reference": "Deuteronomy 6:4-5" }
+        { "type": "scripture", "reference": "Deuteronomy 6:4-5", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -216,10 +216,10 @@
       "testament": "OT",
       "book": "Numbers",
       "acceptedAnswers": [],
-      "passage": "And the LORD said to Moses: Make a saraph and mount it on a pole, and everyone who has been bitten will look at it and recover. Accordingly Moses made a bronze serpent and mounted it on a pole.",
+      "passage": "And the Lord said to him: Make a brazen serpent, and set it up for a sign: whosoever being struck shall look on it, shall live. Moses therefore made a brazen serpent, and set it up for a sign: which when they that were bitten looked upon, they were healed.",
       "explanation": "The bronze serpent in the wilderness, which the Lord names as a figure of His own being lifted up on the cross.",
       "citations": [
-        { "type": "scripture", "reference": "Numbers 21:8-9" }
+        { "type": "scripture", "reference": "Numbers 21:8-9", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -227,10 +227,10 @@
       "testament": "OT",
       "book": "Joshua",
       "acceptedAnswers": [],
-      "passage": "If it is displeasing to you to serve the LORD, choose today whom you will serve... As for me and my household, we will serve the LORD.",
+      "passage": "But if it seem evil to you to serve the Lord, you have your choice: choose this day that which pleaseth you, whom you would rather serve, whether the gods which your fathers served in Mesopotamia, or the gods of the Amorrhites, in whose land you dwell: but as for me and my house we will serve the Lord,",
       "explanation": "Joshua's charge to Israel at Shechem after the conquest, calling the people to renew the covenant.",
       "citations": [
-        { "type": "scripture", "reference": "Joshua 24:15" }
+        { "type": "scripture", "reference": "Joshua 24:15", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -238,10 +238,10 @@
       "testament": "OT",
       "book": "Judges",
       "acceptedAnswers": [],
-      "passage": "Samson called to the LORD and said, “Lord GOD, remember me! Strengthen me only this once... that I may avenge myself on the Philistines for the loss of my two eyes.”",
+      "passage": "But he called upon the Lord, saying: O Lord God remember me, and restore to me now my former strength, O my God, that I may revenge myself on my enemies, and for the loss of my two eyes I may take one revenge.",
       "explanation": "The blinded Samson's last prayer, in which his strength returns and the temple of Dagon falls.",
       "citations": [
-        { "type": "scripture", "reference": "Judges 16:28" }
+        { "type": "scripture", "reference": "Judges 16:28", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -249,10 +249,10 @@
       "testament": "OT",
       "book": "1 Samuel",
       "acceptedAnswers": ["First Samuel", "1 Sam", "One Samuel"],
-      "passage": "So Eli said to Samuel, “Go to sleep, and if you are called, reply, ‘Speak, LORD, for your servant is listening.’”",
+      "passage": "And said: Here am I: for thou didst call me. Then Heli understood that the Lord called the child, and he said to Samuel: Go, and sleep: and if he shall call thee any more, thou shalt say: Speak, Lord, for thy servant heareth. So Samuel went, and slept in his place.",
       "explanation": "The boy Samuel's call in the night at the sanctuary of Shiloh.",
       "citations": [
-        { "type": "scripture", "reference": "1 Samuel 3:9" }
+        { "type": "scripture", "reference": "1 Samuel 3:9", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -260,10 +260,10 @@
       "testament": "OT",
       "book": "2 Samuel",
       "acceptedAnswers": ["Second Samuel", "2 Sam", "Two Samuel"],
-      "passage": "Then Nathan said to David: “You are the man! Thus says the LORD, the God of Israel: I anointed you king of Israel... Why have you despised the LORD and done what is evil in his sight?”",
+      "passage": "And Nathan said to David: Thou art the man. Thus saith the Lord the God of Israel: I anointed thee king over Israel, and I delivered thee from the hand of Saul,",
       "explanation": "The prophet Nathan confronts David over Bathsheba and Uriah, and David repents.",
       "citations": [
-        { "type": "scripture", "reference": "2 Samuel 12:7" }
+        { "type": "scripture", "reference": "2 Samuel 12:7", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -271,10 +271,10 @@
       "testament": "OT",
       "book": "1 Kings",
       "acceptedAnswers": ["First Kings", "1 Kgs", "One Kings", "First Book of Kings"],
-      "passage": "When all the people saw this, they fell prostrate and said, “The LORD is God! The LORD is God!”",
+      "passage": "And when all the people saw this, they fell on their faces, and they said: The Lord, he is God; the Lord, he is God.",
       "explanation": "The people's response after fire falls from heaven on Elijah's altar on Mount Carmel.",
       "citations": [
-        { "type": "scripture", "reference": "1 Kings 18:39" }
+        { "type": "scripture", "reference": "1 Kings 18:39", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -282,10 +282,10 @@
       "testament": "OT",
       "book": "2 Kings",
       "acceptedAnswers": ["Second Kings", "2 Kgs", "Two Kings", "Second Book of Kings"],
-      "passage": "So Naaman went down and plunged into the Jordan seven times, according to the word of the man of God. His flesh became again like the flesh of a little child, and he was clean.",
+      "passage": "Then he went down, and washed in the Jordan seven times, according to the word of the man of God; and his flesh was restored, like the flesh of a little child: and he was made clean.",
       "explanation": "The Syrian commander Naaman is healed of leprosy by obeying the prophet Elisha.",
       "citations": [
-        { "type": "scripture", "reference": "2 Kings 5:14" }
+        { "type": "scripture", "reference": "2 Kings 5:14", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -293,10 +293,10 @@
       "testament": "OT",
       "book": "Nehemiah",
       "acceptedAnswers": [],
-      "passage": "Do not be saddened this day, for rejoicing in the LORD is your strength!",
+      "passage": "And he said to them: Go, eat fat meats, and drink sweet wine, and send portions to them that have not prepared for themselves: because it is the holy day of the Lord, and be not sad: for the joy of the Lord is our strength.",
       "explanation": "Nehemiah and Ezra to the people weeping as the Law is read aloud after the return from exile.",
       "citations": [
-        { "type": "scripture", "reference": "Nehemiah 8:10" }
+        { "type": "scripture", "reference": "Nehemiah 8:10", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -304,10 +304,10 @@
       "testament": "OT",
       "book": "Tobit",
       "acceptedAnswers": ["Tobias"],
-      "passage": "“I am Raphael, one of the seven angels who stand and serve before the Glory of the Lord.” ... they were both terrified and fell to the ground.",
+      "passage": "For I am the angel Raphael, one of the seven, who stand before the Lord.",
       "explanation": "The angel Raphael reveals himself after guiding Tobiah and healing the blindness of Tobit.",
       "citations": [
-        { "type": "scripture", "reference": "Tobit 12:15" }
+        { "type": "scripture", "reference": "Tobit 12:15", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -315,10 +315,10 @@
       "testament": "OT",
       "book": "Judith",
       "acceptedAnswers": [],
-      "passage": "The Lord Almighty thwarted them by the hand of a woman. ... She took hold of the hair of his head... and struck his neck twice with all her might, and cut off his head.",
+      "passage": "And when she had said this, she went to the pillar that was at his bed’s head, and loosed his sword that hung tied upon it. And when she had drawn it out, she took him by the hair of his head, and said: Strengthen me, O Lord God, at this hour. And she struck twice upon his neck, and cut off his head, and took off his canopy from the pillars, and rolled away his headless body.",
       "explanation": "The widow Judith delivers Bethulia by killing the Assyrian general Holofernes.",
       "citations": [
-        { "type": "scripture", "reference": "Judith 13:6-8" }
+        { "type": "scripture", "reference": "Judith 13:6-8 (Douay-Rheims 13:8-10)", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -326,10 +326,10 @@
       "testament": "OT",
       "book": "2 Maccabees",
       "acceptedAnswers": ["Second Maccabees", "2 Macc", "Two Maccabees"],
-      "passage": "“You accursed fiend, you are depriving us of this present life, but the King of the universe will raise us up to live again forever.”",
+      "passage": "And when he was at the last gasp, he said thus: Thou indeed, O most wicked man, destroyest us out of this present life: but the King of the world will raise us up, who die for his laws, in the resurrection of eternal life.",
       "explanation": "The second of seven brothers martyred with their mother rather than break the law, professing the resurrection of the body.",
       "citations": [
-        { "type": "scripture", "reference": "2 Maccabees 7:9" }
+        { "type": "scripture", "reference": "2 Maccabees 7:9", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -337,10 +337,10 @@
       "testament": "OT",
       "book": "Wisdom",
       "acceptedAnswers": ["the Wisdom of Solomon", "Book of Wisdom"],
-      "passage": "But the souls of the just are in the hand of God, and no torment shall touch them. They seemed, in the view of the foolish, to be dead... but they are in peace.",
+      "passage": "But the souls of the just are in the hand of God, and the torment of death shall not touch them. In the sight of the unwise they seemed to die: and their departure was taken for misery: And their going away from us, for utter destruction: but they are in peace.",
       "explanation": "A meditation on the immortality of the righteous, often read at funerals.",
       "citations": [
-        { "type": "scripture", "reference": "Wisdom 3:1-3" }
+        { "type": "scripture", "reference": "Wisdom 3:1-3", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -348,10 +348,10 @@
       "testament": "OT",
       "book": "Sirach",
       "acceptedAnswers": ["Ecclesiasticus", "Ben Sira", "the Wisdom of Ben Sira"],
-      "passage": "All wisdom is from the Lord and remains with him forever. The sand of the seas, the drops of rain, the days of eternity: who can count them?",
+      "passage": "All wisdom is from the Lord God, and hath been always with him, and is before all time. Who hath numbered the sand of the sea, and the drops of rain, and the days of the world? Who hath measured the height of heaven, and the breadth of the earth, and the depth of the abyss?",
       "explanation": "The opening of Ben Sira's book of practical wisdom for living in the fear of the Lord.",
       "citations": [
-        { "type": "scripture", "reference": "Sirach 1:1-2" }
+        { "type": "scripture", "reference": "Sirach 1:1-2", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -359,10 +359,10 @@
       "testament": "OT",
       "book": "Song of Songs",
       "acceptedAnswers": ["the Song of Songs", "Canticle of Canticles", "the Song of Solomon", "Song of Solomon"],
-      "passage": "Set me as a seal upon your heart, as a seal upon your arm; for Love is strong as Death, longing is fierce as Sheol. Its arrows are arrows of fire, flames of the divine.",
+      "passage": "Put me as a seal upon thy heart, as a seal upon thy arm, for love is strong as death, jealousy as hard as hell, the lamps thereof are fire and flames.",
       "explanation": "Love poetry read by the tradition as the love of God for His people and Christ for the Church.",
       "citations": [
-        { "type": "scripture", "reference": "Song of Songs 8:6" }
+        { "type": "scripture", "reference": "Song of Songs 8:6", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -370,10 +370,10 @@
       "testament": "OT",
       "book": "Lamentations",
       "acceptedAnswers": [],
-      "passage": "The LORD's acts of mercy are not exhausted, his compassion is not spent; they are renewed each morning—great is your faithfulness!",
+      "passage": "Heth. The mercies of the Lord that we are not consumed: because his commiserations have not failed. Heth. They are new every morning, great is thy faithfulness.",
       "explanation": "A flash of hope in the middle of the dirge over the ruin of Jerusalem.",
       "citations": [
-        { "type": "scripture", "reference": "Lamentations 3:22-23" }
+        { "type": "scripture", "reference": "Lamentations 3:22-23", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -381,10 +381,10 @@
       "testament": "OT",
       "book": "Ezekiel",
       "acceptedAnswers": [],
-      "passage": "I will give you a new heart, and a new spirit I will put within you. I will remove the heart of stone from your flesh and give you a heart of flesh.",
+      "passage": "And I will give you a new heart, and put a new spirit within you: and I will take away the stony heart out of your flesh, and will give you a heart of flesh.",
       "explanation": "God's promise, through Ezekiel in exile, of an interior renewal fulfilled in the new covenant.",
       "citations": [
-        { "type": "scripture", "reference": "Ezekiel 36:26" }
+        { "type": "scripture", "reference": "Ezekiel 36:26", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -392,10 +392,10 @@
       "testament": "OT",
       "book": "Hosea",
       "acceptedAnswers": ["Osee"],
-      "passage": "When Israel was a child I loved him, out of Egypt I called my son. ... It was I who taught Ephraim to walk, who took them in my arms.",
+      "passage": "As the morning passeth, so hath the king of Israel passed away. Because Israel was a child, and I loved him: and I called my son out of Egypt. As they called them, they went away from before their face: they offered victims to Baalim, and sacrificed to idols. And I was like a foster father to Ephraim, I carried them in my arms: and they knew not that I healed them.",
       "explanation": "God's tender complaint over His unfaithful people, using the image of a parent and a wayward child.",
       "citations": [
-        { "type": "scripture", "reference": "Hosea 11:1-3" }
+        { "type": "scripture", "reference": "Hosea 11:1-3", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -403,10 +403,10 @@
       "testament": "OT",
       "book": "Amos",
       "acceptedAnswers": [],
-      "passage": "I hate, I spurn your feasts... But if you offer me burnt offerings, I will not accept them. ... Rather let justice surge like waters, and righteousness like an unfailing stream.",
+      "passage": "I hate, and have rejected your festivities: and I will not receive the odour of your assemblies. And if you offer me holocausts, and your gifts, I will not receive them: neither will I regard the vows of your fat beasts. Take away from me the tumult of thy songs: and I will not hear the canticles of thy harp. But judgment shall be revealed as water, and justice as a mighty torrent.",
       "explanation": "The shepherd-prophet Amos against worship divorced from justice for the poor.",
       "citations": [
-        { "type": "scripture", "reference": "Amos 5:21-24" }
+        { "type": "scripture", "reference": "Amos 5:21-24", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -414,10 +414,10 @@
       "testament": "OT",
       "book": "Micah",
       "acceptedAnswers": ["Micheas"],
-      "passage": "You have been told, O mortal, what is good, and what the LORD requires of you: Only to do justice and to love goodness, and to walk humbly with your God.",
+      "passage": "I will shew thee, O man, what is good, and what the Lord requireth of thee: Verily to do judgment, and to love mercy, and to walk solicitous with thy God.",
       "explanation": "Micah's summary of true religion, and elsewhere he names Bethlehem as the birthplace of the ruler of Israel.",
       "citations": [
-        { "type": "scripture", "reference": "Micah 6:8" }
+        { "type": "scripture", "reference": "Micah 6:8", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -425,10 +425,10 @@
       "testament": "OT",
       "book": "Zechariah",
       "acceptedAnswers": ["Zacharias"],
-      "passage": "Exult greatly, O daughter Zion! Behold: your king is coming to you, a just savior is he, humble, and riding on a donkey, on a colt, the foal of a donkey.",
+      "passage": "Rejoice greatly, O daughter of Sion, shout for joy, O daughter of Jerusalem: BEHOLD THY KING will come to thee, the just and saviour: he is poor, and riding upon an ass, and upon a colt, the foal of an ass.",
       "explanation": "The prophecy fulfilled on Palm Sunday when the Lord enters Jerusalem.",
       "citations": [
-        { "type": "scripture", "reference": "Zechariah 9:9" }
+        { "type": "scripture", "reference": "Zechariah 9:9", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -436,10 +436,10 @@
       "testament": "OT",
       "book": "Malachi",
       "acceptedAnswers": ["Malachias"],
-      "passage": "From the rising of the sun to its setting, my name is great among the nations; incense offerings are made to my name everywhere, and a pure offering.",
+      "passage": "For from the rising of the sun even to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation: for my name is great among the Gentiles, saith the Lord of hosts.",
       "explanation": "A prophecy the Church reads as pointing to the one pure offering of the Eucharist, made in every place.",
       "citations": [
-        { "type": "scripture", "reference": "Malachi 1:11" }
+        { "type": "scripture", "reference": "Malachi 1:11", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -447,10 +447,10 @@
       "testament": "NT",
       "book": "Mark",
       "acceptedAnswers": ["Gospel of Mark"],
-      "passage": "Then he said to them, “The sabbath was made for man, not man for the sabbath. That is why the Son of Man is lord even of the sabbath.”",
+      "passage": "And he said to them: The sabbath was made for man, and not man for the sabbath. Therefore the Son of man is Lord of the sabbath also.",
       "explanation": "From the shortest and most fast-paced of the Gospels, on the purpose of the Lord's day.",
       "citations": [
-        { "type": "scripture", "reference": "Mark 2:27-28" }
+        { "type": "scripture", "reference": "Mark 2:27-28", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -458,10 +458,10 @@
       "testament": "NT",
       "book": "Galatians",
       "acceptedAnswers": ["Gal"],
-      "passage": "I have been crucified with Christ; yet I live, no longer I, but Christ lives in me; insofar as I now live in the flesh, I live by faith in the Son of God who has loved me and given himself up for me.",
+      "passage": "For I, through the law, am dead to the law, that I may live to God; with Christ I am nailed to the cross. And I live, now not I: but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me and delivered himself for me.",
       "explanation": "Paul on the believer's whole life now hidden in Christ.",
       "citations": [
-        { "type": "scripture", "reference": "Galatians 2:19-20" }
+        { "type": "scripture", "reference": "Galatians 2:19-20", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -469,10 +469,10 @@
       "testament": "NT",
       "book": "Colossians",
       "acceptedAnswers": ["Col"],
-      "passage": "He is the image of the invisible God, the firstborn of all creation. For in him were created all things in heaven and on earth... all things were created through him and for him.",
+      "passage": "Who is the image of the invisible God, the firstborn of every creature: For in him were all things created in heaven and on earth, visible and invisible, whether thrones, or dominations, or principalities, or powers. All things were created by him and in him.",
       "explanation": "An early hymn on the supremacy of Christ over all creation.",
       "citations": [
-        { "type": "scripture", "reference": "Colossians 1:15-16" }
+        { "type": "scripture", "reference": "Colossians 1:15-16", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -480,10 +480,10 @@
       "testament": "NT",
       "book": "2 Timothy",
       "acceptedAnswers": ["Second Timothy", "2 Tim", "Two Timothy"],
-      "passage": "I have competed well; I have finished the race; I have kept the faith. From now on the crown of righteousness awaits me.",
+      "passage": "I have fought a good fight: I have finished my course: I have kept the faith. As to the rest, there is laid up for me a crown of justice which the Lord the just judge will render to me in that day: and not only to me, but to them also that love his coming. Make haste to come to me quickly.",
       "explanation": "Paul's words near the end of his life, in what reads as a last testament to a younger co-worker.",
       "citations": [
-        { "type": "scripture", "reference": "2 Timothy 4:7-8" }
+        { "type": "scripture", "reference": "2 Timothy 4:7-8", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -491,10 +491,10 @@
       "testament": "NT",
       "book": "1 Peter",
       "acceptedAnswers": ["First Peter", "1 Pet", "One Peter"],
-      "passage": "But you are “a chosen race, a royal priesthood, a holy nation, a people of his own, so that you may announce the praises” of him who called you out of darkness into his wonderful light.",
+      "passage": "But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvelous light:",
       "explanation": "Peter applies to the baptized the titles once given to Israel at Sinai.",
       "citations": [
-        { "type": "scripture", "reference": "1 Peter 2:9" }
+        { "type": "scripture", "reference": "1 Peter 2:9", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -502,10 +502,10 @@
       "testament": "NT",
       "book": "1 John",
       "acceptedAnswers": ["First John", "1 Jn", "One John"],
-      "passage": "Whoever is without love does not know God, for God is love. ... God is love, and whoever remains in love remains in God and God in him.",
+      "passage": "He that loveth not knoweth not God: for God is charity. ... And we have known and have believed the charity which God hath to us. God is charity: and he that abideth in charity abideth in God, and God in him.",
       "explanation": "The letter that most directly identifies the very nature of God with love.",
       "citations": [
-        { "type": "scripture", "reference": "1 John 4:8,16" }
+        { "type": "scripture", "reference": "1 John 4:8,16", "note": "Douay-Rheims" }
       ]
     },
     {
@@ -513,10 +513,10 @@
       "testament": "NT",
       "book": "Jude",
       "acceptedAnswers": [],
-      "passage": "Beloved... I now feel a need to write to encourage you to contend for the faith that was once for all handed down to the holy ones.",
+      "passage": "Dearly beloved, taking all care to write unto you concerning your common salvation, I was under a necessity to write unto you: to beseech you to contend earnestly for the faith once delivered to the saints.",
       "explanation": "A short, sharp letter urging its readers to hold fast the apostolic faith against those who distort it.",
       "citations": [
-        { "type": "scripture", "reference": "Jude 3" }
+        { "type": "scripture", "reference": "Jude 3", "note": "Douay-Rheims" }
       ]
     }
   ]

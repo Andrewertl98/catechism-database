@@ -902,12 +902,12 @@
       "difficultyElo": 1150,
       "prompt": "'Sanctus, Sanctus, Sanctus' is a threefold acclamation sung at Mass. What Scriptural moment does it echo?",
       "choices": [
-        "Isaiah's own real, prophetic vision of the seraphim crying 'Holy, holy, holy is the LORD of hosts'",
+        "Isaiah's own real, prophetic vision of the seraphim crying 'Holy, holy, holy, the Lord God of hosts'",
         "This threefold acclamation has no genuine, Scriptural source at all",
         "The Scriptural source is the Last Supper alone, with no connection to any Old Testament vision",
         "The phrase originates entirely outside Scripture, in a later, medieval composition"
       ],
-      "correctAnswer": "Isaiah's own real, prophetic vision of the seraphim crying 'Holy, holy, holy is the LORD of hosts'",
+      "correctAnswer": "Isaiah's own real, prophetic vision of the seraphim crying 'Holy, holy, holy, the Lord God of hosts'",
       "explanation": "This is a practical, Scriptural connection -- the threefold 'Sanctus' echoes Isaiah's own prophetic vision of the seraphim, deepening this familiar Mass acclamation's own genuine roots.",
       "hint": "Recall the definition of 'Sanctus,' and consider its own prophetic, Scriptural source.",
       "citations": [
@@ -2735,12 +2735,12 @@
       "difficultyElo": 1825,
       "prompt": "Stabat Mater's line describing Mary's soul, 'cuius animam gementem... pertransivit gladius' ('whose grieving soul... a sword pierced through'), directly echoes which Gospel passage?",
       "choices": [
-        "Simeon's prophecy to Mary in Luke 2:35 ('a sword will pierce your own soul too')",
+        "Simeon's prophecy to Mary in Luke 2:35 ('thy own soul a sword shall pierce')",
         "The Annunciation account in Luke 1:26-38",
         "The wedding at Cana in John 2:1-11",
         "Christ's words from the cross to the beloved disciple in John 19:26-27"
       ],
-      "correctAnswer": "Simeon's prophecy to Mary in Luke 2:35 ('a sword will pierce your own soul too')",
+      "correctAnswer": "Simeon's prophecy to Mary in Luke 2:35 ('thy own soul a sword shall pierce')",
       "explanation": "'Pertransivit gladius' ('a sword pierced through') is a direct verbal echo of Simeon's prophecy at the Presentation, that a sword would pierce Mary's own soul -- Stabat Mater presents that prophecy as fulfilled at the foot of the cross, connecting the two Gospel moments through the hymn's own careful word choice.",
       "hint": "This connects Mary's presence at the crucifixion to a specific prophecy made about her decades earlier, at Jesus's infancy.",
       "citations": [
@@ -3013,7 +3013,7 @@
         "The Te Deum"
       ],
       "correctAnswer": "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
-      "explanation": "Zechariah's canticle, prayed every morning in the Church's Liturgy of the Hours, already closes on exactly this image -- Christ as the dawn breaking on those in darkness -- itself echoing Isaiah's earlier promise that 'the people who walked in darkness have seen a great light.'",
+      "explanation": "Zechariah's canticle, prayed every morning in the Church's Liturgy of the Hours, already closes on exactly this image -- Christ as the dawn breaking on those in darkness -- itself echoing Isaiah's earlier promise that 'the people that walked in darkness, have seen a great light.'",
       "hint": "This canticle is prayed every single day at Morning Prayer, and it ends on an image of light breaking over darkness.",
       "citations": [
         {
@@ -3395,7 +3395,7 @@
       "level": 16,
       "type": "fill_blank",
       "difficultyElo": 2035,
-      "prompt": "Mary's response to the angel, rendered in Latin as 'Fiat mihi secundum verbum tuum,' means 'let it be done to me according to thy ____.'",
+      "prompt": "Mary's response to the angel, rendered in Latin as 'Fiat mihi secundum verbum tuum,' means 'be it done to me according to thy ____.'",
       "correctAnswer": "word",
       "explanation": "'Fiat' -- 'let it be done' -- is the same verb form behind 'fiat lux,' 'let there be light.' Mary's own 'fiat' answers God's first creative word with a human word of total consent, which is why this single line is treated as the hinge of the whole Gospel account.",
       "hint": "'Verbum' is the same word that opens John's Gospel.",
@@ -3493,12 +3493,12 @@
       "difficultyElo": 2050,
       "prompt": "'Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam' is a further, real, famous Vulgate passage. It means what?",
       "choices": [
-        "'You are Peter, and upon this rock I will build my Church' -- Christ's own foundational words about Peter",
-        "'You are Peter, and upon this rock I will build my house' -- an unrelated, domestic saying",
+        "'Thou art Peter; and upon this rock I will build my church' -- Christ's own foundational words about Peter",
+        "'Thou art Peter; and upon this rock I will build my house' -- an unrelated, domestic saying",
         "This famous Latin phrase has no genuine, coherent, English translation available",
         "'Tu es Petrus' addresses John the Baptist, not Peter, despite the common assumption"
       ],
-      "correctAnswer": "'You are Peter, and upon this rock I will build my Church' -- Christ's own foundational words about Peter",
+      "correctAnswer": "'Thou art Peter; and upon this rock I will build my church' -- Christ's own foundational words about Peter",
       "explanation": "This is a famous Vulgate passage -- 'Tu es Petrus' records Christ's foundational words establishing Peter's role.",
       "hint": "Recall the Vulgate passages, and consider what this famous phrase literally means.",
       "citations": [
@@ -3615,7 +3615,7 @@
       "pairs": [
         {
           "left": "'Tu es Petrus,' translated",
-          "right": "\"You are Peter, and upon this rock I will build my Church\""
+          "right": "\"Thou art Peter; and upon this rock I will build my church\""
         },
         {
           "left": "Connection to 'ex cathedra' and 'sede vacante'",

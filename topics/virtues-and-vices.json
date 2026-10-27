@@ -1028,7 +1028,7 @@
       "difficultyElo": 1212,
       "prompt": "True or False: Of the three theological virtues, St. Paul teaches that love (charity) is the greatest.",
       "correctAnswer": true,
-      "explanation": "Paul's hymn to love concludes: 'So faith, hope, love abide, these three; but the greatest of these is love.' Charity alone will remain in heaven, where faith gives way to sight and hope to possession.",
+      "explanation": "Paul's hymn to love concludes: 'And now there remain faith, hope, and charity, these three: but the greatest of these is charity.' Charity alone will remain in heaven, where faith gives way to sight and hope to possession.",
       "hint": "This is from Paul's famous chapter on love, often read at weddings.",
       "citations": [
         {
@@ -2361,10 +2361,10 @@
       "level": 12,
       "type": "fill_blank",
       "difficultyElo": 1818,
-      "prompt": "'Blessed are the ____ in heart, for they shall see God' -- the Beatitude traditionally connected to a purified, undivided love of God above all things.",
-      "correctAnswer": "pure",
+      "prompt": "'Blessed are the ____ of heart: for they shall see God' -- the Beatitude traditionally connected to a purified, undivided love of God above all things.",
+      "correctAnswer": "clean",
       "explanation": "A heart wholly, simply directed toward God -- undivided by disordered attachments -- is what fits a person to see God as he is.",
-      "hint": "It's the opposite of a heart divided between God and other loves.",
+      "hint": "It's the opposite of a heart divided between God and other loves; another translation says \"pure\".",
       "citations": [
         {
           "type": "scripture",
@@ -2372,6 +2372,9 @@
           "quote": "Blessed are the clean of heart: for they shall see God.",
           "note": "Douay-Rheims"
         }
+      ],
+      "acceptedAnswers": [
+        "pure"
       ]
     },
     {

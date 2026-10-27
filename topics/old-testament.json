@@ -219,7 +219,7 @@
       "level": 1,
       "type": "fill_blank",
       "difficultyElo": 910,
-      "prompt": "Genesis states it twice in a single verse: 'God created mankind in his ____.'",
+      "prompt": "Genesis says it twice in a single verse: 'God created man to his own ____: to the image of God he created him.'",
       "correctAnswer": "image",
       "explanation": "Said once and then immediately repeated, as if to make sure it could not be missed. It is the reason the Old Testament treats every human life as belonging to God.",
       "hint": "The word is repeated for emphasis in the same sentence.",
@@ -287,10 +287,11 @@
       "level": 2,
       "type": "fill_blank",
       "difficultyElo": 985,
-      "prompt": "God says to the serpent: 'I will put enmity between you and the woman, and between your offspring and ____.'",
-      "correctAnswer": "hers",
+      "prompt": "God says to the serpent: 'I will put enmities between thee and the woman, and thy seed and ____ seed.'",
+      "correctAnswer": "her",
       "acceptedAnswers": [
-        "her offspring"
+        "hers",
+        "her seed"
       ],
       "explanation": "The line divides the whole human story into two lines of descent. Everything that follows -- Abraham, David, the prophets -- narrows the question of which offspring is meant.",
       "hint": "The promise is about the woman's line, not the serpent's.",
@@ -526,7 +527,7 @@
       "level": 3,
       "type": "fill_blank",
       "difficultyElo": 1060,
-      "prompt": "God tells Noah: 'I set my bow in the clouds to serve as a sign of the ____ between me and the earth.'",
+      "prompt": "God tells Noah: 'I will set my bow in the clouds, and it shall be the sign of a ____ between me and between the earth.'",
       "correctAnswer": "covenant",
       "explanation": "This word will carry the rest of the Old Testament. A covenant is not a contract between equals -- it is God binding himself to a people, again and again, each time more specifically.",
       "hint": "The word for a sacred bond God makes and keeps.",
@@ -684,10 +685,10 @@
       "level": 3,
       "type": "fill_blank",
       "difficultyElo": 1060,
-      "prompt": "At Babel the LORD says: 'Let us then go down and there ____ their language, so that no one will understand the speech of another.'",
-      "correctAnswer": "confuse",
+      "prompt": "At Babel the LORD says: 'Come ye, therefore, let us go down, and there ____ their tongue, that they may not understand one another's speech.'",
+      "correctAnswer": "confound",
       "acceptedAnswers": [
-        "confound"
+        "confuse"
       ],
       "explanation": "The scattering at Babel is the last thing that happens before Abraham is called. The Old Testament's answer to a divided humanity begins on the very next page.",
       "hint": "The name Babel is connected to this word.",
@@ -1037,7 +1038,7 @@
       "level": 5,
       "type": "fill_blank",
       "difficultyElo": 1210,
-      "prompt": "Seeing Jesus approach, John the Baptist says: 'Behold, the ____ of God, who takes away the sin of the world.'",
+      "prompt": "Seeing Jesus approach, John the Baptist says: 'Behold the ____ of God. Behold him who taketh away the sin of the world.'",
       "correctAnswer": "Lamb",
       "explanation": "The title only lands with full weight if you have read the Old Testament first. A lamb provided in a son's place on Moriah, a lamb slain at Passover -- and now a man named as the Lamb himself.",
       "hint": "The animal provided in Isaac's place, and slain at Passover.",
@@ -1277,7 +1278,7 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "Jacob exclaims at Bethel: 'How awesome is this place! This is nothing else but the house of God, and this is the ____ of heaven!'",
+      "prompt": "Jacob exclaims at Bethel: 'How terrible is this place? this is no other but the house of God, and the ____ of heaven.'",
       "correctAnswer": "gate",
       "acceptedAnswers": [
         "gateway"
@@ -1429,7 +1430,7 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "The angel tells Mary that 'the Lord God will give him the throne of ____ his father.'",
+      "prompt": "The angel tells Mary that 'the Lord God shall give unto him the throne of ____ his father.'",
       "correctAnswer": "David",
       "explanation": "Two names in one sentence -- David and Jacob -- and both reach backward into Israel's story. Luke is placing the Annunciation at the end of a line that started with a wandering family.",
       "hint": "The king whose throne was promised to last forever.",
@@ -1628,8 +1629,8 @@
       "level": 7,
       "type": "fill_blank",
       "difficultyElo": 1360,
-      "prompt": "Genesis explains Joseph's success in Potiphar's house simply: 'The ____ was with Joseph, and he prospered.'",
-      "correctAnswer": "LORD",
+      "prompt": "Genesis explains Joseph's success in Potiphar's house simply: 'The ____ was with him, and he was a prosperous man in all things.'",
+      "correctAnswer": "Lord",
       "explanation": "The explanation the text gives is not Joseph's talent but God's presence with him, even in a foreign house, even as a slave with no standing of his own.",
       "hint": "The text names who, not what.",
       "citations": [
@@ -1639,6 +1640,9 @@
           "quote": "And the Lord was with him, and he was a prosperous man in all things: and he dwelt in his master’s house:",
           "note": "Douay-Rheims"
         }
+      ],
+      "acceptedAnswers": [
+        "the Lord"
       ]
     },
     {
@@ -1705,7 +1709,7 @@
       "difficultyElo": 1325,
       "prompt": "True or False: When asked to interpret Pharaoh's dream, Joseph credits himself with the ability rather than God.",
       "correctAnswer": false,
-      "explanation": "False. Joseph is explicit: 'It is not I, but God who will give Pharaoh a favorable answer.' He refuses to take personal credit even at the moment his fortune is about to change entirely.",
+      "explanation": "False. Joseph is explicit: 'Without me, God shall give Pharao a prosperous answer.' He refuses to take personal credit even at the moment his fortune is about to change entirely.",
       "hint": "His actual answer names someone other than himself.",
       "citations": [
         {
@@ -1964,7 +1968,7 @@
       "level": 9,
       "type": "fill_blank",
       "difficultyElo": 1510,
-      "prompt": "At the end of Genesis, Joseph tells his brothers: 'You meant evil against me, but God meant it for ____.'",
+      "prompt": "At the end of Genesis, Joseph tells his brothers: 'You thought evil against me: but God turned it into ____.'",
       "correctAnswer": "good",
       "explanation": "This single sentence is the key to the whole Joseph cycle, and it is the shape the Church will later see filled out completely at the cross: real evil, freely done, that God does not merely permit but turns to save many lives.",
       "hint": "The word names the opposite of what his brothers intended.",
@@ -2673,7 +2677,7 @@
       "level": 12,
       "type": "fill_blank",
       "difficultyElo": 1735,
-      "prompt": "God tells Moses: 'Seeing the blood, I will ____ over you.'",
+      "prompt": "God tells Moses: 'I shall see the blood, and shall ____ over you.'",
       "correctAnswer": "pass",
       "explanation": "The feast takes its name -- Passover -- directly from this line. The blood on the door is the sign that turns the destroyer aside from that house alone.",
       "hint": "The name of the whole feast comes from this verb.",
@@ -3563,7 +3567,7 @@
       "level": 15,
       "type": "fill_blank",
       "difficultyElo": 1960,
-      "prompt": "The people tell Aaron: 'Come, make us a god who will go before ____.'",
+      "prompt": "The people tell Aaron: 'Arise, make us gods, that may go before ____.'",
       "correctAnswer": "us",
       "explanation": "They do not deny God exists -- they demand a visible substitute to lead them, unwilling to wait on the God who cannot be seen while Moses is away on the mountain.",
       "hint": "Whose place do they want the image to fill?",
@@ -3894,8 +3898,8 @@
       "level": 17,
       "type": "fill_blank",
       "difficultyElo": 2110,
-      "prompt": "The Shema begins: 'Hear, O Israel! The LORD is our God, the LORD ____.'",
-      "correctAnswer": "alone",
+      "prompt": "The Shema begins: 'Hear, O Israel, the Lord our God is ____ Lord.'",
+      "correctAnswer": "one",
       "explanation": "The claim is exclusive, not just devotional. Everything the Law demands rests on this single confession -- there is one God, and no other.",
       "hint": "The word rules out any other god sharing the claim.",
       "citations": [
@@ -3905,6 +3909,9 @@
           "quote": "Hear, O Israel, the Lord our God is one Lord. Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole strength.",
           "note": "Douay-Rheims"
         }
+      ],
+      "acceptedAnswers": [
+        "alone"
       ]
     },
     {
@@ -4043,7 +4050,7 @@
       "level": 17,
       "type": "fill_blank",
       "difficultyElo": 2110,
-      "prompt": "Deuteronomy says people live 'by every ____ that comes forth from the mouth of the LORD.'",
+      "prompt": "Deuteronomy says people live 'in every ____ that proceedeth from the mouth of God.'",
       "correctAnswer": "word",
       "explanation": "This is the exact phrase Jesus answers the devil with in the desert -- Deuteronomy's lesson, spoken by the one who actually lives it without failure.",
       "hint": "It is the exact phrase Jesus later answers the devil with.",
@@ -4211,11 +4218,11 @@
           "right": "Completes what the previous generation could not"
         },
         {
-          "left": "\"Choose this day whom you will serve\"",
+          "left": "\"Choose this day... whom you would rather serve\"",
           "right": "The covenant must be renewed by each generation"
         },
         {
-          "left": "\"As for me and my household\"",
+          "left": "\"As for me and my house\"",
           "right": "Leadership that commits itself first"
         }
       ],
@@ -4762,7 +4769,7 @@
         "Luke never mentions David anywhere in his Gospel"
       ],
       "correctAnswer": "The angel tells Mary her son will receive the throne of David",
-      "explanation": "The shepherd-boy anointed in a field becomes the reference point for a promise made centuries later at the Annunciation -- 'the Lord God will give him the throne of David his father.'",
+      "explanation": "The shepherd-boy anointed in a field becomes the reference point for a promise made centuries later at the Annunciation -- 'the Lord God shall give unto him the throne of David his father.'",
       "hint": "Recall the announcement made to Mary at the Annunciation.",
       "citations": [
         {
@@ -4829,7 +4836,7 @@
       "level": 21,
       "type": "fill_blank",
       "difficultyElo": 2410,
-      "prompt": "David asks: 'How can the ark of the Lord come to ____?'",
+      "prompt": "David asks: 'How shall the ark of the Lord come to ____?'",
       "correctAnswer": "me",
       "explanation": "Even as king, David does not treat the ark's presence as something he is simply entitled to. The question is genuine reverence, not rhetorical hesitation.",
       "hint": "David is asking about himself specifically, not about the ark in general.",
