@@ -152,15 +152,15 @@
       "level": 1,
       "type": "true_false",
       "difficultyElo": 800,
-      "prompt": "True or False: The Church teaches that Scripture is entirely without error in what it actually teaches for the sake of our salvation.",
+      "prompt": "True or False: The Church teaches that whatever the sacred authors of Scripture assert is asserted by the Holy Spirit, and so Scripture teaches the truth without error.",
       "correctAnswer": true,
-      "explanation": "True. The Church's own teaching on inerrancy holds that Scripture firmly, faithfully, and without error teaches the truth God wanted put into the sacred writings for our salvation.",
-      "hint": "Recall the teaching on what the Church means by inerrancy.",
+      "explanation": "True. Because God is the principal author of Scripture, all that the inspired authors affirm is affirmed by the Holy Spirit. That is why the books of Scripture teach \"firmly, faithfully, and without error\" the truth God wished to give us for our salvation.",
+      "hint": "Consider who is speaking through the human authors.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Dei Verbum 11",
-          "quote": "...the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation."
+          "type": "ccc",
+          "reference": "CCC 107",
+          "quote": "...all that the inspired authors or sacred writers affirm should be regarded as affirmed by the Holy Spirit..."
         }
       ]
     },
@@ -172,19 +172,24 @@
       "difficultyElo": 850,
       "prompt": "What does 'inerrancy' mean, as the Church precisely teaches it?",
       "choices": [
-        "Scripture teaches without error the saving truth God wanted, not every incidental scientific or historical detail",
-        "Every single sentence in Scripture is a precise, literal scientific or historical claim about the natural world",
+        "Everything the sacred authors assert is asserted by the Holy Spirit, so Scripture teaches without error",
+        "Every sentence must be read as a literal, modern scientific report, whatever kind of writing it is",
         "Scripture contains errors God simply chose to overlook",
-        "Inerrancy has no real, precise meaning at all, functioning as a vague, general compliment"
+        "Only the parts about faith and morals are free from error"
       ],
-      "correctAnswer": "Scripture teaches without error the saving truth God wanted, not every incidental scientific or historical detail",
-      "explanation": "This is a precise, and important distinction -- inerrancy concerns the saving truth God wanted communicated, not a claim that Scripture functions as a modern scientific or historical textbook down to every incidental detail.",
-      "hint": "Consider the precise scope the citation names -- truth for the sake of our salvation.",
+      "correctAnswer": "Everything the sacred authors assert is asserted by the Holy Spirit, so Scripture teaches without error",
+      "explanation": "Inerrancy rests on authorship: whatever the inspired authors assert, the Holy Spirit asserts, and God cannot assert what is false. Pope Leo XIII rejected limiting this to faith and morals. Each passage is still read for what it actually asserts, so poetry is read as poetry and history as history.",
+      "hint": "Consider who the principal author of Scripture is.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Dei Verbum 11",
-          "quote": "...the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation."
+          "quote": "...since everything asserted by the inspired authors or sacred writers must be held to be asserted by the Holy Spirit, it follows that the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 20, Pope Leo XIII (1893)",
+          "quote": "...it is absolutely wrong and forbidden, either to narrow inspiration to certain parts only of Holy Scripture, or to admit that the sacred writer has erred."
         }
       ]
     },
@@ -210,7 +215,7 @@
         },
         {
           "left": "Inerrancy",
-          "right": "Scripture teaches without error the saving truth, not every incidental detail"
+          "right": "Whatever the sacred authors assert is without error"
         }
       ],
       "explanation": "These four facts set out the foundational vocabulary for understanding Scripture.",
@@ -767,18 +772,19 @@
       "difficultyElo": 1075,
       "prompt": "What does 'inerrancy' mean as the Church actually teaches it?",
       "choices": [
-        "Scripture teaches, without error, the truth God wanted put into it for the sake of our salvation",
-        "Every sentence in the Bible is a precise scientific or historical claim",
-        "The Bible contains no figurative or poetic language whatsoever",
-        "Inerrancy applies only to the New Testament"
+        "Everything the sacred authors assert is asserted by the Holy Spirit, so Scripture teaches without error",
+        "Every sentence in the Bible is a precise scientific or historical claim, whatever kind of writing it is",
+        "The Bible contains no figurative or poetic language, so every verse must be read literally",
+        "Inerrancy applies only to the New Testament, since the Old was replaced by it"
       ],
-      "correctAnswer": "Scripture teaches, without error, the truth God wanted put into it for the sake of our salvation",
-      "explanation": "Dei Verbum's own careful wording is that Scripture teaches without error the truth for the sake of salvation — a claim about the saving truth God intended, not a blanket claim that every incidental detail is a modern scientific report.",
-      "hint": "The Church's own document qualifies exactly what the 'without error' claim is about.",
+      "correctAnswer": "Everything the sacred authors assert is asserted by the Holy Spirit, so Scripture teaches without error",
+      "explanation": "Dei Verbum 11 grounds inerrancy in authorship: all that the inspired authors affirm is affirmed by the Holy Spirit, so Scripture teaches without error. That does not turn every verse into a scientific report. A psalm or a parable asserts what a psalm or a parable asserts, and what it asserts is true.",
+      "hint": "The Church grounds 'without error' in who is speaking through the human authors.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 107",
+          "quote": "...all that the inspired authors or sacred writers affirm should be regarded as affirmed by the Holy Spirit..."
         }
       ]
     },
@@ -796,7 +802,7 @@
         },
         {
           "left": "Inerrancy",
-          "right": "Scripture teaches without error the truth for our salvation"
+          "right": "Whatever the sacred authors affirm is without error"
         },
         {
           "left": "Canon",
@@ -830,20 +836,21 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1150,
-      "prompt": "Inerrancy covers the saving truth God wanted communicated. A skeptic then says: 'The Bible describes the sky using ancient, pre-scientific cosmology -- doesn't that disprove inerrancy?' What is the precise answer?",
+      "prompt": "A skeptic says: 'The Bible describes the sky and the earth the way ancient people saw them, not the way modern science does. Doesn't that disprove inerrancy?' What is the precise answer?",
       "choices": [
-        "No -- inerrancy covers the real, saving truth, not scientific cosmology; the human authors used ordinary language of their own time and place",
-        "Yes -- the objection is correct, and this detail does disprove inerrancy as the Church teaches it",
-        "No -- because the Bible does contain a precise, technically accurate modern cosmology throughout",
-        "Yes -- but the Church has simply chosen to ignore this problem rather than address it"
+        "No. The sacred writers described nature as it appears to the senses, in the ordinary language of their time, so nothing false is asserted",
+        "Yes. The objection is correct, and these descriptions are errors that disprove inerrancy as the Church teaches it",
+        "No, because read carefully, the Bible contains a precise, technically accurate modern cosmology throughout",
+        "Yes, but the Church has simply chosen to ignore this problem rather than address it in her teaching"
       ],
-      "correctAnswer": "No -- inerrancy covers the real, saving truth, not scientific cosmology; the human authors used ordinary language of their own time and place",
-      "explanation": "Inerrancy covers the saving truth God wanted communicated, not a scientifically precise cosmology. The human authors' ordinary, everyday language reflects their own time and place, without this touching the saving truth being taught.",
-      "hint": "Recall the precise definition of what inerrancy covers.",
+      "correctAnswer": "No. The sacred writers described nature as it appears to the senses, in the ordinary language of their time, so nothing false is asserted",
+      "explanation": "Pope Leo XIII answered this directly: the sacred writers did not set out to teach the inner make-up of the visible universe. They described things in figurative language or in the terms commonly used at the time, as ordinary speech describes what comes under the senses. We still say 'the sun rises' without saying anything false.",
+      "hint": "Think of how we still say 'the sun rises' today.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 107"
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 18, Pope Leo XIII (1893)",
+          "quote": "Ordinary speech primarily and properly describes what comes under the senses; and somewhat in the same way the sacred writers... \"went by what sensibly appeared\"..."
         }
       ]
     },
@@ -853,14 +860,15 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 1100,
-      "prompt": "True or False: The Church holds that every single incidental, scientific-sounding detail in Scripture must be read as a precise, literal, modern scientific claim.",
+      "prompt": "True or False: The Church holds that every description of nature in Scripture must be read as a precise, modern scientific claim.",
       "correctAnswer": false,
-      "explanation": "False -- inerrancy covers the saving truth, not every incidental scientific-sounding detail read as a precise, modern claim.",
-      "hint": "Recall the opening real answer about ancient cosmology and inerrancy.",
+      "explanation": "False. A description of nature as it appears (\"the sun rises\") asserts what the eye sees, not a scientific theory. Reading it as a modern scientific claim mistakes what kind of statement it is. Either way, no error is involved.",
+      "hint": "Recall how the sacred writers describe the natural world.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 107"
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 18, Pope Leo XIII (1893)",
+          "quote": "Ordinary speech primarily and properly describes what comes under the senses; and somewhat in the same way the sacred writers... \"went by what sensibly appeared\"..."
         }
       ]
     },
@@ -870,20 +878,21 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1150,
-      "prompt": "Why does the observation that Scripture's cosmological language reflects the ancient world not undermine the saving truth it conveys?",
+      "prompt": "Why does Scripture's use of the everyday language of the ancient world to describe the heavens not show that Scripture errs?",
       "choices": [
-        "A narrower claim (ancient cosmological language) does not entail a stronger one (that the saving truth is false)",
-        "It does undermine the saving truth entirely",
+        "Describing things as they appear is not asserting a scientific theory, so nothing false is asserted",
+        "It does show that Scripture errs",
         "It proves that Scripture and modern science are always in direct competition with one another",
         "It shows that Scripture makes no truth claims at all"
       ],
-      "correctAnswer": "A narrower claim (ancient cosmological language) does not entail a stronger one (that the saving truth is false)",
-      "explanation": "This applies a sound method of reasoning -- distinguishing a narrower claim (ancient cosmological language) from a stronger, unstated claim (the saving truth itself is false) that does not follow from it.",
-      "hint": "Consider whether a narrow claim about ancient language can disprove a much stronger claim about saving truth.",
+      "correctAnswer": "Describing things as they appear is not asserting a scientific theory, so nothing false is asserted",
+      "explanation": "An error is asserting something false. The sacred writers \"went by what sensibly appeared,\" as Leo XIII put it, quoting St. Thomas. A true description of how the sky looks makes no claim about its physics, so there is nothing false in it.",
+      "hint": "Ask what the sentence actually claims.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 107"
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 18, Pope Leo XIII (1893)",
+          "quote": "Ordinary speech primarily and properly describes what comes under the senses; and somewhat in the same way the sacred writers... \"went by what sensibly appeared\"..."
         }
       ]
     },
@@ -893,14 +902,15 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 1100,
-      "prompt": "True or False: The distinction means the Church treats every historical claim in Scripture as equally uncertain or symbolic.",
+      "prompt": "True or False: Because Scripture describes nature as it appears, the Church treats every historical claim in Scripture as uncertain or symbolic.",
       "correctAnswer": false,
-      "explanation": "False, and this careful distinction matters -- distinguishing incidental, ancient cosmological or scientific language from Scripture's own saving truth does not mean treating every historical claim as equally uncertain; each genre and passage is judged on its own actual terms.",
-      "hint": "Consider whether the narrow distinction about ancient cosmology extends to every possible historical claim in Scripture.",
+      "explanation": "False. The language of appearances concerns how nature is described. Historical narratives are read as history, and what they assert is true; the Church \"unhesitatingly affirms\" the historicity of the four Gospels. Each passage is read according to the kind of writing it is.",
+      "hint": "Consider whether a point about describing nature reaches every historical claim.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 126",
+          "quote": "...the four Gospels, \"whose historicity she unhesitatingly affirms...\""
         }
       ]
     },
@@ -910,20 +920,21 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1150,
-      "prompt": "A student asks: 'If inerrancy doesn't cover every incidental detail, how do we know which parts are the saving truth and which are merely incidental?' What is the honest answer?",
+      "prompt": "A student asks: 'If Scripture is without error in everything it asserts, how do we know what a given passage is actually asserting?' What is the honest answer?",
       "choices": [
-        "It depends on attending to each passage's genre and authorial intention",
-        "There is no principled way to make this distinction at all",
-        "Every reader should simply decide this question according to their own private, arbitrary preference",
-        "This question has no real, honest answer, and inerrancy should therefore simply be abandoned"
+        "By attending to the passage's literary form and the sacred author's intention, within the Church's Tradition",
+        "There is no principled way to know this, so every passage remains uncertain",
+        "Every reader should simply decide according to their own private preference and feeling",
+        "We cannot know what any passage asserts, so inerrancy should be abandoned"
       ],
-      "correctAnswer": "It depends on attending to each passage's genre and authorial intention",
-      "explanation": "This is an honest answer -- discerning genre and authorial intention is a skill that interpretation depends on.",
-      "hint": "Consider what tools of interpretation -- genre and authorial intention -- would help tell saving truth from incidental detail.",
+      "correctAnswer": "By attending to the passage's literary form and the sacred author's intention, within the Church's Tradition",
+      "explanation": "To find what the sacred author meant, the reader takes into account the author's time and culture, the literary genres then in use, and the ways of speaking and narrating then current. The passage is read within the whole of Scripture and the living Tradition of the Church.",
+      "hint": "Consider what kind of writing a passage is and what its author meant.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
         }
       ]
     },
@@ -933,14 +944,15 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 1100,
-      "prompt": "True or False: Telling saving truth from incidental detail requires attention to each passage's genre and authorial intention.",
+      "prompt": "True or False: Knowing what a passage of Scripture asserts requires attention to its literary genre and the sacred author's intention.",
       "correctAnswer": true,
-      "explanation": "True -- discerning genre is the tool that makes it possible to tell saving truth from incidental detail.",
-      "hint": "Consider what skill is needed to tell saving truth from incidental detail.",
+      "explanation": "True. Truth is expressed differently in history, prophecy, poetry and other forms of writing, so the reader looks for what the sacred author intended to say.",
+      "hint": "Consider what skill is needed to know what a passage actually claims.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
         }
       ]
     },
@@ -953,28 +965,34 @@
       "prompt": "Match each fact about inerrancy, deepened, to what it actually means.",
       "pairs": [
         {
-          "left": "Ancient cosmological language",
-          "right": "Reflects the human authors' own time and place, not a scientific claim"
+          "left": "Ancient descriptions of the sky",
+          "right": "Describe things as they appear to the senses, not a scientific theory"
         },
         {
-          "left": "Why this doesn't disprove inerrancy",
-          "right": "Inerrancy covers the saving truth, not every incidental detail"
+          "left": "Why this is not an error",
+          "right": "Nothing false is asserted"
         },
         {
-          "left": "Connection to method versus truth claims",
-          "right": "The same discipline -- a narrower claim does not disprove a stronger, unrelated one"
+          "left": "Limiting inerrancy to faith and morals",
+          "right": "Rejected by Pope Leo XIII in Providentissimus Deus"
         },
         {
-          "left": "Discerning saving truth from incidental detail",
-          "right": "Requires attention to genre and authorial intention"
+          "left": "Knowing what a passage asserts",
+          "right": "Requires attention to genre and the author's intention"
         }
       ],
-      "explanation": "These four facts together deepen the basic teaching, showing how inerrancy works and what further skill it depends on.",
-      "hint": "Two rows explain the distinction itself; two connect it to sound method and to the skill of interpretation.",
+      "explanation": "Together these show how inerrancy works: Scripture is without error in all it asserts, and careful reading shows what each passage asserts.",
+      "hint": "Two rows concern the language of appearances; two concern how far inerrancy reaches and how it is read.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 107"
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 18, Pope Leo XIII (1893)",
+          "quote": "Ordinary speech primarily and properly describes what comes under the senses; and somewhat in the same way the sacred writers... \"went by what sensibly appeared\"..."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 20, Pope Leo XIII (1893)",
+          "quote": "...it is absolutely wrong and forbidden, either to narrow inspiration to certain parts only of Holy Scripture, or to admit that the sacred writer has erred."
         }
       ]
     },
@@ -989,7 +1007,7 @@
         "Applying inerrancy's own precise definition to a genuinely hard, common objection, rather than leaving the definition purely abstract",
         "Assuming inerrancy has no real, practical application to any common objection",
         "Abandoning the precise definition of inerrancy",
-        "Treating every incidental detail in Scripture as equally uncertain, with no principled distinction possible"
+        "Treating every passage of Scripture as uncertain, with no principled way to read it"
       ],
       "correctAnswer": "Applying inerrancy's own precise definition to a genuinely hard, common objection, rather than leaving the definition purely abstract",
       "explanation": "The value comes from taking the abstract definition and applying it directly to a genuinely common objection.",
@@ -1285,18 +1303,24 @@
       "difficultyElo": 1300,
       "prompt": "The principle that genre sets legitimate reading expectations connects directly to inerrancy. How?",
       "choices": [
-        "Discerning genre is precisely the skill needed to tell incidental detail apart from Scripture's real, saving truth",
-        "Because genre and inerrancy have no connection to one another",
-        "Because the principle contradicts the teaching on inerrancy",
-        "Because inerrancy makes genre analysis entirely unnecessary"
+        "Genre shows what a passage actually asserts, and what it asserts is without error",
+        "Genre and inerrancy have no connection to one another at all",
+        "The principle contradicts the Church's teaching on inerrancy",
+        "Inerrancy makes paying attention to genre entirely unnecessary"
       ],
-      "correctAnswer": "Discerning genre is precisely the skill needed to tell incidental detail apart from Scripture's real, saving truth",
-      "explanation": "Genre discernment is precisely the skill needed to tell incidental, ancient detail apart from Scripture's saving truth.",
-      "hint": "Recall that inerrancy concerns saving truth, and consider what skill is needed to discern saving truth from incidental detail.",
+      "correctAnswer": "Genre shows what a passage actually asserts, and what it asserts is without error",
+      "explanation": "Inerrancy covers everything the sacred authors assert. Genre is how a reader learns what that is: a parable asserts a lesson, not that the story happened, while a historical account asserts that it did.",
+      "hint": "Recall that inerrancy covers what the authors assert, and ask how a reader learns what that is.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 107",
+          "quote": "...all that the inspired authors or sacred writers affirm should be regarded as affirmed by the Holy Spirit..."
         }
       ]
     },
@@ -1724,15 +1748,15 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: The answer means small, incidental differences between the Gospels (like differing details in a shared scene) automatically threaten their own overall reliability.",
+      "prompt": "True or False: The answer means small differences between the Gospels in a shared scene (which details are told, and in what words) are errors that threaten their reliability.",
       "correctAnswer": false,
-      "explanation": "False, and this important distinction matters -- small, incidental differences, exactly the kind expected from independent, complementary witnesses, do not threaten their own overall reliability, since eyewitness accounts of the same event naturally differ in incidental detail.",
-      "hint": "Consider what small differences between independent, honest witnesses to the very same event would suggest.",
+      "explanation": "False. Each evangelist selected from what had been handed on and arranged it for his readers, \"but always in such a fashion that they have told us the honest truth about Jesus.\" Telling different details, or the same thing in different words, is not an error.",
+      "hint": "Consider what different selection and wording among honest witnesses would suggest.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "quote": "...always in such a fashion that they have told us the honest truth about Jesus."
         }
       ]
     },
@@ -1791,8 +1815,8 @@
           "right": "Complementary, not competing or contradictory, accounts of the same Christ"
         },
         {
-          "left": "Small, incidental differences",
-          "right": "Expected from independent, honest witnesses, not a threat to reliability"
+          "left": "Differences in selection and wording",
+          "right": "Expected from honest witnesses, and not errors"
         },
         {
           "left": "Why none could simply be set aside",
@@ -2726,21 +2750,26 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "Dei Verbum 11 states that Scripture teaches 'the truth which God wanted put into the sacred writings for the sake of our salvation.' How does this precise formula differ from a flat claim that 'the Bible has no errors of any kind'?",
+      "prompt": "Dei Verbum 11 says Scripture teaches 'that truth which God wanted put into sacred writings for the sake of salvation.' Does that phrase limit inerrancy to matters of faith and morals?",
       "choices": [
-        "It locates inerrancy specifically in what God intended for our salvation, not in every incidental historical or scientific detail a text happens to mention",
-        "It means the Bible actually does contain doctrinal errors that the Church has chosen to overlook",
-        "It applies only to the New Testament, exempting the Old Testament from any inerrancy claim",
-        "It was written specifically to reverse Trent's teaching on inspiration"
+        "No. The same sentence says everything the inspired authors assert is asserted by the Holy Spirit; limiting it to faith and morals was already rejected",
+        "Yes. Only statements about faith and morals are free from error; history and nature may be mistaken",
+        "It applies only to the New Testament, exempting the Old Testament from any claim to be without error",
+        "It was written specifically to reverse the Council of Trent's teaching on the inspiration of Scripture"
       ],
-      "correctAnswer": "It locates inerrancy specifically in what God intended for our salvation, not in every incidental historical or scientific detail a text happens to mention",
-      "explanation": "Dei Verbum's formula is precise: the truth God wanted recorded for our salvation is what Scripture teaches without error, which is a narrower and more careful claim than an unqualified 'no errors of any kind' -- avoiding both a denial of biblical truth and an overreaching claim about every incidental detail.",
-      "hint": "Look closely at the phrase 'for the sake of our salvation' -- that's doing restrictive work in the sentence.",
+      "correctAnswer": "No. The same sentence says everything the inspired authors assert is asserted by the Holy Spirit; limiting it to faith and morals was already rejected",
+      "explanation": "Read the whole sentence: it begins \"since everything asserted by the inspired authors or sacred writers must be held to be asserted by the Holy Spirit.\" Its footnote points to Leo XIII's Providentissimus Deus and Pius XII's Divino Afflante Spiritu, and both popes condemned restricting Scripture's truth to faith and morals.",
+      "hint": "Read the sentence from its first word, 'since'.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Dei Verbum 11",
-          "quote": "...the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation."
+          "quote": "...since everything asserted by the inspired authors or sacred writers must be held to be asserted by the Holy Spirit, it follows that the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Divino Afflante Spiritu 1, Pope Pius XII (1943)",
+          "quote": "...some Catholic writers... ventured to restrict the truth of Sacred Scripture solely to matters of faith and morals... Leo XIII... justly and rightly condemned these errors..."
         }
       ]
     },
@@ -2924,7 +2953,7 @@
         },
         {
           "left": "Dei Verbum 11",
-          "right": "States Scripture teaches, without error, the truth for our salvation"
+          "right": "Whatever the inspired authors assert, the Holy Spirit asserts"
         }
       ],
       "explanation": "Together these four items give a checkable answer to 'how do we know what's in the Bible and where it came from' — early lists, ancient manuscripts, scholarly source theory, and the Church's own doctrinal statement about what the text claims to do.",
@@ -3131,21 +3160,26 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 1975,
-      "prompt": "An objector says, 'The Bible gets a scientific or historical detail wrong somewhere, so it can't be inspired.' Using Dei Verbum 11's precise formula, what is the accurate response?",
+      "prompt": "An objector says, 'The Bible gets a scientific or historical detail wrong somewhere, so it can't be inspired.' What is the accurate Catholic response?",
       "choices": [
-        "Inerrancy applies to the truth God wanted recorded for our salvation, not necessarily to every incidental scientific or historical detail a text happens to mention",
-        "The objection is correct, and the Church has quietly abandoned any claim to inerrancy",
+        "Nothing the sacred writer asserts is in error; an apparent error comes from misreading the passage, or from a copyist's mistake",
+        "The objection is correct, and the Church has quietly abandoned any claim that Scripture is without error",
         "Inerrancy means every single statement in Scripture must be scientifically precise by modern standards",
         "The objection can only be answered by denying that the Bible mentions any historical events at all"
       ],
-      "correctAnswer": "Inerrancy applies to the truth God wanted recorded for our salvation, not necessarily to every incidental scientific or historical detail a text happens to mention",
-      "explanation": "Dei Verbum's precise formula locates inerrancy in the saving truth God wanted conveyed, not in a modern textbook's standard of precision for every incidental detail -- an ancient author's phenomenological description of the natural world, for instance, isn't a scientific claim the text is staking its inspired status on.",
-      "hint": "Inerrancy is located in the saving truth God wanted conveyed, not in a modern standard of scientific or historical precision for every incidental detail.",
+      "correctAnswer": "Nothing the sacred writer asserts is in error; an apparent error comes from misreading the passage, or from a copyist's mistake",
+      "explanation": "Leo XIII taught that it is absolutely wrong \"to admit that the sacred writer has erred.\" When a passage seems wrong, he pointed to the real causes: copyists have made mistakes in the text, or the sense of the passage has not been understood. A description of nature as it appears, for instance, is not a scientific claim at all.",
+      "hint": "Ask whether the problem is in what the author asserted, or in how the passage was copied or read.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Dei Verbum 11",
-          "quote": "...the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into sacred writings for the sake of salvation."
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 20, Pope Leo XIII (1893)",
+          "quote": "...it is absolutely wrong and forbidden, either to narrow inspiration to certain parts only of Holy Scripture, or to admit that the sacred writer has erred."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 20, Pope Leo XIII (1893)",
+          "quote": "It is true, no doubt, that copyists have made mistakes in the text of the Bible... It may also happen that the sense of a passage remains ambiguous..."
         }
       ]
     },
@@ -3256,7 +3290,7 @@
       "pairs": [
         {
           "left": "'The Bible gets a scientific detail wrong'",
-          "right": "Inerrancy covers the saving truth God intended, not every incidental detail"
+          "right": "Describing nature as it appears is not an error; nothing false is asserted"
         },
         {
           "left": "'Catholics added seven books'",
@@ -3358,7 +3392,7 @@
       "pairs": [
         {
           "left": "'The Gospels contradict each other on small details'",
-          "right": "Normal variation among independent witnesses on incidental detail"
+          "right": "Different selection and wording among honest witnesses, not errors"
         },
         {
           "left": "'Mark's abrupt ending disproves the Resurrection'",
@@ -3432,20 +3466,21 @@
       "level": 17,
       "type": "multiple_choice",
       "difficultyElo": 2050,
-      "prompt": "Beyond the genre-based answer, why does the Church also insist inerrancy concerns the saving truth God wanted communicated, not every incidental historical detail or ancient cultural assumption?",
+      "prompt": "Beyond the genre-based answer, what further principle helps with the violent passages in Scripture?",
       "choices": [
-        "An ancient cultural context reflected in the narrative isn't God's own moral endorsement of every real, described action",
-        "Because this distinction has no bearing on the conquest narratives specifically",
-        "Because inerrancy requires treating every described action in Scripture as morally endorsed by God",
-        "Because the Church has never addressed this specific question at all"
+        "Scripture truthfully records many deeds, even sinful ones, without approving them; reporting an action is not endorsing it",
+        "This principle has no bearing on the conquest narratives, which must be explained some other way",
+        "Inerrancy requires treating every described action in Scripture as morally endorsed by God",
+        "The Church has never addressed this question, so each reader must settle it alone"
       ],
-      "correctAnswer": "An ancient cultural context reflected in the narrative isn't God's own moral endorsement of every real, described action",
-      "explanation": "This applies the distinction directly -- inerrancy's saving truth does not mean every described action or ancient cultural assumption reflected in the narrative is thereby God's positive, moral endorsement of it.",
-      "hint": "Recall the distinction between inerrancy's saving truth and incidental detail.",
+      "correctAnswer": "Scripture truthfully records many deeds, even sinful ones, without approving them; reporting an action is not endorsing it",
+      "explanation": "A true report that something happened is not a statement that it was right; Scripture records David's adultery, for example, without praising it. The Old Testament also contains \"matters imperfect and provisional\" while bearing witness to God's patient teaching of his people.",
+      "hint": "Ask whether recording that something happened is the same as approving it.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 122",
+          "quote": "Even though they contain matters imperfect and provisional, the books of the Old Testament bear witness..."
         }
       ]
     },
@@ -3455,14 +3490,15 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: The two-part answer to the conquest-narrative objection -- genre and the scope of inerrancy -- draws on established tools of interpretation rather than a wholly new method.",
+      "prompt": "True or False: The two-part answer to the conquest-narrative objection (genre, and the difference between reporting an action and approving it) draws on established tools of interpretation rather than a wholly new method.",
       "correctAnswer": true,
-      "explanation": "True -- no wholly new method is introduced; genre and the precise scope of inerrancy, both well established, are applied to a further, serious objection.",
+      "explanation": "True. No new method is introduced; reading for genre and distinguishing what a text reports from what it approves are both long established, and here they are applied to a serious objection.",
       "hint": "Consider what tools of interpretation the two-part answer draws on.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
         }
       ]
     },
@@ -3523,8 +3559,8 @@
           "right": "Internal biblical evidence the language functioned rhetorically"
         },
         {
-          "left": "Inerrancy's own precise scope",
-          "right": "Ancient cultural context reflected in a text is not God's own moral endorsement of it"
+          "left": "Reporting versus approving",
+          "right": "Scripture can truthfully record deeds it does not endorse"
         },
         {
           "left": "This remaining a genuinely hard question",
