@@ -64,6 +64,11 @@
           "type": "ccc",
           "reference": "CCC 105",
           "quote": "...have been written down under the inspiration of the Holy Spirit."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 106",
+          "quote": "...it was as true authors that they consigned to writing whatever he wanted written, and no more."
         }
       ]
     },
@@ -80,8 +85,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 105",
-          "quote": "...have been written down under the inspiration of the Holy Spirit."
+          "reference": "CCC 106",
+          "quote": "...God chose certain men who, all the while he employed them in this task, made full use of their own faculties and powers..."
         }
       ]
     },
@@ -133,7 +138,7 @@
       "level": 1,
       "type": "fill_blank",
       "difficultyElo": 910,
-      "prompt": "The Gospel of John opens: 'In the beginning was the Word, and the Word was with God, and the Word was ____.'",
+      "prompt": "The Gospel of John opens: 'In the beginning was the Word: and the Word was with God: and the Word was ____.'",
       "correctAnswer": "God",
       "explanation": "This famous opening line identifies the eternal 'Word' (Christ) as truly, really God -- one of Scripture's own most direct statements of Christ's own divinity.",
       "hint": "Consider what exact claim this famous opening line makes about the Word's own identity.",
@@ -247,7 +252,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 125"
+          "reference": "CCC 132",
+          "quote": "...the study of the sacred page should be the very soul of sacred theology."
         }
       ]
     },
@@ -264,7 +270,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 125"
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
         }
       ]
     },
@@ -467,8 +474,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
-          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
+          "reference": "Second Vatican Council, Dei Verbum 25",
+          "quote": "...translations of the sacred texts, which are to be provided with the necessary and really adequate explanations so that the children of the Church may safely and profitably become conversant with the Sacred Scriptures..."
         }
       ]
     },
@@ -478,15 +485,20 @@
       "level": 3,
       "type": "true_false",
       "difficultyElo": 950,
-      "prompt": "True or False: Vatican II's own teaching that Scripture's own treasures should be 'opened up more lavishly' encourages ordinary Catholics to engage Scripture directly, not leave it only to scholars.",
+      "prompt": "True or False: The Church teaches that 'access to Sacred Scripture ought to be open wide to the Christian faithful,' encouraging ordinary Catholics to engage Scripture directly, not leave it only to scholars.",
       "correctAnswer": true,
       "explanation": "True -- engaging Scripture is not reserved only for scholars, but is a genuine calling for every believer.",
       "hint": "Recall that every believer is called to engage the faith directly, not only scholars.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 131",
+          "quote": "...access to Sacred Scripture ought to be open wide to the Christian faithful."
+        },
+        {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
-          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
+          "reference": "Second Vatican Council, Dei Verbum 22",
+          "quote": "Easy access to Sacred Scripture should be provided for all the Christian faithful."
         }
       ]
     },
@@ -549,8 +561,8 @@
           "right": "A normal, legitimate practice, not a sign of inadequate faith"
         },
         {
-          "left": "\"Opened up more lavishly\"",
-          "right": "Vatican II's own encouragement for ordinary Catholics to engage Scripture directly"
+          "left": "\"Access to Sacred Scripture ought to be open wide\"",
+          "right": "The Church's encouragement for all the faithful to engage Scripture directly"
         },
         {
           "left": "Reading within the Church's living Tradition",
@@ -564,6 +576,11 @@
           "type": "ccc",
           "reference": "CCC 113",
           "quote": "...it is the Holy Spirit who gives her the spiritual interpretation of the Scripture..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 131",
+          "quote": "...access to Sacred Scripture ought to be open wide to the Christian faithful."
         }
       ]
     },
@@ -645,7 +662,7 @@
       "level": 4,
       "type": "multiple_choice",
       "difficultyElo": 1075,
-      "prompt": "'In the beginning was the Word, and the Word was with God, and the Word was God' opens which book of the New Testament?",
+      "prompt": "'In the beginning was the Word: and the Word was with God: and the Word was God' opens which book of the New Testament?",
       "choices": [
         "The Gospel of John",
         "The Gospel of Matthew",
@@ -696,13 +713,18 @@
       "difficultyElo": 1025,
       "prompt": "True or False: The Bible was written by a single author, across a single generation.",
       "correctAnswer": false,
-      "explanation": "Scripture was composed by many human authors across roughly a thousand years, in different languages and literary forms -- yet it holds together as one unified word, since God inspired all of it.",
+      "explanation": "Scripture was composed by many human authors across many centuries, in different languages and literary forms -- yet it holds together as one unified word, since God inspired all of it.",
       "hint": "Think of how many different named authors' names appear across the Bible's books.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 105",
           "quote": "...have been written down under the inspiration of the Holy Spirit."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 106",
+          "quote": "...God chose certain men who, all the while he employed them in this task, made full use of their own faculties and powers..."
         }
       ]
     },
@@ -760,7 +782,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 121"
+          "reference": "CCC 105",
+          "quote": "...the books of the Old and the New Testaments, whole and entire, with all their parts... have God as their author..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121",
+          "quote": "Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
         }
       ]
     },
@@ -818,11 +846,19 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 105"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 106"
         },
         {
           "type": "ccc",
           "reference": "CCC 107"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
         },
         {
           "type": "ccc",
@@ -862,7 +898,7 @@
       "difficultyElo": 1100,
       "prompt": "True or False: The Church holds that every description of nature in Scripture must be read as a precise, modern scientific claim.",
       "correctAnswer": false,
-      "explanation": "False. A description of nature as it appears (\"the sun rises\") asserts what the eye sees, not a scientific theory. Reading it as a modern scientific claim mistakes what kind of statement it is. Either way, no error is involved.",
+      "explanation": "False. A description of nature as it appears (\"the sun rises\") asserts what the eye sees, not a scientific theory. Reading it as a modern scientific claim mistakes what kind of statement it is. Rightly read, such a description asserts nothing false.",
       "hint": "Recall how the sacred writers describe the natural world.",
       "citations": [
         {
@@ -1038,8 +1074,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 120",
-          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+          "reference": "CCC 702",
+          "quote": "Jewish tradition distinguishes first the Law (the five first books or Pentateuch)..."
         }
       ]
     },
@@ -1078,6 +1114,11 @@
           "reference": "Exodus 20:1-17",
           "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2068",
+          "quote": "The Council of Trent teaches that the Ten Commandments are obligatory for Christians..."
         }
       ]
     },
@@ -1100,7 +1141,17 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 64"
+          "reference": "CCC 120"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book XVIII, ch. 29",
+          "quote": "...the twelve prophets, who are called the minor from the brevity of their writings, as compared with those who are called the greater prophets because they published larger volumes."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book XVIII, ch. 34",
+          "quote": "Daniel and Ezekiel, other two of the greater prophets..."
         }
       ]
     },
@@ -1151,6 +1202,21 @@
       "hint": "One is a group of books, one a group of prophets, one a theological concept, one a historical event.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 702",
+          "quote": "...the Law (the five first books or Pentateuch)..."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book XVIII, ch. 34",
+          "quote": "Daniel and Ezekiel, other two of the greater prophets..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 62",
+          "quote": "...God formed Israel as his people by freeing them from slavery in Egypt. He established with them the covenant of Mount Sinai..."
+        },
+        {
           "type": "scripture",
           "reference": "Exodus 20:1-17",
           "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
@@ -1194,7 +1260,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2500"
+          "reference": "CCC 122",
+          "quote": "...a storehouse of sublime teaching on God and of sound wisdom on human life..."
         }
       ]
     },
@@ -1206,12 +1273,18 @@
       "difficultyElo": 1285,
       "prompt": "The Book of Job wrestles above all with the question of innocent ____, without offering a single tidy resolution to the problem.",
       "correctAnswer": "suffering",
-      "explanation": "Job is notable precisely for what it does not do: it never gives Job (or the reader) a clean explanation for his suffering. God's answer from the whirlwind reframes the question rather than answering it directly, which is part of why the book still speaks so powerfully to real grief.",
+      "explanation": "Job suffers without guilt: as Pope St. John Paul II writes, \"Job has not been punished.\" The introduction of the book shows the reader that God permitted the trial after Satan's challenge, and \"The suffering has the nature of a test.\" Yet the book \"poses in an extremely acute way the question of the 'why' of suffering\" and \"does not yet give the solution to the problem.\" It \"is not the last word on this subject in Revelation\"; in a certain way it is a foretelling of the Passion of Christ.",
       "hint": "The whole book centers on why a righteous man endures terrible loss.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2596"
+          "type": "magisterial_document",
+          "reference": "Salvifici Doloris 12, Pope St. John Paul II (1984)",
+          "quote": "...it also shows that suffering strikes the innocent, but it does not yet give the solution to the problem."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Salvifici Doloris 11, Pope St. John Paul II (1984)",
+          "quote": "...if the Lord consents to test Job with suffering, he does it to demonstrate the latter's righteousness. The suffering has the nature of a test."
         }
       ]
     },
@@ -1229,7 +1302,7 @@
         },
         {
           "left": "Historical books",
-          "right": "Israel's story from the conquest through the exile and return"
+          "right": "Israel's story from the conquest of Canaan to the time of the Maccabees"
         },
         {
           "left": "Wisdom literature",
@@ -1245,11 +1318,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2500"
+          "reference": "CCC 120"
         },
         {
           "type": "ccc",
-          "reference": "CCC 2585"
+          "reference": "CCC 702",
+          "quote": "...the Law (the five first books or Pentateuch), then the Prophets (our historical and prophetic books) and finally the Writings (especially the wisdom literature...)"
         }
       ]
     },
@@ -1271,10 +1345,9 @@
       "hint": "Consider what would happen if a poem were read as if it were a literal legal code, or the reverse.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Exodus 20:1-17",
-          "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
-          "note": "Douay-Rheims"
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "...truth is differently presented and expressed in the various types of historical writing, in prophetical and poetical texts..."
         }
       ]
     },
@@ -1291,7 +1364,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 110",
+          "quote": "...truth is differently presented and expressed in the various types of historical writing, in prophetical and poetical texts..."
         }
       ]
     },
@@ -1361,6 +1435,11 @@
       "hint": "Recall that genre is determined by honest, careful method rather than convenient conclusions.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
+        },
+        {
           "type": "scripture",
           "reference": "Exodus 20:1-17",
           "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
@@ -1380,10 +1459,9 @@
       "hint": "Recall applying the bibliographical test honestly, even to an inconvenient finding.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Exodus 20:1-17",
-          "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
-          "note": "Douay-Rheims"
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "In order to discover the sacred authors' intention, the reader must take into account the conditions of their time and culture..."
         }
       ]
     },
@@ -1416,6 +1494,11 @@
       "hint": "Two rows explain what genre does; two apply it to concrete examples and defend it against an objection.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "...truth is differently presented and expressed in the various types of historical writing, in prophetical and poetical texts..."
+        },
+        {
           "type": "scripture",
           "reference": "Exodus 20:1-17",
           "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
@@ -1442,7 +1525,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 107"
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
         }
       ]
     },
@@ -1465,8 +1549,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "reference": "CCC 1338",
+          "quote": "The three synoptic Gospels and St. Paul have handed on to us the account of the institution of the Eucharist..."
         }
       ]
     },
@@ -1483,8 +1567,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "reference": "CCC 1338",
+          "quote": "The three synoptic Gospels and St. Paul have handed on to us the account... St. John, for his part, reports the words of Jesus..."
         }
       ]
     },
@@ -1519,13 +1603,13 @@
         "The invention of the printing press"
       ],
       "correctAnswer": "The Gospels being written down by the four evangelists",
-      "explanation": "The evangelists, drawing on the earlier oral preaching of the apostolic Church, put this apostolic testimony into writing, 'selecting' and 'synthesizing' it for their particular communities.",
+      "explanation": "The evangelists put the apostolic testimony into writing: they \"selected certain of the many elements which had been handed on, either orally or already in written form,\" and others they \"synthesized or explained with an eye to the situation of the churches.\"",
       "hint": "This is the final stage, after Jesus' own ministry and the apostles' preaching about it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "quote": "...in writing the four Gospels, selected certain of the many elements which had been handed on, either orally or already in written form..."
         }
       ]
     },
@@ -1541,9 +1625,15 @@
       "hint": "What matters is the Gospels' connection to apostolic testimony as a whole, not each author's personal presence at every event.",
       "citations": [
         {
+          "type": "scripture",
+          "reference": "Luke 1:1-2",
+          "quote": "Forasmuch as many have taken in hand to set forth in order a narration of the things that have been accomplished among us, According as they have delivered them unto us, who from the beginning were eyewitnesses and ministers of the word:",
+          "note": "Douay-Rheims"
+        },
+        {
           "type": "ccc",
           "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "quote": "...the apostles handed on to their hearers what he had said and done..."
         }
       ]
     },
@@ -1577,7 +1667,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 125"
+          "reference": "CCC 126",
+          "quote": "...others they synthesized or explained with an eye to the situation of the churches... they have told us the honest truth about Jesus."
         }
       ]
     },
@@ -1599,8 +1690,15 @@
       "hint": "Compare how directly each Gospel has Jesus state who he is.",
       "citations": [
         {
+          "type": "scripture",
+          "reference": "John 6:35",
+          "quote": "And Jesus said to them: I am the bread of life. He that cometh to me shall not hunger: and he that believeth in me shall never thirst.",
+          "note": "Douay-Rheims"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 516"
+          "reference": "CCC 1338",
+          "quote": "The three synoptic Gospels and St. Paul have handed on to us the account... Christ calls himself the bread of life..."
         }
       ]
     },
@@ -1652,7 +1750,7 @@
         },
         {
           "left": "Mark",
-          "right": "The shortest Gospel, likely the earliest written"
+          "right": "The shortest of the four Gospels"
         },
         {
           "left": "Luke",
@@ -1668,11 +1766,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 126"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 516"
+          "reference": "CCC 126",
+          "quote": "...others they synthesized or explained with an eye to the situation of the churches..."
         }
       ]
     },
@@ -1774,13 +1869,18 @@
         "Yes -- but the Church has simply never seriously considered this practical option"
       ],
       "correctAnswer": "No -- each Gospel adds content the others don't; setting one aside would lose content, not trim redundancy",
-      "explanation": "This objection assumes the four Gospels are redundant, so one could stand in for the rest. In fact, each Gospel's own distinct portrait genuinely adds something the others do not -- setting any aside would lose genuine content, not merely trim redundancy.",
+      "explanation": "This objection assumes the four Gospels are redundant, so one could stand in for the rest. In fact, each Gospel's own distinct portrait genuinely adds something the others do not -- setting any aside would lose genuine content, not merely trim redundancy. More fundamentally, the Church does not choose among inspired books: she accepts them \"whole and entire, with all their parts,\" because they \"have God as their author\" (CCC 105).",
       "hint": "Consider whether the four Gospels' own differences are redundant repetition, or genuine, distinct content.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
           "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 105",
+          "quote": "...accepts as sacred and canonical the books of the Old and the New Testaments, whole and entire, with all their parts..."
         }
       ]
     },
@@ -1894,7 +1994,7 @@
       "difficultyElo": 1475,
       "prompt": "True or False: The Letter to the Romans is widely regarded as containing Paul's most systematic presentation of the Gospel and the doctrine of justification.",
       "correctAnswer": true,
-      "explanation": "Romans opens with Paul's programmatic statement that he is 'not ashamed of the gospel,' since 'the righteous shall live by faith' -- launching one of Scripture's most sustained theological arguments.",
+      "explanation": "Romans opens with Paul's programmatic statement that he is 'not ashamed of the gospel,' for 'it is the power of God unto salvation to every one that believeth,' and in it 'the justice of God is revealed... from faith unto faith, as it is written: The just man liveth by faith' (Romans 1:16-17) -- launching one of Scripture's most sustained theological arguments.",
       "hint": "This letter is often called Paul's theological masterwork.",
       "citations": [
         {
@@ -2046,6 +2146,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 673",
+          "quote": "...it is not for you to know times or seasons which the Father has fixed by his own authority."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 677"
         }
       ]
@@ -2058,7 +2163,7 @@
       "difficultyElo": 1585,
       "prompt": "The Letter to the Hebrews presents Christ as the perfect and eternal High ____, superior to the Levitical priesthood he fulfills.",
       "correctAnswer": "Priest",
-      "explanation": "Hebrews' whole argument builds toward this: the old priesthood offered repeated sacrifices that could never fully take away sin, where Christ's single, perfect self-offering accomplishes once for all what the Levitical system could only foreshadow.",
+      "explanation": "Hebrews' whole argument builds toward this: the old priesthood offered repeated sacrifices 'which can never take away sins' (Hebrews 10:11), where Christ's single, perfect self-offering accomplishes once for all what the Levitical system could only foreshadow.",
       "hint": "The letter compares Christ's role to the Old Testament priesthood, and finds him superior to it.",
       "citations": [
         {
@@ -2224,16 +2329,20 @@
       "level": 11,
       "type": "true_false",
       "difficultyElo": 1550,
-      "prompt": "True or False: Reading a whole argument before isolating a single verse is the same discipline as attending to a passage's genre.",
+      "prompt": "True or False: Reading a whole argument before isolating a single verse and attending to a passage's genre both serve the same goal: discovering what the sacred author truly wanted to affirm.",
       "correctAnswer": true,
-      "explanation": "True -- both practice the same discipline: attending to a passage's actual form and context before drawing an isolated conclusion.",
+      "explanation": "True -- both attend to a passage's actual form and context before drawing an isolated conclusion, so that the reader is attentive to \"what the human authors truly wanted to affirm\" (CCC 109).",
       "hint": "Recall why genre matters for reading Scripture well.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Romans 1:16-17",
-          "quote": "For I am not ashamed of the gospel. For it is the power of God unto salvation to every one that believeth: to the Jew first and to the Greek. For the justice of God is revealed therein, from faith unto faith, as it is written: The just man liveth by faith.",
-          "note": "Douay-Rheims"
+          "type": "ccc",
+          "reference": "CCC 109",
+          "quote": "...the reader must be attentive to what the human authors truly wanted to affirm..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "...the literary genres in use at that time..."
         }
       ]
     },
@@ -2388,14 +2497,15 @@
       "level": 12,
       "type": "true_false",
       "difficultyElo": 1625,
-      "prompt": "True or False: The Catechism teaches that all the books and parts of Scripture are one, because all of Scripture is inspired by one and the same God.",
+      "prompt": "True or False: The Catechism teaches that, different as its books may be, Scripture is a unity by reason of the unity of God's plan, of which Christ Jesus is the center and heart.",
       "correctAnswer": true,
-      "explanation": "This is the first of the Catechism's criteria for interpreting Scripture -- reading with attention to the content and unity of the whole, since one divine author stands behind every book.",
+      "explanation": "This is the first of the Catechism's criteria for interpreting Scripture -- reading with attention to the content and unity of the whole, since Scripture is a unity by reason of the unity of God's plan, with Christ Jesus at its center.",
       "hint": "This is about Scripture's underlying unity, despite its many human authors and books.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 112"
+          "reference": "CCC 112",
+          "quote": "Different as the books which compose it may be, Scripture is a unity by reason of the unity of God's plan..."
         }
       ]
     },
@@ -2470,7 +2580,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1117"
+          "reference": "CCC 117",
+          "quote": "...the events reported in Scripture ought to lead us to act justly."
         }
       ]
     },
@@ -2493,7 +2604,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 112"
+          "reference": "CCC 111-114"
         }
       ]
     },
@@ -2715,8 +2826,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 116",
-          "quote": "The literal sense is the meaning conveyed by the words of Scripture and discovered by exegesis, following the rules of sound interpretation..."
+          "reference": "CCC 117",
+          "quote": "...thus the crossing of the Red Sea is a sign or type of Christ's victory and also of Christian Baptism."
         }
       ]
     },
@@ -2728,14 +2839,14 @@
       "difficultyElo": 1825,
       "prompt": "Trent's Fourth Session (1546) formally closed the Old Testament canon, affirming books the Reformers rejected as a shorter, 'protocanonical-only' list. What does 'deuterocanonical' mean, applied to books like Tobit, Judith, and Wisdom?",
       "choices": [
-        "Books whose canonicity was affirmed later and more explicitly than the protocanonical books, not books added or invented at Trent",
+        "Books whose Scriptural character was contested in some quarters before they gained a secure footing in the canon, not books added or invented at Trent",
         "Books that were written after the New Testament closed",
         "Books accepted by Protestants but rejected by Catholics",
         "Books that were never used in the Church before 1546"
       ],
-      "correctAnswer": "Books whose canonicity was affirmed later and more explicitly than the protocanonical books, not books added or invented at Trent",
-      "explanation": "'Deuterocanonical' (literally 'second canon') names books whose place in the canon received more explicit, formal affirmation later in Church history than the 'protocanonical' books, not books that were newly invented or added at Trent -- these books were already read as Scripture in the Church's ancient liturgical use well before Trent formally closed the question against Reformation-era challenges.",
-      "hint": "The prefix means 'second,' referring to the timing of formal affirmation, not a lesser status or later composition.",
+      "correctAnswer": "Books whose Scriptural character was contested in some quarters before they gained a secure footing in the canon, not books added or invented at Trent",
+      "explanation": "'Deuterocanonical' (from the Greek deuteros, 'second') is a modern term, not used before the sixteenth century. It names books whose Scriptural character was contested in some quarters but which long ago gained a secure footing in the Church's Bible. It does not mean they were affirmed later than the other books: the councils of Hippo (393) and Carthage (397) listed books such as Tobit, Judith and Maccabees together with the protocanonical books, basing their canon on tradition and liturgical usage. Trent's Fourth Session (1546) then defined the canon of the Old Testament, including these books, against the Reformers' shorter list. Nothing was newly invented or added at Trent.",
+      "hint": "The prefix means 'second'. It recalls that these books were once doubted in some quarters, not that they have a lesser status or were written later.",
       "citations": [
         {
           "type": "council",
@@ -2787,13 +2898,13 @@
         "Each other, with no third source involved at all"
       ],
       "correctAnswer": "The Gospel of Mark and a hypothetical sayings collection called 'Q'",
-      "explanation": "The Two-Source Hypothesis, built on the observation of Markan priority (Mark was written first and used as a source by the other two), proposes that Matthew and Luke each independently drew on Mark plus a hypothetical sayings source scholars call 'Q' (from German 'Quelle,' source) to explain material they share that isn't in Mark.",
+      "explanation": "The Two-Source Hypothesis assumes Markan priority, the view that Mark was written first and used by the other two. On that basis it proposes that Matthew and Luke each independently drew on Mark plus a hypothetical sayings source that scholars call 'Q' (from German 'Quelle,' source), to explain material they share that isn't in Mark. It is a widely held scholarly hypothesis, not a certainty: ancient tradition, followed by the Pontifical Biblical Commission in 1911, held that Matthew wrote first.",
       "hint": "One of the two sources is a Gospel you already know; the other is a hypothesis, not a surviving document.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "quote": "...selected certain of the many elements which had been handed on, either orally or already in written form..."
         }
       ]
     },
@@ -2809,9 +2920,9 @@
       "hint": "These aren't just old and famous -- they're actively used as evidence in scholarly arguments about the text.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 120",
-          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+          "type": "magisterial_document",
+          "reference": "Divino Afflante Spiritu 17, Pope Pius XII (1943)",
+          "quote": "...this art, which is called textual criticism... is also quite rightly employed in the case of the Sacred Books..."
         }
       ]
     },
@@ -2843,7 +2954,7 @@
       "pairs": [
         {
           "left": "Deuterocanonical",
-          "right": "Formally affirmed later and more explicitly than the protocanonical books, not invented at Trent"
+          "right": "Once contested in some quarters but long received in the Church's canon, not invented at Trent"
         },
         {
           "left": "The Two-Source Hypothesis",
@@ -2859,7 +2970,7 @@
         }
       ],
       "explanation": "Each of these terms replaces a lay paraphrase with the Church's or scholarship's own precise vocabulary, wired to the specific argument or evidence that motivated it.",
-      "hint": "Two of these concern the Old Testament canon and text; two concern the New Testament's composition.",
+      "hint": "Two of these concern the canon and the manuscript text of the Bible; two concern the New Testament's composition and authorship.",
       "citations": [
         {
           "type": "ccc",
@@ -2903,8 +3014,9 @@
       "hint": "Both are dated to the same century, one associated with Egypt, the other traditionally with the Vatican Library.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 120"
+          "type": "magisterial_document",
+          "reference": "Divino Afflante Spiritu 17, Pope Pius XII (1943)",
+          "quote": "...this art, which is called textual criticism... is also quite rightly employed in the case of the Sacred Books..."
         }
       ]
     },
@@ -3048,8 +3160,14 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "reference": "CCC 158",
+          "quote": "...a more penetrating knowledge will in turn call forth a greater faith, increasingly set afire by love."
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -3061,15 +3179,25 @@
       "difficultyElo": 1900,
       "prompt": "A friend asks: 'Why should I trust that the Church picked the right books, rather than leaving some important books out or including some that don't belong?' What is the precise, historically grounded answer?",
       "choices": [
-        "The canon emerged through a real, gradual process of Church discernment, confirmed by councils, not one arbitrary choice",
+        "The Church discerned the canon by the apostolic Tradition, in a real, gradual process confirmed by councils, not one arbitrary choice",
         "The canon was decided randomly, with no historical process behind it at all",
         "This is a question with no possible, honest historical answer",
         "The canon was chosen by a single, private individual with no wider Church involvement"
       ],
-      "correctAnswer": "The canon emerged through a real, gradual process of Church discernment, confirmed by councils, not one arbitrary choice",
-      "explanation": "This is a precise, honest, historically grounded answer -- the canon emerged through a gradual process of discernment by the whole Church, guided by apostolic Tradition and confirmed by councils, not a single arbitrary or private decision.",
+      "correctAnswer": "The Church discerned the canon by the apostolic Tradition, in a real, gradual process confirmed by councils, not one arbitrary choice",
+      "explanation": "This is a precise, honest, historically grounded answer. The canon was not a single arbitrary or private decision: as Dei Verbum 8 teaches, 'through the same tradition the Church's full canon of the sacred books is known.' The Church discerned the canon by the apostolic Tradition over time, and councils confirmed it.",
       "hint": "Recall the canon's gradual, historical formation process.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 120",
+          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 8",
+          "quote": "Through the same tradition the Church's full canon of the sacred books is known..."
+        },
         {
           "type": "council",
           "reference": "Council of Trent, Fourth Session (1546)",
@@ -3089,9 +3217,10 @@
       "hint": "Recall that everyday apologetic moments are every believer's calling.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Council of Trent, Fourth Session (1546)",
-          "quote": "... receives and venerates with an equal affection of piety, and reverence, all the books both of the Old and of the New Testament..."
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -3162,14 +3291,14 @@
       "difficultyElo": 1975,
       "prompt": "An objector says, 'The Bible gets a scientific or historical detail wrong somewhere, so it can't be inspired.' What is the accurate Catholic response?",
       "choices": [
-        "Nothing the sacred writer asserts is in error; an apparent error comes from misreading the passage, or from a copyist's mistake",
+        "Nothing the sacred writer asserts is in error; an apparent error comes from misreading the passage, from a copyist's mistake, or from a mistake in the objection itself",
         "The objection is correct, and the Church has quietly abandoned any claim that Scripture is without error",
         "Inerrancy means every single statement in Scripture must be scientifically precise by modern standards",
         "The objection can only be answered by denying that the Bible mentions any historical events at all"
       ],
-      "correctAnswer": "Nothing the sacred writer asserts is in error; an apparent error comes from misreading the passage, or from a copyist's mistake",
-      "explanation": "Leo XIII taught that it is absolutely wrong \"to admit that the sacred writer has erred.\" When a passage seems wrong, he pointed to the real causes: copyists have made mistakes in the text, or the sense of the passage has not been understood. A description of nature as it appears, for instance, is not a scientific claim at all.",
-      "hint": "Ask whether the problem is in what the author asserted, or in how the passage was copied or read.",
+      "correctAnswer": "Nothing the sacred writer asserts is in error; an apparent error comes from misreading the passage, from a copyist's mistake, or from a mistake in the objection itself",
+      "explanation": "Leo XIII taught that it is absolutely wrong \"to admit that the sacred writer has erred.\" When a passage seems wrong, he pointed to the real causes: copyists have made mistakes in the text, or the sense of the passage has not been understood. And since truth cannot contradict truth, \"some mistake has been made either in the interpretation of the sacred words, or in the polemical discussion itself.\" A description of nature as it appears, for instance, is not a scientific claim at all.",
+      "hint": "Ask whether the problem is in what the author asserted, or in how the passage was copied or read, or in the objection itself.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -3180,6 +3309,11 @@
           "type": "magisterial_document",
           "reference": "Providentissimus Deus 20, Pope Leo XIII (1893)",
           "quote": "It is true, no doubt, that copyists have made mistakes in the text of the Bible... It may also happen that the sense of a passage remains ambiguous..."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Providentissimus Deus 23, Pope Leo XIII (1893)",
+          "quote": "...truth cannot contradict truth, and we may be sure that some mistake has been made either in the interpretation of the sacred words, or in the polemical discussion itself..."
         }
       ]
     },
@@ -3213,7 +3347,7 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 1975,
-      "prompt": "An objector says, 'The Gospels copied each other, so they aren't independent eyewitness testimony.' Using Markan priority and the Church's three-stage Gospel formation process (CCC 126), what is the accurate response?",
+      "prompt": "An objector says, 'The Gospels copied each other, so they aren't independent eyewitness testimony.' Using the widely held hypothesis of Markan priority and the Church's three-stage Gospel formation process (CCC 126), what is the accurate response?",
       "choices": [
         "Literary dependence in composition and apostolic reliability in content aren't in tension -- later evangelists drawing on earlier written and oral apostolic tradition is exactly the process CCC 126 describes, not a discovery that undermines it",
         "The Gospels have no literary relationship of any kind, and the extensive verbal overlap among the Synoptics is entirely coincidental rather than a sign of shared sources",
@@ -3221,13 +3355,13 @@
         "CCC 126 was written specifically to deny Markan priority and to rule out any use of one Gospel as a source for another"
       ],
       "correctAnswer": "Literary dependence in composition and apostolic reliability in content aren't in tension -- later evangelists drawing on earlier written and oral apostolic tradition is exactly the process CCC 126 describes, not a discovery that undermines it",
-      "explanation": "CCC 126 describes a three-stage formation process -- the life and teaching of Jesus, the apostles' oral preaching, and the evangelists' later written composition drawing on those earlier stages. Mark being used as a source by Matthew and Luke is exactly this kind of continuity with apostolic tradition, not evidence of fabrication or independent invention.",
+      "explanation": "CCC 126 describes a three-stage formation process: the life and teaching of Jesus, the apostles' oral preaching, and the evangelists' written Gospels, in which they selected elements 'handed on, either orally or already in written form.' If Matthew and Luke used Mark as a source, as many scholars hold, that is exactly this kind of continuity with apostolic tradition, not evidence of fabrication or independent invention.",
       "hint": "The three-stage process in CCC 126 already accounts for later written Gospels drawing on earlier apostolic material.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
-          "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+          "quote": "...selected certain of the many elements which had been handed on, either orally or already in written form..."
         }
       ]
     },
@@ -3245,13 +3379,18 @@
         "Sola scriptura is correct, and the Catholic Church has quietly adopted it since Vatican II"
       ],
       "correctAnswer": "Scripture itself requires correct interpretation within the living Tradition and the analogy of faith -- a text that different readers interpret in contradictory ways cannot function as a wholly self-interpreting rule without an authoritative interpreter",
-      "explanation": "The historical fact of thousands of different, mutually contradictory interpretations arising from sola scriptura is itself evidence against the claim that Scripture is simply self-interpreting -- the Church's teaching is that Scripture must be read within the living Tradition and 'analogy of faith' (the coherence of all revealed truths with each other), guided by the Magisterium's authority to interpret authentically.",
+      "explanation": "The historical fact of many different, mutually contradictory interpretations arising from sola scriptura is itself evidence against the claim that Scripture is simply self-interpreting. The Church teaches that Scripture must be read within the living Tradition and the 'analogy of faith' (the coherence of all revealed truths with each other), and that the task of authentic interpretation belongs to the Magisterium.",
       "hint": "The strongest evidence against 'self-interpreting' is simply how many contradictory readings the same text has actually produced.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 113",
           "quote": "...it is the Holy Spirit who gives her the spiritual interpretation of the Scripture..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 85",
+          "quote": "The task of giving an authentic interpretation of the Word of God... has been entrusted to the living teaching office of the Church alone."
         }
       ]
     },
@@ -3263,7 +3402,7 @@
       "difficultyElo": 1925,
       "prompt": "True or False: The apparent tension between James 2:24 ('by works a man is justified, and not by faith only') and Romans 3:28 ('we account a man to be justified by faith, without the works of the law') is resolved by recognizing the two authors use 'faith' and 'works' in different senses suited to the specific errors each is correcting, not by declaring one passage simply wrong.",
       "correctAnswer": true,
-      "explanation": "Paul in Romans is countering a reliance on the Mosaic law's ritual works as a means of justification apart from faith in Christ, while James is countering an empty, inert 'faith' that produces no actual charity or good works -- read according to each author's specific target and literary context, the two passages address different errors rather than contradicting each other.",
+      "explanation": "Paul in Romans is countering reliance on the works of the Mosaic law as a means of justification apart from faith in Christ, while James is countering an empty, inert 'faith' that produces no actual charity or good works. Read according to each author's specific target and literary context, the two passages address different errors rather than contradicting each other.",
       "hint": "The key move is asking what specific error each author is correcting, not assuming both must use the same word the same way.",
       "citations": [
         {
@@ -3323,18 +3462,22 @@
       "difficultyElo": 1975,
       "prompt": "An objector says: 'The Gospels contradict each other on small details, like the exact wording of the inscription over the cross, so they can't be trusted at all.'  What is the accurate response?",
       "choices": [
-        "Minor variation in incidental detail among independent witnesses is normal and does not undermine agreement on the substantial facts; ancient historians did not expect verbatim uniformity",
+        "Differences of wording and selection are not contradictions: each Evangelist reports the inscription truthfully, and all four give its charge, 'THE KING OF THE JEWS'",
         "The Gospels never differ on any detail whatsoever",
         "The differences prove the events never happened",
         "Only one Gospel's account of the inscription should be considered accurate, and the others are simply wrong"
       ],
-      "correctAnswer": "Minor variation in incidental detail among independent witnesses is normal and does not undermine agreement on the substantial facts; ancient historians did not expect verbatim uniformity",
-      "explanation": "Four independent witnesses to the same event nearly always vary slightly on incidental wording while agreeing on substance — a total absence of such variation would actually be more suspicious, suggesting collusion rather than independent testimony.",
-      "hint": "Ask what perfectly identical wording across four independent accounts would suggest.",
+      "correctAnswer": "Differences of wording and selection are not contradictions: each Evangelist reports the inscription truthfully, and all four give its charge, 'THE KING OF THE JEWS'",
+      "explanation": "The Evangelists selected and synthesized what had been handed on, 'but always in such a fashion that they have told us the honest truth about Jesus' (CCC 126). Mark gives 'THE KING OF THE JEWS,' Luke 'THIS IS THE KING OF THE JEWS,' Matthew 'THIS IS JESUS THE KING OF THE JEWS,' and John 'JESUS OF NAZARETH, THE KING OF THE JEWS,' adding that the title was written in Hebrew, Greek, and Latin (John 19:20). A shorter report of the same words does not contradict a fuller one.",
+      "hint": "Ask whether a shorter report of the same words contradicts a fuller one.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 19:19-20"
         }
       ]
     },
@@ -3346,18 +3489,22 @@
       "difficultyElo": 1975,
       "prompt": "An objector claims: 'The Gospel of Mark ends abruptly at 16:8 with the women afraid, so the Resurrection appearances must be later additions with no basis.'  How should this be addressed?",
       "choices": [
-        "Mark's abrupt original ending is a textual question addressed on its own terms, and does not affect the independent, earlier attestation of the Resurrection in Paul's letters",
+        "Whether Mark originally ended at 16:8 is a textual question; Mark 16:9-20 is canonical, inspired Scripture in any case, and 1 Corinthians 15 attests the Resurrection independently of Mark",
         "Mark 16:9-20 is universally accepted as certainly original with no scholarly dispute",
         "The claim proves the Resurrection was invented after Mark was written",
-        "This detail has no bearing on the reliability of any other Gospel"
+        "Mark 16:9-20 is not part of the canonical Scriptures"
       ],
-      "correctAnswer": "Mark's abrupt original ending is a textual question addressed on its own terms, and does not affect the independent, earlier attestation of the Resurrection in Paul's letters",
-      "explanation": "This is a genuine textual-critical question, not a threat to the Resurrection's attestation — 1 Corinthians 15, written earlier than Mark, already contains a creedal formula naming the Resurrection and witnesses, independent of how Mark's Gospel happens to end.",
-      "hint": "Ask whether the earliest evidence for the Resurrection depends on Mark's ending specifically.",
+      "correctAnswer": "Whether Mark originally ended at 16:8 is a textual question; Mark 16:9-20 is canonical, inspired Scripture in any case, and 1 Corinthians 15 attests the Resurrection independently of Mark",
+      "explanation": "Whether Mark's Gospel originally ended at 16:8 is a genuine textual-critical question, but it is no threat to the Resurrection. The Church receives Mark 16:9-20 as canonical, inspired Scripture, whoever wrote it: the Council of Trent (Session IV) received the books 'entire with all their parts.' And 1 Corinthians 15:3-8 hands on, independently of Mark, what Paul himself 'received': that Christ 'rose again the third day' and 'was seen by Cephas, and after that by the eleven.'",
+      "hint": "Ask whether the evidence for the Resurrection depends on Mark's ending specifically.",
       "citations": [
         {
           "type": "scripture",
           "reference": "1 Corinthians 15:3-8"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session IV, Decree on the Canonical Scriptures"
         }
       ]
     },
@@ -3367,9 +3514,9 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 1925,
-      "prompt": "True or False: The apparent tension between James 2:24 ('a person is justified by works and not by faith alone') and Paul's teaching on justification by faith is resolved by recognizing they are answering different questions about faith.",
+      "prompt": "True or False: The apparent tension between James 2:24 ('by works a man is justified, and not by faith only') and Paul's teaching on justification by faith is resolved by recognizing they are answering different questions about faith.",
       "correctAnswer": true,
-      "explanation": "True. James addresses a faith that is mere intellectual assent producing no fruit — dead faith — while Paul addresses whether observance of the Mosaic Law's works earns justification. They are not contradicting each other on the same question; they are answering two different questions the word 'faith' can raise.",
+      "explanation": "True. James addresses a 'faith' that bears no fruit, the faith that is 'dead' without works (CCC 1815). Paul addresses how justification is freely received: as the Council of Trent explains the Apostle's words, 'none of those things which precede justification ... merit the grace itself of justification.' They are not contradicting each other on the same question; they are answering two different questions the word 'faith' can raise.",
       "hint": "Ask whether 'works' and 'faith' mean exactly the same thing in each author's argument.",
       "citations": [
         {
@@ -3379,6 +3526,10 @@
         {
           "type": "ccc",
           "reference": "CCC 1815"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session VI, Decree on Justification, ch. 8"
         }
       ]
     },
@@ -3396,7 +3547,7 @@
         },
         {
           "left": "'Mark's abrupt ending disproves the Resurrection'",
-          "right": "A real textual question, unrelated to Paul's earlier, independent attestation"
+          "right": "A real textual question, unrelated to Paul's independent attestation in 1 Corinthians 15"
         },
         {
           "left": "'James contradicts Paul on faith'",
@@ -3434,9 +3585,13 @@
         "Refusing to read or engage the specific biblical texts being raised in the objection"
       ],
       "correctAnswer": "Taking the historical genre seriously -- ancient conquest accounts used hyperbolic 'total destruction' language, not always literal",
-      "explanation": "This is a serious objection deserving a careful first move -- attending to genre. Ancient Near Eastern conquest accounts conventionally used hyperbolic 'total destruction' language that the biblical text's own later references (showing the same peoples still present) confirm was not always literal.",
+      "explanation": "This is a serious objection deserving a careful first move -- attending to genre (CCC 110). Many scholars point out that ancient Near Eastern conquest accounts used sweeping 'total destruction' language, and later biblical texts show some of the same peoples still present; this supports, without by itself settling, a non-literal reading of some of that language.",
       "hint": "Recall why genre matters for reading any passage well.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 110"
+        },
         {
           "type": "ccc",
           "reference": "CCC 107"
@@ -3451,13 +3606,16 @@
       "difficultyElo": 2000,
       "prompt": "True or False: Later biblical texts sometimes refer to peoples the conquest narratives describe as totally destroyed as still actually present, suggesting the destruction language functioned rhetorically rather than as a literal, complete historical record.",
       "correctAnswer": true,
-      "explanation": "True, and this is an important piece of internal biblical evidence -- later texts referring to supposedly 'totally destroyed' peoples as still present shows the destruction language functioned as a conventional rhetorical device, not a strictly literal historical claim.",
+      "explanation": "True as stated. Many interpreters read such passages, for example Joshua 10:40's 'slew all that breathed' alongside later accounts of the same regions still inhabited, as evidence of conventional hyperbole. Scripture sometimes gives another reason, Israel's incomplete obedience: 'the sons of Benjamin did not destroy the Jebusites' (Judges 1:21). So this evidence supports, without by itself proving, a rhetorical reading of some of the destruction language.",
       "hint": "Consider what it would mean if a people described as 'totally destroyed' shows up again, still present, later in the same biblical narrative.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 107"
         }
+      ],
+      "tags": [
+        "theological-status:contested-within-orthodoxy"
       ]
     },
     {
@@ -3469,18 +3627,28 @@
       "prompt": "Beyond the genre-based answer, what further principle helps with the violent passages in Scripture?",
       "choices": [
         "Scripture truthfully records many deeds, even sinful ones, without approving them; reporting an action is not endorsing it",
-        "This principle has no bearing on the conquest narratives, which must be explained some other way",
+        "Scripture never records sinful deeds at all",
         "Inerrancy requires treating every described action in Scripture as morally endorsed by God",
         "The Church has never addressed this question, so each reader must settle it alone"
       ],
       "correctAnswer": "Scripture truthfully records many deeds, even sinful ones, without approving them; reporting an action is not endorsing it",
-      "explanation": "A true report that something happened is not a statement that it was right; Scripture records David's adultery, for example, without praising it. The Old Testament also contains \"matters imperfect and provisional\" while bearing witness to God's patient teaching of his people.",
+      "explanation": "A true report that something happened is not a statement that it was right; Scripture records David's adultery, for example, and says 'this thing which David had done, was displeasing to the Lord' (2 Samuel 11:27). This principle does not by itself settle passages where the text says God commanded an action; those also call for attention to genre (CCC 110) and to the divine pedagogy by which the Old Testament, though it contains \"matters imperfect and provisional,\" bears witness to God's saving love (CCC 122).",
       "hint": "Ask whether recording that something happened is the same as approving it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 122",
           "quote": "Even though they contain matters imperfect and provisional, the books of the Old Testament bear witness..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 110"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 11:27",
+          "quote": "...and this thing which David had done, was displeasing to the Lord.",
+          "note": "Douay-Rheims (2 Kings 11:27 in its numbering)"
         }
       ]
     },
@@ -3490,7 +3658,7 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: The two-part answer to the conquest-narrative objection (genre, and the difference between reporting an action and approving it) draws on established tools of interpretation rather than a wholly new method.",
+      "prompt": "True or False: The two tools used here for Scripture's violent passages (reading for genre, and distinguishing what a text reports from what it approves) are established tools of interpretation rather than a wholly new method.",
       "correctAnswer": true,
       "explanation": "True. No new method is introduced; reading for genre and distinguishing what a text reports from what it approves are both long established, and here they are applied to a serious objection.",
       "hint": "Consider what tools of interpretation the two-part answer draws on.",
@@ -3531,7 +3699,7 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: Honesty about a genuinely hard, unresolved question follows the same pattern as honestly acknowledging that Mark's longer ending lacked early manuscript support.",
+      "prompt": "True or False: Honesty about a genuinely hard, unresolved question follows the same pattern as honestly acknowledging that Mark's longer ending (16:9-20), though canonical and inspired Scripture, is absent from Codex Vaticanus and Codex Sinaiticus.",
       "correctAnswer": true,
       "explanation": "True -- both practice the same discipline: honest, careful engagement with a genuinely hard question, rather than a convenient, dismissive answer.",
       "hint": "Recall honestly engaging an inconvenient finding.",
@@ -3548,7 +3716,7 @@
       "level": 17,
       "type": "matching_pairs",
       "difficultyElo": 2090,
-      "prompt": "Match each fact about answering the conquest-narrative objection to what it actually means.",
+      "prompt": "Match each fact about answering objections to Scripture's violent passages to what it actually means.",
       "pairs": [
         {
           "left": "Ancient Near Eastern conquest rhetoric",
@@ -3629,10 +3797,10 @@
       "level": 18,
       "type": "true_false",
       "difficultyElo": 2075,
-      "prompt": "True or False: The Alexandrian school's emphasis on allegory and the Antiochene school's emphasis on literal-historical restraint represent two legitimate but different accents within the same fourfold-sense framework, not a simple right-versus-wrong pair.",
+      "prompt": "True or False: The Alexandrian school's emphasis on allegory and the Antiochene school's emphasis on literal-historical restraint represent two legitimate but different accents within the Church's one tradition of interpretation, not a simple right-versus-wrong pair.",
       "correctAnswer": true,
-      "explanation": "Both schools operated within the Church's broader tradition of reading Scripture according to multiple senses (literal, allegorical, moral, anagogical); Alexandria leaned toward drawing out the allegorical and typological, while Antioch leaned toward historical and grammatical restraint -- legitimate differences of emphasis, not one school being simply orthodox and the other simply in error.",
-      "hint": "This is a difference of emphasis within a shared framework, like other legitimate diversities in Catholic thought.",
+      "explanation": "Alexandria leaned toward drawing out the allegorical and typological meaning, while Antioch stressed historical and grammatical restraint. The Church keeps both the literal sense and the spiritual senses (CCC 115-116), so these are legitimate differences of emphasis, not one school being simply orthodox and the other simply in error.",
+      "hint": "This is a difference of emphasis within one tradition, like other legitimate diversities in Catholic thought.",
       "citations": [
         {
           "type": "ccc",
@@ -3681,7 +3849,7 @@
         "It applies only to the book of Genesis, not the rest of the Pentateuch"
       ],
       "correctAnswer": "It is permitted as a legitimate scholarly hypothesis for Catholic exegetes to discuss and weigh, not binding doctrine that must be accepted or rejected as a matter of faith",
-      "explanation": "The 1948 PBC letter to Cardinal Suhard acknowledged the value of source-critical study of the Pentateuch's composition history while affirming Mosaic authorship in a broader, substantial sense (Moses as the tradition's authoritative source, even if later editors compiled and shaped the final text) -- treating the specific documentary details as an open scholarly question, not a matter the faith requires settling one way or the other.",
+      "explanation": "The 1948 PBC letter to Cardinal Suhard recalled that the Commission's 1906 reply already allowed Moses to have used written and oral sources, acknowledged that the existence of sources is no longer doubted, and invited Catholic scholars to study these questions freely, expecting such study to bring out the large share and deep influence of Moses as author and legislator. The specific documentary details are thus left to scholarly study, not a matter the faith requires settling one way or the other.",
       "hint": "This is the same pattern as disputed Pauline authorship -- a scholarly question the Church leaves open rather than dogmatically resolving.",
       "citations": [
         {
@@ -3760,8 +3928,8 @@
         "Contemporary popular opinion about the passage's meaning"
       ],
       "correctAnswer": "The content and unity of Scripture as a whole, and the living Tradition of the Church",
-      "explanation": "Dei Verbum 12 explicitly requires reading historical-critical findings together with the whole of Scripture and the Church's living Tradition — the historical method is genuinely valued, but never treated as sufficient on its own, apart from the Church's ongoing interpretive life.",
-      "hint": "The document names two things beyond historical method itself that interpretation must attend to.",
+      "explanation": "Dei Verbum 12 teaches that 'no less serious attention must be given to the content and unity of the whole of Scripture,' and that 'the living tradition of the whole Church must be taken into account along with the harmony which exists between elements of the faith.' Attention to literary form and historical setting is genuinely valued, but never treated as sufficient on its own.",
+      "hint": "The document names further criteria, beyond literary form and historical setting, that interpretation must attend to.",
       "citations": [
         {
           "type": "council",
@@ -3800,12 +3968,24 @@
         "The two readings address identical questions and cannot both be held"
       ],
       "correctAnswer": "Historically, the narrative reflects ancient Israel's rejection of child sacrifice; typologically, it foreshadows the Father offering his own Son, who (unlike Isaac) is not spared",
-      "explanation": "These are two different, complementary levels of reading the same text: one asks what the passage meant in its ancient Near Eastern context, the other asks how the same passage points forward to Christ. Neither displaces the other, and holding both is exactly what CCC 128-130 does with this narrative.",
+      "explanation": "These are two different, complementary levels of reading the same text: one asks what the passage meant in its ancient Near Eastern context, the other asks how the same passage points forward to Christ. Neither displaces the other: typological reading 'must not make us forget that the Old Testament retains its own intrinsic value as Revelation' (CCC 129), and the Catechism itself sees Abraham here 'conformed to the likeness of the Father who will not spare his own Son' (CCC 2572).",
       "hint": "Ask whether a historical reading and a typological reading have to compete, or can both be true at once.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 129"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2572"
+        },
+        {
+          "type": "scripture",
+          "reference": "Romans 8:32"
         }
       ]
     },
@@ -3877,10 +4057,10 @@
       "level": 19,
       "type": "true_false",
       "difficultyElo": 2150,
-      "prompt": "True or False: A settled goal held together with legitimate methodological diversity is a pattern seen across apologetics, doctrine, metaphysics, liturgy, and scriptural interpretation.",
+      "prompt": "True or False: In interpreting Scripture, the Church sets a settled goal, finding what the sacred writer intended to express, while giving attention to more than one factor, such as literary forms, in reaching it.",
       "correctAnswer": true,
-      "explanation": "True -- this is not a coincidence unique to Scripture interpretation, but a consistent feature of how the Catholic intellectual tradition holds a settled goal together with genuine, legitimate methodological diversity.",
-      "hint": "Consider how many different areas of Catholic thought show this same pattern.",
+      "explanation": "True. Dei Verbum 12 sets the goal -- 'The interpreter must investigate what meaning the sacred writer intended to express' -- and says that to reach it 'attention should be given, among other things, to \"literary forms.\"'",
+      "hint": "Ask whether Dei Verbum 12 names only one thing to attend to, or several.",
       "citations": [
         {
           "type": "council",
@@ -3955,24 +4135,6 @@
       ]
     },
     {
-      "id": "sacred-scripture-l19-006",
-      "topic": "sacred-scripture",
-      "level": 19,
-      "type": "true_false",
-      "difficultyElo": 2150,
-      "prompt": "True or False: That different interpretive schools serve different needs echoes why the Church permits both classical and cumulative-case methods in apologetics.",
-      "correctAnswer": true,
-      "explanation": "True -- both show legitimate methodological diversity serving genuinely different practical purposes, not merely tolerated as an unfortunate disagreement.",
-      "hint": "Recall why the Church permits more than one legitimate apologetic method.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council, Dei Verbum 12",
-          "quote": "The interpreter must investigate what meaning the sacred writer intended to express and actually expressed in particular circumstances by using contemporary literary forms."
-        }
-      ]
-    },
-    {
       "id": "sacred-scripture-l19-007",
       "topic": "sacred-scripture",
       "level": 19,
@@ -3999,30 +4161,6 @@
       ],
       "explanation": "These four facts together show permitted interpretive diversity as principled, not arbitrary -- the same pattern seen across many areas of Catholic thought.",
       "hint": "Two rows explain the permitted diversity and its limits; two connect it to practical benefit and to the wider pattern of unity and diversity.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council, Dei Verbum 12",
-          "quote": "The interpreter must investigate what meaning the sacred writer intended to express and actually expressed in particular circumstances by using contemporary literary forms."
-        }
-      ]
-    },
-    {
-      "id": "sacred-scripture-l19-009",
-      "topic": "sacred-scripture",
-      "level": 19,
-      "type": "multiple_choice",
-      "difficultyElo": 2200,
-      "prompt": "What general lesson does the pattern of settled goals held together with methodological diversity -- seen across many areas -- teach about Catholic intellectual life as a whole?",
-      "choices": [
-        "A coherent Catholic intellectual life holds settled goals with legitimate methodological diversity, across many subjects",
-        "Catholic intellectual life requires eliminating every form of methodological diversity",
-        "The pattern is a unique coincidence, appearing nowhere else",
-        "Methodological diversity of any kind always signals a defect in Catholic teaching"
-      ],
-      "correctAnswer": "A coherent Catholic intellectual life holds settled goals with legitimate methodological diversity, across many subjects",
-      "explanation": "Genuine intellectual coherence holds settled goals together with legitimate diversity, consistently, not as an occasional exception.",
-      "hint": "Consider what it means that the same pattern appears across several different areas.",
       "citations": [
         {
           "type": "council",
@@ -4065,7 +4203,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2275,
-      "prompt": "The Church's typological reading of Isaac as a foreshadowing of Christ (CCC 128-130) can be compared with, but is distinct from, rabbinic exegetical methods like midrash. How should this comparison be correctly tagged?",
+      "prompt": "The Church's typological reading of Isaac as a foreshadowing of Christ (Hebrews 11:17-19; CCC 128, 2572) can be compared with, but is distinct from, rabbinic exegetical methods like midrash. How should this comparison be correctly tagged?",
       "choices": [
         "The typological reading itself is settled Catholic teaching; the comparative claim about how it relates to rabbinic method is a historical-judgment question about interpretive history, not a doctrinal one",
         "Both the typological reading and the historical comparison are equally unsettled, open questions",
@@ -4073,12 +4211,20 @@
         "Typology has been abandoned by the Church in favor of purely historical-critical reading"
       ],
       "correctAnswer": "The typological reading itself is settled Catholic teaching; the comparative claim about how it relates to rabbinic method is a historical-judgment question about interpretive history, not a doctrinal one",
-      "explanation": "CCC 128-130 affirms typological reading (Christ prefigured in Old Testament persons and events) as settled Catholic teaching. Comparing this method historically to rabbinic techniques like midrash and pesher is a separate, historical-critical question about interpretive traditions and their relationships -- worth exploring, but not itself a doctrinal claim requiring the same certainty.",
+      "explanation": "CCC 128 affirms typological reading (Christ prefigured in Old Testament persons and events) as settled Catholic teaching, which CCC 129-130 develop. Comparing this method historically to Jewish interpretive techniques such as rabbinic midrash and the Qumran pesher is a separate, historical-critical question about interpretive traditions and their relationships -- worth exploring, but not itself a doctrinal claim requiring the same certainty.",
       "hint": "Two different kinds of claims are being made here -- keep them separate rather than treating both with the same level of certainty.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2572"
+        },
+        {
+          "type": "scripture",
+          "reference": "Hebrews 11:17-19"
         }
       ],
       "tags": [
@@ -4120,7 +4266,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2275,
-      "prompt": "Dei Verbum teaches that Scripture and Tradition together form 'one sacred deposit of the word of God' (CCC 80-82). How does this connect to the Church's interpretation of Scripture?",
+      "prompt": "Dei Verbum teaches that Scripture and Tradition together form 'one sacred deposit of the word of God' (Dei Verbum 10; CCC 97). How does this connect to the Church's interpretation of Scripture?",
       "choices": [
         "Since Scripture and Tradition form a single deposit rather than two separate sources, the Church's authoritative interpretation of Scripture is not an outside imposition on the text but engagement with the same one deposit Scripture itself belongs to",
         "Scripture and Tradition are two entirely separate deposits of revelation that can and sometimes do conflict, so the Church must choose between them case by case",
@@ -4128,13 +4274,18 @@
         "This teaching from Dei Verbum directly reverses the Church's interpretive role, replacing ecclesial interpretation with a purely private reading of the text"
       ],
       "correctAnswer": "Since Scripture and Tradition form a single deposit rather than two separate sources, the Church's authoritative interpretation of Scripture is not an outside imposition on the text but engagement with the same one deposit Scripture itself belongs to",
-      "explanation": "CCC 80-82's 'one sacred deposit' teaching is the doctrinal foundation for why the Church interpreting Scripture within living Tradition isn't adding something foreign to the text -- Scripture and Tradition flow from the same one wellspring and are received together by the Church.",
+      "explanation": "Dei Verbum 10's 'one sacred deposit' teaching (CCC 97) is the doctrinal foundation for why the Church interpreting Scripture within living Tradition isn't adding something foreign to the text -- Scripture and Tradition, 'flowing out from the same divine well-spring, come together in some fashion to form one thing' (CCC 80), and are received together by the Church.",
       "hint": "If Scripture and Tradition are really one deposit rather than two separate sources, ask whether the Church interpreting Scripture could ever really be 'outside' it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 80",
           "quote": "...flowing out from the same divine well-spring, come together in some fashion to form one thing, and move towards the same goal."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 10",
+          "quote": "Sacred tradition and Sacred Scripture form one sacred deposit of the word of God, committed to the Church."
         }
       ],
       "tags": [
@@ -4147,10 +4298,10 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: The Mass lectionary's multi-year cycle of readings reflects the conviction that the whole of Scripture, not a self-selected favorite subset, belongs to the Church's public life.",
+      "prompt": "True or False: The Mass lectionary's multi-year cycle of readings reflects the Council's wish that a more representative portion of Scripture, not a self-selected favorite subset, be read to the people.",
       "correctAnswer": true,
-      "explanation": "The lectionary's structured, multi-year cycle expresses the same underlying conviction about Scripture's God-given authority and completeness -- the Church's public proclamation of Scripture is organized precisely so that the full range of the inspired text, not a curated favorites list, forms believers over time.",
-      "hint": "Ask whether a multi-year cycle through the whole Bible serves the same purpose as picking out only the most popular passages.",
+      "explanation": "Sacrosanctum Concilium 51 asked that the treasures of the Bible be 'opened up more lavishly,' so that 'a more representative portion of the holy scriptures will be read to the people in the course of a prescribed number of years.' The Lectionary's multi-year cycle expresses that conviction: the breadth of the inspired text, not a curated favorites list, forms believers over time.",
+      "hint": "Ask whether a multi-year cycle drawing a representative portion from across the Bible serves the same purpose as picking out only the most popular passages.",
       "citations": [
         {
           "type": "council",
@@ -4175,7 +4326,7 @@
           "right": "A historical-judgment question about influence, not a verdict on the exegetical method itself"
         },
         {
-          "left": "Typological reading of Isaac (CCC 128-130)",
+          "left": "Typological reading of Isaac (CCC 128; 2572)",
           "right": "Settled Catholic teaching"
         },
         {
@@ -4193,6 +4344,10 @@
         {
           "type": "ccc",
           "reference": "CCC 128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2572"
         }
       ]
     },
@@ -4214,8 +4369,10 @@
       "hint": "Ask what specific target this scholarly reframing proposes for Paul's argument, versus the traditional reading.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1991"
+          "type": "scripture",
+          "reference": "Galatians 2:16",
+          "quote": "But knowing that man is not justified by the works of the law, but by the faith of Jesus Christ, we also believe in Christ Jesus, that we may be justified by the faith of Christ and not by the works of the law: because by the works of the law no flesh shall be justified.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -4225,7 +4382,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2275,
-      "prompt": "The Church's typological reading of Isaac (CCC 128-130) as a foreshadowing of Christ can be compared to which other Old Testament type?",
+      "prompt": "The Church's typological reading of Isaac (CCC 128; 2572) as a foreshadowing of Christ can be compared to which other Old Testament type?",
       "choices": [
         "The Passover lamb, whose blood spares the firstborn and prefigures Christ the Lamb of God",
         "The Tower of Babel, which has no christological typology attached to it",
@@ -4239,6 +4396,11 @@
         {
           "type": "ccc",
           "reference": "CCC 128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2572",
+          "quote": "...the father of believers is conformed to the likeness of the Father who will not spare his own Son..."
         },
         {
           "type": "scripture",
@@ -4297,7 +4459,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1991"
+          "reference": "CCC 97",
+          "quote": "Sacred Tradition and Sacred Scripture make up a single sacred deposit of the Word of God"
         },
         {
           "type": "ccc",
@@ -4323,6 +4486,18 @@
       "hint": "Consider what structural pattern connects the bronze serpent and the crucifixion: looking upon what was lifted up brings life.",
       "citations": [
         {
+          "type": "scripture",
+          "reference": "Numbers 21:9",
+          "quote": "Moses therefore made a brazen serpent, and set it up for a sign: which when they that were bitten looked upon, they were healed.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 3:14-15",
+          "quote": "And as Moses lifted up the serpent in the desert, so must the Son of man be lifted up: That whosoever believeth in him may not perish, but may have life everlasting.",
+          "note": "Douay-Rheims"
+        },
+        {
           "type": "ccc",
           "reference": "CCC 128"
         }
@@ -4339,6 +4514,12 @@
       "explanation": "True, and this is an important piece of evidence -- this typological connection is not merely a later theological invention, but one Christ himself makes directly, giving it direct scriptural warrant.",
       "hint": "Recall the opening example, and who makes this specific connection.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 3:14-15",
+          "quote": "And as Moses lifted up the serpent in the desert, so must the Son of man be lifted up: That whosoever believeth in him may not perish, but may have life everlasting.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "ccc",
           "reference": "CCC 128"
@@ -4381,6 +4562,16 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 116",
+          "quote": "All other senses of Sacred Scripture are based on the literal."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 113",
+          "quote": "Read the Scripture within \"the living Tradition of the whole Church\"."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 128"
         }
       ]
@@ -4402,6 +4593,12 @@
       "explanation": "This is an excellent example of a responsibly grounded typological connection -- Christ himself explicitly makes this exact comparison (the 'sign of Jonah'), giving it the same kind of direct scriptural warrant as the bronze serpent.",
       "hint": "Consider whether Christ himself ever makes this specific comparison anywhere in the Gospels.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "Matthew 12:40",
+          "quote": "For as Jonas was in the whale’s belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "ccc",
           "reference": "CCC 128"
@@ -4453,6 +4650,18 @@
       "explanation": "These four facts together give the practical method for finding further typological connections responsibly, not arbitrarily.",
       "hint": "Two rows give concrete examples; two explain the general method and its own safeguard.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 3:14",
+          "quote": "And as Moses lifted up the serpent in the desert, so must the Son of man be lifted up:",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 12:40",
+          "quote": "For as Jonas was in the whale’s belly three days and three nights: so shall the Son of man be in the heart of the earth three days and three nights.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "ccc",
           "reference": "CCC 128"
@@ -4536,7 +4745,7 @@
       "level": 22,
       "type": "multiple_choice",
       "difficultyElo": 2425,
-      "prompt": "The pericope adulterae (John 7:53-8:11, the woman caught in adultery) has an unsettled manuscript history, appearing in different locations in different early manuscript traditions. Why doesn't this compromise its canonical status or continued use?",
+      "prompt": "The pericope adulterae (John 7:53-8:11, the woman caught in adultery) has an unsettled manuscript history: it is absent from the earliest Greek manuscripts and appears in different locations in different later manuscripts. Why doesn't this compromise its canonical status or continued use?",
       "choices": [
         "Its canonical and liturgical reception by the Church, sustained across centuries, does not require settling every detail of its precise manuscript placement history",
         "The passage has been formally removed from all modern Bibles",
@@ -4766,6 +4975,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 104",
+          "quote": "In the sacred books, the Father who is in heaven comes lovingly to meet his children, and talks with them."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 105",
           "quote": "...have been written down under the inspiration of the Holy Spirit."
         }
@@ -4782,6 +4996,11 @@
       "explanation": "False, and this distinction matters -- a personal address does not make careful study unnecessary; careful attention to genre, textual history, and interpretive method is exactly what lets that personal address be heard clearly.",
       "hint": "Consider whether a personal letter's own importance makes careful, attentive reading of it unnecessary.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
+        },
         {
           "type": "ccc",
           "reference": "CCC 105",
@@ -4807,10 +5026,9 @@
       "hint": "Recall that a letter must be read as a whole, not as isolated proof-texts.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Romans 1:16-17",
-          "quote": "For I am not ashamed of the gospel. For it is the power of God unto salvation to every one that believeth: to the Jew first and to the Greek. For the justice of God is revealed therein, from faith unto faith, as it is written: The just man liveth by faith.",
-          "note": "Douay-Rheims"
+          "type": "ccc",
+          "reference": "CCC 112",
+          "quote": "Be especially attentive \"to the content and unity of the whole Scripture\"."
         }
       ]
     },
@@ -4825,6 +5043,11 @@
       "explanation": "True -- a letter this significant deserves careful, honest engagement, not vague reassurance; honesty about hard questions is a way of honoring Scripture's personal claim on the reader.",
       "hint": "Consider what it would mean to take a real, personal letter seriously, compared to defending it only vaguely.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        },
         {
           "type": "ccc",
           "reference": "CCC 105",
@@ -4869,8 +5092,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 105",
-          "quote": "...have been written down under the inspiration of the Holy Spirit."
+          "reference": "CCC 109",
+          "quote": "To interpret Scripture correctly, the reader must be attentive to what the human authors truly wanted to affirm..."
         }
       ]
     },
@@ -4904,8 +5127,23 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 105",
-          "quote": "...have been written down under the inspiration of the Holy Spirit."
+          "reference": "CCC 112",
+          "quote": "Be especially attentive \"to the content and unity of the whole Scripture\"."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 159",
+          "quote": "Though faith is above reason, there can never be any real discrepancy between faith and reason."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 129",
+          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 110",
+          "quote": "...the reader must take into account the conditions of their time and culture, the literary genres in use at that time..."
         }
       ]
     },
@@ -4922,8 +5160,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 105",
-          "quote": "...have been written down under the inspiration of the Holy Spirit."
+          "reference": "CCC 125",
+          "quote": "The Gospels are the heart of all the Scriptures..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 113",
+          "quote": "Read the Scripture within \"the living Tradition of the whole Church\"."
         }
       ]
     },
@@ -4946,8 +5189,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 105",
-          "quote": "...have been written down under the inspiration of the Holy Spirit."
+          "reference": "CCC 104",
+          "quote": "In the sacred books, the Father who is in heaven comes lovingly to meet his children, and talks with them."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 109",
+          "quote": "To interpret Scripture correctly, the reader must be attentive to what the human authors truly wanted to affirm..."
         }
       ]
     },
@@ -4968,6 +5216,11 @@
       "explanation": "Scripture shows itself to be a letter from God, genuinely addressed to the reader personally, received through careful, honest, patient attention.",
       "hint": "Consider the image that joins Scripture's divine authorship with its personal address.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 104",
+          "quote": "In the sacred books, the Father who is in heaven comes lovingly to meet his children, and talks with them."
+        },
         {
           "type": "ccc",
           "reference": "CCC 105",
