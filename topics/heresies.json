@@ -16,7 +16,7 @@
       ],
       "correctAnswer": "The obstinate denial, after baptism, of a truth that must be believed with divine and catholic faith",
       "explanation": "This is a narrow, technical definition -- not a general word for 'wrong religious opinion.' Most confusion about heresy comes from using the word far more loosely than the Church does.",
-      "hint": "The definition requires three things together: obstinacy, a specific kind of truth, and denial of it.",
+      "hint": "The definition joins several elements: baptism, obstinacy, and a specific kind of truth that is denied or doubted.",
       "citations": [
         {
           "type": "ccc",
@@ -73,7 +73,7 @@
       "difficultyElo": 800,
       "prompt": "True or False: Because heresy requires obstinacy, someone who holds an erroneous belief in good faith, having never been shown otherwise, is not formally a heretic.",
       "correctAnswer": true,
-      "explanation": "True. Heresy in the strict sense requires obstinate denial after the truth is known to be required. This is why the Church distinguishes material from formal heresy, and why the word is far narrower than its casual use online suggests.",
+      "explanation": "True. Heresy in the strict sense requires obstinate denial, or obstinate doubt, of a truth after it is known to be required. This is why the Church distinguishes material from formal heresy, and why the word is far narrower than its casual use online suggests.",
       "hint": "The definition contains a word about the will, not only about the intellect.",
       "citations": [
         {
@@ -89,7 +89,7 @@
       "level": 1,
       "type": "fill_blank",
       "difficultyElo": 910,
-      "prompt": "Heresy, properly defined, requires ____ denial -- persisting in the denial after the truth has actually been made known, not simply being mistaken.",
+      "prompt": "Heresy, properly defined, is the ____ post-baptismal denial or doubt of a truth which must be believed with divine and catholic faith -- persisting after the truth has actually been made known, not simply being mistaken.",
       "correctAnswer": "obstinate",
       "explanation": "This single word carries most of the precision in the Church's own definition -- without it, every honest misunderstanding in Church history would count as heresy, which is exactly the loose, inaccurate usage that careful study has to avoid.",
       "hint": "It is the same word that separates a willful rejection of truth from an honest mistake.",
@@ -122,7 +122,7 @@
         },
         {
           "left": "Material heresy",
-          "right": "Holding an erroneous belief without the obstinacy heresy requires"
+          "right": "Holding a heretical tenet in good faith, without the obstinacy formal heresy requires"
         }
       ],
       "explanation": "These four terms have to stay distinct -- most casual confusion about 'heresy' comes from treating any one of them as a stand-in for all the others.",
@@ -255,6 +255,11 @@
       "hint": "Consider what this teaching about matter would mean for both creation and for Christ's own body.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 285",
+          "quote": "...the world (at least the physical world) is evil, the product of a fall, and is thus to be rejected or left behind (Gnosticism)."
+        },
+        {
           "type": "scripture",
           "reference": "1 John 4:2-3",
           "quote": "By this is the spirit of God known. Every spirit which confesseth that Jesus Christ is come in the flesh is of God:",
@@ -275,9 +280,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "1 John 4:2-3",
-          "quote": "By this is the spirit of God known. Every spirit which confesseth that Jesus Christ is come in the flesh is of God:",
+          "reference": "1 Timothy 6:20",
+          "quote": "O Timothy, keep that which is committed to thy trust, avoiding the profane novelties of words and oppositions of knowledge falsely so called.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies, Book I, Preface",
+          "quote": "...They also overthrow the faith of many, by drawing them away, under a pretence of [superior] knowledge, from Him who founded and adorned the universe..."
         }
       ]
     },
@@ -417,10 +427,14 @@
       "hint": "Recall the Church's strong insistence on the unity between the Old and New Covenants.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "1 John 4:2-3",
-          "quote": "By this is the spirit of God known. Every spirit which confesseth that Jesus Christ is come in the flesh is of God:",
-          "note": "Douay-Rheims"
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies, Book I, ch. 27",
+          "quote": "...Jesus being derived from that father who is above the God that made the world... abolishing the prophets and the law, and all the works of that God who made the world..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 123",
+          "quote": "...the Church has always vigorously opposed the idea of rejecting the Old Testament under the pretext that the New has rendered it void (Marcionism)."
         }
       ],
       "miniGameEligible": true
@@ -437,10 +451,14 @@
       "hint": "Consider what Marcion had to do to his own copy of the New Testament to make it consistent with his view of two separate gods.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "1 John 4:2-3",
-          "quote": "By this is the spirit of God known. Every spirit which confesseth that Jesus Christ is come in the flesh is of God:",
-          "note": "Douay-Rheims"
+          "type": "church_father",
+          "reference": "St. Irenaeus of Lyons, Against Heresies, Book I, ch. 27",
+          "quote": "...he mutilates the Gospel which is according to Luke, removing all that is written respecting the generation of the Lord... In like manner, too, he dismembered the Epistles of Paul..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 123",
+          "quote": "...the Church has always vigorously opposed the idea of rejecting the Old Testament under the pretext that the New has rendered it void (Marcionism)."
         }
       ],
       "miniGameEligible": true
@@ -464,7 +482,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2089"
+          "reference": "CCC 66",
+          "quote": "...no new public revelation is to be expected before the glorious manifestation of our Lord Jesus Christ."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 67",
+          "quote": "Christian faith cannot accept \"revelations\" that claim to surpass or correct the Revelation of which Christ is the fulfilment..."
         }
       ],
       "miniGameEligible": true
@@ -475,7 +499,7 @@
       "level": 3,
       "type": "fill_blank",
       "difficultyElo": 1093,
-      "prompt": "Modalism, associated with the priest Sabellius, mistakenly taught that Father, Son, and Holy Spirit are not three real Persons but merely three ____ or roles of a single divine Person.",
+      "prompt": "Modalism, associated with Sabellius, mistakenly taught that Father, Son, and Holy Spirit are not three real Persons but merely three ____ or roles of a single divine Person.",
       "correctAnswer": "modes",
       "acceptedAnswers": [
         "masks"
@@ -485,7 +509,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2089"
+          "reference": "CCC 254",
+          "quote": "\"Father\", \"Son\", \"Holy Spirit\" are not simply names designating modalities of the divine being, for they are really distinct from one another..."
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381), Canon 1",
+          "quote": "Every heresy is to be anathematised and in particular... that of the Sabellians..."
         }
       ]
     },
@@ -502,7 +532,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2089"
+          "reference": "CCC 254",
+          "quote": "\"Father\", \"Son\", \"Holy Spirit\" are not simply names designating modalities of the divine being, for they are really distinct from one another..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The first heresies denied not so much Christ's divinity as his true humanity (Gnostic Docetism)."
         }
       ],
       "miniGameEligible": true
@@ -537,7 +573,18 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2089"
+          "reference": "CCC 123",
+          "quote": "...the Church has always vigorously opposed the idea of rejecting the Old Testament under the pretext that the New has rendered it void (Marcionism)."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 67",
+          "quote": "Christian faith cannot accept \"revelations\" that claim to surpass or correct the Revelation of which Christ is the fulfilment..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 254",
+          "quote": "\"Father\", \"Son\", \"Holy Spirit\" are not simply names designating modalities of the divine being, for they are really distinct from one another..."
         }
       ]
     },
@@ -554,7 +601,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2089"
+          "reference": "CCC 250",
+          "quote": "During the first centuries the Church sought to clarify her Trinitarian faith... to defend it against the errors that were deforming it."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 123",
+          "quote": "...the Church has always vigorously opposed the idea of rejecting the Old Testament under the pretext that the New has rendered it void (Marcionism)."
         }
       ],
       "miniGameEligible": true
@@ -626,6 +679,11 @@
       "hint": "This phrase claims the Son had a real beginning, like any created thing.",
       "citations": [
         {
+          "type": "council",
+          "reference": "First Council of Nicaea (325), Letter of the Synod to the Egyptians",
+          "quote": "...saying \"he is from things that are not\", and \"before he was begotten he was not\", and \"there once was when he was not\"..."
+        },
+        {
           "type": "ccc",
           "reference": "CCC 465",
           "quote": "...the Son of God is \"begotten, not made, of the same substance (homoousios) as the Father\"..."
@@ -648,6 +706,11 @@
           "type": "council",
           "reference": "First Council of Nicaea (325)",
           "quote": "...God from God, light from light, true God from true God, begotten not made, CONSUBSTANTIAL with the Father..."
+        },
+        {
+          "type": "council",
+          "reference": "First Council of Constantinople (381), Canon 1",
+          "quote": "Every heresy is to be anathematised and in particular that of the Eunomians or Anomoeans, that of the Arians or Eudoxians..."
         }
       ],
       "miniGameEligible": true
@@ -736,11 +799,16 @@
       "level": 4,
       "type": "true_false",
       "difficultyElo": 1075,
-      "prompt": "True or False: Nicaea's own answer to Arianism required inventing an entirely new word, homoousios, not found anywhere in Scripture itself.",
+      "prompt": "True or False: Nicaea's answer to Arianism used the word homoousios, which is not found anywhere in Scripture itself, to state precisely a truth that Scripture teaches.",
       "correctAnswer": true,
-      "explanation": "True, and this is itself an instructive fact -- the Church judged that a genuinely new, precise technical term was sometimes necessary to defend a truth Scripture itself teaches, even when Scripture's own words alone had proven open to serious misreading.",
+      "explanation": "True. Homoousios, 'of the same substance,' does not occur in Scripture, and Nicaea did not coin it; the word was already in use before 325. The Council adopted it because it directly excluded Arius's teaching. As the Catechism says of terms like 'substance,' the Church 'gave a new and unprecedented meaning' to such terms.",
       "hint": "Consider whether this specific Greek technical term appears anywhere in the Bible's own text.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 251",
+          "quote": "...she did not submit the faith to human wisdom, but gave a new and unprecedented meaning to these terms..."
+        },
         {
           "type": "ccc",
           "reference": "CCC 465",
@@ -791,8 +859,8 @@
         },
         {
           "type": "council",
-          "reference": "First Council of Constantinople (381)",
-          "quote": "And in the Spirit, the holy, the lordly and life-giving one, proceeding forth from the Father, co-worshipped and co-glorified with Father and Son, the one who spoke through the prophets."
+          "reference": "First Council of Constantinople (381), Canon 1",
+          "quote": "Every heresy is to be anathematised and in particular... that of the Apollinarians."
         }
       ],
       "miniGameEligible": true
@@ -805,7 +873,7 @@
       "difficultyElo": 1167,
       "prompt": "True or False: Monophysitism, condemned at the Council of Chalcedon in 451, taught that Christ's human nature was absorbed into his divine nature, leaving only one nature.",
       "correctAnswer": true,
-      "explanation": "Eutyches and his followers held that after the union, Christ's humanity was swallowed up by his divinity. Chalcedon responded by defining one Person in two natures, 'without confusion, without change, without division, without separation.'",
+      "explanation": "Eutyches and his followers held that after the union, Christ's humanity was swallowed up by his divinity. Chalcedon responded by defining one Person in two natures, 'without confusion, change, division or separation.'",
       "hint": "The name literally means 'one nature.'",
       "citations": [
         {
@@ -984,7 +1052,7 @@
       "difficultyElo": 1277,
       "prompt": "Eutyches, whose teaching Chalcedon condemned, held that after the Incarnation Christ had only ____ nature.",
       "correctAnswer": "one",
-      "explanation": "Eutyches taught the human nature was absorbed into the divine like a drop of water in the sea, leaving one nature. Chalcedon answered that the two natures remain, unconfused and unchanged, in one Person.",
+      "explanation": "Eutyches confessed, 'I confess that our Lord was of two natures, before the union; but after the union, I acknowledge one nature.' Chalcedon answered that the two natures remain, unconfused and unchanged, in one Person.",
       "hint": "The name of his error, Monophysitism, contains the answer.",
       "citations": [
         {
@@ -1074,8 +1142,12 @@
       "hint": "Recall the era of Roman persecution and its martyrs.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1128"
+          "type": "council",
+          "reference": "Council of Arles (314), which condemned the Donatists and ruled on the traditors"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Optatus of Milevis, On the Schism of the Donatists, Book I"
         }
       ]
     },
@@ -1155,7 +1227,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1128"
+          "reference": "CCC 1584"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, On Baptism, Against the Donatists"
         }
       ]
     },
@@ -1268,8 +1344,9 @@
       "hint": "Recall Augustine's own long, difficult conversion and his mature theology of grace.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Council of Orange (529)"
+          "type": "ccc",
+          "reference": "CCC 406",
+          "quote": "...especially under the impulse of St. Augustine's reflections against Pelagianism..."
         }
       ]
     },
@@ -1422,8 +1499,9 @@
       "hint": "Consider whether a temptation this basic is likely to appear only once, in one single century of Church history.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Council of Orange (529)"
+          "type": "magisterial_document",
+          "reference": "Placuit Deo, Congregation for the Doctrine of the Faith (2018), 3",
+          "quote": "A new form of Pelagianism is spreading in our days, one in which the individual, understood to be radically autonomous, presumes to save oneself"
         }
       ]
     },
@@ -1481,13 +1559,13 @@
         "A response limited entirely to formal excommunication, with no political or military dimension whatsoever"
       ],
       "correctAnswer": "The Albigensian Crusade, a documented episode of the early 13th century with historical context",
-      "explanation": "This is an often difficult chapter of history -- documented context alongside violence the Church has since acknowledged, not a story to be smoothed over in either direction.",
+      "explanation": "The Albigensian Crusade began in 1209, after Pope Innocent III renewed his call for action against the heretics following the murder of his legate Peter of Castelnau in 1208. It is a difficult chapter of history, not a story to be smoothed over in either direction: St. John Paul II called the Church to repentance for past 'intolerance and even the use of violence in the service of truth.'",
       "hint": "Recall the documented episode in the medieval Church's history that followed the spread of Catharism.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2317",
-          "quote": "Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars."
+          "type": "magisterial_document",
+          "reference": "Tertio Millennio Adveniente, Pope St. John Paul II (1994), 35",
+          "quote": "the acquiescence given, especially in certain centuries, to intolerance and even the use of violence in the service of truth"
         }
       ]
     },
@@ -1566,7 +1644,7 @@
       "level": 8,
       "type": "true_false",
       "difficultyElo": 1442,
-      "prompt": "True or False: The Fourth Lateran Council (1215) is the council that used the term 'transubstantiated' of the Eucharist.",
+      "prompt": "True or False: The Fourth Lateran Council (1215) used the term 'transubstantiated' of the Eucharist, long before the Council of Trent.",
       "correctAnswer": true,
       "explanation": "True. Lateran IV used the term, and Trent later defined it at length against Reformation denials. The word does not explain the change so much as fence it: the substance becomes Christ's Body and Blood while the appearances remain.",
       "hint": "The same council that dealt with the Cathars also gave this word its conciliar footing.",
@@ -1649,10 +1727,10 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1533,
-      "prompt": "True or False: The Waldensians, followers of Peter Waldo in the 12th century, were first condemned mainly for preaching the Gospel without the Church's authorization, before drifting into further doctrinal error.",
+      "prompt": "True or False: The Waldensians, followers of Peter Waldo in the 12th century, were first condemned mainly for preaching the Gospel without the Church's authorization, and also came to spread further doctrinal errors.",
       "correctAnswer": true,
-      "explanation": "The Waldensians began as a lay preaching movement emphasizing voluntary poverty. Their unauthorized preaching led to condemnation, and the movement later denied the value of sacraments from unworthy priests and rejected purgatory.",
-      "hint": "Their first offense was about who has the authority to preach, not yet a denial of doctrine.",
+      "explanation": "The Waldensians began as a lay preaching movement emphasizing voluntary poverty. Forbidden to preach, they continued anyway, and Pope Lucius III included them among the heretics he excommunicated in 1184. Among the errors they spread was the denial of purgatory, and some of their communities also held that sacraments from unworthy ministers are invalid.",
+      "hint": "Their first offense was continuing to preach after the Church's pastors had forbidden it.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -1666,7 +1744,7 @@
       "level": 9,
       "type": "multiple_choice",
       "difficultyElo": 1583,
-      "prompt": "After their initial condemnation for unauthorized preaching, what further doctrinal position did the Waldensians eventually adopt, echoing an earlier ancient error?",
+      "prompt": "After their initial condemnation for unauthorized preaching, what further doctrinal position did some Waldensian communities eventually adopt, echoing an earlier ancient error?",
       "choices": [
         "That a sacrament's validity depends on the moral worthiness of the priest administering it, echoing Donatism",
         "That Christ has, after the Incarnation, only one single nature, echoing ancient Monophysitism",
@@ -1674,12 +1752,13 @@
         "That the Son himself is a created being, not eternally divine, echoing ancient Arianism"
       ],
       "correctAnswer": "That a sacrament's validity depends on the moral worthiness of the priest administering it, echoing Donatism",
-      "explanation": "This is a real, direct echo of Donatism's own error -- a useful case of a much later movement independently arriving at the same basic mistake an earlier, unrelated controversy had already answered.",
+      "explanation": "Some Waldensian communities, notably in Lombardy, came to hold that a sacrament's validity depends on the worthiness of the minister -- the very error the Church had answered against the Donatists. Innocent III required Waldensians returning to the Church to profess that a sinful priest's wickedness does no harm to the sacraments he celebrates.",
       "hint": "Recall the ancient heresy concerning a sacrament's validity and a minister's own worthiness.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Ad Abolendam, Pope Lucius III (1184)"
+          "reference": "Innocent III, Profession of Faith prescribed for Durand of Osca and his Waldensian companions (1208); Denzinger 424",
+          "quote": "the wickedness of a bishop or priest does no harm to the baptism of an infant, nor to consecrating the Eucharist, nor to the other ecclesiastical duties celebrated for subjects."
         }
       ]
     },
@@ -1699,23 +1778,6 @@
       "correctAnswer": "Transubstantiation",
       "explanation": "Wycliffe denied that the Eucharistic bread and wine truly become Christ's Body and Blood, and also attacked papal authority and the necessity of Church-authorized interpretation of Scripture -- ideas later echoed in the Reformation.",
       "hint": "This is the same doctrine of Eucharistic change that Trent would later reaffirm.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Council of Constance (1414-1418)"
-        }
-      ]
-    },
-    {
-      "id": "heresies-l9-004",
-      "topic": "heresies",
-      "level": 9,
-      "type": "true_false",
-      "difficultyElo": 1533,
-      "prompt": "True or False: John Wycliffe personally directed an early translation of the Bible into English, a real, concrete part of his wider challenge to the Church's own authority over Scripture's interpretation.",
-      "correctAnswer": true,
-      "explanation": "True. This translation project was not a neutral scholarly exercise -- it was tied directly to Wycliffe's own claim that ordinary believers, reading Scripture on their own, needed no Church-authorized interpretation, a practical expression of his wider theological challenge.",
-      "hint": "Consider what practical project would naturally follow from Wycliffe's own claim about Scripture needing no Church-authorized interpretation.",
       "citations": [
         {
           "type": "council",
@@ -1752,7 +1814,7 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1533,
-      "prompt": "True or False: Jan Hus, whose followers formed the Hussite movement, was condemned and executed following the Council of Constance in 1415.",
+      "prompt": "True or False: Jan Hus, whose followers formed the Hussite movement, was condemned by the Council of Constance and executed in 1415.",
       "correctAnswer": true,
       "explanation": "Hus, influenced by Wycliffe's ideas, was summoned to Constance under a promise of safe conduct, condemned for heresy, and burned at the stake in 1415 -- an event that left lasting bitterness in Bohemia.",
       "hint": "This is the same council that also condemned Wycliffe's teachings.",
@@ -1769,16 +1831,16 @@
       "level": 9,
       "type": "multiple_choice",
       "difficultyElo": 1583,
-      "prompt": "Beyond Wycliffe's own influence on his thought, what real, specific concern did Hus's own preaching emphasize?",
+      "prompt": "Beyond Wycliffe's own influence on his thought, what did Hus's own preaching and writing emphasize?",
       "choices": [
-        "Reform of clerical corruption and a sustained call for the laity to receive Communion under both species",
+        "Reform of clerical morals, and a view of the Church as the total number of those predestined to salvation",
         "A denial of the Holy Trinity itself, functionally identical to ancient Modalism",
         "A rejection of the material world's own basic goodness, functionally identical to medieval Catharism",
         "A denial that Christ possessed a genuinely human soul, functionally identical to ancient Apollinarianism"
       ],
-      "correctAnswer": "Reform of clerical corruption and a sustained call for the laity to receive Communion under both species",
-      "explanation": "Hus's own preaching combined moral reform concerns with a specific liturgical practice -- receiving Communion under both the bread and the wine -- that became a lasting mark of the Hussite movement his own execution did not end.",
-      "hint": "Consider a specific liturgical practice this movement became especially associated with after Hus's own death.",
+      "correctAnswer": "Reform of clerical morals, and a view of the Church as the total number of those predestined to salvation",
+      "explanation": "Hus, deeply influenced by Wycliffe, inveighed from the pulpit against the morals of the clergy, and taught that the one holy universal Church is the total number of those predestined to salvation -- the first of his articles listed as condemned at Constance. Communion under both kinds, which became the Hussites' distinctive mark, was taken up in Prague by Jakoubek of Stribro while Hus was at Constance; Hus himself never preached it.",
+      "hint": "Recall an article of Hus condemned at Constance, about who belongs to the Church.",
       "citations": [
         {
           "type": "council",
@@ -1796,11 +1858,11 @@
       "pairs": [
         {
           "left": "Peter Waldo",
-          "right": "Unauthorized lay preaching, later echoing Donatism's own error"
+          "right": "Unauthorized lay preaching, condemned in 1184"
         },
         {
           "left": "John Wycliffe",
-          "right": "Denied transubstantiation, translated Scripture into English"
+          "right": "Denied transubstantiation; condemned at Constance, which ordered his bones exhumed"
         },
         {
           "left": "The Lollards",
@@ -1811,7 +1873,7 @@
           "right": "Called for clerical reform, executed at Constance in 1415"
         }
       ],
-      "explanation": "These figures, spanning roughly two centuries, form a direct chain -- each drawing on the one before, building pressure that would culminate in the Reformation.",
+      "explanation": "These figures span more than two centuries. Wycliffe's teaching passed to the Lollards in England and to Hus in Bohemia, where Waldensian communities later amalgamated with the Hussites -- a long build-up of challenges to Church authority and sacramental teaching before the Reformation.",
       "hint": "Follow the chain of influence -- one figure's followers, and one figure's own influence on a later reformer.",
       "citations": [
         {
@@ -1828,7 +1890,7 @@
       "difficultyElo": 1533,
       "prompt": "True or False: The Waldensians, Wycliffe, and Hus together represent a real, gradually building pressure on Church authority and sacramental teaching, over a century before the Reformation formally began.",
       "correctAnswer": true,
-      "explanation": "True, and the point is that the Reformation did not appear suddenly out of nowhere -- these three movements, each building on concerns the one before had already raised, show a genuine, gradual accumulation of pressure across more than two centuries.",
+      "explanation": "True. The Reformation did not appear out of nowhere: the Waldensians in the twelfth century, and later Wycliffe and Hus (condemned at Constance in 1415, over a century before 1517), each challenged Church authority and sacramental teaching, and Wycliffe's ideas passed directly to Hus.",
       "hint": "Consider the span of time separating Peter Waldo's own movement from Hus's execution.",
       "citations": [
         {
@@ -1894,7 +1956,7 @@
       ],
       "correctAnswer": "That a person is justified by works and not by faith alone",
       "explanation": "This is a direct scriptural statement the sola fide principle has to explain, not simply set aside -- James's own letter, using nearly the same phrase, states the opposite of 'faith alone' in so many words.",
-      "hint": "This letter uses almost the same phrase Trent itself would later use, but states the opposite conclusion.",
+      "hint": "This letter uses almost the very phrase 'faith alone' -- but to deny that a man is justified by faith only.",
       "citations": [
         {
           "type": "scripture",
@@ -2049,8 +2111,8 @@
         },
         {
           "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "... receives and venerates with an equal affection of piety, and reverence, all the books both of the Old and of the New Testament... as also the said traditions..."
+          "reference": "Council of Trent, Session XIII (1551), Canon I on the Most Holy Sacrament of the Eucharist",
+          "quote": "If any one denieth, that, in the sacrament of the most holy Eucharist, are contained truly, really, and substantially, the body and blood together with the soul and divinity of our Lord Jesus Christ, and consequently the whole Christ; but saith that He is only therein as in a sign, or in figure, or virtue; let him be anathema."
         }
       ]
     },
@@ -2090,8 +2152,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Apostolicae Curae, Pope Leo XIII (1896)",
-          "quote": "we pronounce and declare that ordinations carried out according to the Anglican rite have been, and are, absolutely null and utterly void."
+          "reference": "John Paul II, Apostolic Letter proclaiming Saint Thomas More Patron of Statesmen and Politicians (2000), 3",
+          "quote": "In 1532, not wishing to support Henry VIII’s intention to take control of the Church in England, he resigned."
         }
       ]
     },
@@ -2108,8 +2170,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Apostolicae Curae, Pope Leo XIII (1896)",
-          "quote": "we pronounce and declare that ordinations carried out according to the Anglican rite have been, and are, absolutely null and utterly void."
+          "reference": "John Paul II, Apostolic Letter proclaiming Saint Thomas More Patron of Statesmen and Politicians (2000), 3",
+          "quote": "In 1532, not wishing to support Henry VIII’s intention to take control of the Church in England, he resigned."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Apostolic Letter proclaiming Saint Thomas More Patron of Statesmen and Politicians (2000), 3",
+          "quote": "Thomas More did not allow himself to waver, and he refused to take the oath requested of him, since this would have involved accepting a political and ecclesiastical arrangement that prepared the way for uncontrolled despotism."
         }
       ]
     },
@@ -2280,7 +2347,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Cum Occasione, Pope Innocent X (1653)"
+          "reference": "Decree of the Sacred Congregation of the Council approved by Pius X, Sacra Tridentina Synodus (1905); Denzinger 1982",
+          "quote": "Because of the plague of Jansenism, which raged on all sides, disputes began to arise regarding the dispositions with which frequent and daily communion should be approached, and some more than others demanded greater and more difficult dispositions as necessary. Such discussions brought it about that very few were held worthy to partake daily of the most blessed Eucharist"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius VI, Auctorem Fidei (1794), condemned proposition 39 of the Synod of Pistoia; Denzinger 1539",
+          "quote": "The declaration of the synod about the confession of venial sins, which it does not wish, it says, to be so frequently resorted to, lest confessions of this sort be rendered too contemptible,--rash, dangerous, contrary to the practice of the saints and the pious"
         }
       ]
     },
@@ -2304,7 +2377,7 @@
         {
           "type": "magisterial_document",
           "reference": "Clement XI, Unigenitus (1713)",
-          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+          "quote": "Declared and condemned as false, captious, evil-sounding, offensive to pious ears, scandalous, pernicious, rash, injurious to the Church and her practice..."
         }
       ]
     },
@@ -2316,7 +2389,7 @@
       "difficultyElo": 1808,
       "prompt": "True or False: Jansenism's own severe theology of grace shares a real, family resemblance with Calvin's double predestination.",
       "correctAnswer": true,
-      "explanation": "True, and this is an useful connection -- both movements share an emphasis on grace's own severity and human unworthiness so strong that it distorts the Church's own consistent teaching that Christ died for all and that God predestines no one to hell.",
+      "explanation": "True. Both so stressed the power of grace and human powerlessness that they contradicted Catholic truths: Jansenism's fifth condemned proposition denied that Christ died for all, and Calvin taught that God decrees some to damnation, whereas the Church teaches that Christ died for all men without exception and that God predestines no one to hell.",
       "hint": "Recall the teaching on double predestination, and consider what family resemblance the error shares with it.",
       "citations": [
         {
@@ -2338,7 +2411,7 @@
           "right": "A Catholic bishop whose posthumous Augustinus set out this theology"
         },
         {
-          "left": "Jansenism's core claim",
+          "left": "A condemned Jansenist proposition",
           "right": "That Christ died only for the elect, not for all humanity"
         },
         {
@@ -2466,14 +2539,14 @@
       "difficultyElo": 1950,
       "prompt": "Pius X called Modernism 'the synthesis of all heresies.' What did he mean by this striking phrase?",
       "choices": [
-        "That Modernism's own core method could, in principle, reopen and unravel every earlier settled question of doctrine",
+        "That Modernism's system gathered into one the sap and substance of all the errors ever raised against the faith",
         "That Modernism had literally combined every single heresy into one single formal document",
         "That Modernism was a purely medieval error, unrelated to any modern historical development",
         "That the phrase was simply rhetorical exaggeration with no real theological content behind it"
       ],
-      "correctAnswer": "That Modernism's own core method could, in principle, reopen and unravel every earlier settled question of doctrine",
-      "explanation": "This is a serious claim about Modernism's own structure, not simple rhetoric -- if doctrine is fundamentally just evolving religious feeling, then Nicaea's own settled teaching on Christ, Trent's own settled teaching on grace, and every other settled question become, in principle, equally open to revision.",
-      "hint": "Consider what Modernism's own core method would mean for every earlier settled controversy.",
+      "correctAnswer": "That Modernism's system gathered into one the sap and substance of all the errors ever raised against the faith",
+      "explanation": "Pius X explains the phrase himself: 'Were one to attempt the task of collecting together all the errors that have been broached against the faith and to concentrate the sap and substance of them all into one, he could not better succeed than the Modernists have done.' He adds that their system 'means the destruction not of the Catholic religion alone but of all religion.'",
+      "hint": "Pius X explains the phrase right after using it: think of what it would mean to collect every error against the faith into one.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -2490,13 +2563,13 @@
       "difficultyElo": 1900,
       "prompt": "True or False: Modernism's own concern touched questions about how historical-critical methods should be used in reading the Bible.",
       "correctAnswer": true,
-      "explanation": "True. Part of Modernism's challenge concerned how far historical and critical methods of reading Scripture could go before undermining the Bible's own inspired authority -- a live question the Church addresses with care.",
-      "hint": "Recall how the Church handles historical-critical methods of biblical study.",
+      "explanation": "True. Pascendi examines the Modernist as historian and critic and shows that 'their historico-critical conclusions are the natural fruit of their philosophical principles.' What Pius X condemned is a criticism built on those principles: 'an agnostic, immanentist, and evolutionist criticism.'",
+      "hint": "Recall what Pascendi says about the philosophy behind Modernist historical criticism.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Pascendi Dominici Gregis, Pope St. Pius X (1907)",
-          "quote": "... We should define it as the synthesis of all heresies?"
+          "quote": "it is quite clear that the criticism We are concerned with is an agnostic, immanentist, and evolutionist criticism."
         }
       ]
     },
@@ -2514,13 +2587,13 @@
         "The Church has never drawn any real distinction between method and doctrinal content in this area"
       ],
       "correctAnswer": "Adapting missionary method to a culture is legitimate; altering revealed doctrine's own content to fit it is not",
-      "explanation": "This is the same distinction seen in Ricci's missionary accommodation in China -- adapting method is one thing; altering the deposit of faith is a genuinely different, illegitimate thing.",
-      "hint": "Recall the distinction drawn in the Church's missionary history, such as Ricci's approach in China.",
+      "explanation": "Testem Benevolentiae rejects the idea that the Church should omit or tone down doctrines 'which belong to the deposit of the faith' to attract others, while noting that 'in regard to ways of living' she has always accommodated herself 'to the character and genius of the nations which she embraces,' with the divine principle of morals kept intact.",
+      "hint": "Recall how Leo XIII distinguishes 'ways of living' from the doctrines that belong to the deposit of faith.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Testem Benevolentiae Nostrae, Pope Leo XIII (1899)",
-          "quote": "we are not able to give approval to those views which, in their collective sense, are called by some 'Americanism.'"
+          "quote": "But in regard to ways of living she has been accustomed to so yield that, the divine principle of morals being kept intact, she has never neglected to accommodate herself to the character and genius of the nations which she embraces."
         }
       ]
     },
@@ -2530,15 +2603,15 @@
       "level": 13,
       "type": "true_false",
       "difficultyElo": 1900,
-      "prompt": "True or False: Leo XIII's own letter explicitly noted that if any American Catholics actually held the views he described, they were not representative of the wider American Church.",
+      "prompt": "True or False: Leo XIII's letter stated that if the name 'Americanism' were used to commend the opinions he had described, the bishops of America would be the first to repudiate and condemn it.",
       "correctAnswer": true,
-      "explanation": "True, and this careful qualification matters -- Leo XIII was addressing a theoretical danger with precision, not issuing a blanket condemnation of an entire nation's Catholics, a genuinely careful distinction worth holding onto.",
-      "hint": "Consider whether this letter's own wording condemns an entire nation's Catholics, or addresses a specific, careful theoretical concern.",
+      "explanation": "True. Testem Benevolentiae says there is 'no reason to take exception to the name' if it means the legitimate traits, laws, and customs of the American people; but if it is used so that the condemned doctrines 'are not only indicated, but exalted, there can be no manner of doubt that our venerable brethren, the bishops of America, would be the first to repudiate and condemn it.' The letter rejects the opinions, not the American Church or nation.",
+      "hint": "Consider how the letter distinguishes the name 'Americanism' from the opinions it rejects.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Testem Benevolentiae Nostrae, Pope Leo XIII (1899)",
-          "quote": "we are not able to give approval to those views which, in their collective sense, are called by some 'Americanism.'"
+          "quote": "there can be no manner of doubt that our venerable brethren, the bishops of America, would be the first to repudiate and condemn it as being most injurious to themselves and to their country."
         }
       ]
     },
@@ -2556,7 +2629,7 @@
         },
         {
           "left": "\"The synthesis of all heresies\"",
-          "right": "A real claim that Modernism's method could reopen every earlier settled question"
+          "right": "Pius X's judgment that Modernism concentrates the substance of all errors against the faith"
         },
         {
           "left": "Americanism",
@@ -2564,10 +2637,10 @@
         },
         {
           "left": "Leo XIII's own qualification",
-          "right": "Addressing a theoretical danger, not condemning an entire nation's Catholics"
+          "right": "No objection to the name for legitimate American traits, only for the condemned opinions"
         }
       ],
-      "explanation": "Both of these early-20th-century controversies concern how far the Church's own life and teaching can genuinely adapt to a modern world, without either error's own careful distinction being lost.",
+      "explanation": "Both of these controversies, from 1899 and 1907, concern how far the Church's own life and teaching can genuinely adapt to a modern world, without either error's own careful distinction being lost.",
       "hint": "Two rows name the errors themselves; two name careful qualifications the Church's own documents make.",
       "citations": [
         {
@@ -2591,7 +2664,12 @@
         {
           "type": "magisterial_document",
           "reference": "Pascendi Dominici Gregis, Pope St. Pius X (1907)",
-          "quote": "... We should define it as the synthesis of all heresies?"
+          "quote": "Dogma is not only able, but ought to evolve and to be changed. This is strongly affirmed by the Modernists, and as clearly flows from their principles."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Testem Benevolentiae Nostrae, Pope Leo XIII (1899)",
+          "quote": "The underlying principle of these new opinions is that, in order to more easily attract those who differ from her, the Church should shape her teachings more in accord with the spirit of the age and relax some of her ancient severity and make some concessions to new opinions."
         }
       ]
     },
@@ -2603,19 +2681,19 @@
       "difficultyElo": 1950,
       "prompt": "What thread connects the errors of Modernism and Americanism to Vatican II's engagement with the modern world?",
       "choices": [
-        "Vatican II addresses the same question -- engaging the modern world -- constructively rather than only defensively",
+        "Vatican II takes up the same question -- the Church's engagement with the modern world -- while holding that the deposit of faith itself does not change",
         "Vatican II simply repeated Modernism's own core claims without any real change or correction",
         "Vatican II has no connection whatsoever to the questions Modernism and Americanism raised",
         "Vatican II formally condemned engaging the modern world in any way at all"
       ],
-      "correctAnswer": "Vatican II addresses the same question -- engaging the modern world -- constructively rather than only defensively",
-      "explanation": "This is an instructive contrast -- the same basic question Pius X and Leo XIII addressed defensively, Vatican II would later address constructively, through documents like Gaudium et Spes, without ever abandoning revealed truth itself.",
+      "correctAnswer": "Vatican II takes up the same question -- the Church's engagement with the modern world -- while holding that the deposit of faith itself does not change",
+      "explanation": "Gaudium et Spes engages the modern world directly, inviting theologians 'to seek continually for more suitable ways of communicating doctrine to the men of their times,' while insisting that 'the deposit of Faith or the truths are one thing and the manner in which they are enunciated, in the same meaning and understanding, is another.'",
       "hint": "Recall Vatican II's engagement with the modern world, as in Gaudium et Spes.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Pascendi Dominici Gregis, Pope St. Pius X (1907)",
-          "quote": "... We should define it as the synthesis of all heresies?"
+          "type": "council",
+          "reference": "Second Vatican Council, Gaudium et Spes 62 (1965)",
+          "quote": "the deposit of Faith or the truths are one thing and the manner in which they are enunciated, in the same meaning and understanding, is another."
         }
       ]
     },
@@ -2625,14 +2703,18 @@
       "level": 14,
       "type": "fill_blank",
       "difficultyElo": 2102,
-      "prompt": "Fr. Leonard Feeney was excommunicated in the 1950s for rigidly teaching that literally no one outside formal, visible membership in the Church could be saved -- a distortion of the axiom 'extra ____ nulla salus' (outside the Church there is no salvation).",
+      "prompt": "Fr. Leonard Feeney rigidly taught that literally no one outside formal, visible membership in the Church could be saved -- a distortion, corrected by the Holy Office in 1949, of the axiom 'extra ____ nulla salus' (outside the Church there is no salvation).",
       "correctAnswer": "ecclesiam",
-      "explanation": "The Holy Office corrected Feeney's overly rigid reading, clarifying that the axiom does not exclude those united to the Church by desire, even without formal membership, through no fault of their own.",
+      "explanation": "The Holy Office's 1949 letter corrected Feeney's overly rigid reading: to be saved one need not always be actually incorporated into the Church as a member, but must at least be united to her by desire, and in invincible ignorance God accepts even an implicit desire. Feeney's 1953 excommunication was declared for his persistent grave disobedience to Church authority.",
       "hint": "It's the Latin word for 'the Church' in the famous phrase.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Letter of the Holy Office to Archbishop Cushing of Boston (1949)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Decree of the Holy Office declaring Fr. Leonard Feeney excommunicated (1953), AAS 45 (1953) 100"
         }
       ]
     },
@@ -2673,7 +2755,7 @@
         {
           "type": "magisterial_document",
           "reference": "Congregation for the Doctrine of the Faith, Libertatis Nuntius (1984)",
-          "quote": "It is difficult, and perhaps impossible, to purify these borrowed concepts of an ideological inspiration which is compatible with Christian faith."
+          "quote": "It is difficult, and perhaps impossible, to purify these borrowed concepts of an ideological inspiration which is compatible with Christian faith and the ethical requirements which flow from it."
         }
       ]
     },
@@ -2746,7 +2828,7 @@
       "pairs": [
         {
           "left": "Feeney's own error",
-          "right": "Read 'no salvation outside the Church' as excluding all invisible grace"
+          "right": "Read 'no salvation outside the Church' as excluding all who are not actual members"
         },
         {
           "left": "The Holy Office's real correction",
@@ -2844,7 +2926,7 @@
         "That interreligious dialogue should be abandoned"
       ],
       "correctAnswer": "Christ alone is the unique mediator of salvation, though grace reaches outsiders",
-      "explanation": "The document holds two things together that relativism and rigorism each drop one of: salvation is always through Christ, and grace can reach people who never visibly joined the Church. Denying either produces a different error -- the same balance already traced between Feeneyism and liberation theology's excesses.",
+      "explanation": "The document holds two things together that relativism and rigorism each drop one of: salvation is always through Christ, and grace can reach people who never visibly joined the Church. Denying the first produces relativism; denying the second produces the rigorism seen in Feeneyism.",
       "hint": "It refuses both the claim that all paths are equal and the claim that grace cannot reach outsiders.",
       "citations": [
         {
@@ -2974,13 +3056,13 @@
       "difficultyElo": 2133,
       "prompt": "Looking at the modern errors -- Modernism, Americanism, Feeneyism, liberation theology's excesses, and relativism -- what pattern connects all five?",
       "choices": [
-        "Each narrows or dissolves a teaching, met with careful precision, not rejection",
+        "Each narrows or dissolves a teaching, and each was met with a precise correction that rejected the error itself",
         "All five errors are, in fact, functionally identical, with no real theological differences among them",
         "None of these five modern errors required any theological response from the Church at all",
         "All five errors were formally and simultaneously condemned in one single document"
       ],
-      "correctAnswer": "Each narrows or dissolves a teaching, met with careful precision, not rejection",
-      "explanation": "The pattern -- five genuinely different errors, each requiring its own precise, careful correction, none simply dismissed with a blanket condemnation.",
+      "correctAnswer": "Each narrows or dissolves a teaching, and each was met with a precise correction that rejected the error itself",
+      "explanation": "Five genuinely different errors, each answered by its own precise correction: the error itself was rejected -- Pius X even called Modernism 'the synthesis of all heresies' -- while whatever was legitimate, such as concern for the poor or the true sense of 'outside the Church there is no salvation,' was kept.",
       "hint": "Consider whether these five errors are identical, or five genuinely distinct cases each requiring its own precision.",
       "citations": [
         {
@@ -2998,7 +3080,7 @@
       "difficultyElo": 2083,
       "prompt": "True or False: A chronological survey of heresies, from the earliest documented errors through modern challenges, still leaves room for a further, still-emerging category of contemporary error.",
       "correctAnswer": true,
-      "explanation": "True. Beyond the historical errors, new contemporary distortions -- such as the prosperity gospel and syncretism -- continue to arise, and they too call for precise terminology and real apologetics.",
+      "explanation": "True. Beyond the historical errors, contemporary distortions -- such as the prosperity gospel and modern forms of syncretism -- continue to arise, and they too call for precise terminology and real apologetics.",
       "hint": "Consider whether error ceases to arise once a historical era is over.",
       "citations": [
         {
@@ -3022,7 +3104,7 @@
         "The instruction to render to Caesar what is Caesar's"
       ],
       "correctAnswer": "\"No man can serve two masters... You cannot serve God and mammon\" (Matthew 6:24), read alongside Christ's own teaching that his followers must take up their cross, not escape it",
-      "explanation": "The prosperity gospel inverts the New Testament's own witness -- Christ was not materially wealthy, promised his followers persecution rather than ease, and explicitly warned against treating wealth as a sign of divine favor to be pursued as an end.",
+      "explanation": "The prosperity gospel inverts the New Testament's own witness -- Christ 'hath not where to lay his head' (Matthew 8:20), told his followers 'If they have persecuted me, they will also persecute you' (John 15:20), and commanded 'Lay not up to yourselves treasures on earth' (Matthew 6:19). The Catechism adds: 'The precept of detachment from riches is obligatory for entrance into the Kingdom of heaven.'",
       "hint": "Look for the verse that names wealth itself as a rival master to God, not a reward for enough faith.",
       "citations": [
         {
@@ -3043,9 +3125,13 @@
       "difficultyElo": 2175,
       "prompt": "True or False: The prosperity gospel is best understood as a genuinely new invention of the modern era, with no real precedent among any earlier error.",
       "correctAnswer": false,
-      "explanation": "False. In substance, it shares Pelagianism's own old confidence that human effort -- here, generating enough faith -- can secure what only grace freely gives, dressed in modern language about wealth and health rather than ancient language about merit.",
-      "hint": "Recall Pelagianism, and consider whether this error shares its underlying confidence in human effort.",
+      "explanation": "False. Its claim that suffering signals deficient faith echoes an older error, that suffering marks personal fault, which Christ himself corrected: asked 'who hath sinned, this man or his parents, that he should be born blind?', Jesus answered, 'Neither hath this man sinned, nor his parents; but that the works of God should be made manifest in him' (John 9:2-3).",
+      "hint": "Recall the disciples' question about the man born blind in John 9.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "John 9:2-3"
+        },
         {
           "type": "scripture",
           "reference": "Matthew 6:24"
@@ -3136,6 +3222,10 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 2092"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1037"
         },
         {
@@ -3158,23 +3248,40 @@
         },
         {
           "left": "Religious syncretism",
-          "right": "The Catechism's condemnation of divination and the occult under the first commandment"
+          "right": "The first commandment's prohibition of honoring gods other than the one Lord"
         },
         {
           "left": "Presumption on God's mercy",
-          "right": "Hope for all, held together with Scripture's warnings about hell"
+          "right": "The Church's teaching that Scripture's warnings about hell are an urgent call to conversion"
         },
         {
           "left": "\"Spiritual worldliness,\" per Evangelii Gaudium",
-          "right": "Seeking human glory and comfort rather than God's glory, the Gospel's demands quietly dropped"
+          "right": "Seeking not the Lord's glory but human glory and personal well-being"
         }
       ],
-      "explanation": "These four present-day errors share a pattern -- each keeps comfortable, religious-sounding language while quietly dropping a costly demand of the Gospel underneath it.",
+      "explanation": "Each row sets a contemporary error beside teaching that answers it: Christ's own words on God and mammon, the first commandment, the Church's call to conversion in the face of hell, and Evangelii Gaudium's own description of spiritual worldliness.",
       "hint": "Each row pairs a live contemporary error with the specific, precise teaching that corrects it.",
       "citations": [
         {
+          "type": "scripture",
+          "reference": "Matthew 6:24",
+          "quote": "No man can serve two masters. For either he will hate the one, and love the other: or he will sustain the one, and despise the other. You cannot serve God and mammon."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2110"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2092"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1036"
+        },
+        {
           "type": "magisterial_document",
-          "reference": "Pope Francis, Evangelii Gaudium, nn. 93-97 (2013)"
+          "reference": "Pope Francis, Evangelii Gaudium, n. 93 (2013)"
         }
       ]
     },
@@ -3184,20 +3291,21 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 2225,
-      "prompt": "Pope Francis's Evangelii Gaudium names a temptation it calls \"spiritual worldliness\" -- reducing the Gospel to a purely therapeutic, feel-good message with no real demand for conversion. What does the document say this ultimately seeks?",
+      "prompt": "Pope Francis's Evangelii Gaudium warns against a temptation it calls \"spiritual worldliness,\" which \"hides behind the appearance of piety and even love for the Church.\" According to the document, what does it consist in seeking?",
       "choices": [
-        "Human glory and personal well-being rather than the glory of God -- a Christianity emptied of the cross, repentance, and the call to holiness, however religious its language sounds",
+        "Not the Lord's glory but human glory and personal well-being",
         "The abolition of the sacraments entirely",
-        "A return to a purely ritualistic, works-based religion with no interior conversion at all",
+        "Open persecution of the Church by civil authorities",
         "The replacement of Scripture with purely private revelations"
       ],
-      "correctAnswer": "Human glory and personal well-being rather than the glory of God -- a Christianity emptied of the cross, repentance, and the call to holiness, however religious its language sounds",
-      "explanation": "This is the same error the prosperity gospel showed in a cruder form: comforting language kept, the demand of the Gospel -- repentance, the cross, conversion of life -- quietly dropped.",
-      "hint": "The document is naming what's left when the comforting parts of the Gospel stay but the demanding parts quietly disappear.",
+      "correctAnswer": "Not the Lord's glory but human glory and personal well-being",
+      "explanation": "Evangelii Gaudium 93 says spiritual worldliness \"consists in seeking not the Lord's glory but human glory and personal well-being.\" Because it is based on carefully cultivated appearances, it \"is not always linked to outward sin; from without, everything appears as it should be.\"",
+      "hint": "Ask whose glory is really being sought.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Pope Francis, Evangelii Gaudium, nn. 93-97 (2013)"
+          "reference": "Pope Francis, Evangelii Gaudium, n. 93 (2013)",
+          "quote": "Spiritual worldliness, which hides behind the appearance of piety and even love for the Church, consists in seeking not the Lord's glory but human glory and personal well-being."
         }
       ]
     },
@@ -3207,14 +3315,15 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 2175,
-      "prompt": "True or False: The prosperity gospel, syncretism, presumption, and spiritual worldliness all share the same underlying move, keeping religious language while quietly dropping something the Gospel demands.",
+      "prompt": "True or False: The Catechism names, as one kind of presumption, presuming upon God's mercy while hoping to obtain his forgiveness without conversion.",
       "correctAnswer": true,
-      "explanation": "True, and naming this shared pattern is the point -- these are not four unrelated modern curiosities, but four live variations on one temptation still active in the Church's own present-day life.",
-      "hint": "Consider what each of the four errors keeps, and what each one quietly drops.",
+      "explanation": "True. CCC 2092 distinguishes two kinds of presumption: presuming upon one's own capacities, or presuming upon God's almighty power or mercy, \"hoping to obtain his forgiveness without conversion and glory without merit.\"",
+      "hint": "Recall what the Catechism says presuming upon God's mercy hopes to obtain.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Pope Francis, Evangelii Gaudium, nn. 93-97 (2013)"
+          "type": "ccc",
+          "reference": "CCC 2092",
+          "quote": "he presumes upon God's almighty power or his mercy (hoping to obtain his forgiveness without conversion and glory without merit)"
         }
       ]
     },
@@ -3321,7 +3430,7 @@
         "Ex opere operato was formally condemned as heretical alongside Donatism"
       ],
       "correctAnswer": "A sacrament's efficacy depends on Christ's own action working through the rite itself when it is validly performed, not on the personal holiness of the minister, since Christ, not the minister's worthiness, is the true agent of grace in the sacrament",
-      "explanation": "'Ex opere operato' ('from the work worked') teaches that a validly performed sacrament's efficacy comes from Christ's own action through the rite itself, not from the minister's personal holiness -- directly resolving Donatism's error, since a believer receiving a sacrament from a genuinely unworthy but validly ordained minister still receives real grace, Christ himself being the true agent.",
+      "explanation": "'Ex opere operato' ('from the work worked') teaches that a validly performed sacrament's efficacy comes from Christ's own action through the rite itself, not from the minister's personal holiness -- directly resolving Donatism's error. A believer who receives a sacrament from a genuinely unworthy but validly ordained minister still receives a true sacrament, Christ himself being the true agent, though, as the Catechism adds, its fruits also depend on the disposition of the one who receives it.",
       "hint": "The key move is identifying who the agent of grace in a sacrament is -- not the minister's personal holiness.",
       "citations": [
         {
@@ -3372,13 +3481,13 @@
       "difficultyElo": 2317,
       "prompt": "Nicaea II's answer to iconoclasm turns on a distinction the Greek makes more sharply than English: 'proskynesis' offered to images versus 'latria' reserved to God. Why was having two words essential rather than merely convenient?",
       "choices": [
-        "Because with one word covering both, any honour paid an image is automatically describable as the worship owed to God alone -- the iconoclast case depends on that collapse",
+        "Because with one word covering both, any honour paid an image is automatically describable as the worship owed to God alone -- the charge that venerating images is idolatry depends on that collapse",
         "Because Greek was the liturgical language of the East",
         "Because the distinction applies only to images of Christ",
         "Because it allowed images while forbidding statues"
       ],
-      "correctAnswer": "Because with one word covering both, any honour paid an image is automatically describable as the worship owed to God alone -- the iconoclast case depends on that collapse",
-      "explanation": "The iconoclast argument is only valid if honouring and adoring are the same act. Two words let the Church say what is actually happening: honour passes through the image to its prototype, while adoration terminates in God alone.",
+      "correctAnswer": "Because with one word covering both, any honour paid an image is automatically describable as the worship owed to God alone -- the charge that venerating images is idolatry depends on that collapse",
+      "explanation": "The charge that venerating images is idolatry works only if honouring and adoring are the same act. Two words let the Church say what is actually happening: the honour paid to an image passes to its prototype, while adoration (latria) is paid only to the divine nature.",
       "hint": "Ask what the objection requires in order to work, then notice which word does that work.",
       "citations": [
         {
@@ -3457,7 +3566,7 @@
         }
       ],
       "explanation": "Each term is a fence, not an explanation. None of them makes the mystery comprehensible; each rules out one specific misreading, which is why the precise word matters more than a general affirmation would.",
-      "hint": "Each was chosen because a vaguer word had already been shown to leave a loophole.",
+      "hint": "Each term rules out one specific misreading that a vaguer expression would have left open.",
       "citations": [
         {
           "type": "council",
@@ -3614,12 +3723,24 @@
         }
       ],
       "explanation": "None of these four scenarios names its heresy out loud -- recognizing the underlying, precisely named error beneath an unlabeled modern-sounding claim draws on the same conciliar distinctions fixed by the early councils.",
-      "hint": "Each right answer is a technical term from the history of the grace controversies, applied to a scenario that never uses that term itself.",
+      "hint": "Each right answer is a technical term from the history of the Trinitarian, Christological, and grace controversies, applied to a scenario that never uses that term itself.",
       "citations": [
         {
           "type": "council",
-          "reference": "Second Council of Nicaea (787)",
-          "quote": "the honour paid to an image traverses it, reaching the model, and he who venerates the image, venerates the person represented in that image."
+          "reference": "First Council of Nicaea (325)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "The first heresies denied not so much Christ's divinity as his true humanity (Gnostic Docetism)."
+        },
+        {
+          "type": "council",
+          "reference": "Third Council of Constantinople (680-681)"
         }
       ]
     },
@@ -3764,9 +3885,9 @@
       "level": 19,
       "type": "true_false",
       "difficultyElo": 2450,
-      "prompt": "True or False: The study of heresies and the study of the Church's councils are best described as the same history told from opposite sides -- the error's own logic on one side, the council's settled answer on the other.",
+      "prompt": "True or False: Many of the Church's conciliar definitions were formulated in answer to specific heresies, so the study of heresies and the study of the councils illuminate each other.",
       "correctAnswer": true,
-      "explanation": "True. Councils show the Church's settled answers in their own right; heresies show the specific errors that made each answer necessary in the first place. Neither simply repeats the other.",
+      "explanation": "True. Nicaea answered Arius, Ephesus answered Nestorius, Chalcedon answered Eutyches, Constantinople III answered Monothelitism, and Trent answered the Reformers on justification. Not every council was called against a heresy, but where one was, the error shows why the definition was needed and the definition shows exactly what the error denied.",
       "hint": "Consider how each council answer responds to a specific error that made it necessary.",
       "citations": [
         {
@@ -3812,8 +3933,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 465",
-          "quote": "...the Son of God is \"begotten, not made, of the same substance (homoousios) as the Father\"..."
+          "reference": "CCC 250",
+          "quote": "...both to deepen her own understanding of the faith and to defend it against the errors that were deforming it."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book XVI, ch. 2",
+          "quote": "...the necessity of defending them forces us both to investigate them more accurately, to understand them more clearly, and to proclaim them more earnestly..."
         }
       ]
     },
@@ -3898,7 +4024,7 @@
       "level": 19,
       "type": "true_false",
       "difficultyElo": 2450,
-      "prompt": "True or False: The same real names, councils, and questions -- Augustine's answer to Donatism, Nicaea's answer to Arius, missionaries whose accommodation questions echo in Modernism and Americanism -- keep recurring because Church history, the councils, and the saints tell one continuous story, not several separate ones.",
+      "prompt": "True or False: The same real names, councils, and questions -- Augustine's answer to Donatism, Nicaea's answer to Arius -- keep recurring because Church history, the councils, and the saints tell one continuous story, not several separate ones.",
       "correctAnswer": true,
       "explanation": "True, and this is worth naming plainly -- the same names, councils, and questions recur because they are, in fact, one connected history, seen from several angles.",
       "hint": "Consider how often the same figures and councils appear in different parts of the Church's story.",
@@ -3906,6 +4032,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "...ecumenical council of Nicaea in 325 confessed in its Creed that the Son of God is \"begotten, not made...\""
         }
       ]
     },
@@ -3928,8 +4059,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 465",
-          "quote": "...the Son of God is \"begotten, not made, of the same substance (homoousios) as the Father\"..."
+          "reference": "CCC 250",
+          "quote": "...both to deepen her own understanding of the faith and to defend it against the errors that were deforming it."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book XVI, ch. 2",
+          "quote": "...the necessity of defending them forces us both to investigate them more accurately, to understand them more clearly, and to proclaim them more earnestly..."
         }
       ]
     },
@@ -3954,6 +4090,11 @@
           "type": "council",
           "reference": "Council of Chalcedon (451)",
           "quote": "...acknowledged in two natures which undergo no confusion, no change, no division, no separation; at no point was the difference between the natures taken away through the union, but rather the property of both natures is preserved and comes together into a single person and a single subsistent being..."
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book XVI, ch. 2",
+          "quote": "...the necessity of defending them forces us both to investigate them more accurately, to understand them more clearly, and to proclaim them more earnestly; and the question mooted by an adversary becomes the occasion of instruction."
         }
       ]
     }
