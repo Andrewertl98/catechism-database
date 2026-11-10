@@ -20,7 +20,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 88",
+          "quote": "...when it defines dogmas, that is, when it proposes truths contained in divine Revelation..."
         }
       ]
     },
@@ -32,12 +33,17 @@
       "difficultyElo": 800,
       "prompt": "True or False: Every single teaching the Church holds is a dogma.",
       "correctAnswer": false,
-      "explanation": "False. 'Doctrine' is the wider category -- the Church's whole body of teaching, some of it solemnly defined as dogma, some of it taught with real authority but not (yet, or ever) formally defined. Disciplinary rules, like the Friday abstinence requirement, are a third, changeable category again.",
+      "explanation": "False. 'Doctrine' is the wider category -- the Church's whole body of teaching. Dogmas are the truths she proposes as divinely revealed, whether by a solemn definition or by her ordinary and universal Magisterium; much other teaching is held definitively or given religious assent without being dogma. Disciplinary rules, like the Friday abstinence requirement, are a different, changeable category again.",
       "hint": "Consider whether 'dogma' and 'doctrine' are simply two names for the exact same thing.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 88",
+          "quote": "...when it defines dogmas, that is, when it proposes truths contained in divine Revelation..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 892"
         }
       ]
     },
@@ -96,8 +102,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "reference": "CCC 86",
+          "quote": "Yet this Magisterium is not superior to the Word of God, but is its servant."
         }
       ]
     },
@@ -137,7 +143,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 66"
+          "reference": "CCC 67",
+          "quote": "They do not belong, however, to the deposit of faith."
         }
       ]
     },
@@ -147,7 +154,7 @@
       "level": 1,
       "type": "multiple_choice",
       "difficultyElo": 850,
-      "prompt": "The Church's ordinary, non-defining teaching (for example, in an encyclical that is not solemnly defining a dogma) calls for what kind of response from a Catholic?",
+      "prompt": "When the pope, or the bishops in communion with him, teach in the ordinary Magisterium without an infallible definition and without pronouncing in a definitive manner, what response does that teaching call for from a Catholic?",
       "choices": [
         "Religious assent -- real internal adherence, though distinct from the assent of faith given to a defined dogma",
         "No response at all, since it isn't dogma",
@@ -155,12 +162,18 @@
         "Agreement only if the individual believer happens to find the argument personally convincing"
       ],
       "correctAnswer": "Religious assent -- real internal adherence, though distinct from the assent of faith given to a defined dogma",
-      "explanation": "Not every act of the Magisterium is a solemn definition, but ordinary teaching still calls for religious assent -- a genuine internal adherence -- even though this differs from the assent of faith given to a formally defined dogma.",
+      "explanation": "Ordinary teaching proposed without an infallible definition and without a definitive act calls for religious assent: a genuine internal adherence, which, though distinct from the assent of faith, is nonetheless an extension of it. (Teaching that is not solemnly defined can still be infallible: doctrine taught by the ordinary and universal Magisterium as divinely revealed calls for the assent of faith itself.)",
       "hint": "The Church distinguishes assent from the full assent of faith, without collapsing either into 'optional.'",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 892"
+          "reference": "CCC 892",
+          "quote": "...the faithful \"are to adhere to it with religious assent\" which, though distinct from the assent of faith, is nonetheless an extension of it."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Doctrinal Commentary on the Concluding Formula of the Professio fidei, Congregation for the Doctrine of the Faith (1998), 9",
+          "quote": "In the case of a non-defining act, a doctrine is taught infallibly by the ordinary and universal Magisterium..."
         }
       ]
     },
@@ -172,12 +185,17 @@
       "difficultyElo": 800,
       "prompt": "True or False: A Catholic is free to simply disregard any Church teaching that has not been solemnly defined as a dogma.",
       "correctAnswer": false,
-      "explanation": "False. Even teaching that falls short of a solemn dogmatic definition still calls for real religious assent, not casual dismissal -- 'not yet formally defined' is not the same as 'safely ignorable.'",
+      "explanation": "False. Teaching that has not been solemnly defined is never safely ignorable. Some of it is taught infallibly by the ordinary and universal Magisterium and must be believed with faith or held definitively; and even ordinary teaching proposed without a definitive act calls for religious assent, which, though distinct from the assent of faith, is nonetheless an extension of it.",
       "hint": "Recall what kind of response ordinary Magisterial teaching calls for, even short of a formal dogmatic definition.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 892"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Doctrinal Commentary on the Concluding Formula of the Professio fidei, Congregation for the Doctrine of the Faith (1998), 9",
+          "quote": "In the case of a non-defining act, a doctrine is taught infallibly by the ordinary and universal Magisterium..."
         }
       ]
     },
@@ -195,7 +213,7 @@
         },
         {
           "left": "Doctrine",
-          "right": "The Church's whole body of teaching, of which dogma is the most solemnly defined part"
+          "right": "The Church's whole body of teaching, of which dogma is the part proposed as divinely revealed"
         },
         {
           "left": "Sacred Tradition and Sacred Scripture",
@@ -211,8 +229,17 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "reference": "CCC 88"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 97",
+          "quote": "Sacred Tradition and Sacred Scripture make up a single sacred deposit of the Word of God"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 86",
+          "quote": "Yet this Magisterium is not superior to the Word of God, but is its servant."
         }
       ]
     },
@@ -236,6 +263,11 @@
         {
           "type": "ccc",
           "reference": "CCC 36"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 38",
+          "quote": "...they can be known by all men with ease, with firm certainty and with no admixture of error"
         }
       ]
     },
@@ -271,12 +303,21 @@
         "God's power grows or changes over time, as the universe itself develops"
       ],
       "correctAnswer": "God is omnipotent -- almighty, with nothing impossible for him except what would contradict his own nature",
-      "explanation": "The Church confesses God as almighty -- the Creed's very first word about him. His omnipotence is real and total, yet never contradicts his own goodness or truth; God cannot, for example, lie or cease to exist, since that would contradict who he is.",
-      "hint": "The Creed's very first description of God names this attribute directly.",
+      "explanation": "The Church confesses God as almighty -- of all the divine attributes, only God's omnipotence is named in the Creed. His omnipotence is real and total, yet in no way arbitrary; God cannot, for example, lie or cease to exist, since that would contradict who he is.",
+      "hint": "It is the one divine attribute the Creed names: 'I believe in God, the Father almighty.'",
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 268",
+          "quote": "...of all the divine attributes, only God's omnipotence is named in the Creed..."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 269"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 271"
         }
       ]
     },
@@ -288,13 +329,17 @@
       "difficultyElo": 875,
       "prompt": "True or False: Because God is all-good, the Church teaches that evil cannot really exist at all.",
       "correctAnswer": false,
-      "explanation": "False. evil does exist in the world. God is not its cause -- he permits it while respecting the freedom of his creatures, and can draw a greater good even from evil he permits, without ever willing evil itself.",
+      "explanation": "False. Evil does exist in the world. God is in no way, directly or indirectly, the cause of moral evil: he permits it because he respects the freedom of his creatures and, mysteriously, knows how to derive good from it. Yet evil never becomes a good.",
       "hint": "The Church's answer to evil is not to deny it exists, but to explain God's real relationship to it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 311",
           "quote": "God is in no way, directly or indirectly, the cause of moral evil."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 312"
         }
       ]
     },
@@ -334,6 +379,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 38",
+          "quote": "...they can be known by all men with ease, with firm certainty and with no admixture of error"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 36"
         }
       ]
@@ -344,7 +394,7 @@
       "level": 2,
       "type": "multiple_choice",
       "difficultyElo": 925,
-      "prompt": "Why does the Church insist God is not merely powerful, but also perfectly good?",
+      "prompt": "Why does it matter that God is not merely powerful, but also perfectly good?",
       "choices": [
         "A powerful but not good God couldn't be trusted or worshipped -- goodness makes power something to hope in",
         "Because goodness is a separate, lesser attribute with no real bearing on God's power",
@@ -357,7 +407,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 269"
+          "reference": "CCC 268",
+          "quote": "God's power is loving, for he is our Father..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 271",
+          "quote": "God's almighty power is in no way arbitrary"
         }
       ]
     },
@@ -375,6 +431,15 @@
         {
           "type": "ccc",
           "reference": "CCC 212"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 300",
+          "quote": "God is present to his creatures' inmost being"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 301"
         }
       ]
     },
@@ -432,7 +497,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 390"
+          "reference": "CCC 375",
+          "quote": "...our first parents, Adam and Eve, were constituted in an original \"state of holiness and justice\"."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 374"
         }
       ]
     },
@@ -483,14 +553,23 @@
       "level": 3,
       "type": "fill_blank",
       "difficultyElo": 1060,
-      "prompt": "The Church calls the sin transmitted to every human person by descent from Adam, distinct from any sin a person personally commits, '____ sin.'",
+      "prompt": "The Church teaches that the sin of Adam and Eve affected the human nature they would then transmit in a fallen state; a sin 'contracted' and not 'committed,' it is called '____ sin.'",
       "correctAnswer": "original",
-      "explanation": "Original sin is a real, inherited condition -- not a personal act any individual chose -- affecting every human person from the very beginning of their own existence, a wound in human nature itself rather than one person's own guilt.",
+      "explanation": "Original sin is a sin 'contracted' and not 'committed' -- a state and not an act. It is a deprivation of original holiness and justice, transmitted with human nature; it is proper to each individual, yet does not have the character of a personal fault. By a singular grace, the Blessed Virgin Mary was preserved from all stain of it.",
       "hint": "It's the same word used to describe the very first sin itself.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 406"
+          "reference": "CCC 404",
+          "quote": "...it is a sin \"contracted\" and not \"committed\" - a state and not an act."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 405"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 411"
         }
       ]
     },
@@ -507,7 +586,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 406"
+          "reference": "CCC 405",
+          "quote": "...original sin does not have the character of a personal fault in any of Adam's descendants."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 404"
         }
       ]
     },
@@ -519,18 +603,19 @@
       "difficultyElo": 1000,
       "prompt": "Why does the doctrine of original sin matter for understanding the rest of Catholic doctrine?",
       "choices": [
-        "It establishes the need for a Redeemer -- without a fall, Christ's death would save us from nothing",
+        "It is the 'reverse side' of the Good News that Jesus is the Saviour of all: all need salvation, offered to all through Christ",
         "Because it has no real bearing on anything else the Church teaches about salvation",
         "Because it proves that God's own original creation was flawed from the very beginning",
         "Because it means every later doctrine about grace and sacraments is optional"
       ],
-      "correctAnswer": "It establishes the need for a Redeemer -- without a fall, Christ's death would save us from nothing",
-      "explanation": "This is why original sin is foundational -- the doctrine of the Fall is what makes the rest of the story, culminating in the Incarnation and grace, make sense.",
-      "hint": "Consider what the Incarnation and grace would mean without the Fall.",
+      "correctAnswer": "It is the 'reverse side' of the Good News that Jesus is the Saviour of all: all need salvation, offered to all through Christ",
+      "explanation": "The Catechism calls the doctrine of original sin the 'reverse side' of the Good News that Jesus is the Saviour of all men, that all need salvation and that salvation is offered to all through Christ. That is why the Church cannot tamper with the revelation of original sin without undermining the mystery of Christ.",
+      "hint": "Consider what this doctrine says about who needs a Saviour.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 406"
+          "reference": "CCC 389",
+          "quote": "...we cannot tamper with the revelation of original sin without undermining the mystery of Christ."
         }
       ]
     },
@@ -559,7 +644,7 @@
       "level": 3,
       "type": "multiple_choice",
       "difficultyElo": 1000,
-      "prompt": "Genesis 3:15 promises enmity between the serpent and the woman's offspring, who will 'strike at your head.' How has the Church's own tradition read this promise?",
+      "prompt": "In Genesis 3:15 God says to the serpent: 'I will put enmities between thee and the woman, and thy seed and her seed: she shall crush thy head.' How has the Church's own tradition read this promise?",
       "choices": [
         "An early hint of Christ's own future victory over sin, read alongside Mary's own role as the new Eve",
         "As a purely literal warning about the danger of snakes in general",
@@ -575,6 +660,10 @@
           "reference": "Genesis 3:15",
           "quote": "I will put enmities between thee and the woman, and thy seed and her seed: she shall crush thy head, and thou shalt lie in wait for her heel.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 411"
         }
       ]
     },
@@ -592,7 +681,7 @@
         },
         {
           "left": "Original sin",
-          "right": "A wounded condition of human nature transmitted to every person, not a personal act"
+          "right": "A deprivation of original holiness and justice, contracted and not committed -- a state, not an act"
         },
         {
           "left": "\"Harmony with creation is broken\"",
@@ -610,6 +699,18 @@
           "type": "ccc",
           "reference": "CCC 400",
           "quote": "Harmony with creation is broken: visible creation has become alien and hostile to man."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 375"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 404"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 410"
         }
       ]
     },
@@ -685,15 +786,19 @@
       "level": 4,
       "type": "fill_blank",
       "difficultyElo": 1135,
-      "prompt": "The Catechism teaches that God, who is all-good, permits evil only because in his providence he can draw a greater ____ from it, as seen supremely in the cross.",
+      "prompt": "The Catechism quotes St. Thomas Aquinas: 'God permits evil in order to draw forth some greater ____,' as seen supremely in the cross.",
       "correctAnswer": "good",
       "explanation": "The clearest example is the cross itself: the greatest evil in history, the murder of the Son of God, became the very means of the world's redemption.",
       "hint": "Think of the cross itself: the worst evil became the source of salvation.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 311",
-          "quote": "God is in no way, directly or indirectly, the cause of moral evil."
+          "reference": "CCC 412",
+          "quote": "...God permits evil in order to draw forth some greater good."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 312"
         }
       ]
     },
@@ -822,7 +927,7 @@
       "choices": [
         "From infancy to death, human life is surrounded by their watchful care and intercession",
         "They are a pious legend with no doctrinal standing",
-        "They are assigned only to the baptised",
+        "Their care for a person begins only at the age of reason",
         "They are the souls of the faithful departed"
       ],
       "correctAnswer": "From infancy to death, human life is surrounded by their watchful care and intercession",
@@ -1054,7 +1159,7 @@
       "difficultyElo": 1175,
       "prompt": "True or False: The Catholic Church teaches that Jesus Christ is the one, sole mediator between God and humanity.",
       "correctAnswer": true,
-      "explanation": "St. Paul states this plainly: 'there is one God, and one mediator between God and mankind, Christ Jesus.' Every other form of intercession, including that of the saints, draws on his mediation alone.",
+      "explanation": "St. Paul states this plainly: 'For there is one God: and one mediator of God and men, the man Christ Jesus'. Every other form of intercession, including that of the saints, draws on his mediation alone.",
       "hint": "Paul names only one person who stands between God and all humanity.",
       "citations": [
         {
@@ -1084,6 +1189,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 1067",
+          "quote": "...the Paschal mystery of his blessed Passion, Resurrection from the dead, and glorious Ascension..."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 571"
         }
       ]
@@ -1102,6 +1212,11 @@
         {
           "type": "ccc",
           "reference": "CCC 631"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 632",
+          "quote": "...Jesus, like all men, experienced death and in his soul joined the others in the realm of the dead."
         }
       ]
     },
@@ -1154,7 +1269,7 @@
       "difficultyElo": 1175,
       "prompt": "True or False: The Catholic Church teaches that Christ's saving death was intended only for a chosen few, not for all humanity.",
       "correctAnswer": false,
-      "explanation": "St. Paul writes that God 'wills everyone to be saved' and that Christ 'died for all' -- the Church has always taught that redemption is offered to every person, even though not all accept it.",
+      "explanation": "St. Paul writes that God \"will have all men to be saved\" (1 Timothy 2:4) and that \"Christ died for all\" (2 Corinthians 5:15). The Church, following the apostles, teaches that Christ died for all men without exception (CCC 605), even though not all accept the redemption he offers.",
       "hint": "Paul writes that Christ died for all, not for a select few.",
       "citations": [
         {
@@ -1162,6 +1277,17 @@
           "reference": "1 Timothy 2:4",
           "quote": "Who will have all men to be saved and to come to the knowledge of the truth.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Corinthians 5:15",
+          "quote": "And Christ died for all: that they also who live may not now live to themselves, but unto him who died for them and rose again.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 605",
+          "quote": "The Church, following the apostles, teaches that Christ died for all men without exception..."
         }
       ]
     },
@@ -1171,7 +1297,7 @@
       "level": 6,
       "type": "multiple_choice",
       "difficultyElo": 1225,
-      "prompt": "Scripture presents Christ as the new Adam. What is the structure of the comparison?",
+      "prompt": "In Romans 5, St. Paul compares Christ with Adam, \"who is a figure of him who was to come.\" What is the structure of the comparison?",
       "choices": [
         "As by one man's disobedience many were made sinners, so by one man's obedience many will be made righteous",
         "As Adam was created first, so Christ was created before all things",
@@ -1215,18 +1341,21 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "Christ said the Son of Man came not to be served but to serve, and to give his life as a ____ for many.",
+      "prompt": "The Catechism (CCC 605) recalls that Christ came 'to give his life as a ____ for many.'",
       "correctAnswer": "ransom",
-      "explanation": "The ransom image says the cost was real without specifying who was paid — a question Scripture leaves open and the Church has declined to answer as though it were a transaction between God and the devil.",
+      "explanation": "CCC 605 adds that 'many' here \"is not restrictive\": the Church, following the apostles, teaches that Christ died for all men without exception. (The Douay-Rheims renders Mark 10:45: \"to give his life a redemption for many.\")",
       "hint": "The word implies a price paid to free a captive.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Mark 10:45"
+          "type": "ccc",
+          "reference": "CCC 605",
+          "quote": "He affirms that he came \"to give his life as a ransom for many\"..."
         },
         {
-          "type": "ccc",
-          "reference": "CCC 605"
+          "type": "scripture",
+          "reference": "Mark 10:45",
+          "quote": "For the Son of man also is not come to be ministered unto: but to minister and to give his life a redemption for many.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1259,12 +1388,30 @@
       "hint": "They are consecutive, and each completes something the previous one began.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 571"
+          "type": "scripture",
+          "reference": "Romans 5:19",
+          "quote": "For as by the disobedience of one man, many were made sinners: so also by the obedience of one, many shall be made just.",
+          "note": "Douay-Rheims"
         },
         {
           "type": "ccc",
-          "reference": "CCC 631"
+          "reference": "CCC 632",
+          "quote": "But he descended there as Saviour, proclaiming the Good News to the spirits imprisoned there."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 633",
+          "quote": "...to free the just who had gone before him."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 646",
+          "quote": "Christ's Resurrection was not a return to earthly life..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 665",
+          "quote": "Christ's Ascension marks the definitive entrance of Jesus' humanity into God's heavenly domain..."
         }
       ]
     },
@@ -1274,21 +1421,26 @@
       "level": 7,
       "type": "multiple_choice",
       "difficultyElo": 1300,
-      "prompt": "Why does the Church call it fitting -- not merely possible, but actually fitting -- that God himself became man, rather than saving humanity some other way?",
+      "prompt": "According to the Catechism, why did the Word become flesh?",
       "choices": [
-        "Only a divine Person, acting in a human nature, could offer a sacrifice of infinite worth from within",
-        "Because God had no other options available to him at all",
-        "Because becoming man was the easiest possible option for God",
-        "Because the Incarnation was simply an accident of history, with no theological reasoning behind it"
+        "To save us by reconciling us with God, to show us God's love, to be our model of holiness, and to make us partakers of the divine nature",
+        "Only to give us a good moral example, without any real redemption from sin",
+        "So that the Son, who was not yet divine, could become God",
+        "By an accident of history, with no saving purpose behind it"
       ],
-      "correctAnswer": "Only a divine Person, acting in a human nature, could offer a sacrifice of infinite worth from within",
-      "explanation": "The Incarnation is not presented as the only conceivable way God could have acted, but as a truly fitting one: only God himself, acting through a human nature, could offer a sacrifice of truly infinite worth while still genuinely standing in humanity's own place.",
-      "hint": "Consider what a merely human savior, or a purely divine act with no human nature involved, would each still be missing.",
+      "correctAnswer": "To save us by reconciling us with God, to show us God's love, to be our model of holiness, and to make us partakers of the divine nature",
+      "explanation": "The Catechism gives four reasons: the Word became flesh to save us by reconciling us with God (CCC 457), so that we might know God's love (CCC 458), to be our model of holiness (CCC 459), and to make us \"partakers of the divine nature\" (CCC 460).",
+      "hint": "Four paragraphs of the Catechism (CCC 457-460) each begin 'The Word became flesh...'",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 461",
-          "quote": "...The Church calls \"Incarnation\" the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+          "reference": "CCC 457",
+          "quote": "The Word became flesh for us in order to save us by reconciling us with God..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 460",
+          "quote": "The Word became flesh to make us \"partakers of the divine nature\"..."
         }
       ]
     },
@@ -1360,19 +1512,19 @@
       "difficultyElo": 1300,
       "prompt": "Why couldn't a merely human savior -- however holy -- have accomplished what Christ accomplished?",
       "choices": [
-        "A merely human offering, however holy, would still be finite -- the debt required infinite worth",
+        "No man, not even the holiest, could take on himself the sins of all men; the divine Person of the Son makes Christ's sacrifice for all possible",
         "Because God specifically forbade any human being from ever trying to be holy",
         "Because humanity's problem was never serious enough to need any solution at all",
         "Because a human savior would have been just as effective as a divine one, with no real difference"
       ],
-      "correctAnswer": "A merely human offering, however holy, would still be finite -- the debt required infinite worth",
-      "explanation": "This is the crux of why the Incarnation is fitting rather than one option among equals -- only a divine Person, acting through a human nature, could offer something of genuinely infinite worth on humanity's own behalf.",
-      "hint": "Consider the difference between a finite offering and an infinite one, given the weight of what needed to be repaired.",
+      "correctAnswer": "No man, not even the holiest, could take on himself the sins of all men; the divine Person of the Son makes Christ's sacrifice for all possible",
+      "explanation": "CCC 616 teaches that no man, not even the holiest, was ever able to take on himself the sins of all men and offer himself as a sacrifice for all. It is the existence in Christ of the divine person of the Son, \"who at once surpasses and embraces all human persons,\" that makes his redemptive sacrifice for all possible.",
+      "hint": "Consider who Christ is: not a merely human person, but the divine Person of the Son made man.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 461",
-          "quote": "...The Church calls \"Incarnation\" the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+          "reference": "CCC 616",
+          "quote": "No man, not even the holiest, was ever able to take on himself the sins of all men..."
         }
       ]
     },
@@ -1408,13 +1560,18 @@
         "Impossibility"
       ],
       "correctAnswer": "Fittingness",
-      "explanation": "Theologians distinguish strict logical necessity (God had no other option) from fittingness (this was the most appropriate way, given who God is and what humanity needed) -- the Church holds the Incarnation was fitting, not that God could not have acted otherwise.",
+      "explanation": "Theologians distinguish strict necessity (the end could not be reached in any other way) from fittingness (the end is reached better and more fittingly this way). St. Thomas Aquinas, following St. Augustine, teaches that God could have restored human nature in many other ways, but that there was no more fitting way than the Incarnation (Summa Theologiae III, q. 1, a. 2). The Catechism describes the state of humanity that moved God to become man (CCC 457).",
       "hint": "The word describes what is fitting for God, rather than strictly necessary.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 461",
-          "quote": "...The Church calls \"Incarnation\" the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+          "reference": "CCC 457",
+          "quote": "Did they not move God to descend to human nature and visit it, since humanity was in so miserable and unhappy a state?"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, De Trinitate, as quoted in St. Thomas Aquinas, Summa Theologiae III, q. 1, a. 2",
+          "quote": "other ways were not wanting to God, to Whose power all things are equally subject; but that there was not a more fitting way of healing our misery"
         }
       ]
     },
@@ -1424,32 +1581,47 @@
       "level": 7,
       "type": "matching_pairs",
       "difficultyElo": 1340,
-      "prompt": "Match each fact about the Incarnation's own fittingness to what it means.",
+      "prompt": "Match each fact about the Incarnation to what it means.",
       "pairs": [
         {
           "left": "\"So that we might become God\"",
           "right": "Divinization -- real participation in God's own life through grace, never a literal equality of nature"
         },
         {
-          "left": "Infinite worth",
-          "right": "Only a divine Person could offer a sacrifice equal to humanity's debt"
+          "left": "The divine Person of the Son",
+          "right": "Makes possible a redemptive sacrifice for all, which no man, not even the holiest, could offer"
         },
         {
           "left": "Human nature assumed",
-          "right": "The offering had to be made genuinely from within humanity, not only on its behalf from outside"
+          "right": "The Son of God assumed a human nature in order to accomplish our salvation in it"
         },
         {
           "left": "Fittingness, not strict necessity",
-          "right": "The most truly appropriate way, given who God is, not the only conceivable option"
+          "right": "St. Thomas Aquinas: God could have restored human nature in other ways, yet no way was more fitting than the Incarnation"
         }
       ],
-      "explanation": "These four facts together explain why the Church calls the Incarnation fitting rather than arbitrary -- a reasoned answer to both humanity's debt and its deepest longing.",
-      "hint": "Two rows describe what the Incarnation accomplishes; two describe the logic behind why it happened this way.",
+      "explanation": "The Catechism teaches that the Son of God became man so that we might become God, that is, share in God's own life (CCC 460); that he assumed a human nature in order to accomplish our salvation in it (CCC 461); and that the divine Person of the Son makes possible a redemptive sacrifice for all (CCC 616). St. Thomas Aquinas adds that the Incarnation was fitting rather than strictly necessary (Summa Theologiae III, q. 1, a. 2).",
+      "hint": "Three rows rest on the Catechism (CCC 460, 461, 616); the fourth is the distinction St. Thomas draws between fittingness and strict necessity.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 460",
           "quote": "\"For the Son of God became man so that we might become God.\""
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 616",
+          "quote": "No man, not even the holiest, was ever able to take on himself the sins of all men..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 461",
+          "quote": "...The Church calls \"Incarnation\" the fact that the Son of God assumed a human nature in order to accomplish our salvation in it."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, De Trinitate, as quoted in St. Thomas Aquinas, Summa Theologiae III, q. 1, a. 2",
+          "quote": "other ways were not wanting to God, to Whose power all things are equally subject; but that there was not a more fitting way of healing our misery"
         }
       ]
     },
@@ -1467,13 +1639,23 @@
         "The natural human capacity for virtue"
       ],
       "correctAnswer": "God's free and undeserved help to respond to his call",
-      "explanation": "Grace is never earned -- it is a free gift of God's own life, given so that we can respond to his call and share in his divine life.",
-      "hint": "This help is a gift, not something you earn.",
+      "explanation": "Grace is God's free gift: no one can merit the initial grace of forgiveness and justification (CCC 2010). It is a participation in the life of God (CCC 1997), given so that we can respond to his call to become children of God (CCC 1996).",
+      "hint": "The Catechism calls this help 'free and undeserved.'",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1996",
           "quote": "Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1997",
+          "quote": "Grace is a participation in the life of God."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2010",
+          "quote": "...no one can merit the initial grace of forgiveness and justification, at the beginning of conversion."
         }
       ]
     },
@@ -1492,6 +1674,11 @@
           "type": "ccc",
           "reference": "CCC 1113",
           "quote": "There are seven sacraments in the Church: Baptism, Confirmation or Chrismation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1114",
+          "quote": "...\"the sacraments of the new law were . . . all instituted by Jesus Christ our Lord.\""
         }
       ]
     },
@@ -1625,7 +1812,7 @@
       "prompt": "True or False: The Church teaches that God has bound himself to the sacraments, so that grace can never reach anyone who, through no fault of their own, has not received them.",
       "correctAnswer": false,
       "explanation": "False, and the distinction is deliberate. The Church is bound to the sacraments as the ordinary means Christ entrusted to her; God is not bound by them. That is why the Church can affirm the necessity of baptism and still hope for those who never received it.",
-      "hint": "The sentence is true of the Church but not of God — notice which one the question names.",
+      "hint": "Recall CCC 1257: God has bound salvation to Baptism, 'but he himself is not bound by his sacraments.'",
       "citations": [
         {
           "type": "ccc",
@@ -1685,6 +1872,10 @@
         {
           "type": "ccc",
           "reference": "CCC 1121"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2000"
         }
       ]
     },
@@ -1803,12 +1994,12 @@
       "difficultyElo": 1450,
       "prompt": "Why does this precise distinction matter for a believer's lived faith?",
       "choices": [
-        "Grace reaches a believer through Christ's own work, not a fallible human chain that could break",
+        "Grace reaches a believer through Christ's own work, not through the personal holiness of a fallible minister",
         "Because it means the sacraments have no real spiritual effect at all",
         "Because it means any person, ordained or not, can validly celebrate any sacrament",
         "Because it means a believer's own personal holiness plays no role in receiving grace fruitfully"
       ],
-      "correctAnswer": "Grace reaches a believer through Christ's own work, not a fallible human chain that could break",
+      "correctAnswer": "Grace reaches a believer through Christ's own work, not through the personal holiness of a fallible minister",
       "explanation": "Without this precision, a believer's own confidence in the sacraments would rest on an unverifiable chain of human worthiness. Ex opere operato anchors that confidence in Christ's own unchanging saving work instead.",
       "hint": "Consider what would happen to a believer's own trust in the sacraments without this precise teaching.",
       "citations": [
@@ -1826,7 +2017,7 @@
       "difficultyElo": 1400,
       "prompt": "True or False: Since a sacrament's validity does not depend on the minister's own personal holiness, a recipient's own disposition also makes no real difference to how fruitfully grace is received.",
       "correctAnswer": false,
-      "explanation": "False, and this is a careful second distinction -- validity (whether the sacrament truly happened) is one question; fruitfulness (how much grace a recipient receives) is another, and a recipient's own disposition genuinely affects the second, even though it cannot affect the first.",
+      "explanation": "False, and this is a careful second distinction -- validity (whether the sacrament truly happened) is one question; fruitfulness (whether and how fully its grace is received) is another. The Catechism teaches that \"...the fruits of the sacraments also depend on the disposition of the one who receives them\" (CCC 1128).",
       "hint": "Consider whether 'valid' and 'fruitfully received' are the exact same question.",
       "citations": [
         {
@@ -1843,13 +2034,13 @@
       "difficultyElo": 1450,
       "prompt": "A theological student, working through this precise distinction for the first time, worries: 'Doesn't ex opere operato make the sacraments purely mechanical, as if grace worked like a vending machine?' What is the careful answer?",
       "choices": [
-        "No -- the sacraments still need faith to bear fruit; this only secures validity against a fallible minister",
+        "No -- the sacraments still need faith to bear fruit; this only secures validity against an unworthy minister",
         "Yes -- the recipient's own faith or disposition plays no real role in the sacraments whatsoever",
         "No -- because sacraments depend entirely on the minister's own personal holiness after all",
         "Yes -- but this is presented as an advantage, since it makes personal faith entirely unnecessary"
       ],
-      "correctAnswer": "No -- the sacraments still need faith to bear fruit; this only secures validity against a fallible minister",
-      "explanation": "This is exactly the worry this precise vocabulary exists to answer carefully -- ex opere operato secures validity against a fallible human chain, without ever claiming a recipient's own faith and disposition are irrelevant to how fruitfully grace is received.",
+      "correctAnswer": "No -- the sacraments still need faith to bear fruit; this only secures validity against an unworthy minister",
+      "explanation": "This is exactly the worry this precise vocabulary exists to answer carefully -- ex opere operato secures validity independently of the minister's personal holiness, without ever claiming a recipient's own faith and disposition are irrelevant to how fruitfully grace is received.",
       "hint": "Recall the distinction between validity and fruitfulness.",
       "citations": [
         {
@@ -1893,11 +2084,11 @@
         },
         {
           "left": "Fruitfulness",
-          "right": "How much grace is received, genuinely affected by the recipient's own disposition"
+          "right": "Whether and how fully grace is received, genuinely affected by the recipient's own disposition"
         },
         {
           "left": "The Donatist controversy",
-          "right": "The historical dispute that first made this precise distinction urgently necessary"
+          "right": "The North African schism, answered by St. Augustine, over whether sinful ministers' sacraments are valid"
         }
       ],
       "explanation": "These four facts together show why the precision is not abstract hair-splitting -- a historical controversy, and a believer's own day-to-day confidence in the sacraments, both genuinely depend on getting this distinction right.",
@@ -2027,7 +2218,7 @@
         "Two gods, Father and Son, plus a divine force"
       ],
       "correctAnswer": "One God in three Persons",
-      "explanation": "Nicaea affirmed the Son's divinity in 325; the First Council of Constantinople completed the doctrine in 381 by affirming the Holy Spirit's divinity, giving the Church its full Trinitarian faith.",
+      "explanation": "Nicaea confessed the Son's divinity in 325; the First Council of Constantinople in 381 confessed the Holy Spirit's divinity, \"co-worshipped and co-glorified with Father and Son.\" These councils formulated the apostolic faith that had been at the root of the Church's life from the beginning.",
       "hint": "One God, but not one Person -- that's the heart of this doctrine.",
       "citations": [
         {
@@ -2051,7 +2242,7 @@
       "prompt": "The Apostles' Creed professes belief in 'the resurrection of the ____,' affirming that our bodies, not only our souls, will rise again.",
       "correctAnswer": "body",
       "explanation": "Catholic teaching insists that eternal life is not a disembodied existence -- at the end of time, the body itself will be raised and reunited with the soul, just as Christ's body was raised.",
-      "hint": "The Apostles' Creed's very last line is about what happens to our bodies.",
+      "hint": "Near its end, just before 'life everlasting,' the Apostles' Creed speaks of what will happen to our bodies.",
       "citations": [
         {
           "type": "ccc",
@@ -2139,7 +2330,7 @@
         },
         {
           "left": "Resurrection of the body",
-          "right": "Our bodies, not only our souls, share in eternal life"
+          "right": "All the dead will rise, their bodies reunited with their souls"
         }
       ],
       "explanation": "Each is regularly misheard. The Immaculate Conception concerns Mary's conception rather than Christ's; consubstantiality concerns substance rather than mere likeness; the resurrection concerns the body rather than the soul's survival alone.",
@@ -2152,6 +2343,18 @@
         {
           "type": "ccc",
           "reference": "CCC 467"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 997"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 998"
         }
       ]
     },
@@ -2187,7 +2390,7 @@
       "difficultyElo": 1550,
       "prompt": "True or False: The precise word 'consubstantial' was chosen mainly because it sounded more impressive, not because a real, dangerous ambiguity needed to be closed.",
       "correctAnswer": false,
-      "explanation": "False. Precise theological vocabulary is never chosen for its own sake -- it closes a dangerous ambiguity that an active error was already exploiting.",
+      "explanation": "False. \"Consubstantial\" answered a real error: Arius affirmed that the Son \"came to be from things that were not\" and was \"from another substance\" than the Father, and Nicaea confessed the Son \"of the same substance\" as the Father (CCC 465).",
       "hint": "Recall the opening example, and what specific ambiguity 'consubstantial' closed.",
       "citations": [
         {
@@ -2229,8 +2432,8 @@
       "difficultyElo": 1550,
       "prompt": "True or False: Chalcedon's four adverbs work as a single, unified safeguard, not as four unrelated rules.",
       "correctAnswer": true,
-      "explanation": "True. Together, the four adverbs form one coordinated defense of a single mystery -- Christ truly one Person in two distinct, unconfused natures -- guarding against every direction that mystery could otherwise be distorted.",
-      "hint": "Consider whether these four words guard four separate mysteries, or one single mystery from every real direction it could be distorted.",
+      "explanation": "True. Together, the four adverbs form one coordinated defense of a single mystery -- Christ truly one Person in two distinct, unconfused natures -- guarding it against distortion from both opposite sides: blending the natures or dividing the Person.",
+      "hint": "Consider whether these four words guard four separate mysteries, or one single mystery against distortion from opposite sides.",
       "citations": [
         {
           "type": "council",
@@ -2273,6 +2476,10 @@
       "explanation": "True. The same pattern shown for sacramental theology (validity not depending on the minister's holiness) shows up again for Trinitarian and Christological doctrine, under a different historical pressure.",
       "hint": "Think of how precise wording about sacramental validity protected a truth from a specific error.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
         {
           "type": "ccc",
           "reference": "CCC 467"
@@ -2387,7 +2594,7 @@
       "difficultyElo": 1625,
       "prompt": "True or False: The Catholic Church teaches that souls in purgatory are being purified before entering the joy of heaven, not punished for eternity.",
       "correctAnswer": true,
-      "explanation": "Purgatory is not a second chance at damnation but a final, temporary purification for those who die in God's friendship but still need to be cleansed before entering heaven's full joy.",
+      "explanation": "Purgatory is not a second chance at salvation: those who die in God's grace and friendship, but still imperfectly purified, are already assured of their eternal salvation and undergo a final, temporary purification before entering the joy of heaven.",
       "hint": "This isn't a punishment that never ends -- it's a preparation.",
       "citations": [
         {
@@ -2410,13 +2617,18 @@
         "Something only symbolic, with no real possibility"
       ],
       "correctAnswer": "A state of definitive self-exclusion from communion with God",
-      "explanation": "The Catechism describes hell not primarily in terms of fire, but as the state of definitive self-exclusion from communion with God and the blessed -- a possibility freely chosen, not imposed.",
+      "explanation": "The Catechism calls hell the state of definitive self-exclusion from communion with God and the blessed, the state of those who die in mortal sin without repenting. It also affirms hell's eternity and its punishments: \"The chief punishment of hell is eternal separation from God...\" (CCC 1035).",
       "hint": "This isn't primarily about fire -- it's about a choice to be separated from God.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1033",
           "quote": "This state of definitive self-exclusion from communion with God and the blessed is called \"hell.\""
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1035",
+          "quote": "The chief punishment of hell is eternal separation from God..."
         }
       ]
     },
@@ -2435,6 +2647,10 @@
           "type": "ccc",
           "reference": "CCC 1038"
         }
+      ],
+      "acceptedAnswers": [
+        "Final",
+        "General"
       ]
     },
     {
@@ -2483,8 +2699,8 @@
       "difficultyElo": 1625,
       "prompt": "True or False: The Catholic Church teaches that at the end of time our bodies remain in the grave forever while only our souls live on eternally.",
       "correctAnswer": false,
-      "explanation": "St. Paul teaches that 'the dead will be raised imperishable' -- the Church affirms the resurrection of the body, not an eternity of disembodied souls alone.",
-      "hint": "Paul writes that the dead will be raised imperishable -- bodies included.",
+      "explanation": "St. Paul teaches that \"the dead shall rise again incorruptible\" (1 Corinthians 15:52) -- the Church affirms the resurrection of the body, not an eternity of disembodied souls alone.",
+      "hint": "Paul writes that the dead shall rise again incorruptible -- bodies included.",
       "citations": [
         {
           "type": "scripture",
@@ -2502,12 +2718,12 @@
       "difficultyElo": 1675,
       "prompt": "The Church calls the life of heaven the 'beatific vision.' What does that name claim?",
       "choices": [
-        "That the blessed see God as he is, face to face, and this seeing is itself their blessedness",
+        "That the blessed see God as he is, face to face, and by this vision they are made blessed",
         "That the blessed receive a vision of the whole history of the world",
         "That the blessed enjoy every earthly good in perfected form",
         "That the blessed are absorbed into God and cease to be distinct persons"
       ],
-      "correctAnswer": "That the blessed see God as he is, face to face, and this seeing is itself their blessedness",
+      "correctAnswer": "That the blessed see God as he is, face to face, and by this vision they are made blessed",
       "explanation": "Heaven's joy is not a reward alongside God but God himself, seen directly. The persons remain themselves — this is communion, not absorption, which is what separates the Christian hope from accounts where the self dissolves.",
       "hint": "The name joins two words: seeing, and being made happy.",
       "citations": [
@@ -2544,14 +2760,18 @@
       "level": 12,
       "type": "fill_blank",
       "difficultyElo": 1735,
-      "prompt": "The Catechism describes heaven as the perfect life of ____ with the Trinity and with all the blessed — a shared life, not a solitary reward.",
+      "prompt": "The Catechism describes heaven as 'this ____ of life and love with the Trinity, with the Virgin Mary, the angels and all the blessed' -- a shared life, not a solitary reward.",
       "correctAnswer": "communion",
-      "explanation": "Heaven is relational the whole way down. The saints are not each privately content; the blessedness is shared, which is why the communion of saints and the hope of heaven are ultimately the same doctrine.",
+      "explanation": "Heaven is relational the whole way down. The saints are not each privately content; the blessedness is shared, for heaven is 'the blessed community of all who are perfectly incorporated into Christ' (CCC 1026).",
       "hint": "The word also names the bond between the living and the dead in Christ.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1024"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1026"
         }
       ]
     },
@@ -2580,8 +2800,8 @@
           "right": "At the end of time, the resurrection of all and the revealing of all"
         }
       ],
-      "explanation": "Two of these happen to an individual, two at the end of history. Hell's definition matters most: the Church describes it as self-exclusion, which locates the cause in a creature's refusal rather than in God's withholding.",
-      "hint": "Two are personal and immediate; two are universal and final.",
+      "explanation": "Three of these concern each soul after death; the Last Judgment comes at the end of time for all. Hell's definition matters most: the Church describes it as self-exclusion, which locates the cause in a creature's refusal rather than in God's withholding.",
+      "hint": "Three concern each soul after death; one concerns all humanity at the end of time.",
       "citations": [
         {
           "type": "ccc",
@@ -2589,7 +2809,19 @@
         },
         {
           "type": "ccc",
+          "reference": "CCC 1030"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1033"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1038"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1039"
         }
       ]
     },
@@ -2599,7 +2831,7 @@
       "level": 13,
       "type": "multiple_choice",
       "difficultyElo": 1750,
-      "prompt": "The particular judgment, purgatory, heaven, and hell are the Last Things. What practical difference does believing in these Last Things make in how a Catholic lives now?",
+      "prompt": "Death, judgment, heaven, and hell are traditionally called the Four Last Things. What practical difference does believing in these Last Things make in how a Catholic lives now?",
       "choices": [
         "Gives present choices ultimate weight, since this life is oriented toward a final destiny",
         "It makes present choices meaningless, since everything will be settled anyway regardless of what a person does",
@@ -2629,7 +2861,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1024"
+          "reference": "CCC 1049",
+          "quote": "Far from diminishing our concern to develop this earth, the expectancy of a new earth should spur us on..."
         }
       ]
     },
@@ -2664,12 +2897,21 @@
       "difficultyElo": 1700,
       "prompt": "True or False: Because souls in purgatory are already assured of salvation, praying for the dead is a pointless, empty gesture with no real effect.",
       "correctAnswer": false,
-      "explanation": "False. Precisely because purgatory is a process of purification rather than a closed, settled matter, the Church has always taught that prayer for the dead genuinely helps them -- a practical consequence of the teaching.",
+      "explanation": "False. Souls in purgatory are assured of salvation but are still being purified. 'From the beginning the Church has honored the memory of the dead and offered prayers in suffrage for them' (CCC 1032), and our prayer for them is capable of helping them (CCC 958).",
       "hint": "Consider what follows for prayer once purgatory is understood as a process, not simply a waiting room.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1030"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1032"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 958",
+          "quote": "Our prayer for them is capable not only of helping them, but also of making their intercession for us effective."
         }
       ]
     },
@@ -2693,6 +2935,10 @@
         {
           "type": "ccc",
           "reference": "CCC 847"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 848"
         }
       ]
     },
@@ -2735,6 +2981,15 @@
           "type": "ccc",
           "reference": "CCC 988",
           "quote": "...culminates in the proclamation of the resurrection of the dead on the last day and in life everlasting."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the \"form\" of the body..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 990"
         }
       ]
     },
@@ -2752,7 +3007,7 @@
         },
         {
           "left": "Purgatory's own certainty",
-          "right": "Already assured of salvation, so prayer for the dead genuinely helps rather than doing nothing"
+          "right": "Assured of salvation yet still being purified, so prayer for the dead genuinely helps them"
         },
         {
           "left": "Salvation for those beyond the Gospel's reach",
@@ -2770,6 +3025,34 @@
           "type": "ccc",
           "reference": "CCC 988",
           "quote": "...culminates in the proclamation of the resurrection of the dead on the last day and in life everlasting."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1021"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1030"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1032"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 847"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 848"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 365"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 990"
         }
       ]
     },
@@ -2827,14 +3110,23 @@
       "level": 14,
       "type": "true_false",
       "difficultyElo": 1775,
-      "prompt": "True or False: Every teaching a Pope issues, regardless of its form or stated intent, carries the same level of infallible authority as an ex cathedra definition like Pastor Aeternus.",
+      "prompt": "True or False: Every teaching a Pope issues, regardless of its form or stated intent, carries the same level of infallible authority as an ex cathedra definition such as Pius XII's 1950 definition of the Assumption.",
       "correctAnswer": false,
-      "explanation": "CCC 891-892 distinguishes several degrees of magisterial authority: ex cathedra definitions (with the precise conditions Pastor Aeternus itself specifies), the ordinary and universal magisterium exercised by the bishops in union with the Pope teaching a doctrine definitively, and authoritative but non-infallible teaching that calls for religious submission of intellect and will without claiming the same certainty. Not every papal statement carries the same weight.",
+      "explanation": "False. CCC 891-892, following Lumen Gentium 25, distinguish the infallible exercise of the supreme Magisterium from teaching proposed without an infallible definition. The infallible exercise is the Pope proclaiming by a definitive act a doctrine of faith or morals (ex cathedra, under the conditions Pastor Aeternus specifies), or the bishops together with him. When a Pope teaches in the ordinary Magisterium without arriving at an infallible definition, the faithful are to adhere to it with religious assent. Not every papal statement carries the same weight.",
       "hint": "Pastor Aeternus itself specifies precise conditions for its highest level of authority -- not every papal statement meets them.",
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 891"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 892"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 25",
+          "quote": "This religious submission of mind and will must be shown in a special way to the authentic magisterium of the Roman Pontiff, even when he is not speaking ex cathedra"
         }
       ]
     },
@@ -2867,21 +3159,26 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "Lumen Gentium 8 teaches that the Church of Christ 'subsists in' (subsistit in) the Catholic Church. What did this formulation, adopted at Vatican II, actually change and not change?",
+      "prompt": "Lumen Gentium 8 teaches that the Church of Christ 'subsists in' (subsistit in) the Catholic Church. What does this formulation, adopted at Vatican II, affirm?",
       "choices": [
-        "It maintained that the fullness of the Church of Christ is found in the Catholic Church, while newly acknowledging that elements of sanctification and truth exist outside her visible structure, in other Christian communities",
+        "It affirms the full identity of the Church of Christ with the Catholic Church, while bringing out more clearly that elements of sanctification and truth exist outside her visible structure, in other Christian communities",
         "It declared that all Christian denominations are now equally the one true Church with no distinction",
         "It reversed the Church's claim to be the Church Christ founded",
         "It applies only to Eastern Orthodox Christians, not to Protestant communities"
       ],
-      "correctAnswer": "It maintained that the fullness of the Church of Christ is found in the Catholic Church, while newly acknowledging that elements of sanctification and truth exist outside her visible structure, in other Christian communities",
-      "explanation": "'Subsistit in' replaced an earlier draft's 'est' (simply 'is') specifically to acknowledge that genuine elements of sanctification and truth -- valid baptism, Scripture, elements of grace -- exist in other Christian communities, while still teaching that the Church of Christ, in its fullness, subsists uniquely in the Catholic Church, governed by the Pope and bishops in communion with him.",
+      "correctAnswer": "It affirms the full identity of the Church of Christ with the Catholic Church, while bringing out more clearly that elements of sanctification and truth exist outside her visible structure, in other Christian communities",
+      "explanation": "'Subsistit in' was adopted instead of the simple word 'is'. As the CDF explained in 2007, it 'does not change the doctrine on the Church.' It indicates the full identity of the Church of Christ with the Catholic Church, governed by the successor of Peter and the bishops in communion with him. It also brings out more clearly that 'numerous elements of sanctification and of truth', such as Baptism and the Scriptures, are found outside her structure.",
       "hint": "This wording change acknowledges elements elsewhere without giving up the claim to fullness in one place.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 8",
           "quote": "This Church constituted and organized in the world as a society, subsists in the Catholic Church, which is governed by the successor of Peter and by the Bishops in communion with him"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "CDF, Responses to Some Questions Regarding Certain Aspects of the Doctrine on the Church (2007), Third Question",
+          "quote": "The use of this expression, which indicates the full identity of the Church of Christ with the Catholic Church, does not change the doctrine on the Church."
         }
       ]
     },
@@ -2911,7 +3208,7 @@
         }
       ],
       "explanation": "Each of these terms opens the subject of ecclesiology -- but every term is wired directly to the specific conciliar text that motivates it, not handed over as an inert definition.",
-      "hint": "Three of these four are direct quotations or close paraphrases of specific Lumen Gentium articles.",
+      "hint": "Each row names the Lumen Gentium article where its term is taught.",
       "citations": [
         {
           "type": "council",
@@ -3016,6 +3313,15 @@
           "reference": "Second Vatican Council, Lumen Gentium 8"
         },
         {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 25",
+          "quote": "...they are in agreement on one position as definitively to be held."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        },
+        {
           "type": "ccc",
           "reference": "CCC 90"
         }
@@ -3053,7 +3359,7 @@
       "difficultyElo": 1850,
       "prompt": "True or False: Papal infallibility means the Pope is personally free from sin.",
       "correctAnswer": false,
-      "explanation": "False, and this is one of the most common, real misunderstandings of this doctrine -- infallibility concerns a specific, narrow protection from teaching error under precise conditions, not personal sinlessness, which no Pope has ever claimed for himself.",
+      "explanation": "False, and this is one of the most common misunderstandings of this doctrine. Infallibility is a specific, narrow protection from error in teaching under precise conditions, not personal sinlessness.",
       "hint": "Consider the difference between being protected from teaching a doctrinal error, and being personally without sin.",
       "citations": [
         {
@@ -3069,15 +3375,15 @@
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 1900,
-      "prompt": "Pope Honorius I was a pope whose private letters on a Christological question were later judged mistaken. Why does this episode not threaten papal infallibility?",
+      "prompt": "Pope Honorius I wrote letters on a Christological question that were later judged mistaken. Why does this episode not threaten papal infallibility?",
       "choices": [
-        "Honorius's letters were private, never a solemn definitive act -- outside infallibility's narrow scope",
+        "Honorius's letters defined nothing to be held by the whole Church -- never an ex cathedra act, so outside infallibility's narrow scope",
         "Because the whole episode was later proven never to have happened at all",
         "Because infallibility was not yet a real Church teaching at the time Honorius lived",
         "Because Honorius's letters were, in fact, later judged completely correct after all"
       ],
-      "correctAnswer": "Honorius's letters were private, never a solemn definitive act -- outside infallibility's narrow scope",
-      "explanation": "This historical episode is exactly why the precise conditions matter so much -- Honorius's error occurred in private letters, never in a solemn ex cathedra definition, so it falls entirely outside infallibility's own narrow scope rather than contradicting it.",
+      "correctAnswer": "Honorius's letters defined nothing to be held by the whole Church -- never an ex cathedra act, so outside infallibility's narrow scope",
+      "explanation": "Honorius's letter to Patriarch Sergius was an official reply to a formal consultation, not a private letter. But it did not define or condemn anything, and it did not bind the Church to accept its teaching. So it was never an ex cathedra definition, and the episode falls outside infallibility's narrow scope rather than contradicting it.",
       "hint": "Recall the precise conditions for papal infallibility: a solemn, ex cathedra definition.",
       "citations": [
         {
@@ -3144,6 +3450,14 @@
           "type": "ccc",
           "reference": "CCC 891",
           "quote": "...he proclaims by a definitive act a doctrine pertaining to faith or morals."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 251"
         }
       ]
     },
@@ -3165,7 +3479,7 @@
         },
         {
           "left": "Pope Honorius I's letters",
-          "right": "Private correspondence, never a solemn definitive act -- outside infallibility's own scope"
+          "right": "An official reply that defined nothing -- never a solemn definitive act, so outside infallibility's own scope"
         },
         {
           "left": "Why the narrowness matters",
@@ -3220,8 +3534,8 @@
         "It leaves open whether Mary was assumed into heaven at all"
       ],
       "correctAnswer": "It defines that Mary, at the end of her earthly life, was assumed body and soul into heavenly glory, while leaving open the question of whether she died before this assumption",
-      "explanation": "Munificentissimus Deus carefully defines the fact of the Assumption -- body and soul into heavenly glory at the end of her earthly life -- while deliberately not settling the separate question of whether Mary underwent death before being assumed, a point the document leaves open rather than defining either way.",
-      "hint": "The bull is precise about what happened at the end of her life, but deliberately silent on one specific detail of how it happened.",
+      "explanation": "Munificentissimus Deus carefully defines the fact of the Assumption -- body and soul into heavenly glory at the end of her earthly life -- while not settling the separate question of whether Mary underwent death before being assumed, a point the definition leaves open rather than defining either way.",
+      "hint": "The definition is precise about what happened at the end of her earthly life, but does not define one specific detail of how that life ended.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -3244,13 +3558,18 @@
         "Kneeling before any physical object is always idolatry regardless of what it represents"
       ],
       "correctAnswer": "This is hyperdulia -- a unique degree of honor given to Mary above other saints, but categorically distinct from latria, the worship reserved to God alone, which this act does not offer to the statue or to Mary herself",
-      "explanation": "The Church distinguishes dulia (honor given to saints), hyperdulia (a unique, higher degree of honor given specifically to Mary because of her unique role), and latria (worship reserved to God alone). Kneeling before a statue while asking Mary's intercession honors her as a creature uniquely graced by God, categorically different from the worship due to God alone -- the statue itself is not the object of the honor, but a visual aid directing it to the person represented.",
+      "explanation": "The Church distinguishes dulia (honor given to saints), hyperdulia (a unique, higher degree of honor given specifically to Mary because of her unique role), and latria (worship reserved to God alone). Kneeling before a statue while asking Mary's intercession honors her as a creature uniquely graced by God, categorically different from the worship due to God alone. The honor paid to the statue is not directed to it as a mere thing but passes to the person it portrays (CCC 2132).",
       "hint": "The key distinction is a difference in kind (honor vs. worship), not merely a difference in intensity.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 971",
-          "quote": "\"All generations will call me blessed\": \"The Church's devotion to the Blessed Virgin is intrinsic to Christian worship.\""
+          "quote": "...differs essentially from the adoration which is given to the incarnate Word and equally to the Father and the Holy Spirit"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2132",
+          "quote": "\"the honor rendered to an image passes to its prototype,\" and \"whoever venerates an image venerates the person portrayed in it.\""
         }
       ]
     },
@@ -3260,11 +3579,16 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 1925,
-      "prompt": "True or False: Lumen Gentium 62 teaches that Mary's role as mediatrix in no way obscures or diminishes the unique mediation of Christ, but rather shows its power -- meaning the Church does not teach that Catholics worship Mary as a rival or replacement mediator to Christ.",
+      "prompt": "True or False: Lumen Gentium 60 teaches that Mary's maternal duty toward men in no way obscures or diminishes the unique mediation of Christ, but rather shows his power -- meaning the Church does not teach that Catholics worship Mary as a rival or replacement mediator to Christ.",
       "correctAnswer": true,
-      "explanation": "LG 62 explicitly and carefully qualifies any language about Mary's intercessory role: her maternal role in no way obscures or diminishes Christ's unique mediation, but rather flows from it and shows its power, since all of Mary's influence on behalf of the faithful originates from Christ's own superabundant merits and depends entirely on it -- precisely the opposite of a rival mediation competing with Christ's.",
+      "explanation": "LG 60 teaches that Mary's maternal duty toward men in no wise obscures or diminishes Christ's unique mediation but rather shows his power, since all her salvific influence 'flows forth from the superabundance of the merits of Christ, rests on His mediation, depends entirely on it.' LG 62 adds that her title of Mediatrix 'neither takes away from nor adds anything to the dignity and efficaciousness of Christ the one Mediator.' This is the opposite of a rival mediation competing with Christ's.",
       "hint": "Mary's influence on behalf of the faithful is described as flowing entirely from Christ's own merits, not as a separate power alongside his.",
       "citations": [
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60",
+          "quote": "The maternal duty of Mary toward men in no wise obscures or diminishes this unique mediation of Christ, but rather shows His power."
+        },
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 62",
@@ -3280,19 +3604,24 @@
       "difficultyElo": 1975,
       "prompt": "A restated Reformation-era objection claims indulgences mean the Church sells forgiveness for money. Using CCC 1471-1479's actual terms, what is the accurate response?",
       "choices": [
-        "An indulgence remits the temporal punishment still due for sins already forgiven through confession, and current Church law and practice do not permit indulgences to be tied to a monetary payment",
+        "An indulgence remits the temporal punishment due to sins whose guilt has already been forgiven; it does not forgive sins, and forgiveness cannot be bought",
         "The Church agrees indulgences are exactly a payment made to purchase forgiveness of sins",
         "Indulgences have been entirely abolished and no longer exist in any form",
         "An indulgence forgives sins that have not yet been confessed or repented of"
       ],
-      "correctAnswer": "An indulgence remits the temporal punishment still due for sins already forgiven through confession, and current Church law and practice do not permit indulgences to be tied to a monetary payment",
-      "explanation": "CCC 1471-1479 defines an indulgence as the remission of the temporal punishment due for sins whose guilt has already been forgiven -- distinguishing plenary (full) from partial indulgences -- and current discipline does not permit indulgences to be obtained through a monetary payment, addressing directly the historical abuse the Reformation-era objection is based on.",
-      "hint": "This objection is based on a historical abuse, but current Church teaching and discipline explicitly address exactly that abuse.",
+      "correctAnswer": "An indulgence remits the temporal punishment due to sins whose guilt has already been forgiven; it does not forgive sins, and forgiveness cannot be bought",
+      "explanation": "CCC 1471 defines an indulgence as 'a remission before God of the temporal punishment due to sins whose guilt has already been forgiven,' and distinguishes partial from plenary indulgences. An indulgence presupposes forgiveness rather than granting it. Spiritual goods cannot be bought: buying or selling spiritual things is simony, and 'one can receive them only from him, without payment' (CCC 2121). The objection rests on historical abuses, not on what an indulgence is.",
+      "hint": "This objection is based on a historical abuse; the Church's teaching on what an indulgence is, and on simony, answers it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1471",
           "quote": "An indulgence is a remission before God of the temporal punishment due to sins whose guilt has already been forgiven..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2121",
+          "quote": "Simony is defined as the buying or selling of spiritual things."
         }
       ]
     },
@@ -3318,7 +3647,7 @@
         },
         {
           "left": "'Catholics believe Mary is a rival mediator to Christ'",
-          "right": "LG 62: her role flows from and depends entirely on Christ's own unique mediation"
+          "right": "LG 60: her role flows from and depends entirely on Christ's own unique mediation"
         }
       ],
       "explanation": "Each of these defenses draws on a precisely worded magisterial source rather than a general assertion that the objector is simply wrong -- the same discipline that defends every dogma.",
@@ -3339,14 +3668,14 @@
       "difficultyElo": 1975,
       "prompt": "An objector cites the 'brothers of the Lord' in the Gospels against Mary's perpetual virginity. What is the Church's response?",
       "choices": [
-        "The term renders a Semitic usage covering close kin generally, and the Church has always read it that way",
+        "They are close relations of Jesus, called 'brothers' by an Old Testament expression, not other children of the Virgin Mary",
         "The passages are late additions to the text",
         "The Church concedes the point and treats the doctrine as optional",
         "The brothers are understood as Joseph's children by Mary"
       ],
-      "correctAnswer": "The term renders a Semitic usage covering close kin generally, and the Church has always read it that way",
-      "explanation": "Hebrew and Aramaic lacked a distinct word for cousin, so 'brother' covers a wider range of kinship than the English word. This is not a later rescue of an awkward text; it is how the Church has read those passages from the beginning.",
-      "hint": "The question is what the underlying language could and could not distinguish.",
+      "correctAnswer": "They are close relations of Jesus, called 'brothers' by an Old Testament expression, not other children of the Virgin Mary",
+      "explanation": "'The Church has always understood these passages as not referring to other children of the Virgin Mary' (CCC 500). James and Joseph, called 'brothers of Jesus,' are sons of another Mary. The 'brothers' are 'close relations of Jesus, according to an Old Testament expression', as when Abram says to his nephew Lot, 'we are brethren' (Genesis 13:8).",
+      "hint": "Recall how the Old Testament uses 'brother' for relatives, as Abram does of his nephew Lot.",
       "citations": [
         {
           "type": "ccc",
@@ -3394,6 +3723,10 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 80"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 82"
         },
         {
@@ -3432,11 +3765,19 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 492"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 971"
         },
         {
           "type": "ccc",
           "reference": "CCC 1471"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 60"
         },
         {
           "type": "council",
@@ -3476,7 +3817,7 @@
       "difficultyElo": 2000,
       "prompt": "True or False: The Church teaches that devotion to Mary is 'intrinsic to Christian worship' -- a real, integral part of it, not a later, optional addition.",
       "correctAnswer": true,
-      "explanation": "True. The Catechism describes devotion to Mary as intrinsic to Christian worship, echoing Mary's own words in the Magnificat -- 'all generations will call me blessed' -- not a later, separable addition to genuine Christian faith.",
+      "explanation": "True. The Catechism teaches that 'The Church's devotion to the Blessed Virgin is intrinsic to Christian worship' (CCC 971), linking it to Mary's own words in the Magnificat: 'all generations shall call me blessed' (Luke 1:48). It is not a later, separable addition to genuine Christian faith.",
       "hint": "Recall Mary's own words in the Magnificat about how future generations would speak of her.",
       "citations": [
         {
@@ -3494,12 +3835,12 @@
       "difficultyElo": 2050,
       "prompt": "An objector asks: 'Isn't calling Mary the Mother of God (Theotokos) a Marian exaltation that goes too far?' What does the historical record show about why this title was defined?",
       "choices": [
-        "Ephesus defined it chiefly to protect a truth about Christ's own divinity, not to exalt Mary for her own sake",
+        "Ephesus defined it chiefly to protect a truth about Christ -- that the one born of Mary is the divine Word in person -- not to exalt Mary for her own sake",
         "The title was invented centuries later, purely as an act of Marian devotion with no real Christological content",
         "The title was formally rejected by every council that ever addressed it",
         "The title has no connection to anything in the councils or the heresies"
       ],
-      "correctAnswer": "Ephesus defined it chiefly to protect a truth about Christ's own divinity, not to exalt Mary for her own sake",
+      "correctAnswer": "Ephesus defined it chiefly to protect a truth about Christ -- that the one born of Mary is the divine Word in person -- not to exalt Mary for her own sake",
       "explanation": "This is an important reframing -- Theotokos was defined at Ephesus against Nestorius's own error, precisely to protect a truth about Christ's own unity of Person, not chiefly as an honor for Mary's own sake, even though it is that too.",
       "hint": "Recall the Nestorian controversy, and consider what was really at stake in that dispute.",
       "citations": [
@@ -3549,6 +3890,14 @@
           "type": "ccc",
           "reference": "CCC 971",
           "quote": "\"All generations will call me blessed\": \"The Church's devotion to the Blessed Virgin is intrinsic to Christian worship.\""
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 66"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 250"
         }
       ]
     },
@@ -3560,13 +3909,16 @@
       "difficultyElo": 2000,
       "prompt": "True or False: The pattern behind Marian doctrine's development -- present from the beginning, made explicit under historical pressure -- is unique to Mary among Catholic doctrines.",
       "correctAnswer": false,
-      "explanation": "False. This is the same pattern seen in Trinitarian vocabulary, sacramental precision, and papal infallibility's limits, not something unique to Marian doctrine.",
+      "explanation": "False. The same pattern appears elsewhere -- for example, the Church clarified her Trinitarian faith in the first centuries 'to defend it against the errors that were deforming it' (CCC 250). Revelation is complete, but 'it has not been made completely explicit' (CCC 66).",
       "hint": "Think of how doctrines like the Trinity developed under historical pressure.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 62",
-          "quote": "... This, however, is to be so understood that it neither takes away from nor adds anything to the dignity and efficaciousness of Christ the one Mediator. For no creature could ever be counted as equal with the Incarnate Word and Redeemer."
+          "type": "ccc",
+          "reference": "CCC 66"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 250"
         }
       ]
     },
@@ -3584,7 +3936,7 @@
         },
         {
           "left": "\"Theotokos exalts Mary too far\"",
-          "right": "Defined chiefly to protect a truth about Christ's own divinity, with a secondary implication for Mary"
+          "right": "Defined chiefly to protect a truth about Christ's one divine Person, with a secondary implication for Mary"
         },
         {
           "left": "\"Some early communities emphasized it less\"",
@@ -3624,8 +3976,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 971",
-          "quote": "\"All generations will call me blessed\": \"The Church's devotion to the Blessed Virgin is intrinsic to Christian worship.\""
+          "reference": "CCC 2478"
         }
       ]
     },
@@ -3643,7 +3994,7 @@
         "The sacrament is valid, and automatically benefits any recipient regardless of that recipient's own disposition"
       ],
       "correctAnswer": "The sacrament is still valid ex opere operato (by the work worked -- Christ's own action through the rite, not the minister's holiness), but its fruitfulness for the recipient (ex opere operantis) depends on the recipient's own disposition -- an unrepentant recipient receives Christ truly present, but to no spiritual benefit, indeed to their own judgment",
-      "explanation": "This is exactly the distinction Trent settled against Donatism and against Protestant objections that a corrupt minister's sin could void a sacrament: validity flows from Christ's own action through the rite (ex opere operato), not from the minister's or even the recipient's holiness -- but genuine spiritual fruit still depends on the recipient's disposition (ex opere operantis), which is why St. Paul warns of eating and drinking judgment on oneself.",
+      "explanation": "This is the distinction St. Augustine defended against the Donatists and the Council of Trent solemnly reaffirmed (Session 7, Canons 8 and 12): validity flows from Christ's own action through the rite (ex opere operato), not from the minister's or even the recipient's holiness -- but genuine spiritual fruit still depends on the recipient's disposition (ex opere operantis), which is why St. Paul warns that he who eats unworthily 'eateth and drinketh judgment to himself' (1 Corinthians 11:29).",
       "hint": "Separate the question 'did it really happen' from the question 'did it do the recipient any good.'",
       "citations": [
         {
@@ -3662,31 +4013,35 @@
       "level": 18,
       "type": "matching_pairs",
       "difficultyElo": 2165,
-      "prompt": "Match each scenario to the kind of grace primarily at work in it.",
+      "prompt": "Match each description to the kind of grace the Catechism names for it.",
       "pairs": [
         {
-          "left": "A baptized person in a state of grace, sharing in the divine life itself",
-          "right": "Sanctifying grace -- a stable, abiding participation in God's own life"
+          "left": "A habitual gift, a stable and supernatural disposition that perfects the soul itself",
+          "right": "Sanctifying grace"
         },
         {
-          "left": "A momentary interior prompting that moves someone to consider returning to the sacraments",
-          "right": "Actual grace -- a passing divine help for a particular act"
+          "left": "God's interventions, whether at the beginning of conversion or in the course of sanctification",
+          "right": "Actual graces"
         },
         {
-          "left": "The grace remaining in a soul between one good act and the next",
-          "right": "Sanctifying grace -- it is a state, not a single event"
+          "left": "Gifts proper to the different sacraments",
+          "right": "Sacramental graces"
         },
         {
-          "left": "The grace that first moves an unbeliever's will toward seeking baptism",
-          "right": "Actual grace -- a transient impulse enabling a particular movement toward God"
+          "left": "Special graces, sometimes extraordinary like miracles or tongues, intended for the common good of the Church",
+          "right": "Charisms"
         }
       ],
-      "explanation": "Sanctifying grace is a lasting share in divine life a soul possesses or lacks at a given moment; actual grace is God's momentary help for a particular act. Confusing the two is a common source of error -- expecting sanctifying grace to feel like a series of dramatic promptings, or mistaking a passing actual grace for the permanent state of justification.",
-      "hint": "One is a lasting state you're either in or not; the other is a passing nudge toward a particular act.",
+      "explanation": "The Catechism distinguishes these carefully. Sanctifying grace is 'an habitual gift, a stable and supernatural disposition that perfects the soul itself' (CCC 2000); actual graces are God's interventions for conversion and sanctification (CCC 2000). Sacramental graces are 'gifts proper to the different sacraments', and charisms 'are intended for the common good of the Church' (CCC 2003).",
+      "hint": "One is a lasting state, one is a passing divine help, and two are further gifts the Catechism names: one tied to the sacraments, one to building up the Church.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2000"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2003"
         }
       ]
     },
@@ -3704,7 +4059,7 @@
         "The Church denies that any merit is possible for a creature under any circumstances"
       ],
       "correctAnswer": "The merit is real, but its whole possibility rests on grace already given -- a person merits strictly as an adopted child already united to Christ by grace, so the merit itself is, at its root, God's own gift returning to God, not an achievement independent of grace",
-      "explanation": "CCC 2011 states this precisely: 'the merit of good works is to be attributed in the first place to the grace of God, then to the faithful.' Merit de condigno (strict proportionate merit) is possible only because grace already establishes the relationship in which it can occur -- which is exactly what keeps this from becoming Pelagianism.",
+      "explanation": "CCC 2008 states this precisely: 'the merit of good works is to be attributed in the first place to the grace of God, then to the faithful.' Merit de condigno is possible only because grace already establishes the relationship in which it can occur -- which is exactly what keeps this from becoming Pelagianism.",
       "hint": "The Catechism explicitly names WHO gets credit first, before crediting the person's own cooperation.",
       "citations": [
         {
@@ -3719,7 +4074,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "Trent's Canon 9 anathematizes reducing justifying faith to bare confidence with no cooperation. What remains a live, Church-permitted internal question, even after Trent, about exactly HOW grace and human free will cooperate?",
+      "prompt": "Trent (Session 6, Canons 9 and 12) anathematizes reducing justifying faith to bare confidence with no cooperation. What remains a live, Church-permitted internal question, even after Trent, about exactly HOW grace and human free will cooperate?",
       "choices": [
         "Whether grace moves the will by a prior, efficacious 'physical premotion' that then makes free cooperation certain (the Bañezian/Thomist account), or whether grace is efficacious because God foresees how a truly free will would freely respond to it (the Molinist/congruist account) -- a real dispute Rome has left open between two schools, condemning neither",
         "Whether grace is necessary for salvation at all",
@@ -3736,8 +4091,8 @@
         },
         {
           "type": "magisterial_document",
-          "reference": "Paul V, decree ending the Congregatio de Auxiliis (1607)",
-          "note": "For the technical detail of each school's account, standard secondary syntheses (e.g. Garrigou-Lagrange's work on grace) are the usual reference, since the primary conciliar documents involved remain untranslated scholastic Latin."
+          "reference": "Paul V, formula ending the disputes de auxiliis (5 September 1607)",
+          "note": "English translation in Denzinger (Deferrari), no. 1090."
         }
       ]
     },
@@ -3768,7 +4123,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "Semi-Pelagianism holds that a person can take the first step toward God by their own natural power, with grace only assisting afterward. Precisely where does this depart from the Augustinian-Thomist consensus Trent and Orange both defend?",
+      "prompt": "Semi-Pelagianism holds that a person can take the first step toward God by their own natural power, with grace only assisting afterward. Precisely where does this depart from the Catholic teaching that Orange and Trent both defend?",
       "choices": [
         "It denies that even the very first movement of the will toward God -- the beginning of faith itself -- requires grace, placing the initiative with unaided human nature rather than with God's prior initiative",
         "It denies that grace is needed at any point in the Christian life",
@@ -3795,11 +4150,15 @@
       "level": 18,
       "type": "fill_blank",
       "difficultyElo": 2185,
-      "prompt": "The Catechism describes justification as detaching us from sin, which is contrary to the love of God, and _____ the interior man through sanctifying grace -- the same grace that also enables real, if grace-dependent, merit.",
-      "correctAnswer": "purifying",
-      "explanation": "CCC 1989's language ties purification and merit together in a single movement: justification is not merely a legal declaration but an interior renewal, which is precisely why merit that follows it is a fruit of a change, not a courtroom fiction.",
-      "hint": "The word describes what justification does to the interior man, alongside detaching him from sin.",
+      "prompt": "The Catechism teaches: 'Justification detaches man from sin which contradicts the love of God, and _____ his heart of sin.'",
+      "correctAnswer": "purifies",
+      "explanation": "CCC 1990 uses this word: justification is not merely a legal declaration but a real interior change. As CCC 1989 puts it, it is 'not only the remission of sins, but also the sanctification and renewal of the interior man.'",
+      "hint": "The word describes what justification does to man's heart, alongside detaching him from sin.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1990"
+        },
         {
           "type": "ccc",
           "reference": "CCC 1989"
@@ -3825,7 +4184,7 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Trent, Session 6, Canon 9 (1547)"
+          "reference": "Council of Trent, Session 6, Canons 9 and 12 (1547)"
         },
         {
           "type": "ccc",
@@ -3864,12 +4223,12 @@
       "difficultyElo": 2125,
       "prompt": "A sacrament's validity (ex opere operato), a soul's sanctifying grace, and a soul's merit are three distinct theological categories. What single thread connects all three, and keeps all three from collapsing into either Pelagianism or a faith-alone-with-no-real-interior-change account?",
       "choices": [
-        "In each case, grace has the effective priority -- the sacrament works by Christ's action, sanctifying grace is a state grace alone establishes, and merit is grace's own fruit through free cooperation -- so an interior change always precedes and grounds whatever a person then genuinely does or receives",
+        "In each case, grace has the priority -- the sacrament works by Christ's action, sanctifying grace is God's gift that truly renews the soul, and merit is grace's own fruit through free cooperation -- so God's initiative always comes first, while the free human response it makes possible is real",
         "Nothing connects the three categories; they are unrelated technical terms",
         "All three are simply different words for the exact same single reality with no distinctions at all",
         "Human effort alone accounts for all three, with grace playing only a minor supporting role"
       ],
-      "correctAnswer": "In each case, grace has the effective priority -- the sacrament works by Christ's action, sanctifying grace is a state grace alone establishes, and merit is grace's own fruit through free cooperation -- so an interior change always precedes and grounds whatever a person then genuinely does or receives",
+      "correctAnswer": "In each case, grace has the priority -- the sacrament works by Christ's action, sanctifying grace is God's gift that truly renews the soul, and merit is grace's own fruit through free cooperation -- so God's initiative always comes first, while the free human response it makes possible is real",
       "explanation": "This is the capstone point: three distinct technical vocabularies (sacramental causality, grace, merit) all encode the same underlying commitment Trent, Orange, and the Catechism share -- grace goes first, and it is enough to change the soul, not merely to cover over an unchanged one.",
       "hint": "Look for the answer that keeps grace's priority in all three cases, while still leaving room for a human response.",
       "citations": [
@@ -3878,8 +4237,16 @@
           "reference": "CCC 2001"
         },
         {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
           "type": "council",
           "reference": "Council of Trent, Session 6 (1547)"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 7, Canon 8 (1547)"
         }
       ]
     },
@@ -3889,7 +4256,7 @@
       "level": 19,
       "type": "multiple_choice",
       "difficultyElo": 2200,
-      "prompt": "Congruism and Bañezianism represent two schools of thought over how grace and free will cooperate. How did the Church resolve this specific dispute between them?",
+      "prompt": "Molinism (whose later development is called congruism) and Bañezianism represent two schools of thought over how grace and free will cooperate. How did the Holy See handle the dispute between them?",
       "choices": [
         "Paul V ended the Congregatio de Auxiliis in 1607 without condemning either school",
         "The Church formally condemned both schools as heretical",
@@ -3897,7 +4264,7 @@
         "The debate was never addressed by any Church authority"
       ],
       "correctAnswer": "Paul V ended the Congregatio de Auxiliis in 1607 without condemning either school",
-      "explanation": "This is a precise historical fact worth knowing directly -- after years of investigation, the Holy See closed this specific debate without declaring either side heretical, permitting Catholics to hold either position in good conscience.",
+      "explanation": "This is a precise historical fact worth knowing directly -- after years of investigation, Paul V's decision (communicated 5 September 1607) allowed each side to defend its own doctrine, forbade each to censure the opposite opinion, and reserved the final decision to the Apostolic See. Neither side was declared heretical, so Catholics may hold either position in good conscience.",
       "hint": "Recall the real mention of a decree that ended this specific investigation.",
       "citations": [
         {
@@ -3998,6 +4365,10 @@
       "hint": "Recall what Jansenism actually denied versus what congruism and Bañezianism both still affirm.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "Innocent X, Cum occasione (31 May 1653)"
+        },
+        {
           "type": "ccc",
           "reference": "CCC 2001"
         }
@@ -4013,7 +4384,7 @@
       "pairs": [
         {
           "left": "The 1607 decree",
-          "right": "Ended a real investigation without condemning either congruism or Bañezianism"
+          "right": "Ended a real investigation without condemning either the Jesuit (Molinist) or the Dominican (Bañezian) position"
         },
         {
           "left": "A permitted debate",
@@ -4106,7 +4477,11 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Veritatis Splendor, n. 75-77 (1993)"
+          "reference": "John Paul II, Veritatis Splendor, n. 75-79 (1993)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1753"
         },
         {
           "type": "ccc",
@@ -4224,6 +4599,10 @@
       "hint": "Ask whether the TRUTH of the principle is in question, or just the best PRACTICAL way to walk someone toward living it.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
+        },
+        {
           "type": "ccc",
           "reference": "CCC 1783-1785"
         }
@@ -4243,7 +4622,7 @@
         "The Church has no teaching on how object, intention, and circumstances relate to one another"
       ],
       "correctAnswer": "It ignores that the OBJECT of an act is itself one of the three sources, and that some objects are wrong regardless of intention or circumstance -- circumstances and intention can make an otherwise good act bad, but they cannot make an intrinsically evil object good",
-      "explanation": "This is a common one-directional misreading of the three-sources framework: circumstances and intention genuinely affect an act's morality, but that influence only runs one way for intrinsically evil objects -- they can never redeem what is wrong by its object, only ever further corrupt or (for otherwise-neutral acts) shape what would otherwise be acceptable.",
+      "explanation": "This is a common one-directional misreading of the three-sources framework: intention and circumstances genuinely affect an act's morality, and a bad intention can corrupt an act that is good in its object (CCC 1755). But for acts intrinsically evil by reason of their object, 'a good intention or particular circumstances can diminish their evil, but they cannot remove it' (Veritatis Splendor 81).",
       "hint": "Ask whether the three sources work symmetrically in both directions, or only in one direction for certain acts.",
       "citations": [
         {
@@ -4265,8 +4644,8 @@
       "prompt": "Match each moral-theology claim to its status in Catholic teaching.",
       "pairs": [
         {
-          "left": "Proportionalism (consequences alone can justify any act)",
-          "right": "Settled error, rejected by Veritatis Splendor (consequences alone cannot justify an act)"
+          "left": "Proportionalism (no kind of act is absolutely forbidden; the proportion of good and bad effects decides)",
+          "right": "Settled error, rejected by Veritatis Splendor (some acts are evil by their object whatever the proportion of effects)"
         },
         {
           "left": "Fundamental option theory (deep orientation independent of concrete acts)",
@@ -4286,7 +4665,11 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Veritatis Splendor, n. 65-77 (1993)"
+          "reference": "John Paul II, Veritatis Splendor, n. 65-70, 74-83 (1993)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul V, decree ending the Congregatio de Auxiliis (1607)"
         }
       ]
     },
@@ -4298,18 +4681,18 @@
       "difficultyElo": 2275,
       "prompt": "Why did Veritatis Splendor need to be written at all -- what was actually at stake, given that the Church had always taught object, intention, and circumstances mattered to morality?",
       "choices": [
-        "Some Catholic moral theologians had begun using the three-sources language itself to argue for proportionalist conclusions -- using the Church's own traditional vocabulary to smuggle in a rejected calculus of consequences -- so the encyclical had to state precisely what the traditional framework does and does not permit",
+        "Within the Christian community itself there had arisen 'an overall and systematic calling into question of traditional moral doctrine' -- including teleological theories, followed by many Catholic moralists, that denied any absolute prohibition of particular kinds of behaviour -- so the encyclical had to recall fundamental truths, stating precisely what the traditional sources of morality do and do not permit",
         "The Church had never before addressed the relationship between object, intention, and circumstances",
         "The encyclical was written to introduce an entirely new moral framework replacing the traditional one",
         "Nothing was at stake; the encyclical merely repeated settled teaching with no new occasion"
       ],
-      "correctAnswer": "Some Catholic moral theologians had begun using the three-sources language itself to argue for proportionalist conclusions -- using the Church's own traditional vocabulary to smuggle in a rejected calculus of consequences -- so the encyclical had to state precisely what the traditional framework does and does not permit",
-      "explanation": "This is worth knowing precisely because it shows why the distinctions matter in practice: proportionalism did not present itself as a rival framework from outside the tradition -- it was argued for using the Church's own traditional terms, redefined at the edges. Veritatis Splendor's task was precision against exactly that kind of internal redefinition, a pattern familiar from modern errors that restate old claims in respectable-sounding new language.",
-      "hint": "The error this encyclical answers didn't come from outside the tradition -- it came from redefining the tradition's own words.",
+      "correctAnswer": "Within the Christian community itself there had arisen 'an overall and systematic calling into question of traditional moral doctrine' -- including teleological theories, followed by many Catholic moralists, that denied any absolute prohibition of particular kinds of behaviour -- so the encyclical had to recall fundamental truths, stating precisely what the traditional sources of morality do and do not permit",
+      "explanation": "Veritatis Splendor names its own occasion: 'It is no longer a matter of limited and occasional dissent, but of an overall and systematic calling into question of traditional moral doctrine' (n. 4). Among the trends it answers are teleological theories, followed by many Catholic moralists, which arose over the very problem of the 'sources of morality' (n. 74) and held 'that it is never possible to formulate an absolute prohibition of particular kinds of behaviour' (n. 75). The encyclical's task was precision about what the Church's own traditional framework does and does not permit.",
+      "hint": "The encyclical says the challenge arose 'within the Christian community itself' -- not from outside it.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Veritatis Splendor, n. 4-5, 75 (1993)"
+          "reference": "John Paul II, Veritatis Splendor, n. 4-5, 74-75 (1993)"
         }
       ]
     },
@@ -4331,8 +4714,16 @@
       "hint": "Recall the teaching on intrinsically evil acts, and consider what pastoral care adds without changing that norm.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95, 104 (1993)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "reference": "CCC 2343"
         }
       ]
     },
@@ -4348,8 +4739,12 @@
       "hint": "Consider the difference between a person growing gradually toward a fixed goal, and the goal itself gradually changing.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "reference": "CCC 2343"
         }
       ]
     },
@@ -4371,8 +4766,12 @@
       "hint": "Recall the distinction between a fixed goal and a person's own gradual journey toward it.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95 (1993)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
         }
       ]
     },
@@ -4388,8 +4787,12 @@
       "hint": "Recall proportionalism's real claim, and consider whether it changed the norm itself or only the pace of a person's journey toward it.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 75-76 (1993)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
         }
       ]
     },
@@ -4411,8 +4814,12 @@
       "hint": "Consider what goes wrong, practically, if either half of the distinction is dropped.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95 (1993)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
         }
       ]
     },
@@ -4428,8 +4835,24 @@
       "hint": "Recall how the Church refused to collapse grace and freedom into either Pelagianism or Jansenism.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "reference": "CCC 2343"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001-2002"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Council of Trent, Session 6 (1547)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Innocent X, Cum occasione (1653)"
         }
       ]
     },
@@ -4462,8 +4885,16 @@
       "hint": "Two rows name the two things pastoral accompaniment holds together; two name the errors that result from losing either one.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95 (1993)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "reference": "CCC 2343"
         }
       ]
     },
@@ -4485,8 +4916,12 @@
       "hint": "Consider what precise doctrine is FOR, once it meets a hard situation.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95, 104 (1993)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
         }
       ]
     },
@@ -4496,20 +4931,28 @@
       "level": 22,
       "type": "multiple_choice",
       "difficultyElo": 2425,
-      "prompt": "Nearly every liturgical prayer in the Roman Rite closes with some form of 'through Christ our Lord, in the unity of the Holy Spirit.' What theological logic does this closing formula actually express, rather than merely decorate?",
+      "prompt": "By an ancient tradition of the Church, the Collect at Mass is usually addressed to God the Father, through Christ, in the Holy Spirit. When it is addressed to the Father, it is concluded: 'Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit ...' What theological logic does this closing formula actually express, rather than merely decorate?",
       "choices": [
-        "Prayer to the Father is offered THROUGH Christ, the one mediator, and IN the Holy Spirit, who unites the Church to Christ -- the doxology is the Trinity's own inner structure of relation made audible in worship, not an arbitrary formula",
+        "Prayer to the Father is offered THROUGH Christ, the one mediator, and IN the Holy Spirit, while the Son is confessed as living and reigning with the Father in the unity of the Holy Spirit -- the Trinitarian shape of salvation, and the one God in three Persons, made audible in worship, not an arbitrary formula",
         "The formula is simply a customary way to end a prayer with no theological content",
         "It expresses that the Father, Son, and Spirit are three separate gods being addressed in sequence",
         "It indicates that Christ and the Holy Spirit are lesser intermediaries than the Father"
       ],
-      "correctAnswer": "Prayer to the Father is offered THROUGH Christ, the one mediator, and IN the Holy Spirit, who unites the Church to Christ -- the doxology is the Trinity's own inner structure of relation made audible in worship, not an arbitrary formula",
+      "correctAnswer": "Prayer to the Father is offered THROUGH Christ, the one mediator, and IN the Holy Spirit, while the Son is confessed as living and reigning with the Father in the unity of the Holy Spirit -- the Trinitarian shape of salvation, and the one God in three Persons, made audible in worship, not an arbitrary formula",
       "explanation": "This closes the loop with the Creed: the Trinity is taught as a set of propositions (one God, three Persons), but that same structure turns out to be built into the Church's most ordinary prayer, prayed through Christ and in the Spirit toward the Father, exactly the pattern the doctrine describes.",
       "hint": "Ask what role each Person plays in the formula -- through whom, and in whom, is the prayer offered?",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, n. 54"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 2664-2665"
+          "reference": "CCC 2664"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1082-1083"
         }
       ]
     },
@@ -4519,7 +4962,7 @@
       "level": 22,
       "type": "multiple_choice",
       "difficultyElo": 2425,
-      "prompt": "CCC 460, echoing the Fathers, says 'the Son of God became man so that we might become God.' A different tradition reads a nearly identical-sounding line as teaching that faithful humans eventually become gods equal to God, ruling their own worlds. What precisely does the Catholic doctrine of divinization (theosis) affirm instead?",
+      "prompt": "CCC 460, echoing the Fathers, says 'the Son of God became man so that we might become God.' A different tradition reads a nearly identical-sounding line as teaching that faithful humans eventually become gods equal to God. What precisely does the Catholic doctrine of divinization (theosis) affirm instead?",
       "choices": [
         "A participation in the divine nature by grace (2 Peter 1:4) -- the creature is truly elevated and shares in God's own life -- while remaining absolutely a creature, never becoming ontologically equal to or independent of the one God who alone possesses divine nature by nature rather than by gift",
         "That believers literally become additional, separate gods equal in nature to the Father",
@@ -4527,7 +4970,7 @@
         "That only the ordained clergy can be divinized, not the laity"
       ],
       "correctAnswer": "A participation in the divine nature by grace (2 Peter 1:4) -- the creature is truly elevated and shares in God's own life -- while remaining absolutely a creature, never becoming ontologically equal to or independent of the one God who alone possesses divine nature by nature rather than by gift",
-      "explanation": "This is the precision point to get exactly right: 'participation by grace' and 'ontological equality with God' sound similar in casual speech but are two entirely different claims. Catholic theosis is real but always creaturely and gift-based; it never dissolves the Creator/creature distinction the way an exaltation doctrine making believers into gods in their own right would.",
+      "explanation": "This is the precision point to get exactly right: 'participation by grace' and 'ontological equality with God' sound similar in casual speech but are two entirely different claims. Catholic theosis is real but always creaturely and gift-based; it never dissolves the Creator/creature distinction, which a doctrine making believers gods equal to God would do.",
       "hint": "Ask whether the creature ever stops being a creature in this account -- Catholic teaching says no, always.",
       "citations": [
         {
@@ -4599,6 +5042,14 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 1265"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 260"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1997-1999"
         }
       ]
@@ -4611,14 +5062,14 @@
       "difficultyElo": 2425,
       "prompt": "A devout Catholic prays constantly and sincerely 'to Jesus,' rarely addressing the Father or the Holy Spirit by name. Does the Catechism treat this as a problem needing correction, or as a perfectly adequate form of Christian prayer?",
       "choices": [
-        "The Catechism affirms that authentic Christian prayer is properly Trinitarian in its full shape -- prayer to Jesus is entirely legitimate and good, but the Church's own tradition of prayer (as in the doxology) draws the whole Trinity in, and catechesis should help a believer's prayer life grow into that fuller shape rather than stopping at devotion to Jesus alone",
+        "Prayer to Jesus is entirely legitimate and good, yet the Church's prayer 'is addressed above all to the Father,' and the Church invites us to call upon the Holy Spirit every day -- so the Catechism encourages a prayer life that embraces all three Persons",
         "The Catechism condemns praying to Jesus directly as improper and requires addressing only the Father",
         "The Catechism treats the three Persons as fully interchangeable, so it makes no difference at all how one prays",
         "The Catechism has no teaching whatsoever on the shape of Christian prayer"
       ],
-      "correctAnswer": "The Catechism affirms that authentic Christian prayer is properly Trinitarian in its full shape -- prayer to Jesus is entirely legitimate and good, but the Church's own tradition of prayer (as in the doxology) draws the whole Trinity in, and catechesis should help a believer's prayer life grow into that fuller shape rather than stopping at devotion to Jesus alone",
-      "explanation": "This is a genuinely practical, not merely academic, conclusion: prayer to Jesus is not wrong, but the fullness the Church's own liturgical tradition models is explicitly Trinitarian -- through Christ, in the Spirit, to the Father -- and a believer's prayer life has room to grow into that whole shape.",
-      "hint": "This isn't a question of right versus wrong prayer -- it's a question of a fuller versus a narrower shape of the same true devotion.",
+      "correctAnswer": "Prayer to Jesus is entirely legitimate and good, yet the Church's prayer 'is addressed above all to the Father,' and the Church invites us to call upon the Holy Spirit every day -- so the Catechism encourages a prayer life that embraces all three Persons",
+      "explanation": "Prayer to Jesus is not wrong -- the Catechism commends it: 'The invocation of the holy name of Jesus is the simplest way of praying always' (CCC 2668). Yet the Church's prayer 'is addressed above all to the Father' (CCC 2665), and 'the Church invites us to call upon the Holy Spirit every day' (CCC 2670), so a believer's prayer life has room to embrace the whole Trinitarian shape.",
+      "hint": "Consider what the Catechism says about invoking the name of Jesus, and what it says the Church's prayer is addressed to above all.",
       "citations": [
         {
           "type": "ccc",
@@ -4642,6 +5093,10 @@
           "reference": "CCC 460"
         },
         {
+          "type": "ccc",
+          "reference": "CCC 43"
+        },
+        {
           "type": "scripture",
           "reference": "2 Peter 1:4"
         }
@@ -4656,15 +5111,15 @@
       "prompt": "Match each element of Trinitarian prayer and life to what it concretely expresses.",
       "pairs": [
         {
-          "left": "\"Through Christ our Lord, in the unity of the Holy Spirit\"",
-          "right": "The Trinity's inner relations, made audible in the Church's ordinary worship"
+          "left": "\"Through our Lord Jesus Christ ... in the unity of the Holy Spirit\"",
+          "right": "Prayer to the Father through Christ, in the Holy Spirit, made audible in the Church's ordinary worship"
         },
         {
           "left": "Divine indwelling at baptism",
           "right": "A real, not merely titular, new presence of the Trinity in the soul"
         },
         {
-          "left": "2 Peter 1:4's \"participation in the divine nature\"",
+          "left": "2 Peter 1:4's \"partakers of the divine nature\"",
           "right": "Elevation by grace, while the Creator/creature distinction remains absolute"
         },
         {
@@ -4676,8 +5131,28 @@
       "hint": "Each of these is the same Trinitarian doctrine showing up in a different, concrete part of Christian life.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, n. 54"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1265"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 260"
+        },
+        {
           "type": "ccc",
           "reference": "CCC 1997-1999"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Second Vatican Council, Lumen Gentium, n. 39-42 (1964)"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Peter 1:4"
         }
       ]
     },
@@ -4712,18 +5187,22 @@
       "difficultyElo": 2425,
       "prompt": "A skeptic says: 'Trinitarian doctrine is a fourth-century philosophical invention with no connection to how ordinary Christians actually pray.' What is the most direct rebuttal?",
       "choices": [
-        "The Church's most ordinary, constantly repeated prayers -- the Sign of the Cross, the doxology closing the liturgy -- are themselves structured Trinitarianly, addressing the Father, through the Son, in the Spirit, in a pattern of worship that predates and is presupposed by the fourth-century councils' precise vocabulary rather than being invented by them",
+        "The Church's Trinitarian pattern of worship -- baptizing 'in the name of the Father and of the Son and of the Holy Ghost' (Matthew 28:19) and approaching the Father through Christ 'in one Spirit' (Ephesians 2:18) -- is attested in the New Testament itself, so it predates and is presupposed by the fourth-century councils' precise vocabulary rather than being invented by them",
         "The skeptic is entirely correct, and Trinitarian prayer only began after the fourth-century councils invented the doctrine",
         "There is no connection between doctrine and prayer, so the objection cannot really be answered",
         "Trinitarian prayer was invented in the Middle Ages, unrelated to the fourth-century councils"
       ],
-      "correctAnswer": "The Church's most ordinary, constantly repeated prayers -- the Sign of the Cross, the doxology closing the liturgy -- are themselves structured Trinitarianly, addressing the Father, through the Son, in the Spirit, in a pattern of worship that predates and is presupposed by the fourth-century councils' precise vocabulary rather than being invented by them",
+      "correctAnswer": "The Church's Trinitarian pattern of worship -- baptizing 'in the name of the Father and of the Son and of the Holy Ghost' (Matthew 28:19) and approaching the Father through Christ 'in one Spirit' (Ephesians 2:18) -- is attested in the New Testament itself, so it predates and is presupposed by the fourth-century councils' precise vocabulary rather than being invented by them",
       "explanation": "This is a strong apologetic point: the fourth-century councils gave the Trinity precise technical vocabulary in response to specific errors, but the Church's Trinitarian pattern of worship -- baptizing and praying in the name of Father, Son, and Spirit -- is attested from the New Testament and sub-apostolic era onward, before that vocabulary existed. The doctrine clarified an already-existing pattern of worship; it did not invent one from nothing.",
       "hint": "Ask which came first -- the technical vocabulary, or the pattern of prayer the vocabulary was later developed to defend.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Matthew 28:19"
+        },
+        {
+          "type": "scripture",
+          "reference": "Ephesians 2:18"
         },
         {
           "type": "ccc",
@@ -4750,7 +5229,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 88-89"
         }
       ]
     },
@@ -4767,7 +5246,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 89"
         }
       ]
     },
@@ -4790,7 +5269,19 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 250-251"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 171"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
         }
       ]
     },
@@ -4817,20 +5308,28 @@
       "level": 23,
       "type": "multiple_choice",
       "difficultyElo": 2500,
-      "prompt": "Applying moral theology to a genuinely hard case shows dogma holding two things together -- a fixed norm, and pastoral patience. What does that same pattern suggest about dogma's purpose?",
+      "prompt": "Applying moral theology to a genuinely hard case shows the Church holding two things together -- a fixed norm, and pastoral patience. What does that same pattern suggest about dogma's purpose?",
       "choices": [
-        "Dogma isn't a rule imposed from outside -- it meets a person where they are, on the path toward it",
+        "Dogma is not an arbitrary restriction -- the truth stays fixed, while the Church patiently accompanies each person on the path toward it",
         "Dogma is meant to be applied with no real regard for a person's own circumstances",
         "Dogma has no bearing on how the Church engages anyone's lived situation",
         "Dogma exists to make pastoral care as difficult as possible for ordinary believers"
       ],
-      "correctAnswer": "Dogma isn't a rule imposed from outside -- it meets a person where they are, on the path toward it",
-      "explanation": "This is the closing point -- dogma, rightly understood, does not simply sit outside a person's life issuing demands; it meets a person where they are, patiently, on the way toward the truth it protects.",
+      "correctAnswer": "Dogma is not an arbitrary restriction -- the truth stays fixed, while the Church patiently accompanies each person on the path toward it",
+      "explanation": "This is the closing point -- the truth the Church teaches does not change to fit a person, but her pastoral care meets a person where they are and patiently accompanies them toward that truth (Familiaris Consortio 34; Veritatis Splendor 95).",
       "hint": "Consider what it means to hold a fixed norm together with patience toward a person.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Familiaris Consortio, n. 34 (1981)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95 (1993)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1783-1785"
+          "reference": "CCC 89"
         }
       ]
     },
@@ -4869,7 +5368,7 @@
         },
         {
           "left": "A genuinely hard pastoral case",
-          "right": "Dogma meets a person exactly where they are, patiently, on the way toward the truth"
+          "right": "The truth stays fixed while the Church patiently accompanies a person on the way toward it"
         },
         {
           "left": "The Trinity, divinization, and daily prayer",
@@ -4881,7 +5380,27 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 89"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 251"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 891"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Veritatis Splendor, n. 95 (1993)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul V, decree ending the Congregatio de Auxiliis (1607)"
         }
       ]
     },
@@ -4898,7 +5417,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 891"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2089"
         }
       ]
     },
@@ -4921,7 +5444,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 158"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 89"
         }
       ]
     },
@@ -4944,7 +5471,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 90"
+          "reference": "CCC 89"
         }
       ]
     }
