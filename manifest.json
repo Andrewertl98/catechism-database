@@ -2,7 +2,7 @@
   "auditSignature": "v/SjKkiPUV2Ri7VRZ5R23DlejNMo+vyErQUALyqxLGZmO/PQbmG3sZm0FGYulTO6Oi2xHWHZJqnjEm1n3uYZAw==",
   "auditedQuestionIDs": [],
   "citationPolicy": "Every question must carry at least one citation of type ccc, scripture, council, or magisterial_document. A church_father citation may supplement these but can never stand alone. Enforced by schema.json ('contains') and re-checked by validate.py.",
-  "databaseVersion": "0.4.18",
+  "databaseVersion": "0.4.19",
   "description": "Catechesi catechism content database -- the question bank behind the Catechesi app (iOS internal name Saintly). Every question carries at least one authoritative Magisterial citation (CCC paragraph, Scripture, Council text, or magisterial document); Church Fathers alone are never sufficient.",
   "lastUpdated": "2026-11-10",
   "miniGamesVersion": "1.9.0",
@@ -147,7 +147,7 @@
         "10": 9,
         "11": 8,
         "12": 7,
-        "13": 7,
+        "13": 6,
         "14": 8,
         "15": 9,
         "16": 9,
@@ -492,7 +492,7 @@
     }
   ],
   "totals": {
-    "questions": 3248,
+    "questions": 3247,
     "topics": 16
   },
   "seasonalVersion": "1.1.1",
