@@ -227,13 +227,18 @@
         "Because Mary replaced Christ as the primary object of Catholic worship"
       ],
       "correctAnswer": "Because she is actually, truly the Mother of God and Mother of the Redeemer, and honoring a mother honors her own son as well",
-      "explanation": "This is the simplest, honest reason -- Mary is truly the Mother of God and the Redeemer's mother, and honoring a mother honors her son, exactly what St. Cyril of Alexandria's defense of the title Theotokos already began to explain.",
+      "explanation": "This is the simplest, honest reason -- Mary is truly the Mother of God and the Mother of the Redeemer, and the Church teaches that 'while the Mother is honored, the Son ... is rightly known, loved and glorified' (Lumen Gentium 66).",
       "hint": "Consider the direct relationship between honoring a mother and honoring her own son.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
           "quote": "...is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer. ... At the same time, however, because she belongs to the offspring of Adam she is one with all those who are to be saved."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)",
+          "quote": "...while the Mother is honored, the Son, through whom all things have their being ... is rightly known, loved and glorified..."
         }
       ]
     },
@@ -252,6 +257,11 @@
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
           "quote": "...is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer. ... At the same time, however, because she belongs to the offspring of Adam she is one with all those who are to be saved."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 66 (1964)",
+          "quote": "...while the Mother is honored, the Son, through whom all things have their being ... is rightly known, loved and glorified..."
         }
       ]
     },
@@ -293,8 +303,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Luke 1:42",
-          "quote": "And she cried out with a loud voice and said: Blessed art thou among women and blessed is the fruit of thy womb.",
+          "reference": "Luke 1:41-42",
+          "quote": "And it came to pass that when Elizabeth heard the salutation of Mary, the infant leaped in her womb. And Elizabeth was filled with the Holy Ghost. And she cried out with a loud voice and said: Blessed art thou among women and blessed is the fruit of thy womb.",
           "note": "Douay-Rheims"
         }
       ]
@@ -317,6 +327,11 @@
       "hint": "Consider whether honoring someone's own, unique role is the same thing as worshipping them as divine.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 971",
+          "quote": "...differs essentially from the adoration which is given to the incarnate Word and equally to the Father and the Holy Spirit..."
+        },
+        {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
           "quote": "...is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer. ... At the same time, however, because she belongs to the offspring of Adam she is one with all those who are to be saved."
@@ -335,9 +350,9 @@
       "hint": "Recall the honest correction about honoring Mary versus worshipping God.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
-          "quote": "...is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer. ... At the same time, however, because she belongs to the offspring of Adam she is one with all those who are to be saved."
+          "type": "ccc",
+          "reference": "CCC 971",
+          "quote": "...differs essentially from the adoration which is given to the incarnate Word and equally to the Father and the Holy Spirit..."
         }
       ]
     },
@@ -373,6 +388,17 @@
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
           "quote": "...is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer. ... At the same time, however, because she belongs to the offspring of Adam she is one with all those who are to be saved."
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:41-42",
+          "quote": "And it came to pass that when Elizabeth heard the salutation of Mary, the infant leaped in her womb. And Elizabeth was filled with the Holy Ghost. And she cried out with a loud voice and said: Blessed art thou among women and blessed is the fruit of thy womb.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 971",
+          "quote": "...differs essentially from the adoration which is given to the incarnate Word and equally to the Father and the Holy Spirit..."
         }
       ]
     },
@@ -627,7 +653,7 @@
       "difficultyElo": 1135,
       "prompt": "Mary's answer to the angel — 'Behold the ____ of the Lord: be it done to me according to thy word' — is known as her fiat.",
       "correctAnswer": "handmaid",
-      "explanation": "'Fiat' is simply the Latin for 'let it be done.' Mary's consent is genuinely free: the Incarnation waits on a yes from a person, which is why the Church has always treated this moment as the pattern of all obedient faith.",
+      "explanation": "'Fiat' is simply the Latin for 'let it be done.' Mary's consent is genuinely free: the Incarnation waits on a yes from a person, and the Church teaches that \"The Virgin Mary most perfectly embodies the obedience of faith.\"",
       "hint": "The word means a servant, and it is the title she gives herself rather than one given to her.",
       "citations": [
         {
@@ -635,6 +661,11 @@
           "reference": "Luke 1:38",
           "quote": "And Mary said: Behold the handmaid of the Lord: be it done to me according to thy word. And the angel departed from her.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 148",
+          "quote": "The Virgin Mary most perfectly embodies the obedience of faith."
         }
       ],
       "audit_status": "pending"
@@ -653,7 +684,7 @@
         "Te Deum"
       ],
       "correctAnswer": "Magnificat",
-      "explanation": "It takes its name from its first word in Latin — 'Magnificat anima mea Dominum,' 'My soul magnifies the Lord.' The Church prays it every single day at Evening Prayer, which makes it perhaps the most frequently recited passage of Scripture after the Psalms.",
+      "explanation": "It takes its name from its first word in Latin — 'Magnificat anima mea Dominum,' 'My soul doth magnify the Lord.' The Church prays it every day at Evening Prayer.",
       "hint": "Each of these four canticles is named from its opening word in Latin; this one means 'magnifies.'",
       "citations": [
         {
@@ -671,15 +702,15 @@
       "level": 4,
       "type": "true_false",
       "difficultyElo": 1025,
-      "prompt": "True or False: In the Magnificat, Mary says that God has 'thrown down the rulers from their thrones but lifted up the lowly.'",
+      "prompt": "True or False: In the Magnificat, Mary says that God 'hath put down the mighty from their seat and hath exalted the humble.'",
       "correctAnswer": true,
-      "explanation": "True. The Magnificat is far more pointed than its gentle reputation suggests — it is a song about God overturning the world's order, filling the hungry and sending the rich away empty. Mary sings it as a young woman of no status in an occupied province.",
-      "hint": "The song is a good deal more political than most people remember it being.",
+      "explanation": "True. The Magnificat praises God, who 'hath put down the mighty from their seat and hath exalted the humble' and 'hath filled the hungry with good things: and the rich he hath sent empty away' (Luke 1:52-53). Mary sings it as the one whose humility God has regarded (Luke 1:48).",
+      "hint": "The song praises God for reversing the places of the mighty and the humble, the hungry and the rich.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Luke 1:52-53",
-          "quote": "He hath filled the hungry with good things: and the rich he hath sent empty away.",
+          "quote": "He hath put down the mighty from their seat and hath exalted the humble. He hath filled the hungry with good things: and the rich he hath sent empty away.",
           "note": "Douay-Rheims"
         }
       ],
@@ -699,7 +730,7 @@
         "An angel appeared to them both"
       ],
       "correctAnswer": "The infant John leapt in Elizabeth's womb, and she was filled with the Holy Spirit",
-      "explanation": "John the Baptist begins his work of pointing to Christ before either child is born. Elizabeth's cry — 'Blessed art thou among women and blessed is the fruit of thy womb' — became the second half of the Hail Mary.",
+      "explanation": "John the Baptist begins his work of pointing to Christ before either child is born. Elizabeth's cry — 'Blessed art thou among women and blessed is the fruit of thy womb' — is prayed in the Hail Mary right after the angel's greeting (CCC 2676).",
       "hint": "The first person to react to Christ's presence in this scene had not yet been born.",
       "citations": [
         {
@@ -745,12 +776,12 @@
       "difficultyElo": 1075,
       "prompt": "At the wedding at Cana, what does Mary say to the servants?",
       "choices": [
-        "\"Do whatever he tells you.\"",
+        "\"Whatsoever he shall say to you, do ye.\"",
         "\"My son will provide.\"",
         "\"Bring the wine to the steward.\"",
         "\"Wait for his hour.\""
       ],
-      "correctAnswer": "\"Do whatever he tells you.\"",
+      "correctAnswer": "\"Whatsoever he shall say to you, do ye.\"",
       "explanation": "These are the last recorded words of Mary in Scripture, and they point away from herself entirely. Every authentic Marian devotion has the same shape: it ends at her Son, not at her.",
       "hint": "Her final recorded words in all of Scripture direct attention somewhere other than herself.",
       "citations": [
@@ -769,16 +800,21 @@
       "level": 4,
       "type": "fill_blank",
       "difficultyElo": 1135,
-      "prompt": "From the Cross, Jesus said to the beloved disciple, 'Behold, your ____' — entrusting Mary to him, and him to Mary.",
+      "prompt": "From the Cross, Jesus said to the beloved disciple, 'Behold thy ____' — entrusting Mary to him, and him to Mary.",
       "correctAnswer": "mother",
-      "explanation": "The Church has always read this as more than a practical arrangement for a widow's care. In giving his mother to the disciple, Christ gives her to every disciple — which is the root of calling Mary our mother at all.",
+      "explanation": "The Church reads this as more than a practical arrangement for his mother's care: Mary was given 'by the same Christ Jesus dying on the cross, as a mother to his disciple' (CCC 964). She is 'clearly the mother of the members of Christ' (CCC 963), and the Church honors her as our mother.",
       "hint": "He says one word to Mary about the disciple, and the matching word to the disciple about Mary.",
       "citations": [
         {
           "type": "scripture",
           "reference": "John 19:26-27",
-          "quote": "When Jesus therefore had seen his mother and the disciple standing whom he loved, he saith to his mother: Woman, behold thy son.",
+          "quote": "When Jesus therefore had seen his mother and the disciple standing whom he loved, he saith to his mother: Woman, behold thy son. After that, he saith to the disciple: Behold thy mother. And from that hour, the disciple took her to his own.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 964",
+          "quote": "...to be given, by the same Christ Jesus dying on the cross, as a mother to his disciple..."
         }
       ],
       "audit_status": "pending"
@@ -821,14 +857,14 @@
         },
         {
           "left": "The wedding at Cana",
-          "right": "John 2 — 'Do whatever he tells you'"
+          "right": "John 2 — 'Whatsoever he shall say to you, do ye'"
         },
         {
           "left": "At the foot of the Cross",
-          "right": "John 19 — 'Behold, your mother'"
+          "right": "John 19 — 'Behold thy mother'"
         }
       ],
-      "explanation": "Luke gives us the infancy narratives; John gives us Mary at the beginning and the end of Jesus' public ministry. Between them, almost everything Scripture says about her directly.",
+      "explanation": "Luke's first chapter gives us the Annunciation and the Visitation; John gives us Mary at the beginning and the end of Jesus' public ministry, at Cana and at the Cross.",
       "hint": "Two of these come from Luke's opening chapter and two from John's Gospel.",
       "citations": [
         {
@@ -892,22 +928,27 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1150,
-      "prompt": "How does Elizabeth's own question, 'How does this happen to me, that the mother of my Lord should come to me?' reveal what she actually, genuinely understood about Mary's own pregnancy?",
+      "prompt": "In the Visitation, how does Elizabeth acclaim Mary when she asks, 'How does this happen to me, that the mother of my Lord should come to me?'",
       "choices": [
-        "She immediately recognized, through prophetic insight, that Mary carried 'my Lord,' God himself",
+        "At the prompting of the Spirit, she acclaimed Mary as 'the mother of my Lord'",
         "Elizabeth's own question reveals she had no genuine understanding of Mary's own pregnancy at all",
         "Elizabeth's own question expresses genuine doubt about whether Mary was pregnant at all",
         "This question has no genuine, theological significance worth noting"
       ],
-      "correctAnswer": "She immediately recognized, through prophetic insight, that Mary carried 'my Lord,' God himself",
-      "explanation": "This is an important, theological detail -- Elizabeth's own question shows genuine, prophetic recognition that Mary carried 'my Lord,' God himself, not merely a human deduction from ordinary circumstances.",
-      "hint": "Consider what Elizabeth's own use of the title 'my Lord' genuinely reveals about her own understanding.",
+      "correctAnswer": "At the prompting of the Spirit, she acclaimed Mary as 'the mother of my Lord'",
+      "explanation": "Filled with the Holy Spirit (Luke 1:41), Elizabeth acclaims Mary as 'the mother of my Lord.' From this the Church confesses that Mary is truly the Mother of God (Theotokos), as CCC 495 explains.",
+      "hint": "Notice the title Elizabeth gives Mary, and who prompts her to say it.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Luke 1:43",
           "quote": "And whence is this to me that the mother of my Lord should come to me?",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 495",
+          "quote": "Mary is acclaimed by Elizabeth, at the prompting of the Spirit ... as \"the mother of my Lord\"."
         }
       ]
     },
@@ -917,9 +958,9 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 1100,
-      "prompt": "True or False: Elizabeth's own question, 'the mother of my Lord,' shows genuine, prophetic recognition that Mary carried God himself.",
+      "prompt": "True or False: Elizabeth, at the prompting of the Holy Spirit, acclaims Mary as 'the mother of my Lord.'",
       "correctAnswer": true,
-      "explanation": "True, and this theological detail matters -- it deepens the bare, historical mention of the Visitation into a genuinely rich, theological moment.",
+      "explanation": "True. Filled with the Holy Spirit, Elizabeth acclaims Mary as 'the mother of my Lord' (Luke 1:41-43). The Church understands this acclamation as pointing to Mary's divine motherhood (CCC 495).",
       "hint": "Recall the point about what Elizabeth's own question reveals.",
       "citations": [
         {
@@ -927,6 +968,11 @@
           "reference": "Luke 1:43",
           "quote": "And whence is this to me that the mother of my Lord should come to me?",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 495",
+          "quote": "Mary is acclaimed by Elizabeth, at the prompting of the Spirit ... as \"the mother of my Lord\"."
         }
       ]
     },
@@ -1172,7 +1218,7 @@
         "There is no real distinction between them"
       ],
       "correctAnswer": "Christ ascends by his own divine power; Mary is taken up by God's power",
-      "explanation": "The grammar carries the theology. Christ ascends — active — because he is God. Mary is assumed — passive — because she is a creature receiving a gift. Both are bodily and both are taught by the Church; the difference is who is acting.",
+      "explanation": "Traditional theology (St. Thomas Aquinas, Summa Theologiae III, q. 57, a. 3) teaches that Christ ascended by his own power, because he is God and the one who came from the Father; Mary, a creature, was assumed, taken up by God. Both are bodily and both are taught by the Church; the difference is who is acting.",
       "hint": "Compare the two words themselves: one is something you do, the other something done to you.",
       "citations": [
         {
@@ -1181,9 +1227,14 @@
         },
         {
           "type": "scripture",
-          "reference": "Acts 1:9",
-          "quote": "And when he had said these things, while they looked on, he was raised up: and a cloud received him out of their sight.",
+          "reference": "John 20:17",
+          "quote": "I ascend to my Father and to your Father, to my God and to your God.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 661",
+          "quote": "Only the one who \"came from the Father\" can return to the Father: Christ Jesus."
         }
       ],
       "audit_status": "pending"
@@ -1289,7 +1340,7 @@
           "right": "Taken body and soul into heavenly glory"
         }
       ],
-      "explanation": "These four are the whole of what the Church has dogmatically defined about Mary. Everything else — her titles, the apparitions, the devotions — is real but does not carry the same weight of definition.",
+      "explanation": "These are the four Marian dogmas customarily listed, but they are not the only truths about Mary that the Church has defined; for example, that the Son was incarnate of the Virgin Mary by the Holy Spirit is professed in the Creed. Marian devotions and apparitions are not dogmas: private revelations, even those recognized by the Church, do not belong to the deposit of faith (CCC 67).",
       "hint": "Two of these concern her conception and her body; two concern her motherhood and her virginity.",
       "citations": [
         {
@@ -1355,7 +1406,7 @@
       "level": 7,
       "type": "multiple_choice",
       "difficultyElo": 1300,
-      "prompt": "Munificentissimus Deus, defining the Assumption, describes it as a preview of what further, Christian reality?",
+      "prompt": "The Church's Catechism describes the Assumption as an anticipation of what further, Christian reality?",
       "choices": [
         "The general resurrection of the body, promised to every faithful believer at the end of human history",
         "This dogma has no genuine, further connection to any wider, Christian doctrine at all",
@@ -1364,12 +1415,12 @@
       ],
       "correctAnswer": "The general resurrection of the body, promised to every faithful believer at the end of human history",
       "explanation": "This is a further, Christological connection -- the Assumption previews the general resurrection promised to every faithful believer, making Mary's own destiny a hopeful sign of what awaits Christ's own faithful.",
-      "hint": "Consider what further, hopeful reality Munificentissimus Deus connects the Assumption to.",
+      "hint": "Consider what further, hopeful reality the Catechism connects the Assumption to.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Pius XII, Munificentissimus Deus (1950)",
-          "quote": "the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+          "type": "ccc",
+          "reference": "CCC 966",
+          "quote": "The Assumption of the Blessed Virgin is a singular participation in her Son's Resurrection and an anticipation of the resurrection of other Christians"
         }
       ]
     },
@@ -1385,9 +1436,9 @@
       "hint": "Recall the point about what the Assumption previews.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Pius XII, Munificentissimus Deus (1950)",
-          "quote": "the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory."
+          "type": "ccc",
+          "reference": "CCC 966",
+          "quote": "The Assumption of the Blessed Virgin is a singular participation in her Son's Resurrection and an anticipation of the resurrection of other Christians"
         }
       ]
     },
@@ -1409,9 +1460,14 @@
       "hint": "Recall the two examples -- the Immaculate Conception and the Assumption -- and consider what pattern they share.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 487",
+          "quote": "What the Catholic faith believes about Mary is based on what it believes about Christ"
+        },
+        {
           "type": "magisterial_document",
           "reference": "Pius IX, Ineffabilis Deus (1854)",
-          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+          "quote": "the most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin"
         }
       ]
     },
@@ -1427,9 +1483,14 @@
       "hint": "Recall the real point about the single, underlying pattern connecting all four Marian dogmas.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 487",
+          "quote": "What the Catholic faith believes about Mary is based on what it believes about Christ"
+        },
+        {
           "type": "magisterial_document",
           "reference": "Pius IX, Ineffabilis Deus (1854)",
-          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+          "quote": "the most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin"
         }
       ]
     },
@@ -1464,7 +1525,17 @@
         {
           "type": "magisterial_document",
           "reference": "Pius IX, Ineffabilis Deus (1854)",
-          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+          "quote": "the most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 966",
+          "quote": "The Assumption of the Blessed Virgin is a singular participation in her Son's Resurrection and an anticipation of the resurrection of other Christians"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 487",
+          "quote": "What the Catholic faith believes about Mary is based on what it believes about Christ"
         }
       ]
     },
@@ -1486,9 +1557,14 @@
       "hint": "Consider what concrete examples reveal about how each Marian dogma protects or reveals a truth about Christ.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 487",
+          "quote": "What the Catholic faith believes about Mary is based on what it believes about Christ"
+        },
+        {
           "type": "magisterial_document",
           "reference": "Pius IX, Ineffabilis Deus (1854)",
-          "quote": "The most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin."
+          "quote": "the most Blessed Virgin Mary, in the first instance of her conception, by a singular grace and privilege granted by Almighty God, in view of the merits of Jesus Christ, the Savior of the human race, was preserved free from all stain of original sin"
         }
       ]
     },
@@ -1498,7 +1574,7 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "In Luke's account of the Visitation, Elizabeth asks, 'How does this happen to me, that the mother of my Lord should come to me?' Which Old Testament scene does this deliberately echo?",
+      "prompt": "In Luke's account of the Visitation, Elizabeth asks, 'How does this happen to me, that the mother of my Lord should come to me?' Which Old Testament scene does this recall?",
       "choices": [
         "David bringing the Ark of the Covenant to Jerusalem",
         "Solomon dedicating the Temple",
@@ -1506,7 +1582,7 @@
         "Elijah on Mount Carmel"
       ],
       "correctAnswer": "David bringing the Ark of the Covenant to Jerusalem",
-      "explanation": "David asks almost the same question of the Ark: 'How shall the ark of the Lord come to me?' Luke is building a deliberate parallel — Mary carrying Christ is the new Ark carrying the presence of God.",
+      "explanation": "David asks almost the same question of the Ark: 'How shall the ark of the Lord come to me?' Catholic tradition sees a parallel here: Mary carrying Christ is the new Ark carrying the presence of God.",
       "hint": "Someone else in Scripture asks nearly this exact question, and the answer he is asking about is an object, not a person.",
       "citations": [
         {
@@ -1530,10 +1606,10 @@
       "level": 8,
       "type": "true_false",
       "difficultyElo": 1325,
-      "prompt": "True or False: Both the Ark of the Covenant in 2 Samuel and Mary in Luke's Gospel remain for a period of three months before returning home.",
+      "prompt": "True or False: The Ark of the Covenant stayed three months in the house of Obed-edom (2 Samuel 6), and Mary stayed about three months with Elizabeth (Luke 1).",
       "correctAnswer": true,
-      "explanation": "True, and it is one of several details Luke lines up. The Ark stays three months in the house of Obed-edom; Mary stays about three months with Elizabeth. David also 'leaps' before the Ark, as John leaps in the womb.",
-      "hint": "Count the time each one stays, in the house of someone in the hill country of Judah.",
+      "explanation": "True. The Ark stays three months in the house of Obed-edom; Mary stays about three months with Elizabeth. David is also seen 'leaping and dancing' before the Ark, as John leaps in the womb. Catholic tradition reads these as parallels between the Ark and Mary.",
+      "hint": "Count the months each one stays in someone else's house.",
       "citations": [
         {
           "type": "scripture",
@@ -1556,7 +1632,7 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "The Ark of the Covenant contained the tablets of the Law, a jar of manna, and Aaron's staff. Why do the Fathers see this as a figure of Mary?",
+      "prompt": "The Ark of the Covenant contained the tablets of the Law, a jar of manna, and Aaron's staff. In the Catholic reading that sees the Ark as a figure of Mary, why does she fit this figure?",
       "choices": [
         "She carried the Word made flesh, the true bread from heaven, and the great high priest",
         "She was made of gold, as the Ark was overlaid with gold",
@@ -1564,7 +1640,7 @@
         "She was carried by the Levites as the Ark was"
       ],
       "correctAnswer": "She carried the Word made flesh, the true bread from heaven, and the great high priest",
-      "explanation": "The Ark held the Law written on stone, the manna, and the staff of the priest. Mary held in her womb the Word himself, the living Bread come down from heaven, and the eternal High Priest — the reality each of those objects only pointed toward.",
+      "explanation": "In this reading, the Ark held the Law written on stone, the manna, and the staff of the priest. Mary held in her womb the Word himself, the living Bread come down from heaven, and the great High Priest, the reality each of those objects pointed toward.",
       "hint": "Take the three contents one at a time and ask what each one prefigures in Christ.",
       "citations": [
         {
@@ -1575,8 +1651,20 @@
         },
         {
           "type": "scripture",
+          "reference": "John 1:14",
+          "quote": "And the Word was made flesh and dwelt among us",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
           "reference": "John 6:51",
           "quote": "I am the living bread which came down from heaven.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Hebrews 4:14",
+          "quote": "Having therefore a great high priest that hath passed into the heavens, Jesus the Son of God",
           "note": "Douay-Rheims"
         }
       ],
@@ -1637,15 +1725,15 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "In the kingdom of Judah, the 'gebirah' or queen mother held a real office at court. Why does this matter for understanding Mary?",
+      "prompt": "Solomon had a throne set at his right hand for his mother Bathsheba, who came to him with a petition (1 Kings 2:19). Why do Catholic readers find this significant for understanding Mary?",
       "choices": [
-        "The queen in Davidic Israel was the king's mother, not his wife, and she interceded with him for the people",
+        "It is seen as a figure of the honor and place of the Davidic king's mother, which Catholic readers apply to Mary beside her Son the king",
         "It shows that queenship was purely honorary and carried no authority",
         "It proves Mary was of royal blood on her mother's side",
         "It explains why Jesus called her 'woman' rather than 'mother'"
       ],
-      "correctAnswer": "The queen in Davidic Israel was the king's mother, not his wife, and she interceded with him for the people",
-      "explanation": "Solomon has a throne brought in for Bathsheba at his right hand, and she comes to him bearing a petition. If Christ is the Davidic king, the office of queen mother belongs to his mother — which is what the Church means by calling Mary Queen, and why intercession is bound up in the title.",
+      "correctAnswer": "It is seen as a figure of the honor and place of the Davidic king's mother, which Catholic readers apply to Mary beside her Son the king",
+      "explanation": "Solomon has a throne set at his right hand for his mother Bathsheba, who comes to him bearing a petition. Since Christ is the Davidic king (Luke 1:32-33), many Catholic readers see in this a figure of Mary's place beside her Son. The Church's own teaching is that Mary was 'exalted by the Lord as Queen over all things' (CCC 966).",
       "hint": "Look at who sits at Solomon's right hand in 1 Kings, and what she is doing there.",
       "citations": [
         {
@@ -1659,6 +1747,11 @@
           "reference": "Luke 1:32-33",
           "quote": "He shall be great and shall be called the Son of the Most High. And the Lord God shall give unto him the throne of David his father: and he shall reign in the house of Jacob for ever.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 966",
+          "quote": "exalted by the Lord as Queen over all things"
         }
       ],
       "audit_status": "pending"
@@ -1672,7 +1765,7 @@
       "prompt": "True or False: The woman clothed with the sun in Revelation 12 has been read by the Church as referring both to Mary and to the Church herself.",
       "correctAnswer": true,
       "explanation": "True. Catholic reading holds both together rather than choosing: the woman who bears the male child who will rule the nations is Mary, and she is also the People of God bringing forth Christ into the world. Scripture's images routinely carry more than one true meaning.",
-      "hint": "The same chapter later calls the rest of her offspring those who 'keep the commandments of God and bear witness to Jesus' -- a description of every believer, not of Mary alone.",
+      "hint": "The same chapter later calls the rest of her offspring those who 'keep the commandments of God and have the testimony of Jesus Christ' -- a description of every believer, not of Mary alone.",
       "citations": [
         {
           "type": "scripture",
@@ -1681,14 +1774,20 @@
           "note": "Douay-Rheims"
         },
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 63-65 (1964)"
-        },
-        {
           "type": "scripture",
           "reference": "Revelation 12:17",
           "quote": "And the dragon was angry against the woman: and went to make war with the rest of her seed, who keep the commandments of God and have the testimony of Jesus Christ.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2853",
+          "quote": "the new Eve, \"full of grace\" of the Holy Spirit, is preserved from sin and the corruption of death"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Homily for the Solemnity of the Assumption, Castel Gandolfo (15 August 2007)",
+          "quote": "this woman who suffered, who had to flee, who gave birth with cries of anguish, is also the Church, the pilgrim Church of all times."
         }
       ],
       "audit_status": "pending"
@@ -1754,7 +1853,7 @@
       "level": 8,
       "type": "matching_pairs",
       "difficultyElo": 1415,
-      "prompt": "Match each Old Testament figure to what it prefigures about Mary.",
+      "prompt": "Match each Old Testament figure to what Catholic readers see in it about Mary.",
       "pairs": [
         {
           "left": "The Ark of the Covenant",
@@ -1766,14 +1865,14 @@
         },
         {
           "left": "The queen mother of Judah",
-          "right": "The king's mother holds an office of intercession"
+          "right": "The king's mother is honored at the king's right hand"
         },
         {
           "left": "The woman of Genesis 3:15",
           "right": "Enmity with the serpent, and offspring who crushes it"
         }
       ],
-      "explanation": "Four different threads of Israel's history — worship, the fall, the monarchy, and the first promise — all converge on the same person. That convergence is the argument; no single one of them would carry it alone.",
+      "explanation": "Catholic readers see four threads of Israel's history — worship, the fall, the monarchy, and the first promise — pointing to Mary. The Council names the promise of victory over the serpent (LG 55) and the Fathers' comparison of Eve and Mary (LG 56); the Catechism calls Mary 'the ark of the covenant' (CCC 2676). The queen-mother reading is a typological interpretation held by many, not a defined teaching.",
       "hint": "Each comes from a different part of Israel's story: the tabernacle, the garden, the court, and the first promise after the fall.",
       "citations": [
         {
@@ -1790,7 +1889,11 @@
         },
         {
           "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 55 (1964)"
+          "reference": "Second Vatican Council, Lumen Gentium 55-56 (1964)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2676"
         }
       ],
       "audit_status": "pending"
@@ -1801,16 +1904,16 @@
       "level": 9,
       "type": "multiple_choice",
       "difficultyElo": 1450,
-      "prompt": "A further, concrete, Old Testament example of the gebirah's own intercessory role appears in 1 Kings, when Bathsheba approaches King Solomon. What happens?",
+      "prompt": "In 1 Kings 2:19 (3 Kings in the Douay-Rheims), Bathsheba comes to King Solomon to speak to him for Adonias. How does Solomon receive her?",
       "choices": [
-        "'The king paid her homage, and a throne was provided for the king's mother, who sat at his right' -- an honored, intercessory position",
-        "Solomon refused to receive Bathsheba's own real presence at court at all",
-        "Bathsheba held no official position of any kind at Solomon's own court",
-        "This passage has no genuine, concrete detail about how the king treated his own mother"
+        "He 'arose to meet her, and bowed to her' ... 'and a throne was set for the king’s mother, and she sat on his right hand' -- an honored place at court",
+        "Solomon refused to receive Bathsheba at court at all",
+        "Bathsheba held no honored position of any kind at Solomon's court",
+        "This passage has no concrete detail about how the king treated his mother"
       ],
-      "correctAnswer": "'The king paid her homage, and a throne was provided for the king's mother, who sat at his right' -- an honored, intercessory position",
-      "explanation": "This is a further, concrete, Old Testament example -- Bathsheba, as gebirah, receives homage and a honored throne at the king's own right hand, deepening the general point about the gebirah's own intercessory office.",
-      "hint": "Recall the general point about the gebirah's own office at court.",
+      "correctAnswer": "He 'arose to meet her, and bowed to her' ... 'and a throne was set for the king’s mother, and she sat on his right hand' -- an honored place at court",
+      "explanation": "Solomon rises, bows to his mother, and a throne is set for her at his right hand. Many interpreters see in this scene a standing place of honor for the king's mother (the 'queen mother') in the Davidic court; that is an interpretation, not a defined teaching.",
+      "hint": "Recall what Solomon does when his mother enters.",
       "citations": [
         {
           "type": "scripture",
@@ -1828,7 +1931,7 @@
       "difficultyElo": 1400,
       "prompt": "True or False: In 1 Kings, Bathsheba receives homage from King Solomon and a honored throne at his own right hand.",
       "correctAnswer": true,
-      "explanation": "True, and this concrete, Old Testament detail matters -- it gives a genuine, specific, historical example of the gebirah's own honored, intercessory role.",
+      "explanation": "True. 1 Kings 2:19 says Solomon arose to meet his mother Bathsheba and bowed to her, and a throne was set for her at his right hand. Many interpreters see in this scene a standing place of honor for the king's mother in the Davidic court.",
       "hint": "Recall the concrete detail about Bathsheba's own treatment by Solomon.",
       "citations": [
         {
@@ -1845,22 +1948,26 @@
       "level": 9,
       "type": "multiple_choice",
       "difficultyElo": 1450,
-      "prompt": "How does this concrete, gebirah scene connect to Marian titles like 'Queen of Heaven,' giving them a genuine, historical, Old Testament root rather than a merely, later, invented honor?",
+      "prompt": "How do many Catholic interpreters connect the honor Solomon gives his mother in 1 Kings 2:19 to Marian titles like 'Queen of Heaven'?",
       "choices": [
-        "It shows the ancient, Davidic pattern of honoring the king's mother with an official role, which Marian queenship draws on",
-        "This gebirah scene has no meaningful connection to any later, Marian title at all",
-        "It shows the opposite -- that honoring a king's own mother was actually, historically forbidden in ancient Israel",
-        "Marian queenship has no genuine, historical or Scriptural root of any kind"
+        "They see in it the Davidic pattern of honoring the king's mother, which helps illuminate Mary's queenship as mother of the Davidic King, Christ",
+        "This scene has no meaningful connection to any later Marian title at all",
+        "It shows the opposite -- that honoring a king's own mother was actually forbidden in ancient Israel",
+        "Marian queenship has no Scriptural root of any kind"
       ],
-      "correctAnswer": "It shows the ancient, Davidic pattern of honoring the king's mother with an official role, which Marian queenship draws on",
-      "explanation": "This is a direct connection -- the ancient, Davidic-kingdom practice of honoring the king's own mother with a genuine, official role grounds later, Marian queenship in a historical, Old Testament pattern, not a merely later invention.",
-      "hint": "Consider what historical pattern the gebirah scene establishes for later, Marian titles.",
+      "correctAnswer": "They see in it the Davidic pattern of honoring the king's mother, which helps illuminate Mary's queenship as mother of the Davidic King, Christ",
+      "explanation": "Many interpreters read the honor Solomon gives his mother as a pattern that illuminates Mary's queenship. This is a typological reading, not a defined teaching; the Church grounds Mary's queenship in her divine motherhood and in her association with her Son in the work of redemption (Pius XII, Ad Caeli Reginam).",
+      "hint": "Consider how Solomon honors his mother in this scene, and whose mother Mary is.",
       "citations": [
         {
           "type": "scripture",
           "reference": "1 Kings 2:19",
           "quote": "Then Bethsabee came to king Solomon, to speak to him for Adonias: and the king arose to meet her, and bowed to her, and sat down upon his throne: and a throne was set for the king’s mother, and she sat on his right hand.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Ad Caeli Reginam 34-36 (1954)"
         }
       ]
     },
@@ -1870,16 +1977,20 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: the ancient, Davidic-kingdom practice of honoring the king's own mother grounds later, Marian queenship in a genuine, historical, Old Testament pattern.",
+      "prompt": "True or False: Many Catholic interpreters see in the honor Solomon gives his mother in 1 Kings 2:19 a Scriptural pattern that illuminates Marian queenship.",
       "correctAnswer": true,
-      "explanation": "True, and this historical grounding matters -- it shows Marian queenship isn't a merely later, invented honor, but genuinely rooted in an ancient, Scriptural pattern.",
-      "hint": "Recall the point about the historical root Marian queenship draws on.",
+      "explanation": "True. This is a typological reading held by many interpreters. It is not a defined teaching: the Church grounds Mary's queenship chiefly in her divine motherhood, and also in her association with her Son in the work of redemption (Pius XII, Ad Caeli Reginam).",
+      "hint": "Recall how Solomon honors his mother in 1 Kings 2:19.",
       "citations": [
         {
           "type": "scripture",
           "reference": "1 Kings 2:19",
           "quote": "Then Bethsabee came to king Solomon, to speak to him for Adonias: and the king arose to meet her, and bowed to her, and sat down upon his throne: and a throne was set for the king’s mother, and she sat on his right hand.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Ad Caeli Reginam 34-38 (1954)"
         }
       ]
     },
@@ -1933,33 +2044,37 @@
       "level": 9,
       "type": "matching_pairs",
       "difficultyElo": 1490,
-      "prompt": "Match each fact about a further Old Testament type to what it means.",
+      "prompt": "Match each point about 1 Kings 2:19 and Mary's queenship to its description.",
       "pairs": [
         {
-          "left": "Bathsheba receiving homage in 1 Kings 2:19",
-          "right": "A concrete, honored, intercessory example of the gebirah's own real office"
+          "left": "Bathsheba in 1 Kings 2:19",
+          "right": "Solomon bows to his mother, and a throne is set for her at his right hand"
         },
         {
-          "left": "Connection to Marian queenship",
-          "right": "Grounds titles like 'Queen of Heaven' in an ancient, Davidic pattern"
+          "left": "How many interpreters connect this scene to Mary",
+          "right": "As a Davidic pattern that illuminates titles like 'Queen of Heaven'"
         },
         {
-          "left": "Why this historical grounding matters",
-          "right": "Shows the title flows from Scripture's own coherent, internal logic"
+          "left": "The Church's own grounding of Mary's queenship",
+          "right": "Her divine motherhood and her association with her Son in the work of redemption"
         },
         {
-          "left": "Why the approach matters",
-          "right": "Extends the typology to a further, concrete example"
+          "left": "Doctrinal status of the queen-mother reading",
+          "right": "A typological interpretation, not a defined teaching"
         }
       ],
-      "explanation": "These four facts together extend the Old Testament typology to a further, concrete, historical example.",
-      "hint": "Each row names one careful fact about this further, Old Testament type.",
+      "explanation": "These four points place a typological reading of 1 Kings 2:19 alongside the Church's own grounding of Mary's queenship (Pius XII, Ad Caeli Reginam).",
+      "hint": "Each row names one point about 1 Kings 2:19 or about Mary's queenship.",
       "citations": [
         {
           "type": "scripture",
           "reference": "1 Kings 2:19",
           "quote": "Then Bethsabee came to king Solomon, to speak to him for Adonias: and the king arose to meet her, and bowed to her, and sat down upon his throne: and a throne was set for the king’s mother, and she sat on his right hand.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Ad Caeli Reginam 34-38 (1954)"
         }
       ]
     },
@@ -1969,15 +2084,15 @@
       "level": 9,
       "type": "multiple_choice",
       "difficultyElo": 1450,
-      "prompt": "Bathsheba, as the gebirah (queen mother), sits at King Solomon's right hand in 1 Kings 2. What does this suggest about Mary's title of Queen?",
+      "prompt": "In 1 Kings 2:19 Solomon bows to his mother Bathsheba, and she sits at his right hand. What do many interpreters see in this regarding Mary's title of Queen?",
       "choices": [
-        "The queen mother was a real royal office in the Davidic kingdom, so Mary's queenship is grounded in Scripture's own logic of Davidic kingship",
+        "A Scriptural pattern for Mary's queenship as mother of Jesus, the Son of David",
         "That Bathsheba is identical to Mary in every respect",
         "That Old Testament kingship has no bearing on Marian titles",
-        "That the queen mother's role was merely ceremonial, with no intercessory function"
+        "That the king's mother received no honor at the court"
       ],
-      "correctAnswer": "The queen mother was a real royal office in the Davidic kingdom, so Mary's queenship is grounded in Scripture's own logic of Davidic kingship",
-      "explanation": "In 1 Kings 2:19 Solomon bows to his mother Bathsheba and seats her at his right hand. Since Jesus is the Son of David, the queen-mother office gives a scriptural pattern for Mary's queenship and intercession -- typology, not identity.",
+      "correctAnswer": "A Scriptural pattern for Mary's queenship as mother of Jesus, the Son of David",
+      "explanation": "In 1 Kings 2:19 Solomon bows to his mother Bathsheba, and she sits at his right hand. Many interpreters see here a pattern for Mary's queenship as mother of Jesus, the Son of David -- typology, not identity, and not a defined teaching; the Church grounds Mary's queenship chiefly in her divine motherhood (Pius XII, Ad Caeli Reginam).",
       "hint": "Consider who sat at the king's right hand in Solomon's court.",
       "citations": [
         {
@@ -1985,6 +2100,10 @@
           "reference": "1 Kings 2:19",
           "quote": "Then Bethsabee came to king Solomon, to speak to him for Adonias: and the king arose to meet her, and bowed to her, and sat down upon his throne: and a throne was set for the king’s mother, and she sat on his right hand.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Ad Caeli Reginam 34 (1954)"
         }
       ]
     },
@@ -2020,10 +2139,10 @@
       "level": 10,
       "type": "true_false",
       "difficultyElo": 1475,
-      "prompt": "True or False: Luke twice records that Mary 'kept all these words, pondering them in her heart.'",
+      "prompt": "True or False: Luke twice records that Mary 'kept all these words' in her heart.",
       "correctAnswer": true,
-      "explanation": "True — once after the shepherds' visit and once after finding Jesus in the Temple. Luke is quietly telling us his likely source, and painting Mary as the first Christian contemplative: someone who does not yet fully understand and keeps pondering anyway.",
-      "hint": "The phrase appears twice in Luke's second chapter, bracketing the infancy narrative.",
+      "explanation": "True — once after the shepherds' visit (Luke 2:19) and once after finding Jesus in the Temple (Luke 2:51). Luke shows Mary as someone who does not yet fully understand and keeps these things in her heart anyway.",
+      "hint": "The phrase appears twice in Luke's second chapter.",
       "citations": [
         {
           "type": "scripture",
@@ -2108,15 +2227,21 @@
       "level": 10,
       "type": "fill_blank",
       "difficultyElo": 1585,
-      "prompt": "At Cana, Jesus answers his mother, 'Woman, how does your concern affect me? My ____ has not yet come.' He then works the sign anyway.",
+      "prompt": "At Cana, Jesus answers his mother, 'Woman, what is that to me and to thee? My ____ is not yet come.' He then works the sign anyway.",
       "correctAnswer": "hour",
-      "explanation": "'The hour' in John means the Passion. The exchange is strange until you notice that Mary proceeds as though he had agreed — 'do whatever he tells you' — and he does act. John presents her intercession as genuinely moving the moment forward.",
-      "hint": "In John's Gospel this word always points ahead to the Cross.",
+      "explanation": "In John, Jesus's 'hour' is the hour of his Passion and glorification (John 13:1; 17:1). The exchange is strange until you notice that Mary proceeds as though he had agreed — 'Whatsoever he shall say to you, do ye' — and he does act. John presents her intercession as genuinely moving the moment forward.",
+      "hint": "In John's Gospel, Jesus's own 'hour' points ahead to the Cross.",
       "citations": [
         {
           "type": "scripture",
           "reference": "John 2:4",
           "quote": "And Jesus saith to her: Woman, what is that to me and to thee? My hour is not yet come.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 2:5",
+          "quote": "His mother saith to the waiters: Whatsoever he shall say to you, do ye.",
           "note": "Douay-Rheims"
         }
       ],
@@ -2198,7 +2323,7 @@
         {
           "type": "scripture",
           "reference": "Luke 2:50-51",
-          "quote": "And he went down with them and came to Nazareth and was subject to them. And his mother kept all these words in her heart.",
+          "quote": "And they understood not the word that he spoke unto them. And he went down with them and came to Nazareth and was subject to them. And his mother kept all these words in her heart.",
           "note": "Douay-Rheims"
         }
       ],
@@ -2475,16 +2600,21 @@
         "Gate of Heaven"
       ],
       "correctAnswer": "Star of the Sea",
-      "explanation": "The image is navigational: a sailor in danger fixes on a star that does not move. St. Bernard's famous counsel — 'look to the star, call upon Mary' — uses exactly that logic for anyone tossed about in the storms of life.",
+      "explanation": "The image is navigational: a sailor in danger fixes on a star that does not move. St. Bernard's famous counsel — 'look at the star, call upon Mary' — uses exactly that logic for anyone tossed about in the storms of life.",
       "hint": "Latin: 'stella' is a star and 'maris' is of the sea.",
       "citations": [
         {
           "type": "church_father",
-          "reference": "St. Bernard of Clairvaux, Homilies in Praise of the Virgin Mother II"
+          "reference": "St. Bernard of Clairvaux, Homilies in Praise of the Virgin Mother II, 17"
         },
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 68 (1964)"
+          "type": "magisterial_document",
+          "reference": "Pius XII, Doctor Mellifluus 31 (1953)",
+          "quote": "Mary . . . is interpreted to mean 'Star of the Sea.'"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Spe Salvi 49 (2007)"
         }
       ],
       "audit_status": "pending"
@@ -2529,7 +2659,7 @@
         "Ineffabilis Deus"
       ],
       "correctAnswer": "Ad Caeli Reginam",
-      "explanation": "The title translates as 'To the Queen of Heaven.' Her queenship follows from her Son's kingship and from the Davidic office of queen mother — she reigns as mother of the King, not as a rival authority.",
+      "explanation": "The title translates as 'To the Queen of Heaven.' Her queenship follows from her Son's kingship and her divine motherhood — she reigns as mother of the King, not as a rival authority.",
       "hint": "The Latin title of the encyclical names the very thing the feast celebrates.",
       "citations": [
         {
@@ -2538,7 +2668,7 @@
         },
         {
           "type": "scripture",
-          "reference": "1 Kings 2:19"
+          "reference": "Luke 1:32-33"
         }
       ],
       "audit_status": "pending"
@@ -2645,13 +2775,13 @@
       "difficultyElo": 1625,
       "prompt": "True or False: Lumen Gentium warns against both exaggeration and excessive narrowness in Marian devotion.",
       "correctAnswer": true,
-      "explanation": "True, and the balance is deliberate. The Council cautions theologians and preachers against 'all false exaggeration' on one side and 'too summary an attitude' on the other. Neither inflating Mary nor ignoring her is treated as the safe option.",
+      "explanation": "True, and the balance is deliberate. The Council exhorts theologians and preachers to abstain zealously both from 'all gross exaggerations' and from 'petty narrow-mindedness' in considering the singular dignity of the Mother of God. Neither inflating Mary nor ignoring her is treated as the safe option.",
       "hint": "The Council addresses two opposite errors in the same breath, not one.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 67 (1964)",
-          "quote": "Let them assiduously keep away from whatever, either by word or deed, could lead separated brethren or any other into error regarding the true doctrine of the Church."
+          "quote": "But it exhorts theologians and preachers of the divine word to abstain zealously both from all gross exaggerations as well as from petty narrow-mindedness in considering the singular dignity of the Mother of God."
         }
       ],
       "audit_status": "pending"
@@ -2775,7 +2905,7 @@
       "level": 13,
       "type": "multiple_choice",
       "difficultyElo": 1750,
-      "prompt": "Lumen Gentium 60 explains how Mary's own 'cooperation' can genuinely coexist with Christ's own unique mediation, since 'no creature could ever be counted along with the Incarnate Word.' How?",
+      "prompt": "Lumen Gentium 62 teaches that 'no creature could ever be counted as equal with the Incarnate Word and Redeemer.' How, then, can Mary's cooperation genuinely coexist with Christ's unique mediation?",
       "choices": [
         "Mary's cooperation is 'but a sharing in this one source' -- Christ's mediation -- not a separate, second source",
         "This tension has no honest, theological resolution offered anywhere in Lumen Gentium",
@@ -2862,20 +2992,20 @@
       "prompt": "Match each fact about a further Marian title, 'Mediatrix,' to what it means.",
       "pairs": [
         {
-          "left": "Lumen Gentium 62's own real safeguard",
-          "right": "The title neither takes away from nor adds to Christ's own dignity"
+          "left": "Lumen Gentium 62's own safeguard",
+          "right": "The title neither takes away from nor adds anything to the dignity and efficaciousness of Christ the one Mediator"
         },
         {
           "left": "Mary's own cooperation",
-          "right": "A sharing in Christ's own one source of mediation, not a second source"
+          "right": "A sharing in Christ's one source of mediation, not a second source"
         },
         {
-          "left": "Connection to the pattern of the four dogmas",
-          "right": "The same, careful, Christ-protecting wording as the four defined dogmas"
+          "left": "Status of the title 'Mediatrix'",
+          "right": "Invoked by the Church, but not one of the four defined Marian dogmas"
         },
         {
-          "left": "Why the approach matters",
-          "right": "Applies the same careful, Christ-protecting engagement to a further title"
+          "left": "Other titles named with it in Lumen Gentium 62",
+          "right": "Advocate, Auxiliatrix, and Adjutrix"
         }
       ],
       "explanation": "These four facts together show a theologically precise and carefully safeguarded Marian title.",
@@ -2902,7 +3032,7 @@
         "That it should be abandoned as contradicting Scripture"
       ],
       "correctAnswer": "That the title neither takes away from nor adds to the dignity and efficacy of Christ, the one Mediator",
-      "explanation": "Lumen Gentium 62 teaches that Mary's maternal role in no way obscures or diminishes the one mediation of Christ, but shows its power -- it is a sharing in his mediation, not a second source.",
+      "explanation": "Lumen Gentium 62 teaches that the titles given to Mary are to be understood so that they neither take away from nor add anything to the dignity and efficaciousness of Christ the one Mediator, since his unique mediation gives rise to a manifold cooperation which is but a sharing in this one source.",
       "hint": "Recall that Christ is the one Mediator between God and man.",
       "citations": [
         {
@@ -2920,13 +3050,13 @@
       "difficultyElo": 1825,
       "prompt": "When the Church approves a Marian apparition, what is it actually saying?",
       "choices": [
-        "That it is worthy of belief, without obliging any Catholic to believe it",
+        "That the faithful are authorized to give it prudent adherence, without any Catholic being obliged to believe it",
         "That every Catholic must accept it as an article of faith",
         "That it adds a new truth to public Revelation",
         "That the visionary is guaranteed to be a saint"
       ],
-      "correctAnswer": "That it is worthy of belief, without obliging any Catholic to believe it",
-      "explanation": "Approved apparitions are private revelation. The Catechism is direct about this: such revelations do not improve or complete Christ's definitive Revelation, and a Catholic is entirely free not to accept any of them. Public Revelation closed with the death of the last apostle.",
+      "correctAnswer": "That the faithful are authorized to give it prudent adherence, without any Catholic being obliged to believe it",
+      "explanation": "Approved apparitions are private revelation. CCC 67 says private revelations do not belong to the deposit of faith, and that it is not their role to improve or complete Christ's definitive Revelation. Under the Church's 2024 norms, a Nihil obstat does not declare an apparition supernatural. It means the faithful are authorized to give their adhesion in a prudent manner, and its use is not obligatory. Public Revelation closed with the death of the last apostle.",
       "hint": "Ask whether a Catholic is obliged to believe in Lourdes the way they are obliged to believe in the Resurrection.",
       "citations": [
         {
@@ -2983,8 +3113,8 @@
       "hint": "The visionary was an indigenous Mexican convert, later canonised in 2002.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 67"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Canonization of Juan Diego Cuauhtlatoatzin (31 July 2002)"
         }
       ],
       "audit_status": "pending"
@@ -3007,8 +3137,12 @@
       "hint": "Two of the three were siblings, cousins of the third, and were canonised in 2017.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 67"
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, The Message of Fatima (26 June 2000)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Francis, Homily at the Canonization of Francisco and Jacinta Marto, Fatima (13 May 2017)"
         }
       ],
       "audit_status": "pending"
@@ -3053,8 +3187,8 @@
       "hint": "Most famous apparitions are known for what was said; this one is known for what was not.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 67"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Shrine of Our Lady of Knock (30 September 1979)"
         }
       ],
       "audit_status": "pending"
@@ -3156,7 +3290,7 @@
           "right": "A silent apparition with no message given"
         }
       ],
-      "explanation": "Four apparitions across three centuries and three continents, each approved, none required to be believed. What they share is not spectacle but a call back to prayer and repentance.",
+      "explanation": "Four apparitions, from Mexico in 1531 to Ireland in 1879, none of which any Catholic is required to believe.",
       "hint": "Order them by date and the details fall into place.",
       "citations": [
         {
@@ -3178,19 +3312,19 @@
       "difficultyElo": 1900,
       "prompt": "Sitting more deeply with Guadalupe, what historical, pastoral fruit followed the 1531 apparition to St. Juan Diego?",
       "choices": [
-        "Millions of indigenous people in Mexico converted to the Catholic faith in the years following the apparition",
+        "John Paul II, quoting the Mexican bishops, said the Guadalupe event meant the beginning of evangelization with a vitality that surpassed all expectations",
         "The apparition produced no lasting, historical, pastoral effect of any kind",
         "The apparition led to genuine, widespread, religious persecution instead of any conversion",
         "The historical record shows no meaningful change in the region following the apparition"
       ],
-      "correctAnswer": "Millions of indigenous people in Mexico converted to the Catholic faith in the years following the apparition",
-      "explanation": "This is a further, historical detail worth sitting with -- Guadalupe's own pastoral fruit was genuinely enormous, with millions of indigenous people converting in the years that followed.",
+      "correctAnswer": "John Paul II, quoting the Mexican bishops, said the Guadalupe event meant the beginning of evangelization with a vitality that surpassed all expectations",
+      "explanation": "In his 2002 homily canonizing Juan Diego, John Paul II quoted the Mexican bishops: the Guadalupe event 'meant the beginning of evangelization with a vitality that surpassed all expectations.' This pastoral fruit is not an addition to doctrine.",
       "hint": "Recall the brief mention of Guadalupe, and consider what historical, pastoral effect followed.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 67",
-          "quote": "Christian faith cannot accept \"revelations\" that claim to surpass or correct the Revelation of which Christ is the..."
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Canonization of Juan Diego Cuauhtlatoatzin (31 July 2002)",
+          "quote": "meant the beginning of evangelization with a vitality that surpassed all expectations"
         }
       ]
     },
@@ -3200,15 +3334,15 @@
       "level": 15,
       "type": "true_false",
       "difficultyElo": 1850,
-      "prompt": "True or False: Millions of indigenous people in Mexico actually converted to the Catholic faith in the years following the 1531 apparition at Guadalupe.",
+      "prompt": "True or False: In his 2002 homily canonizing Juan Diego, John Paul II, quoting the Mexican bishops, said the Guadalupe event 'meant the beginning of evangelization with a vitality that surpassed all expectations.'",
       "correctAnswer": true,
-      "explanation": "True, and this further, historical detail matters -- it shows an approved apparition's own pastoral fruit can be genuinely, historically enormous.",
+      "explanation": "True. John Paul II quoted the Mexican bishops in this way in his homily canonizing Juan Diego. It is pastoral fruit and does not add to doctrine.",
       "hint": "Recall the point about the pastoral fruit that followed Guadalupe.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 67",
-          "quote": "Christian faith cannot accept \"revelations\" that claim to surpass or correct the Revelation of which Christ is the..."
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Canonization of Juan Diego Cuauhtlatoatzin (31 July 2002)",
+          "quote": "meant the beginning of evangelization with a vitality that surpassed all expectations"
         }
       ]
     },
@@ -3306,7 +3440,7 @@
       "pairs": [
         {
           "left": "Guadalupe's own real, historical fruit",
-          "right": "Millions of indigenous people converted in the years that followed"
+          "right": "John Paul II, quoting the Mexican bishops: 'the beginning of evangelization with a vitality that surpassed all expectations'"
         },
         {
           "left": "How this fruit should be understood",
@@ -3328,6 +3462,11 @@
           "type": "ccc",
           "reference": "CCC 67",
           "quote": "Christian faith cannot accept \"revelations\" that claim to surpass or correct the Revelation of which Christ is the..."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Canonization of Juan Diego Cuauhtlatoatzin (31 July 2002)",
+          "quote": "meant the beginning of evangelization with a vitality that surpassed all expectations"
         }
       ]
     },
@@ -3345,13 +3484,18 @@
         "They replace Scripture and Tradition"
       ],
       "correctAnswer": "They do not add to the deposit of faith, but can help the faithful live it more fully in a particular period",
-      "explanation": "CCC 67 teaches that private revelations do not improve or complete Christ's definitive Revelation, but help people live more fully by it in a certain period of history. The fruit of Guadalupe -- the conversion of millions in Mexico -- is pastoral, not doctrinal.",
+      "explanation": "CCC 67 teaches that private revelations do not improve or complete Christ's definitive Revelation, but help people live more fully by it in a certain period of history. The fruit of Guadalupe, which John Paul II, quoting the Mexican bishops, described as the beginning of evangelization with a vitality that surpassed all expectations, is pastoral, not doctrinal.",
       "hint": "Recall that public Revelation was completed with Christ and the apostles.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 67",
           "quote": "Christian faith cannot accept \"revelations\" that claim to surpass or correct the Revelation of which Christ is the..."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Canonization of Juan Diego Cuauhtlatoatzin (31 July 2002)",
+          "quote": "meant the beginning of evangelization with a vitality that surpassed all expectations"
         }
       ]
     },
@@ -3369,8 +3513,8 @@
         "Pius XII"
       ],
       "correctAnswer": "John Paul II",
-      "explanation": "In Rosarium Virginis Mariae, John Paul II added the Luminous Mysteries (the Baptism, Cana, the Proclamation of the Kingdom, the Transfiguration, and the Institution of the Eucharist) to fill what he called a gap between the infancy narratives and the Passion — the public ministry itself.",
-      "hint": "The same pope wrote an entire encyclical letter on the Rosary in 2002.",
+      "explanation": "In Rosarium Virginis Mariae, John Paul II added the Luminous Mysteries (the Baptism in the Jordan, the wedding at Cana, the proclamation of the Kingdom with his call to conversion, the Transfiguration, and the institution of the Eucharist) so that the Rosary would include the mysteries of Christ's public ministry between his Baptism and his Passion.",
+      "hint": "The same pope wrote an Apostolic Letter on the Rosary in 2002.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -3386,9 +3530,9 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 1925,
-      "prompt": "True or False: Praying the Rosary is a form of adoration owed to God alone.",
+      "prompt": "True or False: The honor the Church gives to Mary in the Rosary is the adoration owed to God alone.",
       "correctAnswer": false,
-      "explanation": "False. The Rosary is a meditation on the life of Christ prayed through Mary's eyes, and the honour it involves is veneration, not adoration — the same essential distinction Lumen Gentium draws between the cult given to Mary and the cult given to God.",
+      "explanation": "False. Lumen Gentium 66 teaches that the cult given to Mary, although altogether singular, differs essentially from the cult of adoration offered to the Incarnate Word, the Father and the Holy Spirit. The honor given to Mary in the Rosary is veneration, not adoration, and the Rosary is a Christ-centred prayer.",
       "hint": "Recall the distinction between veneration and adoration -- two different kinds of honor.",
       "citations": [
         {
@@ -3408,7 +3552,7 @@
       "level": 16,
       "type": "fill_blank",
       "difficultyElo": 2035,
-      "prompt": "The Rosary prayer traditionally said at noon, evening, and morning, recalling the Annunciation and the Incarnation, is called the ____.",
+      "prompt": "The Marian prayer traditionally said in the morning, at noon, and in the evening, recalling the Annunciation and the Incarnation, is called the ____.",
       "correctAnswer": "Angelus",
       "explanation": "It takes its name from its opening word, 'Angelus Domini nuntiavit Mariae' — 'The Angel of the Lord declared unto Mary.' The prayer walks through the Annunciation in three short exchanges, each followed by a Hail Mary.",
       "hint": "Latin for 'angel' is the first word of the prayer.",
@@ -3428,12 +3572,12 @@
       "difficultyElo": 1975,
       "prompt": "The Memorare begins, 'Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to your protection...' What does it ask?",
       "choices": [
-        "That she was ever left unaided, and asks her intercession on that basis",
+        "That no one who sought her help was ever left unaided, and asks her intercession on that basis",
         "For a specific worldly favor guaranteed by reciting the prayer",
         "For Mary to forgive the one praying",
         "For release from purgatory"
       ],
-      "correctAnswer": "That she was ever left unaided, and asks her intercession on that basis",
+      "correctAnswer": "That no one who sought her help was ever left unaided, and asks her intercession on that basis",
       "explanation": "The prayer's whole argument is an appeal to her track record of intercession, not a guarantee attached to the words themselves. It asks her to hear the prayer 'in her mercy,' the same posture the Church takes toward every act of intercession.",
       "hint": "The prayer's opening line is itself a claim being made as the basis for the request that follows.",
       "citations": [
@@ -3481,7 +3625,15 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 67"
+          "reference": "CCC 1670"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2111"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Message to the Carmelite Family (25 March 2001)"
         }
       ],
       "audit_status": "pending"
@@ -3542,7 +3694,7 @@
         "It is not actually Christocentric; the term is a later reinterpretation"
       ],
       "correctAnswer": "Each mystery is a scene from Christ's life, contemplated through Mary who lived it closest",
-      "explanation": "The Hail Marys are, in John Paul II's phrase, the 'succession of Hail Marys' that forms the warp on which the content is woven: the mysteries of Christ. Mary is the means of contemplation, not its final object.",
+      "explanation": "John Paul II, quoting Paul VI, says 'the succession of Hail Marys constitutes the warp on which is woven the contemplation of the mysteries.' Mary is the means of contemplation, not its final object; the act of love is ultimately directed to Jesus.",
       "hint": "Ask what is being pictured and meditated on during each of the twenty mysteries.",
       "citations": [
         {
@@ -3587,7 +3739,7 @@
         },
         {
           "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 60, 62 (1964)"
+          "reference": "Second Vatican Council, Lumen Gentium 66-67 (1964)"
         }
       ],
       "audit_status": "pending"
@@ -3642,17 +3794,33 @@
       "level": 17,
       "type": "multiple_choice",
       "difficultyElo": 2050,
-      "prompt": "The Angelus repeats a single line three, distinct times across its own structure. What is that repeated line?",
+      "prompt": "The Angelus repeats a single prayer three times across its own structure, once after each verse and response. What is that repeated prayer?",
       "choices": [
-        "Mary's own response to the angel, repeated as the prayer's own central, recurring focus",
+        "The Hail Mary, prayed after each of its three verses and responses",
         "The Angelus contains no repeated line of any kind across its own structure",
-        "The Angelus repeats a line spoken by the angel Gabriel alone, never one spoken by Mary herself",
-        "The Angelus repeats a line from an entirely different, unrelated, Gospel passage"
+        "The Our Father, prayed after each of its three verses and responses",
+        "The Apostles' Creed, prayed after each of its three verses and responses"
       ],
-      "correctAnswer": "Mary's own response to the angel, repeated as the prayer's own central, recurring focus",
-      "explanation": "This is a structural detail -- the Angelus repeats Mary's response to the angel as its central, recurring focus, the same foundational moment of the Annunciation.",
-      "hint": "Recall Mary's response to the angel Gabriel at the Annunciation.",
+      "correctAnswer": "The Hail Mary, prayed after each of its three verses and responses",
+      "explanation": "Each of the Angelus's three verses with its response (the angel's message, Mary's consent, and the Word made flesh) is followed by a Hail Mary. Mary's 'Behold the handmaid of the Lord' is the second verse and is said once; the Hail Mary is what recurs.",
+      "hint": "Recall the prayer that opens with the greetings of Gabriel and Elizabeth and follows each of the three verses and responses.",
       "citations": [
+        {
+          "type": "catechism",
+          "reference": "Compendium of the Catechism of the Catholic Church, Appendix A: Common Prayers (The Angelus)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "And the angel being come in, said unto her: Hail, full of grace, the Lord is with thee: blessed art thou among women.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:42",
+          "quote": "And she cried out with a loud voice and said: Blessed art thou among women and blessed is the fruit of thy womb.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "Luke 1:38",
@@ -3667,11 +3835,27 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: The Angelus repeats Mary's own response to the angel, 'Behold the handmaid of the Lord,' as its own central, recurring focus.",
+      "prompt": "True or False: The Angelus repeats the Hail Mary three times, once after each of its three verses and responses.",
       "correctAnswer": true,
-      "explanation": "True, and this structural detail matters -- praying the Angelus means repeatedly returning to the foundational moment of the Annunciation.",
-      "hint": "Recall the real point about the Angelus's own central, repeated line.",
+      "explanation": "True. Each of the Angelus's three verses and responses is followed by a Hail Mary. Mary's consent, 'Behold the handmaid of the Lord,' is the second verse and is said once.",
+      "hint": "Recall the prayer that follows each of the three verses and responses of the Angelus.",
       "citations": [
+        {
+          "type": "catechism",
+          "reference": "Compendium of the Catechism of the Catholic Church, Appendix A: Common Prayers (The Angelus)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:28",
+          "quote": "And the angel being come in, said unto her: Hail, full of grace, the Lord is with thee: blessed art thou among women.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 1:42",
+          "quote": "And she cried out with a loud voice and said: Blessed art thou among women and blessed is the fruit of thy womb.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "Luke 1:38",
@@ -3737,8 +3921,8 @@
           "right": "Set one daily alarm at the traditional, noon hour"
         },
         {
-          "left": "The Angelus's own central, repeated line",
-          "right": "Mary's own response to the angel, \"Behold the handmaid of the Lord\""
+          "left": "The Angelus's own repeated prayer",
+          "right": "The Hail Mary, prayed after each of its three verses and responses"
         },
         {
           "left": "Why this daily repetition matters spiritually",
@@ -3757,6 +3941,10 @@
           "reference": "Luke 1:38",
           "quote": "And Mary said: Behold the handmaid of the Lord: be it done to me according to thy word. And the angel departed from her.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "catechism",
+          "reference": "Compendium of the Catechism of the Catholic Church, Appendix A: Common Prayers (The Angelus)"
         }
       ]
     },
@@ -3818,7 +4006,7 @@
       "difficultyElo": 2075,
       "prompt": "True or False: The Council of Chalcedon (451) reaffirmed Ephesus's use of Theotokos while also defining Christ's two natures.",
       "correctAnswer": true,
-      "explanation": "True. Chalcedon's own formula names Christ as 'begotten... from Mary the virgin, the God-bearer' in the same breath as defining two natures in one Person — showing that Theotokos and the two-natures doctrine were never seen as being in tension, but as supporting each other.",
+      "explanation": "True. Chalcedon's own definition says Christ was 'begotten... from Mary, the virgin God-bearer as regards his humanity' in the same breath as defining two natures in one Person, showing that the Council held Theotokos and the two-natures doctrine together, as supporting each other rather than in tension.",
       "hint": "Read Chalcedon's own definition closely; it uses the Greek word for God-bearer directly.",
       "citations": [
         {
@@ -3867,7 +4055,7 @@
         "It shows Christ's human nature came only from the Father, not from Mary"
       ],
       "correctAnswer": "She is prepared by grace to be a fitting dwelling for the Son, since nothing sinful could bear him worthily",
-      "explanation": "Lumen Gentium calls her 'enriched from the first instant of her conception with the splendor of an entirely unique holiness' precisely because she was to be the Mother of God. The preparation serves the Incarnation; it is not a private honour detached from it.",
+      "explanation": "Lumen Gentium 56 says the mother of Jesus 'was enriched by God with the gifts which befit such a role' and was 'Adorned from the first instant of her conception with the radiance of an entirely unique holiness.' The preparation serves the Incarnation; it is not a private honour detached from it.",
       "hint": "Ask what purpose the Council gives for the grace, not just what the grace consists of.",
       "citations": [
         {
@@ -3888,20 +4076,14 @@
       "level": 18,
       "type": "fill_blank",
       "difficultyElo": 2185,
-      "prompt": "Munificentissimus Deus (1950) teaches the Assumption as a preview of the general resurrection promised to 'those who have ____ Christ,' since she already shares bodily in what all the redeemed await.",
-      "correctAnswer": "believed in",
-      "explanation": "Pius XII presents the Assumption as the first full instance of what Christ's resurrection means for everyone united to him — a preview, not an exception, of the destiny of every believer.",
-      "hint": "The phrase names the basic condition every Christian shares with Mary.",
+      "prompt": "Munificentissimus Deus (1950) defines as a divinely revealed dogma that Mary, 'having completed the course of her earthly life, was assumed body and soul into heavenly ____.'",
+      "correctAnswer": "glory",
+      "explanation": "Pius XII defined that Mary, 'having completed the course of her earthly life, was assumed body and soul into heavenly glory.' He also expressed the hope that belief in her bodily Assumption 'will make our belief in our own resurrection stronger.'",
+      "hint": "The word names the heavenly state into which her body and soul were taken.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Pius XII, Munificentissimus Deus (1950)"
-        },
-        {
-          "type": "scripture",
-          "reference": "1 Corinthians 15:20",
-          "quote": "But now Christ is risen from the dead, the firstfruits of them that sleep:",
-          "note": "Douay-Rheims"
         }
       ],
       "audit_status": "pending"
@@ -3914,7 +4096,7 @@
       "difficultyElo": 2075,
       "prompt": "True or False: The Council of Ephesus condemned Nestorius in person, present and defending himself at the council.",
       "correctAnswer": false,
-      "explanation": "False. Nestorius refused to appear when first summoned, and the council opened and condemned him in his absence, before the delegation supporting him from Antioch had even arrived — a genuinely messy piece of conciliar history that later councils had to help sort out.",
+      "explanation": "False. Nestorius was summoned three times and refused to appear, and the council, which opened on 22 June 431, condemned him in his absence, before John of Antioch and the eastern bishops with him had arrived.",
       "hint": "Ask whether he actually showed up when the council first convened.",
       "citations": [
         {
@@ -3958,21 +4140,21 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "Lumen Gentium 53 calls Mary a member of the Church who is also, in some sense, distinct from it. How does it phrase this?",
+      "prompt": "How does Lumen Gentium 53 describe Mary's place in the Church?",
       "choices": [
-        "She is a 'preeminent and altogether singular member of the Church,' and its 'model'",
+        "She is a 'pre-eminent and singular member of the Church,' and its 'type and excellent exemplar in faith and charity'",
         "She stands entirely outside the Church, above its ordinary membership",
         "She is described only as one believer among equals, with no special status",
         "The Council avoided addressing her relationship to the Church at all"
       ],
-      "correctAnswer": "She is a 'preeminent and altogether singular member of the Church,' and its 'model'",
-      "explanation": "The Council holds two things together deliberately: she is genuinely a member of the Church, redeemed like every other member, and also its highest exemplar — 'type' of the Church, as the text also calls her, in her hearing and doing God's word.",
-      "hint": "The Council's own wording pairs 'member' with two intensifying adjectives rather than removing her from membership entirely.",
+      "correctAnswer": "She is a 'pre-eminent and singular member of the Church,' and its 'type and excellent exemplar in faith and charity'",
+      "explanation": "The Council holds two things together deliberately: she is genuinely a member of the Church, 'one with all those who are to be saved' and redeemed by reason of the merits of her Son, and she is also 'pre-eminent and singular' among its members, its 'type and excellent exemplar in faith and charity.'",
+      "hint": "The Council's own wording pairs 'member' with the adjectives 'pre-eminent' and 'singular' rather than removing her from membership.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 53 (1964)",
-          "quote": "...is acknowledged and honored as being truly the Mother of God and Mother of the Redeemer. ... At the same time, however, because she belongs to the offspring of Adam she is one with all those who are to be saved."
+          "quote": "Wherefore she is hailed as a pre-eminent and singular member of the Church, and as its type and excellent exemplar in faith and charity."
         }
       ],
       "audit_status": "pending"
@@ -4313,9 +4495,14 @@
         "The Church has no response and treats this as an open contradiction"
       ],
       "correctAnswer": "The Hebrew and Aramaic behind 'brother' covered a wide range of kin, and the same Gospels identify these two as sons of a different Mary",
-      "explanation": "Matthew's own Gospel names 'Mary the mother of James and Joseph' as a distinct woman present at the crucifixion — not the mother of Jesus. Hebrew and Aramaic had no separate word for 'cousin' or 'kinsman'; 'ah' (and the Greek 'adelphos' used to translate it) regularly covered brothers, cousins, and other close relatives, as it does in the Septuagint's own use of the same word for Lot, Abraham's nephew.",
+      "explanation": "Matthew's Gospel names 'Mary the mother of James and Joseph' (Matthew 27:56) among the women at the crucifixion, a woman distinct from the mother of Jesus; the Catechism (CCC 500) says James and Joseph, 'brothers of Jesus', are 'the sons of another Mary'. The word 'brother' is used in the Old Testament of close relatives beyond siblings: in Genesis 13:8 Abram says to Lot, 'we are brethren,' though Lot is his brother's son (Genesis 12:5).",
       "hint": "Compare Matthew 27:56 to Matthew 13:55 and ask whose sons James and Joseph actually are.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 500",
+          "quote": "... James and Joseph, \"brothers of Jesus\", are the sons of another Mary, a disciple of Christ..."
+        },
         {
           "type": "scripture",
           "reference": "Matthew 27:56",
@@ -4327,6 +4514,10 @@
           "reference": "Genesis 13:8",
           "quote": "Abram therefore said to Lot: Let there be no quarrel, I beseech thee, between me and thee, and between my herdsmen and thy herdsmen: for we are brethren.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 12:5"
         },
         {
           "type": "church_father",
@@ -4343,9 +4534,14 @@
       "difficultyElo": 2225,
       "prompt": "True or False: The Gospels name the 'brothers of the Lord' as James and Joseph without ever separately identifying a mother named Mary who is distinct from Jesus' mother.",
       "correctAnswer": false,
-      "explanation": "False. Matthew 27:56 and Mark 15:40 both explicitly name 'Mary the mother of James and Joseph/Joses' as a woman present at the crucifixion, standing alongside Mary Magdalene and Mary the mother of Jesus is not listed as her — the traditional identification of this second Mary is the wife of Clopas from John 19:25.",
+      "explanation": "False. Matthew 27:56 names 'Mary the mother of James and Joseph' and Mark 15:40 names 'Mary the mother of James the Less and of Joseph' among the women at the crucifixion; the Catechism (CCC 500) says James and Joseph, 'brothers of Jesus', are 'the sons of another Mary'. A traditional identification, argued by St. Jerome, takes this second Mary to be the 'Mary of Cleophas' named at John 19:25.",
       "hint": "Check whether the Gospels actually name a second Mary as the mother of James and Joseph.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 500",
+          "quote": "... James and Joseph, \"brothers of Jesus\", are the sons of another Mary, a disciple of Christ..."
+        },
         {
           "type": "scripture",
           "reference": "Matthew 27:56"
@@ -4426,7 +4622,7 @@
       "difficultyElo": 2335,
       "prompt": "St. Jerome's fourth-century treatise responding to the claim that Mary had other children by Joseph is titled Against ____.",
       "correctAnswer": "Helvidius",
-      "explanation": "Helvidius argued from the 'brothers of the Lord' passages that Mary bore other children after Jesus. Jerome's rebuttal - arguing from the linguistic point that Hebrew and Aramaic kinship terms are used broadly - became the standard patristic answer, still used today.",
+      "explanation": "Helvidius argued from the 'brothers of the Lord' passages that Mary bore other children after Jesus. Jerome's rebuttal -- that these 'brothers' were close relations, since Hebrew and Aramaic kinship terms are used broadly, and that James and Joseph were sons of another Mary -- became the standard answer in the West. The Catechism likewise teaches that they are 'close relations of Jesus' (CCC 500).",
       "hint": "The title is simply 'Against' the name of the man Jerome is refuting.",
       "citations": [
         {
@@ -4434,6 +4630,11 @@
           "reference": "Matthew 27:56",
           "quote": "Among whom was Mary Magdalen and Mary the mother of James and Joseph and the mother of the sons of Zebedee.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 500",
+          "quote": "They are close relations of Jesus, according to an Old Testament expression."
         },
         {
           "type": "church_father",
@@ -4567,9 +4768,9 @@
       "hint": "Recall the typological connections between Mary and the Ark, and between Mary and the woman of Revelation 12.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 120",
-          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus 26-27, 38 (1950)",
+          "quote": "All these proofs and considerations of the holy Fathers and the theologians are based upon the Sacred Writings as their ultimate foundation."
         }
       ]
     },
@@ -4585,9 +4786,9 @@
       "hint": "Recall the typological connections between Mary and the Ark and Revelation 12.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 120",
-          "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus 26-27, 38 (1950)",
+          "quote": "All these proofs and considerations of the holy Fathers and the theologians are based upon the Sacred Writings as their ultimate foundation."
         }
       ]
     },
@@ -4665,6 +4866,11 @@
           "type": "ccc",
           "reference": "CCC 120",
           "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus 26-27, 38 (1950)",
+          "quote": "All these proofs and considerations of the holy Fathers and the theologians are based upon the Sacred Writings as their ultimate foundation."
         }
       ]
     },
@@ -4689,6 +4895,11 @@
           "type": "ccc",
           "reference": "CCC 120",
           "quote": "It was by the apostolic Tradition that the Church discerned which writings are to be included in the list of the sacred books."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Munificentissimus Deus 26-27, 38 (1950)",
+          "quote": "All these proofs and considerations of the holy Fathers and the theologians are based upon the Sacred Writings as their ultimate foundation."
         }
       ]
     },
@@ -4698,7 +4909,7 @@
       "level": 22,
       "type": "multiple_choice",
       "difficultyElo": 2425,
-      "prompt": "Which Marian solemnity falls on January 1st, at the very start of the liturgical year's civil calendar?",
+      "prompt": "Which Marian solemnity falls on January 1st, the octave day of Christmas?",
       "choices": [
         "Mary, Mother of God",
         "The Immaculate Conception",
@@ -4706,8 +4917,8 @@
         "Our Lady of Guadalupe"
       ],
       "correctAnswer": "Mary, Mother of God",
-      "explanation": "The Church opens the new civil year celebrating the very title Ephesus defined in 431 — a deliberate placement, since every other Marian feast in the calendar ultimately depends on this one.",
-      "hint": "It is the same title defined at the Council of Ephesus, now placed as the year's first Marian solemnity.",
+      "explanation": "On the octave day of Christmas, which opens the civil year, the Church celebrates the solemnity of the very title Ephesus defined in 431: Mary is truly the Mother of God, because her Son is God.",
+      "hint": "It is the same title defined at the Council of Ephesus.",
       "citations": [
         {
           "type": "council",
@@ -4729,7 +4940,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Pius IX, Ineffabilis Deus (1854)"
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar (1969), General Roman Calendar: 8 December, Solemnity of the Immaculate Conception"
         }
       ],
       "audit_status": "pending"
@@ -4748,7 +4959,7 @@
         "It was removed from the calendar after Vatican II"
       ],
       "correctAnswer": "It is a Holy Day of Obligation celebrating the dogma defined in 1950",
-      "explanation": "It ranks among the Church's most solemn feasts, obligatory in most of the world, and is the oldest of the great Marian feasts historically — kept in Jerusalem centuries before Pius XII gave it dogmatic definition.",
+      "explanation": "It ranks among the Church's most solemn feasts, and Pius XII defined the dogma it celebrates in 1950, long after the feast was being kept. In the United States it is a Holy Day of Obligation, except that the obligation is abrogated when August 15 falls on a Saturday or a Monday.",
       "hint": "This is the feast tied to the dogma of the Assumption.",
       "citations": [
         {
@@ -4764,9 +4975,9 @@
       "level": 22,
       "type": "fill_blank",
       "difficultyElo": 2485,
-      "prompt": "Pope Paul VI instituted the feast of Mary, Mother of the ____, to be celebrated on the Monday after Pentecost, highlighting her spiritual motherhood of every believer.",
+      "prompt": "Pope Francis decreed in 2018 that the Memorial of the Blessed Virgin Mary, Mother of the ____ be celebrated every year on the Monday after Pentecost, highlighting her spiritual motherhood of every believer.",
       "correctAnswer": "Church",
-      "explanation": "The title itself comes from John 19:27 — the disciple receiving Mary as mother, and so every disciple after him. Placing the feast immediately after Pentecost ties her motherhood of the Church directly to the Church's own birth.",
+      "explanation": "The title is rooted in John 19:26-27 -- the disciple receiving Mary as mother, and so every disciple after him; Paul VI solemnly declared it in 1964. The memorial is placed on the day after Pentecost, the day the Church was made manifest to the world, tying her motherhood of the Church to the Church's public beginning.",
       "hint": "This is the same title used as the heading.",
       "citations": [
         {
@@ -4776,6 +4987,10 @@
         {
           "type": "council",
           "reference": "Second Vatican Council, Lumen Gentium 53 (1964)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for Divine Worship and the Discipline of the Sacraments, Decree on the celebration of the Blessed Virgin Mary Mother of the Church in the General Roman Calendar (11 February 2018)"
         }
       ],
       "audit_status": "pending"
@@ -4794,9 +5009,14 @@
         "It refers only to her appearance in medieval icons"
       ],
       "correctAnswer": "She already shows, in her own body, the glory the whole Church hopes to share at the end of time",
-      "explanation": "The Assumption means the general resurrection has already happened, bodily, for one member of the Church. She stands at the end of the story the rest of the Church is still living — which is exactly what 'eschatological icon' means: a living image of where all of this is going.",
+      "explanation": "The Assumption is Mary's singular participation, in body and soul, in her Son's Resurrection -- what the Catechism calls 'an anticipation of the resurrection of other Christians' (CCC 966). She stands at the end of the story the rest of the Church is still living -- which is what 'eschatological icon' means: a living image of where all of this is going.",
       "hint": "'Eschatological' concerns the last things; ask what she already possesses that everyone else still awaits.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 966",
+          "quote": "an anticipation of the resurrection of other Christians"
+        },
         {
           "type": "magisterial_document",
           "reference": "Pius XII, Munificentissimus Deus (1950)"
@@ -4814,10 +5034,10 @@
       "level": 22,
       "type": "true_false",
       "difficultyElo": 2375,
-      "prompt": "True or False: Lumen Gentium calls Mary a 'sign of sure hope and comfort for the pilgrim People of God' while it is still journeying through history.",
+      "prompt": "True or False: Lumen Gentium 68 teaches that Mary, glorified in body and soul in heaven, shines forth on earth as 'a sign of sure hope and solace to the people of God during its sojourn on earth.'",
       "correctAnswer": true,
-      "explanation": "True — the Council's very last words on Mary. She is not presented as a figure safely finished with the story, but as a living sign of hope for a Church that has not yet arrived.",
-      "hint": "This is the Council's own closing line on the whole of Marian doctrine.",
+      "explanation": "True. Lumen Gentium 68 presents Mary, glorified in body and soul, as the image and beginning of the Church as it is to be perfected in the world to come, and as a sign of sure hope and solace for the people of God on its earthly journey. She is not presented as a figure safely finished with the story, but as a living sign of hope for a Church that has not yet arrived.",
+      "hint": "Think of Mary as the image and beginning of the Church as it is to be perfected, and of what that offers the Church still on earth.",
       "citations": [
         {
           "type": "council",
@@ -4903,7 +5123,7 @@
       "level": 22,
       "type": "matching_pairs",
       "difficultyElo": 2465,
-      "prompt": "Match each major Marian solemnity to its date or placement in the liturgical year.",
+      "prompt": "Match each Marian celebration in the General Roman Calendar to its date or placement in the liturgical year.",
       "pairs": [
         {
           "left": "Mary, Mother of God",
@@ -4922,20 +5142,16 @@
           "right": "The Monday after Pentecost"
         }
       ],
-      "explanation": "The Church's calendar is not arbitrary: each Marian feast is placed where it is to say something — the year opens with the title that protects Christ's identity, and her motherhood of the Church is celebrated the moment the Church itself is born at Pentecost.",
+      "explanation": "The Church's calendar is not arbitrary: each Marian celebration is placed where it is to say something -- the civil year opens on the octave day of Christmas with the title that safeguards the truth about Christ's identity, and her motherhood of the Church is celebrated on the day after Pentecost, when the Church was made manifest to the world.",
       "hint": "Think through the liturgical year in order and place each feast in its season.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Pius IX, Ineffabilis Deus (1854)"
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar (1969), General Roman Calendar"
         },
         {
           "type": "magisterial_document",
-          "reference": "Pius XII, Munificentissimus Deus (1950)"
-        },
-        {
-          "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium 53 (1964)"
+          "reference": "Congregation for Divine Worship and the Discipline of the Sacraments, Decree on the celebration of the Blessed Virgin Mary Mother of the Church in the General Roman Calendar (11 February 2018)"
         }
       ],
       "audit_status": "pending"
@@ -4948,13 +5164,13 @@
       "difficultyElo": 2500,
       "prompt": "After every dogma, title, apparition, devotion, and objection, what is the final measure of Mary's significance for a believer?",
       "choices": [
-        "Mary as the model of lived discipleship -- her own simple words to the servants at Cana, 'Do whatever he tells you,' summing up her own entire life",
+        "Mary as the model of lived discipleship -- her own simple words to the servants at Cana, 'Whatsoever he shall say to you, do ye,' summing up her own entire life",
         "The only measure of success is having memorized every dogma, title, and apparition",
         "The only measure of success is finishing the course of study, with no practical implication",
         "There is no final measure at all"
       ],
-      "correctAnswer": "Mary as the model of lived discipleship -- her own simple words to the servants at Cana, 'Do whatever he tells you,' summing up her own entire life",
-      "explanation": "Mary's simple words at Cana, 'Do whatever he tells you,' sum up her entire life of discipleship, and are the true final measure of her significance.",
+      "correctAnswer": "Mary as the model of lived discipleship -- her own simple words to the servants at Cana, 'Whatsoever he shall say to you, do ye,' summing up her own entire life",
+      "explanation": "Mary's simple words at Cana, 'Whatsoever he shall say to you, do ye,' sum up her entire life of discipleship, and are the true final measure of her significance.",
       "hint": "Recall Mary's free 'yes' at the Annunciation.",
       "citations": [
         {
@@ -4971,7 +5187,7 @@
       "level": 23,
       "type": "true_false",
       "difficultyElo": 2450,
-      "prompt": "True or False: Mary's own words at Cana, 'Do whatever he tells you,' sum up her own entire life of discipleship.",
+      "prompt": "True or False: Mary's own words at Cana, 'Whatsoever he shall say to you, do ye,' sum up her own entire life of discipleship.",
       "correctAnswer": true,
       "explanation": "True, and this is exactly the final point -- her own simple, practical instruction captures her own, entire pattern of life.",
       "hint": "Recall the point about what Mary's own words at Cana sum up.",
@@ -5089,7 +5305,7 @@
           "right": "Saying 'yes' to God and pointing others toward Christ, never herself"
         },
         {
-          "left": "\"Do whatever he tells you\"",
+          "left": "\"Whatsoever he shall say to you, do ye\"",
           "right": "Sums up Mary's own entire, real life in one, simple, practical instruction"
         },
         {
@@ -5160,13 +5376,13 @@
       "difficultyElo": 2500,
       "prompt": "Given the picture of discipleship, what does the whole of Marian teaching ultimately teach about Mary?",
       "choices": [
-        "That every dogma and devotion exists to serve Mary's pattern of saying 'yes' and pointing to Christ",
+        "That every Marian dogma and devotion looks to Christ, and that Mary's 'yes' and pointing to her Son is the pattern of discipleship for every believer",
         "That technical doctrinal precision alone, without lived discipleship, is fully sufficient",
         "That Marian teaching has no coherent final lesson at all",
         "That Mary's own life and a present-day believer's own life are entirely unrelated"
       ],
-      "correctAnswer": "That every dogma and devotion exists to serve Mary's pattern of saying 'yes' and pointing to Christ",
-      "explanation": "Every dogma and title exists to serve Mary's consistent pattern of saying 'yes' and pointing toward Christ.",
+      "correctAnswer": "That every Marian dogma and devotion looks to Christ, and that Mary's 'yes' and pointing to her Son is the pattern of discipleship for every believer",
+      "explanation": "Every Marian dogma and devotion looks to Christ, and Mary herself, by her 'yes' and by calling others to her Son, is the model of discipleship for every believer.",
       "hint": "Consider what Marian teaching, taken as a whole, reveals about Mary.",
       "citations": [
         {
@@ -5174,6 +5390,10 @@
           "reference": "Luke 1:38",
           "quote": "And Mary said: Behold the handmaid of the Lord: be it done to me according to thy word. And the angel departed from her.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 65, 67 (1964)"
         }
       ]
     }
