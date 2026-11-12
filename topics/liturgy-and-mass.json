@@ -20,8 +20,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1332",
-          "quote": "Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful..."
+          "reference": "CCC 1140",
+          "quote": "Liturgical services are not private functions but are celebrations of the Church..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1200",
+          "quote": "it is the same Paschal mystery that the Churches of God, faithful to the apostolic faith, celebrate in every place."
         }
       ]
     },
@@ -37,9 +42,9 @@
       "hint": "Consider whether the teaching on the liturgy's own unique value excludes private prayer.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1332",
-          "quote": "Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful..."
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 12",
+          "quote": "The Christian is indeed called to pray with his brethren, but he must also enter into his chamber to pray to the Father, in secret"
         }
       ]
     },
@@ -62,8 +67,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1332",
-          "quote": "Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful..."
+          "reference": "CCC 1069",
+          "quote": "The word \"liturgy\" originally meant a \"public work\" or a \"service in the name of/on behalf of the people.\""
         }
       ]
     },
@@ -117,12 +122,16 @@
       "difficultyElo": 800,
       "prompt": "True or False: Catholics are obligated to attend Mass on Sundays and holy days of obligation.",
       "correctAnswer": true,
-      "explanation": "True. The Church's own precept obligates Catholics to attend Mass on Sundays and holy days of obligation, resting from unnecessary work -- a concrete expression of the liturgy's own central place in Catholic life.",
+      "explanation": "True. The Church's first precept obligates Catholics to attend Mass on Sundays and holy days of obligation, and on those days the faithful are also to refrain from work or activities that hinder the worship owed to God (CCC 2185) -- a concrete expression of the liturgy's central place in Catholic life.",
       "hint": "Recall the real precept of the Church governing Mass attendance.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2042"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2185"
         }
       ]
     },
@@ -158,6 +167,18 @@
           "type": "ccc",
           "reference": "CCC 1332",
           "quote": "Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1069"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 12"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2042"
         }
       ]
     },
@@ -197,9 +218,14 @@
       "hint": "Recall the teaching on why the Church worships through set, communal ritual in the first place.",
       "citations": [
         {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 22",
+          "quote": "Therefore no other person, even if he be a priest, may add, remove, or change anything in the liturgy on his own authority."
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1332",
-          "quote": "Holy Mass (Missa), because the liturgy in which the mystery of salvation is accomplished concludes with the sending forth (missio) of the faithful..."
+          "reference": "CCC 1125",
+          "quote": "no sacramental rite may be modified or manipulated at the will of the minister or the community"
         }
       ]
     },
@@ -233,15 +259,15 @@
       "level": 2,
       "type": "true_false",
       "difficultyElo": 875,
-      "prompt": "True or False: Calling the Eucharist the 'summit' of Christian life means every other Catholic practice -- prayer, works of mercy, the other sacraments -- flows toward and finds its own fulfillment there.",
+      "prompt": "True or False: Calling the Eucharist the 'summit' of Christian life means the other sacraments and all ecclesiastical ministries and works of the apostolate are bound up with the Eucharist and oriented toward it.",
       "correctAnswer": true,
-      "explanation": "True. As the summit, the Eucharist is where every other practice of Christian life finds its own highest, fullest expression -- not a separate devotion, but the point everything else leads toward.",
+      "explanation": "True. CCC 1324 teaches that the other sacraments, and all ecclesiastical ministries and works of the apostolate, are bound up with the Eucharist and oriented toward it -- it is not a separate devotion, but the point toward which they are directed.",
       "hint": "Consider what a 'summit' is in relation to everything below it on the same mountain.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1324",
-          "quote": "The Eucharist is \"the source and summit of the Christian life.\""
+          "quote": "The other sacraments, and indeed all ecclesiastical ministries and works of the apostolate, are bound up with the Eucharist and are oriented toward it."
         }
       ]
     },
@@ -253,13 +279,13 @@
       "difficultyElo": 925,
       "prompt": "In the simplest possible terms, what happens at Mass?",
       "choices": [
-        "The community gathers to hear God's word and receive Christ, truly present in bread and wine",
+        "The community gathers to hear God's word and receive Christ, truly present under the appearances of bread and wine",
         "The community gathers purely to socialize, with no real spiritual content involved at all",
         "A priest performs a private ritual while the congregation simply observes with no active part",
         "Nothing happens; the Mass is purely symbolic theater"
       ],
-      "correctAnswer": "The community gathers to hear God's word and receive Christ, truly present in bread and wine",
-      "explanation": "In its simplest terms, the Mass is the community gathering to hear God's own word and to receive Christ himself, truly present -- a twofold action.",
+      "correctAnswer": "The community gathers to hear God's word and receive Christ, truly present under the appearances of bread and wine",
+      "explanation": "In its simplest terms, the Mass is the community gathering to hear God's own word and to receive Christ himself, truly present under the appearances of bread and wine -- a twofold action.",
       "hint": "Consider the two basic things that happen at every single Mass.",
       "citations": [
         {
@@ -306,8 +332,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1324",
-          "quote": "The Eucharist is \"the source and summit of the Christian life.\""
+          "reference": "CCC 1374",
+          "quote": "the whole Christ is truly, really, and substantially contained"
         }
       ]
     },
@@ -324,8 +350,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1324",
-          "quote": "The Eucharist is \"the source and summit of the Christian life.\""
+          "reference": "CCC 1374",
+          "quote": "the whole Christ is truly, really, and substantially contained"
         }
       ]
     },
@@ -361,6 +387,15 @@
           "type": "ccc",
           "reference": "CCC 1324",
           "quote": "The Eucharist is \"the source and summit of the Christian life.\""
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1346"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1374",
+          "quote": "the whole Christ is truly, really, and substantially contained"
         }
       ]
     },
@@ -408,6 +443,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1379"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 940",
+          "quote": "A special lamp which indicates and honors the presence of Christ is to shine continuously before a tabernacle in which the Most Holy Eucharist is reserved."
         }
       ]
     },
@@ -422,6 +462,11 @@
       "explanation": "True, and this is exactly the kind of concrete practice a newcomer would observe -- a physical gesture of reverence, flowing directly from the belief that Christ is truly present in the tabernacle.",
       "hint": "Consider what physical gesture would naturally follow from genuinely believing Christ is truly present nearby.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1378",
+          "quote": "genuflecting or bowing deeply as a sign of adoration of the Lord"
+        },
         {
           "type": "ccc",
           "reference": "CCC 1379"
@@ -447,8 +492,18 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
-          "quote": "Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 30",
+          "quote": "To promote active participation, the people should be encouraged to take part by means of acclamations, responses, psalmody, antiphons, and songs, as well as by actions, gestures, and bodily attitudes."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1146",
+          "quote": "man expresses and perceives spiritual realities through physical signs and symbols"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 42",
+          "quote": "A common posture, to be observed by all participants, is a sign of the unity of the members of the Christian community gathered for the sacred Liturgy"
         }
       ]
     },
@@ -467,6 +522,11 @@
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
           "quote": "Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 11",
+          "quote": "it is necessary that the faithful come to it with proper dispositions, that their minds should be attuned to their voices"
         }
       ]
     },
@@ -489,8 +549,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
-          "quote": "Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 11",
+          "quote": "it is necessary that the faithful come to it with proper dispositions, that their minds should be attuned to their voices"
         }
       ]
     },
@@ -500,15 +560,15 @@
       "level": 3,
       "type": "true_false",
       "difficultyElo": 950,
-      "prompt": "True or False: For a newcomer to the Mass, honest, attentive presence is itself a genuine act of faith, not something to be ashamed of.",
+      "prompt": "True or False: For a newcomer to the Mass, honest, attentive presence matters more than flawless execution of every gesture.",
       "correctAnswer": true,
-      "explanation": "True. Honest, simple engagement matters more than expert-level completeness, and the same holds at Mass: a newcomer's own honest, attentive presence matters more than flawless liturgical execution.",
+      "explanation": "True. The Church asks that the faithful come to the liturgy with proper dispositions, their minds attuned to what is prayed, so that it may produce its full effects (Sacrosanctum Concilium 11). That is what matters, not flawless execution of every gesture, so a newcomer's honest, attentive presence matters more than perfect liturgical form.",
       "hint": "Consider whether honest, simple engagement matters more than expert completeness.",
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
-          "quote": "Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 11",
+          "quote": "it is necessary that the faithful come to it with proper dispositions, that their minds should be attuned to their voices"
         }
       ]
     },
@@ -541,9 +601,21 @@
       "hint": "Each row pairs something a newcomer would notice with its deeper meaning.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 940"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 30"
+        },
+        {
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
           "quote": "Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 11"
         }
       ]
     },
@@ -555,19 +627,19 @@
       "difficultyElo": 1000,
       "prompt": "What general lesson applies to the external signs a newcomer notices at Mass, such as the sanctuary lamp?",
       "choices": [
-        "The Mass's own external signs all carry traditional meaning, worth learning",
+        "The Mass's external signs and symbols carry meaning, worth learning",
         "The Mass's own external signs are purely decorative, with no real meaning behind any of them",
         "A newcomer should avoid asking any questions about what they observe at Mass",
         "None of the signs has any bearing on understanding the Mass"
       ],
-      "correctAnswer": "The Mass's own external signs all carry traditional meaning, worth learning",
-      "explanation": "The Mass's external signs are never merely decorative -- each one carries traditional meaning worth learning.",
+      "correctAnswer": "The Mass's external signs and symbols carry meaning, worth learning",
+      "explanation": "The celebration is woven from signs and symbols whose meaning is rooted in creation, human culture and salvation history -- they are not merely decorative, and are worth learning.",
       "hint": "Consider whether the Mass's external signs are decorative or meaningful.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 14",
-          "quote": "Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy."
+          "type": "ccc",
+          "reference": "CCC 1145",
+          "quote": "A sacramental celebration is woven from signs and symbols."
         }
       ]
     },
@@ -720,7 +792,7 @@
         "A specifically Latin word with no Greek root"
       ],
       "correctAnswer": "A public work or service, originally a work done on behalf of and for the people",
-      "explanation": "'Leitourgia' in Greek meant a public work undertaken for the community. The Church adopted the word precisely because the Mass is not a private devotion happening to be witnessed by others — it is public, communal action from the start.",
+      "explanation": "'Leitourgia' in Greek meant a public work undertaken on behalf of the people. In Christian tradition it means the participation of the People of God in 'the work of God' (CCC 1069) -- public, communal action rather than private devotion.",
       "hint": "The Greek root concerns something done publicly, for others.",
       "citations": [
         {
@@ -742,7 +814,18 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1140"
+          "reference": "CCC 1140",
+          "quote": "rites which are meant to be celebrated in common ... should as far as possible be celebrated in that way"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 906",
+          "quote": "Except for a just and reasonable cause, a priest is not to celebrate the eucharistic sacrifice without the participation of at least some member of the faithful."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "the power of Christ and his Spirit acts in and through it, independently of the personal holiness of the minister"
         }
       ]
     },
@@ -752,7 +835,7 @@
       "level": 4,
       "type": "multiple_choice",
       "difficultyElo": 1075,
-      "prompt": "What is the tabernacle, found in every Catholic church?",
+      "prompt": "What is the tabernacle found in a Catholic church?",
       "choices": [
         "The receptacle where the consecrated Eucharist is reserved between Masses",
         "The chair where the priest sits during the readings",
@@ -760,7 +843,7 @@
         "The cloth covering the altar during Mass"
       ],
       "correctAnswer": "The receptacle where the consecrated Eucharist is reserved between Masses",
-      "explanation": "The tabernacle's purpose is reservation, chiefly so the Eucharist can be brought to the sick and dying and so the faithful can adore Christ present there outside of Mass — which is also why a sanctuary lamp burns nearby whenever the Eucharist is reserved.",
+      "explanation": "The tabernacle's purpose is reservation, first so the Eucharist can be brought to the sick and those absent from Mass, and then so the faithful can adore Christ present there outside of Mass (CCC 1379) -- which is also why a sanctuary lamp burns before it (Code of Canon Law, can. 940).",
       "hint": "Its purpose concerns what happens to the Eucharist after Mass ends.",
       "citations": [
         {
@@ -827,7 +910,7 @@
         {
           "type": "ccc",
           "reference": "CCC 1346",
-          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+          "quote": "The Eucharistic table set for us is the table both of the Word of God and of the Body of the Lord."
         }
       ]
     },
@@ -845,7 +928,7 @@
         {
           "type": "ccc",
           "reference": "CCC 1346",
-          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+          "quote": "The liturgy of the Word and liturgy of the Eucharist together form \"one single act of worship\""
         }
       ]
     },
@@ -885,6 +968,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 121",
+          "quote": "Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1349"
         }
       ]
@@ -895,7 +983,7 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1150,
-      "prompt": "The Catechism calls the Eucharistic Prayer 'the center and summit of the entire celebration.' Given this, why doesn't the Liturgy of the Word simply become optional, if the Liturgy of the Eucharist is the high point?",
+      "prompt": "The Catechism calls the Eucharistic Prayer 'the heart and summit of the celebration.' Given this, why doesn't the Liturgy of the Word simply become optional, if the Liturgy of the Eucharist is the high point?",
       "choices": [
         "A summit still needs an ascent leading up to it -- the Word prepares the ground the Eucharist is received into",
         "Because the Liturgy of the Word is equally important as the Eucharistic Prayer, with no distinction between them at all",
@@ -909,7 +997,12 @@
         {
           "type": "ccc",
           "reference": "CCC 1352",
-          "quote": "...and summit of the..."
+          "quote": "we come to the heart and summit of the celebration"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1346",
+          "quote": "The liturgy of the Word and liturgy of the Eucharist together form \"one single act of worship\""
         }
       ]
     },
@@ -926,8 +1019,13 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 1346",
+          "quote": "The liturgy of the Word and liturgy of the Eucharist together form \"one single act of worship\""
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1352",
-          "quote": "...and summit of the..."
+          "quote": "we come to the heart and summit of the celebration"
         }
       ]
     },
@@ -961,32 +1059,17 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1352",
-          "quote": "...and summit of the..."
-        }
-      ]
-    },
-    {
-      "id": "liturgy-and-mass-l5-009",
-      "topic": "liturgy-and-mass",
-      "level": 5,
-      "type": "multiple_choice",
-      "difficultyElo": 1150,
-      "prompt": "Beyond simply naming the Mass's two parts, what deeper question does understanding its structure answer?",
-      "choices": [
-        "Explaining why the Mass's structure exists this way, not just describing it",
-        "Assuming the Mass's own structure has no deeper reasoning behind it at all",
-        "Treating the Mass's two parts as entirely equal, with no real distinction between summit and ascent",
-        "Avoiding any explanation for why the Mass's structure exists at all"
-      ],
-      "correctAnswer": "Explaining why the Mass's structure exists this way, not just describing it",
-      "explanation": "The contribution moves from simply naming the Mass's two parts to explaining the theological reasoning behind why that structure exists.",
-      "hint": "Consider the difference between describing the Mass's two parts and explaining why that structure exists.",
-      "citations": [
+          "reference": "CCC 1346",
+          "quote": "The Eucharistic table set for us is the table both of the Word of God and of the Body of the Lord."
+        },
         {
           "type": "ccc",
-          "reference": "CCC 1346",
-          "quote": "The liturgy of the Eucharist unfolds according to a fundamental structure which has been preserved throughout the centuries down to our own day."
+          "reference": "CCC 1349"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 78",
+          "quote": "Now the center and summit of the entire celebration begins: namely, the Eucharistic Prayer"
         }
       ]
     },
@@ -998,18 +1081,19 @@
       "difficultyElo": 1225,
       "prompt": "On a typical Sunday, how many Scripture readings (not counting the Responsorial Psalm) are proclaimed during the Liturgy of the Word?",
       "choices": [
-        "Three -- an Old Testament reading, a New Testament epistle, and the Gospel",
+        "Three -- a first reading (usually from the Old Testament), a second reading from the New Testament, and the Gospel",
         "One -- just the Gospel",
         "Five -- one from each part of the Bible",
         "Two -- an epistle and the Gospel only"
       ],
-      "correctAnswer": "Three -- an Old Testament reading, a New Testament epistle, and the Gospel",
-      "explanation": "Sunday Mass draws readings from across salvation history -- Old Testament, New Testament letter, and Gospel -- woven together with a Responsorial Psalm as the congregation's sung response.",
+      "correctAnswer": "Three -- a first reading (usually from the Old Testament), a second reading from the New Testament, and the Gospel",
+      "explanation": "On Sundays and solemnities three readings are assigned: from a Prophet, an Apostle, and a Gospel (in the Easter Season the first reading is taken from the Acts of the Apostles instead of the Old Testament). They are joined with a Responsorial Psalm as the congregation's response.",
       "hint": "Weekdays typically have two readings; Sundays add one more.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1349"
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 357",
+          "quote": "For Sundays and solemnities, three readings are assigned: that is, from a Prophet, an Apostle, and a Gospel."
         }
       ]
     },
@@ -1037,15 +1121,15 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "The homily, which follows the Gospel, is 'highly recommended' by Vatican II as part of the liturgy itself, drawing out the meaning of the readings and applying them to Christian ____.",
+      "prompt": "The homily, which follows the Gospel, is 'to be highly esteemed' by Vatican II as part of the liturgy itself, drawing out the meaning of the readings and applying them to Christian ____.",
       "correctAnswer": "life",
       "explanation": "The homily isn't an optional add-on speech -- the council explicitly treats it as part of the liturgical action, meant to connect the proclaimed word to the community's actual daily living.",
       "hint": "It's about applying Scripture to how people live day to day.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Vatican II, Sacrosanctum Concilium 52",
-          "quote": "By means of the homily the Mysteries of the Faith and the guiding principles of the Christian life are expounded from the sacred text... the homily, therefore, is to be highly esteemed as part of the Liturgy itself."
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 52",
+          "quote": "By means of the homily the mysteries of the faith and the guiding principles of the Christian life are expounded from the sacred text... the homily, therefore, is to be highly esteemed as part of the liturgy itself."
         }
       ]
     },
@@ -1122,6 +1206,16 @@
         {
           "type": "ccc",
           "reference": "CCC 1349"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 60",
+          "quote": "The reading of the Gospel is the high point of the Liturgy of the Word."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 61",
+          "quote": "After the first reading comes the responsorial Psalm, which is an integral part of the Liturgy of the Word"
         }
       ]
     },
@@ -1143,8 +1237,9 @@
       "hint": "Ask what problem a longer reading cycle actually solves compared to a one-year repeat.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1349"
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
+          "quote": "In this way a more representative portion of the holy scriptures will be read to the people in the course of a prescribed number of years."
         }
       ]
     },
@@ -1160,8 +1255,9 @@
       "hint": "Ask why this particular Psalm is paired with this particular first reading, rather than being random.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1177"
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal 61",
+          "quote": "After the first reading comes the responsorial Psalm, which is an integral part of the Liturgy of the Word"
         }
       ]
     },
@@ -1171,9 +1267,9 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "The book from which the Gospel is proclaimed at Mass is called the ____, and it is often carried in procession and incensed as a sign of honor.",
-      "correctAnswer": "Evangeliary",
-      "explanation": "The Evangeliary (or Book of the Gospels) is treated with particular reverence — processed, incensed, sometimes kissed by the deacon or priest — because it contains Christ's own words in a special way, distinct from the ordinary lectionary used for the other readings.",
+      "prompt": "The book from which the Gospel is proclaimed at Mass is called the Book of the ____, and it is often carried in procession and incensed as a sign of honor.",
+      "correctAnswer": "Gospels",
+      "explanation": "The Book of the Gospels (also called the Evangeliary) is treated with particular reverence -- carried in procession, incensed, and kissed by the priest -- because it contains the Gospel, in which Christ is present and speaking. It is distinct from the lectionary used for the other readings.",
       "hint": "This book is specifically for the Gospel readings alone, distinct from the lectionary used for the other readings.",
       "citations": [
         {
@@ -1256,9 +1352,9 @@
       "hint": "Consider whether the point about liturgical proclamation implies private reading is discouraged.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
-          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
+          "type": "ccc",
+          "reference": "CCC 133",
+          "quote": "forcefully and specifically exhorts all the Christian faithful... by frequent reading of the divine Scriptures"
         }
       ]
     },
@@ -1323,26 +1419,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
-          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
-        }
-      ]
-    },
-    {
-      "id": "liturgy-and-mass-l7-006",
-      "topic": "liturgy-and-mass",
-      "level": 7,
-      "type": "true_false",
-      "difficultyElo": 1250,
-      "prompt": "True or False: A good answer to the skeptic's objection distinguishes a real objection from a caricature by checking exactly what is being claimed.",
-      "correctAnswer": true,
-      "explanation": "True. The good method is the same discipline in any apologetic answer: checking exactly what is being claimed, and answering it with specific reasoning rather than a generic dismissal.",
-      "hint": "Consider the method of answering objections carefully and specifically.",
-      "citations": [
-        {
-          "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
-          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 7",
+          "quote": "He is present in His word, since it is He Himself who speaks when the holy scriptures are read in the Church."
         }
       ]
     },
@@ -1378,30 +1456,16 @@
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
           "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
-        }
-      ]
-    },
-    {
-      "id": "liturgy-and-mass-l7-009",
-      "topic": "liturgy-and-mass",
-      "level": 7,
-      "type": "multiple_choice",
-      "difficultyElo": 1300,
-      "prompt": "What does a shared, communal proclamation of Scripture add that private reading alone cannot?",
-      "choices": [
-        "Distinguishing a communal liturgical act from its private counterpart, naming what the communal form adds",
-        "Assuming liturgical proclamation and private reading are always identical experiences",
-        "Assuming private Scripture reading has no real value once liturgical proclamation exists",
-        "Avoiding any careful comparison between liturgical and private practice"
-      ],
-      "correctAnswer": "Distinguishing a communal liturgical act from its private counterpart, naming what the communal form adds",
-      "explanation": "The habit -- naming exactly what a communal, liturgical act adds beyond its private counterpart -- is a discipline that applies to the sacraments and the liturgical year as well.",
-      "hint": "Consider what distinguishes a communal liturgical act from its private counterpart.",
-      "citations": [
+        },
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 51",
-          "quote": "The treasures of the bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God's word."
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 7",
+          "quote": "He is present in His word, since it is He Himself who speaks when the holy scriptures are read in the Church."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 133",
+          "quote": "forcefully and specifically exhorts all the Christian faithful... by frequent reading of the divine Scriptures"
         }
       ]
     },
@@ -1424,8 +1488,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1352",
-          "quote": "...and summit of the..."
+          "reference": "CCC 1346",
+          "quote": "the liturgy of the Eucharist, with the presentation of the bread and wine, the consecratory thanksgiving, and communion."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1355",
+          "quote": "In the communion, preceded by the Lord's prayer and the breaking of the bread, the faithful receive"
         }
       ]
     },
@@ -1495,13 +1564,18 @@
       "difficultyElo": 1325,
       "prompt": "True or False: A Catholic who is conscious of grave sin may still receive Holy Communion, as long as they intend to go to Confession at some point afterward.",
       "correctAnswer": false,
-      "explanation": "The Catechism teaches that anyone conscious of grave sin must first receive sacramental absolution before receiving Communion, except in a genuine emergency with no opportunity for confession -- 'intending to confess later' isn't sufficient.",
+      "explanation": "The Catechism teaches that anyone conscious of a grave sin must receive the sacrament of Reconciliation before coming to Communion. The only exception it names is a grave reason for receiving Communion when there is no possibility of going to confession (CCC 1457). Merely intending to confess later is not sufficient.",
       "hint": "Confession is meant to come before Communion in this case, not simply intended for later.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1385",
-          "quote": "To respond to this invitation we must prepare ourselves for so great and so holy a moment."
+          "quote": "Anyone conscious of a grave sin must receive the sacrament of Reconciliation before coming to communion."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1457",
+          "quote": "unless he has a grave reason for receiving Communion and there is no possibility of going to confession"
         }
       ]
     },
@@ -1545,7 +1619,7 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "What is the theological significance of the priest's words 'Do this in memory of me' at the Last Supper?",
+      "prompt": "What is the theological significance of Christ's words at the Last Supper, 'Do this for a commemoration of me'?",
       "choices": [
         "Christ commands the apostles and their successors to re-present this same sacrifice, not merely to recall it as a past event",
         "Christ asks only that his followers remember him privately in prayer",
@@ -1591,12 +1665,17 @@
       "difficultyElo": 1435,
       "prompt": "The part of the Mass where the priest and people offer the bread and wine, along with their own lives and labors, to God is called the ____.",
       "correctAnswer": "Offertory",
-      "explanation": "At the Offertory the bread and wine — 'fruit of the earth and work of human hands' — are presented, and the faithful are invited to unite their own daily lives to that offering, which is then transformed at the consecration into something far greater than what was placed on the altar.",
+      "explanation": "At the Offertory the bread and wine -- 'fruit of the earth and work of human hands' -- are presented, and the faithful unite their own lives, prayers and work to Christ's offering (CCC 1368). At the consecration the bread and wine are changed into the Body and Blood of Christ.",
       "hint": "This part happens right after the Liturgy of the Word, before the Eucharistic Prayer.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1350"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1368",
+          "quote": "the lives of the faithful, their praise, sufferings, prayer, and work, are united with those of Christ and with his total offering"
         }
       ]
     },
@@ -1658,6 +1737,10 @@
         {
           "type": "ccc",
           "reference": "CCC 1376"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1377"
         }
       ]
     },
@@ -1667,10 +1750,10 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: Transubstantiation depends on the precise philosophical vocabulary of substance and accidents.",
+      "prompt": "True or False: The Council of Trent teaches that by the consecration there takes place a change of the whole substance of the bread into the substance of Christ's body and of the whole substance of the wine into the substance of his blood.",
       "correctAnswer": true,
-      "explanation": "True. Transubstantiation is not an isolated theological claim invented from nothing; it uses the precise philosophical vocabulary of substance and accidents.",
-      "hint": "Recall the vocabulary for what a thing fundamentally is versus its outward appearances.",
+      "explanation": "True. This is the Council of Trent's declaration, quoted in CCC 1376. The Church calls this change transubstantiation.",
+      "hint": "Recall the words of the Council of Trent quoted in the Catechism.",
       "citations": [
         {
           "type": "ccc",
@@ -1698,6 +1781,10 @@
         {
           "type": "ccc",
           "reference": "CCC 1376"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1381"
         }
       ]
     },
@@ -1707,14 +1794,14 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: The answer to the skeptic's objection is the same move used to answer 'science can't detect the soul, so souls don't exist.'",
+      "prompt": "True or False: According to the Catechism, the true Body and Blood of Christ in the Eucharist 'cannot be apprehended by the senses,' but only by faith.",
       "correctAnswer": true,
-      "explanation": "True. Both cases distinguish a method's own methodological limits from a genuine truth claim, refusing to let 'undetectable by this method' collapse into 'therefore false.'",
-      "hint": "Recall the difference between science's methodological limits and genuine truth claims.",
+      "explanation": "True. CCC 1381 cites St. Thomas: the presence of Christ's true Body and Blood in this sacrament 'cannot be apprehended by the senses,' but only by faith.",
+      "hint": "Recall what the Catechism says about the senses and faith in the Eucharist.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1376"
+          "reference": "CCC 1381"
         }
       ]
     },
@@ -1737,7 +1824,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1374"
+          "reference": "CCC 1377"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1390"
         }
       ]
     },
@@ -1754,7 +1845,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1374"
+          "reference": "CCC 1377"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1390"
         }
       ]
     },
@@ -1771,24 +1866,32 @@
           "right": "What the bread and wine fundamentally are changes; their appearances do not"
         },
         {
-          "left": "Why science can't detect this change",
-          "right": "The change is of substance, not physically measurable properties -- the same limit as detecting the soul"
+          "left": "How the presence is known",
+          "right": "The true Body and Blood of Christ 'cannot be apprehended by the senses,' but only by faith"
         },
         {
           "left": "\"Whole and entire\" under each species",
           "right": "Receiving Communion under one form alone still means receiving the whole Christ"
         },
         {
-          "left": "The reasoning behind it",
-          "right": "Draws on the philosophical vocabulary of substance and accidents, and on the limits of what science can measure"
+          "left": "The Church's name for the change",
+          "right": "Transubstantiation: the name the Church fittingly and properly gives to the change of the whole substance of the bread and wine"
         }
       ],
-      "explanation": "These four facts deepen the basic teaching, showing exactly how transubstantiation draws on precise vocabulary and reasoning.",
-      "hint": "Two rows explain the change itself; two connect it to the philosophical and apologetic reasoning behind it.",
+      "explanation": "These four facts deepen the basic teaching of the Church on the change of the bread and wine and on Christ's presence in the Eucharist.",
+      "hint": "Think of what changes, how the presence is known, what 'whole and entire' means for Communion, and what the Church calls the change.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1376"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1377"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1381"
         }
       ]
     },
@@ -1834,8 +1937,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1168",
-          "quote": "Beginning with the Easter Triduum as its source of light, the new age of the Resurrection fills the whole liturgical year with its brilliance."
+          "reference": "CCC 524"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, nos. 40 and 44, Pope St. Paul VI (1969)"
         }
       ]
     },
@@ -1845,14 +1951,18 @@
       "level": 10,
       "type": "true_false",
       "difficultyElo": 1475,
-      "prompt": "True or False: Easter is considered the oldest and most important feast of the liturgical year, sometimes called the 'Feast of feasts.'",
+      "prompt": "True or False: Easter is the most solemn of all the feasts of the liturgical year, called the 'Feast of feasts.'",
       "correctAnswer": true,
-      "explanation": "Every other feast in the calendar draws its meaning from Easter -- the celebration of Christ's Resurrection is the foundation the whole liturgical year is built around.",
-      "hint": "This is the feast every other feast in the calendar ultimately points back to.",
+      "explanation": "True. CCC 1163 calls Easter 'that most solemn of all feasts', and CCC 1169 says it is not simply one feast among others but the 'Feast of feasts'.",
+      "hint": "Recall the Catechism's title for Easter: the 'Feast of ...'.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1169"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1163"
         }
       ]
     },
@@ -1870,6 +1980,10 @@
         {
           "type": "ccc",
           "reference": "CCC 1438"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 540"
         }
       ]
     },
@@ -1893,6 +2007,10 @@
         {
           "type": "ccc",
           "reference": "CCC 1169"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 731"
         }
       ]
     },
@@ -1904,13 +2022,18 @@
       "difficultyElo": 1475,
       "prompt": "True or False: 'Ordinary Time,' despite its name, is considered a spiritually empty or unimportant period with no real liturgical significance.",
       "correctAnswer": false,
-      "explanation": "'Ordinary' here comes from 'ordinal' (numbered weeks), not from 'unimportant' -- Ordinary Time is a season of steady growth in discipleship, tracing the whole of Christ's public ministry.",
-      "hint": "The name comes from counted, numbered weeks, not from the everyday sense of 'ordinary.'",
+      "explanation": "Ordinary Time is not an unimportant or empty season. Its weeks are numbered in order, and in them 'the mystery of Christ itself is honored in its fullness, especially on Sundays' (Universal Norms on the Liturgical Year, 43).",
+      "hint": "Think of the numbered weeks, such as 'the Second Sunday in Ordinary Time', and what the Church honors in them.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1163",
           "quote": "In the course of the year, moreover, she unfolds the whole mystery of Christ ...."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, no. 43, Pope St. Paul VI (1969)",
+          "quote": "the mystery of Christ itself is honored in its fullness, especially on Sundays"
         }
       ]
     },
@@ -1936,7 +2059,7 @@
         },
         {
           "left": "Ordinary Time",
-          "right": "Numbered weeks tracing Christ's public ministry"
+          "right": "Numbered weeks in which the mystery of Christ is honored in its fullness"
         }
       ],
       "explanation": "Together these seasons walk the whole Church, year after year, through the entire mystery of Christ -- his coming, his ministry, his death, and his Resurrection.",
@@ -1944,8 +2067,20 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1168",
-          "quote": "Beginning with the Easter Triduum as its source of light, the new age of the Resurrection fills the whole liturgical year with its brilliance."
+          "reference": "CCC 524"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 540"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 731"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, no. 43, Pope St. Paul VI (1969)",
+          "quote": "the mystery of Christ itself is honored in its fullness, especially on Sundays"
         }
       ]
     },
@@ -1980,12 +2115,21 @@
       "difficultyElo": 1475,
       "prompt": "True or False: Advent is primarily a season of penance identical in character to Lent.",
       "correctAnswer": false,
-      "explanation": "False. Advent carries a penitential and preparatory tone but a distinctly different character from Lent — one of expectant joy looking toward both Christ's first coming at Bethlehem and his final coming in glory, rather than Lent's more austere focus on repentance before the Passion.",
+      "explanation": "False. The Church's norms describe Advent as 'a period of devout and expectant delight' (Universal Norms on the Liturgical Year, 39). It prepares for Christ's first coming at Christmas and awaits his Second Coming at the end of time (CCC 524). Lent is one of the Church's intense seasons of penance (CCC 1438).",
       "hint": "Ask what Advent is actually preparing the faithful to receive, and compare its tone to Lent's.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 524"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1438"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, no. 39, Pope St. Paul VI (1969)",
+          "quote": "Advent is a period of devout and expectant delight"
         }
       ]
     },
@@ -1997,12 +2141,16 @@
       "difficultyElo": 1585,
       "prompt": "The three days from Holy Thursday evening through Easter Sunday are together called the Easter ____, the summit of the entire liturgical year.",
       "correctAnswer": "Triduum",
-      "explanation": "The Triduum — Holy Thursday, Good Friday, and the Easter Vigil into Easter Sunday — is a single liturgical unit rather than three separate days, beginning with the Mass of the Lord's Supper and not formally concluding until Easter Vigil's Vespers, which is why the Mass on Holy Thursday has no formal dismissal.",
+      "explanation": "The Triduum begins with the evening Mass of the Lord's Supper on Holy Thursday, has its center in the Easter Vigil, and closes with Evening Prayer (Vespers) on Easter Sunday (Universal Norms on the Liturgical Year, 19). It is the high point of the entire liturgical year.",
       "hint": "The Latin word means 'three days'.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1168"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, no. 19, Pope St. Paul VI (1969)"
         }
       ]
     },
@@ -2031,7 +2179,7 @@
           "right": "The mystery of Christ in its fullness, not a lesser or empty season"
         }
       ],
-      "explanation": "The last pairing corrects a common misreading of the name: 'ordinary' here means 'ordinal' — counted in order — not 'plain' or 'unimportant'. Ordinary Time still unfolds real mysteries of Christ's public ministry.",
+      "explanation": "The last pairing corrects a common misreading of the name. Ordinary Time does not mean a plain or unimportant season: its weeks are numbered in order, and in them 'the mystery of Christ itself is honored in its fullness, especially on Sundays' (Universal Norms on the Liturgical Year, 43).",
       "hint": "One season's name is frequently misunderstood, and the misunderstanding is worth correcting explicitly.",
       "citations": [
         {
@@ -2041,6 +2189,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1168"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, no. 43, Pope St. Paul VI (1969)",
+          "quote": "the mystery of Christ itself is honored in its fullness, especially on Sundays"
         }
       ]
     },
@@ -2116,15 +2269,15 @@
       "level": 11,
       "type": "true_false",
       "difficultyElo": 1550,
-      "prompt": "True or False: The liturgical year forms believers over real time, not merely commemorating past events -- in the same way that hope for the Last Things shapes present life.",
+      "prompt": "True or False: According to the Catechism, in the liturgical year the riches of the Lord's powers and merits are 'in some way made present in every age,' so it does more than commemorate past events.",
       "correctAnswer": true,
-      "explanation": "True. Just as hope for the Last Things gives present choices weight, the liturgical year forms believers in time the same way, not simply commemorating events already past.",
-      "hint": "Recall how hope for the Last Things gives present choices weight.",
+      "explanation": "True. CCC 1163 says that by recalling the mysteries of redemption the Church opens up to the faithful the riches of her Lord's powers and merits, 'so that these are in some way made present in every age'.",
+      "hint": "Recall what CCC 1163 says is made present in every age.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1163",
-          "quote": "In the course of the year, moreover, she unfolds the whole mystery of Christ ...."
+          "quote": "the riches of her Lord's powers and merits, so that these are in some way made present in every age"
         }
       ]
     },
@@ -2136,12 +2289,12 @@
       "difficultyElo": 1600,
       "prompt": "A skeptic objects: 'A liturgical calendar is just an arbitrary human scheduling tool -- there's nothing theologically necessary about celebrating Christmas in December rather than any other month.' What is the real, careful answer?",
       "choices": [
-        "Partial point conceded -- specific dates are traditional -- but the underlying structure is still theologically necessary",
+        "Partial point conceded -- specific dates are traditional -- but the unfolding of one mystery across distinct seasons still has real theological meaning",
         "The objection is entirely wrong, and every specific calendar date is, in fact, strictly theologically necessary",
         "The objection is entirely correct, and the whole liturgical year should be considered theologically meaningless",
         "The teaching has no answer to this specific objection at all"
       ],
-      "correctAnswer": "Partial point conceded -- specific dates are traditional -- but the underlying structure is still theologically necessary",
+      "correctAnswer": "Partial point conceded -- specific dates are traditional -- but the unfolding of one mystery across distinct seasons still has real theological meaning",
       "explanation": "This is a honest, careful answer -- conceding a partial point (specific dates are largely traditional) while distinguishing it from the deeper claim (that unfolding the one mystery across distinct seasons has theological purpose, regardless of the specific calendar dates chosen).",
       "hint": "Consider the difference between a specific calendar date and the underlying structure of unfolding one mystery across distinct seasons.",
       "citations": [
@@ -2158,10 +2311,10 @@
       "level": 11,
       "type": "true_false",
       "difficultyElo": 1550,
-      "prompt": "True or False: The answer -- conceding a partial point while defending the deeper claim -- follows an honest method, such as acknowledging that Mark's longer ending lacked early manuscript support.",
+      "prompt": "True or False: Honestly conceding a real, partial point in an objection while still defending the deeper claim at stake is a sound way to answer it.",
       "correctAnswer": true,
-      "explanation": "True. Both cases practice the same discipline: honestly conceding a real, partial point while still defending the deeper claim at stake.",
-      "hint": "Recall applying the bibliographical test honestly to an inconvenient finding.",
+      "explanation": "True. The careful answer concedes what is true in the objection, such as that specific calendar dates are traditional, while still defending the deeper claim.",
+      "hint": "Recall the previous answer, which conceded the point about dates.",
       "citations": [
         {
           "type": "ccc",
@@ -2192,11 +2345,11 @@
         },
         {
           "left": "The underlying structure",
-          "right": "Theologically necessary, regardless of which specific dates were chosen"
+          "right": "Theologically meaningful, regardless of which specific dates were chosen"
         }
       ],
-      "explanation": "These four facts together give the careful account of why the liturgical year matters -- distinguishing what is theologically necessary from what is merely traditional, without dismissing either.",
-      "hint": "Two rows explain the liturgical year's own deeper purpose; two distinguish what is necessary from what is merely traditional.",
+      "explanation": "These four facts together give the careful account of why the liturgical year matters -- distinguishing what is theologically meaningful from what is merely traditional, without dismissing either.",
+      "hint": "Two rows explain the liturgical year's own deeper purpose; two distinguish what is merely traditional from what is theologically meaningful.",
       "citations": [
         {
           "type": "ccc",
@@ -2213,14 +2366,14 @@
       "difficultyElo": 1600,
       "prompt": "When answering an objection about the liturgical calendar's origins, what distinction matters most?",
       "choices": [
-        "Distinguishing what is theologically necessary from what is merely traditional, without collapsing either into the other",
+        "Distinguishing what is theologically meaningful from what is merely traditional, without collapsing either into the other",
         "Assuming every element of the liturgical calendar is equally theologically necessary, with no distinction possible",
         "Assuming the liturgical calendar is entirely arbitrary, with no real theological purpose behind any of it",
         "Avoiding any honest engagement with a genuine objection about the calendar's own origins"
       ],
-      "correctAnswer": "Distinguishing what is theologically necessary from what is merely traditional, without collapsing either into the other",
-      "explanation": "The habit -- distinguishing necessary structure from traditional detail -- is a discipline that applies to precise vocabulary and other objections as well.",
-      "hint": "Consider the difference between what is theologically necessary and what is merely traditional about the calendar.",
+      "correctAnswer": "Distinguishing what is theologically meaningful from what is merely traditional, without collapsing either into the other",
+      "explanation": "The habit -- distinguishing meaningful structure from traditional detail -- is a discipline that applies to precise vocabulary and other objections as well.",
+      "hint": "Consider the difference between what is theologically meaningful and what is merely traditional about the calendar.",
       "citations": [
         {
           "type": "ccc",
@@ -2279,7 +2432,7 @@
       "difficultyElo": 1735,
       "prompt": "Baptism, Confirmation, and Holy Orders share a feature no other sacrament has: they imprint a permanent, indelible ____ on the soul, and so can never be repeated.",
       "correctAnswer": "character",
-      "explanation": "This sacramental character marks the soul permanently, configuring the recipient to Christ in a lasting way -- which is why these three sacraments are received only once in a lifetime.",
+      "explanation": "This sacramental character marks the soul permanently, configuring the recipient to Christ and to the Church in a lasting way -- which is why, as CCC 1121 says, these three sacraments can never be repeated.",
       "hint": "It's a permanent spiritual 'mark,' not something physically visible.",
       "citations": [
         {
@@ -2304,7 +2457,7 @@
       ],
       "correctAnswer": "Penance (Reconciliation/Confession)",
       "explanation": "These two sacraments address the wounds sin and illness leave in a Christian's life -- Penance heals the soul of sin, and Anointing of the Sick brings grace and comfort in illness.",
-      "hint": "One heals the soul of sin; this other one heals the body and soul in sickness.",
+      "hint": "Anointing of the Sick strengthens those who are seriously ill; the other sacrament of healing is the one in which sins are forgiven.",
       "citations": [
         {
           "type": "ccc",
@@ -2392,7 +2545,7 @@
       "difficultyElo": 1625,
       "prompt": "True or False: A sacrament that imprints a permanent character can, in principle, be received more than once by the same person.",
       "correctAnswer": false,
-      "explanation": "False, and this is precisely what the character means: an indelible seal on the soul, which is why Baptism, Confirmation and Holy Orders are never repeated, even for someone who later leaves the faith and returns, or who is later ordained to a higher order.",
+      "explanation": "False, and this is precisely what the character means: an indelible seal on the soul, which is why, as CCC 1121 says, Baptism, Confirmation and Holy Orders can never be repeated, even for someone who later leaves the faith and returns.",
       "hint": "Ask what 'indelible' itself implies about repetition.",
       "citations": [
         {
@@ -2521,8 +2674,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1212",
-          "quote": "The sacraments of Christian initiation - Baptism, Confirmation, and the Eucharist - lay the foundations of every Christian life."
+          "reference": "CCC 1322",
+          "quote": "The holy Eucharist completes Christian initiation."
         }
       ]
     },
@@ -2534,13 +2687,13 @@
       "difficultyElo": 1700,
       "prompt": "True or False: A Catholic conscious of grave sin should receive Penance before receiving Communion, rather than receiving Communion while in that state.",
       "correctAnswer": true,
-      "explanation": "True, and this practical norm shows the sacraments of healing (Penance and Anointing) ordered directly toward worthy reception of the Eucharist -- preparing a person to receive Communion well, not standing apart from it.",
+      "explanation": "True, and this practical norm shows the sacrament of Penance ordered directly toward worthy reception of the Eucharist -- preparing a person to receive Communion well, not standing apart from it.",
       "hint": "Recall the Church's teaching on receiving Communion worthily.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1385",
-          "quote": "To respond to this invitation we must prepare ourselves for so great and so holy a moment."
+          "quote": "Anyone conscious of a grave sin must receive the sacrament of Reconciliation before coming to communion."
         }
       ]
     },
@@ -2563,7 +2716,17 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1534"
+          "reference": "CCC 1411",
+          "quote": "Only validly ordained priests can preside at the Eucharist and consecrate the bread and the wine..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1621",
+          "quote": "In the Latin Rite the celebration of marriage between two Catholic faithful normally takes place during Holy Mass..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1324"
         }
       ]
     },
@@ -2599,7 +2762,7 @@
         },
         {
           "left": "Sacraments of Healing",
-          "right": "Prepare a person for worthy reception of Communion"
+          "right": "Penance prepares a person for worthy Communion; the Eucharist is also given to the dying as viaticum"
         },
         {
           "left": "Holy Orders",
@@ -2650,7 +2813,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "In Eucharistic Prayer II, the priest prays 'Make holy these gifts, we pray, by sending down your Spirit upon them like the dewfall.' This moment is called the epiclesis. Per CCC 1353, why is it theologically necessary?",
+      "prompt": "In Eucharistic Prayer II, the priest prays 'Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall.' This moment is called the epiclesis. Per CCC 1353, why is it theologically necessary?",
       "choices": [
         "It invokes the Holy Spirit's power to change the bread and wine and to unite the communicants, since the Spirit's action, not human words alone, effects the consecration",
         "It is a purely decorative prayer with no doctrinal significance",
@@ -2673,7 +2836,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "The Roman Canon's 'Unde et memores' ('Therefore, O Lord, as we celebrate the memorial...') is the Mass's anamnesis. How does anamnesis differ from the epiclesis that comes before it in the same prayer?",
+      "prompt": "In Eucharistic Prayer II, the epiclesis ('Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall') comes before the institution narrative, and the anamnesis comes after it. How does anamnesis differ from the epiclesis in the same prayer?",
       "choices": [
         "Anamnesis is the Church's act of remembering and making present Christ's Paschal Mystery; epiclesis is the invocation calling down the Holy Spirit",
         "Anamnesis and epiclesis are two names for the exact same prayer",
@@ -2704,7 +2867,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "General Instruction of the Roman Missal, art. 42-43"
+          "reference": "General Instruction of the Roman Missal, nos. 42-43 and 335"
         }
       ]
     },
@@ -2714,15 +2877,20 @@
       "level": 14,
       "type": "fill_blank",
       "difficultyElo": 1885,
-      "prompt": "Canon 849 of the Code of Canon Law establishes that Baptism is validly conferred using water, with the correct form of words invoking the Father, Son, and Holy Spirit -- water is the sacrament's ____, and the Trinitarian formula is its form.",
+      "prompt": "Canon 849 of the Code of Canon Law establishes that Baptism is validly conferred only by a washing of true water with the proper form of words -- water is the sacrament's ____, and the proper form of words (the Trinitarian formula) is its form.",
       "correctAnswer": "matter",
-      "explanation": "Every sacrament requires valid matter (the physical element or action) and form (the words that specify its meaning) -- for Baptism, canon 849 specifies water as the matter and the Trinitarian invocation as the form, both required together for validity.",
+      "explanation": "Every sacrament requires valid matter (the physical element or action) and form (the words that specify its meaning) -- for Baptism, canon 849 requires true water as the matter and the proper form of words as the form (in the Church's rite, the Trinitarian invocation, CCC 1240), both required together for validity.",
       "hint": "This is the physical element used, as distinguished from the words spoken over it.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Code of Canon Law, canon 849",
           "quote": "Baptism... is validly conferred only by a washing of true water with the proper form of words."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1240",
+          "quote": "N., I baptize you in the name of the Father, and of the Son, and of the Holy Spirit."
         }
       ]
     },
@@ -2768,7 +2936,7 @@
           "right": "The Church's act of remembering and making present the Paschal Mystery"
         },
         {
-          "left": "Proper time (per SC 102-105)",
+          "left": "Seasons with their own distinctive character",
           "right": "The seasons built around specific mysteries of Christ, e.g. Advent, Lent, Easter"
         },
         {
@@ -2776,12 +2944,16 @@
           "right": "The remaining weeks of the year, celebrating the mystery of Christ in its fullness rather than one specific aspect"
         }
       ],
-      "explanation": "Sacrosanctum Concilium 102-105 distinguishes proper time, which unfolds specific mysteries across the liturgical year, from Ordinary Time, which celebrates the whole mystery of Christ without emphasizing one particular aspect -- both are integral to the calendar, not a 'default' versus a 'special' season.",
+      "explanation": "Sacrosanctum Concilium 102 sets out the liturgical year as the Church's celebration of the saving work of Christ throughout the year. The Universal Norms on the Liturgical Year (no. 43) describe Ordinary Time as the weeks in which no particular aspect of the mystery of Christ is celebrated, but the mystery of Christ itself in its fullness is honored -- both kinds of time are integral to the calendar, not a 'default' versus a 'special' season.",
       "hint": "One column of terms belongs to the Eucharistic Prayer specifically; the other belongs to the calendar.",
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 102-105"
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 102"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Universal Norms on the Liturgical Year and the General Roman Calendar, no. 43"
         }
       ]
     },
@@ -2814,14 +2986,15 @@
       "level": 14,
       "type": "true_false",
       "difficultyElo": 1775,
-      "prompt": "True or False: The Roman Canon (Eucharistic Prayer I) is the oldest Eucharistic Prayer still in regular use in the Roman Rite.",
+      "prompt": "True or False: Until Eucharistic Prayers II, III and IV were added after the Second Vatican Council, the Roman Canon (Eucharistic Prayer I) was the Roman Rite's only Eucharistic Prayer.",
       "correctAnswer": true,
-      "explanation": "True. Its core text dates to roughly the fourth century and it remained the Roman Rite's only Eucharistic Prayer for many centuries before others were introduced after Vatican II, which is part of why its language and structure differ noticeably from the newer options.",
-      "hint": "This prayer predates the other Eucharistic Prayers commonly used today by many centuries.",
+      "explanation": "True. For many centuries the Roman Canon was the only Eucharistic Prayer of the Roman Rite. Other Eucharistic Prayers were introduced after Vatican II, which is part of why the Canon's language and structure differ noticeably from the newer options.",
+      "hint": "Think of the Eucharistic Prayers that Paul VI added to the Roman Missal after the Council.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1352"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Apostolic Constitution Missale Romanum (3 April 1969)",
+          "quote": "we have decided to add three new Canons to this Prayer."
         }
       ]
     },
@@ -2862,15 +3035,15 @@
         },
         {
           "left": "Roman Canon",
-          "right": "The oldest Eucharistic Prayer still in regular use"
+          "right": "For many centuries the Roman Rite's only Eucharistic Prayer"
         },
         {
           "left": "Rubric",
           "right": "An instruction governing how the liturgy is celebrated"
         },
         {
-          "left": "Canon 849's minimal requirements",
-          "right": "Water and the Trinitarian formula, sufficient for a valid Baptism"
+          "left": "Canon 849's requirements",
+          "right": "A washing of true water with the proper form of words, required for a valid Baptism"
         }
       ],
       "explanation": "Getting these four precise is what separates informed discussion of the liturgy from casual impressions of it — each names a specific, checkable fact rather than a general vibe about how Mass 'feels.'",
@@ -2883,6 +3056,16 @@
         {
           "type": "ccc",
           "reference": "CCC 1256"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, canon 849",
+          "quote": "Baptism... is validly conferred only by a washing of true water with the proper form of words."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, Apostolic Constitution Missale Romanum (3 April 1969)",
+          "quote": "we have decided to add three new Canons to this Prayer."
         }
       ]
     },
@@ -2963,8 +3146,9 @@
       "hint": "Recall what full, conscious, and active participation includes.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1353"
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 11",
+          "quote": "...that their minds should be attuned to their voices..."
         }
       ]
     },
@@ -3121,7 +3305,7 @@
       "difficultyElo": 1925,
       "prompt": "True or False: A parish may licitly use entirely gluten-free bread for a celiac communicant's Eucharistic host, since the matter only needs to resemble bread.",
       "correctAnswer": false,
-      "explanation": "Valid matter for the Eucharist requires wheat bread; entirely gluten-free hosts (with no gluten at all) do not meet the Church's standard for valid matter and cannot be used. What is licitly permitted is low-gluten hosts, which contain a small amount of gluten sufficient for validity while being safe for most celiac communicants -- a real accommodation, but a different thing from gluten-free.",
+      "explanation": "Valid matter for the Eucharist requires wheat bread; entirely gluten-free hosts (with no gluten at all) do not meet the Church's standard for valid matter and cannot be used. What is licitly permitted is low-gluten hosts, which contain enough gluten to be valid matter -- a real accommodation, but a different thing from gluten-free.",
       "hint": "The Church distinguishes 'low-gluten' (still valid) from 'gluten-free' (not valid matter) -- these are not the same accommodation.",
       "citations": [
         {
@@ -3222,18 +3406,19 @@
       "difficultyElo": 1975,
       "prompt": "Does the GIRM (General Instruction of the Roman Missal) actually mandate that Mass be celebrated facing the people (versus populum)?",
       "choices": [
-        "No — the GIRM presumes and accommodates both orientations; versus populum became the common practice after Vatican II by choice, not by explicit mandate",
+        "No -- GIRM 299 says the altar should be built separate from the wall so that Mass can be celebrated at it facing the people, which it calls desirable wherever possible, but it does not make that orientation obligatory or forbid celebrating ad orientem",
         "Yes, the GIRM explicitly forbids ad orientem celebration in any circumstance",
         "Yes, Vatican II itself defined versus populum as doctrinally required",
         "The question of orientation was never addressed by any Church document"
       ],
-      "correctAnswer": "No — the GIRM presumes and accommodates both orientations; versus populum became the common practice after Vatican II by choice, not by explicit mandate",
-      "explanation": "This is a commonly misunderstood point: the widespread post-conciliar shift to facing the people was a pastoral choice encouraged by the reform, not a strict legal requirement overriding the alternative — the rubrics themselves still assume a priest might face either direction at certain points.",
+      "correctAnswer": "No -- GIRM 299 says the altar should be built separate from the wall so that Mass can be celebrated at it facing the people, which it calls desirable wherever possible, but it does not make that orientation obligatory or forbid celebrating ad orientem",
+      "explanation": "This is a commonly misunderstood point: GIRM 299 says the altar should be built separate from the wall so that Mass can be celebrated at it facing the people, 'which is desirable wherever possible.' That is not a strict legal requirement, and the GIRM nowhere forbids celebrating ad orientem.",
       "hint": "Ask whether a widespread practice and a strict legal mandate are necessarily the same thing.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1140"
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299",
+          "quote": "The altar should be built separate from the wall, in such a way that it is possible to walk around it easily and that Mass can be celebrated at it facing the people, which is desirable wherever possible."
         }
       ]
     },
@@ -3245,12 +3430,13 @@
       "difficultyElo": 1925,
       "prompt": "True or False: A parish may licitly use entirely gluten-free bread for a celiac communicant's Communion.",
       "correctAnswer": false,
-      "explanation": "False, and this is a pastoral issue with consequences. Valid matter for the Eucharist requires at least a trace of gluten; entirely gluten-free hosts are invalid matter. Low-gluten hosts (meeting strict Church guidelines) are the licit accommodation for celiac communicants, not a fully gluten-free substitute.",
+      "explanation": "False, and this is a pastoral issue with consequences. Hosts that are completely gluten-free are invalid matter for the Eucharist. Low-gluten hosts are valid matter, provided they contain a sufficient amount of gluten to obtain the confection of bread without foreign materials. They are the licit accommodation for celiac communicants, not a fully gluten-free substitute.",
       "hint": "Ask whether 'gluten-free' and 'low-gluten' are the same category here.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1333"
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Circular Letter on low-gluten altar breads and mustum, 24 July 2003, A.1-2",
+          "quote": "Hosts that are completely gluten-free are invalid matter for the celebration of the Eucharist."
         }
       ]
     },
@@ -3260,7 +3446,7 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 1975,
-      "prompt": "Someone was validly confirmed as a teenager but felt disconnected from the faith at the time, going through the motions with no real intention. What does the Church hold about that Confirmation?",
+      "prompt": "Someone was validly confirmed as a teenager but felt disconnected from the faith at the time, going through the motions with little felt devotion. What does the Church hold about that Confirmation?",
       "choices": [
         "It remains valid and its indelible character remains, though its fruitfulness in the person's life depends on their disposition; it is never repeated even after a later, more genuine return to faith",
         "It must be repeated once the person returns to genuine faith",
@@ -3291,7 +3477,7 @@
       "pairs": [
         {
           "left": "'The GIRM requires facing the people'",
-          "right": "Not mandated; both orientations are accommodated"
+          "right": "Not a requirement; GIRM 299 calls it desirable wherever possible"
         },
         {
           "left": "'Gluten-free bread works fine for celiacs'",
@@ -3310,12 +3496,18 @@
       "hint": "Each row corrects an assumption that sounds reasonable but goes further than the Church's teaching.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1140"
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, 299",
+          "quote": "The altar should be built apart from the wall, in such a way that it is possible to walk around it easily and that Mass can be celebrated at it facing the people, which is desirable wherever possible."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for the Doctrine of the Faith, Circular Letter on low-gluten altar breads and mustum, 24 July 2003, A.1-2",
+          "quote": "Hosts that are completely gluten-free are invalid matter for the celebration of the Eucharist."
         },
         {
           "type": "ccc",
-          "reference": "CCC 1333"
+          "reference": "CCC 1128"
         },
         {
           "type": "ccc",
@@ -3360,8 +3552,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Trent",
-          "quote": "The victim is one and the same, the same now offering by the ministry of priests, who then offered Himself on the cross, the manner alone of offering being different."
+          "reference": "Council of Trent, Session 22, ch. 2",
+          "quote": "For the victim is one and the same, the same now offering by the ministry of priests, who then offered Himself on the cross, the manner alone of offering being different."
         }
       ]
     },
@@ -3373,19 +3565,24 @@
       "difficultyElo": 2050,
       "prompt": "How does the precise term 'anamnesis' help explain how the Mass can make Calvary really present without repeating it?",
       "choices": [
-        "Anamnesis is a liturgical remembrance making a saving event's effects present, without repeating it",
+        "Anamnesis is a liturgical remembrance that makes a saving event itself present, without repeating it",
         "Anamnesis simply means a purely symbolic, imaginative exercise with no real objective content",
         "Anamnesis means the historical event of Calvary is being literally repeated in physical time",
         "This precise term has no connection to the question of how the Mass relates to Calvary"
       ],
-      "correctAnswer": "Anamnesis is a liturgical remembrance making a saving event's effects present, without repeating it",
-      "explanation": "Anamnesis names a liturgical remembrance that makes a saving event's effects present, without literally repeating the historical event itself, resolving exactly the tension the objection raises.",
+      "correctAnswer": "Anamnesis is a liturgical remembrance that makes a saving event itself present, without repeating it",
+      "explanation": "Anamnesis names a liturgical remembrance that actualizes a saving event and makes it present, without literally repeating the historical event itself, resolving exactly the tension the objection raises.",
       "hint": "Recall the definition of anamnesis in the Eucharistic Prayer.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1103",
           "quote": "...the celebration \"makes a remembrance\" of the marvelous works of God in an anamnesis which may be more or less developed."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1104",
+          "quote": "Christian liturgy not only recalls the events that saved us but actualizes them, makes them present."
         }
       ]
     },
@@ -3415,13 +3612,13 @@
       "difficultyElo": 2050,
       "prompt": "A skeptic pushes further: 'This all sounds like a convenient, later theological invention to explain away an obvious contradiction.' What is the historical answer?",
       "choices": [
-        "Justin Martyr's second-century testimony already describes it this way -- this is ancient, not a later invention",
+        "Justin Martyr's second-century First Apology already describes the Eucharist as the flesh and blood of Jesus Christ -- this belief is ancient, not a later invention",
         "The objection is correct, and this understanding really was invented centuries after the New Testament to resolve an otherwise real contradiction",
         "There is, in fact, no historical evidence for how the earliest Christians understood the Eucharist",
         "The teaching has no answer to this specific historical objection"
       ],
-      "correctAnswer": "Justin Martyr's second-century testimony already describes it this way -- this is ancient, not a later invention",
-      "explanation": "The historical answer draws on genuinely early evidence -- Justin Martyr's own second-century testimony already describes the Eucharist as truly Christ's own flesh and blood, showing this understanding is ancient, not a later theological invention designed to paper over a contradiction.",
+      "correctAnswer": "Justin Martyr's second-century First Apology already describes the Eucharist as the flesh and blood of Jesus Christ -- this belief is ancient, not a later invention",
+      "explanation": "The historical answer draws on genuinely early evidence -- Justin Martyr's second-century First Apology already describes the Eucharist as truly the flesh and blood of Jesus Christ, showing that the Church's Eucharistic faith is ancient, not a later theological invention designed to paper over a contradiction.",
       "hint": "Consider the early Christian testimony on the Eucharist, such as Justin Martyr's.",
       "citations": [
         {
@@ -3471,11 +3668,11 @@
         },
         {
           "left": "Anamnesis",
-          "right": "A liturgical remembrance making a saving event's own effects genuinely present"
+          "right": "A liturgical remembrance that makes a saving event itself genuinely present, without repeating it"
         },
         {
           "left": "Justin Martyr's own second-century testimony",
-          "right": "Shows this understanding is ancient, not a later theological invention"
+          "right": "Shows belief in the Eucharist as Christ's flesh and blood is ancient, not a later theological invention"
         },
         {
           "left": "Why the answer works",
@@ -3616,13 +3813,13 @@
       "difficultyElo": 2125,
       "prompt": "Both the Liturgy of the Hours' psalmody and the Mass's lectionary follow a structured cycle rather than random selection. What principle do they share?",
       "choices": [
-        "Scripture is prayed and proclaimed systematically over a set cycle, so the whole of the Church's prayer engages the full range of the Word rather than a few favorite passages",
+        "Scripture is prayed and proclaimed systematically over a set cycle, so the Church's prayer draws on a broad and representative range of the Word rather than a few favorite passages",
         "Neither has any fixed cycle; both are chosen freely by the presider each time",
         "The lectionary follows a cycle, but the psalmody in the Hours is never repeated across the entire cycle",
         "Only feast days use a fixed set of readings; ordinary days have none"
       ],
-      "correctAnswer": "Scripture is prayed and proclaimed systematically over a set cycle, so the whole of the Church's prayer engages the full range of the Word rather than a few favorite passages",
-      "explanation": "The Liturgy of the Hours distributes the psalms across a four-week cycle, and the Mass lectionary distributes Scripture readings across multi-year cycles (Sunday: three years; weekday: two years) -- both express the same underlying logic that the Church's public prayer should draw systematically on the whole of Scripture, not a self-selected subset.",
+      "correctAnswer": "Scripture is prayed and proclaimed systematically over a set cycle, so the Church's prayer draws on a broad and representative range of the Word rather than a few favorite passages",
+      "explanation": "The Liturgy of the Hours distributes the psalms across a four-week cycle, and the Mass lectionary distributes Scripture readings across multi-year cycles (Sunday: three years; weekday: two years) -- both express the same underlying logic that the Church's public prayer should draw systematically on a broad and representative portion of Scripture, not a self-selected subset.",
       "hint": "Both are organized around a repeating cycle for the same underlying reason.",
       "citations": [
         {
@@ -3662,8 +3859,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1352",
-          "quote": "...and summit of the..."
+          "reference": "CCC 1201"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1217"
         }
       ]
     },
@@ -3758,10 +3958,6 @@
       "explanation": "The final entry reflects a broader pattern: the Church structures her prayer cyclically rather than arbitrarily, whether in the Mass's readings or in the Hours' recitation of the psalms.",
       "hint": "One of these rows is less about a specific rite and more about a structural principle running through several of them.",
       "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 1352"
-        },
         {
           "type": "ccc",
           "reference": "CCC 1201"
@@ -3888,13 +4084,13 @@
       "difficultyElo": 2150,
       "prompt": "True or False: A Catholic of the Roman Rite could, in principle, fulfill their real Sunday obligation by attending a Byzantine Catholic Divine Liturgy in full communion with Rome.",
       "correctAnswer": true,
-      "explanation": "True, and this is a practical consequence of the teaching on equal dignity -- since both are authentic expressions of the same one Catholic faith, attending either genuinely fulfills the obligation.",
+      "explanation": "True. Canon 1248 §1 provides that a person who assists at a Mass celebrated anywhere in a Catholic rite satisfies the obligation of participating in the Mass, and the Byzantine Catholic Divine Liturgy is a Mass celebrated in a Catholic rite.",
       "hint": "Consider what 'equal dignity' and 'the same rights' imply for a Catholic's own practical obligations.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3",
-          "quote": "They are consequently of equal dignity, so that none of them is superior to the others as regards rite and they enjoy the same rights."
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 1248 §1",
+          "quote": "A person who assists at a Mass celebrated anywhere in a Catholic rite either on the feast day itself or in the evening of the preceding day satisfies the obligation of participating in the Mass."
         }
       ]
     },
@@ -3912,7 +4108,7 @@
         },
         {
           "left": "Apologetics",
-          "right": "The same real certainty about God's existence, reached by classical or cumulative-case method"
+          "right": "The same Church teaching that God can be known with certainty by natural reason, served by more than one legitimate approach"
         },
         {
           "left": "Dogmas-and-doctrine",
@@ -3930,6 +4126,15 @@
           "type": "council",
           "reference": "Second Vatican Council, Orientalium Ecclesiarum 3",
           "quote": "They are consequently of equal dignity, so that none of them is superior to the others as regards rite and they enjoy the same rights."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 31"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36",
+          "quote": "can be known with certainty from the created world by the natural light of human reason."
         }
       ]
     },
@@ -3975,9 +4180,13 @@
       "hint": "One of these two Churches traces its roots to St. Thomas's mission in India, but shares the same liturgical family as the other.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3",
-          "quote": "They are consequently of equal dignity, so that none of them is superior to the others as regards rite and they enjoy the same rights."
+          "type": "ccc",
+          "reference": "CCC 1203"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Holy See Press Office, programme of the Jubilee of the Eastern Churches, 12 May 2025",
+          "quote": "the Divine Liturgy in the East Syriac Rite (Anaphora of Addai and Mari) at Saint Peter’s Basilica, by the Chaldean Church and the Syro-Malabar Church."
         }
       ]
     },
@@ -3987,18 +4196,19 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: The Eastern Catholic eucharistic prayers' characteristic emphasis on theosis (divinization) and the Roman Rite's more juridical and sacrificial emphasis represent two genuinely different theological accents within the same one Eucharistic faith, not a doctrinal disagreement needing resolution.",
+      "prompt": "True or False: Catholic teaching holds that the different theological approaches of East and West, such as the Eastern tradition's particular love of the theology of divinization (theosis), are often to be considered complementary rather than conflicting.",
       "correctAnswer": true,
-      "explanation": "Orientale Lumen and CCC 1075 affirm that East and West bring different, complementary accents to the same Eucharistic mystery -- the East's stress on divinization and the West's stress on sacrifice and juridical clarity are legitimate emphases within one shared faith, not competing doctrines where one must be corrected.",
+      "explanation": "Orientale Lumen 5, quoting Vatican II, says East and West have used different methods and approaches in understanding and confessing divine things, and that their various theological formulations are often to be considered complementary rather than conflicting. Orientale Lumen also calls the theology of divinization one of the achievements particularly dear to Eastern Christian thought.",
       "hint": "This is the same 'complementary emphasis, not contradiction' pattern seen with theosis and grace in the Church Fathers.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Orientale Lumen (1995)"
+          "reference": "John Paul II, Orientale Lumen 5 (1995)",
+          "quote": "these various theological formulations are often to be considered complementary rather than conflicting."
         },
         {
           "type": "ccc",
-          "reference": "CCC 1075"
+          "reference": "CCC 1201"
         }
       ],
       "tags": [
@@ -4024,8 +4234,12 @@
       "citations": [
         {
           "type": "church_father",
-          "reference": "Justin Martyr, First Apology, ch. 65-67",
-          "quote": "For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Saviour, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word... is the flesh and blood of that Jesus who was made flesh."
+          "reference": "Justin Martyr, First Apology, ch. 67",
+          "quote": "And on the day called Sunday, all who live in cities or in the country gather together to one place, and the memoirs of the apostles or the writings of the prophets are read, as long as time permits"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1345"
         },
         {
           "type": "council",
@@ -4047,7 +4261,7 @@
       "choices": [
         "The Communion of Saints, since Mary's own glorification is celebrated as the pattern and pledge of what awaits the whole Church",
         "The doctrine of transubstantiation",
-        "The doctrine of papal infallibility",
+        "The doctrine of the sacrament of Holy Orders",
         "The doctrine of Purgatory"
       ],
       "correctAnswer": "The Communion of Saints, since Mary's own glorification is celebrated as the pattern and pledge of what awaits the whole Church",
@@ -4098,12 +4312,12 @@
           "right": "Both belong to the East Syriac liturgical family"
         },
         {
-          "left": "Theosis emphasis (East) vs. sacrificial/juridical emphasis (West)",
-          "right": "Complementary accents within one shared Eucharistic faith"
+          "left": "Differing Eastern and Western theological approaches (for example, the Eastern love of divinization)",
+          "right": "Often complementary rather than conflicting"
         },
         {
           "left": "The Assyrian Church of the East's Anaphora of Addai and Mari",
-          "right": "Recognized as valid -- a matter of licensed diversity, not doctrinal dispute"
+          "right": "Judged valid by the Congregation for the Doctrine of the Faith in 2001, with the approval of Pope John Paul II"
         },
         {
           "left": "The post-Vatican II 'active participation' implementation debate",
@@ -4114,9 +4328,19 @@
       "hint": "One of these four is groundwork for a fuller treatment of the same subject.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3",
-          "quote": "They are consequently of equal dignity, so that none of them is superior to the others as regards rite and they enjoy the same rights."
+          "type": "magisterial_document",
+          "reference": "John Paul II, Orientale Lumen 5 (1995)",
+          "quote": "these various theological formulations are often to be considered complementary rather than conflicting."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pontifical Council for Promoting Christian Unity, Guidelines for Admission to the Eucharist between the Chaldean Church and the Assyrian Church of the East, 20 July 2001",
+          "quote": "this Anaphora can be considered valid."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Holy See Press Office, programme of the Jubilee of the Eastern Churches, 12 May 2025",
+          "quote": "the Divine Liturgy in the East Syriac Rite (Anaphora of Addai and Mari) at Saint Peter’s Basilica, by the Chaldean Church and the Syro-Malabar Church."
         }
       ]
     },
@@ -4182,8 +4406,9 @@
       "hint": "The word itself means returning to a source — ask which sources were actually being returned to.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1091"
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 50",
+          "quote": "other elements which have suffered injury through accidents of history are now to be restored to the vigor which they had in the days of the holy Fathers"
         }
       ]
     },
@@ -4489,6 +4714,11 @@
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 47",
           "quote": "a memorial of His death and resurrection: a sacrament of love, a sign of unity, a bond of charity"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1169",
+          "quote": "Easter is not simply one feast among others, but the \"Feast of feasts,\" the \"Solemnity of solemnities,\""
         }
       ]
     },
@@ -4529,14 +4759,18 @@
         "Psalm 137 ('By the rivers of Babylon')"
       ],
       "correctAnswer": "Psalm 91, Psalm 90 in the Douay-Rheims ('He that dwelleth in the aid of the most High')",
-      "explanation": "Psalm 91, with its theme of refuge and protection through the night, is one of Compline's traditional psalms across the Roman Rite's four-week cycle -- praying it before sleep is a concrete way to close each day by entrusting oneself to God through the Church's own structured prayer.",
+      "explanation": "Psalm 91 (Psalm 90 in the Douay-Rheims), with its theme of refuge and protection, is the psalm prayed at Night Prayer (Compline) on Sunday evening, after Evening Prayer II, in the Liturgy of the Hours -- praying it before sleep is a concrete way to close the day by entrusting oneself to God through the Church's own prayer.",
       "hint": "This psalm's central image is taking shelter overnight under God's protection.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Psalm 91",
-          "quote": "It is good to give praise to the Lord: and to sing to thy name, O most High.",
+          "reference": "Psalm 91:1 (Douay-Rheims Psalm 90:1)",
+          "quote": "He that dwelleth in the aid of the most High, shall abide under the protection of the God of Jacob.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Liturgy of the Hours, Night Prayer for Sunday (after Evening Prayer II), Psalm 91"
         }
       ]
     },
@@ -4561,8 +4795,8 @@
           "right": "The Eucharist makes really present the one sacrifice and true Body and Blood of Christ"
         },
         {
-          "left": "Sacrosanctum Concilium 47's 'pledge of future glory'",
-          "right": "The reason the whole liturgical year radiates outward from Easter"
+          "left": "Sacrosanctum Concilium 47's 'memorial of His death and resurrection'",
+          "right": "The Paschal Mystery from which the whole liturgical year draws its meaning, with Easter as its center"
         }
       ],
       "explanation": "Every item here rests on well-established material -- nothing new or unvetted is introduced; each one simply carries that material to its conclusion.",
@@ -4572,6 +4806,24 @@
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 47",
           "quote": "a memorial of His death and resurrection: a sacrament of love, a sign of unity, a bond of charity"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1169",
+          "quote": "Easter is not simply one feast among others, but the \"Feast of feasts,\""
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299",
+          "quote": "The altar should be built apart from the wall, in such a way that it is possible to walk around it easily and that Mass can be celebrated at it facing the people, which is desirable wherever possible."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pontifical Council for Promoting Christian Unity, Guidelines for Admission to the Eucharist between the Chaldean Church and the Assyrian Church of the East (2001)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1374"
         }
       ]
     },
@@ -4593,8 +4845,13 @@
       "hint": "Pastoral preference is not the same as doctrinal mandate.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1140"
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299",
+          "quote": "The altar should be built apart from the wall, in such a way that it is possible to walk around it easily and that Mass can be celebrated at it facing the people, which is desirable wherever possible."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Congregation for Divine Worship and the Discipline of the Sacraments, response on the orientation of the priest at Mass (25 September 2000)"
         }
       ]
     },
@@ -4616,8 +4873,8 @@
       "hint": "Ask whether the Church required the missing words to be added, or found another way the same content was already present.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1353"
+          "type": "magisterial_document",
+          "reference": "Pontifical Council for Promoting Christian Unity, Guidelines for Admission to the Eucharist between the Chaldean Church and the Assyrian Church of the East (2001)"
         }
       ]
     },
@@ -4673,16 +4930,26 @@
       "hint": "The last row names what every other row is an example of.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1140"
+          "type": "magisterial_document",
+          "reference": "General Instruction of the Roman Missal, art. 299",
+          "quote": "The altar should be built apart from the wall, in such a way that it is possible to walk around it easily and that Mass can be celebrated at it facing the people, which is desirable wherever possible."
         },
         {
-          "type": "ccc",
-          "reference": "CCC 1353"
+          "type": "magisterial_document",
+          "reference": "Congregation for Divine Worship and the Discipline of the Sacraments, response on the orientation of the priest at Mass (25 September 2000)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pontifical Council for Promoting Christian Unity, Guidelines for Admission to the Eucharist between the Chaldean Church and the Assyrian Church of the East (2001)"
         },
         {
           "type": "ccc",
           "reference": "CCC 1362"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1208",
+          "quote": "The diverse liturgical traditions or rites, legitimately recognized, manifest the catholicity of the Church"
         }
       ]
     },
@@ -4705,7 +4972,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1091"
+          "reference": "CCC 1090",
+          "quote": "In the earthly liturgy we share in a foretaste of that heavenly liturgy"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1139"
         }
       ]
     },
@@ -4722,7 +4994,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1091"
+          "reference": "CCC 1090",
+          "quote": "In the earthly liturgy we share in a foretaste of that heavenly liturgy"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1139"
         }
       ]
     },
@@ -4804,8 +5081,10 @@
       "hint": "Consider what it would mean to take a real, significant claim seriously, compared to defending it only vaguely.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1091"
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -4839,7 +5118,24 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1091"
+          "reference": "CCC 1163",
+          "quote": "In the course of the year, moreover, she unfolds the whole mystery of Christ"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1324",
+          "quote": "The other sacraments... are bound up with the Eucharist and are oriented toward it."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Orientalium Ecclesiarum 3",
+          "quote": "They are consequently of equal dignity, so that none of them is superior to the others as regards rite"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -4856,7 +5152,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1091"
+          "reference": "CCC 1128",
+          "quote": "the sacrament is not wrought by the righteousness of either the celebrant or the recipient, but by the power of God"
         }
       ]
     },
@@ -4878,8 +5175,14 @@
       "hint": "Consider what attitude best fits the truth that heaven touches earth at every Mass.",
       "citations": [
         {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 48",
+          "quote": "they should take part in the sacred action conscious of what they are doing, with devotion and full collaboration"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 1091"
+          "reference": "CCC 1090",
+          "quote": "In the earthly liturgy we share in a foretaste of that heavenly liturgy"
         }
       ]
     },
@@ -4902,7 +5205,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1091"
+          "reference": "CCC 1090",
+          "quote": "In the earthly liturgy we share in a foretaste of that heavenly liturgy"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1139"
         }
       ]
     }
