@@ -7,7 +7,7 @@
       "level": 1,
       "type": "multiple_choice",
       "difficultyElo": 850,
-      "prompt": "In the very simplest terms, what is a virtue?",
+      "prompt": "In the very simplest terms, what is a human virtue?",
       "choices": [
         "A habitual and firm disposition to do the good, built up through repeated, good choices",
         "A single, isolated, good action, with no bearing on any lasting, personal disposition",
@@ -15,7 +15,7 @@
         "An external rule imposed on a person, with no internal, personal disposition involved at all"
       ],
       "correctAnswer": "A habitual and firm disposition to do the good, built up through repeated, good choices",
-      "explanation": "This is the simplest, honest definition -- a virtue is a habitual and firm disposition to do good, built up through repeated, good choices, not a single act or a mere natural talent.",
+      "explanation": "This is the simplest, honest definition -- a human virtue is a habitual and firm disposition to do good, built up through repeated, good choices, not a single act or a mere natural talent.",
       "hint": "Consider whether a single, good action alone would count as a genuine, lasting virtue.",
       "citations": [
         {
@@ -110,7 +110,7 @@
       "level": 1,
       "type": "true_false",
       "difficultyElo": 800,
-      "prompt": "True or False: Virtue is built up through deliberate, repeated choices, genuinely available to anyone willing to practice it.",
+      "prompt": "True or False: Human virtue is built up through deliberate, repeated choices, genuinely available to anyone willing to practice it.",
       "correctAnswer": true,
       "explanation": "True, and this encouraging point matters -- virtue isn't reserved for those simply born naturally good, but genuinely available through deliberate practice.",
       "hint": "Recall the real, encouraging correction about virtue not being a fixed, natural talent.",
@@ -214,8 +214,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
         }
       ]
     },
@@ -232,8 +232,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
         }
       ]
     },
@@ -256,8 +256,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
         }
       ]
     },
@@ -274,8 +274,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
         }
       ]
     },
@@ -287,19 +287,24 @@
       "difficultyElo": 932,
       "prompt": "Someone assumes a vice means simply being a 'bad person' in some fixed, permanent sense. What is the honest, encouraging correction?",
       "choices": [
-        "A vice is a habitual disposition, genuinely capable of being gradually broken through the same, deliberate effort that builds a virtue",
+        "A vice is a habitual disposition that, with God's grace and deliberate effort, can gradually be overcome; it is not a permanent verdict",
         "This is correct -- a vice means being permanently, fixed as a genuinely bad person, with no hope of change",
         "A vice has no meaningful relationship to a person's own, ongoing choices at all",
         "This honest correction is unavailable, since the assumption is entirely correct"
       ],
-      "correctAnswer": "A vice is a habitual disposition, genuinely capable of being gradually broken through the same, deliberate effort that builds a virtue",
-      "explanation": "This is a honest, encouraging correction -- a vice, like a virtue, is a habitual disposition, genuinely capable of being broken through deliberate effort, not a fixed, permanent verdict on a person's own worth.",
+      "correctAnswer": "A vice is a habitual disposition that, with God's grace and deliberate effort, can gradually be overcome; it is not a permanent verdict",
+      "explanation": "This is an honest, encouraging correction -- a vice is a habitual disposition, but with God's grace and deliberate effort it can gradually be overcome. It is not a fixed, permanent verdict on a person.",
       "hint": "Recall the point about how a vice takes root, and consider whether that same process could be reversed.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1811",
+          "quote": "Christ's gift of salvation offers us the grace necessary to persevere in the pursuit of the virtues."
         }
       ]
     },
@@ -309,15 +314,20 @@
       "level": 2,
       "type": "true_false",
       "difficultyElo": 882,
-      "prompt": "True or False: A vice is genuinely capable of being broken through deliberate effort, the same kind of effort that builds a virtue.",
+      "prompt": "True or False: A vice is not a permanent verdict; with God's grace and deliberate effort it can gradually be overcome.",
       "correctAnswer": true,
-      "explanation": "True, and this encouraging point matters -- a vice is not a fixed, permanent verdict, but a habitual disposition genuinely capable of change.",
+      "explanation": "True, and this encouraging point matters -- a vice is a habitual disposition, not a fixed, permanent verdict, and with God's grace and deliberate effort it can be overcome.",
       "hint": "Recall the real, encouraging correction about a vice being genuinely capable of change.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1811",
+          "quote": "Christ's gift of salvation offers us the grace necessary to persevere in the pursuit of the virtues."
         }
       ]
     },
@@ -339,7 +349,7 @@
         },
         {
           "left": "\"A vice means being a fixed, bad person\"",
-          "right": "A misunderstanding -- a vice can genuinely be broken through effort"
+          "right": "A misunderstanding -- with God's grace and effort, a vice can be overcome"
         },
         {
           "left": "Why this matters practically",
@@ -351,8 +361,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1811",
+          "quote": "Christ's gift of salvation offers us the grace necessary to persevere in the pursuit of the virtues."
         }
       ]
     },
@@ -375,8 +390,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "reference": "CCC 1804"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1865",
+          "quote": "Sin creates a proclivity to sin; it engenders vice by repetition of the same acts."
         }
       ]
     },
@@ -717,20 +736,25 @@
       "level": 4,
       "type": "multiple_choice",
       "difficultyElo": 1098,
-      "prompt": "Why does the Catechism call the four cardinal virtues 'human' virtues?",
+      "prompt": "According to the Catechism, how are the human virtues, including the four cardinal virtues, acquired?",
       "choices": [
-        "They are acquired by education, deliberate acts, and perseverance — real habits built by repeated effort, not infused directly",
-        "Because only humans can have them, unlike angels",
-        "Because they concern only relationships with other people",
-        "Because they were first named by pagan philosophers"
+        "By education, deliberate acts, and perseverance in repeated efforts, which divine grace purifies and elevates",
+        "They are inherited at birth and need no effort or practice",
+        "They are given only to the clergy and consecrated persons",
+        "They come automatically with age and need no practice"
       ],
-      "correctAnswer": "They are acquired by education, deliberate acts, and perseverance — real habits built by repeated effort, not infused directly",
-      "explanation": "This is the working distinction that matters: cardinal virtues are built the way any skill is built, through repetition, while the theological virtues are put directly into the soul by God. Confusing the two leads either to expecting charity from willpower or excusing weak prudence as a matter of grace.",
+      "correctAnswer": "By education, deliberate acts, and perseverance in repeated efforts, which divine grace purifies and elevates",
+      "explanation": "The Catechism teaches that the moral virtues are acquired by human effort, through education, deliberate acts and perseverance ever-renewed in repeated efforts, and that divine grace purifies and elevates them. The theological virtues, by contrast, are infused by God into the souls of the faithful.",
       "hint": "Ask how you would go about acquiring one of these four.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1804"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1810",
+          "quote": "Human virtues acquired by education, by deliberate acts and by a perseverance ever-renewed in repeated efforts are purified and elevated by divine grace."
         }
       ]
     },
@@ -742,7 +766,7 @@
       "difficultyElo": 1048,
       "prompt": "True or False: Prudence tells you what the right thing to do is; the other three virtues are what actually let you do it.",
       "correctAnswer": true,
-      "explanation": "True, which is why Aquinas calls prudence the charioteer of the virtues. Knowing the right course and having the strength, the fairness, or the self-command to follow it are different achievements — someone can have excellent judgment and still fail from weak fortitude, or vice versa.",
+      "explanation": "True. The Catechism calls prudence auriga virtutum, the charioteer of the virtues, because it guides the other virtues by setting rule and measure. Justice is the constant and firm will to give God and neighbor their due, fortitude ensures firmness in difficulties, and temperance moderates the attraction of pleasures; these are the virtues by which the course prudence directs is carried out.",
       "hint": "One virtue governs judgment; the other three govern the capacity to act on that judgment.",
       "citations": [
         {
@@ -800,7 +824,7 @@
           "right": "Moderating desire for pleasure so reason keeps mastery"
         }
       ],
-      "explanation": "Every other human virtue is grouped around one of these four, which is the literal meaning of 'cardinal' — hinge. A weakness that seems unrelated, like chronic lateness, is usually traceable to one of these four failing quietly.",
+      "explanation": "The Catechism says four virtues play a pivotal role and are therefore called 'cardinal', and that all the other virtues are grouped around them; the word comes from the Latin cardo, 'hinge'.",
       "hint": "The word 'cardinal' comes from the Latin for hinge — everything else turns on these.",
       "citations": [
         {
@@ -879,10 +903,10 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 1130,
-      "prompt": "True or False: Practicing temperance in an everyday pleasure means setting one, small, honest limit in advance, rather than deciding case by case in the actual moment of temptation.",
+      "prompt": "True or False: Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods.",
       "correctAnswer": true,
-      "explanation": "True, and this practical point matters -- deciding in advance, before the vulnerable moment, makes practicing temperance far more achievable.",
-      "hint": "Recall the practical example of practicing temperance.",
+      "explanation": "True. This is the Catechism's definition of temperance (CCC 1809).",
+      "hint": "Recall the Catechism's definition of temperance.",
       "citations": [
         {
           "type": "ccc",
@@ -897,20 +921,21 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1180,
-      "prompt": "Why does it make sense to practice one cardinal virtue at a time, rather than all four at once?",
+      "prompt": "Which cardinal virtue is called auriga virtutum, 'the charioteer of the virtues', because it guides the other virtues by setting rule and measure?",
       "choices": [
-        "Because a small, concrete step builds growth better than an overwhelming all-at-once attempt",
-        "Because the four cardinal virtues have no connection to each other",
-        "Because practicing one virtue means the other three can be ignored forever",
-        "Because the tradition says to attempt every virtue at the same time"
+        "Prudence",
+        "Justice",
+        "Fortitude",
+        "Temperance"
       ],
-      "correctAnswer": "Because a small, concrete step builds growth better than an overwhelming all-at-once attempt",
-      "explanation": "A small, concrete step builds growth more effectively than attempting everything at once.",
-      "hint": "Recall that a small, concrete first step is the practical way to grow in virtue.",
+      "correctAnswer": "Prudence",
+      "explanation": "Prudence is called auriga virtutum, the charioteer of the virtues, because it guides the other virtues by setting rule and measure (CCC 1806).",
+      "hint": "It is the virtue that disposes practical reason to discern our true good.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1806"
+          "reference": "CCC 1806",
+          "quote": "It is called auriga virtutum (the charioteer of the virtues); it guides the other virtues by setting rule and measure."
         }
       ]
     },
@@ -920,71 +945,15 @@
       "level": 5,
       "type": "true_false",
       "difficultyElo": 1130,
-      "prompt": "True or False: Choosing one cardinal virtue to practice at a time fits the principle that a small, concrete step builds growth better than trying everything at once.",
+      "prompt": "True or False: Prudence is the virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it.",
       "correctAnswer": true,
-      "explanation": "True -- choosing one virtue applies the principle that small, concrete steps build growth.",
-      "hint": "Recall that a small, concrete first step is the practical way to grow in virtue.",
+      "explanation": "True. This is the Catechism's definition of prudence (CCC 1806).",
+      "hint": "Recall the Catechism's definition of the first cardinal virtue.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1806"
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l5-007",
-      "topic": "virtues-and-vices",
-      "level": 5,
-      "type": "matching_pairs",
-      "difficultyElo": 1220,
-      "prompt": "Match each cardinal virtue to a practical exercise for living it.",
-      "pairs": [
-        {
-          "left": "Prudence",
-          "right": "Pause before deciding, honestly weighing facts and likely consequences"
-        },
-        {
-          "left": "Temperance",
-          "right": "Set one small, honest limit in advance, and actually keep it"
-        },
-        {
-          "left": "Why one virtue at a time",
-          "right": "A small, concrete step builds growth more effectively than everything at once"
-        },
-        {
-          "left": "Why the approach matters",
-          "right": "Turns the definitions into practical habits"
-        }
-      ],
-      "explanation": "These four facts together turn the cardinal virtue definitions into practical, weekly exercises.",
-      "hint": "Each row gives one practical exercise for practicing a cardinal virtue.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 1806"
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l5-009",
-      "topic": "virtues-and-vices",
-      "level": 5,
-      "type": "multiple_choice",
-      "difficultyElo": 1180,
-      "prompt": "What does turning the cardinal virtue definitions into actual, weekly exercises look like?",
-      "choices": [
-        "Turning abstract definitions into practical, weekly exercises someone could genuinely attempt",
-        "Assuming the cardinal virtues have no practical application to everyday decisions",
-        "Replacing the cardinal virtue definitions with an entirely unrelated subject",
-        "Assuming all four cardinal virtues must be practiced perfectly, simultaneously, or not at all"
-      ],
-      "correctAnswer": "Turning abstract definitions into practical, weekly exercises someone could genuinely attempt",
-      "explanation": "The habit -- turning definitions into practical, weekly exercises -- is a reliable way to grow in the cardinal virtues.",
-      "hint": "Consider what it means to turn abstract, cardinal virtue definitions into something practiced weekly.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 1806"
+          "reference": "CCC 1806",
+          "quote": "...discern our true good in every circumstance and to choose the right means of achieving it"
         }
       ]
     },
@@ -1119,8 +1088,21 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1813",
-          "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+          "reference": "CCC 1814",
+          "quote": "Faith is the theological virtue by which we believe in God and believe all that he has said and revealed to us..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1817"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1822",
+          "quote": "Charity is the theological virtue by which we love God above all things for his own sake..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1812"
         }
       ]
     },
@@ -1159,12 +1141,18 @@
       "difficultyElo": 1212,
       "prompt": "True or False: A person can have faith without charity, but cannot have genuine charity without faith.",
       "correctAnswer": true,
-      "explanation": "True — this is the difference between what tradition calls 'dead' faith and 'living' faith. Faith without charity is possible (even demons believe, and shudder); charity is love of God as he has revealed himself, so it presupposes the faith by which he is known.",
+      "explanation": "True. Faith can remain in a person who lacks hope and love, but then it is dead faith: it does not fully unite the believer to Christ (CCC 1815). Charity is love of God as he has revealed himself, so it presupposes faith: 'without faith it is impossible to please God' (Hebrews 11:6).",
       "hint": "Recall James's description of a faith that believes but does nothing.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1815"
+        },
+        {
+          "type": "scripture",
+          "reference": "Hebrews 11:6",
+          "quote": "But without faith it is impossible to please God.",
+          "note": "Douay-Rheims"
         },
         {
           "type": "scripture",
@@ -1224,6 +1212,10 @@
         },
         {
           "type": "ccc",
+          "reference": "CCC 1815"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1817"
         },
         {
@@ -1280,21 +1272,30 @@
       "level": 7,
       "type": "multiple_choice",
       "difficultyElo": 1345,
-      "prompt": "If the theological virtues can't actually be earned by effort, what is the most a person can honestly do to grow in them?",
+      "prompt": "If no one can earn the theological virtues by effort alone, how can a person honestly grow in them?",
       "choices": [
-        "Disposing themselves to receive this gift more fully -- through prayer, the sacraments, and openness -- without presuming it is owed",
+        "By cooperating with God's grace through prayer, the sacraments and good works, never presuming the gift is owed, since even our merit is God's gift",
         "Nothing at all -- since they can't be earned, there's no honest way to grow in them further",
         "Demand the gift directly from God, since sufficient effort should guarantee it regardless",
         "Achieve them through a sufficiently long, disciplined habit, despite technically being called a gift"
       ],
-      "correctAnswer": "Disposing themselves to receive this gift more fully -- through prayer, the sacraments, and openness -- without presuming it is owed",
-      "explanation": "This is a honest, middle position -- a person can dispose themselves to receive this gift more fully through ordinary prayer and the sacraments, without presuming the gift is owed to them by effort alone.",
-      "hint": "Consider the distinction between disposing oneself for a gift and producing it by technique.",
+      "correctAnswer": "By cooperating with God's grace through prayer, the sacraments and good works, never presuming the gift is owed, since even our merit is God's gift",
+      "explanation": "No one can merit the initial grace of justification (CCC 2010), and even the preparation for grace is a work of grace (CCC 2001). Moved by the Holy Spirit and by charity, we can then merit the graces needed for our sanctification and for the increase of grace and charity (CCC 2010), and that merit is itself due to God's grace (CCC 2008).",
+      "hint": "Consider how God's grace and the person's free cooperation work together.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1813",
-          "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+          "reference": "CCC 2010",
+          "quote": "we can then merit for ourselves and for others the graces needed for our sanctification, for the increase of grace and charity"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001",
+          "quote": "The preparation of man for the reception of grace is already a work of grace."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2008"
         }
       ]
     },
@@ -1306,13 +1307,18 @@
       "difficultyElo": 1295,
       "prompt": "True or False: A person can dispose themselves to receive the gift of the theological virtues more fully, without this amounting to earning them by effort alone.",
       "correctAnswer": true,
-      "explanation": "True, and this careful distinction matters -- disposing oneself for a gift is genuinely different from producing that gift through effort alone.",
+      "explanation": "True. Man is not inactive in receiving grace, since he could reject it, yet the preparation for grace is itself a work of grace, so this is not earning the gift by effort alone (CCC 1993, 2001).",
       "hint": "Consider whether disposing oneself for a gift is the same real thing as earning that gift through effort.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1813",
-          "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+          "reference": "CCC 1993",
+          "quote": "without God's grace, he cannot by his own free will move himself toward justice in God's sight"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2001",
+          "quote": "The preparation of man for the reception of grace is already a work of grace."
         }
       ]
     },
@@ -1335,8 +1341,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1813",
-          "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+          "reference": "CCC 1993",
+          "quote": "Justification establishes cooperation between God's grace and man's freedom."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2008"
         }
       ]
     },
@@ -1353,8 +1363,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1813",
-          "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+          "reference": "CCC 1993",
+          "quote": "Justification establishes cooperation between God's grace and man's freedom."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2008"
         }
       ]
     },
@@ -1364,56 +1378,46 @@
       "level": 7,
       "type": "matching_pairs",
       "difficultyElo": 1385,
-      "prompt": "Match each fact about why the theological virtues can't be earned to what it actually means.",
+      "prompt": "Match each fact about the theological virtues, grace and merit to what it means.",
       "pairs": [
         {
           "left": "The theological virtues, at their core",
-          "right": "A genuine gift infused by God, not earned by effort alone"
+          "right": "A gift infused by God, not produced by human effort alone"
         },
         {
-          "left": "The most a person can honestly do",
-          "right": "Dispose themselves to receive the gift, without presuming it's owed"
+          "left": "The initial grace of justification",
+          "right": "No one can merit it"
         },
         {
-          "left": "Does personal effort still matter?",
-          "right": "Yes -- in disposing oneself and living out the gift, though not earning it"
+          "left": "Does personal cooperation still matter?",
+          "right": "Yes -- grace calls for free cooperation, and even the preparation for grace is a work of grace"
         },
         {
-          "left": "Why the point matters",
-          "right": "Clarifies hope and honest effort without false presumption"
+          "left": "After justification",
+          "right": "We can merit an increase of grace and charity, yet that merit is itself God's gift"
         }
       ],
-      "explanation": "These four facts together give the honest, careful teaching on why the theological virtues resist being reduced to earned achievements.",
+      "explanation": "The theological virtues are infused by God; no one can merit the initial grace, yet grace calls for our free cooperation, and the justified can merit an increase of grace and charity, a merit that is itself God's gift (CCC 1813, 2001, 2008, 2010).",
       "hint": "Each row names one careful step in the honest teaching.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1813",
           "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l7-009",
-      "topic": "virtues-and-vices",
-      "level": 7,
-      "type": "multiple_choice",
-      "difficultyElo": 1345,
-      "prompt": "What's the honest, careful line between disposing oneself to the theological virtues and actually earning them?",
-      "choices": [
-        "Naming honestly what effort can and cannot do for the theological virtues, distinguishing disposing oneself from earning the gift",
-        "Assuming the theological virtues are identical to the cardinal virtues in how they're acquired",
-        "Abandoning the theological virtue definitions entirely",
-        "Assuming no honest cooperation with the theological virtues is possible at all"
-      ],
-      "correctAnswer": "Naming honestly what effort can and cannot do for the theological virtues, distinguishing disposing oneself from earning the gift",
-      "explanation": "The habit -- honestly naming a limit, while still leaving room for genuine cooperation -- is a reliable discipline for growing in the theological virtues.",
-      "hint": "Consider what effort can and cannot do for a gift that's genuinely infused, not earned.",
-      "citations": [
+        },
         {
           "type": "ccc",
-          "reference": "CCC 1813",
-          "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+          "reference": "CCC 2001",
+          "quote": "The preparation of man for the reception of grace is already a work of grace."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2008"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2010",
+          "quote": "no one can merit the initial grace of forgiveness and justification, at the beginning of conversion"
         }
       ]
     },
@@ -1447,10 +1451,10 @@
       "level": 8,
       "type": "true_false",
       "difficultyElo": 1378,
-      "prompt": "True or False: Pride is traditionally considered the first and most fundamental of the capital vices.",
+      "prompt": "True or False: In the Catechism's list of the capital sins, pride is named first.",
       "correctAnswer": true,
-      "explanation": "Pride -- an excessive, disordered self-regard that refuses to acknowledge dependence on God -- is traditionally named first among the capital vices, often seen as the root from which the others grow.",
-      "hint": "This is the vice most directly opposed to humility before God.",
+      "explanation": "True. CCC 1866 lists the capital sins as pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia. The Catechism also notes that envy often comes from pride (CCC 2540).",
+      "hint": "Recall the order in which the Catechism lists the capital sins.",
       "citations": [
         {
           "type": "ccc",
@@ -1466,7 +1470,7 @@
       "level": 8,
       "type": "fill_blank",
       "difficultyElo": 1488,
-      "prompt": "____, the capital vice of resentment at another person's good fortune and secret pleasure at their misfortune, is directly opposed to the virtue of charity.",
+      "prompt": "____ is the capital sin that refers to sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly; it is a refusal of charity.",
       "correctAnswer": "Envy",
       "explanation": "Envy is sorrow at another's good, as though it diminished one's own -- the opposite of charity, which rejoices in the good of others as a friend would.",
       "hint": "It's the vice at work when someone else's success feels like your loss.",
@@ -1518,6 +1522,11 @@
           "type": "ccc",
           "reference": "CCC 1809",
           "quote": "Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2290",
+          "quote": "The virtue of temperance disposes us to avoid every kind of excess: the abuse of food, alcohol, tobacco, or medicine."
         }
       ],
       "miniGameEligible": true
@@ -1767,8 +1776,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2539",
-          "quote": "It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly."
+          "reference": "CCC 2540",
+          "quote": "the baptized person should struggle against it by exercising good will"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1454",
+          "quote": "The reception of this sacrament ought to be prepared for by an examination of conscience"
         }
       ]
     },
@@ -1785,8 +1799,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2539",
-          "quote": "It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly."
+          "reference": "CCC 1697",
+          "quote": "unless man acknowledges that he is a sinner he cannot know the truth about himself, which is a condition for acting justly"
         }
       ]
     },
@@ -1807,21 +1821,36 @@
           "right": "Sloth (acedia) -- aversion to the good or effort required"
         },
         {
-          "left": "Why honestly naming a vice matters",
-          "right": "Opens the possibility of a deliberate, different response"
+          "left": "Nursing a grudge and wanting to get even",
+          "right": "Wrath -- anger, a desire for revenge"
         },
         {
-          "left": "Why the approach matters",
-          "right": "Turns the definitions into everyday recognition"
+          "left": "Always wanting more money and possessions, never satisfied",
+          "right": "Avarice -- greed, the desire to amass earthly goods without limit"
         }
       ],
-      "explanation": "These four facts together turn the capital vice definitions into a practical habit of everyday recognition.",
+      "explanation": "Envy, sloth, wrath and avarice are four of the seven capital vices named in CCC 1866 (pride, avarice, envy, wrath, lust, gluttony, sloth or acedia), and each can be recognized in an everyday moment.",
       "hint": "Each row matches one everyday moment to the capital vice it resembles.",
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 2539",
+          "quote": "It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2094",
           "quote": "...acedia or spiritual sloth goes so far as to refuse the joy that comes from God and to be repelled by divine goodness."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2302",
+          "quote": "Anger is a desire for revenge."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2536",
+          "quote": "The tenth commandment forbids greed and the desire to amass earthly goods without limit."
         }
       ]
     },
@@ -1844,8 +1873,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2539",
-          "quote": "It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly."
+          "reference": "CCC 1697",
+          "quote": "unless man acknowledges that he is a sinner he cannot know the truth about himself, which is a condition for acting justly"
         }
       ]
     },
@@ -1949,7 +1978,12 @@
         {
           "type": "ccc",
           "reference": "CCC 1831",
-          "quote": "They complete and perfect the virtues of those who receive them."
+          "quote": "The seven gifts of the Holy Spirit are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1828",
+          "quote": "He no longer stands before God as a slave, in servile fear"
         }
       ]
     },
@@ -2001,24 +2035,27 @@
       "level": 10,
       "type": "multiple_choice",
       "difficultyElo": 1592,
-      "prompt": "How do the gifts of the Holy Spirit differ from the theological virtues in their manner of operating?",
+      "prompt": "According to the Catechism, what are the gifts of the Holy Spirit?",
       "choices": [
-        "The gifts make a person docile to the Spirit's own promptings, acting almost by instinct rather than by reasoned deliberation each time",
-        "The gifts are acquired through practice, unlike the virtues",
-        "The gifts operate only in the ordained",
-        "There is no real difference between them"
+        "Permanent dispositions that make a person docile in following the promptings of the Holy Spirit",
+        "Abilities acquired by human effort and repeated practice",
+        "Gifts that operate only in the ordained",
+        "A replacement for faith, hope, and charity"
       ],
-      "correctAnswer": "The gifts make a person docile to the Spirit's own promptings, acting almost by instinct rather than by reasoned deliberation each time",
-      "explanation": "A virtue disposes a person to act well through their own deliberation; a gift disposes them to be readily moved by the Spirit, sometimes faster than reasoning could work through the situation. This is why the saints are often described as acting rightly 'instinctively.'",
-      "hint": "Ask who is doing the prompting in each case — the person's own reasoning, or something received.",
+      "correctAnswer": "Permanent dispositions that make a person docile in following the promptings of the Holy Spirit",
+      "explanation": "The Catechism teaches that the gifts of the Holy Spirit are permanent dispositions which make man docile in following the promptings of the Holy Spirit (CCC 1830), and that they complete and perfect the virtues of those who receive them (CCC 1831).",
+      "hint": "Ask who is doing the prompting: the person's own effort, or the Holy Spirit.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1830"
+          "reference": "CCC 1830",
+          "quote": "These are permanent dispositions which make man docile in following the promptings of the Holy Spirit."
         },
         {
           "type": "scripture",
-          "reference": "Isaiah 11:2-3"
+          "reference": "Isaiah 11:2-3",
+          "quote": "And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -2056,11 +2093,17 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1831"
+          "reference": "CCC 1831",
+          "quote": "The seven gifts of the Holy Spirit are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord."
         },
         {
           "type": "ccc",
-          "reference": "CCC 2217"
+          "reference": "CCC 1828",
+          "quote": "He no longer stands before God as a slave, in servile fear"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2144"
         }
       ]
     },
@@ -2160,13 +2203,13 @@
       "difficultyElo": 1675,
       "prompt": "Someone notices genuine peace after making a genuinely difficult decision they'd prayed over carefully. Is this felt peace more like a gift or a fruit, in the practical sense of that distinction?",
       "choices": [
-        "More like a fruit -- a visible, felt sign that a gift like counsel was at work beneath the decision",
+        "More like a fruit -- peace is one of the fruits of the Spirit named in Galatians 5:22",
         "More like a gift -- an internal capacity, unrelated to any actual, felt, visible sign at all",
         "The felt peace has no connection to either the gifts or the fruits of the Spirit at all",
         "This distinction between gift and fruit cannot be applied to any concrete, everyday example"
       ],
-      "correctAnswer": "More like a fruit -- a visible, felt sign that a gift like counsel was at work beneath the decision",
-      "explanation": "This is a practical, concrete application -- the felt peace is more like a fruit, a visible sign that a gift like counsel was at work beneath the careful, prayed-over decision.",
+      "correctAnswer": "More like a fruit -- peace is one of the fruits of the Spirit named in Galatians 5:22",
+      "explanation": "Peace is named among the fruits of the Spirit in Galatians 5:22, so it is more like a fruit than a gift.",
       "hint": "Recall the practical distinction between an internal capacity and its own, visible sign.",
       "citations": [
         {
@@ -2183,10 +2226,10 @@
       "level": 11,
       "type": "true_false",
       "difficultyElo": 1625,
-      "prompt": "True or False: Felt peace after a carefully, prayerfully made decision can be understood as a fruit, a visible sign that a gift like counsel was at work.",
+      "prompt": "True or False: Peace is one of the fruits of the Spirit named by St. Paul in Galatians 5:22.",
       "correctAnswer": true,
-      "explanation": "True, and this concrete example matters -- it shows the gift/fruit distinction applying to a genuine, everyday experience.",
-      "hint": "Recall the real, concrete example of peace as a fruit following from a gift.",
+      "explanation": "True. Paul's list of the fruits of the Spirit in Galatians 5:22 includes peace.",
+      "hint": "Recall Paul's list of the fruit of the Spirit in Galatians.",
       "citations": [
         {
           "type": "scripture",
@@ -2255,8 +2298,8 @@
           "right": "More like the visible signs those capacities produce"
         },
         {
-          "left": "Felt peace after a careful decision",
-          "right": "A fruit, pointing back to a gift like counsel at work"
+          "left": "Peace",
+          "right": "Named as a fruit of the Spirit in Galatians 5:22"
         },
         {
           "left": "Why this distinction matters practically",
@@ -2303,21 +2346,21 @@
       "level": 12,
       "type": "multiple_choice",
       "difficultyElo": 1758,
-      "prompt": "The Beatitudes, which open the Sermon on the Mount, describe:",
+      "prompt": "According to the Catechism, the Beatitudes, which open the Sermon on the Mount, are:",
       "choices": [
-        "The perfection of virtue that leads to true blessedness",
+        "The heart of Jesus' preaching, which orders God's promises to the Kingdom of heaven",
         "A list of Old Testament ceremonial laws",
         "A prayer recited only during the Easter Vigil",
         "The formal requirements for becoming a bishop"
       ],
-      "correctAnswer": "The perfection of virtue that leads to true blessedness",
-      "explanation": "The Beatitudes depict the heights of the virtuous life, portraying the paradoxical road -- poverty of spirit, mourning, meekness, hunger for righteousness -- that leads to genuine, lasting blessedness.",
-      "hint": "This is Jesus' own portrait of what a fully virtuous, blessed life looks like.",
+      "correctAnswer": "The heart of Jesus' preaching, which orders God's promises to the Kingdom of heaven",
+      "explanation": "The Catechism teaches that the Beatitudes are at the heart of Jesus' preaching and that they fulfill the promises made to the chosen people by ordering them to the Kingdom of heaven (CCC 1716).",
+      "hint": "Think of where the Catechism places the Beatitudes within Jesus' preaching.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1716",
-          "quote": "They take up the promises made to the chosen people since Abraham."
+          "quote": "The Beatitudes are at the heart of Jesus' preaching."
         },
         {
           "type": "scripture",
@@ -2405,8 +2448,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1716",
-          "quote": "They take up the promises made to the chosen people since Abraham."
+          "reference": "CCC 1723",
+          "quote": "true happiness is not found in riches or well-being ... but in God alone, the source of every good and of all love"
         }
       ]
     },
@@ -2481,16 +2524,19 @@
       "difficultyElo": 1708,
       "prompt": "True or False: 'Blessed are those who mourn' promises comfort only for grief over the death of a loved one.",
       "correctAnswer": false,
-      "explanation": "False. The mourning in view is broader — sorrow over sin, over the brokenness of the world, over any loss — and the promise of comfort is not limited to bereavement. Narrowing it to one kind of grief loses most of what the Beatitude offers.",
+      "explanation": "False. The Gospel names mourning without limiting it to grief over a death, and the promise is simply that those who mourn shall be comforted.",
       "hint": "Ask whether the text specifies which kind of mourning, or leaves it open.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1697"
+          "reference": "CCC 1716",
+          "quote": "Blessed are those who mourn, for they shall be comforted."
         },
         {
           "type": "scripture",
-          "reference": "Matthew 5:4"
+          "reference": "Matthew 5:4",
+          "quote": "Blessed are they that mourn: for they shall be comforted.",
+          "note": "Douay-Rheims (numbered Matthew 5:5 in that edition)"
         }
       ]
     },
@@ -2620,8 +2666,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 2304",
+          "quote": "Peace is the work of justice and the effect of charity."
         }
       ]
     },
@@ -2638,8 +2684,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 2304",
+          "quote": "Peace is the work of justice and the effect of charity."
         }
       ]
     },
@@ -2651,19 +2697,19 @@
       "difficultyElo": 1840,
       "prompt": "Why does choosing just one Beatitude to live out at a time, rather than attempting all eight at once, make sense?",
       "choices": [
-        "Because a small, concrete step builds growth better than an overwhelming, all-at-once attempt",
+        "Because spiritual progress is gradual, so beginning with one concrete step is a sound way to start",
         "Because the eight Beatitudes have no meaningful connection to each other at all",
         "Because practicing only one Beatitude at a time means the other seven can be ignored forever",
         "Because the wisdom of the tradition is to attempt every Beatitude simultaneously"
       ],
-      "correctAnswer": "Because a small, concrete step builds growth better than an overwhelming, all-at-once attempt",
-      "explanation": "A small, concrete step builds growth more effectively than attempting everything at once.",
-      "hint": "Recall that a small, concrete first step is the practical way to grow in virtue.",
+      "correctAnswer": "Because spiritual progress is gradual, so beginning with one concrete step is a sound way to start",
+      "explanation": "The Catechism teaches that spiritual progress gradually leads to living in the peace and joy of the Beatitudes (CCC 2015), so beginning with one concrete step is a sound way to start. It does not mean the other Beatitudes can be ignored.",
+      "hint": "Think about how the Catechism describes spiritual progress.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 2015",
+          "quote": "Spiritual progress entails the ascesis and mortification that gradually lead to living in the peace and joy of the Beatitudes"
         }
       ]
     },
@@ -2673,15 +2719,15 @@
       "level": 13,
       "type": "true_false",
       "difficultyElo": 1790,
-      "prompt": "True or False: Choosing to live out just one Beatitude at a time fits the principle that a small, concrete step builds growth more effectively than everything at once.",
+      "prompt": "True or False: Because the Catechism teaches that spiritual progress gradually leads to living the Beatitudes, choosing one Beatitude at a time to practice is a sound way to begin.",
       "correctAnswer": true,
-      "explanation": "True -- the practical approach of choosing one Beatitude directly applies the principle that small, concrete steps build growth.",
-      "hint": "Recall that a small, concrete first step is the practical way to grow in virtue.",
+      "explanation": "True. The Catechism teaches that spiritual progress gradually leads to living in the peace and joy of the Beatitudes (CCC 2015), so starting with one concrete step is a sound way to begin.",
+      "hint": "Recall how the Catechism describes spiritual progress: it is gradual.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 2015",
+          "quote": "Spiritual progress entails the ascesis and mortification that gradually lead to living in the peace and joy of the Beatitudes"
         }
       ]
     },
@@ -2702,45 +2748,36 @@
           "right": "Initiate an honest, difficult conversation to repair a relationship"
         },
         {
-          "left": "Why one Beatitude at a time",
-          "right": "A small, concrete step builds growth more effectively than everything at once"
+          "left": "Blessed are the poor in spirit",
+          "right": "Practice detachment from riches, preferring Christ to everything else"
         },
         {
-          "left": "Why the approach matters",
-          "right": "Turns the teaching into practical habits"
+          "left": "Blessed are the pure in heart",
+          "right": "Purify the heart by seeking the love of God above all else"
         }
       ],
-      "explanation": "These four facts together turn the Beatitude teaching into practical, weekly exercises.",
+      "explanation": "Each of these Beatitudes can be lived through a concrete practice.",
       "hint": "Each row gives one practical exercise for living out a Beatitude.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2447",
           "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l13-009",
-      "topic": "virtues-and-vices",
-      "level": 13,
-      "type": "multiple_choice",
-      "difficultyElo": 1840,
-      "prompt": "What does turning the Beatitudes into actual, weekly exercises look like?",
-      "choices": [
-        "Turning abstract teaching into practical, weekly exercises someone could genuinely attempt",
-        "Assuming the Beatitudes have no practical application to everyday decisions",
-        "Replacing the Beatitude teaching with an entirely unrelated subject",
-        "Assuming all eight Beatitudes must be practiced perfectly, simultaneously, or not at all"
-      ],
-      "correctAnswer": "Turning abstract teaching into practical, weekly exercises someone could genuinely attempt",
-      "explanation": "The habit -- turning teaching into practical, weekly exercises -- is a reliable way to live out the Beatitudes.",
-      "hint": "Consider what it means to turn abstract Beatitude teaching into something practiced weekly.",
-      "citations": [
+        },
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 2304",
+          "quote": "Peace is the work of justice and the effect of charity."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2544",
+          "quote": "Jesus enjoins his disciples to prefer him to everything and everyone"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1723",
+          "quote": "It invites us to purify our hearts of bad instincts and to seek the love of God above all else."
         }
       ]
     },
@@ -2750,7 +2787,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1922,
-      "prompt": "Aquinas calls prudence the 'charioteer of the virtues' (auriga virtutum), a traditional gloss on his teaching in ST II-II q.47. What argumentative work does this image do?",
+      "prompt": "The Catechism (CCC 1806) notes that prudence is called auriga virtutum, 'the charioteer of the virtues'. What argumentative work does this image do?",
       "choices": [
         "It shows prudence as the virtue that directs and applies the other virtues rightly to concrete action, without itself replacing them",
         "It shows prudence is the only virtue a person actually needs",
@@ -2763,7 +2800,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1806"
+          "reference": "CCC 1806",
+          "quote": "It is called auriga virtutum (the charioteer of the virtues); it guides the other virtues by setting rule and measure."
         }
       ]
     },
@@ -2786,8 +2824,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1839",
-          "quote": "The moral virtues grow through education, deliberate acts, and perseverance in struggle."
+          "reference": "CCC 1806",
+          "quote": "it guides the other virtues by setting rule and measure."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1809"
         }
       ]
     },
@@ -2797,15 +2839,19 @@
       "level": 14,
       "type": "true_false",
       "difficultyElo": 1872,
-      "prompt": "True or False: Charity, as a theological virtue, can be developed through the same process of habitual repetition used to build an acquired moral virtue like temperance.",
+      "prompt": "True or False: Charity, as a theological virtue, is first acquired by the same process of habitual repetition of acts by which an acquired moral virtue like temperance is built.",
       "correctAnswer": false,
-      "explanation": "Acquired virtues like temperance develop through repeated good acts forming a stable disposition (habitus), but theological virtues like charity are infused directly by God's grace -- they cannot be self-generated by repetition alone, though a person can dispose themselves to receive and cooperate with this gift.",
+      "explanation": "Acquired virtues like temperance arise from repeated good acts forming a stable disposition (habitus), but the theological virtues, charity included, are infused by God, not first produced by repetition. Once given, charity can be increased through cooperation with grace (CCC 2010).",
       "hint": "One kind of virtue is built up by practice; the other is a direct gift that practice alone cannot manufacture.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1813",
           "quote": "...are infused by God into the souls of the faithful to make them capable of acting as his children..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2010"
         }
       ]
     },
@@ -2882,12 +2928,21 @@
           "right": "One of the four 'hinge' virtues (cardo) organizing the rest of the moral life"
         }
       ],
-      "explanation": "CCC 1804 defines virtue itself as a firm, habitual disposition to do the good -- close to Aristotle's own concept of 'hexis' -- and the four terms each name a precise structural feature of how virtues relate to and depend on each other.",
-      "hint": "Two of these terms describe the moral (cardinal) virtues specifically; two describe broader categories.",
+      "explanation": "CCC 1803 describes a virtue as 'an habitual and firm disposition to do the good' (close to Aristotle's hexis). The four terms each name a precise feature of how the virtues relate: prudence is called the charioteer of the virtues because it guides them (CCC 1806); the moral virtues are held together (connexio virtutum, a theological thesis); the theological virtues have God as their origin, motive and object (CCC 1812); and the cardinal virtues are the four that play a 'pivotal role' (CCC 1805; Latin cardo, hinge).",
+      "hint": "Two of these terms name a particular virtue or the relationship among virtues (the charioteer, the interconnection); two name whole categories of virtue (theological, cardinal).",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1804"
+          "reference": "CCC 1805",
+          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1812"
         }
       ]
     },
@@ -2897,7 +2952,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1922,
-      "prompt": "Why does Aquinas call prudence the 'charioteer' of the virtues rather than simply one virtue alongside the others?",
+      "prompt": "Why is prudence called the 'charioteer' of the virtues (auriga virtutum, CCC 1806) rather than simply one virtue alongside the others?",
       "choices": [
         "Because it directs the other cardinal virtues in concrete action — justice, fortitude and temperance need prudence to apply them rightly here and now",
         "Because prudence is more difficult to acquire than the others",
@@ -2910,7 +2965,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1806"
+          "reference": "CCC 1806",
+          "quote": "it guides the other virtues by setting rule and measure."
         }
       ]
     },
@@ -2997,6 +3053,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1813"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1830",
+          "quote": "These are permanent dispositions which make man docile in following the promptings of the Holy Spirit."
         }
       ]
     },
@@ -3059,8 +3120,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1805",
-          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
+          "reference": "CCC 1839",
+          "quote": "The moral virtues grow through education, deliberate acts, and perseverance in struggle."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1809"
         }
       ]
     },
@@ -3077,109 +3142,54 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1805",
-          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
+          "reference": "CCC 1839",
+          "quote": "The moral virtues grow through education, deliberate acts, and perseverance in struggle."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1809"
         }
       ]
     },
     {
-      "id": "virtues-and-vices-l15-005",
+      "id": "virtues-and-vices-l15-010",
       "topic": "virtues-and-vices",
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 2005,
-      "prompt": "Why does correcting these common misuses of precise, Thomistic terms matter, beyond mere academic pedantry?",
+      "prompt": "The Catechism calls prudence 'auriga virtutum.' What does the phrase mean, and what does the Catechism say prudence does?",
       "choices": [
-        "A misused, technical term can discourage real, honest moral effort -- like believing you have no virtue until impossibly perfect",
-        "Because correcting these common misuses has no genuine, practical bearing on anyone's own, moral life",
-        "Because every precise, Thomistic term turns out to be genuinely meaningless upon careful investigation",
-        "Because precise correction applies only to professional theologians, never to ordinary Catholics"
+        "'The charioteer of the virtues': it guides the other virtues by setting rule and measure",
+        "'The queen of the virtues': it takes the place of the other virtues",
+        "'The root of the virtues': it is the same thing as charity",
+        "'The least of the virtues': it is only a matter of avoiding risk"
       ],
-      "correctAnswer": "A misused, technical term can discourage real, honest moral effort -- like believing you have no virtue until impossibly perfect",
-      "explanation": "This is an important practical point -- a misused technical term can discourage honest moral effort, which is why careful accuracy matters.",
-      "hint": "Consider what practical harm follows from misapplying the connexio virtutum to ordinary, gradual growth.",
+      "correctAnswer": "'The charioteer of the virtues': it guides the other virtues by setting rule and measure",
+      "explanation": "The Catechism says of prudence: 'It is called auriga virtutum (the charioteer of the virtues); it guides the other virtues by setting rule and measure' (CCC 1806). A charioteer directs the horses; he does not replace them.",
+      "hint": "Think of what a charioteer does for the horses he drives.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1805",
-          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
+          "reference": "CCC 1806",
+          "quote": "It is called auriga virtutum (the charioteer of the virtues); it guides the other virtues by setting rule and measure."
         }
       ]
     },
     {
-      "id": "virtues-and-vices-l15-006",
+      "id": "virtues-and-vices-l15-011",
       "topic": "virtues-and-vices",
       "level": 15,
       "type": "true_false",
       "difficultyElo": 1955,
-      "prompt": "True or False: A misused, technical term can discourage honest, moral effort, which is why correcting these misuses matters beyond mere academic pedantry.",
+      "prompt": "True or False: The Catechism says prudence is not to be confused with timidity or fear, nor with duplicity or dissimulation.",
       "correctAnswer": true,
-      "explanation": "True, and this careful point matters -- accuracy about precise, technical terms is a genuine matter of pastoral honesty, not mere academic pedantry.",
-      "hint": "Recall the point about what misusing a precise, technical term can discourage.",
+      "explanation": "True. These are the Catechism's own words about prudence (CCC 1806). Prudence is 'right reason in action,' as St. Thomas Aquinas puts it; it is neither holding back out of fear nor cleverness in deceiving.",
+      "hint": "Prudence is 'right reason in action.'",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1805",
-          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l15-007",
-      "topic": "virtues-and-vices",
-      "level": 15,
-      "type": "matching_pairs",
-      "difficultyElo": 2045,
-      "prompt": "Match each Thomistic term to its own, precise, correct use.",
-      "pairs": [
-        {
-          "left": "Prudence as \"charioteer\"",
-          "right": "Actively directs the other cardinal virtues, doesn't make them optional"
-        },
-        {
-          "left": "Connexio virtutum",
-          "right": "Concerns perfect, mature virtue, not ordinary, gradual, imperfect growth"
-        },
-        {
-          "left": "Why precision matters here",
-          "right": "A misused term can discourage real, honest, moral effort"
-        },
-        {
-          "left": "Why the approach matters",
-          "right": "Prevents common, careless misuses of genuinely precise terms"
-        }
-      ],
-      "explanation": "These four facts together turn the bare definitions into precise, correctly applied, Thomistic vocabulary.",
-      "hint": "Each row corrects one common, careless misuse of a precise, technical term.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 1805",
-          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l15-009",
-      "topic": "virtues-and-vices",
-      "level": 15,
-      "type": "multiple_choice",
-      "difficultyElo": 2005,
-      "prompt": "What does correcting the common misuse of 'charioteer of the virtues' actually accomplish?",
-      "choices": [
-        "Correcting common, careless misuses, turning bare definitions into precise, correctly applied, Thomistic vocabulary",
-        "Assuming every common, careless misuse of a technical term is harmless and unimportant",
-        "Replacing the terms with an entirely unrelated subject",
-        "Assuming precise, technical vocabulary has no genuine, practical bearing on ordinary, moral life"
-      ],
-      "correctAnswer": "Correcting common, careless misuses, turning bare definitions into precise, correctly applied, Thomistic vocabulary",
-      "explanation": "The habit -- correcting common misuses -- is a reliable discipline for careful theological reading.",
-      "hint": "Consider what correcting a common, careless misuse of a technical term does for a bare definition.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 1805",
-          "quote": "Four virtues play a pivotal role and accordingly are called \"cardinal\"; all the others are grouped around them."
+          "reference": "CCC 1806",
+          "quote": "It is not to be confused with timidity or fear, nor with duplicity or dissimulation."
         }
       ]
     },
@@ -3189,21 +3199,26 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 2088,
-      "prompt": "Someone deliberately takes an unnecessary physical risk, saying they're doing it 'for God' and trusting He'll protect them. Using the fortitude/audacia (rashness) distinction, how should this be evaluated?",
+      "prompt": "Someone deliberately takes an unnecessary physical risk, saying they're doing it 'for God' and trusting He'll protect them. Using the fortitude/audacia (excessive daring) distinction, how should this be evaluated?",
       "choices": [
-        "This more closely resembles audacia (rashness) than true fortitude, since real courage requires facing a genuinely necessary danger for a right reason, not manufacturing unnecessary risk",
+        "This more closely resembles audacia (excessive daring) than true fortitude, since real courage faces danger for a genuinely good end and with prudence, not by manufacturing unnecessary risk",
         "This is automatically true fortitude, since any risk taken while invoking God's name is virtuous by definition",
         "Fortitude and audacia are simply two names for the same virtue",
         "True fortitude requires seeking out the greatest possible danger available in any situation"
       ],
-      "correctAnswer": "This more closely resembles audacia (rashness) than true fortitude, since real courage requires facing a genuinely necessary danger for a right reason, not manufacturing unnecessary risk",
-      "explanation": "True fortitude, per ST II-II q.123, faces necessary danger for a genuinely good end, guided by prudence about when facing danger is called for. Manufacturing unnecessary risk and simply trusting divine protection to justify it looks much more like audacia -- rashness -- than genuine courage, which doesn't seek danger for its own sake.",
-      "hint": "Fortitude requires the danger to be necessary for a good end, not invented.",
+      "correctAnswer": "This more closely resembles audacia (excessive daring) than true fortitude, since real courage faces danger for a genuinely good end and with prudence, not by manufacturing unnecessary risk",
+      "explanation": "True fortitude ensures firmness in difficulties and constancy in the pursuit of the good (CCC 1808), guided by prudence about when facing danger is called for. Deliberately manufacturing unnecessary risk and expecting divine protection to justify it is excessive daring (audacia, the vice opposed to fortitude by excess) and can amount to tempting God (CCC 2119), not genuine courage.",
+      "hint": "Fortitude pursues a good end with prudence; it does not invent danger or put God to the test.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1808",
           "quote": "Fortitude is the moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2119",
+          "quote": "Tempting God consists in putting his goodness and almighty power to the test by word or deed."
         }
       ]
     },
@@ -3215,18 +3230,19 @@
       "difficultyElo": 2088,
       "prompt": "A manager avoids reporting a colleague's serious ethical violation, reasoning that staying quiet protects their own career and keeps the peace. Is this genuine prudence?",
       "choices": [
-        "No -- this is closer to 'prudence of the flesh' (ST II-II q.55 a.1), where self-interested calculation is disguised as practical wisdom rather than actually seeking the true good",
+        "No -- this is a counterfeit of prudence: skill in practical reasoning put at the service of self-protection rather than discerning the true good",
         "Yes -- avoiding any workplace conflict is always the prudent choice",
         "Yes -- prudence means always prioritizing one's own career above other considerations",
         "This scenario has nothing to do with the virtue of prudence at all"
       ],
-      "correctAnswer": "No -- this is closer to 'prudence of the flesh' (ST II-II q.55 a.1), where self-interested calculation is disguised as practical wisdom rather than actually seeking the true good",
-      "explanation": "'Prudence of the flesh' names a counterfeit: using genuine practical reasoning skill in service of self-interest rather than the true good, dressing up self-protective calculation as wisdom. prudence orders action toward what is good, even when that requires personal cost.",
+      "correctAnswer": "No -- this is a counterfeit of prudence: skill in practical reasoning put at the service of self-protection rather than discerning the true good",
+      "explanation": "Prudence disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it (CCC 1806). Staying silent to protect one's career and keep the peace reasons well about self-interest but not about the true good, so it is a counterfeit of prudence, not the virtue, even when it costs something to act otherwise.",
       "hint": "The counterfeit uses reasoning skill, just aimed at the wrong target -- self-protection instead of the true good.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1806"
+          "reference": "CCC 1806",
+          "quote": "Prudence is the virtue that disposes practical reason to discern our true good in every circumstance"
         }
       ]
     },
@@ -3267,8 +3283,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1839",
-          "quote": "The moral virtues grow through education, deliberate acts, and perseverance in struggle."
+          "reference": "CCC 1806",
+          "quote": "it guides the other virtues by setting rule and measure."
         }
       ]
     },
@@ -3286,13 +3302,21 @@
         "Feelings of comfort are what define and constitute genuine faith"
       ],
       "correctAnswer": "Faith is an infused disposition of the intellect and will assenting to revealed truth on God's authority, not merely a feeling of comfort, even though genuine faith may or may not be accompanied by comforting feelings",
-      "explanation": "A theological virtue is an infused disposition of intellect and will, not reducible to an emotional state -- faith can coexist with doubt, dryness, or difficulty, since it is an assent of intellect and will to God's revealed truth on his authority, not a guaranteed emotional payoff.",
+      "explanation": "A theological virtue is an infused disposition, not reducible to an emotional state. Faith is the act of the intellect assenting to divine truth by command of the will moved by God through grace (CCC 155), believing all that God has revealed because he is truth itself (CCC 1814). It can coexist with dryness, difficulty and involuntary doubt (hesitation in believing, difficulty with objections, anxiety about its obscurity), though voluntary doubt is a sin against faith (CCC 2088).",
       "hint": "Recall the definition of theological virtue -- an emotional feeling was never part of it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1814",
           "quote": "Faith is the theological virtue by which we believe in God and believe all that he has said and revealed to us..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 155"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2088"
         }
       ]
     },
@@ -3305,12 +3329,12 @@
       "prompt": "Match each counterfeit or distortion to the genuine virtue it imitates falsely.",
       "pairs": [
         {
-          "left": "Audacia (rashness)",
-          "right": "True fortitude, which faces only genuinely necessary danger for a right reason"
+          "left": "Audacia (excessive daring)",
+          "right": "True fortitude, which faces danger for a genuinely good end, guided by prudence"
         },
         {
-          "left": "'Prudence of the flesh'",
-          "right": "True prudence, which seeks the actual good rather than self-interest disguised as wisdom"
+          "left": "'Prudence' that serves self-protection",
+          "right": "True prudence, which discerns the true good rather than self-interest disguised as wisdom"
         },
         {
           "left": "Presumption",
@@ -3318,7 +3342,7 @@
         },
         {
           "left": "False modesty denying an accomplishment",
-          "right": "True magnanimity, which honestly acknowledges gifts ordered toward good ends"
+          "right": "True humility, which honestly acknowledges gifts and gives thanks to their giver"
         }
       ],
       "explanation": "Each of these counterfeits borrows the appearance of a virtue while missing something essential -- right reason, the true good, genuine cooperation, or plain honesty -- that the authentic virtue requires.",
@@ -3328,6 +3352,18 @@
           "type": "ccc",
           "reference": "CCC 1808",
           "quote": "Fortitude is the moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1806"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2092"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2097"
         }
       ]
     },
@@ -3339,14 +3375,14 @@
       "difficultyElo": 2088,
       "prompt": "A person insists on total self-sufficiency, refusing all help even when genuinely needed, calling it 'strength.' What does this most resemble?",
       "choices": [
-        "A counterfeit of fortitude — true fortitude includes the humility to accept help when needed, not an isolating refusal that is closer to pride",
+        "A counterfeit of fortitude — fortitude is firmness in difficulties and constancy in the pursuit of the good, whereas refusing needed help out of pride is closer to the capital vice of pride",
         "Genuine fortitude in its purest form",
         "The theological virtue of hope",
         "A form of prudence"
       ],
-      "correctAnswer": "A counterfeit of fortitude — true fortitude includes the humility to accept help when needed, not an isolating refusal that is closer to pride",
-      "explanation": "Fortitude is firmness in pursuit of a good, not an aversion to depending on anyone. Refusing help out of a need to appear invulnerable is usually pride wearing fortitude's clothing, and the connexio virtutum thesis explains why: fortitude cannot be severed from humility and prudence.",
-      "hint": "Ask whether accepting help when it is genuinely needed is a failure of courage or an exercise of it.",
+      "correctAnswer": "A counterfeit of fortitude — fortitude is firmness in difficulties and constancy in the pursuit of the good, whereas refusing needed help out of pride is closer to the capital vice of pride",
+      "explanation": "Fortitude is firmness in pursuit of the good (CCC 1808), not an aversion to depending on anyone. Refusing help that is genuinely needed, out of a wish to appear invulnerable, is usually pride (a capital vice, CCC 1866) posing as strength.",
+      "hint": "Ask whether refusing help that is genuinely needed comes from firmness in pursuing the good or from a wish to appear invulnerable.",
       "citations": [
         {
           "type": "ccc",
@@ -3398,7 +3434,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2540"
+          "reference": "CCC 2097",
+          "quote": "to humble oneself, as Mary did in the Magnificat, confessing with gratitude that he has done great things"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 4:7",
+          "quote": "For who distinguisheth thee? Or what hast thou that thou hast not received, and if thou hast received, why dost thou glory, as if thou hadst not received it?"
         }
       ]
     },
@@ -3427,7 +3469,7 @@
           "right": "Charity"
         }
       ],
-      "explanation": "Each counterfeit borrows the appearance of its virtue while dropping the element that makes it genuine — the humility inside fortitude, the submission to principle inside prudence, the honesty inside humility, the attention to the other person's good inside charity.",
+      "explanation": "Each counterfeit borrows the look of its virtue while aiming at something else: a show of strength rooted in pride (CCC 1866) instead of the firm pursuit of the good that fortitude ensures (CCC 1808); 'discernment' that overrides clear obligations instead of applying moral principles to particular cases, which is what prudence does (CCC 1806); denying one's gifts instead of confessing with gratitude what God has done, which is what humility does (CCC 2097); and generosity that ignores a person's real need instead of willing the good of the other, which is what love does (CCC 1766).",
       "hint": "Each row's virtue is missing one specific element that would make the counterfeit the real thing.",
       "citations": [
         {
@@ -3436,15 +3478,20 @@
         },
         {
           "type": "ccc",
+          "reference": "CCC 1866"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 1806"
         },
         {
           "type": "ccc",
-          "reference": "CCC 2540"
+          "reference": "CCC 2097"
         },
         {
           "type": "ccc",
-          "reference": "CCC 1822"
+          "reference": "CCC 1766",
+          "quote": "To love is to will the good of another."
         }
       ]
     },
@@ -3467,8 +3514,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 1766",
+          "quote": "To love is to will the good of another."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1829",
+          "quote": "charity demands beneficence and fraternal correction; it is benevolence"
         }
       ]
     },
@@ -3485,50 +3537,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l17-003",
-      "topic": "virtues-and-vices",
-      "level": 17,
-      "type": "multiple_choice",
-      "difficultyElo": 2170,
-      "prompt": "How does this further counterfeit -- mercy that removes all consequences -- connect to the pattern of counterfeits?",
-      "choices": [
-        "It follows the same pattern -- a virtue's own name borrowed for something that undermines the good it serves",
-        "This further counterfeit has no meaningful connection to the pattern at all",
-        "This further counterfeit contradicts the pattern entirely",
-        "The pattern applies only to fortitude and justice, never to mercy"
-      ],
-      "correctAnswer": "It follows the same pattern -- a virtue's own name borrowed for something that undermines the good it serves",
-      "explanation": "This follows the same pattern seen in other counterfeits -- a genuine virtue's own name gets borrowed for something that undermines the very good that virtue serves.",
-      "hint": "Recall the general pattern for how a counterfeit relates to the genuine virtue it imitates.",
-      "citations": [
+          "reference": "CCC 1766",
+          "quote": "To love is to will the good of another."
+        },
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l17-004",
-      "topic": "virtues-and-vices",
-      "level": 17,
-      "type": "true_false",
-      "difficultyElo": 2120,
-      "prompt": "True or False: this further counterfeit of mercy follows the same pattern seen in other counterfeits of virtue.",
-      "correctAnswer": true,
-      "explanation": "True, and naming this shared pattern matters -- a genuine virtue's own name gets borrowed for something that undermines the very good that virtue serves.",
-      "hint": "Recall the general pattern for how a counterfeit relates to a genuine virtue.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 1829",
+          "quote": "charity demands beneficence and fraternal correction; it is benevolence"
         }
       ]
     },
@@ -3551,8 +3566,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 1766",
+          "quote": "To love is to will the good of another."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1829",
+          "quote": "charity demands beneficence and fraternal correction; it is benevolence"
         }
       ]
     },
@@ -3569,43 +3589,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
-        }
-      ]
-    },
-    {
-      "id": "virtues-and-vices-l17-007",
-      "topic": "virtues-and-vices",
-      "level": 17,
-      "type": "matching_pairs",
-      "difficultyElo": 2210,
-      "prompt": "Match each fact about a further counterfeit of virtue to what it means.",
-      "pairs": [
-        {
-          "left": "Removing all consequences and calling it mercy",
-          "right": "A counterfeit -- genuine mercy seeks the person's true good"
+          "reference": "CCC 1766",
+          "quote": "To love is to will the good of another."
         },
-        {
-          "left": "Connection to the general pattern",
-          "right": "A virtue's own name borrowed for something that undermines its real good"
-        },
-        {
-          "left": "A diagnostic question",
-          "right": "Does this serve the person's true good, or just relieve short-term discomfort?"
-        },
-        {
-          "left": "Why the approach matters",
-          "right": "Extends the general pattern of counterfeits to an everyday example"
-        }
-      ],
-      "explanation": "These four facts together extend the pattern of counterfeit virtues to an everyday, genuinely practical example.",
-      "hint": "Each row names one fact about this counterfeit of mercy.",
-      "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "reference": "CCC 1829",
+          "quote": "charity demands beneficence and fraternal correction; it is benevolence"
         }
       ]
     },
@@ -3628,8 +3618,36 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 1766",
+          "quote": "To love is to will the good of another."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1829",
+          "quote": "charity demands beneficence and fraternal correction; it is benevolence"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-l17-010",
+      "topic": "virtues-and-vices",
+      "level": 17,
+      "type": "true_false",
+      "difficultyElo": 2120,
+      "prompt": "True or False: The Catechism counts instructing and advising among the spiritual works of mercy, and says that charity demands fraternal correction.",
+      "correctAnswer": true,
+      "explanation": "True. The Catechism lists instructing, advising, consoling and comforting as spiritual works of mercy (CCC 2447), and says that charity demands beneficence and fraternal correction (CCC 1829). Mercy as the Church describes it includes telling a person the truth for his good.",
+      "hint": "Recall the spiritual works of mercy.",
+      "citations": [
+        {
+          "type": "ccc",
           "reference": "CCC 2447",
-          "quote": "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities."
+          "quote": "Instructing, advising, consoling, comforting are spiritual works of mercy, as are forgiving and bearing wrongs patiently."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1829",
+          "quote": "...charity demands beneficence and fraternal correction..."
         }
       ]
     },
@@ -3647,13 +3665,13 @@
         "Every manual across history uses the exact same pairings with no variation whatsoever"
       ],
       "correctAnswer": "They come from the pedagogical and spiritual-theology manual tradition, not a single fixed magisterial list, and should be treated as a traditional teaching aid rather than the only correct correspondence",
-      "explanation": "These vice-to-virtue/fruit pairings are a real, traditional teaching tool developed across spiritual-theology manuals and Fathers like Gregory the Great, useful for examining conscience and growth in virtue -- but they are not a single, magisterially fixed list, and different sources pair vices and remedies somewhat differently.",
+      "explanation": "Classifying vices by the virtues they oppose is a real, traditional teaching tool (CCC 1866), useful for examining conscience and growth in virtue, but the specific vice-to-virtue or fruit pairings are not a single, magisterially fixed list, and different sources pair vices and remedies somewhat differently.",
       "hint": "This is a teaching tool with roots in tradition, not a dogmatically defined, single correct list.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1866",
-          "quote": "They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia."
+          "quote": "Vices can be classified according to the virtues they oppose"
         }
       ],
       "tags": [
@@ -3679,8 +3697,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2094",
-          "quote": "...acedia or spiritual sloth goes so far as to refuse the joy that comes from God and to be repelled by divine goodness."
+          "reference": "CCC 1866",
+          "quote": "...capital sins which Christian experience has distinguished, following St. John Cassian and St. Gregory the Great."
         }
       ],
       "tags": [
@@ -3719,7 +3737,7 @@
       "difficultyElo": 2202,
       "prompt": "True or False: Any desire to perform as well as a colleague or to win a competition is automatically the vice of envy.",
       "correctAnswer": false,
-      "explanation": "Envy specifically names sadness or resentment at another's good, together with an inordinate desire to have it oneself at the other's expense -- a healthy desire to improve, compete fairly, or match another's genuine excellence without wishing them ill is not the same thing as envy, which the Church names as a capital vice specifically because of the resentment and ill will it carries toward another's good.",
+      "explanation": "Envy, as CCC 2539 defines it, is sadness at the sight of another's goods together with an immoderate desire to acquire them for oneself, even unjustly. It is a capital sin, and the Catechism says capital sins are called capital because they engender other sins, other vices (CCC 1866); CCC 2539 lists hatred, detraction and calumny as born of envy. A healthy desire to improve, to compete fairly, or to match another's genuine excellence, without sadness at that person's good, is not the same thing as envy.",
       "hint": "The key ingredient in envy is resentment toward the other person's good, not simply wanting to also do well.",
       "citations": [
         {
@@ -3824,21 +3842,25 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2252,
-      "prompt": "Gregory the Great's Moralia lists several 'daughters of vainglory' springing from that vice. Which best fits this description: seeking recognition for good deeds rather than doing them for God alone?",
+      "prompt": "Gregory the Great's Moralia assigns seven 'daughters' to vainglory (as listed by Aquinas, ST II-II q.132 a.5). Which of the following is one of them?",
       "choices": [
-        "Ostentation",
-        "Hypocrisy",
-        "Boastfulness",
-        "Discord"
+        "Disobedience",
+        "Despair",
+        "Detraction",
+        "Scurrility"
       ],
-      "correctAnswer": "Ostentation",
-      "explanation": "Ostentation is display for its own sake — doing a genuinely good act, but performing it in a way calculated to be seen and praised. It differs from hypocrisy, which fakes a virtue not actually possessed; ostentation may have the virtue and still corrupt it by seeking applause.",
-      "hint": "The vice in question concerns a good deed done for the wrong audience.",
+      "correctAnswer": "Disobedience",
+      "explanation": "Aquinas lists the daughters of vainglory, following Gregory, as disobedience, boastfulness, hypocrisy, contention, obstinacy, discord and love of novelties (ST II-II q.132 a.5). Despair is assigned to sloth (II-II q.35 a.4), detraction to envy (II-II q.36 a.4; cf. CCC 2539), and scurrility to gluttony (II-II q.148 a.6). This is a historical-theological classification, not a defined teaching.",
+      "hint": "Think of the vice of refusing to yield to a superior's command in order to show one is not inferior.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1866"
+          "reference": "CCC 1866",
+          "quote": "...capital sins which Christian experience has distinguished, following St. John Cassian and St. Gregory the Great."
         }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
       ]
     },
     {
@@ -3849,16 +3871,17 @@
       "difficultyElo": 2202,
       "prompt": "True or False: Wanting to perform as well as a colleague, or to win a fair competition, is automatically the vice of envy.",
       "correctAnswer": false,
-      "explanation": "False, and collapsing the two does real harm to ordinary ambition. Envy is specifically sorrow at another's good and pleasure at their misfortune; wanting to do well yourself, without wishing the other person ill, is a different and legitimate desire the Catechism does not condemn.",
-      "hint": "Ask whether the desire described involves wishing anyone harm.",
+      "explanation": "False. Envy, as CCC 2539 defines it, is sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly, and CCC 2540 calls it a refusal of charity. Wanting to do well yourself, or to win a fair competition, without sadness at another's good or ill will toward that person, is a different desire that the Catechism does not condemn as envy.",
+      "hint": "Ask whether the desire described involves sadness at another's good, or only a wish to do well oneself.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2317"
+          "reference": "CCC 2539",
+          "quote": "It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly."
         },
         {
           "type": "ccc",
-          "reference": "CCC 2538"
+          "reference": "CCC 2540"
         }
       ]
     },
@@ -4091,21 +4114,29 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2418,
-      "prompt": "'Blessed are the poor in spirit' (Matthew 5:3) integrates several elements of the moral life into one lived disposition. Which combination does CCC 2544-2547 point to?",
+      "prompt": "'Blessed are the poor in spirit' (Matthew 5:3) is linked, in Aquinas's treatment of the Beatitudes (ST I-II q.69 a.3), with which combination of elements?",
       "choices": [
-        "Temperance's right ordering of desire for possessions, the gift of fear of the Lord's due reverence before God, and freedom from the capital vices of pride and avarice",
+        "A virtue moderating the use of external goods (Ambrose names temperance), the gift of fear of the Lord, and contempt of riches or of honors, which results from humility",
         "Physical poverty alone, with no connection to any interior virtue or vice",
         "The theological virtue of hope exclusively, unrelated to any cardinal virtue",
         "A requirement that all Christians take a vow of religious poverty"
       ],
-      "correctAnswer": "Temperance's right ordering of desire for possessions, the gift of fear of the Lord's due reverence before God, and freedom from the capital vices of pride and avarice",
-      "explanation": "CCC 2544-2547 describes 'poverty of spirit' as detachment from riches ordered by temperance, a disposition of humble dependence on God that the gift of fear of the Lord fosters, and freedom from the pride and avarice that would otherwise disorder a person's relationship to possessions and to God -- several threads converging in a single lived disposition.",
-      "hint": "This one Beatitude draws on a cardinal virtue, a gift of the Spirit, and freedom from two named vices, all at once.",
+      "correctAnswer": "A virtue moderating the use of external goods (Ambrose names temperance), the gift of fear of the Lord, and contempt of riches or of honors, which results from humility",
+      "explanation": "Aquinas holds that people are withdrawn from the affluence of external goods by a virtue, so that they use them in moderation, and by a gift, so that they despise them altogether; the first beatitude may refer to contempt of riches or to contempt of honors, which results from humility. He assigns poverty to the gift of fear (by likeness of matter), and cites Ambrose, who says poverty corresponds to temperance (ST I-II q.69 a.3). This is Aquinas's synthesis, not a defined teaching. The Catechism itself teaches that detachment from riches is obligatory for entrance into the Kingdom of heaven (CCC 2544) and speaks of voluntary humility as 'poverty in spirit' (CCC 2546).",
+      "hint": "This one Beatitude draws on a virtue, a gift of the Spirit, and contempt of riches or honors.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2544"
+          "reference": "CCC 2544",
+          "quote": "The precept of detachment from riches is obligatory for entrance into the Kingdom of heaven."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2546"
         }
+      ],
+      "tags": [
+        "theological-status:historical-judgment"
       ]
     },
     {
@@ -4114,7 +4145,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2418,
-      "prompt": "Aquinas maps each Beatitude to a specific gift of the Holy Spirit (ST I-II q.69 a.3). How should this mapping be correctly understood?",
+      "prompt": "Aquinas assigns the Beatitudes to the gifts of the Holy Spirit (ST I-II q.69 a.3). How should this assignment be correctly understood?",
       "choices": [
         "As Aquinas's own theological synthesis connecting the Beatitudes to the gifts, not a magisterially defined correspondence -- and he must account for the mismatch between Matthew's eight Beatitudes and the traditional seven gifts",
         "As an infallibly defined dogma binding on all Catholics in its exact details",
@@ -4122,13 +4153,13 @@
         "As a correspondence with no numerical difficulty at all, since eight Beatitudes map neatly onto seven gifts"
       ],
       "correctAnswer": "As Aquinas's own theological synthesis connecting the Beatitudes to the gifts, not a magisterially defined correspondence -- and he must account for the mismatch between Matthew's eight Beatitudes and the traditional seven gifts",
-      "explanation": "Aquinas's mapping in ST I-II q.69 a.3 is a careful theological synthesis, not a doctrine defined by the Magisterium -- and his own text has to reckon honestly with the fact that Matthew's Gospel names eight Beatitudes while the tradition names seven gifts, a mismatch worth surfacing rather than smoothing over.",
+      "explanation": "Aquinas's assignment in ST I-II q.69 a.3 is a careful theological synthesis, not a doctrine defined by the Magisterium. He himself gives two assignments (by likeness of matter and by motive), and he accounts for eight Beatitudes against seven gifts by treating the eighth as a confirmation and declaration of the preceding seven.",
       "hint": "Count carefully -- eight of one thing and seven of another can't map one-to-one without some adjustment.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1832",
-          "quote": "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory."
+          "reference": "CCC 1831",
+          "quote": "The seven gifts of the Holy Spirit are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord."
         }
       ],
       "tags": [
@@ -4202,13 +4233,17 @@
       "difficultyElo": 2368,
       "prompt": "True or False: The Beatitudes describe an impossible ideal that no person could live, since CCC 1717 teaches they describe an abstract theoretical standard rather than an achievable pattern of life.",
       "correctAnswer": false,
-      "explanation": "CCC 1717 teaches the Beatitudes depict the very countenance of Jesus Christ himself and describe a way of life made possible by grace, not by unaided human effort -- 'impossible ideal' objections miss that these describe a real, lived pattern of holiness, genuinely attainable in Christ and through his grace, rather than an abstract theory no one could ever embody.",
+      "explanation": "CCC 1717 teaches that the Beatitudes depict the countenance of Jesus Christ and portray his charity, shed light on the actions and attitudes characteristic of the Christian life, and have begun in the lives of the Virgin Mary and all the saints. CCC 1724 adds that the Decalogue, the Sermon on the Mount and the apostolic catechesis describe the paths that lead to the Kingdom of heaven, and that, sustained by the grace of the Holy Spirit, we tread them step by step, by everyday acts. The Beatitudes are therefore a real, lived pattern of holiness made possible by grace, not an abstract theory.",
       "hint": "CCC 1717 ties the Beatitudes to a person's character, not a theoretical standard.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1717",
           "quote": "The Beatitudes depict the countenance of Jesus Christ and portray his charity."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1724"
         }
       ]
     },
@@ -4268,7 +4303,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2418,
-      "prompt": "Aquinas maps 'Blessed are the meek' to the gift of piety. What is the connecting logic?",
+      "prompt": "Aquinas (ST I-II q.69 a.3, ad 3), considering the motives of the Beatitudes, assigns 'Blessed are the meek' to the gift of piety. What is the connecting logic?",
       "choices": [
         "Piety disposes a person to right reverence toward God and others as owed a debt of honor, which is precisely what restrains anger into meekness rather than retaliation",
         "Piety and meekness share no real connection and the mapping is arbitrary",
@@ -4281,11 +4316,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1832"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 2216"
+          "reference": "CCC 1831",
+          "quote": "The seven gifts of the Holy Spirit are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord."
         }
       ]
     },
@@ -4370,6 +4402,11 @@
           "reference": "1 Corinthians 13:13",
           "quote": "And now there remain faith, hope, and charity, these three: but the greatest of these is charity.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4389,6 +4426,11 @@
           "reference": "1 Corinthians 13:13",
           "quote": "And now there remain faith, hope, and charity, these three: but the greatest of these is charity.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4412,6 +4454,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1822"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4452,6 +4499,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1822"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4469,6 +4521,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1822"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4489,7 +4546,7 @@
           "right": "Love toward God and neighbor, growing into a lifelong way of life"
         },
         {
-          "left": "\"The greatest of these is love\"",
+          "left": "\"The greatest of these is charity\"",
           "right": "Names the same thread of love that ties the moral life together"
         },
         {
@@ -4505,6 +4562,11 @@
           "reference": "1 Corinthians 13:13",
           "quote": "And now there remain faith, hope, and charity, these three: but the greatest of these is charity.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4522,6 +4584,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1822"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4545,6 +4612,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1822"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     },
@@ -4570,6 +4642,11 @@
           "reference": "1 Corinthians 13:13",
           "quote": "And now there remain faith, hope, and charity, these three: but the greatest of these is charity.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1827",
+          "quote": "...it articulates and orders them among themselves; it is the source and the goal of their Christian practice."
         }
       ]
     }
