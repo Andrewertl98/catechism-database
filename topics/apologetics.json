@@ -271,6 +271,91 @@
       ]
     },
     {
+      "id": "apologetics-l2-010",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "According to 1 Peter 3:15, what should a Christian always be ready to do?",
+      "choices": [
+        "Give a reason for the hope that is in them to everyone who asks",
+        "Win every argument by any means available",
+        "Stay silent about the faith whenever it is questioned",
+        "Answer only those who already believe"
+      ],
+      "correctAnswer": "Give a reason for the hope that is in them to everyone who asks",
+      "explanation": "St. Peter tells Christians to be 'ready always to satisfy every one that asketh you a reason of that hope which is in you.' Giving that reason is what apologetics means.",
+      "hint": "St. Peter speaks of a reason, and of hope.",
+      "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you.",
+          "note": "Douay-Rheims"
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-011",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: The Catechism teaches that nobody is to be forced to embrace the faith against his will.",
+      "correctAnswer": true,
+      "explanation": "True. The Catechism teaches that the act of faith is of its very nature a free act, and that Christ invited people to faith and conversion but never coerced them (CCC 160). A defense of the faith invites; it does not force.",
+      "hint": "Consider how Christ himself invited people to faith.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 160",
+          "quote": "...nobody is to be forced to embrace the faith against his will."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-012",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "multiple_choice",
+      "difficultyElo": 925,
+      "prompt": "According to the Catechism, what kind of dialogue does the Church's missionary task imply with those who do not yet accept the Gospel?",
+      "choices": [
+        "A respectful dialogue",
+        "A dialogue that hides what the Church believes",
+        "No dialogue at all",
+        "A contest meant to humiliate the other person"
+      ],
+      "correctAnswer": "A respectful dialogue",
+      "explanation": "The Catechism says the missionary task 'implies a respectful dialogue with those who do not yet accept the Gospel' (CCC 856). Respect does not mean silence: the same paragraph says believers proclaim the Good News to those who do not know it.",
+      "hint": "It is the opposite of contempt.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 856",
+          "quote": "The missionary task implies a respectful dialogue with those who do not yet accept the Gospel."
+        }
+      ]
+    },
+    {
+      "id": "apologetics-l2-013",
+      "topic": "apologetics",
+      "level": 2,
+      "type": "true_false",
+      "difficultyElo": 875,
+      "prompt": "True or False: The Catechism teaches that faith is a gift of God, and that before faith can be exercised a person must have the grace of God to move and assist him.",
+      "correctAnswer": true,
+      "explanation": "True. The Catechism calls faith a gift of God, a supernatural virtue infused by him, and says that before it can be exercised 'man must have the grace of God to move and assist him' (CCC 153). The one who defends the faith gives reasons; faith itself is God's gift.",
+      "hint": "Recall what Jesus told Peter about where his confession of faith came from.",
+      "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 153",
+          "quote": "Faith is a gift of God, a supernatural virtue infused by him."
+        }
+      ]
+    },
+    {
       "id": "apologetics-l3-001",
       "topic": "apologetics",
       "level": 3,
