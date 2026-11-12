@@ -34,8 +34,8 @@
       "difficultyElo": 800,
       "prompt": "True or False: A Catholic's first real response to an objection should be gentleness and respect, not a defensive or combative posture.",
       "correctAnswer": true,
-      "explanation": "True. Scripture's own charge to give a reason for one's hope explicitly pairs that explanation with gentleness and reverence -- the manner of a response matters as much as its content.",
-      "hint": "Consider what qualities Scripture itself pairs with giving a reason for one's hope.",
+      "explanation": "True. Scripture's own charge to give a reason for one's hope pairs that explanation with 'modesty and fear' (1 Peter 3:16, Douay-Rheims) -- the manner of a response matters as much as its content.",
+      "hint": "Consider what manner 1 Peter 3:16 pairs with giving a reason for one's hope.",
       "citations": [
         {
           "type": "scripture",
@@ -164,9 +164,9 @@
       "level": 1,
       "type": "true_false",
       "difficultyElo": 800,
-      "prompt": "True or False: St. Paul's own defense before his accusers in Acts 22 gives Catholic apologetics its own name.",
+      "prompt": "True or False: The Greek word 'apologia,' from which 'apologetics' takes its name, is the word used for St. Paul's defense speech in Acts 22:1.",
       "correctAnswer": true,
-      "explanation": "True. Paul's defense in Acts 22 uses the same Greek word, 'apologia,' that gives apologetics its name -- a reasoned defense, not an expression of regret.",
+      "explanation": "True. Acts 22:1 uses the Greek word 'apologia' -- the word from which 'apologetics' takes its name -- meaning a reasoned defense, not an expression of regret.",
       "hint": "Recall the real teaching on the Greek origin of the word 'apologetics.'",
       "citations": [
         {
@@ -190,8 +190,8 @@
           "right": "A genuine question or challenge, sincerely raised, deserving a thoughtful answer"
         },
         {
-          "left": "Gentleness and reverence",
-          "right": "The manner Scripture itself pairs with giving a reason for one's hope"
+          "left": "Modesty and fear",
+          "right": "The manner Scripture itself pairs with giving a reason for one's hope (1 Peter 3:16)"
         },
         {
           "left": "\"Apologia\"",
@@ -214,65 +214,15 @@
       ]
     },
     {
-      "id": "apologetics-l2-001",
-      "topic": "apologetics",
-      "level": 2,
-      "type": "multiple_choice",
-      "difficultyElo": 925,
-      "prompt": "An apologetic conversation generally moves through three stages in order. What is the correct sequence?",
-      "choices": [
-        "Open the possibility of being mistaken, present evidence, then call to conversion",
-        "Call for conversion first, present the evidence only afterward",
-        "Present the evidence alone, with no opening stage or closing call to conversion",
-        "Manufacture doubt by any means necessary, then move directly to conversion"
-      ],
-      "correctAnswer": "Open the possibility of being mistaken, present evidence, then call to conversion",
-      "explanation": "An apologetic conversation has a natural order -- opening genuine possibility, presenting evidence, and only then calling someone to conversion. Skipping or reordering these stages tends to produce a much less fruitful conversation.",
-      "hint": "Consider which stage would need to come first for the following stages to land at all.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 3:15-16",
-          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
-          "note": "Douay-Rheims"
-        }
-      ]
-    },
-    {
       "id": "apologetics-l2-002",
       "topic": "apologetics",
       "level": 2,
       "type": "true_false",
       "difficultyElo": 875,
-      "prompt": "True or False: 'Opening the possibility' that someone's current position might not be true means manufacturing doubt by any means, even dishonest ones.",
+      "prompt": "True or False: Inviting someone to reconsider their current position means manufacturing doubt by any means, even dishonest ones.",
       "correctAnswer": false,
-      "explanation": "False, and this is an important distinction -- opening possibility means honestly inviting someone to reconsider, never manufacturing false doubt through dishonest or manipulative means, which would violate the gentleness and honesty apologetics requires.",
-      "hint": "Consider the gentleness and honesty that 1 Peter 3:15 requires.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 3:15-16",
-          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
-          "note": "Douay-Rheims"
-        }
-      ]
-    },
-    {
-      "id": "apologetics-l2-003",
-      "topic": "apologetics",
-      "level": 2,
-      "type": "multiple_choice",
-      "difficultyElo": 925,
-      "prompt": "An apologetic conversation moves through three stages: opening the possibility of being mistaken, presenting evidence, and calling to conversion. Why does that order matter, rather than presenting evidence and a call to conversion together?",
-      "choices": [
-        "Openness makes evidence worth weighing; evidence, once weighed, makes a call to conversion land",
-        "Because the order has no actual bearing on how a conversation unfolds",
-        "Because presenting evidence before opening possibility is always more effective in practice",
-        "Because calling someone to conversion should always come before any evidence is presented at all"
-      ],
-      "correctAnswer": "Openness makes evidence worth weighing; evidence, once weighed, makes a call to conversion land",
-      "explanation": "Each stage prepares the ground for the next -- genuine openness makes evidence worth weighing, and evidence, once genuinely weighed, is what makes a call to conversion land rather than feel premature.",
-      "hint": "Consider what would happen if evidence were presented to someone who had not yet genuinely considered the possibility of being wrong.",
+      "explanation": "False. Inviting someone to reconsider must be done honestly, never by manufacturing false doubt through dishonest or manipulative means, which would violate the 'modesty and fear' and the 'good conscience' that 1 Peter 3:16 requires.",
+      "hint": "Consider the modesty and good conscience that 1 Peter 3:16 requires.",
       "citations": [
         {
           "type": "scripture",
@@ -302,31 +252,6 @@
       ]
     },
     {
-      "id": "apologetics-l2-005",
-      "topic": "apologetics",
-      "level": 2,
-      "type": "multiple_choice",
-      "difficultyElo": 925,
-      "prompt": "A well-meaning Catholic skips straight to calling a friend to conversion, without ever really opening possibility or presenting evidence first. What does the real teaching suggest is likely to happen?",
-      "choices": [
-        "The call is likely to feel premature, since earlier stages were never genuinely engaged",
-        "The call is guaranteed to succeed regardless of the missing earlier stages",
-        "Skipping stages has no bearing on how a conversation unfolds",
-        "This is, in fact, the ideal order the teaching recommends"
-      ],
-      "correctAnswer": "The call is likely to feel premature, since earlier stages were never genuinely engaged",
-      "explanation": "This is exactly the practical consequence the teaching anticipates -- skipping the earlier stages tends to make a call to conversion feel premature, since the ground has not been prepared for it.",
-      "hint": "Consider what opening the possibility of being mistaken, and then presenting evidence, prepare for a call to conversion.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 3:15-16",
-          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
-          "note": "Douay-Rheims"
-        }
-      ]
-    },
-    {
       "id": "apologetics-l2-006",
       "topic": "apologetics",
       "level": 2,
@@ -334,69 +259,8 @@
       "difficultyElo": 875,
       "prompt": "True or False: A call to conversion, when it does come, should itself still be offered with gentleness and reverence.",
       "correctAnswer": true,
-      "explanation": "True. Even the final, most direct of the three stages -- the call to conversion -- should still carry gentleness and reverence, never becoming coercive or contemptuous.",
-      "hint": "Consider whether the most direct moment of a conversation is exempt from the gentleness 1 Peter 3:15 calls for.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 3:15-16",
-          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
-          "note": "Douay-Rheims"
-        }
-      ]
-    },
-    {
-      "id": "apologetics-l2-007",
-      "topic": "apologetics",
-      "level": 2,
-      "type": "matching_pairs",
-      "difficultyElo": 965,
-      "prompt": "Match each of the three stages of apologetics to what it involves.",
-      "pairs": [
-        {
-          "left": "Opening real possibility",
-          "right": "Honestly inviting someone to genuinely reconsider, never manufacturing false doubt"
-        },
-        {
-          "left": "Presenting evidence",
-          "right": "Setting out the case for the Catholic faith, once someone is genuinely open to weighing it"
-        },
-        {
-          "left": "Calling to conversion",
-          "right": "The direct invitation, still carried with gentleness and reverence"
-        },
-        {
-          "left": "Why the order matters",
-          "right": "Each stage prepares the ground the next stage needs"
-        }
-      ],
-      "explanation": "These three stages, and the reason their order matters, give apologetics its practical shape -- not a rigid script, but a natural progression a genuine apologetic conversation tends to follow.",
-      "hint": "Three rows name a stage and what it involves; one names why the order between them matters.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 3:15-16",
-          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
-          "note": "Douay-Rheims"
-        }
-      ]
-    },
-    {
-      "id": "apologetics-l2-009",
-      "topic": "apologetics",
-      "level": 2,
-      "type": "multiple_choice",
-      "difficultyElo": 925,
-      "prompt": "Beyond a single moment of gentle speech, what does an apologetic conversation have?",
-      "choices": [
-        "Recognizing that an apologetic conversation has its own natural shape over time, not simply a single moment of gentle speech",
-        "Assuming every apologetic conversation must follow an identical, rigid script with no flexibility",
-        "Assuming the teaching on gentleness has no bearing on how a conversation unfolds over time",
-        "Assuming a call to conversion should always come first, before any other stage"
-      ],
-      "correctAnswer": "Recognizing that an apologetic conversation has its own natural shape over time, not simply a single moment of gentle speech",
-      "explanation": "Gentleness and honesty unfold across a natural sequence over time -- not just a single tone to strike, but a shape a whole conversation can take.",
-      "hint": "Consider whether gentleness is just a tone to strike once, or something that plays out differently across a whole conversation.",
+      "explanation": "True. Even the most direct invitation to conversion should still be offered with 'modesty and fear' (1 Peter 3:16), never becoming coercive or contemptuous.",
+      "hint": "Consider whether the most direct moment of a conversation is exempt from the modesty 1 Peter 3:16 calls for.",
       "citations": [
         {
           "type": "scripture",
@@ -582,14 +446,14 @@
       "difficultyElo": 1000,
       "prompt": "What does it mean that apologetics is an ordinary Catholic's own calling?",
       "choices": [
-        "Apologetics is an everyday practice built from honesty, gentleness, and attentiveness, not a specialized skill",
+        "Apologetics is an everyday practice built from honesty, gentleness, and attentiveness, not a skill reserved for experts alone",
         "Apologetics is, in practice, entirely reserved for formal theological training and specialized study",
         "Everyday conversations with a coworker or family member don't count as real apologetics at all",
         "Apologetics requires ignoring the setting a question or comment is raised in"
       ],
-      "correctAnswer": "Apologetics is an everyday practice built from honesty, gentleness, and attentiveness, not a specialized skill",
+      "correctAnswer": "Apologetics is an everyday practice built from honesty, gentleness, and attentiveness, not a skill reserved for experts alone",
       "explanation": "Apologetics is an everyday practice -- honesty, gentleness, and attentiveness to setting -- genuinely available to every believer, not a specialized skill reserved for experts alone.",
-      "hint": "Consider whether apologetics is a specialized skill or an everyday practice.",
+      "hint": "Consider whether apologetics is reserved for experts or is an everyday practice open to every believer.",
       "citations": [
         {
           "type": "scripture",
@@ -700,7 +564,7 @@
       "prompt": "True or False: Good apologetics means winning arguments by any means necessary, even if it requires being harsh or contemptuous toward the person you're speaking with.",
       "correctAnswer": false,
       "explanation": "1 Peter 3:15-16, apologetics' own charter, bids us answer 'with modesty and fear' -- the manner matters as much as the content.",
-      "hint": "The same verse that calls for a defense also specifies the tone it must be given in.",
+      "hint": "The same passage that calls for a defense also specifies the tone it must be given in.",
       "citations": [
         {
           "type": "scripture",
@@ -781,10 +645,10 @@
       "level": 4,
       "type": "fill_blank",
       "difficultyElo": 1135,
-      "prompt": "Peter tells Christians to make their defense with gentleness and ____, ruling out contempt toward the person asking.",
-      "correctAnswer": "reverence",
+      "prompt": "In the Douay-Rheims, St. Peter says Christians are to give their reason for their hope 'with modesty and ____' (1 Peter 3:16), which rules out contempt toward the person asking.",
+      "correctAnswer": "fear",
       "explanation": "The manner is part of the instruction, not an optional refinement of it. An argument delivered with contempt has already failed at what it was for, however sound its content.",
-      "hint": "The word suggests treating the other person as owed respect, not as an opponent.",
+      "hint": "Look at the word that follows 'with modesty and' in 1 Peter 3:16.",
       "citations": [
         {
           "type": "scripture",
@@ -827,33 +691,6 @@
         {
           "type": "ccc",
           "reference": "CCC 2469"
-        }
-      ]
-    },
-    {
-      "id": "apologetics-l4-011",
-      "topic": "apologetics",
-      "level": 4,
-      "type": "multiple_choice",
-      "difficultyElo": 1075,
-      "prompt": "Apologetics generally moves through three stages in order. Which sequence describes it?",
-      "choices": [
-        "Open the possibility that what they hold might not be true, then set out the evidence for the Catholic faith, then call them to conversion and repentance",
-        "Set out the evidence, call for conversion, and only then address their objections",
-        "Call for conversion first, so the evidence is heard by someone already willing",
-        "Present evidence alone, since conversion is not the apologist's concern"
-      ],
-      "correctAnswer": "Open the possibility that what they hold might not be true, then set out the evidence for the Catholic faith, then call them to conversion and repentance",
-      "explanation": "The order is not arbitrary. Evidence for a claim is inaudible to someone certain they already have the truth -- it sounds like special pleading, and gets filed away rather than weighed. Something has to unsettle the existing certainty first. Only then does evidence do work. And evidence alone converts nobody: it can establish that something is true without moving anyone to act on it, which is why the third stage exists at all.",
-      "hint": "Ask why someone completely certain they are right would bother weighing your evidence.",
-      "citations": [
-        {
-          "type": "scripture",
-          "reference": "1 Peter 3:15-16"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 856"
         }
       ]
     },
@@ -910,13 +747,14 @@
       "difficultyElo": 1100,
       "prompt": "True or False: A friend who raises the Trinity as a 'math problem' is often raising a real, sincere confusion about the doctrine's own precise wording, not necessarily a hostile attack.",
       "correctAnswer": true,
-      "explanation": "True. Most objections, including this common one, come from genuine, sincere confusion about precise wording, deserving a gentle clarification rather than an assumption of hostility.",
-      "hint": "Consider how most objections arise -- from sincere confusion, or from hostility?",
+      "explanation": "True. Many objections, including this common one, come from genuine, sincere confusion about precise wording, deserving a gentle clarification rather than an assumption of hostility.",
+      "hint": "Consider how objections often arise -- from sincere confusion, or from hostility?",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 253",
-          "quote": "We do not confess three Gods, but one God in three persons, the \"consubstantial Trinity\"."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -928,12 +766,12 @@
       "difficultyElo": 1150,
       "prompt": "A friend says: 'The Resurrection is just a story that grew in the telling, like a legend.' What is the first, gentle clarification worth making before the fuller historical defense?",
       "choices": [
-        "Paul's letter, written 20-25 years later, already recites a creed-like formula even older -- not a slowly grown legend",
+        "Paul's letter, written some two or three decades later, already recites a creed-like formula even older -- not a slowly grown legend",
         "That the objection is entirely correct, and the Resurrection really was a slowly developing legend",
         "That this objection should simply be dismissed without engaging its claim",
         "That the timing of when the Resurrection claim first appeared has no real bearing on this objection at all"
       ],
-      "correctAnswer": "Paul's letter, written 20-25 years later, already recites a creed-like formula even older -- not a slowly grown legend",
+      "correctAnswer": "Paul's letter, written some two or three decades later, already recites a creed-like formula even older -- not a slowly grown legend",
       "explanation": "A first, gentle clarification often reframes the timeline itself -- Paul's own early letter already quotes what looks like an existing creed-like formula, pushing the claim's origin remarkably close to the events themselves, not centuries of slow legendary growth.",
       "hint": "Consider how much time a legend usually needs to develop, versus how early this particular claim appears in the historical record.",
       "citations": [
@@ -972,19 +810,19 @@
       "difficultyElo": 1150,
       "prompt": "A friend says: 'The virgin birth is just borrowed from older pagan myths about gods being born from virgins.' What is the real, first, gentle clarification worth making?",
       "choices": [
-        "Luke's own account -- Mary's question 'how can this be, since I have no relations with a man?' -- reads nothing like a pagan myth",
+        "Luke's own account -- Mary's question 'How shall this be done, because I know not man?' -- reads nothing like a pagan myth",
         "That the objection is entirely correct, and the virgin birth really was directly copied from an older pagan myth",
         "That this objection should simply be dismissed without ever reading the biblical text itself",
         "That comparing biblical and pagan accounts is always automatically illegitimate, regardless of what each account says"
       ],
-      "correctAnswer": "Luke's own account -- Mary's question 'how can this be, since I have no relations with a man?' -- reads nothing like a pagan myth",
+      "correctAnswer": "Luke's own account -- Mary's question 'How shall this be done, because I know not man?' -- reads nothing like a pagan myth",
       "explanation": "A first, gentle clarification often invites a genuinely closer reading -- Luke's own account presents Mary asking a thoughtful question about a mode of conception distinct from any sexual encounter, unlike the pagan myths this objection assumes without reading either text closely.",
       "hint": "Consider what Mary's own question in Luke's account asks, compared to what a typical pagan myth of this kind usually describes.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Luke 1:34-35",
-          "quote": "And the angel answering, said to her: The Holy Ghost shall come upon thee and the power of the Most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.",
+          "quote": "And Mary said to the angel: How shall this be done, because I know not man? And the angel answering, said to her: The Holy Ghost shall come upon thee and the power of the Most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1003,7 +841,7 @@
         {
           "type": "scripture",
           "reference": "Luke 1:34-35",
-          "quote": "And the angel answering, said to her: The Holy Ghost shall come upon thee and the power of the Most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.",
+          "quote": "And Mary said to the angel: How shall this be done, because I know not man? And the angel answering, said to her: The Holy Ghost shall come upon thee and the power of the Most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1026,9 +864,10 @@
       "hint": "Consider what each of the three clarifications did before responding.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 253",
-          "quote": "We do not confess three Gods, but one God in three persons, the \"consubstantial Trinity\"."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1124,9 +963,9 @@
       "level": 6,
       "type": "true_false",
       "difficultyElo": 1175,
-      "prompt": "True or False: The virgin birth of Christ was a legend added centuries later, absent from the earliest written Gospel material.",
+      "prompt": "True or False: The virginal conception of Christ was a legend added centuries after the New Testament, absent from its writings.",
       "correctAnswer": false,
-      "explanation": "The virginal conception appears already in Matthew and Luke, among the earliest written Gospel accounts -- it isn't a late addition, even though it does appear later than Mark and Paul's earlier letters, which don't address the topic directly.",
+      "explanation": "The virginal conception is already recorded in the Gospels of Matthew and Luke, written in the first century -- it is not a legend added centuries later. (Mark and Paul's letters do not narrate it, but that is not the same as its being absent from the New Testament.)",
       "hint": "Two of the four Gospels record this directly, and neither is a late document.",
       "citations": [
         {
@@ -1186,12 +1025,12 @@
       "difficultyElo": 1225,
       "prompt": "Against the claim that the Resurrection was a later legend, what does 1 Corinthians 15:3-8 contribute?",
       "choices": [
-        "Paul hands on a formula he himself received, naming named witnesses — material datable to within a few years of the events",
+        "Paul hands on a formula he himself received, naming witnesses -- material that predates his letter",
         "It is the latest New Testament text, written long after the events",
         "It records a private vision with no witnesses",
         "It makes no claim about witnesses at all"
       ],
-      "correctAnswer": "Paul hands on a formula he himself received, naming named witnesses — material datable to within a few years of the events",
+      "correctAnswer": "Paul hands on a formula he himself received, naming witnesses -- material that predates his letter",
       "explanation": "Paul explicitly presents this as tradition he received rather than composed, which places the content earlier than the letter carrying it. Legends require time; this leaves very little of it, and it names people who could be asked.",
       "hint": "Notice the words 'received' and 'handed on' — they point behind the letter itself.",
       "citations": [
@@ -1224,7 +1063,7 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "Against the charge that Christians worship three gods, the Creed confesses one God in three ____.",
+      "prompt": "Against the charge that Christians worship three gods, the Church confesses one God in three ____.",
       "correctAnswer": "Persons",
       "explanation": "The charge only lands if 'Person' meant a separate being. It does not: the three are distinguished by relation, not by dividing the one divine nature into thirds. One God, three Persons, is not a contradiction unless the same word is used in the same sense twice — and it is not.",
       "hint": "One what, and three what? The two words are deliberately different.",
@@ -1257,7 +1096,7 @@
         },
         {
           "left": "'The apostles invented it and knew it'",
-          "right": "They accepted death rather than retract what they claimed to have seen"
+          "right": "They suffered persecution rather than retract what they claimed to have seen"
         }
       ],
       "explanation": "The last is worth stating carefully. People die for false beliefs constantly; the argument is narrower — these particular people were positioned to know whether the specific claim was true, and had every worldly reason to recant.",
@@ -1292,8 +1131,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "reference": "CCC 2132",
+          "quote": "The honor paid to sacred images is a \"respectful veneration,\" not the adoration due to God alone"
         }
       ]
     },
@@ -1309,9 +1148,10 @@
       "hint": "Consider what happens to a person's understanding when their caricature, rather than their concern, gets answered.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1333,9 +1173,10 @@
       "hint": "Consider a practical way to check understanding before responding to a claim.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1351,9 +1192,10 @@
       "hint": "Consider what restating someone's objection fairly says about how you regard them.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1375,9 +1217,10 @@
       "hint": "Recall the opening example, and consider what practical question helped clarify it.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1393,9 +1236,10 @@
       "hint": "Consider what a multi-turn conversation would require, beyond a single response to a single claim.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1429,8 +1273,14 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "reference": "CCC 2132",
+          "quote": "The honor paid to sacred images is a \"respectful veneration,\" not the adoration due to God alone"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1452,9 +1302,10 @@
       "hint": "Consider what should happen before responding to any real objection: checking exactly what it claims.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1488,7 +1339,7 @@
       "level": 8,
       "type": "true_false",
       "difficultyElo": 1325,
-      "prompt": "True or False: 2 Thessalonians 2:15 instructs believers to hold fast to traditions taught 'either by an oral statement or by a letter' from the apostles.",
+      "prompt": "True or False: 2 Thessalonians 2:15 instructs believers to hold the traditions they have learned 'whether by word or by our epistle' from the apostles.",
       "correctAnswer": true,
       "explanation": "This verse is a favorite apologetics proof-text: Paul explicitly places oral and written apostolic teaching on equal footing, undercutting the claim that only written Scripture carries authority.",
       "hint": "Paul names two channels of teaching here, not just one.",
@@ -1507,11 +1358,16 @@
       "level": 8,
       "type": "fill_blank",
       "difficultyElo": 1435,
-      "prompt": "The Catechism teaches that Sacred Scripture and Sacred Tradition 'flow from the same divine wellspring' and together make up ____ sacred deposit of the Word of God.",
+      "prompt": "The Catechism teaches that Sacred Scripture and Sacred Tradition, 'flowing out from the same divine well-spring', together make up ____ sacred deposit of the Word of God.",
       "correctAnswer": "one",
       "explanation": "Scripture and Tradition are not two separate, competing sources -- together they form a single deposit of God's revealed word, entrusted to the Church.",
       "hint": "It's a number -- the two together form only this many deposit.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 80",
+          "quote": "flowing out from the same divine well-spring"
+        },
         {
           "type": "ccc",
           "reference": "CCC 97",
@@ -1630,7 +1486,7 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "Paul tells the Thessalonians to hold fast to the traditions they were taught, 'either by an oral statement or by a letter of ours.' Why does this matter for the sola scriptura question?",
+      "prompt": "Paul tells the Thessalonians to hold the traditions they had learned, 'whether by word or by our epistle.' Why does this matter for the sola scriptura question?",
       "choices": [
         "Scripture itself names oral teaching alongside written as binding, which is the position sola scriptura denies",
         "It shows oral teaching replaced the written entirely",
@@ -1639,7 +1495,7 @@
       ],
       "correctAnswer": "Scripture itself names oral teaching alongside written as binding, which is the position sola scriptura denies",
       "explanation": "The force here is that the text is doing the opposite of what the principle needs. Scripture does not merely fail to teach sola scriptura; in this passage it places oral and written transmission side by side as equally to be held.",
-      "hint": "Read what the verse puts on either side of 'either... or.'",
+      "hint": "Read what the verse puts on either side of 'whether... or.'",
       "citations": [
         {
           "type": "scripture",
@@ -1664,7 +1520,7 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Dei Verbum 9"
+          "reference": "Second Vatican Council, Dei Verbum 8"
         },
         {
           "type": "ccc",
@@ -1729,7 +1585,15 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2270"
+          "reference": "CCC 85"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2274"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2377"
         }
       ]
     },
@@ -1747,6 +1611,16 @@
         {
           "type": "ccc",
           "reference": "CCC 2270"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2274",
+          "quote": "Since it must be treated from conception as a person, the embryo must be defended in its integrity, cared for, and healed"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2275",
+          "quote": "It is immoral to produce human embryos intended for exploitation as disposable biological material."
         }
       ]
     },
@@ -1763,8 +1637,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 82",
-          "quote": "Both Scripture and Tradition must be accepted and honoured with equal sentiments of devotion and reverence."
+          "reference": "CCC 86",
+          "quote": "this Magisterium is not superior to the Word of God, but is its servant. It teaches only what has been handed on to it."
         }
       ]
     },
@@ -1785,6 +1659,11 @@
       "explanation": "This objection assumes the Church's reasoning is a black box. In fact, an application must traceably follow from the principle invoked -- and showing that reasoning openly invites genuine examination, not a bare, unexplained assertion.",
       "hint": "Consider whether the Church simply asserts a conclusion, or traces it back to an underlying principle.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 86",
+          "quote": "this Magisterium is not superior to the Word of God, but is its servant. It teaches only what has been handed on to it."
+        },
         {
           "type": "ccc",
           "reference": "CCC 2270"
@@ -1838,6 +1717,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 86",
+          "quote": "this Magisterium is not superior to the Word of God, but is its servant. It teaches only what has been handed on to it."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2270"
         }
       ]
@@ -1859,6 +1743,11 @@
       "explanation": "Reasoning from principle to traceable application, through a living authority, answers a common worry with a positive account, rather than simply asserting that the Church has an answer without explaining how she reaches one.",
       "hint": "Consider how the Church reaches a position on a genuinely new question.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 86",
+          "quote": "this Magisterium is not superior to the Word of God, but is its servant. It teaches only what has been handed on to it."
+        },
         {
           "type": "ccc",
           "reference": "CCC 2270"
@@ -1939,7 +1828,7 @@
         "The claim that God is not all-good"
       ],
       "correctAnswer": "The gift of human free will and the ultimate victory over evil won in Christ's Cross and Resurrection",
-      "explanation": "Rather than denying God's goodness or power, or denying evil's reality, the Church points to freedom's necessary risk and to God's own definitive answer to evil and suffering in the Cross.",
+      "explanation": "Rather than denying God's goodness or power, or denying evil's reality, the Church points to the freedom of creatures, who can therefore go astray, and to God's own definitive answer to evil and suffering in the Cross.",
       "hint": "The answer doesn't deny God's power or goodness, or deny evil is real.",
       "citations": [
         {
@@ -2013,7 +1902,7 @@
       "level": 10,
       "type": "multiple_choice",
       "difficultyElo": 1525,
-      "prompt": "Every Christian body condemned contraception until the Lambeth Conference of 1930, which permitted it in limited cases; Pius XI answered within months in Casti Connubii. What does this history show about a Scripture-alone rule of faith?",
+      "prompt": "In 1930 the Anglican Lambeth Conference permitted contraception in limited cases, reversing its own earlier stance; Pius XI answered within months in Casti Connubii, which speaks of 'openly departing from the uninterrupted Christian tradition.' What does this history show about a Scripture-alone rule of faith?",
       "choices": [
         "The reversal came with no new biblical data, so the text alone did not settle the question either before or after",
         "It shows Scripture explicitly permits contraception",
@@ -2021,7 +1910,7 @@
         "It shows the question is not a moral one at all"
       ],
       "correctAnswer": "The reversal came with no new biblical data, so the text alone did not settle the question either before or after",
-      "explanation": "Nothing was discovered in Scripture between 1929 and 1930. The same texts yielded a universal Christian prohibition and then, for many, its opposite — which suggests the text was not functioning as the thing that settled it. This is a historical observation, not a slur: it shows what a rule of faith has to be able to do.",
+      "explanation": "Nothing was discovered in Scripture between 1929 and 1930. The same texts had been read as forbidding contraception and then, for many, were read as permitting it — which suggests the text was not functioning as the thing that settled it. This is a historical observation, not a slur: it shows what a rule of faith has to be able to do.",
       "hint": "Ask what changed in the Bible between the two dates.",
       "citations": [
         {
@@ -2117,6 +2006,11 @@
         {
           "type": "ccc",
           "reference": "CCC 311"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 412",
+          "quote": "God permits evil in order to draw forth some greater good."
         }
       ]
     },
@@ -2335,9 +2229,9 @@
       "level": 12,
       "type": "true_false",
       "difficultyElo": 1625,
-      "prompt": "True or False: Catholic teaching holds that people who, through no fault of their own, do not know the Gospel or the Church, can still be saved if they sincerely seek God and follow their conscience.",
+      "prompt": "True or False: Catholic teaching holds that people who, through no fault of their own, do not know the Gospel of Christ or his Church can still attain salvation if, moved by grace, they seek God with a sincere heart and try to do his will as their conscience makes it known.",
       "correctAnswer": true,
-      "explanation": "The Catechism teaches that those who, through no fault of their own, do not know Christ or his Church, but sincerely seek God and try to do his will as known through conscience, can attain salvation.",
+      "explanation": "The Catechism teaches that those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who seek God with a sincere heart and, moved by grace, try to do his will as they know it through the dictates of their conscience, may achieve eternal salvation (CCC 847). This is the work of grace, not of sincerity alone: all salvation comes from Christ the Head through the Church which is his Body (CCC 846).",
       "hint": "The key phrase is 'through no fault of their own.'",
       "citations": [
         {
@@ -2352,10 +2246,10 @@
       "level": 12,
       "type": "fill_blank",
       "difficultyElo": 1735,
-      "prompt": "St. Peter's charter for apologetics calls for defending the faith 'with ____ and reverence,' ruling out a harsh or contemptuous tone.",
-      "correctAnswer": "gentleness",
-      "explanation": "The manner of a defense matters as much as its content -- 1 Peter 3:15 pairs the call to give reasons with an explicit instruction about tone and posture.",
-      "hint": "This word describes the opposite of a harsh or aggressive tone.",
+      "prompt": "St. Peter's charter for apologetics calls for defending the faith 'with ____ and fear,' ruling out a harsh or contemptuous tone.",
+      "correctAnswer": "modesty",
+      "explanation": "The manner of a defense matters as much as its content -- 1 Peter 3:15-16 pairs the call to give reasons with an explicit instruction about tone and posture: 'with modesty and fear.'",
+      "hint": "This word describes a humble, restrained manner -- the opposite of a harsh or aggressive tone.",
       "citations": [
         {
           "type": "scripture",
@@ -2514,7 +2408,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Nostra Aetate 3"
+          "reference": "Second Vatican Council, Nostra Aetate 2",
+          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
         },
         {
           "type": "magisterial_document",
@@ -2633,9 +2528,15 @@
       "difficultyElo": 1700,
       "prompt": "True or False: Holding respect together with truth in interreligious dialogue is simply the 'modesty and fear' of 1 Peter 3:15-16 applied to conversations with other religions.",
       "correctAnswer": true,
-      "explanation": "True. The balance of respect and truth is simply the teaching on gentleness and reverence, applied to interreligious dialogue rather than a single one-on-one exchange.",
-      "hint": "Recall what manner 1 Peter 3:15 requires for every apologetic exchange.",
+      "explanation": "True. The balance of respect and truth is simply St. Peter's teaching on giving a reason 'with modesty and fear,' applied to interreligious dialogue rather than a single one-on-one exchange.",
+      "hint": "Recall what manner 1 Peter 3:15-16 requires for every apologetic exchange.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "council",
           "reference": "Second Vatican Council, Nostra Aetate (1965)",
@@ -2827,8 +2728,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "First Vatican Council, Dei Filius, ch. 3",
-          "quote": "If anyone says that human reason is so independent that faith cannot be commanded by God: let him be anathema... If anyone says that in divine revelation there are contained no true mysteries properly so-called, but that all the dogmas of the faith can be understood and demonstrated by properly trained reason from natural principles: let him be anathema."
+          "reference": "First Vatican Council, Dei Filius, Canons 2.1, 3.3 and 4.1",
+          "quote": "If anyone says that the one, true God, our creator and lord, cannot be known with certainty from the things that have been made, by the natural light of human reason: let him be anathema... If anyone says that divine revelation cannot be made credible by external signs... let him be anathema... If anyone says that in divine revelation there are contained no true mysteries properly so-called... let him be anathema."
         }
       ]
     },
@@ -2873,7 +2774,7 @@
           "right": "Truths reachable by unaided reason (e.g. God's existence), distinct from faith's supernatural assent"
         },
         {
-          "left": "Fideism and rationalism (Dei Filius ch. 3)",
+          "left": "Fideism and rationalism (Dei Filius)",
           "right": "Two opposite condemned errors -- rejecting reason's role, or rejecting faith's necessity"
         },
         {
@@ -3103,13 +3004,18 @@
         "This passage has stronger manuscript support than any other part of the New Testament"
       ],
       "correctAnswer": "The earliest, most reliable manuscripts lack this passage -- a real, honest finding the test itself produces",
-      "explanation": "Applied honestly, the bibliographical test identifies textual variation -- Mark's earliest and most reliable manuscripts lack this longer ending, a finding most scholars, Catholic included, openly acknowledge rather than obscure.",
+      "explanation": "Applied honestly, the bibliographical test identifies textual variation -- Mark's earliest and most reliable manuscripts lack this longer ending, a finding most scholars, Catholic included, openly acknowledge rather than obscure. This is a question of textual history only: the Church receives Mark 16:9-20 as sacred, canonical and inspired Scripture, as part of the books 'with all their parts' defined by the Council of Trent and reaffirmed at Vatican I.",
       "hint": "Consider what a genuinely honest application of a historical method should do when the evidence itself is mixed.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
           "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius, Canons on Revelation 4",
+          "quote": "If anyone does not receive as sacred and canonical the complete books of sacred scripture with all their parts, as the holy council of Trent listed them, or denies that they were divinely inspired: let him be anathema."
         }
       ]
     },
@@ -3121,13 +3027,18 @@
       "difficultyElo": 1850,
       "prompt": "True or False: Applying the bibliographical test honestly means using it only when it supports a Catholic's own real conclusions, and ignoring it whenever it does not.",
       "correctAnswer": false,
-      "explanation": "False, and the point is exactly the opposite -- an honest apologist applies the same test consistently, including to a case like Mark's longer ending, where the evidence itself points toward a later addition.",
+      "explanation": "False, and the point is exactly the opposite -- an honest apologist applies the same test consistently, including to a case like Mark's longer ending, whose absence from the earliest, most reliable manuscripts is a textual-critical finding. That finding does not change the Church's reception of Mark 16:9-20 as sacred, canonical and inspired Scripture.",
       "hint": "Consider what the example already demonstrated about applying a method consistently.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 126",
           "quote": "...faithfully hand on what Jesus, the Son of God, while he lived among men, really did and taught for their eternal salvation..."
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius, Canons on Revelation 4",
+          "quote": "If anyone does not receive as sacred and canonical the complete books of sacred scripture with all their parts, as the holy council of Trent listed them, or denies that they were divinely inspired: let him be anathema."
         }
       ]
     },
@@ -3145,13 +3056,18 @@
         "Yes -- but only because the Church has secretly known this for centuries while hiding it from ordinary believers"
       ],
       "correctAnswer": "No -- the same rigorous method gives confidence in the vast majority of the New Testament's own text",
-      "explanation": "This is exactly the positive point worth making -- the very same rigorous, honest method that flags Mark's longer ending is what gives confidence in the vast majority of the New Testament's own text, which that same evidence overwhelmingly supports.",
+      "explanation": "This is exactly the positive point worth making -- the very same rigorous, honest method that notes Mark's longer ending is absent from the earliest manuscripts is what gives confidence in the vast majority of the New Testament's text. And the Church receives Mark 16:9-20 as sacred, canonical and inspired Scripture, as part of the books 'with all their parts' (Council of Trent; Vatican I, Dei Filius), so the textual finding does not make it a non-inspired addition.",
       "hint": "Consider whether the method that found this one exception is the same method that supports confidence in everything else.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Dei Verbum 19",
           "quote": "... held, and continues to hold, that the four Gospels... faithfully hand on what Jesus Christ, while living among men, really did and taught for their eternal salvation... they told us the honest truth about Jesus."
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Dei Filius, Canons on Revelation 4",
+          "quote": "If anyone does not receive as sacred and canonical the complete books of sacred scripture with all their parts, as the holy council of Trent listed them, or denies that they were divinely inspired: let him be anathema."
         }
       ]
     },
@@ -3356,7 +3272,7 @@
       "choices": [
         "The Church's stability and fruitfulness -- sustained growth and endurance despite active, violent opposition is a stronger sign than mere numerical growth in favorable conditions would be, since favorable-conditions growth alone doesn't rule out purely social or political explanations",
         "The motive of miracles specifically, since growth under persecution always requires a directly verified miraculous event",
-        "The motive of fulfilled prophecy specifically, since persecution itself was never prophesied",
+        "The motive of fulfilled prophecy specifically, since only prophecies, and not the Church's growth, fruitfulness or stability, count as motives of credibility",
         "This circumstance illustrates no motive of credibility at all"
       ],
       "correctAnswer": "The Church's stability and fruitfulness -- sustained growth and endurance despite active, violent opposition is a stronger sign than mere numerical growth in favorable conditions would be, since favorable-conditions growth alone doesn't rule out purely social or political explanations",
@@ -3707,7 +3623,7 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 1428"
+          "reference": "CCC 1427"
         }
       ]
     },
@@ -3896,18 +3812,18 @@
       "difficultyElo": 2125,
       "prompt": "The argument from contingency reasons: some things exist that could have not existed (contingent beings); a contingent being's existence must be explained by something else; this cannot regress forever, so a necessary being must exist. Which specific metaphysical distinction does the premise 'a contingent being's existence must be explained by something else' depend on?",
       "choices": [
-        "The real distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
+        "The distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
         "The distinction between matter and form",
         "The distinction between substance and accident",
         "The distinction between act and habit"
       ],
-      "correctAnswer": "The real distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
+      "correctAnswer": "The distinction between essence (what a thing is) and existence (that a thing is) -- a contingent being's essence does not include its own existence, so something else must account for why it exists rather than not",
       "explanation": "The contingency argument isn't a free-floating piece of apologetic rhetoric -- its key premise IS the essence/existence distinction, which is why a full defense of the argument requires the metaphysics behind it, not just the argument's surface structure.",
       "hint": "Ask what it would mean for a thing's very definition to already include the fact that it exists -- contingent things don't have that.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 44"
+          "reference": "CCC 34"
         },
         {
           "type": "magisterial_document",
@@ -3933,7 +3849,7 @@
         },
         {
           "left": "Ex contingentia (from contingency)",
-          "right": "The essence/existence distinction -- contingent beings need an explanation for their existence"
+          "right": "Possibility and necessity -- what does not exist begins to exist only through something already existing"
         },
         {
           "left": "Ex gradibus (from degrees of perfection)",
@@ -3944,8 +3860,9 @@
       "hint": "Each of the Five Ways leans on one specific metaphysical principle, not a generic 'everything needs a cause' intuition.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+          "type": "ccc",
+          "reference": "CCC 32",
+          "note": "The Five Ways are set out by St. Thomas Aquinas in Summa Theologiae I, q. 2, a. 3."
         }
       ]
     },
@@ -4011,7 +3928,7 @@
       "difficultyElo": 2075,
       "prompt": "True or false: because the Church permits both classical and cumulative-case apologetic methods, a Catholic is free to argue for God's existence in absolutely any way at all, with no method ever being a misapplication of the Church's actual teaching.",
       "correctAnswer": false,
-      "explanation": "Permitting diversity between two sound, named traditions is not the same as endorsing every possible argument. A 'god of the gaps' argument -- inserting God as a placeholder wherever science currently lacks an explanation -- is a misapplication of act/potency reasoning (it treats God as one more link in the same causal chain, competing with natural causes, rather than the transcendent cause of the whole chain's existing at all) and is not one of the Church's two legitimate methods.",
+      "explanation": "Permitting diversity between two sound, named traditions is not the same as endorsing every possible argument. A 'god of the gaps' argument -- inserting God as a placeholder wherever science currently lacks an explanation -- is a misapplication of act/potency reasoning (it treats God as one more link in the same causal chain, competing with natural causes, rather than the transcendent cause of the whole chain's existing at all) and belongs to neither of those two traditions.",
       "hint": "The Church licensing two schools is not the same as licensing every possible argument anyone might construct.",
       "citations": [
         {
@@ -4055,8 +3972,9 @@
       "hint": "This is the word metaphysics uses for being, unity, truth, and goodness as convertible properties.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+          "type": "ccc",
+          "reference": "CCC 41",
+          "note": "The argument from degrees is the fourth of the Five Ways in St. Thomas Aquinas, Summa Theologiae I, q. 2, a. 3."
         }
       ]
     },
@@ -4149,7 +4067,7 @@
         {
           "type": "ccc",
           "reference": "CCC 31",
-          "quote": "...converging and convincing arguments\", which allow us to attain certainty about the truth."
+          "quote": "\"converging and convincing arguments\", which allow us to attain certainty about the truth."
         }
       ]
     },
@@ -4167,7 +4085,7 @@
         {
           "type": "ccc",
           "reference": "CCC 31",
-          "quote": "...converging and convincing arguments\", which allow us to attain certainty about the truth."
+          "quote": "\"converging and convincing arguments\", which allow us to attain certainty about the truth."
         }
       ]
     },
@@ -4190,7 +4108,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 32"
+          "reference": "CCC 36"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul V, decree ending the Congregatio de Auxiliis (1607)"
         }
       ]
     },
@@ -4206,8 +4128,8 @@
       "hint": "Think of the different philosophical schools that coexist within Catholic orthodoxy.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 32"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
         }
       ]
     },
@@ -4231,7 +4153,7 @@
         {
           "type": "ccc",
           "reference": "CCC 31",
-          "quote": "...converging and convincing arguments\", which allow us to attain certainty about the truth."
+          "quote": "\"converging and convincing arguments\", which allow us to attain certainty about the truth."
         }
       ]
     },
@@ -4283,7 +4205,7 @@
         {
           "type": "ccc",
           "reference": "CCC 31",
-          "quote": "...converging and convincing arguments\", which allow us to attain certainty about the truth."
+          "quote": "\"converging and convincing arguments\", which allow us to attain certainty about the truth."
         }
       ]
     },
@@ -4328,8 +4250,9 @@
       "hint": "Think of how a detective or a historian reasons from many partial clues, none alone conclusive, to a confident conclusion.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 31",
+          "note": "Newman treats the illative sense in An Essay in Aid of a Grammar of Assent, ch. 9 (1870)."
         }
       ]
     },
@@ -4341,18 +4264,18 @@
       "difficultyElo": 2275,
       "prompt": "A cumulative case for the Catholic faith might combine: a specific saint's documented heroic virtue, the historical fruitfulness and growth of the Global South Church, and a classical metaphysical argument. Which motives of credibility are being combined in such a case?",
       "choices": [
-        "The holiness of the saints and the Church's own fruitfulness and stability across history, alongside reason's independent case for God's existence -- several distinct, mutually reinforcing lines of evidence, each real but none alone sufficient as a stand-alone demonstrative proof",
+        "The holiness of the saints and the Church's own fruitfulness and stability across history, alongside reason's independent case for God's existence -- several distinct, mutually reinforcing lines of evidence, each real, combined so that no single one is asked to carry the whole case for the Catholic faith alone",
         "Only one motive of credibility is ever really at work no matter how many examples are cited",
         "None of these count as motives of credibility in Catholic apologetics",
         "These examples are unrelated to each other and cannot be combined into any single case"
       ],
-      "correctAnswer": "The holiness of the saints and the Church's own fruitfulness and stability across history, alongside reason's independent case for God's existence -- several distinct, mutually reinforcing lines of evidence, each real but none alone sufficient as a stand-alone demonstrative proof",
+      "correctAnswer": "The holiness of the saints and the Church's own fruitfulness and stability across history, alongside reason's independent case for God's existence -- several distinct, mutually reinforcing lines of evidence, each real, combined so that no single one is asked to carry the whole case for the Catholic faith alone",
       "explanation": "This is Newman's method in practice: no single motive here is being asked to carry the whole case alone. Holiness, historical fruitfulness, and metaphysical argument are distinct lines of evidence that reinforce each other cumulatively -- exactly the kind of case a classical single-chain demonstration doesn't attempt to build.",
       "hint": "Ask whether any ONE of these three pieces of evidence is being presented as, by itself, a complete proof -- or whether they're working together.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4368,8 +4291,8 @@
       "hint": "Ask whether this evidence is being presented as ONE piece among several, or as a complete proof by itself.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4392,7 +4315,11 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 44 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 32"
         }
       ]
     },
@@ -4409,7 +4336,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 21, 76 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 49, 76 (1998)"
         }
       ]
     },
@@ -4450,7 +4377,7 @@
         },
         {
           "left": "The Global South Church's historical growth",
-          "right": "The motives of credibility of fruitfulness and stability"
+          "right": "The motive of credibility of the Church's growth"
         },
         {
           "left": "The classical argument from contingency",
@@ -4465,8 +4392,8 @@
       "hint": "Each piece of evidence in a cumulative case is a genuinely different KIND of evidence, not the same argument restated.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4488,8 +4415,8 @@
       "hint": "Ask whether this kind of reasoning -- many partial clues converging -- is trusted anywhere else in ordinary life, like a courtroom.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4501,18 +4428,22 @@
       "difficultyElo": 2275,
       "prompt": "Both the Thomist demonstrative approach and Newman's cumulative-case approach ultimately serve the same end, per Dei Filius. What is that shared end, even though the two methods look very different in practice?",
       "choices": [
-        "Showing that belief in God is reasonable and can be held with genuine certainty by the exercise of human reason -- the same conviction underlying both the classical method and the cumulative-case method, arrived at by two legitimately different roads",
+        "Showing that God's existence can be known with certainty by the natural light of human reason -- the same conviction underlying both the classical method and the cumulative-case method, arrived at by two legitimately different roads",
         "Proving mathematically that no reasonable person could ever doubt God's existence under any circumstances",
         "Replacing the need for faith entirely with pure philosophical demonstration",
         "Demonstrating that only one of the two methods is actually legitimate, with the other merely tolerated"
       ],
-      "correctAnswer": "Showing that belief in God is reasonable and can be held with genuine certainty by the exercise of human reason -- the same conviction underlying both the classical method and the cumulative-case method, arrived at by two legitimately different roads",
+      "correctAnswer": "Showing that God's existence can be known with certainty by the natural light of human reason -- the same conviction underlying both the classical method and the cumulative-case method, arrived at by two legitimately different roads",
       "explanation": "This shows what both methods share: both exist to serve the same Dei Filius conviction that reason can reach certainty about God, differing only in the shape of the road taken there -- one tightly linked chain, or many converging lines -- not in the destination or in whether the destination is reachable at all.",
       "hint": "Ask what both methods are ultimately trying to show, regardless of which road each one takes to get there.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "First Vatican Council, Dei Filius, ch. 2 (1870)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36"
         }
       ]
     },
@@ -4534,8 +4465,8 @@
       "hint": "Ask what a 'cumulative case' would even mean if it only ever drew on one kind of evidence.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4557,8 +4488,8 @@
       "hint": "Recall the teaching on what makes a cumulative case work.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4574,8 +4505,8 @@
       "hint": "Consider what happens to several independent, converging lines of evidence, compared to a single chain that breaks at its weakest link.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4597,8 +4528,8 @@
       "hint": "Consider what independent lines of evidence -- historical, philosophical, and personal -- could point toward the same conclusion.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4614,8 +4545,8 @@
       "hint": "Consider why several independent lines strengthen a case more than a single repeated one.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4637,8 +4568,8 @@
       "hint": "Consider what safeguard honest apologists use against selective evidence -- such as applying the bibliographical test even to inconvenient findings.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4648,14 +4579,18 @@
       "level": 21,
       "type": "true_false",
       "difficultyElo": 2300,
-      "prompt": "True or False: Weighing counter-evidence honestly as a safeguard in building a cumulative case is the same discipline as honestly acknowledging that Mark's longer ending lacks early manuscript support.",
+      "prompt": "True or False: Weighing counter-evidence honestly as a safeguard in building a cumulative case is the same discipline as honestly acknowledging that the fourth-century Codices Sinaiticus and Vaticanus omit Mark's longer ending (Mark 16:9-20), which the Church nonetheless receives as canonical and inspired.",
       "correctAnswer": true,
-      "explanation": "True. Both practice the same underlying discipline: honest, consistent engagement with evidence, even when inconvenient, rather than selective use of only favorable facts.",
+      "explanation": "True. Both practice the same underlying discipline: honest, consistent engagement with evidence, even when inconvenient, rather than selective use of only favorable facts. (For example, the fourth-century Codices Sinaiticus and Vaticanus omit Mark 16:9-20, yet the Church receives the longer ending as canonical and inspired.)",
       "hint": "Think of how an honest apologist handles an inconvenient textual finding like the ending of Mark.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "council",
+          "reference": "Council of Trent, Session 4, Decree on the Canonical Scriptures (1546)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 120"
         }
       ]
     },
@@ -4688,8 +4623,8 @@
       "hint": "Each row builds toward the same practical exercise of building a personal cumulative case.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4711,8 +4646,8 @@
       "hint": "Consider what it means to draw together genuinely independent lines of evidence, honestly, into one coherent case.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "John Henry Newman, An Essay in Aid of a Grammar of Assent, ch. 9 (1870)"
+          "type": "ccc",
+          "reference": "CCC 156"
         }
       ]
     },
@@ -4730,7 +4665,7 @@
         "\"If you don't already see it, you're not thinking clearly, and I don't have time to walk you through it.\""
       ],
       "correctAnswer": "\"Honestly, a few things together -- I've never found a better explanation for why anything exists at all than a first cause, and I've seen real, lasting goodness in people living this out that I can't just wave away. I'd genuinely be glad to talk about it more if you're interested.\"",
-      "explanation": "This is what good apologetics aims for: an honest sentence combining more than one motive of credibility (a metaphysical argument and observed fruitfulness/holiness), offered with warmth and an open door -- not a debate-ending mic drop, and not a dismissive refusal to engage either.",
+      "explanation": "This is what good apologetics aims for: an honest sentence combining two different kinds of reason -- a metaphysical argument that reason can reach about God (a first cause) and the observed holiness of believers (a motive of credibility) -- offered with warmth and an open door, not a debate-ending mic drop, and not a dismissive refusal to engage either.",
       "hint": "Look for the answer that gives a reason, warmly, and leaves the door open rather than shutting the conversation down.",
       "citations": [
         {
@@ -4745,20 +4680,20 @@
       "level": 22,
       "type": "multiple_choice",
       "difficultyElo": 2425,
-      "prompt": "Aquinas raises five objections against God's existence in ST I q.2 a.3 before answering them (the famous 'if evil exists, God cannot' objection, among others, is answered later in the article by the principle that God permits evil only to draw good from it). Given the pattern of the other four objections (each claiming some observed fact makes God's existence unnecessary or impossible), which of the following best completes a FIFTH, unstated objection in that same pattern: 'Further, it seems God does not exist, because everything we observe can be explained by ______, without needing to suppose anything further.'",
+      "prompt": "Aquinas raises two objections against God's existence in ST I q.2 a.3 before answering them. The first is the problem of evil (answered by the principle that God permits evil only because he can bring good out of it). The second says: 'it seems that everything we see in the world can be accounted for by other principles, supposing God did not exist.' Which principles does the second objection claim are enough, so that supposing God is unnecessary?",
       "choices": [
-        "nature and human reason acting according to fewer principles (an economy-of-explanation objection -- if natural causes fully account for the world, positing God as an additional cause is superfluous)",
-        "the direct observation of God's absence through a telescope",
-        "mathematical proof that infinite regress is logically impossible",
-        "the fact that different religions disagree with one another"
+        "Nature (for natural things) and human reason or will (for voluntary things) -- so that, the objection says, positing God as a further cause is superfluous",
+        "The direct observation of God's absence through a telescope",
+        "Mathematical proof that infinite regress is logically impossible",
+        "The fact that different religions disagree with one another"
       ],
-      "correctAnswer": "nature and human reason acting according to fewer principles (an economy-of-explanation objection -- if natural causes fully account for the world, positing God as an additional cause is superfluous)",
-      "explanation": "This is in fact very close to Aquinas's actual second objection: that everything observable can be accounted for by other principles (nature and human reason/will) supposing God did not exist, making God an unneeded extra premise. Aquinas's own reply is that these very principles (nature, reason) themselves require a first, unmoved source to operate at all -- exactly the contingency and motion arguments of the Five Ways.",
+      "correctAnswer": "Nature (for natural things) and human reason or will (for voluntary things) -- so that, the objection says, positing God as a further cause is superfluous",
+      "explanation": "This is Aquinas's actual second objection: everything we see can be reduced to nature (for natural things) and human reason or will (for voluntary things), so there seems no need to suppose God. Aquinas replies that nature works for a determinate end under the direction of a higher agent and so must be traced back to God as its first cause, and that what is done voluntarily must be traced back to a higher cause, since human reason and will can change or fail and whatever is changeable must be traced back to an immovable and self-necessary first principle.",
       "hint": "This objection claims that natural explanation alone already covers everything, making God an unnecessary extra step.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Aquinas, Summa Theologiae I, q. 2, a. 3"
+          "type": "ccc",
+          "reference": "CCC 32"
         }
       ]
     },
@@ -4770,12 +4705,12 @@
       "difficultyElo": 2425,
       "prompt": "A friend says, 'I just don't feel anything when I pray -- how am I supposed to know God is even there?' Weighing the classical, cumulative-case, and experiential approaches to apologetics, what is the Church's integrated response, rather than a ranking of one approach as the only correct one?",
       "choices": [
-        "All three remain legitimate and available -- the classical and cumulative-case arguments do not depend on a felt religious experience at all, so their force stands even when consolation is absent, while the lack of felt experience is itself a real and ancient feature of prayer (the 'dark night') rather than proof of God's absence; which approach to lead with in this particular conversation is a pastoral judgment call, not a settled doctrinal ranking",
+        "All three remain legitimate and available -- the classical and cumulative-case arguments do not depend on a felt religious experience at all, so their force stands even when consolation is absent, while the lack of felt experience is itself a real and well-known difficulty in prayer (dryness, CCC 2731) rather than proof of God's absence; which approach to lead with in this particular conversation is a pastoral judgment call, not a settled doctrinal ranking",
         "Feeling nothing in prayer definitively proves that God does not exist",
         "Only the experiential approach has any validity, and the classical and cumulative-case arguments are irrelevant to this concern",
         "The Church teaches that anyone who doesn't feel God's presence in prayer has committed a sin"
       ],
-      "correctAnswer": "All three remain legitimate and available -- the classical and cumulative-case arguments do not depend on a felt religious experience at all, so their force stands even when consolation is absent, while the lack of felt experience is itself a real and ancient feature of prayer (the 'dark night') rather than proof of God's absence; which approach to lead with in this particular conversation is a pastoral judgment call, not a settled doctrinal ranking",
+      "correctAnswer": "All three remain legitimate and available -- the classical and cumulative-case arguments do not depend on a felt religious experience at all, so their force stands even when consolation is absent, while the lack of felt experience is itself a real and well-known difficulty in prayer (dryness, CCC 2731) rather than proof of God's absence; which approach to lead with in this particular conversation is a pastoral judgment call, not a settled doctrinal ranking",
       "explanation": "This is exactly the kind of question apologetics has to be ready for: the object-level answer (which argument to use) is a prudential, pastoral judgment, not itself a doctrinal question -- but the reassurance that absence of felt consolation doesn't undermine reason's independent case for God is a substantive point worth making before anything else.",
       "hint": "Notice this has two layers -- a doctrinal point (the arguments don't depend on feelings) and a genuinely open pastoral judgment call (which to lead with).",
       "citations": [
@@ -4818,14 +4753,16 @@
       "level": 22,
       "type": "fill_blank",
       "difficultyElo": 2485,
-      "prompt": "1 Peter 3:15 pairs 'always be ready to give an explanation' with two qualities that govern HOW that explanation is given: gentleness and ______ -- ruling out both a cold, purely intellectual recitation and a combative, argument-to-win posture.",
-      "correctAnswer": "reverence",
-      "explanation": "The verse doesn't just license apologetics -- it constrains its tone. 'Gentleness and reverence' means the goal is never simply winning an argument; it is honoring both the truth being defended and the person being spoken to.",
-      "hint": "This is the second of the two qualities 1 Peter 3:15 pairs with 'gentleness.'",
+      "prompt": "1 Peter 3:15-16 says to be 'ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and ______' -- a qualification that rules out both a cold, purely intellectual recitation and a combative, argument-to-win posture.",
+      "correctAnswer": "fear",
+      "explanation": "The verse doesn't just license apologetics -- it constrains its tone. 'Modesty and fear' (rendered 'gentleness and reverence' in many modern translations) means the goal is never simply winning an argument; it is honoring both the truth being defended and the person being spoken to.",
+      "hint": "This is the quality 1 Peter 3:16 pairs with 'modesty.'",
       "citations": [
         {
           "type": "scripture",
-          "reference": "1 Peter 3:15"
+          "reference": "1 Peter 3:15-16",
+          "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -4865,7 +4802,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 32-33"
+          "reference": "CCC 28"
         }
       ]
     },
@@ -5026,7 +4963,7 @@
       "difficultyElo": 2450,
       "prompt": "True or False: Applying the bibliographical test honestly, even to inconvenient findings, is itself an expression of apologetics as an act of love rather than conquest.",
       "correctAnswer": true,
-      "explanation": "True. A conquest hides anything inconvenient to win at any cost; love tells the truth honestly, trusting the other person enough to engage them with intellectual integrity -- as in honestly acknowledging that Mark's longer ending lacks early manuscript support.",
+      "explanation": "True. A conquest hides anything inconvenient to win at any cost; love tells the truth honestly, trusting the other person enough to engage them with intellectual integrity -- as in honestly acknowledging that the fourth-century Codices Sinaiticus and Vaticanus omit Mark's longer ending, while the Church receives that ending as canonical and inspired.",
       "hint": "Consider how honest handling of an inconvenient textual finding shows respect for the other person.",
       "citations": [
         {
@@ -5034,6 +4971,10 @@
           "reference": "1 Peter 3:15-16",
           "quote": "But sanctify the Lord Christ in your hearts, being ready always to satisfy every one that asketh you a reason of that hope which is in you. But with modesty and fear, having a good conscience: that whereas they speak evil of you, they may be ashamed who falsely accuse your good conversation in Christ.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent, Session 4, Decree on the Canonical Scriptures (1546)"
         }
       ]
     },
