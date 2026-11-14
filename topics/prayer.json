@@ -91,13 +91,13 @@
       "difficultyElo": 850,
       "prompt": "Why does the Catechism actually call prayer a 'vital necessity' rather than merely a nice, optional extra?",
       "choices": [
-        "Because prayer is as necessary to spiritual life as breathing is to physical life",
+        "Because, as the Catechism shows from the contrary, if we do not allow the Spirit to lead us, we fall back into the slavery of sin",
         "Because prayer is only necessary for priests and religious, not for ordinary people",
         "Because prayer is only necessary during a crisis, and unnecessary otherwise",
         "Because the phrase 'vital necessity' has no particular meaning here"
       ],
-      "correctAnswer": "Because prayer is as necessary to spiritual life as breathing is to physical life",
-      "explanation": "Calling prayer a 'vital necessity' means it is as basic and to a genuine spiritual life as breathing is to physical life -- not a nice extra reserved for the specially devout.",
+      "correctAnswer": "Because, as the Catechism shows from the contrary, if we do not allow the Spirit to lead us, we fall back into the slavery of sin",
+      "explanation": "The Catechism calls prayer a vital necessity and gives the proof from the contrary: if we do not allow the Spirit to lead us, we fall back into the slavery of sin (CCC 2744). It is not an optional extra reserved for the specially devout.",
       "hint": "Consider what 'vital' means, and what it would mean applied to prayer.",
       "citations": [
         {
@@ -115,7 +115,7 @@
       "difficultyElo": 800,
       "prompt": "True or False: Calling prayer a 'vital necessity' means it is actually optional, reserved only for the specially devout.",
       "correctAnswer": false,
-      "explanation": "False -- exactly the opposite: 'vital necessity' means prayer is as basic and to a genuine spiritual life as breathing is to physical life, not an optional extra.",
+      "explanation": "False -- the Catechism calls prayer a vital necessity: if we do not allow the Spirit to lead us, we fall back into the slavery of sin (CCC 2744). It is not an optional extra for the specially devout.",
       "hint": "Consider what the word 'vital' implies about whether something is optional.",
       "citations": [
         {
@@ -185,7 +185,7 @@
         },
         {
           "left": "Why prayer is a 'vital necessity'",
-          "right": "As basic to spiritual life as breathing is to physical life"
+          "right": "If we do not allow the Spirit to lead us, we fall back into the slavery of sin"
         },
         {
           "left": "Beginning to pray without memorized, formal prayers",
@@ -197,7 +197,17 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 2559",
+          "quote": "\"Prayer is the raising of one's mind and heart to God or the requesting of good things from God.\""
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2564"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
         }
       ]
     },
@@ -345,6 +355,11 @@
         {
           "type": "ccc",
           "reference": "CCC 2564"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2699",
+          "quote": "each believer responds according to his heart's resolve and the personal expressions of his prayer."
         }
       ]
     },
@@ -354,14 +369,15 @@
       "level": 2,
       "type": "true_false",
       "difficultyElo": 875,
-      "prompt": "True or False: A real, simple prayer spoken in one's own words genuinely counts just as much as a formal, memorized prayer.",
+      "prompt": "True or False: A simple prayer spoken in one's own words is genuine Christian prayer, even though it is not a memorized, formal prayer.",
       "correctAnswer": true,
-      "explanation": "True, and this encouraging point matters -- since prayer is fundamentally a honest relationship, one's own simple words genuinely count as honest prayer.",
+      "explanation": "True -- the Catechism recognizes that each believer responds according to his heart's resolve and the personal expressions of his prayer, so prayer in one's own words is genuine prayer.",
       "hint": "Recall the guiding image for approaching God honestly.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2564"
+          "reference": "CCC 2699",
+          "quote": "each believer responds according to his heart's resolve and the personal expressions of his prayer."
         }
       ]
     },
@@ -395,7 +411,21 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 2564"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2699"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2736"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 6:9",
+          "quote": "Thus therefore shall you pray: Our Father who art in heaven, hallowed be thy name.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -574,12 +604,12 @@
           "right": "Actually requires first praying at specific, consciously chosen times"
         },
         {
-          "left": "A short consistent moment",
-          "right": "Builds a more sustainable habit than a long, ambitious one quickly abandoned"
+          "left": "How often we must remember God",
+          "right": "More often than we draw breath"
         },
         {
-          "left": "Attaching prayer to an existing routine",
-          "right": "Makes a new habit far easier to remember and sustain"
+          "left": "Prayer, as the Fathers of the spiritual life describe it",
+          "right": "A remembrance of God, often awakened by the memory of the heart"
         },
         {
           "left": "Missing one day",
@@ -592,6 +622,11 @@
         {
           "type": "ccc",
           "reference": "CCC 2697"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2744",
+          "quote": "Prayer is a vital necessity."
         }
       ]
     },
@@ -777,7 +812,7 @@
         "A posture of kneeling, and nothing more"
       ],
       "correctAnswer": "Acknowledging that we are creatures before our Creator, apart from any request",
-      "explanation": "Adoration comes first among the forms of prayer precisely because it asks for nothing -- it simply recognizes who God is, and who we are before him.",
+      "explanation": "Adoration is the first attitude of man acknowledging that he is a creature before his Creator. It is homage of the spirit to the King of Glory, and it is respectful silence in the presence of the ever greater God (CCC 2628).",
       "hint": "This form of prayer isn't about asking for anything at all.",
       "citations": [
         {
@@ -828,7 +863,7 @@
         "Read several books on prayer before attempting any"
       ],
       "correctAnswer": "Choose a short fixed time and keep it, even badly — faithfulness to the appointment matters more at the start than what happens in it",
-      "explanation": "The Catechism says plainly that we cannot pray at all times unless we pray at specific times, and that choosing the time and keeping it is where a life of prayer is built.\n\nTry it: pick five minutes and a place — the same five minutes tomorrow. Begin with the Sign of the Cross, say the Our Father slowly enough to mean it, and sit for what remains. If your mind wanders the whole time, you have still prayed.",
+      "explanation": "The Catechism says plainly that we cannot pray \"at all times\" if we do not pray at specific times, consciously willing it, and, speaking of contemplative prayer, that the choice of the time and duration of the prayer \"arises from a determined will\" (CCC 2697, 2710).\n\nTry it: pick five minutes and a place — the same five minutes tomorrow. Begin with the Sign of the Cross, say the Our Father slowly enough to mean it, and sit for what remains. If your mind wanders the whole time, you have still prayed.",
       "hint": "The advice concerns when you will pray, before it concerns how.",
       "citations": [
         {
@@ -871,7 +906,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2626"
+          "reference": "CCC 2628"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2631"
         },
         {
           "type": "ccc",
@@ -1152,7 +1191,7 @@
       "difficultyElo": 1175,
       "prompt": "True or False: 'Forgive us our trespasses as we forgive those who trespass against us' ties our own forgiveness of others to receiving God's forgiveness.",
       "correctAnswer": true,
-      "explanation": "Jesus immediately follows the Our Father with a direct warning: 'if you do not forgive others, neither will your Father forgive your transgressions' -- the two are bound together.",
+      "explanation": "Jesus immediately follows the Our Father with a direct warning: 'But if you will not forgive men, neither will your Father forgive you your offences' -- the two are bound together.",
       "hint": "Jesus comments directly on this petition right after teaching the prayer.",
       "citations": [
         {
@@ -1250,7 +1289,7 @@
       "level": 6,
       "type": "fill_blank",
       "difficultyElo": 1285,
-      "prompt": "The doxology often added to the Our Father in liturgical use -- 'For thine is the kingdom, the power, and the glory, forever' -- takes up again, in praise, the prayer's first three ____.",
+      "prompt": "The final doxology said with the Our Father in the liturgy -- 'For the kingdom, the power and the glory are yours, now and forever' -- takes up again, in praise, the prayer's first three ____.",
       "correctAnswer": "petitions",
       "explanation": "The doxology echoes back the prayer's opening three petitions -- God's name, kingdom, and will -- now offered as praise rather than request.",
       "hint": "These are the same things asked for at the very start of the prayer, now offered back as praise.",
@@ -1539,8 +1578,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 19, Pope St. John Paul II (2002)",
+          "quote": "I believe, however, that to bring out fully the Christological depth of the Rosary it would be suitable to make an addition to the traditional pattern which, while left to the freedom of individuals and communities, could broaden it to include the mysteries of Christ's public ministry between his Baptism and his Passion."
         }
       ]
     },
@@ -1557,8 +1596,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 32-34, Pope St. John Paul II (2002)",
+          "quote": "the glorification of the Trinity at the end of each decade, far from being a perfunctory conclusion, takes on its proper contemplative tone"
         }
       ]
     },
@@ -1570,13 +1609,13 @@
       "difficultyElo": 1435,
       "prompt": "The Rosary is, at its heart, a meditation on the ____ of Christ's life, using repeated Hail Marys as a contemplative rhythm rather than an end in themselves.",
       "correctAnswer": "mysteries",
-      "explanation": "The repeated Hail Marys aren't the point of the Rosary -- they form a rhythm that frees the mind to meditate on the Gospel events they accompany.",
+      "explanation": "The repeated Hail Marys are not a mechanical formula or an end in themselves. John Paul II calls them \"the most substantial element in the Rosary\" and, quoting Paul VI, warns: \"Without contemplation, the Rosary is a body without a soul...\" Their quiet rhythm carries the meditation on the Gospel events they accompany.",
       "hint": "It's the same word used for each set: Joyful, Luminous, Sorrowful, Glorious.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 38, Pope St. John Paul II (2002)",
+          "quote": "What is really important is that the Rosary should always be seen and experienced as a path of contemplation."
         }
       ],
       "miniGameEligible": true
@@ -1614,7 +1653,7 @@
       "difficultyElo": 1325,
       "prompt": "True or False: Devotions like the Rosary, novenas, and the Angelus hold equal liturgical rank with the Mass itself.",
       "correctAnswer": false,
-      "explanation": "Popular devotions are genuinely valuable and encouraged, but the Church distinguishes them from the liturgy proper (the Mass and the Liturgy of the Hours), which holds a unique, official, communal character devotions don't share.",
+      "explanation": "Popular devotions are genuinely valuable and encouraged, but the Church distinguishes them from the liturgy itself -- above all the Mass, together with the other sacraments and the Liturgy of the Hours -- which is her own official public worship. Devotions \"extend the liturgical life of the Church, but do not replace it.\" The liturgy \"by its very nature is far superior to any of them\" (CCC 1675).",
       "hint": "One category is the Church's own official public worship; the other is valuable but distinct from it.",
       "citations": [
         {
@@ -1653,8 +1692,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 38, Pope St. John Paul II (2002)",
+          "quote": "What is really important is that the Rosary should always be seen and experienced as a path of contemplation."
         },
         {
           "type": "ccc",
@@ -1752,13 +1791,13 @@
       "difficultyElo": 1375,
       "prompt": "Someone finds the Rosary's repetition mechanical and distracting. What does the tradition say the repetition is for?",
       "choices": [
-        "The vocal prayer occupies the surface of the mind so attention can rest on the mystery being contemplated — the words are the setting, not the subject",
+        "The repetition is a method designed to help the mind assimilate the mysteries of Christ: the succession of Hail Marys is the warp on which the contemplation of the mysteries is woven",
         "The number of prayers is what obtains the grace",
         "Repetition is meant to induce an altered state",
         "The repetition is a penance to be endured"
       ],
-      "correctAnswer": "The vocal prayer occupies the surface of the mind so attention can rest on the mystery being contemplated — the words are the setting, not the subject",
-      "explanation": "Trying to attend fully to the words of every Hail Mary makes the Rosary impossible; that was never the intention. The Hail Marys are a rhythm within which the mind holds a scene from Christ's life.\n\nTry it: pray one decade only. Before it, read the Gospel passage for that mystery. Then let the words carry while you stay with the scene.",
+      "correctAnswer": "The repetition is a method designed to help the mind assimilate the mysteries of Christ: the succession of Hail Marys is the warp on which the contemplation of the mysteries is woven",
+      "explanation": "Pope St. John Paul II calls the Rosary a method based on repetition, designed to assist in assimilating the mysteries of Christ. Considered superficially, the repetition can look like a dry and boring exercise; it is quite another thing when the Rosary is understood as an outpouring of love that tirelessly returns to the person loved. Pope St. Paul VI called the succession of Hail Marys the warp on which the contemplation of the mysteries is woven, and warned that without contemplation the Rosary risks becoming a mechanical repetition of formulas.\n\nTry it: pray one decade only. Before it, read the Gospel passage for that mystery. Then let the Hail Marys carry you while you stay with the scene.",
       "hint": "Ask what your attention is supposed to be resting on while your lips move.",
       "citations": [
         {
@@ -1766,8 +1805,14 @@
           "reference": "CCC 2708"
         },
         {
-          "type": "ccc",
-          "reference": "CCC 1674"
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae 26, Pope St. John Paul II (2002)",
+          "quote": "Meditation on the mysteries of Christ is proposed in the Rosary by means of a method designed to assist in their assimilation. It is a method based on repetition."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Marialis Cultus 46, Pope St. Paul VI (1974)",
+          "quote": "the succession of Hail Mary's constitutes the warp on which is woven the contemplation of the mysteries."
         }
       ]
     },
@@ -1819,19 +1864,19 @@
       "difficultyElo": 1450,
       "prompt": "Physically, what practical purpose do the actual beads of a Rosary serve?",
       "choices": [
-        "They let the fingers keep count without the mind needing to, freeing attention for the Mystery",
+        "They serve as a counting mechanism marking the succession of Hail Marys, and can also take on a symbolism that gives added depth to contemplation",
         "The beads have no practical purpose at all, and are purely decorative",
-        "The beads require the mind to count them consciously, adding an additional mental task",
+        "The beads are a kind of amulet or magic object that makes the prayer effective",
         "The beads replace the need for any words to be spoken at all"
       ],
-      "correctAnswer": "They let the fingers keep count without the mind needing to, freeing attention for the Mystery",
-      "explanation": "This is a practical, physical purpose -- the beads let the fingers keep count automatically, freeing the mind's own attention for the Mystery being meditated on, rather than counting.",
-      "hint": "Consider what practical task the beads take off the mind's own attention.",
+      "correctAnswer": "They serve as a counting mechanism marking the succession of Hail Marys, and can also take on a symbolism that gives added depth to contemplation",
+      "explanation": "Rosarium Virginis Mariae 36 explains that the traditional aid for reciting the Rosary is the set of beads: at the most basic level a counting mechanism marking the succession of Hail Marys, which can also take on a symbolism, such as the beads converging upon the Crucifix, that gives added depth to contemplation.",
+      "hint": "Consider what the beads mark as the prayer moves along.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 36, Pope St. John Paul II (2002)",
+          "quote": "At the most superficial level, the beads often become a simple counting mechanism to mark the succession of Hail Marys. Yet they can also take on a symbolism which can give added depth to contemplation."
         }
       ]
     },
@@ -1841,15 +1886,15 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: The Rosary's beads free the mind's own attention for the Mystery being meditated on, rather than requiring the mind to consciously count.",
+      "prompt": "True or False: According to Pope St. John Paul II, the Rosary beads serve as a counting mechanism that marks the succession of Hail Marys, and can also take on a symbolism that gives added depth to contemplation.",
       "correctAnswer": true,
-      "explanation": "True, and this practical point matters -- the beads' own purpose is to let the fingers count automatically, so mental attention stays on the Mystery itself.",
-      "hint": "Recall the point about what the beads free the mind to do.",
+      "explanation": "True. Rosarium Virginis Mariae 36 describes the beads as the traditional aid for reciting the Rosary: at the most basic level a counting mechanism marking the succession of Hail Marys, which can also take on a symbolism that gives added depth to contemplation.",
+      "hint": "Recall what Rosarium Virginis Mariae says the beads mark as the prayer moves along.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 36, Pope St. John Paul II (2002)",
+          "quote": "At the most superficial level, the beads often become a simple counting mechanism to mark the succession of Hail Marys. Yet they can also take on a symbolism which can give added depth to contemplation."
         }
       ]
     },
@@ -1872,8 +1917,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 38, Pope St. John Paul II (2002)",
+          "quote": "What is really important is that the Rosary should always be seen and experienced as a path of contemplation."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae 12, Pope St. John Paul II (2002), quoting Paul VI",
+          "quote": "By its nature the recitation of the Rosary calls for a quiet rhythm and a lingering pace, helping the individual to meditate on the mysteries of the Lord's life as seen through the eyes of her who was closest to the Lord."
         }
       ]
     },
@@ -1890,8 +1940,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Rosarium Virginis Mariae, Pope St. John Paul II (2002)",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "reference": "Rosarium Virginis Mariae 38, Pope St. John Paul II (2002)",
+          "quote": "What is really important is that the Rosary should always be seen and experienced as a path of contemplation."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae 12, Pope St. John Paul II (2002), quoting Paul VI",
+          "quote": "By its nature the recitation of the Rosary calls for a quiet rhythm and a lingering pace, helping the individual to meditate on the mysteries of the Lord's life as seen through the eyes of her who was closest to the Lord."
         }
       ]
     },
@@ -1909,7 +1964,7 @@
         },
         {
           "left": "What the beads do physically",
-          "right": "Let the fingers keep count, freeing the mind for the Mystery"
+          "right": "Serve as a counting mechanism marking the succession of Hail Marys"
         },
         {
           "left": "\"A path of contemplation\"",
@@ -1926,6 +1981,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1674-1675"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Rosarium Virginis Mariae 36, Pope St. John Paul II (2002)",
+          "quote": "At the most superficial level, the beads often become a simple counting mechanism to mark the succession of Hail Marys."
         }
       ]
     },
@@ -2105,7 +2165,7 @@
       "difficultyElo": 1585,
       "prompt": "Morning Prayer in the Liturgy of the Hours traditionally includes the Benedictus, the New Testament canticle proclaimed by ____ at the birth of his son John the Baptist.",
       "correctAnswer": "Zechariah",
-      "explanation": "Zechariah's canticle of praise, given his voice back after nine months of silence, forms a fitting hymn to open each new day of prayer.",
+      "explanation": "Zechariah's canticle of praise, spoken when his speech was restored at the naming of his son John, forms a fitting hymn to open each new day of prayer.",
       "hint": "This is John the Baptist's father, whose speech returned only once he named his son.",
       "citations": [
         {
@@ -2403,8 +2463,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2699",
-          "quote": "However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative."
+          "reference": "CCC 2712",
+          "quote": "Contemplative prayer is the prayer of the child of God, of the forgiven sinner"
         }
       ]
     },
@@ -2421,8 +2481,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2699",
-          "quote": "However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative."
+          "reference": "CCC 2709",
+          "quote": "it means taking time frequently to be alone with him who we know loves us."
         }
       ]
     },
@@ -2463,6 +2523,11 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 2731",
+          "quote": "Dryness belongs to contemplative prayer when the heart is separated from God, with no taste for thoughts, memories, and feelings, even spiritual ones."
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2719"
         }
       ]
@@ -2497,8 +2562,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2699",
-          "quote": "However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative."
+          "reference": "CCC 2709",
+          "quote": "it means taking time frequently to be alone with him who we know loves us."
         },
         {
           "type": "ccc",
@@ -2522,6 +2587,11 @@
         {
           "type": "ccc",
           "reference": "CCC 2708"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Verbum Domini 87, Pope Benedict XVI (2010)",
+          "quote": "Finally, lectio divina concludes with contemplation (contemplatio)"
         }
       ]
     },
@@ -2597,35 +2667,33 @@
       "pairs": [
         {
           "left": "Lectio",
-          "right": "Read the passage slowly, more than once, noticing a word that stands out"
+          "right": "Read the passage and ask what the biblical text says in itself"
         },
         {
           "left": "Meditatio",
-          "right": "Turn that word or phrase over; ask what it says to your life now"
+          "right": "Ask what the text says to us, letting yourself be moved and challenged"
         },
         {
           "left": "Oratio",
-          "right": "Respond to God about it, in your own words"
+          "right": "Answer the Lord in response to his word, in petition, intercession, thanksgiving and praise"
         },
         {
           "left": "Contemplatio",
-          "right": "Stop speaking and rest in his presence, without trying to produce anything"
+          "right": "Take up, as a gift from God, his own way of seeing and judging reality, and ask what conversion he is asking of you"
         }
       ],
-      "explanation": "The fourth movement is where people assume they are failing, because nothing appears to be happening. Nothing is supposed to be happening — that is the point of it.\n\nTry it: take five verses, not a chapter. Fifteen minutes. If you only get as far as the second movement, that is a complete lectio.",
-      "hint": "Read, ponder, respond, rest. The last is the one that feels like doing nothing.",
+      "explanation": "Benedict XVI, Verbum Domini 87, gives these steps of lectio divina: reading (what does the text say in itself?), meditation (what does it say to us?), prayer (what do we say to the Lord in response?), and contemplation, in which we take up, as a gift from God, his own way of seeing and judging reality. He adds that the process is not concluded until it arrives at action.\n\nTry it: take five verses, not a chapter.",
+      "hint": "Read, ponder, respond, then receive God's own way of seeing.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2708"
+          "reference": "CCC 2708",
+          "quote": "Christian prayer tries above all to meditate on the mysteries of Christ, as in lectio divina or the rosary."
         },
         {
-          "type": "ccc",
-          "reference": "CCC 2709"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 2717"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Verbum Domini (2010), 87",
+          "quote": "Finally, lectio divina concludes with contemplation (contemplatio), during which we take up, as a gift from God, his own way of seeing and judging reality"
         }
       ],
       "miniGameEligible": true
@@ -2720,21 +2788,26 @@
       "level": 13,
       "type": "multiple_choice",
       "difficultyElo": 1750,
-      "prompt": "Spiritual writers distinguish between stages of prayer that a person can reach by effort and ones that are infused -- gifts a person cannot achieve, only dispose themselves toward. How does contemplative prayer fit this distinction?",
+      "prompt": "The Catechism says of contemplative prayer: 'It is a gift, a grace; it can be accepted only in humility and poverty.' What does this imply about a person's own effort?",
       "choices": [
-        "Contemplative prayer belongs to the 'infused' side -- genuinely disposed toward, but never achieved through one's own effort alone",
-        "Contemplative prayer belongs entirely to the 'attainable' side, achievable through sufficient personal effort alone",
-        "This distinction has no bearing whatsoever on contemplative prayer specifically",
-        "Contemplative prayer requires abandoning any attainable practice entirely"
+        "It is a gift of grace: a person can dispose themselves to receive it in humility and poverty, but cannot earn or produce it by effort alone",
+        "It is achievable through sufficient personal effort alone, with grace playing no part",
+        "The fact that it is a gift has no bearing whatsoever on how a person approaches it",
+        "A person must abandon every regular practice of prayer in order to receive it"
       ],
-      "correctAnswer": "Contemplative prayer belongs to the 'infused' side -- genuinely disposed toward, but never achieved through one's own effort alone",
-      "explanation": "This is the guiding distinction -- contemplative prayer belongs to the infused side of the spiritual journey, genuinely disposed toward through humble, ordinary prayer, but never achieved by effort alone.",
-      "hint": "Recall the distinction between disposing oneself and producing a gift by technique.",
+      "correctAnswer": "It is a gift of grace: a person can dispose themselves to receive it in humility and poverty, but cannot earn or produce it by effort alone",
+      "explanation": "CCC 2713 teaches that contemplative prayer is a gift, a grace, accepted only in humility and poverty. CCC 2725 adds that prayer is both a gift of grace and a determined response on our part, and always presupposes effort. Effort disposes a person to receive; it does not earn or produce the gift.",
+      "hint": "Recall the difference between disposing oneself for a gift and producing it.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2713",
           "quote": "It is a gift, a grace; it can be accepted only in humility and poverty."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2725",
+          "quote": "Prayer is both a gift of grace and a determined response on our part."
         }
       ]
     },
@@ -2766,7 +2839,7 @@
       "pairs": [
         {
           "left": "Contemplative prayer, at its core",
-          "right": "A pure gift, not a technique-produced, learnable skill"
+          "right": "A gift of grace, not a technique-produced, learnable skill"
         },
         {
           "left": "The posture it is accepted in",
@@ -2777,8 +2850,8 @@
           "right": "Dispose themselves through ordinary, faithful prayer, without presuming the gift"
         },
         {
-          "left": "\"Attainable\" versus \"infused\"",
-          "right": "Contemplative prayer belongs to the infused side, genuinely disposed toward, not achieved"
+          "left": "Gift and effort",
+          "right": "A gift of grace that effort disposes a person to receive but cannot earn or produce"
         }
       ],
       "explanation": "These four facts together give the honest, careful teaching on why contemplative prayer resists being reduced to a mastered technique.",
@@ -2788,6 +2861,11 @@
           "type": "ccc",
           "reference": "CCC 2713",
           "quote": "It is a gift, a grace; it can be accepted only in humility and poverty."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2725",
+          "quote": "Prayer is both a gift of grace and a determined response on our part."
         }
       ]
     },
@@ -2845,11 +2923,11 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "CCC 2626-2643 names four classical ends or forms of prayer: adoration, petition, intercession, and thanksgiving. Which of these is illustrated by Abraham pleading with God on behalf of Sodom (Genesis 18:22-33)?",
+      "prompt": "CCC 2626-2643 sets out five forms of prayer: blessing and adoration, petition, intercession, thanksgiving, and praise. Which of these is illustrated by Abraham pleading with God on behalf of Sodom (Genesis 18:22-33)?",
       "choices": [
         "Intercession",
         "Adoration",
-        "Petition",
+        "Praise",
         "Thanksgiving"
       ],
       "correctAnswer": "Intercession",
@@ -2893,15 +2971,15 @@
       "level": 14,
       "type": "fill_blank",
       "difficultyElo": 1885,
-      "prompt": "The Our Father's fourth petition asks for 'daily bread,' translating the Greek word 'epiousios' -- per CCC 2837, this word is deliberately difficult to translate because it carries ____ weight, pointing beyond ordinary nourishment to the Eucharist and the age to come.",
-      "correctAnswer": "eschatological",
-      "explanation": "CCC 2837 explains that 'epiousios' (rendered 'daily' or 'supersubstantial') resists simple translation precisely because it points to more than ordinary bread -- it carries eschatological weight, anticipating the Eucharistic bread and the wedding feast of the Kingdom, not just today's ordinary food.",
-      "hint": "This word describes something oriented toward the 'last things' and the age to come, not just today's needs.",
+      "prompt": "The Our Father's fourth petition asks for 'daily bread,' translating the Greek word 'epiousios,' which occurs nowhere else in the New Testament. Taken literally ('super-essential'), CCC 2837 says it refers directly to the ____ of Life, the Body of Christ.",
+      "correctAnswer": "Bread",
+      "explanation": "CCC 2837 notes that 'epiousios' occurs nowhere else in the New Testament and gives several senses: temporal, qualitative (what is necessary for life), literal ('super-essential'), and heavenly. Taken literally, it refers directly to the Bread of Life, the Body of Christ. In its heavenly meaning, 'this day' is the Day of the Lord, the day of the feast of the kingdom, anticipated in the Eucharist, which is already the foretaste of the kingdom to come.",
+      "hint": "Taken literally, the word points to the Body of Christ: the ___ of Life.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2837",
-          "quote": "Taken in the qualitative sense, it signifies what is necessary for life, and more broadly every good thing sufficient for subsistence."
+          "quote": "Taken literally (epi-ousios: \"super-essential\"), it refers directly to the Bread of Life, the Body of Christ"
         }
       ],
       "miniGameEligible": true
@@ -2920,7 +2998,7 @@
         {
           "type": "magisterial_document",
           "reference": "John Paul II, Rosarium Virginis Mariae (2002), nn. 19-21",
-          "quote": "... the Rosary should always be seen and experienced as a path of contemplation... .to meditate on the mysteries of the Lord's life as seen through the eyes of..."
+          "quote": "I believe, however, that to bring out fully the Christological depth of the Rosary it would be suitable to make an addition to the traditional pattern"
         }
       ]
     },
@@ -2949,7 +3027,7 @@
           "right": "Night Prayer, said before rest"
         }
       ],
-      "explanation": "Sacrosanctum Concilium 83-89 structures the Divine Office to sanctify the whole course of the day, with the psalter distributed across a four-week cycle -- each hour has a distinct place and character, not an interchangeable slot.",
+      "explanation": "Sacrosanctum Concilium 83-89 teaches that the divine office is devised so that the whole course of the day and night is made holy by the praises of God -- each hour has a distinct place and character, not an interchangeable slot.",
       "hint": "Think about literally what time of day each hour is meant to be prayed.",
       "citations": [
         {
@@ -3012,14 +3090,18 @@
       "level": 14,
       "type": "true_false",
       "difficultyElo": 1775,
-      "prompt": "True or False: According to the Catechism, dryness in prayer is a sign that something has gone wrong and prayer should be changed or reduced.",
+      "prompt": "True or False: According to the Catechism, dryness in prayer means that prayer should be reduced or abandoned.",
       "correctAnswer": false,
-      "explanation": "False. Dryness is when the heart is separated from God with no taste for spiritual things — and the Catechism treats it as the moment of faith rather than a malfunction. It is the hour of sheer faith clinging to Jesus in his agony and tomb, which is not a state to be escaped by technique.",
+      "explanation": "False. CCC 2731 describes dryness as the time when the heart is separated from God, with no taste for thoughts, memories, and feelings, even spiritual ones, and calls it 'the moment of sheer faith clinging faithfully to Jesus in his agony and in his tomb.' It adds that if dryness is due to a lack of roots, because the word has fallen on rocky soil, the battle requires conversion. Neither case calls for giving up prayer (CCC 2710).",
       "hint": "Ask what remains when consolation is gone, and whether that is a lesser thing.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2710"
         }
       ]
     },
@@ -3037,7 +3119,7 @@
         },
         {
           "left": "Dryness",
-          "right": "The hour of sheer faith, not a malfunction"
+          "right": "The moment of sheer faith, clinging faithfully to Jesus in his agony and tomb; if it comes from a lack of roots, a call to conversion"
         },
         {
           "left": "Acedia",
@@ -3048,8 +3130,8 @@
           "right": "Met by filial trust, not by concluding God did not hear"
         }
       ],
-      "explanation": "The Catechism treats all four as ordinary rather than exceptional. Someone who has been told prayer should be consoling will read each of these as evidence of personal failure; someone who expects them recognises the terrain.",
-      "hint": "All four are described as normal features of a praying life, not as signs of failure.",
+      "explanation": "CCC 2728-2734 names these as real difficulties of prayer, each with its own remedy. Distraction is met by turning back to the heart; dryness is the moment of sheer faith, or, when it comes from a lack of roots, a call to conversion; acedia arises from lax ascetical practice, decreasing vigilance and carelessness of heart; and discouragement leads the humble to trust more. Someone who expects these difficulties recognises the terrain instead of reading each as proof that prayer has failed.",
+      "hint": "Each is a named difficulty of prayer with its own remedy.",
       "citations": [
         {
           "type": "ccc",
@@ -3089,6 +3171,11 @@
         {
           "type": "ccc",
           "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2710",
+          "quote": "one makes time for the Lord, with the firm determination not to give up, no matter what trials and dryness one may encounter."
         }
       ]
     },
@@ -3106,6 +3193,11 @@
         {
           "type": "ccc",
           "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2710",
+          "quote": "one makes time for the Lord, with the firm determination not to give up, no matter what trials and dryness one may encounter."
         }
       ]
     },
@@ -3220,6 +3312,14 @@
         {
           "type": "ccc",
           "reference": "CCC 2729"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2731"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2710"
         }
       ]
     },
@@ -3355,13 +3455,13 @@
       "difficultyElo": 1925,
       "prompt": "True or False: A monastery continuing to pray the Divine Office's night hour even when no visitors are present reflects the principle, per Sacrosanctum Concilium 84, that the Liturgy of the Hours sanctifies the course of the day itself, not merely serves as a performance for an audience.",
       "correctAnswer": true,
-      "explanation": "SC 84 describes the Liturgy of the Hours as extending the praise and thanksgiving of the Eucharist to sanctify the whole course of the day and night -- its value doesn't depend on an audience witnessing it, since its purpose is consecrating time itself to God, which a monastery continues whether or not anyone else is present.",
+      "explanation": "SC 84 teaches that the divine office is devised so that the whole course of the day and night is made holy by the praises of God, and that, when it is rightly performed in the way the Church appoints, it is the very prayer which Christ himself, together with his body, addresses to the Father. Its purpose is to consecrate time to God, so its value does not depend on an audience witnessing it, and a monastery continues it whether or not anyone else is present.",
       "hint": "The purpose named here is about time being consecrated, not about anyone watching.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 84",
-          "quote": "The divine office is devised so that the whole course of the day and night is made holy by the praises of God."
+          "quote": "the divine office is devised so that the whole course of the day and night is made holy by the praises of God."
         }
       ]
     },
@@ -3466,7 +3566,7 @@
       "difficultyElo": 1925,
       "prompt": "True or False: Praying at fixed times, even when one does not feel like it, is a lesser form of prayer than praying spontaneously when moved.",
       "correctAnswer": false,
-      "explanation": "False. The Catechism urges praying at regular hours precisely because feeling is unreliable, and a life ordered by set times of prayer is how 'pray always' becomes possible for someone with work and children. Spontaneity is good; depending on it alone means praying only when it is easy.",
+      "explanation": "False. The Church invites the faithful to regular prayer (CCC 2720) and proposes daily rhythms of prayer to nourish continual prayer (CCC 2698); and in contemplative prayer one 'makes time for the Lord, with the firm determination not to give up, no matter what trials and dryness one may encounter' (CCC 2710). A life ordered by set times is how 'pray always' becomes possible for someone with work and children. Spontaneity is good; depending on it alone means praying only when it is easy.",
       "hint": "Ask which of the two survives a difficult month.",
       "citations": [
         {
@@ -3475,7 +3575,13 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 2743"
+          "reference": "CCC 2698",
+          "quote": "The Tradition of the Church proposes to the faithful certain rhythms of praying intended to nourish continual prayer."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2720",
+          "quote": "The Church invites the faithful to regular prayer: daily prayers, the Liturgy of the Hours, Sunday Eucharist, the feasts of the liturgical year."
         }
       ]
     },
@@ -3513,6 +3619,24 @@
         },
         {
           "type": "ccc",
+          "reference": "CCC 2736",
+          "quote": "...he awaits our petition because the dignity of his children lies in their freedom."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2739",
+          "quote": "Transformation of the praying heart is the first response to our petition."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2606"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 612"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2731"
         },
         {
@@ -3540,11 +3664,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 1779"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3563,11 +3684,12 @@
       ],
       "correctAnswer": "A brief, daily review noticing where God was present and where one fell short, bringing honest self-awareness into prayer",
       "explanation": "This is exactly what the Examen is -- a brief, daily review noticing where God was present and where one fell short, bringing honest self-awareness into prayer.",
-      "hint": "Recall the brief mention of the Examen as a short daily review.",
+      "hint": "Recall that the Examen is a short daily review of one's day before God, from the Spiritual Exercises of St. Ignatius.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3584,7 +3706,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3607,7 +3730,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3624,7 +3748,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3647,7 +3772,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3664,7 +3790,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3693,12 +3820,13 @@
           "right": "Turns a further spiritual tool into an achievable, daily habit"
         }
       ],
-      "explanation": "These four facts together turn the brief mention of the Examen into an achievable, daily practice.",
+      "explanation": "These four facts together turn the Examen, a practice from the Spiritual Exercises of St. Ignatius of Loyola, into an achievable daily habit.",
       "hint": "Each row gives one practical step for beginning the Examen as a sustainable, daily habit.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3708,20 +3836,21 @@
       "level": 17,
       "type": "multiple_choice",
       "difficultyElo": 2050,
-      "prompt": "What does turning the Examen from a brief mention into an actual, daily habit look like?",
+      "prompt": "What does it look like to turn the Examen from something one has only read about into an actual daily habit?",
       "choices": [
-        "Turning a brief mention into an achievable, further daily habit, not leaving it as a passing reference",
+        "Making it a short, achievable practice done each day, not leaving it only as an idea",
         "Assuming the Examen should never be practiced as a genuine, daily habit",
         "Replacing the content with an entirely unrelated practice",
         "Assuming the Examen requires no honest self-awareness at all"
       ],
-      "correctAnswer": "Turning a brief mention into an achievable, further daily habit, not leaving it as a passing reference",
-      "explanation": "The habit -- turning a brief mention into an achievable daily habit -- is a reliable way to make the Examen part of daily life.",
-      "hint": "Consider what it means to turn a brief mention into an achievable, daily habit.",
+      "correctAnswer": "Making it a short, achievable practice done each day, not leaving it only as an idea",
+      "explanation": "Making the Examen, a practice from the Spiritual Exercises of St. Ignatius of Loyola, a short, achievable daily practice is a reliable way to make it part of daily life.",
+      "hint": "Consider what it means to turn an idea about prayer into an achievable daily habit.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
         }
       ]
     },
@@ -3731,21 +3860,31 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "Per CCC 2664-2672, the Church addresses prayer to each Person of the Trinity in a specific way rather than interchangeably. To whom is Christian prayer, in its most proper Trinitarian structure, typically addressed, and through whom?",
+      "prompt": "Per CCC 2664-2672, Christian prayer is addressed above all to the Father, although the Church also prays directly to the Son and to the Holy Spirit. In its most characteristic Trinitarian structure, to whom is Christian prayer addressed, through whom, and in whom?",
       "choices": [
         "To the Father, through the Son, in the Holy Spirit",
         "To the Holy Spirit alone, bypassing the Father and Son",
         "To the Son alone, since only he became incarnate",
-        "Equally and interchangeably to whichever Person feels most fitting in the moment"
+        "Only to the Father; the Church never addresses prayer directly to the Son or to the Holy Spirit"
       ],
       "correctAnswer": "To the Father, through the Son, in the Holy Spirit",
-      "explanation": "CCC 2664 describes the Church's characteristic pattern of prayer as addressed to the Father, through Christ the mediator, in the power of the Holy Spirit -- a Trinitarian structure reflecting each Person's distinct role, not an arbitrary or interchangeable choice among three equally undifferentiated addressees.",
+      "explanation": "CCC 2665 says the Church's prayer 'is addressed above all to the Father'; CCC 2664 says it 'has access to the Father only if we pray \"in the name\" of Jesus'; and CCC 2672 calls the Holy Spirit 'the interior Master of Christian prayer.' So the characteristic pattern is to the Father, through the Son, in the Holy Spirit. This is not exclusive: the Church also prays directly to Christ (CCC 2665) and to the Holy Spirit (CCC 2670-2671).",
       "hint": "This is the same structure found at the end of most liturgical prayers ('through Christ our Lord...').",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2664",
           "quote": "...it has access to the Father only if we pray \"in the name\" of Jesus."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2665",
+          "quote": "...her prayer is addressed above all to the Father..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2672",
+          "quote": "...is the interior Master of Christian prayer."
         }
       ]
     },
@@ -3768,6 +3907,16 @@
       "citations": [
         {
           "type": "ccc",
+          "reference": "CCC 2675",
+          "quote": "...the first \"magnifies\" the Lord for the \"great things\" he did for his lowly servant..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2676",
+          "quote": "This twofold movement of prayer to Mary has found a privileged expression in the Ave Maria"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 2677"
         }
       ]
@@ -3778,7 +3927,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "CCC 2709 and 2717 distinguish kataphatic (image-using, imaginative) prayer from apophatic (imageless) prayer. A prayer practice that meditates on a Gospel scene, picturing its sights and sounds in the imagination, is best classified as which?",
+      "prompt": "In spiritual theology, prayer that uses images and imagination is called kataphatic, and prayer that moves beyond images and concepts is called apophatic (the Catechism does not use these terms, though CCC 2708 says meditation engages thought, imagination, emotion, and desire). A practice that meditates on a Gospel scene, picturing its sights and sounds in the imagination, is best classified as which?",
       "choices": [
         "Kataphatic",
         "Apophatic",
@@ -3786,13 +3935,13 @@
         "Both equally, since the two terms are interchangeable"
       ],
       "correctAnswer": "Kataphatic",
-      "explanation": "Kataphatic prayer actively uses images, imagination, and concepts -- picturing a Gospel scene is a classic kataphatic approach, contrasted with apophatic prayer's movement beyond images and concepts toward a more direct, wordless resting in God's presence. Both are legitimate, complementary approaches within the Church's prayer tradition.",
+      "explanation": "Kataphatic prayer uses images, imagination, and concepts. Picturing a Gospel scene is a classic example, and the Catechism says that meditation 'engages thought, imagination, emotion, and desire' (CCC 2708). Apophatic prayer, by contrast, goes beyond images and concepts. Neither term appears in the Catechism.",
       "hint": "This term comes from the Greek for 'affirmative' or 'image-using,' as opposed to 'without images.'",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2699",
-          "quote": "However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative."
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire."
         }
       ]
     },
@@ -3816,7 +3965,7 @@
         {
           "type": "ccc",
           "reference": "CCC 2683",
-          "quote": "...share in the living tradition of prayer by the example of their lives, the transmission of their writings, and their prayer today."
+          "quote": "We can and should ask them to intercede for us and for the whole world."
         }
       ]
     },
@@ -3826,7 +3975,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "CCC 2685-2696 names several 'guides for prayer,' including the family, ordained ministers, religious life, and spiritual direction. Which of these is described as prayer's 'first school'?",
+      "prompt": "CCC 2683-2690 names several 'guides for prayer,' including the family, ordained ministers, religious life, and spiritual direction. Which of these does CCC 2685 call 'the first place of education in prayer'?",
       "choices": [
         "The Christian family",
         "A monastery",
@@ -3834,13 +3983,13 @@
         "A retreat center"
       ],
       "correctAnswer": "The Christian family",
-      "explanation": "CCC 2685 describes the Christian family as the 'domestic church' and the 'first school of prayer,' where children first learn to pray by seeing and joining their parents at prayer -- before any more formal guide (a priest, religious community, or spiritual director) enters the picture.",
-      "hint": "This 'school' has no classroom or formal curriculum -- it's simply where prayer is first modeled and learned.",
+      "explanation": "CCC 2685: 'The Christian family is the first place of education in prayer.' Based on the sacrament of marriage, the family is the 'domestic church' where God's children learn to pray 'as the Church' and to persevere in prayer, before any more formal guide (a priest, religious community, or spiritual director) enters the picture.",
+      "hint": "Ask which guide a child meets before any institution does.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "quote": "The Christian family is the first place of education in prayer."
         }
       ]
     },
@@ -3850,7 +3999,7 @@
       "level": 18,
       "type": "matching_pairs",
       "difficultyElo": 2165,
-      "prompt": "Match each item to what CCC 2663-2696 teaches about it.",
+      "prompt": "Match each item to the right description.",
       "pairs": [
         {
           "left": "Prayer's Trinitarian structure",
@@ -3869,13 +4018,18 @@
           "right": "Two forms answering the same need, shared inheritance rather than competing traditions"
         }
       ],
-      "explanation": "CCC 2667 itself frames the Jesus Prayer as part of the Church's shared inheritance, not an exotic Eastern alternative to 'normal' Western prayer -- methods are compared here without ranking one as more authentically Catholic than another.",
+      "explanation": "CCC 2667 says the simple invocation of the name of Jesus 'developed in the tradition of prayer under many forms in East and West', its most usual formulation being the Jesus Prayer, so it is a shared inheritance of East and West and not only an Eastern practice. 'Kataphatic' is a term of spiritual theology, not of the Catechism, which notes that meditation 'engages thought, imagination, emotion, and desire' (CCC 2708).",
       "hint": "The last pairing is explicit about not treating East and West as competing options.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2667",
-          "quote": "It combines the Christological hymn of Philippians 2:6-11 with the cry of the publican and the blind men begging for light."
+          "quote": "This simple invocation of faith developed in the tradition of prayer under many forms in East and West."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire."
         }
       ]
     },
@@ -3918,7 +4072,7 @@
       "difficultyElo": 2075,
       "prompt": "True or False: Prayer addressed to the Holy Spirit is unusual in the tradition, since prayer is normally offered to the Father through the Son.",
       "correctAnswer": false,
-      "explanation": "False. The ordinary movement of liturgical prayer is to the Father through the Son in the Spirit, but the Church also prays to the Spirit directly — Veni Creator, Veni Sancte Spiritus — and the Catechism treats invoking him as the simplest and most direct way to enter prayer at all.",
+      "explanation": "False. The ordinary movement of liturgical prayer is to the Father through the Son in the Spirit, but the Church also prays to the Spirit directly. CCC 2670 says the Church invites us to call upon the Holy Spirit every day, and CCC 2671 calls 'Come, Holy Spirit' the simplest and most direct prayer to him, one that every liturgical tradition has developed in antiphons and hymns. Veni Creator and Veni Sancte Spiritus are examples of prayer addressed directly to the Spirit.",
       "hint": "Recall two hymns sung at Pentecost and at confirmations.",
       "citations": [
         {
@@ -3939,22 +4093,34 @@
       "difficultyElo": 2125,
       "prompt": "What is the danger in treating apophatic prayer as simply superior to kataphatic prayer?",
       "choices": [
-        "It mistakes a difference of mode for a scale of value, and can lead someone to abandon images before they are actually being drawn beyond them",
+        "It can lead someone to abandon images, and meditation on Christ, before they are actually being drawn beyond them",
         "Apophatic prayer is forbidden",
         "Kataphatic prayer is only for beginners",
         "Images are always obstacles to God"
       ],
-      "correctAnswer": "It mistakes a difference of mode for a scale of value, and can lead someone to abandon images before they are actually being drawn beyond them",
-      "explanation": "The Incarnation makes imageless prayer a strange thing to treat as automatically higher; God gave himself an image. Emptying the mind on purpose because one has read that the advanced do so is a technique, and the whole point of apophatic prayer is that it is not one.",
+      "correctAnswer": "It can lead someone to abandon images, and meditation on Christ, before they are actually being drawn beyond them",
+      "explanation": "Meditation 'engages thought, imagination, emotion, and desire' and is 'of great value' (CCC 2708), and contemplation is 'a gaze of faith, fixed on Jesus' (CCC 2715). A method 'is only a guide' (CCC 2707), and contemplation 'is a gift, a grace' (CCC 2713), so it cannot be produced by deliberately emptying the mind. Someone who drops images and meditation on Christ because imageless prayer is supposedly more advanced may leave behind the very one on whom Christian prayer is fixed, the Lord Jesus.",
       "hint": "Ask whether God's own self-revelation was imageless.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2707",
+          "quote": "...a method is only a guide; the important thing is to advance, with the Holy Spirit, along the one way of prayer: Christ Jesus."
         },
         {
           "type": "ccc",
-          "reference": "CCC 2717"
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2713",
+          "quote": "It is a gift, a grace; it can be accepted only in humility and poverty."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2715",
+          "quote": "Contemplation is a gaze of faith, fixed on Jesus."
         }
       ]
     },
@@ -3976,14 +4142,14 @@
         },
         {
           "left": "Consecrated life",
-          "right": "A form of life ordered wholly toward contemplation"
+          "right": "Many give their whole lives to prayer, and it is one of the living sources of contemplation in the Church"
         },
         {
           "left": "A spiritual director",
           "right": "Personal accompaniment in discernment"
         }
       ],
-      "explanation": "The first is easy to overlook and hardest to substitute for. The Catechism calls the family the domestic church and the first school of prayer - nothing later fully replaces watching adults pray.",
+      "explanation": "The first is easy to overlook and hardest to substitute for. The Catechism calls the family the 'domestic church' and 'the first place of education in prayer' (CCC 2685); nothing later fully replaces watching adults pray.",
       "hint": "One of these comes before any institution and is the hardest to replace.",
       "citations": [
         {
@@ -4023,7 +4189,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2707",
+          "quote": "...a method is only a guide; the important thing is to advance, with the Holy Spirit, along the one way of prayer: Christ Jesus."
         }
       ]
     },
@@ -4040,7 +4207,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2707",
+          "quote": "...a method is only a guide; the important thing is to advance, with the Holy Spirit, along the one way of prayer: Christ Jesus."
         }
       ]
     },
@@ -4063,7 +4231,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire."
         }
       ]
     },
@@ -4080,7 +4249,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire."
         }
       ]
     },
@@ -4092,15 +4262,20 @@
       "difficultyElo": 2200,
       "prompt": "In practical terms, what would trying apophatic prayer today look like?",
       "choices": [
-        "Sitting quietly, without forming any mental image, resting in God's presence beyond images and concepts",
+        "Sitting quietly and silently, without forming mental images, resting in God's presence beyond images and concepts, with attention fixed on the Lord himself",
         "Forming as many vivid, mental images as genuinely possible, in rapid succession",
         "Apophatic prayer requires reciting a lengthy, memorized formula out loud",
         "Apophatic prayer has no practical, describable content of any kind"
       ],
-      "correctAnswer": "Sitting quietly, without forming any mental image, resting in God's presence beyond images and concepts",
-      "explanation": "This is a concrete, practical example of apophatic, imageless prayer -- sitting quietly, resting in God's presence beyond images and concepts, as opposed to kataphatic prayer's own image-using approach.",
+      "correctAnswer": "Sitting quietly and silently, without forming mental images, resting in God's presence beyond images and concepts, with attention fixed on the Lord himself",
+      "explanation": "This is a concrete, practical example of apophatic, imageless prayer: sitting quietly and silently, resting in God's presence beyond images and concepts, as opposed to the image-using approach of kataphatic prayer. The Catechism does not use these terms, but it says that in contemplative prayer 'our attention is fixed on the Lord himself' (CCC 2709) and calls contemplative prayer silence (CCC 2717).",
       "hint": "Recall the real distinction between image-using and imageless prayer.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "In this inner prayer we can still meditate, but our attention is fixed on the Lord himself."
+        },
         {
           "type": "ccc",
           "reference": "CCC 2717"
@@ -4113,11 +4288,16 @@
       "level": 19,
       "type": "true_false",
       "difficultyElo": 2150,
-      "prompt": "True or False: Sitting quietly without deliberately forming any mental image, resting in God's presence beyond images, is a real, practical example of apophatic prayer.",
+      "prompt": "True or False: Sitting quietly without deliberately forming any mental image, resting in God's presence beyond images with attention fixed on the Lord himself, is a real, practical example of apophatic prayer.",
       "correctAnswer": true,
       "explanation": "True, and this concrete example matters -- resting quietly beyond images is exactly apophatic prayer's own imageless character in practice.",
       "hint": "Recall the concrete example of apophatic prayer in practice.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "In this inner prayer we can still meditate, but our attention is fixed on the Lord himself."
+        },
         {
           "type": "ccc",
           "reference": "CCC 2717"
@@ -4142,7 +4322,7 @@
         },
         {
           "left": "Trying apophatic prayer today",
-          "right": "Sitting quietly, resting in God's presence beyond images and concepts"
+          "right": "Sitting quietly, resting in God's presence beyond images and concepts, with attention fixed on the Lord himself"
         },
         {
           "left": "Why the approach matters",
@@ -4154,7 +4334,18 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2707",
+          "quote": "...a method is only a guide; the important thing is to advance, with the Holy Spirit, along the one way of prayer: Christ Jesus."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2708",
+          "quote": "Meditation engages thought, imagination, emotion, and desire."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "In this inner prayer we can still meditate, but our attention is fixed on the Lord himself."
         }
       ]
     },
@@ -4177,7 +4368,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2709"
+          "reference": "CCC 2707",
+          "quote": "...a method is only a guide; the important thing is to advance, with the Holy Spirit, along the one way of prayer: Christ Jesus."
         }
       ]
     },
@@ -4200,8 +4392,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2699",
-          "quote": "However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative."
+          "reference": "CCC 2684",
+          "quote": "...the different schools of Christian spirituality share in the living tradition of prayer and are essential guides for the faithful."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2709",
+          "quote": "...it means taking time frequently to be alone with him who we know loves us."
         }
       ],
       "tags": [
@@ -4255,7 +4452,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2690"
+          "reference": "CCC 1779",
+          "quote": "...life often distracts us from any reflection, self-examination or introspection..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2684",
+          "quote": "...the different schools of Christian spirituality share in the living tradition of prayer and are essential guides for the faithful."
         }
       ],
       "tags": [
@@ -4380,9 +4583,9 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: Thérèse of Lisieux's 'Little Way' proposes an easier path than the Carmelite mysticism of Teresa of Ávila and John of the Cross.",
+      "prompt": "True or False: Thérèse of Lisieux's 'Little Way' lowers what the Gospel asks of us, in comparison with the Carmelite mysticism of Teresa of Ávila and John of the Cross.",
       "correctAnswer": false,
-      "explanation": "False. It is not a reduction of the demand but a relocation of it: since she could not perform great deeds, she would do small ones with complete love, and would let herself be carried rather than climb. Confidence in mercy replaces achievement — which is harder for most people than heroic effort, not easier.",
+      "explanation": "False. The Little Way does not lower what is asked, which is love without reserve; it changes the means. Since she could not perform great deeds, Thérèse, herself a Carmelite, did small things with great love and relied on confidence in God's mercy, picturing Jesus' arms as an elevator that would carry her rather than stairs she must climb.",
       "hint": "Ask whether accepting that you cannot climb is a lower standard or a different one.",
       "citations": [
         {
@@ -4418,7 +4621,7 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 2712"
+          "reference": "CCC 2690"
         }
       ]
     },
@@ -4483,7 +4686,7 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 1806"
+          "reference": "CCC 2693"
         }
       ]
     },
@@ -4511,6 +4714,10 @@
         {
           "type": "ccc",
           "reference": "CCC 2847"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2693"
         }
       ]
     },
@@ -4592,8 +4799,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "reference": "CCC 2013",
+          "quote": "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity."
         }
       ]
     },
@@ -4610,8 +4817,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "reference": "CCC 2013",
+          "quote": "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity."
         }
       ]
     },
@@ -4676,8 +4883,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "reference": "CCC 2013",
+          "quote": "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity."
         }
       ]
     },
@@ -4694,8 +4901,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "reference": "CCC 2013",
+          "quote": "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity."
         }
       ]
     },
@@ -4729,8 +4936,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "reference": "CCC 2013",
+          "quote": "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2685"
         }
       ]
     },
@@ -4753,8 +4964,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2685",
-          "quote": "...the \"domestic church\" where God's children learn to pray \"as the Church\" and to persevere in prayer."
+          "reference": "CCC 2013",
+          "quote": "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity."
         }
       ]
     },
@@ -4777,7 +4988,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2705"
+          "reference": "CCC 2654",
+          "quote": "Seek in reading and you will find in meditating; knock in mental prayer and it will be opened to you by contemplation."
         }
       ]
     },
@@ -4819,8 +5031,8 @@
         "A formal liturgical setting, without which meditation cannot occur"
       ],
       "correctAnswer": "A movement from discursive analysis toward oratio -- a personal response of the heart to God, not just intellectual analysis of the text",
-      "explanation": "Discursive analysis of a text's meaning is real and valuable (the meditatio movement), but Guigo II's traditional structure moves from there into oratio -- a personal response of prayer to God arising from that reflection. Analysis alone, without ever turning to address God personally, stops short of that next movement.",
-      "hint": "Look back to Guigo II's four movements -- this meditation only completes the second of four steps.",
+      "explanation": "Analyzing a text's history and grammar is study of the text, which belongs to the reading and reflecting that begin lectio divina. Guigo II's ladder does not stop there: it moves on to oratio, a personal response of the heart to God. The Catechism likewise says that meditation engages thought, imagination, emotion, and desire (CCC 2708).",
+      "hint": "In Guigo II's four movements, this exercise covers at most the first two; look for what comes next.",
       "citations": [
         {
           "type": "ccc",
@@ -4842,7 +5054,7 @@
         {
           "type": "ccc",
           "reference": "CCC 2699",
-          "quote": "However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative."
+          "quote": "The Lord leads all persons by paths and in ways pleasing to him"
         }
       ]
     },
@@ -4900,7 +5112,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2705"
+          "reference": "CCC 2654",
+          "quote": "Seek in reading and you will find in meditating; knock in mental prayer and it will be opened to you by contemplation."
         }
       ]
     },
@@ -4918,7 +5131,7 @@
         "By whether the person still attends Mass"
       ],
       "correctAnswer": "Not alone — the tradition assumes a director, and the distinction has practical consequences, since one calls for perseverance and the other for treatment",
-      "explanation": "This matters a great deal. Reading depression as a spiritual purification can keep someone from care they need; reading purification as pathology can medicate away something God is doing. The classic signs John gives are real but they are not self-administered, and the Church's own respect for medicine applies here.",
+      "explanation": "This matters a great deal. Reading depression as a spiritual purification can keep someone from care they need, and treating a spiritual trial as only a medical problem can miss its spiritual side. The classic signs John gives are real but they are not self-administered, and the Church's care for the sick (CCC 1503) applies here.",
       "hint": "Notice that both wrong readings cause harm, in opposite directions.",
       "citations": [
         {
@@ -4939,7 +5152,7 @@
       "difficultyElo": 2375,
       "prompt": "True or False: Since infused contemplation cannot be produced by any method, a person's own effort in prayer is ultimately irrelevant.",
       "correctAnswer": false,
-      "explanation": "False, and this is the hinge of the subject. What is given cannot be earned, and disposing oneself is still real work - fidelity when nothing is felt, silence kept, the heart purified. The tradition holds both without resolving the tension: God gives freely, and he ordinarily gives to those who kept showing up.",
+      "explanation": "False, and this is the hinge of the subject. Contemplative prayer is a gift that cannot be earned (CCC 2713), yet prayer is also a determined response on our part and always presupposes effort (CCC 2725): fidelity when nothing is felt, silence kept, the heart purified.",
       "hint": "The tradition holds two things here that sound as though only one can be true.",
       "citations": [
         {
@@ -5027,7 +5240,7 @@
       "level": 23,
       "type": "multiple_choice",
       "difficultyElo": 2500,
-      "prompt": "Lectio divina, the dark night, and infused contemplation are stages no technique can produce. Considering every habit, precise term, and spiritual master, what is the final measure of a genuinely good prayer life?",
+      "prompt": "The dark night and infused contemplation are God's work in the soul, not something any technique can produce. Considering every habit, precise term, and spiritual master, what is the final measure of a genuinely good prayer life?",
       "choices": [
         "Faithful relationship, sustained over a whole lifetime -- not any single mastered technique or any particular mystical stage reached",
         "The only measure of a good prayer life is reaching infused contemplation as quickly as possible",
@@ -5080,8 +5293,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2744",
-          "quote": "Prayer is a vital necessity."
+          "reference": "CCC 2564"
         }
       ]
     },
@@ -5091,10 +5303,10 @@
       "level": 23,
       "type": "true_false",
       "difficultyElo": 2450,
-      "prompt": "True or False: The Catechism's teaching that prayer is a vital necessity names the same thread that ties the whole life of prayer together.",
+      "prompt": "True or False: The Catechism teaches that prayer is a vital necessity.",
       "correctAnswer": true,
-      "explanation": "True -- 'vital necessity' names the same thread of ongoing, faithful relationship that every part of prayer continues to practice.",
-      "hint": "Recall the Catechism's teaching on prayer as a vital necessity.",
+      "explanation": "True. CCC 2744 says that prayer is a vital necessity: if we do not allow the Spirit to lead us, we fall back into the slavery of sin.",
+      "hint": "Recall CCC 2744.",
       "citations": [
         {
           "type": "ccc",
@@ -5149,28 +5361,32 @@
       "level": 23,
       "type": "matching_pairs",
       "difficultyElo": 2540,
-      "prompt": "Match each fact about the final measure of a prayer life to what it means.",
+      "prompt": "Match each statement about prayer to what it means.",
       "pairs": [
         {
-          "left": "The final measure of a prayer life",
-          "right": "Real, faithful relationship sustained over a lifetime, not a mastered technique"
+          "left": "Christian prayer, as defined in CCC 2564",
+          "right": "A covenant relationship between God and man in Christ"
         },
         {
-          "left": "The single thread through the life of prayer",
-          "right": "Prayer as an ongoing, faithful relationship, never simply finished"
+          "left": "A mastered technique",
+          "right": "Not the final measure of a good prayer life"
         },
         {
-          "left": "\"A vital necessity\"",
-          "right": "Names the same thread of faithful relationship at the root of prayer"
+          "left": "\"A vital necessity\" (CCC 2744)",
+          "right": "Without the Spirit's leading, we fall back into the slavery of sin"
         },
         {
-          "left": "What should govern tomorrow's prayer",
+          "left": "What to do tomorrow",
           "right": "Keep showing up, in weakness and dryness as much as consolation"
         }
       ],
-      "explanation": "These four facts together give the integrating word -- every habit, every precise term, and every spiritual master serves faithful relationship.",
+      "explanation": "Prayer is a covenant relationship between God and man in Christ (CCC 2564), so its measure is faithful relationship rather than technique, and it is a vital necessity (CCC 2744).",
       "hint": "Each row names one step in the concluding, integrating answer.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2564"
+        },
         {
           "type": "ccc",
           "reference": "CCC 2744",
@@ -5191,8 +5407,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2744",
-          "quote": "Prayer is a vital necessity."
+          "reference": "CCC 2564"
         }
       ]
     },
@@ -5215,8 +5430,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2744",
-          "quote": "Prayer is a vital necessity."
+          "reference": "CCC 2564"
         }
       ]
     },
