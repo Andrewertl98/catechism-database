@@ -15,7 +15,7 @@
               "answer": "Baptism",
               "acceptedAnswers": ["What is Baptism", "the sacrament of Baptism"],
               "explanation": "Baptism regenerates the person as a child of God and cannot be repeated.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1213" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1213" }, { "type": "ccc", "reference": "CCC 1272" }]
             },
             {
               "value": 400,
@@ -31,7 +31,7 @@
               "answer": "Reconciliation",
               "acceptedAnswers": ["What is Reconciliation", "Confession", "Penance", "the sacrament of Penance", "the sacrament of Reconciliation"],
               "explanation": "Through the priest's absolution God grants pardon and peace to the contrite sinner.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1422" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1422" }, { "type": "ccc", "reference": "CCC 1446" }, { "type": "ccc", "reference": "CCC 1449" }]
             }
           ]
         },
@@ -43,8 +43,8 @@
               "clue": "God set a rainbow in the sky as the sign of His covenant with this man after the flood.",
               "answer": "Noah",
               "acceptedAnswers": ["Who is Noah"],
-              "explanation": "The covenant with Noah remains in force as long as the world lasts, embracing all living creatures.",
-              "citations": [{ "type": "scripture", "reference": "Genesis 9:12-13" }]
+              "explanation": "God's covenant with Noah embraces every living creature, and the Catechism teaches that it remains in force during the times of the Gentiles, until the universal proclamation of the Gospel.",
+              "citations": [{ "type": "scripture", "reference": "Genesis 9:12-13" }, { "type": "ccc", "reference": "CCC 58" }]
             },
             {
               "value": 400,
@@ -52,7 +52,7 @@
               "answer": "Sinai",
               "acceptedAnswers": ["What is Sinai", "Mount Sinai", "Mt. Sinai", "Horeb"],
               "explanation": "The Sinai covenant made Israel a priestly people belonging to God.",
-              "citations": [{ "type": "ccc", "reference": "CCC 2060" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 2060" }, { "type": "scripture", "reference": "Exodus 24:8" }, { "type": "scripture", "reference": "Exodus 19:6" }]
             },
             {
               "value": 600,
@@ -118,7 +118,7 @@
               "answer": "the Psalms",
               "acceptedAnswers": ["What are the Psalms", "Psalms", "the Book of Psalms", "the Psalter"],
               "explanation": "The Psalms are the masterwork of prayer in the Old Testament and remain the Church's own.",
-              "citations": [{ "type": "ccc", "reference": "CCC 2585" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 2585" }, { "type": "ccc", "reference": "CCC 2586" }, { "type": "ccc", "reference": "CCC 1174" }, { "type": "ccc", "reference": "CCC 1177" }]
             }
           ]
         }
@@ -136,7 +136,7 @@
               "clue": "This bishop of Hippo wrote the Confessions and The City of God.",
               "answer": "Augustine",
               "acceptedAnswers": ["Who is Augustine", "St. Augustine", "Augustine of Hippo"],
-              "explanation": "Augustine is among the most influential of the Western Fathers and Doctors of the Church.",
+              "explanation": "The Catechism quotes Augustine's Confessions: \"our heart is restless until it rests in you.\"",
               "citations": [{ "type": "ccc", "reference": "CCC 30" }]
             },
             {
@@ -224,7 +224,7 @@
               "answer": "hell",
               "acceptedAnswers": ["What is hell"],
               "explanation": "Hell is the state of definitive self-exclusion from communion with God.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1035" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1033" }, { "type": "ccc", "reference": "CCC 1035" }]
             },
             {
               "value": 400,
@@ -232,7 +232,7 @@
               "answer": "purgatory",
               "acceptedAnswers": ["What is purgatory"],
               "explanation": "The purification of purgatory is entirely different from the punishment of the damned.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1030" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1030" }, { "type": "ccc", "reference": "CCC 1031" }]
             },
             {
               "value": 600,
@@ -240,7 +240,7 @@
               "answer": "the Last Judgment",
               "acceptedAnswers": ["What is the Last Judgment", "the General Judgment", "the Final Judgment", "the Last Judgement"],
               "explanation": "The Last Judgment reveals the ultimate meaning of the whole work of creation and salvation.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1038" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1038" }, { "type": "ccc", "reference": "CCC 1040" }]
             }
           ]
         }
@@ -325,7 +325,7 @@
               "answer": "seven",
               "acceptedAnswers": ["What is seven", "7", "seven sacraments"],
               "explanation": "The seven sacraments touch all the stages and important moments of Christian life.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1113" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1113" }, { "type": "ccc", "reference": "CCC 1114" }, { "type": "council", "reference": "Council of Trent (1545-1563)" }]
             },
             {
               "value": 600,
@@ -354,7 +354,7 @@
               "answer": "all nations",
               "acceptedAnswers": ["What are all nations", "the whole human race", "all peoples", "the whole world"],
               "explanation": "Catholicity means the Church carries the whole faith to the whole world.",
-              "citations": [{ "type": "ccc", "reference": "CCC 831" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 830" }, { "type": "ccc", "reference": "CCC 831" }]
             },
             {
               "value": 600,
@@ -468,7 +468,7 @@
               "answer": "Sacred Tradition",
               "acceptedAnswers": ["What is Sacred Tradition", "Tradition", "Apostolic Tradition"],
               "explanation": "Scripture and Tradition are to be accepted and honored with equal devotion and reverence.",
-              "citations": [{ "type": "ccc", "reference": "CCC 97" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 97" }, { "type": "ccc", "reference": "CCC 80" }, { "type": "ccc", "reference": "CCC 82" }]
             },
             {
               "value": 400,
@@ -503,7 +503,7 @@
               "answer": "Peter",
               "acceptedAnswers": ["Who is Peter", "St. Peter", "Simon Peter"],
               "explanation": "On Peter and his successors Christ builds and governs His Church.",
-              "citations": [{ "type": "ccc", "reference": "CCC 552" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 552" }, { "type": "ccc", "reference": "CCC 881" }, { "type": "ccc", "reference": "CCC 882" }]
             },
             {
               "value": 400,
@@ -511,7 +511,7 @@
               "answer": "Thomas",
               "acceptedAnswers": ["Who is Thomas", "St. Thomas", "Thomas the Apostle", "Doubting Thomas"],
               "explanation": "Thomas's confession is one of Scripture's clearest professions of Christ's divinity.",
-              "citations": [{ "type": "ccc", "reference": "CCC 644" }]
+              "citations": [{ "type": "scripture", "reference": "John 20:28" }, { "type": "ccc", "reference": "CCC 448" }]
             },
             {
               "value": 600,
@@ -532,7 +532,7 @@
               "answer": "Stephen",
               "acceptedAnswers": ["Who is Stephen", "St. Stephen"],
               "explanation": "Stephen's death, forgiving his persecutors, echoes Christ's own.",
-              "citations": [{ "type": "ccc", "reference": "CCC 2635" }]
+              "citations": [{ "type": "scripture", "reference": "Acts 7:58-59" }, { "type": "ccc", "reference": "CCC 2635" }]
             },
             {
               "value": 400,
@@ -547,8 +547,8 @@
               "clue": "This English Lord Chancellor was beheaded for refusing to accept the king as head of the Church.",
               "answer": "Thomas More",
               "acceptedAnswers": ["Who is Thomas More", "St. Thomas More", "More"],
-              "explanation": "More died 'the king's good servant, but God's first,' witnessing to conscience bound by truth.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1816" }]
+              "explanation": "More went to his death rather than act against his conscience, a witness John Paul II holds up to the primacy of truth over power.",
+              "citations": [{ "type": "magisterial_document", "reference": "John Paul II, Apostolic Letter E sancti Thomae Mori (31 October 2000)" }, { "type": "ccc", "reference": "CCC 2242" }]
             }
           ]
         },
@@ -560,7 +560,7 @@
               "clue": "This bishop of Hippo, converted after a wayward youth, wrote the Confessions.",
               "answer": "Augustine",
               "acceptedAnswers": ["Who is Augustine", "St. Augustine", "Augustine of Hippo"],
-              "explanation": "Augustine's restless-heart prayer opens the Catechism's treatment of prayer.",
+              "explanation": "Augustine's words, 'you have made us for yourself, and our heart is restless until it rests in you,' are quoted in the Catechism's teaching on man's search for God.",
               "citations": [{ "type": "ccc", "reference": "CCC 30" }]
             },
             {
@@ -597,7 +597,7 @@
               "clue": "Wounded by a cannonball, this soldier founded the Society of Jesus and wrote the Spiritual Exercises.",
               "answer": "Ignatius of Loyola",
               "acceptedAnswers": ["Who is Ignatius of Loyola", "St. Ignatius of Loyola", "Ignatius Loyola"],
-              "explanation": "Ignatius turned a soldier's discipline toward the greater glory of God.",
+              "explanation": "The Catechism draws on Ignatius's Spiritual Exercises for its rule of interpreting a neighbor's words and deeds in a favorable way.",
               "citations": [{ "type": "ccc", "reference": "CCC 2478" }]
             },
             {
@@ -654,7 +654,7 @@
               "answer": "theological virtues",
               "acceptedAnswers": ["What are theological virtues", "the theological virtues"],
               "explanation": "The theological virtues are infused by God and dispose us to live in relationship with the Trinity.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1813" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1812" }, { "type": "ccc", "reference": "CCC 1813" }]
             },
             {
               "value": 400,
@@ -670,7 +670,7 @@
               "answer": "charity",
               "acceptedAnswers": ["What is charity", "love", "charity (love)"],
               "explanation": "Charity binds everything together in perfect harmony; without it, nothing profits.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1826" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1826" }, { "type": "ccc", "reference": "CCC 1827" }]
             }
           ]
         },
@@ -683,7 +683,7 @@
               "answer": "deliberate consent",
               "acceptedAnswers": ["What is deliberate consent", "full consent", "full consent of the will", "complete consent"],
               "explanation": "Mortal sin destroys charity in the heart and turns a person away from God.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1857" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1857" }, { "type": "ccc", "reference": "CCC 1855" }]
             },
             {
               "value": 400,
@@ -691,7 +691,7 @@
               "answer": "sanctifying grace",
               "acceptedAnswers": ["What is sanctifying grace", "habitual grace"],
               "explanation": "Sanctifying grace is a stable disposition, God's own life dwelling in the soul.",
-              "citations": [{ "type": "ccc", "reference": "CCC 2000" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 2000" }, { "type": "ccc", "reference": "CCC 1999" }, { "type": "ccc", "reference": "CCC 2024" }]
             },
             {
               "value": 600,
@@ -699,7 +699,7 @@
               "answer": "Penance",
               "acceptedAnswers": ["What is Penance", "Reconciliation", "Confession", "the sacrament of Penance", "the sacrament of Reconciliation"],
               "explanation": "Through the priest's absolution God grants pardon and peace.",
-              "citations": [{ "type": "ccc", "reference": "CCC 1491" }]
+              "citations": [{ "type": "ccc", "reference": "CCC 1448" }, { "type": "ccc", "reference": "CCC 1449" }, { "type": "ccc", "reference": "CCC 1491" }]
             }
           ]
         },
