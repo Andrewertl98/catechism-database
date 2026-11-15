@@ -715,7 +715,7 @@
       "pairs": [
         {
           "left": "St. Jerome",
-          "right": "Translated the Bible into Latin, called the Vulgate"
+          "right": "Chief translator of the Latin Bible known as the Vulgate"
         },
         {
           "left": "St. Augustine",
@@ -723,7 +723,7 @@
         },
         {
           "left": "St. Ignatius of Antioch",
-          "right": "Bishop martyred in Rome who first wrote of the 'Catholic Church'"
+          "right": "Bishop martyred in Rome whose letters contain the earliest surviving use of 'Catholic Church'"
         },
         {
           "left": "St. Polycarp of Smyrna",
@@ -731,12 +731,12 @@
         }
       ],
       "explanation": "The Council of Trent later confirmed Jerome's Vulgate as the Church's authentic Latin text of Scripture, while Ignatius and Polycarp stand among the earliest martyrs and Augustine among its most influential theologians.",
-      "hint": "One translated the Bible into Latin; two others died as martyrs.",
+      "hint": "One is remembered chiefly for the Latin Vulgate; two others died as martyrs.",
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "... receives and venerates with an equal affection of piety, and reverence, all the books both of the Old and of the New Testament... as also the said traditions..."
+          "reference": "Council of Trent, Session 4 (1546), Decree concerning the edition, and the use, of the sacred books",
+          "quote": "... the said old and vulgate edition, which, by the lengthened usage of so many years, has been approved of in the Church, be, in public lectures, disputations, sermons and expositions, held as authentic..."
         },
         {
           "type": "ccc",
@@ -883,7 +883,7 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1180,
-      "prompt": "St. Ignatius of Antioch, who coined the earliest surviving use of the word 'Catholic,' wrote, 'Wherever the bishop shall appear, there let the multitude also be; even as, wherever Jesus Christ is, there is the Catholic Church.' What present-day practice does this ancient line connect to directly?",
+      "prompt": "St. Ignatius of Antioch, in whose letters the earliest surviving use of the word 'Catholic' for the Church appears, wrote, 'Wherever the bishop shall appear, there let the multitude also be; even as, wherever Jesus Christ is, there is the Catholic Church.' What present-day practice does this ancient line connect to directly?",
       "choices": [
         "Ordinary parish Mass gathered around a priest or bishop, continuing the same ancient pattern Ignatius described",
         "This ancient line has no genuine, meaningful connection to any present-day practice at all",
@@ -1140,8 +1140,8 @@
       "difficultyElo": 1212,
       "prompt": "True or False: St. Perpetua and St. Felicity, martyred at Carthage around 203 AD, died alone, without any companions.",
       "correctAnswer": false,
-      "explanation": "Perpetua, a young noblewoman, and Felicity, her slave, were martyred together in the arena along with several companions -- their shared witness, not solitary death, is what the Church has always remembered.",
-      "hint": "One was a noblewoman, the other her slave -- they were not alone in the arena.",
+      "explanation": "Perpetua, a young noblewoman, and Felicity, a slave woman, were martyred together at Carthage along with several companions -- their shared witness, not solitary death, is what the Church has always remembered.",
+      "hint": "One was a noblewoman, the other a slave woman -- and they were not alone.",
       "citations": [
         {
           "type": "ccc",
@@ -1272,14 +1272,14 @@
       "difficultyElo": 1262,
       "prompt": "St. Justin Martyr's First Apology (c. 155) describes the Sunday gathering in detail. Why does that description matter?",
       "choices": [
-        "It shows the shape of the Mass — readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution — already fixed by the mid-second century",
+        "It shows the basic shape of the Mass — readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution — already present by the mid-second century",
         "It is the first description of a Christian funeral",
         "It proves the liturgy was originally in Latin",
         "It shows there was no fixed order of worship"
       ],
-      "correctAnswer": "It shows the shape of the Mass — readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution — already fixed by the mid-second century",
-      "explanation": "Justin is explaining Christian worship to a hostile emperor, so he has no motive to invent continuity. A Catholic reading his account recognises the structure of Sunday Mass immediately, which is a stronger argument for liturgical continuity than any later assertion.",
-      "hint": "He is describing it to outsiders, which is why the detail is trustworthy.",
+      "correctAnswer": "It shows the basic shape of the Mass — readings, homily, intercessions, offering of bread and wine, thanksgiving, distribution — already present by the mid-second century",
+      "explanation": "Justin is explaining Christian worship to a pagan emperor, and a Catholic reading his account recognises the basic structure of Sunday Mass immediately. The Catechism (CCC 1345) notes that these basic lines have stayed the same until our own day for all the great liturgical families.",
+      "hint": "Justin describes the Sunday gathering for outsiders; ask what basic structure he lays out.",
       "citations": [
         {
           "type": "ccc",
@@ -1299,7 +1299,7 @@
       "difficultyElo": 1212,
       "prompt": "True or False: Tertullian's question 'What has Athens to do with Jerusalem?' expressed the settled view of the Fathers that philosophy has no place in theology.",
       "correctAnswer": false,
-      "explanation": "False. It expressed Tertullian's view, and it was not the settled one — Justin held that seeds of the Word were scattered among the philosophers, and the Cappadocians and Augustine used philosophy extensively. Tertullian is a Father, not the Fathers, and quoting him as though he spoke for all of them misrepresents a genuine disagreement.",
+      "explanation": "False. It expressed Tertullian's own view, and it was not the settled one — Justin held that seeds of the Word were scattered among the philosophers, and the Cappadocians and Augustine used philosophy extensively. Tertullian was one early Christian writer, who later left communion with the Church for the Montanist sect, and quoting him as though he spoke for all the Fathers misrepresents a genuine disagreement.",
       "hint": "Ask whether other Fathers agreed with him on this.",
       "citations": [
         {
@@ -1324,8 +1324,9 @@
       "hint": "The Greek prefix for 'six' gives the name.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 116"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 25 April 2007 (Origen)",
+          "quote": "Hence comes the title of \"Hexapla\" (\"six columns\"), attributed to this enormous synopsis."
         },
         {
           "type": "church_father",
@@ -1377,7 +1378,7 @@
       "level": 7,
       "type": "multiple_choice",
       "difficultyElo": 1345,
-      "prompt": "A further detail about Perpetua makes her own account genuinely unique among early, Christian texts. What is it?",
+      "prompt": "A further detail about Perpetua makes her own account especially valuable among early Christian texts. What is it?",
       "choices": [
         "Part of the Passion of Perpetua and Felicity is a genuine, firsthand prison diary in Perpetua's own first-person voice",
         "Perpetua left no written record of her own at all, with her own story known only through later, secondhand accounts",
@@ -1385,7 +1386,7 @@
         "This detail has no genuine, historical significance worth noting"
       ],
       "correctAnswer": "Part of the Passion of Perpetua and Felicity is a genuine, firsthand prison diary in Perpetua's own first-person voice",
-      "explanation": "This is a further, remarkable detail -- part of the Passion of Perpetua and Felicity is a genuine, firsthand, prison diary in Perpetua's own first-person voice, making it genuinely unique among early, Christian texts.",
+      "explanation": "This is a further, remarkable detail -- part of the Passion of Perpetua and Felicity is presented as a firsthand prison account in Perpetua's own first-person voice, making it a rare and valuable witness among early Christian texts.",
       "hint": "Recall the brief mention of Perpetua and Felicity, and consider what made her own account distinctive.",
       "citations": [
         {
@@ -1666,9 +1667,14 @@
       "difficultyElo": 1488,
       "prompt": "St. Ambrose of Milan baptized the future Doctor of the Church and author of the Confessions, St. ____ of Hippo, in 387 AD.",
       "correctAnswer": "Augustine",
-      "explanation": "Ambrose's preaching in Milan was instrumental in Augustine's conversion; Augustine describes the moment of his baptism, by Ambrose's hand, in Book Nine of his Confessions.",
+      "explanation": "Ambrose's preaching in Milan was instrumental in Augustine's conversion, and Ambrose baptized him at the Easter Vigil of 387; Augustine mentions his baptism only briefly, in Book Nine of his Confessions.",
       "hint": "The bishop of Milan whose preaching finally won over a restless heart.",
       "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 9 January 2008 (Saint Augustine of Hippo, 1)",
+          "quote": "So it was that at the age of 32 Augustine was baptized by Ambrose in the Cathedral of Milan on 24 April 387, during the Easter Vigil."
+        },
         {
           "type": "ccc",
           "reference": "CCC 30",
@@ -1752,18 +1758,19 @@
       "difficultyElo": 1428,
       "prompt": "St. Jerome's greatest labour was the Vulgate. What made his approach distinctive?",
       "choices": [
-        "He translated the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+        "He translated most of the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
         "He translated from Latin into Greek",
         "He worked entirely from the Septuagint",
         "He produced the first vernacular translation"
       ],
-      "correctAnswer": "He translated the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
-      "explanation": "Augustine worried that going behind the Septuagint would unsettle congregations who knew it. Jerome went to the Hebrew anyway. The disagreement is a useful corrective to the idea that the Fathers formed a единый bloc — they argued, in writing, at length.",
+      "correctAnswer": "He translated most of the Old Testament from the Hebrew rather than from the Greek Septuagint, against considerable opposition including Augustine's",
+      "explanation": "Augustine worried that going behind the Septuagint would unsettle congregations who knew it. Jerome went to the Hebrew anyway. The disagreement is a useful corrective to the idea that the Fathers formed a single bloc — they argued, in writing, at length.",
       "hint": "The controversy was about which language he translated from.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 116"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 7 November 2007 (Saint Jerome)",
+          "quote": "On the basis of the original Greek and Hebrew texts, and thanks to the comparison with previous versions, he revised the four Gospels in Latin, then the Psalter and a large part of the Old Testament."
         },
         {
           "type": "church_father",
@@ -1800,8 +1807,8 @@
       "difficultyElo": 1488,
       "prompt": "St. Gregory of Nyssa taught that the soul's approach to God is an endless progress into greater love — a doctrine known by the Greek term ____.",
       "correctAnswer": "epektasis",
-      "explanation": "From Paul's straining forward to what lies ahead. Since God is infinite, arrival is not the shape of the journey: the blessed go on receiving more of him for ever, and satisfaction and desire increase together rather than one ending the other.",
-      "hint": "The word comes from Philippians 3:13, 'straining forward'.",
+      "explanation": "From Paul's stretching forward to what lies ahead (Philippians 3:13). Gregory of Nyssa taught that, because God is infinite, the soul's journey into him never reaches an end: in his view the blessed go on receiving more of God for ever, and satisfaction and desire increase together. This is Gregory's own theological teaching, not a defined doctrine of the Church.",
+      "hint": "The word comes from Philippians 3:13, where Paul speaks of stretching forth to what lies ahead.",
       "citations": [
         {
           "type": "scripture",
@@ -1859,12 +1866,12 @@
       "difficultyElo": 1510,
       "prompt": "A further teaching from Chrysostom's own Homilies on Matthew challenges honoring Christ only inside church, while neglecting him outside. What did he say?",
       "choices": [
-        "'Do you want to honor Christ's body? Then do not scorn him in his nakedness, nor honor him here in church while neglecting him outside'",
+        "'Would you do honor to Christ's body? Neglect Him not when naked; do not while here you honor Him with silken garments, neglect Him perishing without of cold and nakedness'",
         "Chrysostom never, genuinely connected honoring Christ in church to how the poor are treated outside it",
         "Chrysostom taught that honoring Christ inside church was sufficient by itself, with no further, outside obligation",
         "This teaching has no genuine, historical basis in any of Chrysostom's own surviving writings"
       ],
-      "correctAnswer": "'Do you want to honor Christ's body? Then do not scorn him in his nakedness, nor honor him here in church while neglecting him outside'",
+      "correctAnswer": "'Would you do honor to Christ's body? Neglect Him not when naked; do not while here you honor Him with silken garments, neglect Him perishing without of cold and nakedness'",
       "explanation": "This is a further, challenging teaching from Chrysostom -- honoring Christ's body in church while neglecting him in the poor outside is genuinely inconsistent, extending the teaching on the Eucharist and the poor.",
       "hint": "Recall the real teaching that honoring Christ in the Eucharist is inseparable from honoring him in the poor.",
       "citations": [
@@ -2124,7 +2131,7 @@
       "level": 10,
       "type": "multiple_choice",
       "difficultyElo": 1592,
-      "prompt": "St. John Damascene, writing from Muslim-ruled Damascus, is best remembered for his strong defense of which practice during the Byzantine Iconoclast controversy?",
+      "prompt": "St. John Damascene, living under Muslim rule beyond the reach of the Byzantine emperor, is best remembered for his strong defense of which practice during the Byzantine Iconoclast controversy?",
       "choices": [
         "The veneration of icons",
         "The use of unleavened bread",
@@ -2132,7 +2139,7 @@
         "The date of Easter"
       ],
       "correctAnswer": "The veneration of icons",
-      "explanation": "Safely outside Byzantine imperial reach, John Damascene wrote influential defenses of icon veneration that were later read into the record at the Second Council of Nicaea.",
+      "explanation": "Living under Muslim rule, outside Byzantine imperial reach, John Damascene wrote influential defenses of icon veneration; the Second Council of Nicaea (787) later upheld the veneration of icons that he had defended.",
       "hint": "Writing safely under Muslim rule, he could defend images the Byzantine emperor was destroying.",
       "citations": [
         {
@@ -2154,13 +2161,13 @@
       "difficultyElo": 1652,
       "prompt": "Pope St. Gregory the Great signed his letters with a title of humility still used by popes today: 'Servant of the ____ of God.'",
       "correctAnswer": "servants",
-      "explanation": "'Servus servorum Dei' -- 'servant of the servants of God' -- expressed Gregory's conviction that the papacy is an office of humble service, a vision Vatican II's teaching on the Church echoes for all ordained ministry.",
-      "hint": "In Latin it's 'servus servorum Dei' -- and Vatican II later echoed this same vision for every ordained minister, not just the pope.",
+      "explanation": "'Servus servorum Dei' -- 'servant of the servants of God' -- expressed Gregory's conviction that the papacy is an office of humble service, a vision Vatican II's teaching on bishops echoes.",
+      "hint": "In Latin it's 'servus servorum Dei' -- a phrase that expresses the Church's teaching that her pastors are servants.",
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+          "reference": "Second Vatican Council, Lumen Gentium 27",
+          "quote": "remembering that he who is greater should become as the lesser and he who is the chief become as the servant."
         }
       ]
     },
@@ -2210,9 +2217,9 @@
       "level": 10,
       "type": "true_false",
       "difficultyElo": 1542,
-      "prompt": "True or False: The Byzantine Iconoclast controversy was ultimately resolved in favor of icon veneration at the Second Council of Nicaea in 787.",
+      "prompt": "True or False: The Second Council of Nicaea in 787 taught that icons may rightly be venerated, rejecting Byzantine Iconoclasm.",
       "correctAnswer": true,
-      "explanation": "The Second Council of Nicaea taught that icons may be venerated because the honor given to an image passes to what it represents -- settling, at least doctrinally, a controversy that had divided the Byzantine world for decades.",
+      "explanation": "The Second Council of Nicaea (787) taught that icons may be venerated because the honor given to an image passes to what it represents. Iconoclasm returned under later emperors and ended only in 843.",
       "hint": "The second council held at this city, more than four centuries after the first.",
       "citations": [
         {
@@ -2255,14 +2262,15 @@
       "level": 10,
       "type": "true_false",
       "difficultyElo": 1542,
-      "prompt": "True or False: St. Ephrem the Syrian, a Doctor of the Church, wrote most of his theology in hymns rather than treatises.",
+      "prompt": "True or False: St. Ephrem the Syrian, a Doctor of the Church, set much of his teaching in hymns and verse.",
       "correctAnswer": true,
-      "explanation": "True. Ephrem taught doctrine in sung poetry in Syriac, and the Church has recognised it as theology by naming him a Doctor. It is a useful counterweight to the assumption that serious theology must be argumentative prose — the same instinct behind the Church's Latin hymns.",
+      "explanation": "True. Ephrem clothed Catholic doctrine in melody and rhythm, writing many Syriac hymns, and Benedict XV declared him a Doctor of the Church in 1920. He also wrote biblical commentaries and sermons, but his hymns are central to his teaching.",
       "hint": "His medium was the same one the Church still uses at Vespers.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1156"
+          "type": "magisterial_document",
+          "reference": "Benedict XV, Principi Apostolorum Petro 12 (1920)",
+          "quote": "opposed art with art and clothed Catholic doctrine in melody and rhythm."
         },
         {
           "type": "church_father",
@@ -2534,13 +2542,13 @@
         "Having written in Latin"
       ],
       "correctAnswer": "Eminent learning, declared by the Church",
-      "explanation": "'Doctor of the Church' is a formal title the Church confers, beyond ordinary sainthood, on those of eminent learning whose teaching has proven lastingly valuable -- a distinction Leo XIII drew on in commending St. Thomas Aquinas.",
-      "hint": "A Church Father needs three things; a Doctor needs one more.",
+      "explanation": "'Doctor of the Church' is a formal title the Church confers on a saint of eminent learning whose teaching has proven lastingly valuable; it is more than ordinary sainthood.",
+      "hint": "A Doctor must be a saint of eminent learning, and the Church must declare it.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Leo XIII, Aeterni Patris (1879)",
-          "quote": "restore the golden wisdom of St. Thomas, and to spread it far and wide for the defense and beauty of the Catholic faith"
+          "reference": "Benedict XVI, Apostolic Letter proclaiming Hildegard of Bingen a Doctor of the Church (2012)",
+          "quote": "By virtue of her reputation for holiness and her eminent teaching"
         }
       ]
     },
@@ -2626,8 +2634,8 @@
           "right": "Doctor and bishop whose Confessions describes his conversion"
         }
       ],
-      "explanation": "The Doctors of the Church span nearly two thousand years and every walk of life, united only by the lasting depth of their teaching.",
-      "hint": "One of these four is young and modern; the rest lived over a thousand years earlier.",
+      "explanation": "The Doctors of the Church span many centuries and many walks of life, united by the lasting depth of their teaching.",
+      "hint": "One of these four died young in 1897; the other three lived centuries earlier.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -2653,7 +2661,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Leo XIII, Aeterni Patris (1879)"
+          "reference": "Benedict XVI, Apostolic Letter proclaiming Hildegard of Bingen a Doctor of the Church (2012)",
+          "quote": "By virtue of her reputation for holiness and her eminent teaching"
         }
       ]
     },
@@ -2675,12 +2684,9 @@
       "hint": "One of the three conditions rules out most saints, and the other two rule out most scholars.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 2011"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Apostolic Letter proclaiming Hildegard of Bingen a Doctor of the Church (2012)",
+          "quote": "By virtue of her reputation for holiness and her eminent teaching"
         }
       ]
     },
@@ -2696,12 +2702,13 @@
       "hint": "Paul VI named two of them the same year: Teresa of Ávila and Catherine of Siena.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2011"
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring the first women Doctors of the Church (1970)"
         },
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Apostolic Letter proclaiming Hildegard of Bingen a Doctor of the Church (2012)",
+          "quote": "By virtue of her reputation for holiness and her eminent teaching"
         }
       ]
     },
@@ -2713,12 +2720,13 @@
       "difficultyElo": 1818,
       "prompt": "St. Hildegard of Bingen, a twelfth-century Benedictine abbess, composer and writer, was named a Doctor of the Church in the year ____.",
       "correctAnswer": "2012",
-      "explanation": "Benedict XVI named her, eight and a half centuries after her death. That a medieval abbess best known for visionary writing and music should be recognised for eminent doctrine says something about how broadly the Church understands teaching.",
+      "explanation": "Benedict XVI named her, more than eight centuries after her death. That a medieval abbess best known for visionary writing and music should be recognised for eminent doctrine says something about how broadly the Church understands teaching.",
       "hint": "It happened during Benedict XVI's pontificate.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Apostolic Letter proclaiming Hildegard of Bingen a Doctor of the Church (2012)",
+          "quote": "By virtue of her reputation for holiness and her eminent teaching"
         }
       ]
     },
@@ -2732,7 +2740,7 @@
       "pairs": [
         {
           "left": "Thérèse of Lisieux",
-          "right": "The Little Way; a cloistered life of twenty-four years"
+          "right": "The Little Way; entered Carmel at fifteen and died there at twenty-four"
         },
         {
           "left": "Catherine of Siena",
@@ -2748,15 +2756,16 @@
         }
       ],
       "explanation": "None of the four was ordained, none held office in the hierarchy, and one never left her convent. The category of Doctor is about the Church learning from someone, and it has never been restricted to those with authority to govern.",
-      "hint": "All four are women, and none of them held any office in the Church.",
+      "hint": "All four are women, and none of them was ordained.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2011"
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring the first women Doctors of the Church (1970)"
         },
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Apostolic Letter proclaiming Hildegard of Bingen a Doctor of the Church (2012)",
+          "quote": "In addition to books on theology and mysticism, she also authored works on medicine and natural sciences."
         }
       ]
     },
@@ -2996,7 +3005,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1922,
-      "prompt": "In Athanasius's Contra Arianos, the term 'homoousios' ('of the same substance') was chosen specifically to rule out which Arian claim about the Son?",
+      "prompt": "In Athanasius's defence of the Nicene definition (De Decretis), the term 'homoousios' ('of the same substance') was chosen specifically to rule out which Arian claim about the Son?",
       "choices": [
         "That the Son is a created being, similar to but not identical in nature with the Father",
         "That the Son and the Father are two names for a single person",
@@ -3004,8 +3013,8 @@
         "That the Son existed only from the moment of the Incarnation"
       ],
       "correctAnswer": "That the Son is a created being, similar to but not identical in nature with the Father",
-      "explanation": "Arius held the Son was the highest of creatures, of a like but not identical substance to the Father. Athanasius's 'homoousios' closes that gap entirely: the Son shares the Father's very substance, not merely a resemblance to it -- the word the Council of Nicaea adopted into the Creed for exactly this reason.",
-      "hint": "The rejected Arian term is one letter different from the word Nicaea actually chose.",
+      "explanation": "Arius held that the Son was a creature, brought into being from nothing and not of the Father's own substance. The word 'homoousios,' which Athanasius defended, closes that gap entirely: the Son shares the Father's very substance, not merely a resemblance to it -- the word the Council of Nicaea adopted into the Creed for exactly this reason.",
+      "hint": "The word Nicaea chose differs by a single letter from 'homoiousios' ('of like substance'), a formula that stops short of saying the Son is of the Father's own substance.",
       "citations": [
         {
           "type": "council",
@@ -3014,7 +3023,7 @@
         },
         {
           "type": "church_father",
-          "reference": "Athanasius of Alexandria, Contra Arianos, Discourse I, ch. 9",
+          "reference": "Athanasius of Alexandria, De Decretis (Defence of the Nicene Definition), sec. 19",
           "quote": "they wrote 'from the essence of God,' in order that 'from God' might not be considered common and equal in the Son and in things originate, but that all others might be acknowledged as creatures, and the Word alone as from the Father."
         }
       ]
@@ -3065,7 +3074,7 @@
         },
         {
           "type": "church_father",
-          "reference": "John Chrysostom, Homilies on Genesis, Homily 3, sec. 1"
+          "reference": "John Chrysostom, Homilies on Genesis, Homily 17, sec. 1"
         }
       ]
     },
@@ -3075,7 +3084,7 @@
       "level": 14,
       "type": "matching_pairs",
       "difficultyElo": 1962,
-      "prompt": "Match each Father to the precise technical term introduced for their thought.",
+      "prompt": "Match each Father to the precise technical term central to his thought.",
       "pairs": [
         {
           "left": "Augustine of Hippo",
@@ -3094,8 +3103,8 @@
           "right": "Synkatabasis, God's condescension in revelation"
         }
       ],
-      "explanation": "Each of these terms did real technical work in its own controversy -- they are not interchangeable synonyms for 'grace' or 'the Trinity' in general, but precise tools forged to close a specific gap an opponent was exploiting.",
-      "hint": "Each term is paired with the exact problem it was coined to solve.",
+      "explanation": "Each of these terms did real technical work in its own context -- they are not interchangeable synonyms for 'grace' or 'the Trinity' in general, but precise tools used to close a specific gap that a vaguer expression had left open.",
+      "hint": "Each term is paired with the exact problem it was used to solve.",
       "citations": [
         {
           "type": "ccc",
@@ -3103,7 +3112,8 @@
         },
         {
           "type": "church_father",
-          "reference": "Irenaeus of Lyons, Adversus Haereses, Book V, ch. 21"
+          "reference": "Basil of Caesarea, Letter 214, sec. 4",
+          "quote": "ousia has the same relation to hypostasis as the common has to the particular."
         }
       ]
     },
@@ -3188,7 +3198,7 @@
       "level": 14,
       "type": "matching_pairs",
       "difficultyElo": 1962,
-      "prompt": "Match each technical term to the Father who developed it and what it precisely protects.",
+      "prompt": "Match each technical term to the Father most associated with it and what it precisely protects.",
       "pairs": [
         {
           "left": "Privatio boni",
@@ -3207,8 +3217,8 @@
           "right": "Athanasius — same substance, ruling out any lesser, created divinity"
         }
       ],
-      "explanation": "Each term was coined or sharpened to close one specific loophole a vaguer word had left open. None of the four is decorative vocabulary; each is doing the load-bearing work of an argument.",
-      "hint": "Ask what imprecise word each term was introduced to replace.",
+      "explanation": "Each term was sharpened or defended to close one specific loophole a vaguer word had left open. None of the four is decorative vocabulary; each is doing the load-bearing work of an argument.",
+      "hint": "Ask what error or confusion each term helps to prevent.",
       "citations": [
         {
           "type": "ccc",
@@ -3217,6 +3227,11 @@
         {
           "type": "ccc",
           "reference": "CCC 385"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 11",
+          "quote": "For what is that which we call evil but the absence of good?"
         }
       ]
     },
@@ -3239,8 +3254,8 @@
       "citations": [
         {
           "type": "church_father",
-          "reference": "Augustine of Hippo, City of God, Book I, ch. 1",
-          "quote": "For to this earthly city belong the enemies against whom I have to defend the city of God."
+          "reference": "Augustine of Hippo, Enchiridion, ch. 11",
+          "quote": "For what is that which we call evil but the absence of good?"
         },
         {
           "type": "ccc",
@@ -3261,8 +3276,8 @@
       "citations": [
         {
           "type": "church_father",
-          "reference": "Augustine of Hippo, City of God, Book I, ch. 1",
-          "quote": "For to this earthly city belong the enemies against whom I have to defend the city of God."
+          "reference": "Augustine of Hippo, Enchiridion, ch. 11",
+          "quote": "For what is that which we call evil but the absence of good?"
         },
         {
           "type": "ccc",
@@ -3329,7 +3344,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 252"
+          "reference": "CCC 250"
         }
       ]
     },
@@ -3346,41 +3361,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 252"
-        }
-      ]
-    },
-    {
-      "id": "church-fathers-l15-007",
-      "topic": "church-fathers",
-      "level": 15,
-      "type": "matching_pairs",
-      "difficultyElo": 2045,
-      "prompt": "Match each patristic term to its own, precise, correct use.",
-      "pairs": [
-        {
-          "left": "Privatio boni",
-          "right": "A genuine absence of a due good, not a claim that evil is unreal"
-        },
-        {
-          "left": "Homoousios",
-          "right": "A shared substance between distinct Persons, not one, identical Person"
-        },
-        {
-          "left": "Why precision matters here",
-          "right": "A misused term can distort the doctrinal content it was developed to protect"
-        },
-        {
-          "left": "Why the approach matters",
-          "right": "Prevents real, common, careless misuses of genuinely precise terms"
-        }
-      ],
-      "explanation": "These four facts together turn the bare definitions into precise, correctly applied, patristic vocabulary.",
-      "hint": "Each row corrects one common, careless misuse of a precise, patristic term.",
-      "citations": [
-        {
-          "type": "ccc",
-          "reference": "CCC 252"
+          "reference": "CCC 250"
         }
       ]
     },
@@ -3403,7 +3384,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 252"
+          "reference": "CCC 385"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 11",
+          "quote": "For what is that which we call evil but the absence of good?"
         }
       ]
     },
@@ -3444,12 +3430,12 @@
       "difficultyElo": 2088,
       "prompt": "Gregory of Nazianzus, in his Letter to Cledonius, argues 'what is not assumed is not healed.' If someone claimed Christ only appeared to have a human mind (not a real one), what would this principle say is at stake?",
       "choices": [
-        "Christ's human mind would need to be or else the human mind is not healed by the Incarnation",
+        "Christ's human mind would need to be truly assumed, or else the human mind is not healed by the Incarnation",
         "Nothing is at stake, since salvation only concerns the body, not the mind",
         "The claim would strengthen Christ's divinity by removing any human limitation",
         "The principle only applies to Christ's body, never to non-physical faculties like the mind"
       ],
-      "correctAnswer": "Christ's human mind would need to be or else the human mind is not healed by the Incarnation",
+      "correctAnswer": "Christ's human mind would need to be truly assumed, or else the human mind is not healed by the Incarnation",
       "explanation": "Gregory's principle, aimed originally at Apollinarius's claim that the divine Word replaced Christ's human mind, is that redemption reaches only what Christ took on as his own. If Christ's mind were not truly human, the human mind itself would remain outside what the Incarnation heals.",
       "hint": "This is the same logic Gregory used against a fourth-century bishop who denied Christ had a full human mind.",
       "citations": [
@@ -3617,13 +3603,13 @@
       "difficultyElo": 2088,
       "prompt": "A parish is debating whether almsgiving is optional generosity or a strict demand of justice. Which Father's argument is most directly on point?",
       "choices": [
-        "John Chrysostom, who argued in his homilies on wealth that surplus riches withheld from the poor are, in a real sense, theft from them",
+        "John Chrysostom, who argued in his homilies on wealth that not to enable the poor to share in our goods is to steal from them",
         "Augustine's Confessions, on the theft of pears",
         "Origen's allegorical method of scriptural interpretation",
         "Athanasius's defence of the Son's divinity"
       ],
-      "correctAnswer": "John Chrysostom, who argued in his homilies on wealth that surplus riches withheld from the poor are, in a real sense, theft from them",
-      "explanation": "Chrysostom's preaching on wealth is unusually blunt: what you possess beyond need belongs, in justice, to the one who lacks it. Matching a live pastoral question to the Father who addressed it, rather than to whichever Father comes to mind first, is the skill being tested.",
+      "correctAnswer": "John Chrysostom, who argued in his homilies on wealth that not to enable the poor to share in our goods is to steal from them",
+      "explanation": "Chrysostom's preaching on wealth is unusually blunt: not to enable the poor to share in our goods is to steal from them and deprive them of life (CCC 2446, citing his homily on Lazarus). Matching a live pastoral question to the Father who addressed it, rather than to whichever Father comes to mind first, is the skill being tested.",
       "hint": "Three of these four options are about something other than wealth and the poor.",
       "citations": [
         {
@@ -3675,7 +3661,7 @@
         },
         {
           "left": "'Riches are fine as long as I'm not attached'",
-          "right": "Chrysostom — surplus withheld from the poor is theft"
+          "right": "Chrysostom — not to enable the poor to share in our goods is to steal from them"
         },
         {
           "left": "'A creature could still have saved us'",
@@ -3696,6 +3682,10 @@
         {
           "type": "ccc",
           "reference": "CCC 460"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2446"
         }
       ]
     },
@@ -3718,13 +3708,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3741,13 +3731,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3770,13 +3760,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3793,13 +3783,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3822,13 +3812,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3845,13 +3835,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3885,13 +3875,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3914,13 +3904,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving Cyril's Second Letter to Nestorius",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         },
         {
           "type": "church_father",
-          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius",
-          "quote": "If anyone does not confess that the Word of God suffered in the flesh and was crucified in the flesh and tasted death in the flesh and became the first born of the dead... let him be anathema."
+          "reference": "St. Cyril of Alexandria, Third Letter to Nestorius, anathema 1",
+          "quote": "If anyone does not confess that Emmanuel is God in truth, and therefore that the holy virgin is the mother of God... let him be anathema."
         }
       ]
     },
@@ -3948,7 +3938,7 @@
         },
         {
           "type": "church_father",
-          "reference": "Augustine of Hippo, Enchiridion, ch. 8",
+          "reference": "Augustine of Hippo, Enchiridion, ch. 30",
           "quote": "For it was by the evil use of his free-will that man destroyed both it and himself."
         }
       ]
@@ -3971,7 +3961,7 @@
         },
         {
           "left": "Only the human Jesus, not the divine Word, suffered and died",
-          "right": "A merely human death cannot accomplish infinite atonement for sin"
+          "right": "Then the Word of God did not himself suffer in the flesh and taste death for all, though as God he is life and life-giving"
         }
       ],
       "explanation": "Cyril's recurring move is to show that Nestorius's language, whatever its intent, keeps splitting the one Christ into two subjects -- and a savior split into two subjects can no longer guarantee that God himself, not merely a man closely associated with God, is the one who died and rose.",
@@ -3995,7 +3985,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2252,
-      "prompt": "Comparing Theodore of Mopsuestia's Commentary on the Minor Prophets (Antiochene) with Cyril of Alexandria's commentaries on the same texts, which best describes the difference in emphasis, without treating either as simply wrong?",
+      "prompt": "Comparing the exegetical method of Theodore of Mopsuestia's Commentary on the Minor Prophets (Antiochene) with that of Cyril of Alexandria's commentaries on the same texts, which best describes the difference in emphasis? (Only exegetical method is in view: Theodore's Christology was condemned by the Second Council of Constantinople in 553.)",
       "choices": [
         "Antiochene exegesis emphasizes the plain historical sense of the text; Alexandrian exegesis emphasizes typological and christological meaning beneath it",
         "Antiochene exegesis rejects the Old Testament outright; Alexandrian exegesis accepts only the New Testament",
@@ -4003,12 +3993,16 @@
         "The two schools produced no surviving texts that can be compared"
       ],
       "correctAnswer": "Antiochene exegesis emphasizes the plain historical sense of the text; Alexandrian exegesis emphasizes typological and christological meaning beneath it",
-      "explanation": "Theodore's surviving commentary work stays close to a passage's plain historical sense, while Cyril's commentaries characteristically read the same texts for the christological pattern beneath the surface. Both are real, named, surviving approaches -- neither school is well-represented by an unsourced caricature of 'ignoring Christ' or 'ignoring history.'",
+      "explanation": "Theodore's surviving commentary work stays close to a passage's plain historical sense, while Cyril's commentaries characteristically read the same texts for the christological pattern beneath the surface. This compares only the two exegetical emphases. It does not endorse Theodore's doctrine: the Second Council of Constantinople (553) anathematized Theodore and his heretical books. Neither school is accurately described by the caricatures in the wrong answers.",
       "hint": "One emphasis stays closer to what the original human author meant; the other looks for what it foreshadows.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 115"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Constantinople (553), Anathema 12"
         },
         {
           "type": "church_father",
@@ -4096,6 +4090,18 @@
       "explanation": "Each heresy here is defeated by attacking one identifiable premise, not by a vague appeal to 'that's not what the Church teaches' -- the difference between labeling an error and actually showing where it breaks.",
       "hint": "In every case here, removing one specific claim brings down the whole structure resting on it.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 406"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 465"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 466"
+        },
         {
           "type": "ccc",
           "reference": "CCC 302",
@@ -4206,10 +4212,6 @@
         {
           "left": "Arianism",
           "right": "That the Son is a creature rather than fully God"
-        },
-        {
-          "left": "Rejecting divine images after the Incarnation",
-          "right": "That God did not truly take visible, depictable flesh"
         }
       ],
       "explanation": "Every position here looks strong until its load-bearing premise is named and tested on its own. Learning to isolate that single premise is the skill being taught, more than memorising which Father answered which heresy.",
@@ -4221,7 +4223,19 @@
         },
         {
           "type": "ccc",
+          "reference": "CCC 465"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 466"
+        },
+        {
+          "type": "ccc",
           "reference": "CCC 468"
+        },
+        {
+          "type": "church_father",
+          "reference": "Augustine of Hippo, City of God, Book I"
         }
       ]
     },
@@ -4456,6 +4470,10 @@
       "citations": [
         {
           "type": "council",
+          "reference": "Second Council of Orange (529), Canon 6"
+        },
+        {
+          "type": "council",
           "reference": "Second Council of Orange (529), Canon 3"
         }
       ],
@@ -4607,7 +4625,7 @@
         },
         {
           "type": "council",
-          "reference": "Second Council of Orange, Canon 4"
+          "reference": "Second Council of Orange (529), Canon 5"
         }
       ]
     },
@@ -4638,12 +4656,12 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2418,
-      "prompt": "Orange II settled that grace precedes even the first motion of faith. What did it explicitly leave unresolved?",
+      "prompt": "Orange II settled that grace precedes even the first motion of faith. Which of these did it not decide?",
       "choices": [
         "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
         "Whether grace is necessary at all for salvation",
-        "Whether infants require baptism",
-        "Whether God predestines anyone to hell"
+        "Whether even the desire for faith can come from nature alone, without a gift of grace",
+        "Whether anyone is foreordained to evil by the power of God"
       ],
       "correctAnswer": "The precise inner mechanics of how grace and human freedom interact at the moment of a free choice",
       "explanation": "The council answered the sequencing question — grace goes first — without resolving the harder metaphysical question of exactly how grace and a free choice coexist without either grace overriding freedom or freedom operating independently of grace. That question occupied theologians for centuries after.",
@@ -4651,7 +4669,11 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Council of Orange, Canon 25"
+          "reference": "Second Council of Orange (529), Canon 5"
+        },
+        {
+          "type": "council",
+          "reference": "Second Council of Orange (529), Conclusion"
         }
       ]
     },
@@ -4664,7 +4686,7 @@
       "prompt": "Match each element of the Augustinian synthesis to what it actually establishes.",
       "pairs": [
         {
-          "left": "Orange II, Canon 4",
+          "left": "Orange II, Canon 5",
           "right": "Even the desire to believe is already a work of grace"
         },
         {
@@ -4685,7 +4707,7 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Council of Orange, Canon 4"
+          "reference": "Second Council of Orange (529), Canon 5"
         },
         {
           "type": "ccc",
@@ -4833,7 +4855,7 @@
         },
         {
           "left": "\"Our heart is restless until it rests in you\"",
-          "right": "Augustine's opening line in the Confessions, naming a restlessness only God satisfies"
+          "right": "A famous line from the first chapter of Augustine's Confessions, naming a restlessness only God satisfies"
         },
         {
           "left": "What should actually continue going forward",
