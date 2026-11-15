@@ -89,13 +89,13 @@
       "difficultyElo": 850,
       "prompt": "In ecclesiastical Latin, the letter combination 'ae' (as in 'caeli,' 'saeculorum') is pronounced how?",
       "choices": [
-        "Like the real, English long 'a' sound, as in 'say' -- roughly 'eh'",
+        "Like one single 'e' sound, not two separate vowels -- so 'caelis' is roughly 'CHAY-lees'",
         "Like each individual letter pronounced entirely separately, 'ah-eh'",
         "It is always silent, contributing no spoken sound at all",
         "Like the English 'oo' sound, as in 'moon'"
       ],
-      "correctAnswer": "Like the real, English long 'a' sound, as in 'say' -- roughly 'eh'",
-      "explanation": "This is a further, ecclesiastical pronunciation rule -- the combination 'ae' collapses into one single, long 'a' sound, roughly 'eh,' not two, separate vowel sounds.",
+      "correctAnswer": "Like one single 'e' sound, not two separate vowels -- so 'caelis' is roughly 'CHAY-lees'",
+      "explanation": "This is a further, ecclesiastical pronunciation rule -- the combination 'ae' is pronounced as one single 'e' sound, not two separate vowel sounds.",
       "hint": "Recall how the 'ae' in 'caelis' is pronounced.",
       "citations": [
         {
@@ -110,9 +110,9 @@
       "level": 1,
       "type": "true_false",
       "difficultyElo": 800,
-      "prompt": "True or False: 'Ae' in ecclesiastical Latin collapses into one single, long 'a' sound, rather than two, separate vowel sounds.",
+      "prompt": "True or False: 'Ae' in ecclesiastical Latin collapses into one single 'e' sound, rather than two separate vowel sounds.",
       "correctAnswer": true,
-      "explanation": "True, and this pronunciation rule matters -- 'ae' functions as one, combined sound, roughly a long 'a,' not two separate letters spoken individually.",
+      "explanation": "True, and this pronunciation rule matters -- 'ae' functions as one combined sound, a single 'e,' not two separate letters spoken individually.",
       "hint": "Recall the real point about 'ae' collapsing into one, single sound.",
       "citations": [
         {
@@ -129,13 +129,13 @@
       "difficultyElo": 850,
       "prompt": "Applying these ecclesiastical rules, how would the Latin word 'Gloria' be pronounced?",
       "choices": [
-        "With a hard 'g' sound, since 'o' does not actually trigger the softening rule that 'e' and 'i' trigger",
+        "With a hard 'g' sound, since 'g' before 'l' is not one of the positions (before e, i, y, ae, or oe) where it softens",
         "With a soft 'j' sound, since 'g' is always softened, in every possible position",
         "With the 'g' left completely silent",
         "The correct pronunciation of 'Gloria' cannot be determined from any of the rules"
       ],
-      "correctAnswer": "With a hard 'g' sound, since 'o' does not actually trigger the softening rule that 'e' and 'i' trigger",
-      "explanation": "This is a practical application of the rule -- 'g' only softens before 'e' or 'i,' so 'Gloria,' with 'g' before 'l,' keeps its hard sound.",
+      "correctAnswer": "With a hard 'g' sound, since 'g' before 'l' is not one of the positions (before e, i, y, ae, or oe) where it softens",
+      "explanation": "This is a practical application of the rule -- 'g' softens only before 'e,' 'i,' 'y,' 'ae,' or 'oe,' so 'Gloria,' with 'g' before 'l,' keeps its hard sound.",
       "hint": "Recall the rule for exactly when 'g' softens, and check whether 'Gloria' meets that condition.",
       "citations": [
         {
@@ -150,7 +150,7 @@
       "level": 1,
       "type": "true_false",
       "difficultyElo": 800,
-      "prompt": "True or False: 'Gloria' actually keeps a hard 'g' sound in ecclesiastical Latin, since 'g' only softens before 'e' or 'i,' not before 'o.'",
+      "prompt": "True or False: 'Gloria' actually keeps a hard 'g' sound in ecclesiastical Latin, since 'g' softens only before 'e,' 'i,' 'y,' 'ae,' or 'oe,' and here it comes before 'l.'",
       "correctAnswer": true,
       "explanation": "True, and this practical application matters -- 'Gloria' doesn't meet the condition for softening, so its 'g' stays hard.",
       "hint": "Recall the rule for exactly when 'g' softens.",
@@ -179,10 +179,10 @@
         },
         {
           "left": "'Ae'",
-          "right": "Collapses into one long 'a' sound, roughly 'eh'"
+          "right": "Collapses into one single 'e' sound, not two separate vowels"
         },
         {
-          "left": "'G' before other letters (like o)",
+          "left": "'G' before 'l' or 'o' (as in 'Gloria')",
           "right": "Stays a hard 'g' sound, as in 'go'"
         }
       ],
@@ -215,6 +215,10 @@
         {
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John XXIII, Veterum Sapientia 4, 6"
         }
       ]
     },
@@ -230,8 +234,8 @@
       "hint": "Recall the simplest reason for why the Church still uses Latin.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+          "type": "magisterial_document",
+          "reference": "John XXIII, Veterum Sapientia 4, 6"
         }
       ]
     },
@@ -293,8 +297,8 @@
       "hint": "Consider what further, official capacity, beyond the liturgy, Latin might still serve.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+          "type": "magisterial_document",
+          "reference": "John XXIII, Veterum Sapientia 1, 5"
         }
       ]
     },
@@ -310,8 +314,8 @@
       "hint": "Recall the real point about Latin's own further, official use beyond the liturgy.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+          "type": "magisterial_document",
+          "reference": "John XXIII, Veterum Sapientia 1, 5"
         }
       ]
     },
@@ -346,6 +350,10 @@
         {
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John XXIII, Veterum Sapientia 1, 4-6"
         }
       ]
     },
@@ -624,7 +632,7 @@
           "right": "Glory"
         }
       ],
-      "explanation": "These are among the most common Latin words heard in the Mass -- 'Credo' (I believe) begins the Creed, 'Sanctus' (Holy) is sung before the Eucharistic Prayer, and 'Gloria' (Glory) opens the hymn of praise near the start of Mass.",
+      "explanation": "These are among the most common Latin words heard in the Mass -- 'Credo' (I believe) begins the Creed, 'Sanctus' (Holy) is the acclamation sung after the Preface within the Eucharistic Prayer, and 'Gloria' (Glory) opens the hymn of praise near the start of Mass.",
       "hint": "Each of these words also opens a well-known part of the Mass by the same name.",
       "citations": [
         {
@@ -706,7 +714,7 @@
       "level": 4,
       "type": "multiple_choice",
       "difficultyElo": 1075,
-      "prompt": "'Sanctus, Sanctus, Sanctus,' sung by the whole assembly before the Eucharistic Prayer, means:",
+      "prompt": "'Sanctus, Sanctus, Sanctus,' sung by the whole assembly after the Preface, within the Eucharistic Prayer, means:",
       "choices": [
         "Holy, Holy, Holy",
         "Blessed, Blessed, Blessed",
@@ -762,7 +770,7 @@
       "difficultyElo": 1025,
       "prompt": "True or False: 'Credo,' the Latin title of the Creed, is simply the verb meaning 'I believe.'",
       "correctAnswer": true,
-      "explanation": "True. 'Credo' is first person singular -- 'I believe' -- which is why the Creed is spoken in the singular even by a whole congregation: each person professes the faith personally, not merely as part of a crowd.",
+      "explanation": "True. 'Credo' is first person singular -- 'I believe.' The Church teaches us to say both 'I believe' and 'we believe': 'I believe' is the faith of the Church professed personally by each believer, and 'we believe' is the faith confessed by the liturgical assembly (CCC 167).",
       "hint": "Notice it is not 'we believe.' The grammatical person is doing real theological work.",
       "citations": [
         {
@@ -797,7 +805,7 @@
         }
       ],
       "explanation": "These four roots recur constantly in the liturgy. 'Domine' is the vocative -- the form used when speaking TO someone -- which is why it appears in direct address like 'Domine, non sum dignus.'",
-      "hint": "One of these is not a name for God at all, and one is God being spoken to rather than spoken about.",
+      "hint": "Two of these are not names for God at all, and one is God being spoken to rather than spoken about.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -1195,12 +1203,12 @@
       "difficultyElo": 1285,
       "prompt": "The Glory Be ends 'et in saecula saeculorum. Amen' -- literally 'and unto ages of ____.'",
       "correctAnswer": "ages",
-      "explanation": "'Saecula saeculorum' is a Hebrew-style superlative rendered literally into Latin: 'ages of ages,' meaning unending duration. English smooths it to 'world without end,' which loses the doubling that carries the force.",
+      "explanation": "The Glory Be is a doxology, praise of God. 'Saecula saeculorum' is a literal Latin rendering of a Semitic idiom, 'ages of ages,' meaning unending duration. English smooths it to 'world without end,' which loses the doubling that carries the force.",
       "hint": "The Latin simply repeats the same noun in a different case -- the emphasis is in the repetition.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1061-1062"
+          "reference": "CCC 2641"
         }
       ]
     },
@@ -1210,7 +1218,7 @@
       "level": 6,
       "type": "multiple_choice",
       "difficultyElo": 1225,
-      "prompt": "'Veni, Sancte Spiritus' -- sung at Pentecost and at confirmations -- is a prayer of:",
+      "prompt": "'Veni, Sancte Spiritus' -- the sequence sung at Mass on Pentecost -- is a prayer of:",
       "choices": [
         "Invocation, asking the Holy Spirit to come",
         "Thanksgiving after Communion",
@@ -1218,12 +1226,12 @@
         "Dismissal at the end of Mass"
       ],
       "correctAnswer": "Invocation, asking the Holy Spirit to come",
-      "explanation": "'Veni' is an imperative: 'Come.' The whole sequence is an epiclesis in miniature -- a calling-down of the Spirit -- which is why it belongs to Pentecost and to the sacrament of Confirmation.",
+      "explanation": "'Veni' is an imperative: 'Come.' The whole sequence is an invocation of the Holy Spirit, asking him to come, which is why it is the sequence of Pentecost.",
       "hint": "The first word is a command, and it is the same one in 'Veni, Veni Emmanuel.'",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1299"
+          "reference": "CCC 2671"
         }
       ]
     },
@@ -1258,12 +1266,12 @@
       "difficultyElo": 1250,
       "prompt": "True or False: 'Sub tuum praesidium' is considered the oldest known prayer directly addressed to Mary.",
       "correctAnswer": true,
-      "explanation": "True, and this historical fact matters -- 'Sub tuum praesidium' is the oldest known prayer to Mary, extending the Marian prayer tradition further back historically.",
+      "explanation": "True, and this historical fact matters -- 'Sub tuum praesidium' is commonly considered the oldest known prayer to Mary, though the exact dating of its earliest text is debated, and it shows how ancient the Church's Marian prayer is.",
       "hint": "Recall the point about 'Sub tuum praesidium's' own historical significance.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2677"
+          "reference": "CCC 971"
         }
       ]
     },
@@ -1326,7 +1334,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2677"
+          "reference": "CCC 971"
         }
       ]
     },
@@ -1336,14 +1344,14 @@
       "level": 7,
       "type": "true_false",
       "difficultyElo": 1250,
-      "prompt": "True or False: 'Sub tuum praesidium's' own ancient age shows the Latin, Marian tradition reaches back to the Church's own earliest centuries.",
+      "prompt": "True or False: 'Sub tuum praesidium's' ancient age shows that the Church's tradition of Marian prayer reaches back to her earliest centuries.",
       "correctAnswer": true,
-      "explanation": "True, and this historical point matters -- this ancient prayer deepens the sense of the historical roots of the Church's Marian prayer.",
+      "explanation": "True, and this historical point matters -- this very ancient prayer, whose earliest known text is in Greek, deepens the sense of the historical roots of the Church's Marian prayer.",
       "hint": "Recall the point about 'Sub tuum praesidium's' own historical depth.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2677"
+          "reference": "CCC 971"
         }
       ]
     },
@@ -1361,7 +1369,7 @@
         },
         {
           "left": "Its own historical significance",
-          "right": "The oldest known prayer directly addressed to Mary"
+          "right": "Commonly considered the oldest known prayer directly addressed to Mary"
         },
         {
           "left": "Why this differs from direct worship",
@@ -1369,7 +1377,7 @@
         },
         {
           "left": "Why its own age matters",
-          "right": "Shows the Latin, Marian tradition reaching back to the Church's earliest centuries"
+          "right": "Shows the Church's tradition of Marian prayer reaching back to the earliest centuries"
         }
       ],
       "explanation": "These four facts together extend the Marian prayers to a further, ancient, and deeply historical example.",
@@ -1378,6 +1386,10 @@
         {
           "type": "ccc",
           "reference": "CCC 2677"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 971"
         }
       ]
     },
@@ -1450,10 +1462,10 @@
       "level": 8,
       "type": "fill_blank",
       "difficultyElo": 1435,
-      "prompt": "Before the Gospel reading, the assembly responds to the greeting with 'Gloria tibi, Domine,' meaning 'Glory to you, O ____.'",
+      "prompt": "When the priest or deacon announces the Gospel reading, the assembly responds 'Gloria tibi, Domine,' meaning 'Glory to you, O ____.'",
       "correctAnswer": "Lord",
       "explanation": "This brief acclamation honors Christ's own words about to be proclaimed in the Gospel, distinct from the honor given to the other Scripture readings.",
-      "hint": "It's the title given to Jesus in this greeting, matching who the Gospel is about.",
+      "hint": "It's the title given to Jesus in this acclamation, matching who the Gospel is about.",
       "citations": [
         {
           "type": "magisterial_document",
@@ -1467,7 +1479,7 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "After receiving the Body of Christ, a communicant traditionally responds to the minister's words 'Corpus Christi' ('The Body of Christ') with:",
+      "prompt": "When the minister presents the Body of Christ with the words 'Corpus Christi' ('The Body of Christ'), the communicant responds with:",
       "choices": [
         "'Amen'",
         "'Alleluia'",
@@ -1586,9 +1598,9 @@
       "level": 8,
       "type": "fill_blank",
       "difficultyElo": 1435,
-      "prompt": "To 'Habemus ad Dominum' the priest has just said 'Sursum ____' -- 'Lift up your hearts.'",
+      "prompt": "In the dialogue before the Preface, the priest says 'Sursum ____' ('Lift up your hearts'), and the people reply 'Habemus ad Dominum.'",
       "correctAnswer": "corda",
-      "explanation": "'Sursum corda' is 'hearts upward,' and the reply 'Habemus ad Dominum' means 'We have lifted them to the Lord.' The exchange opens the Preface of every Eucharistic Prayer.",
+      "explanation": "'Sursum corda' is 'hearts upward,' and the people's reply 'Habemus ad Dominum' means 'We lift them up to the Lord.' The exchange is part of the dialogue that opens the Preface of the Eucharistic Prayer.",
       "hint": "The missing word is the plural of the same root behind 'cordial' and 'courage.'",
       "citations": [
         {
@@ -1607,11 +1619,11 @@
       "level": 8,
       "type": "matching_pairs",
       "difficultyElo": 1415,
-      "prompt": "Match each Latin phrase from the Order of Mass to the moment it belongs to.",
+      "prompt": "Match each phrase from the Order of Mass (Latin, except for the Greek 'Kyrie eleison') to the moment it belongs to.",
       "pairs": [
         {
           "left": "Kyrie eleison",
-          "right": "The penitential act, near the start"
+          "right": "The Introductory Rites, near the start, at or after the penitential act"
         },
         {
           "left": "Sursum corda",
@@ -1626,7 +1638,7 @@
           "right": "The dismissal, at the end"
         }
       ],
-      "explanation": "Each phrase marks a hinge in the Mass: contrition, the lifting of hearts into the anaphora, the fraction, and the sending out. Knowing where a phrase sits is most of knowing what it does.",
+      "explanation": "Each phrase marks a hinge in the Mass: the Lord's mercy implored at the start, the lifting of hearts as the Eucharistic Prayer begins, the fraction, and the sending out. Knowing where a phrase sits is most of knowing what it does.",
       "hint": "Put them in the order you would actually hear them, then match.",
       "citations": [
         {
@@ -1665,7 +1677,7 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: 'Dominus vobiscum' and 'Et cum spiritu tuo' together form a mutual exchange of blessing between priest and assembly, not a one-sided greeting.",
+      "prompt": "True or False: 'Dominus vobiscum' and 'Et cum spiritu tuo' together form a mutual exchange of greeting and prayerful wish between priest and assembly, not a one-sided greeting.",
       "correctAnswer": true,
       "explanation": "True, and this practical point matters -- reading the actual exchange in full shows its own genuine, mutual character.",
       "hint": "Recall the point about 'Dominus vobiscum' and its own response.",
@@ -1684,13 +1696,13 @@
       "difficultyElo": 1450,
       "prompt": "Reading 'Sursum corda' -- 'Habemus ad Dominum' as a complete exchange, what does the congregation actually, literally affirm in response to the priest's own call to 'lift up your hearts'?",
       "choices": [
-        "'We have lifted them to the Lord' -- an active, present affirmation, not a passive acknowledgment",
+        "'We lift them up to the Lord' -- an active, present affirmation, not a passive acknowledgment",
         "'We will lift them up eventually' -- a future promise, not a present affirmation",
         "'We cannot lift up our hearts' -- a honest admission of genuine, spiritual difficulty",
         "This exchange has no coherent, English translation available at all"
       ],
-      "correctAnswer": "'We have lifted them to the Lord' -- an active, present affirmation, not a passive acknowledgment",
-      "explanation": "This is a practical, close reading -- 'Habemus ad Dominum' affirms, in the present tense, that hearts are already lifted to the Lord, an active response, not a passive acknowledgment.",
+      "correctAnswer": "'We lift them up to the Lord' -- an active, present affirmation, not a passive acknowledgment",
+      "explanation": "This is a practical, close reading -- the people's response 'Habemus ad Dominum' ('We lift them up to the Lord' in the approved English text) is a present-tense, active affirmation, not a passive acknowledgment.",
       "hint": "Recall the translation of 'Sursum corda' and its own congregational response.",
       "citations": [
         {
@@ -1705,7 +1717,7 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: 'Habemus ad Dominum' actually affirms, in the present tense, that hearts are already lifted to the Lord, an active response rather than a passive acknowledgment.",
+      "prompt": "True or False: 'Habemus ad Dominum' ('We lift them up to the Lord') affirms, in the present tense, that the people are lifting their hearts to the Lord, an active response rather than a passive acknowledgment.",
       "correctAnswer": true,
       "explanation": "True, and this close reading matters -- the congregation's own response is genuinely active, not merely passive.",
       "hint": "Recall the close reading of 'Habemus ad Dominum.'",
@@ -1766,11 +1778,11 @@
       "pairs": [
         {
           "left": "Dominus vobiscum -- Et cum spiritu tuo",
-          "right": "A mutual exchange of blessing between priest and assembly"
+          "right": "A mutual exchange of greeting and prayerful wish between priest and assembly"
         },
         {
           "left": "Sursum corda -- Habemus ad Dominum",
-          "right": "An active, present affirmation that hearts are already lifted"
+          "right": "An active, present affirmation: 'We lift them up to the Lord'"
         },
         {
           "left": "Ite, missa est -- its own response",
@@ -1869,6 +1881,10 @@
         {
           "type": "ccc",
           "reference": "CCC 846"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 847"
         }
       ]
     },
@@ -1886,12 +1902,13 @@
         "Toward Rome"
       ],
       "correctAnswer": "Toward the east",
-      "explanation": "Praying 'ad orientem' -- facing east, the direction of the rising sun -- symbolically orients the assembly toward Christ, traditionally associated with the light of the rising sun and his promised return.",
+      "explanation": "'Ad orientem' is Latin for 'toward the east' (the direction of the rising sun), and names a traditional direction of liturgical prayer. It is different from celebrating 'facing the people', which the General Instruction of the Roman Missal (no. 299) describes, in speaking of how the altar is built, as 'desirable wherever possible'.",
       "hint": "'Oriens' is the Latin word for 'rising' -- as in where the sun rises.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Roman Missal, Order of Mass"
+          "reference": "General Instruction of the Roman Missal, 299",
+          "quote": "...Mass can be celebrated at it facing the people, which is desirable wherever possible."
         }
       ]
     },
@@ -1907,8 +1924,8 @@
       "hint": "This phrase shares its root idea with 'ex cathedra' -- both are about an official 'seat' or 'chair.'",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 882"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Universi Dominici Gregis (1996)"
         }
       ]
     },
@@ -1970,8 +1987,9 @@
       "hint": "The second word is the root of 'verbal' and 'verbatim.'",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Vatican II, Dei Verbum (1965), 1",
+          "quote": "Hearing the word of God with reverence and proclaiming it with faith, the sacred synod takes its direction from these words of St. John"
         }
       ]
     },
@@ -1987,8 +2005,8 @@
       "hint": "'Motu' shares a root with 'motion' -- the phrase is about who set it moving.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 882"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Omnium in Mentem (2009), Apostolic Letter issued motu proprio"
         }
       ]
     },
@@ -2027,8 +2045,14 @@
       "hint": "'Obstat' is the root of 'obstacle' -- the phrase is about the absence of one.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 890"
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 830 §2",
+          "quote": "the censor is to consider only the doctrine of the Church concerning faith and morals as it is proposed by the ecclesiastical magisterium"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 830 §3",
+          "quote": "A censor must give his or her opinion in writing; if it is favorable, the ordinary, according to his own prudent judgment, is to grant permission for publication to take place"
         }
       ]
     },
@@ -2040,18 +2064,24 @@
       "difficultyElo": 1600,
       "prompt": "'In persona Christi' ('in the person of Christ') describes what the priest does at Mass. What does it mean?",
       "choices": [
-        "The priest acts, at key moments of the Mass, in the person of Christ himself, not merely as a human representative",
-        "The priest acts entirely in his own, personal capacity, with no connection to Christ at those moments",
+        "By virtue of Holy Orders, the priest acts in the person of Christ the Head, who is himself present to his Church in the priest's ministry",
+        "The priest acts entirely in his own, personal capacity, with no connection to Christ",
         "'In persona Christi' describes a purely honorary title with no genuine, sacramental significance",
         "This phrase applies only to the pope, never to an ordinary, parish priest"
       ],
-      "correctAnswer": "The priest acts, at key moments of the Mass, in the person of Christ himself, not merely as a human representative",
-      "explanation": "This is a further, important, magisterial phrase -- 'in persona Christi' describes the priest acting in Christ's own person at key, sacramental moments, not merely representing him.",
-      "hint": "Consider what 'in the person of Christ' actually, literally suggests about the priest's own role at those moments.",
+      "correctAnswer": "By virtue of Holy Orders, the priest acts in the person of Christ the Head, who is himself present to his Church in the priest's ministry",
+      "explanation": "'In persona Christi' (fully, 'in persona Christi Capitis') names the Church's teaching that, by the sacrament of Holy Orders, the priest acts in the power and place of Christ himself, who is present to his Church as Head of his Body.",
+      "hint": "Consider what 'in the person of Christ' actually, literally suggests about the priest's own role.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 1548",
+          "quote": "the priest, by virtue of the sacrament of Holy Orders, acts in persona Christi Capitis"
+        },
+        {
           "type": "magisterial_document",
-          "reference": "Vatican II, Lumen Gentium (1964)"
+          "reference": "Vatican II, Lumen Gentium (1964), 10",
+          "quote": "acting in the person of Christ, he makes present the Eucharistic sacrifice"
         }
       ]
     },
@@ -2061,14 +2091,15 @@
       "level": 11,
       "type": "true_false",
       "difficultyElo": 1550,
-      "prompt": "True or False: 'In persona Christi' describes the priest acting in Christ's own person, not merely representing him, at key, sacramental moments of the Mass.",
+      "prompt": "True or False: 'In persona Christi' (Capitis) names the Church's teaching that, by Holy Orders, the priest acts in the power and place of Christ himself, who is present to his Church as Head of his Body.",
       "correctAnswer": true,
       "explanation": "True, and this important, magisterial phrase matters -- it names a genuine, sacramental reality, not merely an honorary title.",
       "hint": "Recall the point about what 'in persona Christi' actually, literally means.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Vatican II, Lumen Gentium (1964)"
+          "type": "ccc",
+          "reference": "CCC 1548",
+          "quote": "the priest, by virtue of the sacrament of Holy Orders, acts in persona Christi Capitis"
         }
       ]
     },
@@ -2161,28 +2192,29 @@
       "prompt": "Match each fact about the magisterial phrase 'in persona Christi' to what it means.",
       "pairs": [
         {
-          "left": "'In persona Christi,' literally",
-          "right": "The priest acts in the real person of Christ, not merely as a representative"
+          "left": "'In persona Christi Capitis,' literally",
+          "right": "In the person of Christ the Head"
         },
         {
-          "left": "Connection to 'Et cum spiritu tuo'",
-          "right": "Both name the same sacramental role of the priest"
+          "left": "Who acts in persona Christi Capitis",
+          "right": "The priest, by virtue of the sacrament of Holy Orders"
         },
         {
-          "left": "Why precise vocabulary matters",
-          "right": "Names a sacramental truth many Catholics already sense"
+          "left": "Whose presence this expresses",
+          "right": "Christ himself, present to his Church as Head of his Body"
         },
         {
-          "left": "Where the phrase is used",
-          "right": "In the Church's teaching on the priest's role at Mass and in the sacraments"
+          "left": "Catechism source",
+          "right": "CCC 1548"
         }
       ],
       "explanation": "These four facts together give a precise, theologically significant picture of the phrase 'in persona Christi.'",
       "hint": "Each row names one careful fact about 'in persona Christi.'",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Vatican II, Lumen Gentium (1964)"
+          "type": "ccc",
+          "reference": "CCC 1548",
+          "quote": "the priest, by virtue of the sacrament of Holy Orders, acts in persona Christi Capitis"
         }
       ]
     },
@@ -2246,9 +2278,9 @@
       "hint": "This council convened in 325 specifically to answer a priest named Arius.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Council of Nicaea (325)",
-          "quote": "...God from God, light from light, true God from true God, begotten not made, CONSUBSTANTIAL with the Father..."
+          "type": "ccc",
+          "reference": "CCC 465",
+          "quote": "begotten, not made, of the same substance (homoousios) as the Father"
         }
       ]
     },
@@ -2306,9 +2338,9 @@
       "hint": "This Latin phrase literally grants permission for something to happen -- specifically, to be printed.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 830",
+          "quote": "if it is favorable, the ordinary, according to his own prudent judgment, is to grant permission for publication to take place"
         }
       ]
     },
@@ -2322,7 +2354,7 @@
       "pairs": [
         {
           "left": "Sacramentum",
-          "right": "Originally a soldier's oath; root of 'sacrament'"
+          "right": "Latin word for something sacred, including a sacred oath such as a soldier's; the root of 'sacrament'"
         },
         {
           "left": "Magisterium",
@@ -2334,7 +2366,7 @@
         },
         {
           "left": "Imprimatur",
-          "right": "'Let it be printed' -- a bishop's doctrinal approval of a text"
+          "right": "'Let it be printed' -- a bishop's permission to publish a text"
         }
       ],
       "explanation": "Fluency in terms like these unlocks a whole vocabulary the Church has used for centuries to describe her own authority, sacraments, and mission -- reading them well means reading the Church's own self-description more clearly.",
@@ -2349,6 +2381,11 @@
           "type": "ccc",
           "reference": "CCC 1113",
           "quote": "There are seven sacraments in the Church: Baptism, Confirmation or Chrismation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Code of Canon Law, can. 830",
+          "quote": "if it is favorable, the ordinary, according to his own prudent judgment, is to grant permission for publication to take place"
         }
       ],
       "miniGameEligible": true
@@ -2424,7 +2461,7 @@
         },
         {
           "left": "Ex opere operato",
-          "right": "Sacramental efficacy from the rite itself, not the minister"
+          "right": "Sacramental efficacy from Christ's saving work, not the minister's personal holiness"
         },
         {
           "left": "Sensus fidei",
@@ -2550,8 +2587,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "reference": "CCC 92",
+          "quote": "the supernatural appreciation of faith (sensus fidei)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 93",
+          "quote": "the People of God, guided by the sacred teaching authority (Magisterium)"
         }
       ]
     },
@@ -2568,8 +2610,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "reference": "CCC 92",
+          "quote": "the supernatural appreciation of faith (sensus fidei)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 93",
+          "quote": "the People of God, guided by the sacred teaching authority (Magisterium)"
         }
       ]
     },
@@ -2605,6 +2652,21 @@
           "type": "ccc",
           "reference": "CCC 85",
           "quote": "The task of giving an authentic interpretation of the Word of God..."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1128",
+          "quote": "independently of the personal holiness of the minister"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 92",
+          "quote": "the supernatural appreciation of faith (sensus fidei)"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 93",
+          "quote": "the People of God, guided by the sacred teaching authority (Magisterium)"
         }
       ]
     },
@@ -2790,20 +2852,25 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "Pange Lingua's final two stanzas -- 'Tantum ergo Sacramentum veneremur cernui, et antiquum documentum novo cedat ritui' -- make a claim about the relationship between the old covenant and the new. Which is it?",
+      "prompt": "Pange Lingua's final two stanzas -- 'Tantum ergo Sacramentum veneremur cernui, et antiquum documentum novo cedat ritui' -- make a claim about the old rites and the new rite of the Eucharist. Which is it?",
       "choices": [
-        "The ancient document yields to a new rite, fulfilment rather than contradiction",
-        "The ancient document is shown to have been false all along",
+        "The old rites, which were figures of the Eucharist, give way to the new rite that fulfils them -- fulfilment rather than contradiction",
+        "The old rites are shown to have been false all along",
         "The new rite is a temporary concession, with the older form still normative",
-        "The two rites are unrelated and simply coexist"
+        "The old rites and the new rite are unrelated and simply coexist"
       ],
-      "correctAnswer": "The ancient document yields to a new rite, fulfilment rather than contradiction",
-      "explanation": "'Cedat' is 'let it yield' -- a word for giving place, not for being refuted. The line names succession and fulfilment: the older figure gives way because what it pointed toward has arrived, which is precisely the Church's reading of the Old Testament's relation to the New.",
+      "correctAnswer": "The old rites, which were figures of the Eucharist, give way to the new rite that fulfils them -- fulfilment rather than contradiction",
+      "explanation": "'Cedat' is 'let it yield' -- a word for giving place, not for being refuted. The old rites were figures, and they give way because what they prefigured has arrived (CCC 128). This is not a revoking of the Old Covenant itself, which 'has never been revoked' (CCC 121).",
       "hint": "Everything turns on 'cedat.' Yielding is not the same as being disproved.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 128-129"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121",
+          "quote": "the Old Covenant has never been revoked"
         }
       ]
     },
@@ -2870,7 +2937,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "The Advent hymn 'Veni, veni, Emmanuel' takes its name and its refrain directly from the 'O Antiphons' -- seven antiphons sung at Vespers on the days leading up to Christmas. What does 'Emmanuel' itself mean, per the Gospel's own translation of the name?",
+      "prompt": "The Advent hymn 'Veni, veni, Emmanuel' has verses based on the 'O Antiphons' -- seven antiphons sung at Vespers on the days leading up to Christmas. What does 'Emmanuel' itself mean, per the Gospel's own translation of the name?",
       "choices": [
         "'God with us'",
         "'Prince of Peace'",
@@ -2878,7 +2945,7 @@
         "'Morning Star'"
       ],
       "correctAnswer": "'God with us'",
-      "explanation": "Matthew's Gospel quotes Isaiah's prophecy of a child called Emmanuel and immediately glosses the name for the reader: 'which means, God with us.' The hymn's refrain -- 'Gaude, gaude, Emmanuel nascetur pro te, Israel,' 'Rejoice, rejoice, Emmanuel shall be born for thee, O Israel' -- leans on that same title Matthew already unpacks.",
+      "explanation": "Matthew's Gospel quotes Isaiah's prophecy of a child called Emmanuel and immediately glosses the name for the reader: 'which being interpreted is, God with us.' The hymn's refrain -- 'Gaude, gaude, Emmanuel nascetur pro te, Israel,' 'Rejoice, rejoice, Emmanuel shall be born for thee, O Israel' -- leans on that same title Matthew already unpacks.",
       "hint": "Matthew's Gospel translates this exact name for its readers right after quoting the prophecy.",
       "citations": [
         {
@@ -2907,7 +2974,7 @@
         "The Book of Tobit"
       ],
       "correctAnswer": "The Book of Wisdom (Wisdom 8:1)",
-      "explanation": "Wisdom 8:1 describes divine Wisdom as reaching 'from end to end mightily, and ordering all things sweetly' -- exactly the phrase the antiphon borrows almost word for word, applying to Christ what the Old Testament already says of Wisdom personified.",
+      "explanation": "Wisdom 8:1 describes divine Wisdom: 'She reacheth, therefore, from end to end mightily, and ordereth all things sweetly' -- exactly the phrase the antiphon borrows almost word for word, applying to Christ what the Old Testament already says of Wisdom personified.",
       "hint": "Look for the book that personifies Wisdom herself, spanning the whole created order.",
       "citations": [
         {
@@ -2976,12 +3043,12 @@
       "difficultyElo": 1825,
       "prompt": "'O Clavis David' -- 'O Key of David' -- calls Christ the one 'who opens and no man shuts, who shuts and no man opens.' This image is drawn from Isaiah's description of a royal steward, and is applied to Christ directly in which New Testament book?",
       "choices": [
-        "Revelation, where the risen Christ is described holding 'the key of David... who opens and no one shall shut, who shuts and no one opens'",
+        "Revelation, where the risen Christ is described as 'he that hath the key of David, he that openeth and no man shutteth, shutteth and no man openeth'",
         "The Acts of the Apostles, describing Peter's ministry",
         "The Letter to the Hebrews, describing the Temple veil",
         "The Gospel of Mark, describing the empty tomb"
       ],
-      "correctAnswer": "Revelation, where the risen Christ is described holding 'the key of David... who opens and no one shall shut, who shuts and no one opens'",
+      "correctAnswer": "Revelation, where the risen Christ is described as 'he that hath the key of David, he that openeth and no man shutteth, shutteth and no man openeth'",
       "explanation": "Isaiah 22:22 originally describes Eliakim, a steward given 'the key of the house of David' with authority over who enters the king's court. Revelation 3:7 applies that same image directly to the risen Christ, and the antiphon in turn applies it to the Christ still awaited in Advent -- the one with final authority over the gates of the kingdom.",
       "hint": "Look for the New Testament's most direct, explicit reuse of the 'key of David' image, addressed to the risen Christ himself.",
       "citations": [
@@ -3003,12 +3070,12 @@
       "difficultyElo": 1825,
       "prompt": "'O Oriens' -- 'O Dawn' or 'O Rising Sun' -- calls Christ 'the splendor of eternal light,' come to give light to those who sit in darkness. Which Gospel canticle, prayed daily at Morning Prayer, uses this same 'dawn' image for Christ?",
       "choices": [
-        "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
+        "The Canticle of Zechariah (the Benedictus), which speaks of 'the Orient from on high' who will 'enlighten them that sit in darkness and in the shadow of death'",
         "The Magnificat",
         "The Nunc Dimittis",
         "The Te Deum"
       ],
-      "correctAnswer": "The Canticle of Zechariah (the Benedictus), which ends by calling Christ 'the dawn from on high' who will 'give light to those who sit in darkness and in the shadow of death'",
+      "correctAnswer": "The Canticle of Zechariah (the Benedictus), which speaks of 'the Orient from on high' who will 'enlighten them that sit in darkness and in the shadow of death'",
       "explanation": "Zechariah's canticle, prayed every morning in the Church's Liturgy of the Hours, already closes on exactly this image -- Christ as the dawn breaking on those in darkness -- itself echoing Isaiah's earlier promise that 'the people that walked in darkness, have seen a great light.'",
       "hint": "This canticle is prayed every single day at Morning Prayer, and it ends on an image of light breaking over darkness.",
       "citations": [
@@ -3028,7 +3095,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1825,
-      "prompt": "'O Rex Gentium' -- 'O King of the Nations' -- calls Christ the one all peoples desire, and 'the cornerstone who makes both one.' Isaiah 2:4's vision of nations beating swords into plowshares under this king's rule points toward which New Testament theme?",
+      "prompt": "'O Rex Gentium' -- 'O King of the Nations' -- calls Christ the one all peoples desire, and 'the cornerstone who makes both one.' Which New Testament theme does the phrase 'who makes both one' draw on?",
       "choices": [
         "Christ as the one who breaks down the dividing wall of hostility, making Jew and Gentile one people rather than two",
         "The eventual disarmament of every earthly nation-state",
@@ -3036,7 +3103,7 @@
         "The reunification of the northern and southern kingdoms of Israel alone"
       ],
       "correctAnswer": "Christ as the one who breaks down the dividing wall of hostility, making Jew and Gentile one people rather than two",
-      "explanation": "Isaiah's 'king of the nations' looks toward every people, not Israel alone, being brought under one peace. Ephesians reads this fulfilled in Christ specifically as the reconciliation of Jew and Gentile into 'one new man' -- the 'cornerstone' language of the antiphon points to exactly this same reconciling role.",
+      "explanation": "The antiphon's 'cornerstone... who makes both one' draws on Ephesians 2, where Christ reconciles Jew and Gentile, 'that he might make the two in himself into one new man, making peace' (Ephesians 2:15), and is called 'the chief corner stone' (Ephesians 2:20). The title 'King of the Nations' looks toward every people, not Israel alone.",
       "hint": "Paul's letters describe Christ uniting two groups that were previously divided -- not literal disarmament.",
       "citations": [
         {
@@ -3045,7 +3112,7 @@
         },
         {
           "type": "scripture",
-          "reference": "Isaiah 2:4"
+          "reference": "Ephesians 2:20"
         }
       ]
     },
@@ -3134,17 +3201,22 @@
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 1900,
-      "prompt": "How does 'Ave Verum Corpus's' direct address to the 'true Body' connect to the phrase 'in persona Christi'?",
+      "prompt": "How does 'Ave Verum Corpus's' direct address to the 'true Body' relate to the phrase 'in persona Christi'?",
       "choices": [
-        "Both name the same sacramental reality -- Christ's real presence and action, not a merely symbolic one",
-        "The two phrases have no meaningful connection to each other at all",
+        "They are distinct: the hymn addresses Christ's Real Presence in the Eucharist, while 'in persona Christi' names the priest acting in the person of Christ the Head",
+        "They name exactly the same thing: Christ's Real Presence in the Eucharistic species",
         "'Ave Verum Corpus' contradicts the sacramental claim of 'in persona Christi' entirely",
-        "'In persona Christi' applies only to the priest, with no bearing on the Eucharist itself"
+        "'In persona Christi' applies to every Catholic who receives Communion"
       ],
-      "correctAnswer": "Both name the same sacramental reality -- Christ's real presence and action, not a merely symbolic one",
-      "explanation": "This is a direct connection -- both the hymn's address to the 'true Body' and 'in persona Christi' name the same sacramental reality of Christ's genuine presence and action.",
-      "hint": "Recall what 'in persona Christi' names about Christ's presence and action at Mass.",
+      "correctAnswer": "They are distinct: the hymn addresses Christ's Real Presence in the Eucharist, while 'in persona Christi' names the priest acting in the person of Christ the Head",
+      "explanation": "The hymn addresses the true Body of Christ, present in the Eucharist. 'In persona Christi' names something different: the ordained priest's acting in the person of Christ the Head (CCC 1548).",
+      "hint": "Ask who or what each phrase is about: Christ's presence in the sacrament, or the priest's acting in Christ's person.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1548",
+          "quote": "the priest, by virtue of the sacrament of Holy Orders, acts in persona Christi Capitis"
+        },
         {
           "type": "ccc",
           "reference": "CCC 1381"
@@ -3157,11 +3229,16 @@
       "level": 15,
       "type": "true_false",
       "difficultyElo": 1850,
-      "prompt": "True or False: 'Ave Verum Corpus' and the phrase 'in persona Christi' name the same sacramental reality of Christ's genuine presence and action.",
-      "correctAnswer": true,
-      "explanation": "True. Both point to the same underlying sacramental reality, not a merely symbolic one.",
-      "hint": "Recall what 'in persona Christi' names about Christ's presence and action at Mass.",
+      "prompt": "True or False: 'Ave Verum Corpus' (addressed to Christ's true Body) and the phrase 'in persona Christi' name exactly the same thing.",
+      "correctAnswer": false,
+      "explanation": "False. The hymn addresses Christ's true Body present in the Eucharist, while 'in persona Christi' names the ordained priest's acting in the person of Christ the Head (CCC 1548). They are distinct.",
+      "hint": "Ask who or what each phrase is about: Christ's presence in the sacrament, or the priest's acting in Christ's person.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 1548",
+          "quote": "the priest, by virtue of the sacrament of Holy Orders, acts in persona Christi Capitis"
+        },
         {
           "type": "ccc",
           "reference": "CCC 1381"
@@ -3174,7 +3251,7 @@
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 1900,
-      "prompt": "'Ave Verum Corpus' is much shorter than 'Tantum Ergo' or 'Pange Lingua,' the longer hymns. What practical value does a short hymn like this add?",
+      "prompt": "'Ave Verum Corpus' is much shorter than the full 'Pange Lingua,' which runs to six stanzas. What practical value does a short hymn like this add?",
       "choices": [
         "It shows the same deep, Eucharistic theology can be expressed briefly, not only at greater length",
         "A genuinely short hymn has no genuine, theological depth at all, unlike a longer one",
@@ -3221,8 +3298,8 @@
           "right": "The true Body, born of Mary, sacrificed on the Cross"
         },
         {
-          "left": "Connection to 'in persona Christi'",
-          "right": "Both name the same, real, sacramental reality of Christ's own presence"
+          "left": "Relation to 'in persona Christi'",
+          "right": "Distinct ideas: the hymn addresses Christ's Real Presence, while 'in persona Christi' names the priest acting in the person of Christ the Head"
         },
         {
           "left": "Its own brevity",
@@ -3239,6 +3316,11 @@
         {
           "type": "ccc",
           "reference": "CCC 1381"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1548",
+          "quote": "the priest, by virtue of the sacrament of Holy Orders, acts in persona Christi Capitis"
         }
       ]
     },
@@ -3311,7 +3393,7 @@
       "level": 16,
       "type": "fill_blank",
       "difficultyElo": 2035,
-      "prompt": "At the Gospel's proclamation, the deacon or priest may recall the Vulgate's own words for John the Baptist's cry: 'Ecce ____ Dei' -- 'Behold the Lamb of God.'",
+      "prompt": "At Mass, before Communion, the priest shows the Host and repeats the words of John the Baptist: 'Ecce ____ Dei' -- 'Behold the Lamb of God.'",
       "correctAnswer": "Agnus",
       "explanation": "This is the same word met in 'Agnus Dei,' now seen in its full Scriptural setting -- John the Baptist's own words at the Jordan, which the Mass places on the priest's lips again just before Communion.",
       "hint": "The word is the same one that opens the litany sung before Communion.",
@@ -3336,7 +3418,7 @@
         "All the apostles"
       ],
       "correctAnswer": "All nations",
-      "explanation": "'Gens, gentis' is a people or nation -- the same root behind 'gentile' and 'genealogy.' 'Omnes gentes' makes the command's universal scope explicit in the Latin exactly as it is in the Greek behind it: every nation, not one people alone.",
+      "explanation": "'Gens, gentis' is a people or nation -- the root behind English 'gentile.' 'Omnes gentes' makes the command's universal scope explicit in the Latin exactly as it is in the Greek behind it: every nation, not one people alone.",
       "hint": "The word is the root of 'gentile' -- ask what that word means about scope.",
       "citations": [
         {
@@ -3368,7 +3450,7 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 1975,
-      "prompt": "Paul's earliest creedal formula, quoted at 1 Corinthians 15:3-8, opens (in most Latin renderings) with 'Christus mortuus est pro peccatis nostris.' What does 'pro peccatis nostris' mean?",
+      "prompt": "The creedal formula Paul says he received and handed on, at 1 Corinthians 15:3-8, includes in the Vulgate the words 'Christus mortuus est pro peccatis nostris.' What does 'pro peccatis nostris' mean?",
       "choices": [
         "For our sins",
         "Instead of our sins",
@@ -3376,7 +3458,7 @@
         "Without our sins"
       ],
       "correctAnswer": "For our sins",
-      "explanation": "'Pro' with the ablative here carries the sense of 'on behalf of' or 'for the sake of' -- the same preposition behind English 'pro-' words like 'pro bono.' The phrase names exactly what the earliest creed says Christ's death accomplished, and for whom.",
+      "explanation": "'Pro' with the ablative here carries the sense of 'on behalf of' or 'for the sake of' -- the same preposition behind English 'pro-' words like 'pro bono.' The phrase names exactly what this formula says Christ's death accomplished, and for what.",
       "hint": "'Pro' commonly means 'on behalf of' when paired with the ablative case.",
       "citations": [
         {
@@ -3398,7 +3480,7 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Luke 1:34-35"
+          "reference": "Luke 1:38"
         }
       ]
     },
@@ -3467,8 +3549,8 @@
           "right": "Luke 1:46 -- My soul magnifies the Lord"
         }
       ],
-      "explanation": "Every one of these phrases is famous enough to have entered the Church's own vocabulary as a name: the Magnificat is named for its first word, and 'fiat' has become an ordinary English word for an authoritative decree, on the strength of Mary's one-word consent.",
-      "hint": "Two of these phrases have given their opening word as the common name for the whole text.",
+      "explanation": "Every one of these phrases is famous enough to have entered the Church's own vocabulary: the Magnificat is named for its first word, and 'fiat' -- Latin for 'let it be done' -- is the word by which Mary's consent is known, and has also become an ordinary English word for an authoritative decree.",
+      "hint": "The Magnificat takes its common name from its opening Latin word, and 'fiat' is the name by which Mary's consent is known.",
       "citations": [
         {
           "type": "scripture",
@@ -3664,7 +3746,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "Augustine's most famous line, from the opening of the Confessions, reads 'Cor nostrum inquietum est, donec requiescat in te.' What does it say?",
+      "prompt": "A famous line of St. Augustine, from the opening of the Confessions, reads '... et inquietum est cor nostrum donec requiescat in te.' What does it say?",
       "choices": [
         "Our heart is restless until it rests in you",
         "Our heart is silent until it speaks of you",
@@ -3672,7 +3754,7 @@
         "Our soul is weak until it serves you"
       ],
       "correctAnswer": "Our heart is restless until it rests in you",
-      "explanation": "'Inquietum' -- literally 'un-quieted' -- names the restlessness, and 'requiescat' -- 'may it rest' -- names the only cure Augustine will accept for it. The whole Confessions is essentially one long argument for this single opening sentence.",
+      "explanation": "'Inquietum' -- literally 'un-quieted' -- names the restlessness, and 'requiescat' -- 'may it rest' -- names the rest found in God. The line comes from the opening section of the Confessions (I.1.1), and CCC 30 quotes it.",
       "hint": "'Requiescat' is the same root behind the funeral prayer 'requiescat in pace' -- rest in peace.",
       "citations": [
         {
@@ -3722,8 +3804,8 @@
           "reference": "St. Vincent of Lérins, Commonitorium 2"
         },
         {
-          "type": "ccc",
-          "reference": "CCC 94"
+          "type": "magisterial_document",
+          "reference": "St. John Paul II, Address to the Pontifical Gregorian University on the 125th Anniversary of Dei Filius (30 September 1995), 2"
         }
       ]
     },
@@ -3733,7 +3815,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio Scripturarum ignoratio Christi est.' What does it claim?",
+      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio enim Scripturarum ignoratio Christi est.' What does it claim?",
       "choices": [
         "Ignorance of the Scriptures is ignorance of Christ",
         "Knowledge of Scripture replaces the need to know Christ personally",
@@ -3741,7 +3823,7 @@
         "Christ is known only apart from the Scriptures"
       ],
       "correctAnswer": "Ignorance of the Scriptures is ignorance of Christ",
-      "explanation": "Vatican II found this fourth-century line important enough to quote directly, urging all the faithful toward frequent reading of Scripture on the strength of Jerome's own maxim -- a patristic voice given fresh authority eight centuries later.",
+      "explanation": "Vatican II found this line from St. Jerome's Commentary on Isaiah important enough to quote directly, urging all the faithful toward frequent reading of Scripture on the strength of Jerome's own maxim -- a patristic voice given fresh authority more than fifteen centuries later.",
       "hint": "The same word, 'ignoratio,' appears twice, once about Scripture and once about Christ.",
       "citations": [
         {
@@ -3758,7 +3840,7 @@
       "difficultyElo": 2075,
       "prompt": "True or False: The maxim 'Extra Ecclesiam nulla salus' (outside the Church there is no salvation) is traditionally attributed to St. Cyprian of Carthage.",
       "correctAnswer": true,
-      "explanation": "True. Cyprian's third-century formulation is the origin of the phrase; its later, careful interpretation -- distinguishing formal from invincible ignorance -- is a separate development, but the phrase itself is genuinely patristic in origin, not a later invention.",
+      "explanation": "True. The maxim is traditionally attributed to Cyprian's third-century teaching (Epistle 73.21), and CCC 846 notes that this affirmation was often repeated by the Church Fathers; its later, careful interpretation -- distinguishing formal from invincible ignorance -- is a separate development, but the maxim itself is genuinely patristic in origin, not a later invention.",
       "hint": "Consider which third-century bishop of Carthage is credited with this formulation.",
       "citations": [
         {
@@ -3789,8 +3871,12 @@
       "hint": "Ask whether a phrase capturing someone's argument is the same as a verified direct quotation.",
       "citations": [
         {
+          "type": "church_father",
+          "reference": "St. Augustine, Sermon 131.10"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 2089"
+          "reference": "CCC 882"
         }
       ]
     },
@@ -3819,8 +3905,8 @@
       "difficultyElo": 2075,
       "prompt": "True or False: Reading a Church Father's Latin directly, rather than only a translation, can surface a precise word choice -- like Augustine's 'inquietum' -- that an English rendering may soften or lose.",
       "correctAnswer": true,
-      "explanation": "True, and this is the whole reason patristic Latin belongs in learning Church Latin. 'Restless' is a fair translation of 'inquietum,' but the Latin's own shape -- 'un-quieted,' built from the same root as 'requiescat' two words later -- creates an echo within the sentence that translation alone does not preserve.",
-      "hint": "Compare 'inquietum' and 'requiescat' -- do they share a root in the Latin the way 'restless' and 'rest' barely do in English?",
+      "explanation": "True. Reading the Latin lets you see the exact word Augustine chose: 'inquietum' is built from 'in-' (not) and 'quietum' (quiet), and it shares its root with 'requiescat' later in the same sentence. A good English rendering such as 'restless ... rests' can keep that echo, but only a reader of the Latin can see the word chosen and weigh it for himself.",
+      "hint": "Compare 'inquietum' and 'requiescat' in the Latin -- do they share a root?",
       "citations": [
         {
           "type": "church_father",
@@ -3828,7 +3914,7 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 108"
+          "reference": "CCC 30"
         }
       ]
     },
@@ -3868,11 +3954,11 @@
       "prompt": "Match each patristic Latin phrase to the Father it is genuinely attributed to.",
       "pairs": [
         {
-          "left": "Cor nostrum inquietum est, donec requiescat in te",
+          "left": "Inquietum est cor nostrum donec requiescat in te",
           "right": "St. Augustine of Hippo"
         },
         {
-          "left": "Anima naturaliter Christiana",
+          "left": "Testimonium animae naturaliter Christianae",
           "right": "Tertullian"
         },
         {
@@ -3880,12 +3966,12 @@
           "right": "St. Vincent of Lérins"
         },
         {
-          "left": "Extra Ecclesiam nulla salus",
+          "left": "Extra Ecclesiam nulla salus (traditional condensed form)",
           "right": "St. Cyprian of Carthage"
         }
       ],
-      "explanation": "Each of these phrases is genuinely traceable to the Father named, unlike 'Roma locuta, causa finita est' (often wrongly attributed to Augustine) -- the distinction between a verified quotation and a later summary is worth carrying into how any of these four phrases gets used or repeated.",
-      "hint": "All four of these, unlike 'Roma locuta, causa finita est,' are genuinely verified to their named author.",
+      "explanation": "Each of these is genuinely traceable to the Father named -- the first three are phrases from his own writings, and the fourth is the traditional condensed Latin form of Cyprian's teaching that there is no salvation outside the Church (Epistle 73.21). 'Roma locuta, causa finita est,' by contrast, is only a later summary of a remark of Augustine in Sermon 131 -- a distinction between a verified quotation and a later summary that is worth carrying into how any of these phrases gets used.",
+      "hint": "All four trace to their named Father, unlike 'Roma locuta, causa finita est,' which is only a later summary of Augustine.",
       "citations": [
         {
           "type": "ccc",
@@ -3893,7 +3979,11 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 94"
+          "reference": "CCC 30"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "St. John Paul II, Address to the Pontifical Gregorian University on the 125th Anniversary of Dei Filius (30 September 1995), 2"
         }
       ],
       "miniGameEligible": true
@@ -4016,13 +4106,9 @@
       "hint": "Consider what practical harm follows from repeating a false, patristic attribution.",
       "citations": [
         {
-          "type": "church_father",
-          "reference": "St. Vincent of Lérins, Commonitorium 2"
-        },
-        {
           "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "reference": "CCC 2464",
+          "quote": "The eighth commandment forbids misrepresenting the truth in our relations with others."
         }
       ]
     },
@@ -4038,13 +4124,9 @@
       "hint": "Consider what misattribution does to the authentic tradition.",
       "citations": [
         {
-          "type": "church_father",
-          "reference": "St. Vincent of Lérins, Commonitorium 2"
-        },
-        {
           "type": "ccc",
-          "reference": "CCC 85",
-          "quote": "The task of giving an authentic interpretation of the Word of God..."
+          "reference": "CCC 2464",
+          "quote": "The eighth commandment forbids misrepresenting the truth in our relations with others."
         }
       ]
     },
@@ -4258,14 +4340,19 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: 'Ite, missa est' uses 'missa' as a passive participle related to the verb 'mittere,' to send -- the same root that gives the Mass its own name.",
+      "prompt": "True or False: In 'Ite, missa est,' the word 'missa' is the late Latin word for 'dismissal,' related to the verb 'mittere,' to send -- the same root that gives the Mass its name.",
       "correctAnswer": true,
-      "explanation": "True, and this closes a loop: 'missa,' 'sent,' is a form of the same verb that gives English 'mission' and 'missionary' -- the dismissal literally sends the assembly out, which is exactly why the Mass takes its name from this one word.",
+      "explanation": "True. 'Missa' is a late Latin word that originally meant 'dismissal' (Pope Benedict XVI, Sacramentum Caritatis 51), related to 'mittere,' to send, the root of English 'mission.' CCC 1332 says the Mass (Missa) is so named because the liturgy concludes with the sending forth (missio) of the faithful.",
       "hint": "This is the same root that explains where the Mass gets its name.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1332"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 51, Pope Benedict XVI (2007)",
+          "quote": "In antiquity, missa simply meant \"dismissal.\""
         }
       ]
     },
@@ -4350,7 +4437,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 490-491"
+          "reference": "CCC 495"
         }
       ]
     },
@@ -4367,7 +4454,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 490-491"
+          "reference": "CCC 495"
         }
       ]
     },
@@ -4390,7 +4477,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 490-491"
+          "reference": "CCC 966"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 495"
         }
       ]
     },
@@ -4407,7 +4498,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 490-491"
+          "reference": "CCC 966"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 495"
         }
       ]
     },
@@ -4429,8 +4524,9 @@
       "hint": "Consider what general lesson 'Mater Dei' and 'Regina Caeli' together teach about learning grammar.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 490-491"
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4446,8 +4542,9 @@
       "hint": "Recall the general conclusion about learning ecclesiastical Latin grammar.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 490-491"
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4481,7 +4578,15 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 490-491"
+          "reference": "CCC 495"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 966"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 608"
         }
       ]
     },
@@ -4504,7 +4609,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 490-491"
+          "reference": "CCC 495"
         }
       ]
     },
@@ -4556,18 +4661,19 @@
       "difficultyElo": 2425,
       "prompt": "Beyond the liturgy, in what other capacity does the Holy See continue to use Latin as an official language?",
       "choices": [
-        "The Code of Canon Law and many formal Vatican documents are promulgated with Latin as their official text",
+        "The most important documents of the papal Magisterium and the most solemn official acts of the Roman Pontiffs are written in Latin in their authentic form",
         "Latin has no remaining official use anywhere outside the liturgy",
         "Latin is used only for internal Vatican correspondence, never for published law",
         "Latin was replaced by Italian as the Holy See's official legal language"
       ],
-      "correctAnswer": "The Code of Canon Law and many formal Vatican documents are promulgated with Latin as their official text",
-      "explanation": "Canon law's official text remains Latin, and many papal documents carry a Latin title and an authoritative Latin text alongside vernacular translations -- Latin's role as the Church's working legal and administrative language continues well beyond the sanctuary.",
-      "hint": "Ask what legal text of the Church is cited by its Latin title.",
+      "correctAnswer": "The most important documents of the papal Magisterium and the most solemn official acts of the Roman Pontiffs are written in Latin in their authentic form",
+      "explanation": "Pope Benedict XVI notes in Latina Lingua (2012) that, to highlight the Church's universal character, the most important documents of the papal Magisterium and the most solemn official acts of the Roman Pontiffs are written in Latin in their authentic form. Latin therefore remains in use beyond the liturgy.",
+      "hint": "Ask in which language the Church's most solemn papal documents are written in their authentic form.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "the most important documents of the Papal Magisterium and the most solemn official Acts of the Roman Pontiffs are written in this language in their authentic form"
         }
       ]
     },
@@ -4577,14 +4683,19 @@
       "level": 22,
       "type": "fill_blank",
       "difficultyElo": 2485,
-      "prompt": "A language preserved specifically because it does not change with everyday usage, keeping doctrinal formulas stable across centuries and translations, is sometimes called a 'sacred' or ____ language.",
+      "prompt": "Latin is the Church's traditional language of worship, often called her 'sacred' or ____ language; Pope Pius XII taught that its use in the Church is 'an effective antidote for any corruption of doctrinal truth.'",
       "correctAnswer": "liturgical",
-      "explanation": "A language no longer spoken as anyone's native tongue stops shifting in the way living vernaculars constantly do -- which is part of why the Church has valued Latin's very fixedness as an asset for doctrinal precision, not merely kept it out of custom.",
+      "explanation": "Latin is called the Church's liturgical language because it is the traditional language of her worship, and the Second Vatican Council directs that its use be preserved in the Latin rites (Sacrosanctum Concilium 36). Pope Pius XII taught that the use of Latin is a sign of unity and 'an effective antidote for any corruption of doctrinal truth' (Mediator Dei 60).",
       "hint": "The word describes the language's specific role in worship, distinct from a 'dead' language spoken nowhere.",
       "citations": [
         {
           "type": "council",
           "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Mediator Dei 60, Pope Pius XII (1947)",
+          "quote": "an effective antidote for any corruption of doctrinal truth"
         }
       ]
     },
@@ -4604,8 +4715,14 @@
           "reference": "Second Vatican Council, Sacrosanctum Concilium 36"
         },
         {
-          "type": "ccc",
-          "reference": "CCC 1140"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4617,41 +4734,23 @@
       "difficultyElo": 2425,
       "prompt": "Reading 'Ite, missa est' with basic Latin grammar, the Mass's own name emerges from which single word?",
       "choices": [
-        "'Missa' -- the passive participle of 'mittere,' to send",
+        "'Missa' -- the late Latin word for 'dismissal,' related to 'mittere,' to send",
         "'Ite' -- the imperative meaning 'go'",
         "'Est' -- the verb 'to be'",
         "None of these three words relates to the Mass's name"
       ],
-      "correctAnswer": "'Missa' -- the passive participle of 'mittere,' to send",
-      "explanation": "This draws on basic Latin grammar: 'missa,' sent, gives the Mass its name because the dismissal -- being sent out to live what was just celebrated -- was considered the defining final act of the whole liturgy.",
+      "correctAnswer": "'Missa' -- the late Latin word for 'dismissal,' related to 'mittere,' to send",
+      "explanation": "'Missa' is a late Latin word meaning 'dismissal' (Sacramentum Caritatis 51), related to 'mittere,' to send. CCC 1332 explains that the Mass (Missa) takes its name because the liturgy concludes with the sending forth (missio) of the faithful.",
       "hint": "The dismissal word 'missa' -- being sent out -- literally names the whole Mass after its final act.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 1332"
-        }
-      ]
-    },
-    {
-      "id": "church-latin-l22-007",
-      "topic": "church-latin",
-      "level": 22,
-      "type": "multiple_choice",
-      "difficultyElo": 2425,
-      "prompt": "How should a Latin tag encountered online, with no clear source given, generally be treated?",
-      "choices": [
-        "With caution, like 'Roma locuta, causa finita est' -- worth checking against an actual source before treating it as a verbatim quotation",
-        "As certainly authentic, since it is written in Latin",
-        "As certainly false, since it lacks a citation",
-        "As irrelevant to verify, since the meaning is what matters"
-      ],
-      "correctAnswer": "With caution, like 'Roma locuta, causa finita est' -- worth checking against an actual source before treating it as a verbatim quotation",
-      "explanation": "This is the discipline of careful sourcing: an appealing Latin phrase is not thereby a verified quotation, and the habit of checking a source is worth carrying forward.",
-      "hint": "Recall 'Roma locuta, causa finita est' -- a phrase that sounds authoritative but turned out to be a later summary, not a verbatim quotation.",
-      "citations": [
+        },
         {
-          "type": "ccc",
-          "reference": "CCC 2089"
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 51, Pope Benedict XVI (2007)",
+          "quote": "In antiquity, missa simply meant \"dismissal.\""
         }
       ]
     },
@@ -4667,8 +4766,9 @@
       "hint": "Ask whether grammar knowledge, unlike a memorized vocabulary list, transfers to sentences never seen before.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1140"
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4753,8 +4853,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4771,8 +4876,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4794,8 +4904,14 @@
       "hint": "Consider what vocabulary, prayers, and grammar all have in common.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4811,8 +4927,14 @@
       "hint": "Consider how a learner moves from recognizing familiar phrases to reading them independently.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4835,8 +4957,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4853,8 +4980,13 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4887,8 +5019,14 @@
       "hint": "Each row names one step in the concluding answer about the goal of learning Church Latin.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4904,8 +5042,14 @@
       "hint": "Consider whether learning Church Latin can ever simply be completed.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4927,8 +5071,14 @@
       "hint": "Consider what habit, not a finished body of memorized vocabulary, counts as success.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     },
@@ -4950,8 +5100,14 @@
       "hint": "Consider what all the vocabulary and grammar is ultimately for.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 101"
+          "type": "magisterial_document",
+          "reference": "Latina Lingua 2, Pope Benedict XVI (2012)",
+          "quote": "knowledge of the Latin language and culture is proving to be more necessary than ever for the study of the sources"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Sacramentum Caritatis 62, Pope Benedict XVI (2007)",
+          "quote": "receive the preparation needed to understand and to celebrate Mass in Latin, and also to use Latin texts"
         }
       ]
     }
