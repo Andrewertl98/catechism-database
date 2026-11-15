@@ -90,7 +90,7 @@
         },
         {
           "type": "council",
-          "reference": "Council of Ephesus (431)",
+          "reference": "Council of Ephesus (431), approving St. Cyril's Second Letter to Nestorius (Tanner)",
           "quote": "...they dared to call the holy virgin, mother of God, not as though the nature of the Word or his godhead received the origin of their being from the holy virgin, but because there was born from her his holy body rationally ensouled..."
         }
       ]
@@ -222,7 +222,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2132"
+          "reference": "CCC 957",
+          "quote": "We worship Christ as God's Son; we love the martyrs as the Lord's disciples and imitators..."
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 50",
+          "quote": "...she has always venerated them with special devotion, together with the Blessed Virgin Mary and the holy angels."
         }
       ]
     },
@@ -238,9 +244,14 @@
       "hint": "The word Catholics use for honoring a saint, distinct from worshipping God.",
       "citations": [
         {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 50",
+          "quote": "...she has always venerated them with special devotion, together with the Blessed Virgin Mary and the holy angels."
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 2132",
-          "quote": "The honor paid to sacred images is a \"respectful veneration,\" not the adoration due to God alone..."
+          "reference": "CCC 957",
+          "quote": "We worship Christ as God's Son; we love the martyrs as the Lord's disciples and imitators..."
         }
       ]
     },
@@ -487,13 +498,19 @@
       "difficultyElo": 875,
       "prompt": "True or False: According to strong and ancient tradition, most of the twelve apostles died as martyrs for their faith.",
       "correctAnswer": true,
-      "explanation": "True. Tradition holds that all but John died violently for their testimony to Christ -- a pattern of witness-unto-death that shapes how the Church understands sainthood from its very first generation onward.",
-      "hint": "Recall which single apostle tradition holds died of natural causes rather than martyrdom.",
+      "explanation": "True. Scripture records that Herod killed James, the brother of John, with the sword (Acts 12:2), and ancient tradition holds that most of the other apostles also died for their testimony to Christ -- a pattern of witness-unto-death that shapes how the Church understands sainthood from its very first generation.",
+      "hint": "Scripture itself records the death of one of the Twelve by the sword, under Herod.",
       "citations": [
         {
           "type": "scripture",
+          "reference": "Acts 12:2",
+          "quote": "And he killed James, the brother of John, With the sword.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
           "reference": "John 21:18-19",
-          "quote": "Amen, amen, I say to thee, When thou wast younger, thou didst gird thyself and didst walk where thou wouldst. But when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee and lead thee whither thou wouldst not.",
+          "quote": "...signifying by what death he should glorify God.",
           "note": "Douay-Rheims"
         }
       ]
@@ -512,12 +529,19 @@
         "Corinth"
       ],
       "correctAnswer": "Rome",
-      "explanation": "Both apostles died in Rome under Nero, giving the Roman church a place of particular honor from its earliest days -- she is the church where two of the greatest apostles gave their lives.",
+      "explanation": "According to strong, early tradition, attested by writers such as Dionysius of Corinth and Caius of Rome, both apostles were martyred in Rome under Nero: Peter crucified and Paul beheaded. This is why the Roman church has been honored from its earliest days as the place where they gave their witness.",
       "hint": "Both died under the same Roman emperor, in the empire's capital.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 552"
+          "type": "scripture",
+          "reference": "John 21:18-19",
+          "quote": "...signifying by what death he should glorify God.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "church_father",
+          "reference": "Eusebius, Church History 2.25",
+          "quote": "Paul was beheaded in Rome itself, and that Peter likewise was crucified under Nero."
         }
       ]
     },
@@ -527,9 +551,9 @@
       "level": 2,
       "type": "true_false",
       "difficultyElo": 875,
-      "prompt": "True or False: Thomas, traditionally remembered for doubting the Resurrection until he touched Christ's wounds, is also remembered by strong tradition for carrying the Gospel to India.",
+      "prompt": "True or False: Thomas, remembered for doubting the Resurrection until the risen Christ appeared to him, is also remembered by strong tradition for carrying the Gospel to India.",
       "correctAnswer": true,
-      "explanation": "True. The apostles' individual missionary reach -- Thomas to India, Mark to Alexandria, James to Spain -- already shows sainthood as something lived out across the whole known world within a single generation, not confined to Judea.",
+      "explanation": "True. According to tradition, the witness of the apostles and their companions reached far beyond Judea -- Thomas to India, James to Spain, and Mark the Evangelist, who was not one of the Twelve, to Alexandria -- so sainthood was lived out across the known world from the Church's earliest days.",
       "hint": "This same apostle's mission is why communities calling themselves 'Thomas Christians' exist in India today.",
       "citations": [
         {
@@ -550,7 +574,7 @@
       "pairs": [
         {
           "left": "Peter and Paul",
-          "right": "Both martyred in Rome under Nero"
+          "right": "Both martyred in Rome, by tradition"
         },
         {
           "left": "Thomas",
@@ -558,20 +582,26 @@
         },
         {
           "left": "John",
-          "right": "The one apostle tradition holds died of natural causes"
+          "right": "By tradition, exiled to Patmos, then lived and died at Ephesus"
         },
         {
           "left": "James the Greater",
           "right": "Carried the Gospel as far as Spain by tradition"
         }
       ],
-      "explanation": "Within a single generation, the apostles' witness reaches from Rome to Spain to India -- the pattern of real, documented witness that recurs across the centuries.",
-      "hint": "Three of these traveled to a specific distant region; one is the exception who did not die a martyr.",
+      "explanation": "Tradition, together with Scripture, remembers the apostles' witness reaching Rome, India, Spain and Ephesus -- sainthood lived out far beyond Judea.",
+      "hint": "Think of Rome, India, Spain and Ephesus.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Romans 15:24",
-          "quote": "When I shall begin to take my journey into Spain, I hope that, as I pass, I shall see you and be brought on my way thither by you: if first, in part, I shall have enjoyed you.",
+          "reference": "Revelation 1:9",
+          "quote": "I, John, your brother and your partner in tribulation and in the kingdom and patience in Christ Jesus, was in the island which is called Patmos, for the word of God and for the testimony of Jesus.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "John 21:18-19",
+          "quote": "...signifying by what death he should glorify God.",
           "note": "Douay-Rheims"
         }
       ]
@@ -584,9 +614,21 @@
       "difficultyElo": 875,
       "prompt": "True or False: Being an apostle in the fullest sense required having personally seen the risen Christ.",
       "correctAnswer": true,
-      "explanation": "True. This is part of why Paul, converted after the Ascension by a direct encounter with the risen Christ, could still describe himself as an apostle 'set apart for the gospel of God' even though he was not one of the original Twelve.",
+      "explanation": "True. In choosing a replacement for Judas, Peter required someone who could be 'a witness with us of his resurrection' (Acts 1:22), and Paul, converted after the Ascension by a direct encounter with the risen Christ, could still ask 'Have not I seen Christ Jesus our Lord?' and call himself an apostle, 'separated unto the gospel of God,' even though he was not one of the original Twelve.",
       "hint": "Consider what Paul's own encounter with Christ, on the road to Damascus, actually was.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 1:21-22",
+          "quote": "...one of these must be made a witness with us of his resurrection.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 9:1",
+          "quote": "Am not I an apostle? Have not I seen Christ Jesus our Lord?",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "Romans 1:1",
@@ -601,16 +643,16 @@
       "level": 2,
       "type": "multiple_choice",
       "difficultyElo": 925,
-      "prompt": "What do the apostles' individual, documented deaths and travels establish for how the Church would go on to recognize sainthood?",
+      "prompt": "What does the witness of the apostles, as recorded in Scripture and remembered in the Church, establish for how the Church would go on to recognize sainthood?",
       "choices": [
-        "That witness to Christ, verifiable and specific rather than legendary, is the foundation the whole practice builds on",
+        "That witness to Christ by specific, remembered people is the foundation the whole practice builds on",
         "That sainthood requires an official Church proclamation before any witness can be said to count as real",
         "That only members of the original Twelve can ever be formally recognized as saints",
         "That geography has essentially no bearing on how the Church remembers a given saint's life"
       ],
-      "correctAnswer": "That witness to Christ, verifiable and specific rather than legendary, is the foundation the whole practice builds on",
-      "explanation": "The whole point is that sainthood did not begin as an abstract honor -- it began with specific, remembered people doing specific, remembered things, a pattern later saints are recognized against.",
-      "hint": "Consider what kind of details -- vague or specific -- are given about each apostle's death and travels.",
+      "correctAnswer": "That witness to Christ by specific, remembered people is the foundation the whole practice builds on",
+      "explanation": "Sainthood did not begin as an abstract honor -- it began with specific, remembered people who bore witness to Christ, a pattern later saints are recognized against.",
+      "hint": "Consider whether sainthood began with abstractions or with particular remembered people.",
       "citations": [
         {
           "type": "scripture",
@@ -626,9 +668,9 @@
       "level": 2,
       "type": "fill_blank",
       "difficultyElo": 985,
-      "prompt": "Tradition holds that the Apostle Mark founded the church in ____, Egypt, becoming its first bishop and adding yet another city to the apostles' rapidly spreading reach.",
+      "prompt": "Tradition holds that St. Mark the Evangelist, companion of St. Peter, founded the church in ____, Egypt, and became its first bishop.",
       "correctAnswer": "Alexandria",
-      "explanation": "Alexandria becomes one of the ancient world's great centers of Christian learning -- a legacy traceable back to this one apostle's documented founding mission.",
+      "explanation": "Tradition says St. Mark first established churches in Alexandria, which later became one of the ancient world's great centers of Christian learning.",
       "hint": "This Egyptian city later becomes a major center of Christian theological learning.",
       "citations": [
         {
@@ -636,6 +678,11 @@
           "reference": "1 Peter 5:13",
           "quote": "The church that is in Babylon, elected together with you, saluteth you. And so doth my son, Mark.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "church_father",
+          "reference": "Eusebius, Church History 2.16",
+          "quote": "they say that this Mark was the first that was sent to Egypt ... and first established churches in Alexandria."
         }
       ]
     },
@@ -645,15 +692,21 @@
       "level": 2,
       "type": "true_false",
       "difficultyElo": 875,
-      "prompt": "True or False: John, exiled to the island of Patmos but not killed there, is remembered as the sole exception among the Twelve to die of natural causes.",
+      "prompt": "True or False: Ancient tradition holds that John, exiled to the island of Patmos, afterward lived at Ephesus, where he died, rather than being put to death for the faith.",
       "correctAnswer": true,
-      "explanation": "True. Every other apostle's traditional death is violent; John alone lived to old age in Ephesus -- a real, notable exception worth holding onto, since the age of the Roman martyrs follows a similar pattern of violent death.",
-      "hint": "Every other apostle's traditional death is violent; this one's is not.",
+      "explanation": "True. Polycrates of Ephesus, quoted by Eusebius, says that John, who reclined upon the bosom of the Lord, 'also sleeps at Ephesus.' The ancient tradition places his death there, not in a violent death like that of James, whom Herod killed with the sword (Acts 12:2).",
+      "hint": "Consider where the ancient tradition says John ended his life after Patmos.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Revelation 1:9",
           "quote": "I, John, your brother and your partner in tribulation and in the kingdom and patience in Christ Jesus, was in the island which is called Patmos, for the word of God and for the testimony of Jesus.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Acts 12:2",
+          "quote": "And he killed James, the brother of John, With the sword.",
           "note": "Douay-Rheims"
         }
       ]
@@ -726,7 +779,7 @@
       "level": 3,
       "type": "fill_blank",
       "difficultyElo": 1060,
-      "prompt": "According to Acts, Stephen was one of the first seven ____ -- men chosen by the apostles to serve the community's practical needs, especially care for widows.",
+      "prompt": "Acts tells how the community chose seven men, Stephen among them, whom the apostles appointed with prayer and the laying on of hands to serve the community's practical needs, especially care for widows. Church tradition counts them as the first ____.",
       "correctAnswer": "deacons",
       "explanation": "Stephen's role shows sainthood is never only about dramatic death -- his ordinary, practical service to the community came first, and his martyrdom crowned a life already given to others.",
       "hint": "This ordained office still exists in the Church today, assisting bishops and priests.",
@@ -745,7 +798,7 @@
       "level": 3,
       "type": "multiple_choice",
       "difficultyElo": 1000,
-      "prompt": "St. Ignatius of Antioch, a bishop writing en route to his own martyrdom around 107 AD, is one of the earliest post-apostolic witnesses. What did he write on his way to death in Rome?",
+      "prompt": "St. Ignatius of Antioch, a bishop taken under guard to Rome for martyrdom in what tradition dates to the reign of the emperor Trajan, is one of the earliest post-apostolic witnesses. What did he write on his way to death in Rome?",
       "choices": [
         "A series of letters to churches along his route, some of the earliest Christian writing outside the New Testament",
         "A complete and entirely new Gospel account that had never before been recorded by anyone at all",
@@ -783,6 +836,11 @@
           "type": "ccc",
           "reference": "CCC 2473",
           "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+        },
+        {
+          "type": "church_father",
+          "reference": "Irenaeus, Letter to Florinus, quoted in Eusebius, Church History 5.20",
+          "quote": "the accounts which he gave of his intercourse with John and with the others who had seen the Lord"
         }
       ]
     },
@@ -792,14 +850,14 @@
       "level": 3,
       "type": "multiple_choice",
       "difficultyElo": 1000,
-      "prompt": "Taken together, what do Stephen, Ignatius, and Polycarp establish about sainthood in the generation right after the apostles?",
+      "prompt": "Stephen was martyred while the apostles were still alive; Ignatius and Polycarp followed in the next generation. Taken together, what do they establish about sainthood in and just after the apostolic age?",
       "choices": [
-        "That the pattern of real, costly witness the apostles set did not end with them -- it continued in named, documented individuals",
+        "That the pattern of real, costly witness was already seen in the apostles' own lifetime and continued after them in named, documented individuals",
         "That sainthood, in practice, effectively stopped altogether once the apostles themselves had died",
         "That only ordained bishops specifically could be recognized as saints in this early period",
         "That the martyrdom accounts surviving from this period are entirely legendary, with no historical basis"
       ],
-      "correctAnswer": "That the pattern of real, costly witness the apostles set did not end with them -- it continued in named, documented individuals",
+      "correctAnswer": "That the pattern of real, costly witness was already seen in the apostles' own lifetime and continued after them in named, documented individuals",
       "explanation": "This is the pattern that continues through Church history: sainthood as a living, continuing pattern, not a one-time apostolic phenomenon that simply stopped.",
       "hint": "Consider whether these three named figures suggest an ending or a continuation.",
       "citations": [
@@ -888,9 +946,9 @@
       "level": 4,
       "type": "fill_blank",
       "difficultyElo": 1135,
-      "prompt": "St. Sebastian, a Roman soldier martyred for his faith, is often depicted in art pierced by ____, the wounds he miraculously survived before his eventual death.",
+      "prompt": "St. Sebastian, a Roman soldier martyred for his faith, is often depicted in art pierced by ____, the wounds which, in the traditional account of his martyrdom, he survived before his eventual death.",
       "correctAnswer": "arrows",
-      "explanation": "Sebastian survived being shot with arrows and nursed back to health, only to confront the emperor again and be martyred by clubbing -- his first, non-fatal ordeal is what artists most often depict.",
+      "explanation": "In the traditional account, Sebastian survived being shot with arrows and was nursed back to health, only to confront the emperor again and be clubbed to death -- his first, non-fatal ordeal is what artists most often depict.",
       "hint": "This is the weapon artists always show piercing his body.",
       "citations": [
         {
@@ -925,8 +983,8 @@
           "right": "Virgin martyr of Sicily, invoked against fire"
         }
       ],
-      "explanation": "These early martyrs, all venerated since the Church's first centuries, show that holiness in the age of persecution was often young, poor, and female -- not what Roman society expected of a hero.",
-      "hint": "One was a deacon; the other three were young women who refused marriage.",
+      "explanation": "These early martyrs show that holiness in the age of persecution was found among the young, among deacons who served the poor, and among women.",
+      "hint": "One was a deacon; the other three were young women.",
       "citations": [
         {
           "type": "ccc",
@@ -941,10 +999,10 @@
       "level": 4,
       "type": "true_false",
       "difficultyElo": 1025,
-      "prompt": "True or False: Early virgin martyrs like Agnes and Agatha were particularly striking witnesses in the early Church because they chose martyrdom in their youth over renouncing Christ.",
+      "prompt": "True or False: St. Agnes of Rome, an early virgin martyr, was honored with special devotion in the early Church in part because she was martyred while still a young girl.",
       "correctAnswer": true,
-      "explanation": "Part of what made their witness so striking was precisely their youth -- girls in their early teens who chose death over renouncing their consecration to Christ.",
-      "hint": "Think about how young these particular martyrs were.",
+      "explanation": "Part of what made her witness so striking was her youth: St. Ambrose gives Agnes's age as twelve and St. Augustine as thirteen when she chose death rather than renounce her consecration to Christ.",
+      "hint": "Think about how young this particular martyr was.",
       "citations": [
         {
           "type": "ccc",
@@ -961,13 +1019,13 @@
       "difficultyElo": 1075,
       "prompt": "St. Perpetua and St. Felicity, martyred together at Carthage around 203 AD, are notable for what specific reason?",
       "choices": [
-        "A noblewoman and her slave, martyred side by side as equals in the arena, with Perpetua's own prison diary surviving as an eyewitness account",
+        "A noblewoman and a slave woman, martyred together at Carthage as equals, with Perpetua's own prison diary surviving as an eyewitness account",
         "They were martyred a full century apart from one another, and are known to have never met",
         "Only Perpetua's own death is historically documented in any real detail; Felicity is purely a later legendary addition",
         "They were martyred for what was, in fact, a purely political charge entirely unrelated to their own Christian faith"
       ],
-      "correctAnswer": "A noblewoman and her slave, martyred side by side as equals in the arena, with Perpetua's own prison diary surviving as an eyewitness account",
-      "explanation": "The social barrier between a Roman noblewoman and her slave, otherwise absolute, is dissolved entirely in their shared martyrdom — and Perpetua's own account, written in prison before her death, is one of the earliest surviving texts by a Christian woman.",
+      "correctAnswer": "A noblewoman and a slave woman, martyred together at Carthage as equals, with Perpetua's own prison diary surviving as an eyewitness account",
+      "explanation": "The social barrier between a married noblewoman and a slave woman, otherwise absolute, is dissolved entirely in their shared martyrdom — and Perpetua's own account, written in prison before her death, is one of the earliest surviving texts by a Christian woman.",
       "hint": "Notice what social distinction their shared death completely erased.",
       "citations": [
         {
@@ -1086,8 +1144,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+          "reference": "CCC 921",
+          "quote": "Here is a particular call to find in the desert, in the thick of spiritual battle, the glory of the Crucified One."
         }
       ]
     },
@@ -1102,6 +1160,11 @@
       "explanation": "What began as one man's personal choice to withdraw became a real, lasting movement -- other men and women followed Anthony's example in growing numbers, giving the whole movement its name.",
       "hint": "The specific landscape these monks withdrew into gives the whole movement its name.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 2687",
+          "quote": "Hermits, monks, and nuns since the time of the desert fathers have devoted their time to praising God and interceding for his people."
+        },
         {
           "type": "scripture",
           "reference": "Matthew 19:21",
@@ -1129,8 +1192,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+          "reference": "CCC 925",
+          "quote": "fraternal life led in common"
         }
       ]
     },
@@ -1146,9 +1209,18 @@
       "hint": "Consider how far this movement's later influence reaches, all the way to Benedict's Western monasticism.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Orientale Lumen (1995)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+          "reference": "CCC 2687",
+          "quote": "Hermits, monks, and nuns since the time of the desert fathers have devoted their time to praising God and interceding for his people."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 925",
+          "quote": "Religious life was born in the East during the first centuries of Christianity."
         }
       ]
     },
@@ -1177,13 +1249,18 @@
           "right": "Monks living, praying, and working together in community"
         }
       ],
-      "explanation": "These two forms of monastic life -- solitary and communal -- both trace back to the same desert movement, and both reappear in Benedict's Western synthesis of the two.",
+      "explanation": "These two forms of monastic life, solitary and communal, both trace back to the desert movement. Benedict's Rule is written for monks living in community, and it also honors those who, once tested, go on to the solitary life.",
       "hint": "Two rows name individual founders; two name the styles of monastic life they founded.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+          "reference": "CCC 925",
+          "quote": "fraternal life led in common"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2687",
+          "quote": "Hermits, monks, and nuns since the time of the desert fathers have devoted their time to praising God and interceding for his people."
         }
       ]
     },
@@ -1224,9 +1301,13 @@
       "hint": "This Greek term simply means 'sayings of the fathers.'",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Orientale Lumen (1995)"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+          "reference": "CCC 2687",
+          "quote": "Hermits, monks, and nuns since the time of the desert fathers have devoted their time to praising God and interceding for his people."
         }
       ]
     },
@@ -1288,9 +1369,12 @@
       "hint": "Consider how long, and how difficult, his own path to conversion was.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 30",
-          "quote": "...you have made us for yourself, and our heart is restless until it rests in you."
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 9 January 2008 (Saint Augustine)"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions"
         }
       ]
     },
@@ -1306,14 +1390,8 @@
       "hint": "Ambrose's preaching wins over the author of the Confessions.",
       "citations": [
         {
-          "type": "church_father",
-          "reference": "St. Augustine of Hippo, Confessions",
-          "quote": "... You have made us for Yourself, and our hearts are restless until they rest in You"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 30",
-          "quote": "...you have made us for yourself, and our heart is restless until it rests in you."
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 9 January 2008 (Saint Augustine)"
         }
       ]
     },
@@ -1335,8 +1413,12 @@
       "hint": "The controversy concerned which original language he translated the Old Testament from.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 116"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 7 November 2007 (Saint Jerome)"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Letter 71 to Jerome"
         },
         {
           "type": "church_father",
@@ -1356,8 +1438,16 @@
       "hint": "Recall their disagreement over translating the Old Testament from Hebrew versus the Septuagint.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 116"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 7 November 2007 (Saint Jerome)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 9 January 2008 (Saint Augustine)"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine, Letter 71 to Jerome"
         }
       ]
     },
@@ -1367,7 +1457,7 @@
       "level": 6,
       "type": "matching_pairs",
       "difficultyElo": 1265,
-      "prompt": "Match each Doctor of the early Church to what makes him one of the saints.",
+      "prompt": "Match each saint of the early Church to what makes them notable.",
       "pairs": [
         {
           "left": "St. Augustine of Hippo",
@@ -1386,13 +1476,13 @@
           "right": "Augustine's mother, who prayed for his conversion for years"
         }
       ],
-      "explanation": "None of these four paths to sainthood involved martyrdom or the desert -- learning, preaching, translation, and years of persistent prayer are shown here as their own different routes to the same recognized holiness.",
+      "explanation": "These four show different paths to holiness: a convert's long road, a bishop's preaching, a scholar's translation of Scripture, and a mother's years of persistent prayer.",
       "hint": "One is a mother's persistence; the others are a convert, a preacher, and a translator.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 30",
-          "quote": "...you have made us for yourself, and our heart is restless until it rests in you."
+          "reference": "CCC 828",
+          "quote": "proposing the saints to them as models and intercessors"
         }
       ]
     },
@@ -1402,21 +1492,21 @@
       "level": 6,
       "type": "multiple_choice",
       "difficultyElo": 1225,
-      "prompt": "What do Augustine, Jerome, and Ambrose have in common that distinguishes their path to sainthood from the martyrs and Desert Fathers?",
+      "prompt": "What do Augustine, Jerome, and Ambrose have in common that distinguishes their path to sainthood from that of the martyrs?",
       "choices": [
-        "Their holiness is expressed chiefly through learning, preaching, and writing rather than martyrdom or monastic withdrawal",
+        "Their holiness was expressed chiefly through learning, preaching, and writing rather than through martyrdom",
         "All three were martyred for their faith, in exactly the same way as the early Roman martyrs",
         "All three withdrew permanently into the desert, in exactly the same way as the Desert Fathers",
         "None of these three men are, in fact, actually recognized by the Church as saints today"
       ],
-      "correctAnswer": "Their holiness is expressed chiefly through learning, preaching, and writing rather than martyrdom or monastic withdrawal",
-      "explanation": "Augustine, Jerome, and Ambrose show sainthood taking a third shape, distinct from martyrdom or desert withdrawal -- intellectual and pastoral engagement with the Church's public life.",
-      "hint": "Compare these saints to the very different paths of the martyrs and the Desert Fathers.",
+      "correctAnswer": "Their holiness was expressed chiefly through learning, preaching, and writing rather than through martyrdom",
+      "explanation": "Augustine and Ambrose were bishops and Jerome a monk and scholar. All three are Doctors of the Church whose holiness is shown chiefly in teaching, preaching, and writing, not in martyrdom.",
+      "hint": "Compare these saints to the very different path of the martyrs.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 30",
-          "quote": "...you have made us for yourself, and our heart is restless until it rests in you."
+          "reference": "CCC 828",
+          "quote": "proposing the saints to them as models and intercessors"
         }
       ]
     },
@@ -1428,12 +1518,13 @@
       "difficultyElo": 1175,
       "prompt": "True or False: The Church's recognition of Augustine, Jerome, and Ambrose as saints came only much later, with no early sense that they were exceptionally holy figures.",
       "correctAnswer": false,
-      "explanation": "False. All three were recognized as figures of major holiness and learning within their own lifetimes and immediately afterward -- their eventual formal title of Doctor of the Church, centuries later, confirmed a recognition that was already widespread and immediate.",
-      "hint": "Consider whether their reputations for holiness and learning were a later invention, or already present in their own time.",
+      "explanation": "False. All three were revered for holiness and learning long before the Church gave them the formal title Doctor of the Church, which the four great Latin Fathers (Ambrose, Augustine, Jerome, and Gregory the Great) received in the late thirteenth century under Pope Boniface VIII.",
+      "hint": "Consider whether their reputations for holiness and learning were a later invention, or were long recognized before any formal title.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 116"
+          "reference": "CCC 828",
+          "quote": "proposing the saints to them as models and intercessors"
         }
       ]
     },
@@ -1450,8 +1541,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 30",
-          "quote": "...you have made us for yourself, and our heart is restless until it rests in you."
+          "reference": "CCC 828",
+          "quote": "proposing the saints to them as models and intercessors"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Augustine of Hippo, Confessions"
         }
       ]
     },
@@ -1467,8 +1562,8 @@
       "hint": "This is also the site of a famous WWII battle, fought around the same monastery centuries later.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2691"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -1486,12 +1581,12 @@
         "Poverty and chastity"
       ],
       "correctAnswer": "Prayer and work",
-      "explanation": "Benedictine life balances prayer and manual or intellectual labor rather than treating one as more spiritual than the other -- both integrated into a single rhythm of monastic life.",
-      "hint": "The two Latin words are close cousins of the English words 'oral' and 'labor.'",
+      "explanation": "Benedictine life joins prayer, above all the Work of God (the Divine Office), with manual and intellectual labor in a single daily rhythm.",
+      "hint": "The first Latin word means 'pray' and the second means 'work.'",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2691"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -1503,7 +1598,7 @@
       "difficultyElo": 1250,
       "prompt": "True or False: In 1964, Pope Paul VI gave St. Benedict the title 'Patron of Europe,' honoring his role in shaping Western monastic and cultural life.",
       "correctAnswer": true,
-      "explanation": "True. Benedict's Rule shaped monastic life so deeply across the continent that Paul VI named him Patron of Europe in 1964, nearly fifteen centuries after Benedict's own death -- a measure of how far his influence reached.",
+      "explanation": "True. Benedict's Rule shaped monastic life so deeply across the continent that Paul VI named him Patron of Europe in 1964, more than fourteen centuries after Benedict's death -- a measure of how far his influence reached.",
       "hint": "This title recognizes an influence spanning an entire continent, not just Italy.",
       "citations": [
         {
@@ -1518,7 +1613,7 @@
       "level": 7,
       "type": "multiple_choice",
       "difficultyElo": 1300,
-      "prompt": "St. Benedict had a twin sister, also recognized as a saint, who founded her own community of women religious nearby. Who was she?",
+      "prompt": "St. Benedict's sister, also recognized as a saint, was consecrated to God from childhood and, by tradition, led a community of nuns near his monastery. Who was she?",
       "choices": [
         "St. Scholastica",
         "St. Clare of Assisi",
@@ -1526,12 +1621,17 @@
         "St. Hildegard of Bingen"
       ],
       "correctAnswer": "St. Scholastica",
-      "explanation": "Scholastica's own community, following principles close to her brother's Rule, shows Benedictine sainthood was never a purely male phenomenon from its very beginning -- a real, documented sister community founded within Benedict's own lifetime.",
-      "hint": "Her name later becomes the English word for academic study itself.",
+      "explanation": "St. Gregory the Great's Dialogues present Scholastica as Benedict's sister, consecrated to God from childhood, and tell of their last visit together. Benedictine tradition honors her as a model of consecrated women in the Benedictine family.",
+      "hint": "Her name is the feminine form of the Latin word scholasticus, 'of the school.'",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2691"
+          "reference": "CCC 2687",
+          "quote": "Hermits, monks, and nuns since the time of the desert fathers have devoted their time to praising God and interceding for his people."
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Gregory the Great, Dialogues II, 33"
         }
       ]
     },
@@ -1548,7 +1648,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2691"
+          "reference": "CCC 925",
+          "quote": "fraternal life led in common"
+        },
+        {
+          "type": "church_father",
+          "reference": "Rule of St. Benedict, ch. 58"
         }
       ]
     },
@@ -1571,7 +1676,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2691"
+          "reference": "CCC 1177",
+          "quote": "lectio divina, where the Word of God is so read and meditated that it becomes prayer"
         }
       ]
     },
@@ -1597,15 +1703,23 @@
         },
         {
           "left": "St. Scholastica",
-          "right": "Benedict's twin sister, founder of her own community"
+          "right": "Benedict's sister, consecrated to God from childhood"
         }
       ],
       "explanation": "Together these four pieces show Benedict's real, lasting institutional achievement -- not a single dramatic act, but a durable structure that outlived him by well over a thousand years.",
-      "hint": "Two rows name a place and a Latin motto; two name a specific vow and a sister community.",
+      "hint": "Two rows name a place and a Latin motto; two name a specific vow and Benedict's sister.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2691"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
+        },
+        {
+          "type": "church_father",
+          "reference": "St. Gregory the Great, Dialogues II, 33"
+        },
+        {
+          "type": "church_father",
+          "reference": "Rule of St. Benedict, ch. 58"
         }
       ]
     },
@@ -1621,8 +1735,8 @@
       "hint": "Recall what monastic life preserved in the centuries after Rome's collapse.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2691"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -1645,7 +1759,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2691"
+          "reference": "CCC 925",
+          "quote": "fraternal life led in common"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2687",
+          "quote": "Hermits, monks, and nuns since the time of the desert fathers have devoted their time to praising God and interceding for his people."
         }
       ]
     },
@@ -1699,7 +1819,7 @@
       "difficultyElo": 1325,
       "prompt": "True or False: St. Clare of Assisi was a close companion of St. Francis and founded the women's branch of the Franciscan movement, later called the Poor Clares.",
       "correctAnswer": true,
-      "explanation": "Inspired by Francis's preaching, Clare left her wealthy family to embrace radical poverty herself, founding what became the Poor Clares -- approved and later canonized by Pope Alexander IV in 1255.",
+      "explanation": "Inspired by Francis's preaching, Clare left her wealthy family to embrace radical poverty herself, founding what became the Poor Clares. Pope Innocent IV approved her Rule in 1253, shortly before her death, and Pope Alexander IV canonized her in 1255.",
       "hint": "This order shares the poverty and spirit of the Franciscans, but is made up of women.",
       "citations": [
         {
@@ -1726,8 +1846,8 @@
       "hint": "Ask what specific problem in the Church Dominic was responding to when he founded his order.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2044"
+          "type": "magisterial_document",
+          "reference": "Honorius III, approving the Order of Preachers (1216)"
         }
       ]
     },
@@ -1744,7 +1864,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 925"
+          "reference": "CCC 2687",
+          "quote": "Many religious have consecrated their whole lives to prayer."
         }
       ]
     },
@@ -1767,8 +1888,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Matthew 19:21",
-          "quote": "Jesus saith to him: If thou wilt be perfect, go sell what thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me.",
+          "reference": "Galatians 6:17",
+          "quote": "From henceforth let no man be troublesome to me: for I bear the marks of the Lord Jesus in my body.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1786,8 +1907,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Matthew 19:21",
-          "quote": "Jesus saith to him: If thou wilt be perfect, go sell what thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me.",
+          "reference": "Psalm 148:3",
+          "quote": "Praise ye him, O sun and moon: praise him, all ye stars and light.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1884,8 +2005,8 @@
       "hint": "Canonized sanctity, eminent learning, and a papal or conciliar declaration -- none of which require ordination or a university degree.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring St. Catherine of Siena a Doctor of the Church (1970)"
         }
       ]
     },
@@ -1897,8 +2018,8 @@
       "difficultyElo": 1400,
       "prompt": "True or False: Catherine of Siena was a laywoman, not a nun living in a convent, when she wrote the letters that helped persuade Gregory XI.",
       "correctAnswer": true,
-      "explanation": "True. Catherine was a Third Order Dominican -- a laywoman living a consecrated life of prayer and penance while remaining in the world -- which makes her documented influence on a pope's own decision even more striking.",
-      "hint": "Consider what kind of religious affiliation lets someone live a consecrated life without becoming a cloistered nun.",
+      "explanation": "True. Catherine was a Third Order Dominican, a laywoman living a life of prayer and penance while remaining in the world, which makes her documented influence on a pope's own decision even more striking.",
+      "hint": "Consider what kind of religious affiliation lets someone live a life of prayer and penance without becoming a cloistered nun.",
       "citations": [
         {
           "type": "ccc",
@@ -1924,8 +2045,8 @@
       "hint": "This title describes the very form the work takes -- a conversation.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring St. Catherine of Siena a Doctor of the Church (1970)"
         }
       ]
     },
@@ -1941,8 +2062,14 @@
       "hint": "This age is also the age traditionally given for Christ's own death.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2033"
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring St. Catherine of Siena a Doctor of the Church (1970)"
+        },
+        {
+          "type": "scripture",
+          "reference": "Wisdom 4:13",
+          "quote": "Being made perfect in a short space, he fulfilled a long time.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1960,7 +2087,7 @@
         },
         {
           "left": "Third Order Dominican",
-          "right": "A consecrated laywoman's life, not a cloistered nun's"
+          "right": "A laywoman's life of prayer and penance in the world, not a cloistered nun's"
         },
         {
           "left": "The Dialogue",
@@ -2033,7 +2160,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2033"
+          "reference": "CCC 2013"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Paul VI, declaring St. Catherine of Siena a Doctor of the Church (1970)"
         }
       ]
     },
@@ -2334,12 +2465,12 @@
       "difficultyElo": 1550,
       "prompt": "True or False: Teresa of Ávila and John of the Cross together reformed the Carmelite order, founding what became known as the Discalced (barefoot) Carmelites.",
       "correctAnswer": true,
-      "explanation": "True. Both sought a return to the order's original, stricter observance -- a reform that, like Dominic's founding of the Dominicans, answered a real crisis of discipline and fervor within religious life itself.",
+      "explanation": "True. Both sought a return to the order's original, stricter observance, a reform of the Carmelites from within and part of the wider renewal of the Church in the 16th century.",
       "hint": "This reform's name describes the simple, unshod sandals the reformed friars and nuns wore.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2731"
+          "reference": "CCC 828"
         }
       ]
     },
@@ -2383,7 +2514,7 @@
       "level": 11,
       "type": "multiple_choice",
       "difficultyElo": 1600,
-      "prompt": "In 1622, four major figures of the Catholic Reformation were canonized together on the same day. Ignatius of Loyola and Teresa of Ávila were two; who else was included?",
+      "prompt": "In 1622, five saints were canonized together on the same day, among them Ignatius of Loyola and Teresa of Ávila. Which two other major figures of the Catholic Reformation were included?",
       "choices": [
         "St. Francis Xavier and St. Philip Neri",
         "St. Dominic and St. Clare of Assisi",
@@ -2391,7 +2522,7 @@
         "St. Catherine of Siena and St. Joan of Arc"
       ],
       "correctAnswer": "St. Francis Xavier and St. Philip Neri",
-      "explanation": "This shared canonization day is itself a striking sign of how concentrated real holiness was in this single generation's response to the Reformation crisis -- four major figures, recognized together, rather than spread across separate ceremonies decades apart.",
+      "explanation": "On 12 March 1622 Pope Gregory XV canonized five saints together: Isidore the Farmer, Ignatius of Loyola, Francis Xavier, Philip Neri, and Teresa of Ávila. Four of them were major figures of the Catholic Reformation, a shared canonization day that is itself a striking sign of how concentrated real holiness was in this generation's response to the Reformation crisis.",
       "hint": "One of these two was Ignatius's own missionary companion.",
       "citations": [
         {
@@ -2423,7 +2554,7 @@
       "level": 12,
       "type": "multiple_choice",
       "difficultyElo": 1675,
-      "prompt": "St. Thomas More refused to sign the Act of Succession's oath acknowledging Henry VIII as Supreme Head of the Church in England. What specific doctrinal stake was More resisting?",
+      "prompt": "St. Thomas More refused to take the oath required under the Act of Succession (1534), an oath that repudiated papal authority, and he would not affirm Henry VIII as Supreme Head of the Church in England. What specific doctrinal stake was More resisting?",
       "choices": [
         "A rejection of papal primacy and the unity of the Church under the Roman See",
         "A narrow dispute over the exact number of sacraments the Church recognizes",
@@ -2431,7 +2562,7 @@
         "An objection specifically to the continued use of Latin in the liturgy"
       ],
       "correctAnswer": "A rejection of papal primacy and the unity of the Church under the Roman See",
-      "explanation": "Henry VIII's Act of Supremacy asserted royal headship over the Church in England in place of the Pope, a direct rejection of papal primacy. More's refusal to sign, which cost him his life in 1535, was a witness to the unity of the Church under Peter's successor.",
+      "explanation": "Henry VIII's Act of Supremacy (1534) declared the king Supreme Head of the Church in England in place of the Pope, a direct rejection of papal primacy. More refused to take the oath and would not affirm the royal supremacy; he was convicted of treason and beheaded in 1535. His stand was a witness to the unity of the Church under Peter's successor.",
       "hint": "This is fundamentally a dispute about who has ultimate authority over the Church, not a liturgical or sacramental dispute.",
       "citations": [
         {
@@ -2446,17 +2577,21 @@
       "level": 12,
       "type": "multiple_choice",
       "difficultyElo": 1675,
-      "prompt": "What was St. Thomas More's stated ground for refusing the oath, according to his own account?",
+      "prompt": "According to Pope John Paul II's apostolic letter proclaiming St. Thomas More patron of statesmen and politicians, why did More refuse to take the oath requested of him?",
       "choices": [
-        "The oath required acknowledging a spiritual supremacy he believed belonged to the Pope alone, which he could not affirm",
+        "It would have involved accepting a political and ecclesiastical arrangement that prepared the way for uncontrolled despotism",
         "He objected only to the specific tax implications contained within the Act itself",
         "He had, in fact, supported Henry's annulment but opposed only the specific succession terms themselves",
         "His refusal concerned, in the end, a purely personal grievance he held against the king"
       ],
-      "correctAnswer": "The oath required acknowledging a spiritual supremacy he believed belonged to the Pope alone, which he could not affirm",
-      "explanation": "More's own account frames this as a matter of conscience about a specific claim -- royal supremacy over the Church -- not a general political grievance, which is why his martyrdom is remembered as a witness to conscience formed by truth over political convenience.",
-      "hint": "Ask what specific claim, not a general political complaint, the oath actually required affirming.",
+      "correctAnswer": "It would have involved accepting a political and ecclesiastical arrangement that prepared the way for uncontrolled despotism",
+      "explanation": "John Paul II's apostolic letter proclaiming More patron of statesmen and politicians says he refused to take the oath requested of him because it would have involved accepting a political and ecclesiastical arrangement that prepared the way for uncontrolled despotism. His refusal was a matter of conscience, which is why his martyrdom is honored as a witness to the primacy of truth over power.",
+      "hint": "Look for the reason Pope John Paul II himself gives in the letter for More's refusal.",
       "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, proclaiming St. Thomas More Patron of Statesmen and Politicians (2000)"
+        },
         {
           "type": "ccc",
           "reference": "CCC 2242"
@@ -2475,8 +2610,8 @@
       "hint": "Consider how close to the center of royal power More actually stood before his refusal.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2242"
+          "type": "magisterial_document",
+          "reference": "John Paul II, proclaiming St. Thomas More Patron of Statesmen and Politicians (2000)"
         }
       ]
     },
@@ -2509,8 +2644,8 @@
       "hint": "Consider what year, and what method, his execution actually took.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2242"
+          "type": "magisterial_document",
+          "reference": "John Paul II, proclaiming St. Thomas More Patron of Statesmen and Politicians (2000)"
         }
       ]
     },
@@ -2528,7 +2663,7 @@
         },
         {
           "left": "The Act of Succession's oath",
-          "right": "Required acknowledging Henry VIII's supremacy over the Church"
+          "right": "Required swearing to Henry's succession, with a clause repudiating papal authority"
         },
         {
           "left": "\"The King's good servant, but God's first\"",
@@ -2562,8 +2697,8 @@
         "2000"
       ],
       "correctAnswer": "1935",
-      "explanation": "Pope Pius XI canonized More on the exact four-hundredth anniversary of his death -- a deliberate, symbolic timing recognizing his martyrdom as still speaking directly to the Church's own concerns four centuries later.",
-      "hint": "This date is exactly four centuries after his 1535 execution.",
+      "explanation": "Pope Pius XI canonized Thomas More, together with St. John Fisher, in 1935, four hundred years after their executions in 1535. More was beheaded on July 6, 1535, for refusing to act against his conscience.",
+      "hint": "This year falls four centuries after his 1535 execution.",
       "citations": [
         {
           "type": "ccc",
@@ -2659,13 +2794,13 @@
       "difficultyElo": 1750,
       "prompt": "What made missionary work in this period, unlike in the age of the apostles, a genuinely global undertaking?",
       "choices": [
-        "European exploration had newly opened sea routes to Asia and the Americas, reaching lands unknown to the ancient and medieval Church",
+        "European exploration had newly opened sea routes to Asia and the Americas, bringing far more distant peoples within reach of the Church's missionaries",
         "The Roman Empire had, by this later period, somehow expanded to include the whole of Asia directly",
         "All prior missionary activity had, in fact, completely stopped for many centuries before this point",
         "The apostles themselves had already personally evangelized every single one of these same lands centuries earlier"
       ],
-      "correctAnswer": "European exploration had newly opened sea routes to Asia and the Americas, reaching lands unknown to the ancient and medieval Church",
-      "explanation": "This is a genuinely new missionary situation -- not a repeat of the apostolic-era spread, but an expansion into lands the ancient and medieval Church had no real access to at all.",
+      "correctAnswer": "European exploration had newly opened sea routes to Asia and the Americas, bringing far more distant peoples within reach of the Church's missionaries",
+      "explanation": "This was a genuinely new missionary situation -- not a repeat of the apostolic-era spread, but a far wider expansion across newly opened sea routes, into the Americas newly reached by European sailors and into Asia on a much larger scale than before.",
       "hint": "Consider what specifically changed about Europe's own reach into the wider world in this period.",
       "citations": [
         {
@@ -2777,9 +2912,9 @@
       "hint": "Recall that the political context of this period was complicated, and consider how honestly the Church has named it.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2317",
-          "quote": "Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars."
+          "type": "magisterial_document",
+          "reference": "Francis, Address to the Second World Meeting of Popular Movements, Santa Cruz de la Sierra, Bolivia (9 July 2015)",
+          "quote": "I humbly ask forgiveness, not only for the offenses of the Church herself, but also for crimes committed against the native peoples during the so-called conquest of America."
         }
       ]
     },
@@ -2811,12 +2946,12 @@
       "difficultyElo": 1825,
       "prompt": "St. Vincent de Paul, a 17th-century French priest, is remembered chiefly for organizing what kind of work among the poor?",
       "choices": [
-        "Systematic, organized charity -- founding religious communities dedicated specifically to serving the poor and sick",
+        "Systematic, organized charity -- founding communities dedicated specifically to serving the poor and sick",
         "Missionary work carried out across Asia, in essentially the same pattern as Francis Xavier",
         "Formal doctrinal debate conducted directly against Reformation theology",
         "A broad reform of monastic enclosure rules governing cloistered nuns"
       ],
-      "correctAnswer": "Systematic, organized charity -- founding religious communities dedicated specifically to serving the poor and sick",
+      "correctAnswer": "Systematic, organized charity -- founding communities dedicated specifically to serving the poor and sick",
       "explanation": "Vincent moved beyond individual acts of charity to build lasting institutions -- the Congregation of the Mission and, with St. Louise de Marillac, the Daughters of Charity -- turning personal compassion into organized, sustained service.",
       "hint": "His real innovation was building lasting institutions, not just performing individual acts of charity.",
       "citations": [
@@ -2832,7 +2967,7 @@
       "level": 14,
       "type": "fill_blank",
       "difficultyElo": 1885,
-      "prompt": "St. Vincent de Paul, with St. Louise de Marillac, founded the ____ of Charity, a community of women religious dedicated to direct service among the poor and sick.",
+      "prompt": "St. Vincent de Paul, with St. Louise de Marillac, founded the ____ of Charity, a community of women dedicated to direct service among the poor and sick.",
       "correctAnswer": "Daughters",
       "explanation": "Unlike earlier cloistered orders such as the Poor Clares, the Daughters of Charity were deliberately designed to work actively in the world -- among the poor, in hospitals and homes, rather than behind convent walls.",
       "hint": "The community's full name pairs this word with 'of Charity.'",
@@ -2916,7 +3051,7 @@
         },
         {
           "left": "The Daughters of Charity",
-          "right": "An active, uncloistered order Vincent co-founded"
+          "right": "An active, uncloistered community Vincent co-founded"
         },
         {
           "left": "St. John Vianney",
@@ -2927,7 +3062,7 @@
           "right": "Nearly prevented his ordination, despite his eventual sainthood"
         }
       ],
-      "explanation": "Neither of these two saints founded a global missionary movement or reformed a whole religious order -- their holiness is expressed in patient, unglamorous, day-to-day service, a real and different shape from every founder.",
+      "explanation": "Vincent's organized charity and Vianney's decades in the confessional show holiness expressed in patient, concrete, day-to-day service to the poor and to souls.",
       "hint": "Two rows concern Vincent's organized charity; two concern Vianney's own personal, patient ministry.",
       "citations": [
         {
@@ -2962,13 +3097,13 @@
       "difficultyElo": 1825,
       "prompt": "What do Vincent de Paul and John Vianney add to the picture of sainthood, compared to missionary and reforming saints?",
       "choices": [
-        "Holiness expressed through patient, sustained, unglamorous service close to home rather than dramatic founding acts or distant missionary reach",
+        "Holiness expressed through patient, sustained, concrete service to the poor and to individual souls, lived out in daily work rather than in one dramatic public deed",
         "Nothing new -- their paths are functionally identical to Francis Xavier's own missionary work",
         "Proof that only founders of new religious orders can be recognized as saints",
         "A return to the exact martyrdom pattern of the early Church, with no real difference"
       ],
-      "correctAnswer": "Holiness expressed through patient, sustained, unglamorous service close to home rather than dramatic founding acts or distant missionary reach",
-      "explanation": "Vincent de Paul and John Vianney show a quieter register of sainthood -- neither founding a global order nor traveling to a new continent, but decades of patient, repeated, ordinary service that the Church still recognizes as heroic virtue.",
+      "correctAnswer": "Holiness expressed through patient, sustained, concrete service to the poor and to individual souls, lived out in daily work rather than in one dramatic public deed",
+      "explanation": "Vincent de Paul and John Vianney show a quieter register of sainthood -- decades of patient, repeated, concrete service to the poor and to souls, which the Church recognizes as heroic virtue.",
       "hint": "Compare the scale and drama of these two saints' lives to Francis Xavier's missionary reach.",
       "citations": [
         {
@@ -3023,7 +3158,7 @@
       "difficultyElo": 1850,
       "prompt": "True or False: St. Thérèse of Lisieux entered the Carmelite convent at the unusually young age of fifteen.",
       "correctAnswer": true,
-      "explanation": "True. Thérèse required a special papal permission to enter so young -- a real sign of how early and how deeply her sense of vocation had already formed, well before most people her age would consider such a step.",
+      "explanation": "True. Thérèse needed special permission to enter so young. She asked Pope Leo XIII for it on pilgrimage, and the Bishop of Bayeux ultimately gave his consent -- a real sign of how early and how deeply her sense of vocation had already formed.",
       "hint": "Consider how unusual her age was for entering religious life, even in her own era.",
       "citations": [
         {
@@ -3326,9 +3461,9 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 1925,
-      "prompt": "True or False: Cabrini, Bosco, and Damien all founded lasting institutions -- schools, hospitals, and missions -- that continued serving people long after their own deaths.",
+      "prompt": "True or False: Cabrini and Bosco each founded a religious institute -- with schools, orphanages, and missions -- that continued serving people long after their own deaths.",
       "correctAnswer": true,
-      "explanation": "True. Unlike Vianney, whose holiness centered on decades of a single, repeated personal ministry, these three saints each left durable institutions behind -- a different, complementary shape of the same real charity.",
+      "explanation": "True. Unlike Vianney, whose holiness centered on decades of a single, repeated personal ministry, Cabrini (the Missionary Sisters of the Sacred Heart) and Bosco (the Salesians) each left durable institutes behind -- a different, complementary shape of the same real charity.",
       "hint": "Compare these saints to Vianney, whose ministry was more personal and non-institutional.",
       "citations": [
         {
@@ -3469,14 +3604,19 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: St. Faustina Kowalska's visions of Christ, which gave rise to the Divine Mercy devotion, have been formally approved by the Church.",
+      "prompt": "True or False: The Church has approved the Divine Mercy devotion, and Pope John Paul II canonized St. Faustina Kowalska and declared that the Second Sunday of Easter be called Divine Mercy Sunday throughout the Church.",
       "correctAnswer": true,
-      "explanation": "True. After an earlier period of caution, the Church formally approved the Divine Mercy devotion, and Pope John Paul II -- who had personal devotion to it -- canonized Faustina and established Divine Mercy Sunday, giving the devotion an official place in the universal liturgical calendar.",
-      "hint": "The same pope who had personal devotion to this cause also canonized her and gave the devotion its own Sunday.",
+      "explanation": "True. After an earlier period of caution, the Church approved the devotion; John Paul II canonized Faustina in 2000 and declared that the Second Sunday of Easter be called Divine Mercy Sunday throughout the Church. Approval of a devotion is not a definition: private revelations do not belong to the deposit of faith (CCC 67).",
+      "hint": "The same pope canonized her and gave the devotion its own Sunday.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447"
+          "reference": "CCC 67",
+          "quote": "Throughout the ages, there have been so-called \"private\" revelations, some of which have been recognized by the authority of the Church."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the canonization of St. Faustina Kowalska (30 April 2000)"
         }
       ]
     },
@@ -3537,10 +3677,10 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: Both Kolbe and Faustina lived and died in Poland under conditions directly shaped by 20th-century totalitarian violence.",
+      "prompt": "True or False: St. Maximilian Kolbe and St. Faustina Kowalska were both Polish saints of the twentieth century, and Kolbe's death at Auschwitz in 1941 came through Nazi violence.",
       "correctAnswer": true,
-      "explanation": "True. The two saints are not incidentally connected to that history -- their own lives unfold directly inside it, one of the reasons the same historical moment gets covered from two different, complementary angles, in both Saints and Church History.",
-      "hint": "Recall the totalitarian violence that shaped twentieth-century Poland.",
+      "explanation": "True. Both were Poles who lived in the twentieth century. Faustina died of tuberculosis in 1938, before the war; Kolbe was imprisoned and died at Auschwitz in 1941, offering his life for a fellow prisoner.",
+      "hint": "Recall when each saint died and where Kolbe's life ended.",
       "citations": [
         {
           "type": "ccc",
@@ -3554,15 +3694,15 @@
       "level": 17,
       "type": "multiple_choice",
       "difficultyElo": 2050,
-      "prompt": "What do Kolbe and Faustina add to the picture of sainthood under extreme political violence, compared to the ancient Roman martyrs?",
+      "prompt": "What does St. Maximilian Kolbe's death at Auschwitz add to the picture of sainthood under extreme political violence, compared to the ancient Roman martyrs?",
       "choices": [
-        "The same pattern of costly witness recurring under a radically different, modern totalitarian system rather than ancient Roman persecution",
-        "Nothing new -- Kolbe and Faustina's circumstances were functionally identical to the era of Agnes and Lawrence",
+        "The same pattern of costly witness unto death recurring under a radically different, modern totalitarian system rather than ancient Roman persecution",
+        "Nothing new -- Kolbe's circumstances were functionally identical to the era of Agnes and Lawrence",
         "Proof that martyrdom of any kind became impossible after the apostolic era ended",
         "A rejection of the ancient pattern of Christian martyrdom"
       ],
-      "correctAnswer": "The same pattern of costly witness recurring under a radically different, modern totalitarian system rather than ancient Roman persecution",
-      "explanation": "Kolbe and Faustina are an echo of the ancient Roman martyrs, separated by some seventeen centuries -- proof the pattern of costly Christian witness never actually stopped being possible, only changed the specific political system testing it.",
+      "correctAnswer": "The same pattern of costly witness unto death recurring under a radically different, modern totalitarian system rather than ancient Roman persecution",
+      "explanation": "Kolbe gave his life for a fellow prisoner under the Nazi system. The pattern of costly Christian witness did not end with the Roman persecutions; only the political system testing it changed.",
       "hint": "Compare the basic shape of Kolbe's death to the deaths of Agnes or Lawrence.",
       "citations": [
         {
@@ -3596,7 +3736,7 @@
       "difficultyElo": 2185,
       "prompt": "St. Josephine Bakhita, canonized in 2000, endured enslavement in Sudan as a child before becoming a religious sister in ____, the country where she finally found freedom.",
       "correctAnswer": "Italy",
-      "explanation": "Sold into slavery as a girl and brought to Italy, Bakhita was freed by Italian law, entered religious life there, and was canonized by John Paul II in 2000 as a witness against the evil of slavery.",
+      "explanation": "Born in Sudan, Bakhita was abducted and sold into slavery as a child, was brought to Italy, and became a religious sister there. John Paul II canonized her in 2000 and in his homily called her 'a shining advocate of genuine emancipation'.",
       "hint": "She was brought here from Sudan and never had to leave again.",
       "citations": [
         {
@@ -3790,7 +3930,7 @@
       "difficultyElo": 2150,
       "prompt": "True or False: Archbishop Óscar Romero of El Salvador, assassinated in 1980 while celebrating Mass, was canonized by Pope Francis as a martyr for the faith.",
       "correctAnswer": true,
-      "explanation": "True. Romero's cause had stalled for years over whether his death was properly political or properly a martyrdom in hatred of the faith; Francis's 2018 canonization formally resolved that question.",
+      "explanation": "True. Romero was assassinated while celebrating Mass on 24 March 1980. Whether his death was political or a martyrdom in hatred of the faith was long debated; Pope Francis settled that question in 2015 by recognizing it as martyrdom, and canonized him in 2018.",
       "hint": "Recall the question over whether Romero's death was political or a martyrdom in hatred of the faith.",
       "citations": [
         {
@@ -3805,7 +3945,7 @@
       "level": 19,
       "type": "multiple_choice",
       "difficultyElo": 2200,
-      "prompt": "What real question did Romero's canonization formally settle, after decades of dispute?",
+      "prompt": "What real question did Pope Francis's 2015 decree on Archbishop Romero formally settle, after decades of dispute?",
       "choices": [
         "Whether his 1980 assassination counted as martyrdom for the faith",
         "Whether he had served as archbishop of San Salvador",
@@ -3813,7 +3953,7 @@
         "Whether his own writings contained any doctrinal error"
       ],
       "correctAnswer": "Whether his 1980 assassination counted as martyrdom for the faith",
-      "explanation": "This is a documented case of the canonization process taking decades to resolve a genuinely difficult question -- not because Romero's holiness was doubted, but because 'martyrdom in hatred of the faith' has a specific meaning the Church had to carefully determine applied here.",
+      "explanation": "In 2015 Pope Francis recognized Romero's death as martyrdom in hatred of the faith, which opened the way to his beatification. The question was not whether Romero was holy, but whether his death met the specific meaning of 'martyrdom in hatred of the faith'.",
       "hint": "Consider what specific distinction made his cause take so much longer than many others.",
       "citations": [
         {
@@ -3873,7 +4013,7 @@
         },
         {
           "left": "Óscar Romero",
-          "right": "A canonization that formally resolved decades of dispute over martyrdom"
+          "right": "His martyrdom was formally recognized in 2015 after decades of dispute; canonized in 2018"
         },
         {
           "left": "Carlo Acutis",
@@ -3956,7 +4096,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2275,
-      "prompt": "Per John Paul II's apostolic constitution Divinus Perfectionis Magister (1983), how many miracles are typically required, and at which stages?",
+      "prompt": "Under the modern process for causes of saints, reformed by John Paul II in 1983, how many miracles are typically required, and at which stages?",
       "choices": [
         "One miracle for beatification, a second, different miracle for canonization",
         "Two miracles are required for beatification, none for canonization",
@@ -3964,13 +4104,16 @@
         "Three miracles are required, all before beatification"
       ],
       "correctAnswer": "One miracle for beatification, a second, different miracle for canonization",
-      "explanation": "Divinus Perfectionis Magister set the modern norms: a miracle attributed to the candidate's intercession is required for beatification, and a second, distinct miracle occurring after beatification is required for canonization -- martyrs are typically exempted from the beatification miracle, but a canonization miracle is still normally required.",
+      "explanation": "In current practice one miracle attributed to the candidate's intercession is required for beatification (a martyr's beatification needs none), and a second, distinct miracle after beatification is required for canonization; the Pope may waive these requirements. Divinus Perfectionis Magister, the 1983 reform of the process, lays down how alleged miracles are examined.",
       "hint": "The two miracles are not interchangeable -- the second one has to happen after the first stage, not before it.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 828"
+        },
+        {
           "type": "magisterial_document",
-          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
-          "quote": "Most recent experience... has shown us the appropriateness of revising further the manner of instructing causes... so structuring the Congregation for the Causes of Saints that we might meet the needs of experts and the desires of Our Brother Bishops, who have often called for a simpler process while maintaining the soundness of the investigation."
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983)"
         }
       ]
     },
@@ -4010,7 +4153,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Benedict XVI, Decree on the Equivalent Canonization of Hildegard of Bingen (2012)"
+          "reference": "Benedict XVI, extension of the liturgical cult of St. Hildegard of Bingen to the universal Church, audience with Cardinal Angelo Amato (10 May 2012)"
         }
       ]
     },
@@ -4020,7 +4163,7 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2275,
-      "prompt": "The Church distinguishes first-, second-, and third-class relics (a saint's body, an item they used, an item touched to their tomb or remains). Per CCC 1674, what does the Church actually permit regarding these objects?",
+      "prompt": "Popular usage speaks of first-, second-, and third-class relics (a saint's body or remains, an item the saint used, an item touched to the saint's remains). CCC 1674 names the veneration of relics among the forms of popular piety. What is the right attitude toward relics?",
       "choices": [
         "Their veneration, but never worship, which belongs to God alone",
         "Their worship, on an equal footing with the Eucharist",
@@ -4028,12 +4171,23 @@
         "No use of relics at all in current Church practice"
       ],
       "correctAnswer": "Their veneration, but never worship, which belongs to God alone",
-      "explanation": "CCC 1674 situates relics among the popular forms of piety that 'extend the liturgical life of the Church' -- the Church permits and encourages their veneration as reminders of a saint's holiness and closeness to God, while reserving worship (latria) for God alone.",
-      "hint": "This is the same latria/dulia distinction that answers the 'isn't this idolatry' objection.",
+      "explanation": "CCC 1674 lists 'the veneration of relics' among the forms of piety surrounding the Church's sacramental life, and Vatican II says the saints' authentic relics are 'held in veneration' (Sacrosanctum Concilium 111). Veneration honors the saint and is never the adoration due to God alone (compare CCC 2132 on sacred images).",
+      "hint": "This is the same veneration versus adoration distinction that answers the 'isn't this idolatry' objection.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1674"
+          "reference": "CCC 1674",
+          "quote": "the veneration of relics"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Sacrosanctum Concilium 111",
+          "quote": "their authentic relics and images held in veneration"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2132",
+          "quote": "not the adoration due to God alone"
         }
       ]
     },
@@ -4043,14 +4197,18 @@
       "level": 20,
       "type": "fill_blank",
       "difficultyElo": 2335,
-      "prompt": "The Roman Martyrology's dated entry for a saint carries more evidentiary weight than a later ____ elaboration, which may add pious details not found in the earliest sources.",
-      "correctAnswer": "hagiographic",
-      "explanation": "The Roman Martyrology is the Church's official liturgical list of saints and their feast days, kept to a sober, dated entry. Later hagiographic (saint-biography) elaborations -- especially medieval collections like the Golden Legend -- often add vivid but unverifiable details layered on top of the earlier, more reliable record.",
-      "hint": "This is the same word used for the entire genre of saint-biography writing.",
+      "prompt": "The Roman Martyrology is the Church's official ____ book listing the saints and blessed by the days on which they are commemorated.",
+      "correctAnswer": "liturgical",
+      "explanation": "The Roman Martyrology (Martyrologium Romanum) is the official liturgical book of the Roman Rite listing the saints and blessed with the days on which they are commemorated.",
+      "hint": "It is a book used in the Church's worship.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 828"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Martyrologium Romanum, editio typica altera (2004), Congregation for Divine Worship and the Discipline of the Sacraments"
         }
       ]
     },
@@ -4071,12 +4229,12 @@
           "right": "Requires eminent learning, outstanding sanctity, and formal papal or conciliar proclamation"
         },
         {
-          "left": "First-class relic",
+          "left": "First-class relic (popular term)",
           "right": "A saint's own body or bodily remains"
         },
         {
           "left": "Official patronage",
-          "right": "Formally assigned by a papal decree, distinct from a devotion that is merely traditional"
+          "right": "Formally confirmed by the Holy See, distinct from a devotion that is merely traditional"
         }
       ],
       "explanation": "Each of these terms names a specific, documented process or category -- not a vague impression of 'how the Church honors saints,' but a defined mechanism with its own requirements and its own named source.",
@@ -4117,14 +4275,15 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: John Paul II's 1983 reform, Divinus Perfectionis Magister, reduced the number of required miracles and restructured the process to function more like a rigorous historical investigation.",
+      "prompt": "True or False: John Paul II's 1983 apostolic constitution Divinus Perfectionis Magister reformed the process for causes of saints, responding to bishops who had asked for a simpler process that kept the soundness of the investigation.",
       "correctAnswer": true,
-      "explanation": "True. The reform streamlined a process that had grown extremely lengthy, emphasizing careful historical and theological investigation of the candidate's life and reducing (though not eliminating) the number of miracles formally required at each stage.",
-      "hint": "Ask whether this reform made the process more or less historically rigorous, and simpler or more complex.",
+      "explanation": "True. The constitution restructured the Congregation for the Causes of Saints and the way causes are instructed, responding to bishops who had asked for a simpler process while maintaining the soundness of the investigation.",
+      "hint": "Ask whether the reform aimed to make the process simpler while keeping it sound.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Divinus Perfectionis Magister, Pope St. John Paul II (1983)"
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
+          "quote": "who have often called for a simpler process while maintaining the soundness of the investigation"
         }
       ]
     },
@@ -4165,7 +4324,7 @@
         },
         {
           "left": "Canonization",
-          "right": "Universal Church veneration with a mandatory feast day"
+          "right": "The saint is proposed to the whole Church for imitation, veneration and invocation"
         },
         {
           "left": "Equipollent canonization",
@@ -4300,13 +4459,13 @@
         "A miracle claim is automatically approved once a bishop personally believes it"
       ],
       "correctAnswer": "The Church's process requires medical experts to rule out a natural explanation before attributing a cure to intercession",
-      "explanation": "The Congregation for the Causes of Saints refers claimed medical miracles to a panel of doctors (believers and non-believers alike) who must first agree the cure has no natural or medical explanation before theologians even consider whether it can be attributed to the candidate's intercession. A coincidental improvement in a condition known to sometimes resolve on its own would not clear that first medical hurdle.",
+      "explanation": "Alleged healings are examined first by a board of medical experts, and only afterwards by theologians and then by the Cardinals and Bishops of the Dicastery for the Causes of Saints. A coincidental improvement in a condition known to sometimes resolve on its own could not be shown to have no natural explanation, so it would not clear the first, medical, stage.",
       "hint": "Before theologians even get involved, doctors have to agree there's no ordinary medical explanation at all.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
-          "quote": "Most recent experience... has shown us the appropriateness of revising further the manner of instructing causes... so structuring the Congregation for the Causes of Saints that we might meet the needs of experts and the desires of Our Brother Bishops, who have often called for a simpler process while maintaining the soundness of the investigation."
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983), n. 12",
+          "quote": "There is to be a board of medical experts in the Sacred Congregation whose responsibility is to examine healings which are proposed as miracles."
         }
       ]
     },
@@ -4407,8 +4566,9 @@
       "hint": "Ask whether the Church's actual investigative process assumes a miracle or tries to rule one out first.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2003"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983), n. 14",
+          "quote": "in the case of healings, in a meeting of physicians"
         }
       ]
     },
@@ -4449,8 +4609,8 @@
           "reference": "CCC 1674"
         },
         {
-          "type": "ccc",
-          "reference": "CCC 2003"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983), n. 14"
         }
       ]
     },
@@ -4472,9 +4632,9 @@
       "hint": "Consider what crisis she was intervening in when she wrote to the pope.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2679",
-          "quote": "Mary is the perfect Orans (prayer), a figure of the Church."
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 24 November 2010 (St Catherine of Siena)",
+          "quote": "Pope Gregory XI who was living at Avignon in that period and whom she energetically and effectively urged to return to Rome"
         }
       ],
       "tags": [
@@ -4538,9 +4698,9 @@
       "prompt": "Scholars, including the critical edition by Thomas Heffernan, have debated the authorship and editorial history of the Passion of Perpetua and Felicity -- specifically how much of the text is Perpetua's own prison diary versus a later editor's framing. What does this scholarly dispute NOT touch?",
       "choices": [
         "The Church's own liturgical veneration of Perpetua and Felicity, resting on cultus, not on resolving every authorship question",
-        "Whether Perpetua and Felicity are venerated by the wider Church as martyrs at all in the first place",
-        "Whether the surviving text of their account has any editorial layers in it at all",
-        "Whether the text ought properly to be read only in a critical scholarly edition today"
+        "Which sections of the surviving text are Perpetua's own prison diary and which are an editor's framing",
+        "Who composed the narrative framing that surrounds Perpetua's own account",
+        "How much of the surviving account reflects Perpetua's own voice as opposed to a later editor's"
       ],
       "correctAnswer": "The Church's own liturgical veneration of Perpetua and Felicity, resting on cultus, not on resolving every authorship question",
       "explanation": "Textual and authorship questions -- exactly how much of the surviving account is Perpetua's own voice versus an editor's -- are real, ongoing historical-critical questions, documented in critical editions like Heffernan's. They are historical-judgment questions, not doctrinal ones: the Church's veneration of these two martyrs rests on the ancient, continuous cultus, not on settling every textual-critical detail.",
@@ -4548,8 +4708,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 61",
-          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honoured as saints in all the Church's liturgical traditions."
+          "reference": "CCC 957",
+          "quote": "...we love the martyrs as the Lord's disciples and imitators, and rightly so..."
         }
       ],
       "tags": [
@@ -4562,20 +4722,33 @@
       "level": 22,
       "type": "true_false",
       "difficultyElo": 2375,
-      "prompt": "True or False: The Church treats married, lay sanctity and cloistered, religious sanctity as two competing paths, where one must be considered spiritually superior to the other.",
+      "prompt": "True or False: Because all the faithful are called to the same holiness, the Church teaches that the married state and consecrated virginity are of equal excellence.",
       "correctAnswer": false,
-      "explanation": "The Church presents lay and religious vocations as parallel, non-competing paths to holiness, each suited to a different state in life -- the universal call to holiness applies to every state of life, not only consecrated ones, and canonized married saints stand as evidence the Church treats this as a genuine, not merely theoretical, parallel.",
-      "hint": "This isn't a ranking -- it's two different real vocations, each capable of reaching the same goal.",
+      "explanation": "False. All the faithful, in every state of life, are called to the fullness of the Christian life and the perfection of charity (Lumen Gentium 40), and holiness can truly be attained by married people (Pius XII, Sacra Virginitas 46). But the Church does not teach that the two states are equal in excellence: Lumen Gentium 42 gives virginity or celibacy for the Kingdom an eminent position, and the Council of Trent defined that it is better and more blessed to remain in virginity or celibacy than to be united in marriage. Esteem for virginity and the Christian understanding of marriage do not compete: they reinforce each other (CCC 1620).",
+      "hint": "One and the same call to holiness for everyone does not mean every state of life has equal excellence.",
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium, ch. 5",
-          "quote": "All the faithful of Christ of whatever rank or status are called to the fullness of the Christian life and to the perfection of charity."
+          "reference": "Second Vatican Council, Lumen Gentium 40",
+          "quote": "all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Lumen Gentium 42",
+          "quote": "An eminent position among these is held by virginity or the celibate state."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pius XII, Sacra Virginitas (1954), n. 46",
+          "quote": "Holiness of life can really be attained, even without a chastity that is consecrated to God."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1620",
+          "quote": "Esteem of virginity for the sake of the kingdom and the Christian understanding of marriage are inseparable, and they reinforce each other"
         }
       ],
-      "tags": [
-        "theological-status:contested-within-orthodoxy"
-      ]
+      "tags": []
     },
     {
       "id": "saints-l22-006",
@@ -4630,8 +4803,9 @@
       "hint": "Ask which historical period, not doctrinal event, this saint's action is directly tied to.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2044"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 24 November 2010 (St Catherine of Siena)",
+          "quote": "Pope Gregory XI who was living at Avignon in that period and whom she energetically and effectively urged to return to Rome"
         }
       ]
     },
@@ -4643,13 +4817,13 @@
       "difficultyElo": 2425,
       "prompt": "The doctrine of the Communion of Saints (CCC 946-962) provides the doctrinal basis for which two practices?",
       "choices": [
-        "Asking for the intercession of the saints, and venerating their relics",
+        "Asking for the intercession of the saints, and praying for the dead",
         "The canonization process's requirement of a miracle, and nothing else",
         "The distinction between beatification and canonization only",
         "The liturgical calendar's dating system exclusively"
       ],
-      "correctAnswer": "Asking for the intercession of the saints, and venerating their relics",
-      "explanation": "The Communion of Saints names the real, living bond between the faithful on earth, the souls being purified, and the saints in glory — which is the doctrinal foundation underneath both intercessory prayer to saints and the honor given their physical remains, rather than either practice standing alone without a doctrinal basis.",
+      "correctAnswer": "Asking for the intercession of the saints, and praying for the dead",
+      "explanation": "The Communion of Saints names the real, living bond between the faithful on earth, the souls being purified, and the saints in glory. That bond is why we can ask the saints to intercede for us and why the Church offers prayers for the dead. Neither practice stands alone without a doctrinal basis.",
       "hint": "Ask which two practices depend on there being an ongoing bond between the living and the dead in Christ.",
       "citations": [
         {
@@ -4658,7 +4832,7 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 1674"
+          "reference": "CCC 958"
         }
       ]
     },
@@ -4668,14 +4842,15 @@
       "level": 22,
       "type": "true_false",
       "difficultyElo": 2375,
-      "prompt": "True or False: Maximilian Kolbe and Edith Stein (Teresa Benedicta of the Cross), both killed at Auschwitz, are typically presented together as a shared witness against the same twentieth-century atrocity.",
+      "prompt": "True or False: Maximilian Kolbe and Edith Stein (Teresa Benedicta of the Cross) both died at Auschwitz under the Nazi regime and were later canonized.",
       "correctAnswer": true,
-      "explanation": "True. Though their lives and religious paths differed substantially — Kolbe a Franciscan friar, Stein a Jewish convert and Carmelite nun — both are frequently commemorated together as saints whose deaths bear witness against the Holocaust specifically.",
+      "explanation": "True. Kolbe, a Conventual Franciscan priest, died at Auschwitz in 1941 after offering his life in place of another prisoner. Stein, a Jewish convert and Carmelite nun, died at Auschwitz in 1942. Both have since been canonized.",
       "hint": "Ask what specific historical atrocity both of their deaths are most often connected to in how they are remembered.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2447"
+          "reference": "CCC 2473",
+          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
         }
       ]
     },
@@ -4697,11 +4872,11 @@
         },
         {
           "left": "Communion of Saints",
-          "right": "Doctrinal basis for both intercession and relic veneration"
+          "right": "Doctrinal basis for both intercession and prayer for the dead"
         },
         {
           "left": "Married, lay sanctity versus cloistered sanctity",
-          "right": "Equally real paths to holiness, not a hierarchy of one over the other"
+          "right": "One and the same call to holiness in every state of life, though the Church teaches that virginity or celibacy for the Kingdom is the more excellent state"
         }
       ],
       "explanation": "This shows that the saints are not biographical trivia -- their lives draw on and reinforce Church history, prayer, and core doctrine, which is the point of studying the saints rather than merely their stories.",
@@ -4709,11 +4884,15 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2044"
+          "reference": "CCC 946"
         },
         {
           "type": "ccc",
-          "reference": "CCC 946"
+          "reference": "CCC 958"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1620"
         }
       ]
     },
@@ -4723,21 +4902,21 @@
       "level": 23,
       "type": "multiple_choice",
       "difficultyElo": 2500,
-      "prompt": "A hypothetical cause has: decades of documented, quietly heroic charity; a strong, long-standing local devotion; but no medically-attested miracle yet formally investigated. Based on the Church's actual standard, what is this cause missing to reach canonization (not beatification alone)?",
+      "prompt": "A hypothetical cause has: decades of documented, quietly heroic charity; a strong, long-standing local devotion; and a beatification already granted on the basis of one approved miracle. No miracle attributed to the candidate's intercession after beatification has yet been investigated. Based on the Church's actual standard, what is this cause still missing to reach canonization?",
       "choices": [
-        "A second miracle, medically investigated and attributed to intercession after beatification -- assuming a first miracle and beatification have already occurred",
+        "A further miracle, medically investigated and attributed to the candidate's intercession after beatification",
         "Nothing further at all is required -- documented charity and long-standing local devotion alone are already fully sufficient",
         "Ordination to the priesthood, which this process formally requires for absolutely every canonization cause",
         "A strict minimum of one hundred years since death, regardless of any other evidence presented"
       ],
-      "correctAnswer": "A second miracle, medically investigated and attributed to intercession after beatification -- assuming a first miracle and beatification have already occurred",
-      "explanation": "Documented heroic virtue and a genuine cultus are necessary but not sufficient on their own -- the Church's process still requires the medically-investigated miracles at each stage (per Divinus Perfectionis Magister), which this hypothetical cause has not yet cleared. A long local devotion can support the case, but it does not substitute for the required miracle.",
+      "correctAnswer": "A further miracle, medically investigated and attributed to the candidate's intercession after beatification",
+      "explanation": "Documented heroic virtue and a genuine cultus are necessary but not sufficient on their own. For a confessor who has been beatified on the basis of one approved miracle, the ordinary process requires a further miracle after beatification. Alleged healings are examined first by medical experts, then by theologians, then by the Cardinals and Bishops (Divinus Perfectionis Magister, nn. 12 and 14). A long local devotion can support the case, but it does not substitute for the required miracle.",
       "hint": "One miracle clears beatification; canonization itself requires a second, separate one investigated afterward.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Divinus Perfectionis Magister (1983)",
-          "quote": "Most recent experience... has shown us the appropriateness of revising further the manner of instructing causes... so structuring the Congregation for the Causes of Saints that we might meet the needs of experts and the desires of Our Brother Bishops, who have often called for a simpler process while maintaining the soundness of the investigation."
+          "reference": "John Paul II, Divinus Perfectionis Magister (1983), n. 14",
+          "quote": "They are discussed in a meeting of experts (in the case of healings, in a meeting of physicians)"
         }
       ]
     },
@@ -4760,8 +4939,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council, Lumen Gentium, ch. 5",
-          "quote": "All the faithful of Christ of whatever rank or status are called to the fullness of the Christian life and to the perfection of charity."
+          "reference": "Second Vatican Council, Lumen Gentium 40",
+          "quote": "all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity"
         }
       ]
     },
@@ -4816,7 +4995,7 @@
       "level": 23,
       "type": "multiple_choice",
       "difficultyElo": 2500,
-      "prompt": "St. Therese of Lisieux's 'Little Way' is often summarized in her own words: she wished to do 'small things with great love.' Which theological reasoning best supports this as a coherent rule of life, rather than a sentimental slogan?",
+      "prompt": "St. Therese of Lisieux's 'Little Way' is often summarized as doing even small, ordinary things with great love. Which theological reasoning best supports this as a coherent rule of life, rather than a sentimental slogan?",
       "choices": [
         "Holiness lies in the love behind an act, not its size, so ordinary daily tasks can be real means of sanctification",
         "Only dramatic, publicly visible acts of heroism count toward genuine holiness in the end",
@@ -4932,8 +5111,8 @@
       "hint": "Ask whether certainty about one specific, well-documented act logically requires certainty about everything else ever claimed about the same person.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2447"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Homily at the Canonization of Maximilian Mary Kolbe, 10 October 1982"
         }
       ]
     },
@@ -4959,10 +5138,10 @@
         },
         {
           "left": "Robert Bellarmine and the Galileo affair",
-          "right": "A live, unresolved historical-theological question, not a settled one"
+          "right": "A matter on which the Church has spoken (John Paul II, 1992); historians continue to study Bellarmine's own role"
         }
       ],
-      "explanation": "This asks the reader to apply precision rather than add new facts: distinguishing sufficiency from worthiness, one calling from many paths, one well-evidenced claim from a whole legend, and a live scholarly question from a settled one.",
+      "explanation": "This asks the reader to apply precision rather than add new facts: distinguishing sufficiency from worthiness, one calling from many paths, one well-evidenced claim from a whole legend, and a matter on which the Church has spoken from the detail that historians still study.",
       "hint": "None of these four rows introduces a brand-new fact -- each applies a distinction drawn from the lives of the saints.",
       "citations": [
         {
