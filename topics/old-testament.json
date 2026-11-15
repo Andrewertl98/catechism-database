@@ -20,8 +20,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Genesis 2:4",
-          "quote": "These are the generations of the heaven and the earth, when they were created, in the day that the Lord God made the heaven and the earth:",
+          "reference": "Genesis 1:1",
+          "quote": "In the beginning God created heaven, and earth.",
           "note": "Douay-Rheims"
         }
       ]
@@ -75,7 +75,7 @@
       "level": 1,
       "type": "fill_blank",
       "difficultyElo": 910,
-      "prompt": "Genesis closes the account of creation with God's own verdict: 'God looked at everything he had made, and found it very ____.'",
+      "prompt": "Genesis closes the account of creation with God's own verdict: 'And God saw all the things that he had made, and they were very ____.'",
       "correctAnswer": "good",
       "explanation": "The goodness of the created world is stated before anything goes wrong in it. Whatever the Old Testament later says about sin, it never says that matter itself was a mistake.",
       "hint": "The verdict God gives on his own work.",
@@ -276,7 +276,8 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 128"
+          "reference": "CCC 410",
+          "quote": "This passage in Genesis is called the Protoevangelium (\"first gospel\"): the first announcement of the Messiah and Redeemer"
         }
       ]
     },
@@ -312,7 +313,7 @@
       "prompt": "What does the Church call the practice of reading Old Testament events as prefigurations of what God accomplished in Christ?",
       "choices": [
         "Typology",
-        "Allegory",
+        "Hagiography",
         "Concordance",
         "Apologetics"
       ],
@@ -349,7 +350,7 @@
       "level": 2,
       "type": "matching_pairs",
       "difficultyElo": 965,
-      "prompt": "Match each Old Testament reality to what the Church sees it pointing toward.",
+      "prompt": "Match each Old Testament reality to what the Church teaches about it.",
       "pairs": [
         {
           "left": "The crossing of the Red Sea",
@@ -368,8 +369,8 @@
           "right": "A covenant never revoked"
         }
       ],
-      "explanation": "Reading this way is what the Catechism calls typology. The Old Testament is not a set of separate lessons; it is one story whose meaning becomes fully visible only at the end.",
-      "hint": "Each left-hand item points forward to something on the right.",
+      "explanation": "The crossing of the Red Sea is a sign or type of Christian Baptism (CCC 117). The offspring of the woman is the first announcement of the Redeemer (CCC 410). The patriarchs and prophets are honored as saints (CCC 61), and the Old Covenant has never been revoked (CCC 121). Together they show the Old Testament as one story whose meaning becomes fully visible in Christ.",
+      "hint": "Each left-hand item matches a statement the Church makes about it.",
       "citations": [
         {
           "type": "ccc",
@@ -377,7 +378,17 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 128"
+          "reference": "CCC 410"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 61",
+          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honoured as saints in all the Church's liturgical traditions."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 121",
+          "quote": "Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
         }
       ]
     },
@@ -504,11 +515,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 1217"
+          "reference": "CCC 1219",
+          "quote": "The Church has seen in Noah's ark a prefiguring of salvation by Baptism"
         },
         {
           "type": "ccc",
-          "reference": "CCC 128"
+          "reference": "CCC 1217"
         }
       ]
     },
@@ -642,8 +654,13 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 121-123",
-          "quote": "Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+          "reference": "CCC 59",
+          "quote": "In order to gather together scattered humanity God calls Abram from his country, his kindred and his father's house"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 62",
+          "quote": "He established with them the covenant of Mount Sinai"
         }
       ]
     },
@@ -705,7 +722,7 @@
         "It records the founding of the city of Jerusalem"
       ],
       "correctAnswer": "It leaves humanity divided, and God begins gathering a people",
-      "explanation": "Scattering is the problem the rest of the story answers. God calls one man, makes of him a family, then a nation -- and at Pentecost, when the languages are understood again, the gathering is finally complete.",
+      "explanation": "Scattering is the problem the rest of the story answers. God calls one man, makes of him a family, then a nation, to gather scattered humanity -- and at Pentecost, when each hears the apostles in his own language, the gathering of the nations into the Church begins.",
       "hint": "Ask what problem the call of Abraham is answering.",
       "citations": [
         {
@@ -716,8 +733,12 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 121-123",
-          "quote": "Its books are divinely inspired and retain a permanent value, for the Old Covenant has never been revoked."
+          "reference": "CCC 59",
+          "quote": "In order to gather together scattered humanity God calls Abram from his country, his kindred and his father's house"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 767"
         }
       ]
     },
@@ -770,11 +791,12 @@
       "level": 4,
       "type": "fill_blank",
       "difficultyElo": 1135,
-      "prompt": "Abram settles a quarrel with Lot by saying: 'Let there be no strife between you and me... for we are ____.'",
-      "correctAnswer": "kinsmen",
+      "prompt": "Abram settles a quarrel with Lot by saying: 'Let there be no quarrel, I beseech thee, between me and thee... for we are ____.'",
+      "correctAnswer": "brethren",
       "acceptedAnswers": [
-        "kinsman",
-        "brothers"
+        "brothers",
+        "kinsmen",
+        "kinsman"
       ],
       "explanation": "Abraham gives Lot the first choice of land rather than fight him for it. The promise had been made to Abraham, and he behaves as a man who believes it will be kept without his grasping.",
       "hint": "The reason he gives is family.",
@@ -801,7 +823,7 @@
         "Elijah"
       ],
       "correctAnswer": "Abraham",
-      "explanation": "Abraham bargaining for Sodom is the pattern: a man arguing with God for the sake of people who are not his own. The Catechism treats that as the beginning of intercessory prayer itself.",
+      "explanation": "Abraham bargaining for Sodom is the pattern: a man pleading with God for the sake of people who are not his own. The Catechism says that since Abraham, intercession has been characteristic of a heart attuned to God's mercy.",
       "hint": "Think of the man who argued with God over a doomed city.",
       "citations": [
         {
@@ -885,7 +907,7 @@
         "From a city to an empire"
       ],
       "correctAnswer": "From all humanity to one chosen family",
-      "explanation": "The narrowing is deliberate and temporary. God works through one family in order to reach everyone -- which is why the promise to Abraham already mentions all the families of the earth.",
+      "explanation": "The narrowing is deliberate. God works through one family in order to reach everyone -- which is why the promise to Abraham already mentions all the families of the earth.",
       "hint": "Compare who the rainbow covenant is with to who Abraham's is with.",
       "citations": [
         {
@@ -1006,7 +1028,7 @@
       "difficultyElo": 1100,
       "prompt": "True or False: The Church reads Abraham's willingness to offer his only son as prefiguring the Father offering the Son.",
       "correctAnswer": true,
-      "explanation": "True, and this is typology working exactly as the Catechism describes it: a real event in the Old Covenant whose shape is filled out in Christ. A father, an only son, a mountain, and wood carried uphill.",
+      "explanation": "True, and this is typology working exactly as the Catechism describes it: a real event in the Old Covenant whose shape is filled out in Christ. A father, an only son, and wood carried by the one who is to be sacrificed.",
       "hint": "Count the details the two scenes share.",
       "citations": [
         {
@@ -1014,10 +1036,9 @@
           "reference": "CCC 128"
         },
         {
-          "type": "scripture",
-          "reference": "Genesis 22:13",
-          "quote": "Abraham lifted up his eyes, and saw behind his back a ram, amongst the briers, sticking fast by the horns, which he took and offered for a holocaust instead of his son.",
-          "note": "Douay-Rheims"
+          "type": "ccc",
+          "reference": "CCC 2572",
+          "quote": "the father of believers is conformed to the likeness of the Father who will not spare his own Son"
         }
       ]
     },
@@ -1029,8 +1050,8 @@
       "difficultyElo": 1210,
       "prompt": "Seeing Jesus approach, John the Baptist says: 'Behold the ____ of God. Behold him who taketh away the sin of the world.'",
       "correctAnswer": "Lamb",
-      "explanation": "The title only lands with full weight if you have read the Old Testament first. A lamb provided in a son's place on Moriah, a lamb slain at Passover -- and now a man named as the Lamb himself.",
-      "hint": "The animal provided in Isaac's place, and slain at Passover.",
+      "explanation": "The title only lands with full weight if you have read the Old Testament first. A ram provided in a son's place on Moriah, a lamb slain at Passover -- and now a man named as the Lamb himself.",
+      "hint": "The animal of the Passover meal, and the title John gives Jesus.",
       "citations": [
         {
           "type": "scripture",
@@ -1071,7 +1092,7 @@
       "difficultyElo": 1100,
       "prompt": "True or False: The Church teaches that the sacrifice of Christ and the sacrifice of the Eucharist are one single sacrifice.",
       "correctAnswer": true,
-      "explanation": "True -- 'the victim is one and the same, only the manner of offering is different.' The thread of sacrifice that begins with a ram on Moriah does not end at Calvary; it is made present at every altar.",
+      "explanation": "True -- 'The victim is one and the same ... only the manner of offering is different.' The one sacrifice offered on Calvary is not repeated; it is made present at every altar.",
       "hint": "The difference is in the manner, not the victim.",
       "citations": [
         {
@@ -1100,18 +1121,19 @@
         {
           "left": "The ram provided instead",
           "right": "The Lamb of God"
-        },
-        {
-          "left": "The mountain of sacrifice",
-          "right": "The hill outside Jerusalem"
         }
       ],
-      "explanation": "None of these is a coincidence noticed afterward. The Catechism's word is prefiguration -- a real shape in the earlier event that the later one fills out completely.",
+      "explanation": "The Catechism's word is prefiguration: the Church reads God's works in the Old Covenant as prefiguring what he accomplished in the person of his incarnate Son (CCC 128), and sees in Abraham's trial the Father who will not spare his own Son (CCC 2572).",
       "hint": "Each detail on the left has a counterpart in the Passion.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 128"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 2572",
+          "quote": "the father of believers is conformed to the likeness of the Father who will not spare his own Son"
         },
         {
           "type": "scripture",
@@ -1159,8 +1181,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Genesis 22:13",
-          "quote": "Abraham lifted up his eyes, and saw behind his back a ram, amongst the briers, sticking fast by the horns, which he took and offered for a holocaust instead of his son.",
+          "reference": "Genesis 22:15-18",
+          "quote": "And the angel of the Lord called to Abraham a second time from heaven, saying: By my own self have I sworn, saith the Lord: because thou hast done this thing, and hast not spared thy only begotten son for my sake: I will bless thee, and I will multiply thy seed as the stars of heaven, and as the sand that is by the sea shore; thy seed shall possess the gates of their enemies. And in thy seed shall all the nations of the earth be blessed, because thou hast obeyed my voice.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Hebrews 11:17-19",
+          "quote": "By faith Abraham, when he was tried, offered Isaac: and he that had received the promises offered up his only begotten son, (To whom it was said: In Isaac shall thy seed be called:) Accounting that God is able to raise up even from the dead. Whereupon also he received him for a parable.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1299,8 +1327,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Genesis 32:24-30",
-          "quote": "But he said: Thy name shall not be called Jacob, but Israel; for if thou hast been strong against God, how much more shalt thou prevail against men?",
+          "reference": "Genesis 49:28",
+          "quote": "All these are the twelve tribes of Israel: these things their father spoke to them, and he blessed every one with their proper blessings.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1372,7 +1400,7 @@
       "level": 6,
       "type": "multiple_choice",
       "difficultyElo": 1225,
-      "prompt": "Why does the angel's promise to Mary mention 'the house of Jacob' rather than simply 'Israel'?",
+      "prompt": "What does 'the house of Jacob' in the angel's promise to Mary refer to?",
       "choices": [
         "It ties the child to the patriarch's own line",
         "It was the formal legal name of the territory",
@@ -1380,8 +1408,8 @@
         "It refers to the Temple building itself"
       ],
       "correctAnswer": "It ties the child to the patriarch's own line",
-      "explanation": "Naming Jacob is a way of naming the whole story: the wrestling, the renaming, the twelve sons. Luke is saying this child is the point the whole line was heading toward.",
-      "hint": "The phrase reaches back to a person, not a place.",
+      "explanation": "'The house of Jacob' names the people descended from the patriarch Jacob, whom God renamed Israel. The angel announces that Mary's son will reign over that whole people for ever.",
+      "hint": "The phrase names a person's family, not a place.",
       "citations": [
         {
           "type": "scripture",
@@ -1399,7 +1427,7 @@
       "difficultyElo": 1175,
       "prompt": "True or False: Jacob's new name is given to him only after he refuses to let go of the one he wrestles.",
       "correctAnswer": true,
-      "explanation": "True -- the name is granted because he contended and prevailed. Israel means a people who hold on, and the name is earned in the dark by someone who would not release his grip.",
+      "explanation": "True -- Jacob says 'I will not let thee go, except thou bless me,' and the new name follows, with the reason given in the verse itself: 'for if thou hast been strong against God, how much more shalt thou prevail against men?'",
       "hint": "The reason given for the new name is in the verse itself.",
       "citations": [
         {
@@ -1448,13 +1476,25 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 61",
-          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honoured as saints in all the Church's liturgical traditions."
+          "reference": "CCC 59",
+          "quote": "In order to gather together scattered humanity God calls Abram from his country, his kindred and his father's house"
         },
         {
           "type": "ccc",
-          "reference": "CCC 1716",
-          "quote": "They take up the promises made to the chosen people since Abraham."
+          "reference": "CCC 60",
+          "quote": "The people descended from Abraham would be the trustee of the promise made to the patriarchs, the chosen people"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 26:3-4",
+          "quote": "And sojourn in it, and I will be with thee, and will bless thee: for to thee and to thy seed I will give all these countries, to fulfil the oath which I swore to Abraham thy father. And I will multiply thy seed like the stars of heaven: and I will give to thy posterity all these countries: and in thy seed shall all the nations of the earth be blessed.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 28:13-15",
+          "quote": "And the Lord leaning upon the ladder saying to him: I am the Lord God of Abraham thy father, and the God of Isaac: The land, wherein thou sleepest, I will give to thee and to thy seed. And thy seed shall be as the dust of the earth: thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and IN THEE and thy seed, all the tribes of the earth SHALL BE BLESSED. And I will be thy keeper whithersoever thou goest, and will bring thee back into this land: neither will I leave thee, till I shall have accomplished all that I have said.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1559,8 +1599,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Genesis 39:20",
-          "quote": "And cast Joseph into the prison, where the king’s prisoners were kept, and he was there shut up.",
+          "reference": "Genesis 39:17-20",
+          "quote": "And said: The Hebrew servant, whom thou hast brought, came to me to abuse me. And when he heard me cry, he left the garment which I held, and fled out. His master hearing these things, and giving too much credit to his wife’s words, was very angry, And cast Joseph into the prison, where the king’s prisoners were kept, and he was there shut up.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1656,8 +1696,8 @@
         },
         {
           "type": "scripture",
-          "reference": "Genesis 39:20",
-          "quote": "And cast Joseph into the prison, where the king’s prisoners were kept, and he was there shut up.",
+          "reference": "Genesis 39:20-21",
+          "quote": "And cast Joseph into the prison, where the king’s prisoners were kept, and he was there shut up. But the Lord was with Joseph, and having mercy upon him gave him favour in the sight of the chief keeper of the prison:",
           "note": "Douay-Rheims"
         }
       ]
@@ -1668,7 +1708,7 @@
       "level": 8,
       "type": "multiple_choice",
       "difficultyElo": 1375,
-      "prompt": "How does Joseph come to Pharaoh's attention after years in prison?",
+      "prompt": "What does Joseph do for Pharaoh that leads to his rise from prison to high office?",
       "choices": [
         "He interprets Pharaoh's troubling dreams",
         "He petitions Pharaoh directly for release",
@@ -1676,8 +1716,8 @@
         "Potiphar finally admits the accusation was false"
       ],
       "correctAnswer": "He interprets Pharaoh's troubling dreams",
-      "explanation": "The same gift that first drew his brothers' resentment -- reading dreams -- is what finally lifts him out of prison. Nothing about Joseph has changed; only who is paying attention has.",
-      "hint": "The same gift that caused trouble with his brothers now serves him.",
+      "explanation": "The chief butler remembered the young Hebrew who had read his dream in prison, and Joseph was brought out of the prison to Pharaoh. When he interprets Pharaoh's troubling dreams, he is raised to high office. Dreams had marked Joseph out from the beginning; now, by God's gift, they bring him from prison to power.",
+      "hint": "The chief butler remembered a man who had read his own dream in prison.",
       "citations": [
         {
           "type": "scripture",
@@ -1712,9 +1752,9 @@
       "level": 8,
       "type": "fill_blank",
       "difficultyElo": 1435,
-      "prompt": "Joseph tells Pharaoh: 'It is not I, but ____ who will give Pharaoh a favorable answer.'",
+      "prompt": "Joseph answers Pharaoh: 'Without me, ____ shall give Pharao a prosperous answer.'",
       "correctAnswer": "God",
-      "explanation": "Even standing before the most powerful man in Egypt, Joseph redirects the credit. The pattern set at Potiphar's house -- 'the LORD was with Joseph' -- holds all the way to Pharaoh's throne.",
+      "explanation": "Even standing before the most powerful man in Egypt, Joseph redirects the credit. The pattern set at Potiphar's house -- 'the Lord was with him' -- holds all the way to Pharaoh's throne.",
       "hint": "He names who is really responsible for the answer.",
       "citations": [
         {
@@ -1739,7 +1779,7 @@
         "Commander of Pharaoh's army"
       ],
       "correctAnswer": "Second in command over all of Egypt",
-      "explanation": "A man who was a slave and a prisoner within the same chapter is now set over the whole land, answerable to no one but Pharaoh himself. The reversal is total.",
+      "explanation": "A man who had been a slave and a prisoner is now set over the whole land, answerable to no one but Pharaoh himself. The reversal is total.",
       "hint": "Pharaoh places him just below himself in authority.",
       "citations": [
         {
@@ -1763,8 +1803,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Genesis 41:40-41",
-          "quote": "Thou shalt be over my house, and at the commandment of thy mouth all the people shall obey: only in the kingly throne will I be above thee.",
+          "reference": "Genesis 41:33-36",
+          "quote": "Now therefore let the king provide a wise and industrious man, and make him ruler over the land of Egypt: That he may appoint overseers over all the countries: and gather into barns the fifth part of the fruits, during the seven fruitful years, That shall now presently ensue: and let all the corn be laid up, under Pharao’s hands, and be reserved in the cities. And let it be in readiness, against the famine of seven years to come, which shall oppress Egypt, and the land shall not be consumed with scarcity.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 45:5-8",
+          "quote": "Be not afraid, and let it not seem to you a hard case that you sold me into these countries: for God sent me before you into Egypt for your preservation. For it is two years since the famine began to be upon the land, and five years more remain, wherein there can be neither ploughing nor reaping. And God sent me before, that you may be preserved upon the earth, and may have food to live. Not by your counsel was I sent hither, but by the will of God: who hath made me as it were a father to Pharao, and lord of his whole house, and governor in all the land of Egypt.",
           "note": "Douay-Rheims"
         }
       ]
@@ -1794,7 +1840,7 @@
           "right": "Prepares Egypt for the famine ahead"
         }
       ],
-      "explanation": "The same gift that made his brothers resent him now saves a nation. Nothing in Joseph has changed since the pit -- only the use his gift has finally been put to.",
+      "explanation": "Dreams had marked Joseph out from the start, and his brothers hated him the more for them. Now God's gift of interpreting dreams, which Joseph credits to God alone, saves a nation.",
       "hint": "Each item on the left leads directly to the one beside it.",
       "citations": [
         {
@@ -1825,8 +1871,8 @@
         "Twenty-five"
       ],
       "correctAnswer": "Thirty",
-      "explanation": "He was seventeen when his brothers sold him. More than a decade of slavery and imprisonment passes before Pharaoh ever hears of him -- the reversal did not come quickly.",
-      "hint": "More than a decade has passed since he was sold at seventeen.",
+      "explanation": "He was still only a boy in his teens when his brothers sold him. More than a decade of slavery and imprisonment passes before Pharaoh ever hears of him -- the reversal did not come quickly.",
+      "hint": "More than a decade has passed since he was sold as a boy.",
       "citations": [
         {
           "type": "scripture",
@@ -1844,9 +1890,15 @@
       "difficultyElo": 1325,
       "prompt": "True or False: More than a decade passed between Joseph being sold into slavery and his rise to power in Egypt.",
       "correctAnswer": true,
-      "explanation": "True. Sold at seventeen, elevated at thirty -- thirteen years pass in slavery and prison before the reversal comes. The story does not rush past Joseph's long wait.",
+      "explanation": "True. Genesis shows Joseph as a boy of sixteen (Douay-Rheims; seventeen in the Hebrew text and most modern translations) when his story opens, and thirty when he stands before Pharaoh. More than a decade passes in slavery and prison before the reversal comes. The story does not rush past Joseph's long wait.",
       "hint": "Compare the two ages Genesis gives for him.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 37:2",
+          "quote": "And these are his generations: Joseph, when he was sixteen years old, was feeding the flock with his brethren, being but a boy:",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "Genesis 41:46",
@@ -1888,19 +1940,20 @@
         "The promise to Abraham had nothing to do with Joseph"
       ],
       "correctAnswer": "God's plan can move through long delay and real suffering",
-      "explanation": "Thirteen years is a long time to wait in a foreign prison. The pattern set with Abraham -- promises kept across long stretches of ordinary, unremarkable time -- holds true again here.",
+      "explanation": "More than a decade is a long time to wait in slavery and a foreign prison. The pattern set with Abraham -- promises kept across long stretches of ordinary, unremarkable time -- holds true again here.",
       "hint": "Consider how long Joseph waited, and what the wait cost him.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "Genesis 37:2",
+          "quote": "And these are his generations: Joseph, when he was sixteen years old, was feeding the flock with his brethren, being but a boy:",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "Genesis 41:46",
           "quote": "(Now he was thirty years old when he stood before king Pharao), and he went round all the countries of Egypt.",
           "note": "Douay-Rheims"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 61",
-          "quote": "The patriarchs, prophets and certain other Old Testament figures have been and always will be honoured as saints in all the Church's liturgical traditions."
         }
       ]
     },
@@ -1956,7 +2009,7 @@
       "difficultyElo": 1510,
       "prompt": "At the end of Genesis, Joseph tells his brothers: 'You thought evil against me: but God turned it into ____.'",
       "correctAnswer": "good",
-      "explanation": "This single sentence is the key to the whole Joseph cycle, and it is the shape the Church will later see filled out completely at the cross: real evil, freely done, that God does not merely permit but turns to save many lives.",
+      "explanation": "This single sentence is the key to the whole Joseph cycle, and it is the shape the Church sees completed at the cross: real evil, freely done by creatures, that God permits and from which he brings good (CCC 312). The evil itself never becomes good.",
       "hint": "The word names the opposite of what his brothers intended.",
       "citations": [
         {
@@ -1964,6 +2017,11 @@
           "reference": "Genesis 50:20",
           "quote": "You thought evil against me: but God turned it into good, that he might exalt me, as at present you see, and might save many people.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 312",
+          "quote": "God in his almighty providence can bring a good from the consequences of an evil, even a moral evil, caused by his creatures"
         }
       ]
     },
@@ -2006,11 +2064,11 @@
         },
         {
           "left": "Joseph reveals himself",
-          "right": "Names God's purpose in their betrayal"
+          "right": "Says God sent him ahead for their preservation"
         },
         {
-          "left": "'God meant it for good'",
-          "right": "Reframes the whole story's meaning"
+          "left": "'God turned it into good'",
+          "right": "Names the saving of many people as the good God brought from it"
         },
         {
           "left": "The family settles in Egypt",
@@ -2067,7 +2125,7 @@
       "difficultyElo": 1400,
       "prompt": "True or False: Genesis 50:20 is often read by the Church as an early pattern for how God works through the Cross.",
       "correctAnswer": true,
-      "explanation": "True. An evil, freely done by people, that God does not merely tolerate but works through to save many -- that is exactly the shape the Church sees completed at Calvary.",
+      "explanation": "True. An evil, freely done by people, that God permits and from which he brings a great good, the saving of many -- the Church sees that same pattern at its greatest at Calvary (CCC 312), though evil itself never becomes good.",
       "hint": "Think about what else in Scripture involves real evil turned to the saving of many.",
       "citations": [
         {
@@ -2078,7 +2136,8 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 128"
+          "reference": "CCC 312",
+          "quote": "From the greatest moral evil ever committed - the rejection and murder of God's only Son ... God ... brought the greatest of goods"
         }
       ]
     },
@@ -2118,7 +2177,7 @@
         "It stalls completely and goes nowhere until Moses is finally born"
       ],
       "correctAnswer": "Through ordinary human choices, even cruel ones, that God does not override but works through",
-      "explanation": "Nobody in this story does anything supernatural. Jealous brothers, a slave trade, a false accusation, a forgotten prisoner -- ordinary cruelty and ordinary mercy, and the promise to Abraham moves forward through all of it.",
+      "explanation": "The story moves forward chiefly through ordinary human actions -- jealous brothers, a slave trade, a false accusation, a forgotten prisoner -- ordinary cruelty and ordinary mercy, and the promise to Abraham advances through all of it, with God's providence working through free human choices rather than overriding them.",
       "hint": "Notice how few miracles actually happen in Joseph's story.",
       "citations": [
         {
@@ -2200,19 +2259,25 @@
       "difficultyElo": 1525,
       "prompt": "How does the infant Moses survive Pharaoh's order to kill Hebrew sons?",
       "choices": [
-        "His mother hides him, then sets him adrift in a basket on the river",
+        "His mother hides him, then places him in a basket among the reeds at the river's edge",
         "He is smuggled out of Egypt entirely as a newborn infant",
         "His father secretly bribes a high-ranking Egyptian official",
         "He is disguised as a girl and raised in that disguise"
       ],
-      "correctAnswer": "His mother hides him, then sets him adrift in a basket on the river",
-      "explanation": "Unable to hide him any longer, Moses' mother places him in a waterproofed basket on the Nile -- where Pharaoh's own daughter finds and raises him, inside the household of the very king who ordered his death.",
+      "correctAnswer": "His mother hides him, then places him in a basket among the reeds at the river's edge",
+      "explanation": "Unable to hide him any longer, Moses' mother places him in a waterproofed basket among the reeds at the Nile's edge -- where Pharaoh's own daughter finds him and adopts him, inside the household of the very king who ordered his death.",
       "hint": "He ends up raised inside the household that ordered his death.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Exodus 2:3",
           "quote": "And when she could hide him no longer, she took a basket made of bulrushes, and daubed it with slime and pitch: and put the little babe therein, and laid him in the sedges by the river’s brink,",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:10",
+          "quote": "And she adopted him for a son, and called him Moses, saying: Because I took him out of the water.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2230,8 +2295,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 2:3",
-          "quote": "And when she could hide him no longer, she took a basket made of bulrushes, and daubed it with slime and pitch: and put the little babe therein, and laid him in the sedges by the river’s brink,",
+          "reference": "Exodus 2:9-10",
+          "quote": "The woman took and nursed the child: and when he was grown up, she delivered him to Pharao’s daughter. And she adopted him for a son, and called him Moses, saying: Because I took him out of the water.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2257,7 +2322,7 @@
           "right": "The midwives quietly refuse"
         },
         {
-          "left": "Moses is set adrift",
+          "left": "Moses is placed in a basket among the reeds",
           "right": "Is raised inside Pharaoh's own house"
         }
       ],
@@ -2272,8 +2337,20 @@
         },
         {
           "type": "scripture",
-          "reference": "Exodus 2:3",
-          "quote": "And when she could hide him no longer, she took a basket made of bulrushes, and daubed it with slime and pitch: and put the little babe therein, and laid him in the sedges by the river’s brink,",
+          "reference": "Exodus 1:12",
+          "quote": "But the more they oppressed them, the more they were multiplied and increased.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 1:17",
+          "quote": "But the midwives feared God, and did not do as the king of Egypt had commanded, but saved the men children.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:10",
+          "quote": "And she adopted him for a son, and called him Moses, saying: Because I took him out of the water.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2286,12 +2363,12 @@
       "difficultyElo": 1525,
       "prompt": "Why does Moses flee Egypt as a grown man?",
       "choices": [
-        "He kills an Egyptian overseer abusing a Hebrew slave",
+        "He kills an Egyptian who was striking a Hebrew",
         "He is exiled by Pharaoh's direct order",
         "He is caught stealing from the royal treasury",
         "He refuses to worship the Egyptian gods publicly"
       ],
-      "correctAnswer": "He kills an Egyptian overseer abusing a Hebrew slave",
+      "correctAnswer": "He kills an Egyptian who was striking a Hebrew",
       "explanation": "Raised in Pharaoh's house, Moses still identifies with his own people. Seeing an Egyptian beating a Hebrew, he intervenes fatally, and flees into the desert once the act becomes known.",
       "hint": "He acts in defense of one of his own people.",
       "citations": [
@@ -2316,8 +2393,20 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 2:11-12",
-          "quote": "In those days, after Moses was grown up, he went out to his brethren: and saw their affliction, and an Egyptian striking one of the Hebrews, his brethren. And when he had looked about this way and that way, and saw no one there, he slew the Egyptian and hid him in the sand.",
+          "reference": "Exodus 2:15",
+          "quote": "but he fled from his sight, and abode in the land of Madian, and he sat down by a well.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 2:21",
+          "quote": "And Moses swore that he would dwell with him. And he took Sephora his daughter to wife:",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:1",
+          "quote": "Now Moses fed the sheep of Jethro, his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2360,8 +2449,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 2:11-12",
-          "quote": "In those days, after Moses was grown up, he went out to his brethren: and saw their affliction, and an Egyptian striking one of the Hebrews, his brethren. And when he had looked about this way and that way, and saw no one there, he slew the Egyptian and hid him in the sand.",
+          "reference": "Exodus 3:1",
+          "quote": "Now Moses fed the sheep of Jethro, his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2404,8 +2493,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 3:2-6",
-          "quote": "And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire, and was not burnt.",
+          "reference": "Exodus 3:5",
+          "quote": "And he said: Come not nigh hither, put off the shoes from thy feet; for the place, whereon thou standest, is holy ground.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2465,13 +2554,13 @@
       "difficultyElo": 1550,
       "prompt": "True or False: At the burning bush, God identifies himself only as a new and unfamiliar god Moses has not heard of before.",
       "correctAnswer": false,
-      "explanation": "False. God identifies himself as the God of Abraham, Isaac, and Jacob -- the very patriarchs whose story came before. The call at the bush is not a fresh start; it is the same promise, decades later, finally coming due.",
+      "explanation": "False. God identifies himself as the God of Abraham, Isaac, and Jacob -- the very patriarchs whose story came before. The call at the bush is not a fresh start; it is the God of the promise, generations later, acting for his people.",
       "hint": "God names three men Moses would already know from his own people's story.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 3:2-6",
-          "quote": "And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire, and was not burnt.",
+          "reference": "Exodus 3:6",
+          "quote": "And he said: I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2506,8 +2595,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 3:2-6",
-          "quote": "And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire, and was not burnt.",
+          "reference": "Exodus 3:2-3",
+          "quote": "And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire, and was not burnt. And Moses said: I will go, and see this great sight, why the bush is not burnt.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 3:5-6",
+          "quote": "put off the shoes from thy feet; for the place, whereon thou standest, is holy ground. And he said: I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob.",
           "note": "Douay-Rheims"
         },
         {
@@ -2537,8 +2632,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 3:14",
-          "quote": "God said to Moses: I AM WHO AM. He said: Thus shalt thou say to the children of Israel: HE WHO IS, hath sent me to you.",
+          "reference": "Exodus 3:10",
+          "quote": "But come, and I will send thee to Pharao, that thou mayst bring forth my people, the children of Israel, out of Egypt.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2549,15 +2644,15 @@
       "level": 11,
       "type": "true_false",
       "difficultyElo": 1550,
-      "prompt": "True or False: The command to remove his sandals is the first thing God says to Moses from the bush.",
+      "prompt": "True or False: God commands Moses to remove his sandals before he identifies himself as the God of Abraham, Isaac, and Jacob.",
       "correctAnswer": true,
-      "explanation": "True. Before naming himself, before giving the mission, God first tells Moses to take off his sandals -- reverence comes before revelation, in the order the text actually gives it.",
-      "hint": "Check the order events happen in within the account.",
+      "explanation": "True. After calling Moses by name and warning him not to come near, God commands him to take off his shoes because the ground is holy; only then does he say, 'I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob.'",
+      "hint": "Compare the order of what God says in Exodus 3:4, 3:5 and 3:6.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 3:2-6",
-          "quote": "And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire, and was not burnt.",
+          "reference": "Exodus 3:4-6",
+          "quote": "he called to him out of the midst of the bush. and said: Moses, Moses. And he answered: Here I am. And he said: Come not nigh hither, put off the shoes from thy feet; for the place, whereon thou standest, is holy ground. And he said: I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2600,14 +2695,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 3:2-6",
-          "quote": "And the Lord appeared to him in a flame of fire out of the midst of a bush: and he saw that the bush was on fire, and was not burnt.",
-          "note": "Douay-Rheims"
-        },
-        {
-          "type": "scripture",
-          "reference": "Exodus 3:14",
-          "quote": "God said to Moses: I AM WHO AM. He said: Thus shalt thou say to the children of Israel: HE WHO IS, hath sent me to you.",
+          "reference": "Exodus 3:6",
+          "quote": "And he said: I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob.",
           "note": "Douay-Rheims"
         }
       ]
@@ -2645,14 +2734,19 @@
       "difficultyElo": 1625,
       "prompt": "True or False: The Passover lamb had to be a flawless animal, without blemish.",
       "correctAnswer": true,
-      "explanation": "True. Nothing damaged or defective would do. The requirement of an unblemished lamb is exactly the detail John points to when he calls Jesus 'the Lamb of God, who takes away the sin of the world.'",
+      "explanation": "True. Exodus 12:5 requires 'a lamb without blemish'; nothing damaged or defective would do. The Church sees in Christ, whom John the Baptist calls the 'Lamb of God', the Paschal Lamb of the first Passover (CCC 608).",
       "hint": "Nothing damaged or defective would satisfy the requirement.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 12:1-13",
-          "quote": "Speak ye to the whole assembly of the children of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses. ... And the blood shall be unto you for a sign in the houses where you shall be; and I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.",
+          "reference": "Exodus 12:5",
+          "quote": "And it shall be a lamb without blemish, a male, of one year;",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 608",
+          "quote": "and also the Paschal Lamb, the symbol of Israel's redemption at the first Passover."
         }
       ]
     },
@@ -2689,8 +2783,8 @@
         "The Bread of Life"
       ],
       "correctAnswer": "The Lamb of God",
-      "explanation": "John the Baptist's title only carries its full weight once a reader already knows this scene: a lamb, without blemish, whose blood shields a household from death. That is precisely the claim John is making about Jesus.",
-      "hint": "Recall the lamb God provided in place of Isaac at Moriah, and what John the Baptist said when he saw Jesus.",
+      "explanation": "John the Baptist's title points to Jesus as the Paschal Lamb, the symbol of Israel's redemption at the first Passover (CCC 608): a lamb without blemish, whose blood shields a household from death. John's words also point to the suffering Servant.",
+      "hint": "Recall what John the Baptist said when he saw Jesus coming to him.",
       "citations": [
         {
           "type": "scripture",
@@ -2703,6 +2797,11 @@
           "reference": "Exodus 12:1-13",
           "quote": "Speak ye to the whole assembly of the children of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses. ... And the blood shall be unto you for a sign in the houses where you shall be; and I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 608",
+          "quote": "and also the Paschal Lamb, the symbol of Israel's redemption at the first Passover."
         }
       ]
     },
@@ -2714,13 +2813,25 @@
       "difficultyElo": 1625,
       "prompt": "True or False: After the final plague, Pharaoh himself finally lets Israel go.",
       "correctAnswer": true,
-      "explanation": "True. The death of the firstborn throughout Egypt is what finally breaks Pharaoh's resistance. Israel leaves that same night, in haste, with unleavened bread because there was no time for the dough to rise.",
+      "explanation": "True. The death of the firstborn throughout Egypt is what finally breaks Pharaoh's resistance and he tells Moses and Aaron to go. Israel leaves in haste, with unleavened bread because the dough could not be leavened while the Egyptians pressed them to depart.",
       "hint": "It takes the last and most severe plague to end his resistance.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 12:1-13",
-          "quote": "Speak ye to the whole assembly of the children of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses. ... And the blood shall be unto you for a sign in the houses where you shall be; and I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.",
+          "reference": "Exodus 12:29",
+          "quote": "And it came to pass at midnight, the Lord slew every firstborn in the land of Egypt, from the firstborn of Pharao, who sat on his throne, unto the firstborn of the captive woman that was in the prison, and all the firstborn of cattle.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:31",
+          "quote": "And Pharao calling Moses and Aaron, in the night, said: Arise and go forth from among my people, you and the children of Israel: go, sacrifice to the Lord as you say.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:39",
+          "quote": "and they made hearth cakes unleavened: for it could not be leavened, the Egyptians pressing them to depart",
           "note": "Douay-Rheims"
         }
       ]
@@ -2731,7 +2842,7 @@
       "level": 12,
       "type": "matching_pairs",
       "difficultyElo": 1715,
-      "prompt": "Match each element of the first Passover to what the Church later sees fulfilled in it.",
+      "prompt": "Match each element of the first Passover to its meaning.",
       "pairs": [
         {
           "left": "The unblemished lamb",
@@ -2750,8 +2861,8 @@
           "right": "A meal for a people about to be freed"
         }
       ],
-      "explanation": "This is typology at its clearest in the whole Old Testament -- so clear that the New Testament names Christ 'our paschal lamb' outright rather than leaving the connection implicit.",
-      "hint": "Each detail of the meal carries forward into how Christians read the Eucharist.",
+      "explanation": "The unblemished lamb and its blood are read by the Church as prefiguring Christ, and the New Testament says plainly, 'Christ our pasch is sacrificed' (1 Corinthians 5:7). The name of the feast and the hurried unleavened meal belong to the Exodus account itself.",
+      "hint": "Each detail comes from the Exodus account of the first Passover meal.",
       "citations": [
         {
           "type": "scripture",
@@ -2760,8 +2871,26 @@
           "note": "Douay-Rheims"
         },
         {
+          "type": "scripture",
+          "reference": "Exodus 12:11",
+          "quote": "and you shall eat in haste; for it is the Phase (that is the Passage) of the Lord.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Corinthians 5:7",
+          "quote": "For Christ our pasch is sacrificed.",
+          "note": "Douay-Rheims"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 128"
+          "reference": "CCC 128",
+          "quote": "discerns in God's works of the Old Covenant prefigurations of what he accomplished in the fullness of time"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 608",
+          "quote": "and also the Paschal Lamb, the symbol of Israel's redemption at the first Passover."
         }
       ]
     },
@@ -2771,16 +2900,16 @@
       "level": 12,
       "type": "multiple_choice",
       "difficultyElo": 1675,
-      "prompt": "Why does the blood have to be visibly marked on the doorposts, rather than simply known to God some other way?",
+      "prompt": "According to Exodus 12:13, what does the Lord say will happen when he sees the blood on the houses?",
       "choices": [
-        "The sign itself is what the destroyer responds to",
-        "It was purely a matter of Egyptian custom",
-        "It served no real purpose, only tradition",
-        "It marked the house for Pharaoh's inspectors"
+        "He will pass over them, and the plague will not be upon them to destroy them",
+        "He will strike them first, before the houses of Egypt",
+        "He will strike marked and unmarked houses alike",
+        "He will wait until morning to decide whether to spare them"
       ],
-      "correctAnswer": "The sign itself is what the destroyer responds to",
-      "explanation": "God does not simply know which houses belong to Israel and spare them invisibly. He commands a visible sign, and it is the sign itself that the text says the destroyer responds to.",
-      "hint": "The text is specific about what the destroyer sees.",
+      "correctAnswer": "He will pass over them, and the plague will not be upon them to destroy them",
+      "explanation": "The Lord commands a visible sign: the blood is 'unto you for a sign in the houses where you shall be.' He promises, 'I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you.'",
+      "hint": "Look at what the Lord says he will do when he sees the blood.",
       "citations": [
         {
           "type": "scripture",
@@ -2798,13 +2927,25 @@
       "difficultyElo": 1625,
       "prompt": "True or False: The Exodus from Egypt happens gradually over several weeks of negotiation.",
       "correctAnswer": false,
-      "explanation": "False. Once Pharaoh relents after the final plague, Israel leaves that very night, in haste -- so quickly that their bread has no time to rise.",
+      "explanation": "False. Once Pharaoh relents after the final plague, he tells Moses and Aaron in the night to go, and the Egyptians press the people to leave so speedily that their dough cannot be leavened.",
       "hint": "Consider why the bread they carried was unleavened.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 12:1-13",
-          "quote": "Speak ye to the whole assembly of the children of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses. ... And the blood shall be unto you for a sign in the houses where you shall be; and I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.",
+          "reference": "Exodus 12:31",
+          "quote": "And Pharao calling Moses and Aaron, in the night, said: Arise and go forth from among my people, you and the children of Israel: go, sacrifice to the Lord as you say.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:33",
+          "quote": "And the Egyptians pressed the people to go forth out of the land speedily, saying: We shall all die.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 12:39",
+          "quote": "And they baked the meal, which a little before they had brought out of Egypt in dough: and they made hearth cakes unleavened: for it could not be leavened, the Egyptians pressing them to depart, and not suffering them to make any stay;",
           "note": "Douay-Rheims"
         }
       ]
@@ -2822,10 +2963,13 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 12:1-13",
-          "quote": "Speak ye to the whole assembly of the children of Israel, and say to them: On the tenth day of this month let every man take a lamb by their families and houses. ... And the blood shall be unto you for a sign in the houses where you shall be; and I shall see the blood, and shall pass over you; and the plague shall not be upon you to destroy you, when I shall strike the land of Egypt.",
+          "reference": "Exodus 12:7",
+          "quote": "And they shall take of the blood thereof, and put it upon both the side posts, and on the upper door posts of the houses, wherein they shall eat it.",
           "note": "Douay-Rheims"
         }
+      ],
+      "acceptedAnswers": [
+        "transom"
       ]
     },
     {
@@ -3028,8 +3172,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Exodus 20:1-17",
-          "quote": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt not have strange gods before me.",
+          "reference": "Exodus 19:20",
+          "quote": "And the Lord came down upon Mount Sinai, in the very top of the mount, and he called Moses unto the top thereof.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 31:18",
+          "quote": "And the Lord, when he had ended these words in Mount Sinai, gave to Moses two stone tables of testimony, written with the finger of God.",
           "note": "Douay-Rheims"
         }
       ]
@@ -3227,7 +3377,7 @@
         },
         {
           "left": "The covenant with Abraham",
-          "right": "A promise of land, descendants, and blessing"
+          "right": "Circumcision"
         },
         {
           "left": "The covenant at Sinai",
@@ -3235,10 +3385,10 @@
         },
         {
           "left": "The new covenant",
-          "right": "Christ's own blood, at the Last Supper"
+          "right": "Christ's own blood, offered at the Last Supper and shed for many"
         }
       ],
-      "explanation": "Each biblical covenant has had its own sign. Sinai's is the most costly yet -- and it is the one Jesus reaches back to directly when he speaks over the cup.",
+      "explanation": "Each biblical covenant has its own sign. Sinai's was sealed with the blood of sacrificed animals, and Jesus reaches back to it directly when he speaks over the cup of the new covenant in his own blood.",
       "hint": "Each covenant has a distinct visible sign.",
       "citations": [
         {
@@ -3251,6 +3401,24 @@
           "type": "scripture",
           "reference": "Genesis 9:13",
           "quote": "I will set my bow in the clouds, and it shall be the sign of a covenant between me and between the earth.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Genesis 17:11",
+          "quote": "And you shall circumcise the flesh of your foreskin, that it may be for a sign of the covenant between me and you.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Luke 22:20",
+          "quote": "This is the chalice, the new testament in my blood, which shall be shed for you.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 26:28",
+          "quote": "For this is my blood of the new testament, which shall be shed for many unto remission of sins.",
           "note": "Douay-Rheims"
         }
       ]
@@ -3382,7 +3550,7 @@
       "difficultyElo": 1850,
       "prompt": "True or False: The golden calf incident happens while Moses is still receiving the Law on Mount Sinai.",
       "correctAnswer": true,
-      "explanation": "True. The timing is what makes it so stark -- Israel breaks the very first commandment while the tablets containing it are still being written.",
+      "explanation": "True. The timing is what makes it so stark -- Israel breaks the very first commandment while Moses is still up on the mountain, delayed in coming back down to them.",
       "hint": "Consider where Moses physically is during this episode.",
       "citations": [
         {
@@ -3663,16 +3831,16 @@
       "level": 16,
       "type": "multiple_choice",
       "difficultyElo": 1975,
-      "prompt": "Even Moses himself is barred from entering the promised land. What does Scripture say was his failure?",
+      "prompt": "Even Moses himself is barred from entering the promised land. What does the Lord say was the failure of Moses and Aaron at the rock?",
       "choices": [
-        "He struck a rock in anger rather than trusting God's word to it",
+        "They did not believe the Lord, to sanctify him before the children of Israel",
         "He refused to lead the people any further",
         "He worshipped the golden calf alongside the people",
         "He married outside of Israel against God's command"
       ],
-      "correctAnswer": "He struck a rock in anger rather than trusting God's word to it",
-      "explanation": "Told to speak to the rock and bring forth water, Moses strikes it instead, in anger, taking credit alongside God rather than trusting the word alone. Even the man who led Israel out is not exempt from the same standard he preached.",
-      "hint": "He acts in anger instead of doing exactly what he was told.",
+      "correctAnswer": "They did not believe the Lord, to sanctify him before the children of Israel",
+      "explanation": "Told to speak to the rock so that it would yield water (Numbers 20:8), Moses struck it twice with the rod (Numbers 20:11). The Lord names the failure: 'Because you have not believed me, to sanctify me before the children of Israel, you shall not bring these people into the land, which I will give them.' Even the man who led Israel out is not exempt.",
+      "hint": "The Lord's own verdict names a failure of belief at the rock.",
       "citations": [
         {
           "type": "scripture",
@@ -3723,7 +3891,7 @@
         },
         {
           "left": "The next generation",
-          "right": "Enters the land Moses himself will not see"
+          "right": "Enters the land Moses sees only from afar"
         }
       ],
       "explanation": "The wilderness years are not simply a delay -- they are a generational transition. The people who doubted do not enter; the people they raised in the wilderness do.",
@@ -3774,11 +3942,17 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 1925,
-      "prompt": "True or False: The pattern of failure followed by God's continued faithfulness, first seen at the golden calf, appears again in the wilderness years.",
+      "prompt": "True or False: The pattern of failure followed by God's continued faithfulness, as seen at the golden calf, appears again in the wilderness years.",
       "correctAnswer": true,
       "explanation": "True. Doubt at the border, punishment, and yet the promise still moving forward to the next generation -- the same rhythm seen at the golden calf repeats here on a larger scale.",
       "hint": "Compare this pattern to what happened after the golden calf.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "Numbers 14:31",
+          "quote": "But your children, of whom you said, that they should be a prey to the enemies, will I bring in: that they may see the land which you have despised.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "Numbers 14:34",
@@ -3793,10 +3967,10 @@
       "level": 16,
       "type": "fill_blank",
       "difficultyElo": 2035,
-      "prompt": "God tells Moses he failed to 'acknowledge my ____ before the Israelites.'",
-      "correctAnswer": "holiness",
-      "explanation": "The charge against Moses is precise: not disobedience alone, but failing to let God's own holiness, not Moses' own action, be what the people saw at the rock.",
-      "hint": "It names an attribute of God, not an action of Moses.",
+      "prompt": "God tells Moses and Aaron: 'Because you have not believed me, to ____ me before the children of Israel, you shall not bring these people into the land.'",
+      "correctAnswer": "sanctify",
+      "explanation": "The charge against Moses and Aaron is precise: not simply disobedience, but failing to believe God and so failing to sanctify him before the people at the rock.",
+      "hint": "It is what Moses and Aaron failed to do for God before the people.",
       "citations": [
         {
           "type": "scripture",
@@ -3825,8 +3999,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Numbers 20:12",
-          "quote": "And the Lord said to Moses and Aaron: Because you have not believed me, to sanctify me before the children of Israel, you shall not bring these people into the land, which I will give them.",
+          "reference": "Numbers 14:38",
+          "quote": "But Josue the son of Nun, and Caleb the son of Jephone lived, of all them that had gone to view the land.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Numbers 27:18",
+          "quote": "And the Lord said to him: take Josue the son of Nun, a man in whom is the Spirit, and put thy hand upon him.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4127,10 +4307,10 @@
       "level": 18,
       "type": "fill_blank",
       "difficultyElo": 2185,
-      "prompt": "God tells Joshua: 'Do not be frightened or dismayed, for the LORD, your God, is with you ____ you go.'",
-      "correctAnswer": "wherever",
-      "explanation": "The promise has no limit attached to it -- not only in battle, not only within the land, but wherever Joshua goes at all.",
-      "hint": "The word describes the scope of God's presence with him.",
+      "prompt": "God tells Joshua: 'Fear not, and be not dismayed: because the Lord thy God is with thee in all things ____ thou shalt go to.'",
+      "correctAnswer": "whatsoever",
+      "explanation": "The promise covers every undertaking: God is with Joshua 'in all things whatsoever' he shall go to, not only in battle.",
+      "hint": "The word describes the range of what Joshua will undertake, and of God's presence with him.",
       "citations": [
         {
           "type": "scripture",
@@ -4173,13 +4353,19 @@
       "difficultyElo": 2075,
       "prompt": "True or False: Joshua declares his own household's choice before the rest of Israel answers.",
       "correctAnswer": true,
-      "explanation": "True. 'As for me and my household, we will serve the LORD' -- Joshua commits his own family publicly before asking anyone else to decide.",
+      "explanation": "True. After setting the choice before the people, Joshua declares 'as for me and my house we will serve the Lord' before they give their answer (Joshua 24:15-16).",
       "hint": "He speaks about his own household specifically.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Joshua 24:15",
           "quote": "But if it seem evil to you to serve the Lord, you have your choice: choose this day that which pleaseth you, whom you would rather serve, whether the gods which your fathers served in Mesopotamia, or the gods of the Amorrhites, in whose land you dwell: but as for me and my house we will serve the Lord,",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Joshua 24:16",
+          "quote": "And the people answered, and said, God forbid we should leave the Lord, and serve strange gods.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4236,7 +4422,7 @@
       "choices": [
         "Because belonging to the covenant is not automatic across generations",
         "Because the earlier covenant at Sinai had expired",
-        "Because he doubted the people's earlier commitment was genuine",
+        "Because Israel had never before agreed to serve the LORD",
         "Because the land itself required a new covenant to be settled"
       ],
       "correctAnswer": "Because belonging to the covenant is not automatic across generations",
@@ -4257,10 +4443,10 @@
       "level": 18,
       "type": "true_false",
       "difficultyElo": 2075,
-      "prompt": "True or False: The promise made to Joshua at the start of his leadership -- that God is with him wherever he goes -- has no conditions attached in the text.",
+      "prompt": "True or False: In Joshua 1:9 God grounds the command to take courage in the promise that the Lord his God is with Joshua.",
       "correctAnswer": true,
-      "explanation": "True. The promise as given is unconditional in its wording, resting entirely on God's own faithfulness, which is exactly why it can ground courage rather than anxious self-reliance.",
-      "hint": "Look again at whether any condition is attached to the promise.",
+      "explanation": "True. The courage commanded rests on a stated fact -- 'because the Lord thy God is with thee' -- not on Joshua's own confidence.",
+      "hint": "Look at the reason God gives right after 'Fear not, and be not dismayed'.",
       "citations": [
         {
           "type": "scripture",
@@ -4358,8 +4544,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Judges 2:16-18",
-          "quote": "And the Lord raised up judges, to deliver them from the hands of those that oppressed them: but they would not hearken to them,",
+          "reference": "Judges 2:18",
+          "quote": "And when the Lord raised them up judges, in their days, he was moved to mercy, and heard the groanings of the afflicted, and delivered them from the slaughter of the oppressors.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Judges 2:19",
+          "quote": "But after the judge was dead, they returned, and did much worse things than their fathers had done, following strange gods, serving them, and adoring them.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4438,8 +4630,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Judges 2:16-18",
+          "reference": "Judges 2:16",
           "quote": "And the Lord raised up judges, to deliver them from the hands of those that oppressed them: but they would not hearken to them,",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Judges 2:19",
+          "quote": "But after the judge was dead, they returned, and did much worse things than their fathers had done, following strange gods, serving them, and adoring them.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4475,15 +4673,21 @@
       "level": 19,
       "type": "true_false",
       "difficultyElo": 2150,
-      "prompt": "True or False: The cycle of sin, oppression, crying out, and deliverance in the book of Judges is the same shape seen after the golden calf.",
+      "prompt": "True or False: As after the golden calf, the book of Judges shows God answering Israel's repeated unfaithfulness with mercy rather than abandoning them.",
       "correctAnswer": true,
-      "explanation": "True. Failure met by mercy, not abandonment -- the same rhythm named at the golden calf repeats through the entire period of the Judges, generation after generation.",
+      "explanation": "True. Failure met by mercy, not abandonment -- the rhythm seen at the golden calf is seen again in Judges, where the Lord, 'moved to mercy', delivers Israel again and again.",
       "hint": "Recall the rhythm of failure and mercy after the golden calf.",
       "citations": [
         {
           "type": "scripture",
-          "reference": "Judges 2:16-18",
-          "quote": "And the Lord raised up judges, to deliver them from the hands of those that oppressed them: but they would not hearken to them,",
+          "reference": "Judges 2:18",
+          "quote": "And when the Lord raised them up judges, in their days, he was moved to mercy, and heard the groanings of the afflicted, and delivered them from the slaughter of the oppressors.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Exodus 32:14",
+          "quote": "And the Lord was appeased from doing the evil which he had spoken against his people.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4501,8 +4705,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "Judges 2:16-18",
-          "quote": "And the Lord raised up judges, to deliver them from the hands of those that oppressed them: but they would not hearken to them,",
+          "reference": "Judges 2:18",
+          "quote": "And when the Lord raised them up judges, in their days, he was moved to mercy, and heard the groanings of the afflicted, and delivered them from the slaughter of the oppressors.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Judges 2:19",
+          "quote": "But after the judge was dead, they returned, and did much worse things than their fathers had done, following strange gods, serving them, and adoring them.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4570,8 +4780,20 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "1 Samuel 16:7",
-          "quote": "And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart.",
+          "reference": "1 Samuel 16:11",
+          "quote": "And Samuel said to Isai: Are here all thy sons? He answered: There remaineth yet a young one, who keepeth the sheep.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:13",
+          "quote": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren:",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 17:14",
+          "quote": "But David was the youngest.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4582,9 +4804,9 @@
       "level": 20,
       "type": "fill_blank",
       "difficultyElo": 2335,
-      "prompt": "Samuel is told: 'God does not see as a mortal... the LORD looks into the ____.'",
+      "prompt": "Samuel is told: '...man seeth those things that appear, but the Lord beholdeth the ____.'",
       "correctAnswer": "heart",
-      "explanation": "The standard God uses to choose a king has nothing to do with the standards Israel would later demand -- height, appearance, the look of a warrior. What God sees is not visible at all.",
+      "explanation": "God's standard in choosing a king differs from outward qualities such as height or appearance: man sees what appears, but the Lord beholds the heart.",
       "hint": "What a human being cannot see directly, but God can.",
       "citations": [
         {
@@ -4614,8 +4836,8 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "1 Samuel 16:7",
-          "quote": "And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart.",
+          "reference": "1 Samuel 16:11",
+          "quote": "And Samuel said to Isai: Are here all thy sons? He answered: There remaineth yet a young one, who keepeth the sheep. And Samuel said to Isai: Send, and fetch him: for we will not sit down till he come hither.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4633,8 +4855,20 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "1 Samuel 16:7",
-          "quote": "And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart.",
+          "reference": "1 Samuel 16:1",
+          "quote": "And the Lord said to Samuel: How long wilt thou mourn for Saul, whom I have rejected from reigning over Israel? fill thy horn with oil, and come, that I may send thee to Isai, the Bethlehemite: for I have provided me a king among his sons.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:2",
+          "quote": "And Samuel said: How shall I go? for Saul will hear of it, and he will kill me. And the Lord said: Thou shalt take with thee a calf of the herd, and thou shalt say: I am come to sacrifice to the Lord.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:13",
+          "quote": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the Lord came upon David from that day forward: and Samuel rose up, and went to Ramatha.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4672,6 +4906,18 @@
           "reference": "1 Samuel 16:7",
           "quote": "And the Lord said to Samuel: Look not on his countenance, nor on the height of his stature: because I have rejected him, nor do I judge according to the look of man: for man seeth those things that appear, but the Lord beholdeth the heart.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 16:11",
+          "quote": "And Samuel said to Isai: Are here all thy sons? He answered: There remaineth yet a young one, who keepeth the sheep. And Samuel said to Isai: Send, and fetch him: for we will not sit down till he come hither.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Samuel 17:14",
+          "quote": "But David was the youngest. So the three eldest having followed Saul,",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -4706,10 +4952,10 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: The standard God uses to choose David directly contrasts with what Israel had originally wanted in a king.",
+      "prompt": "True or False: In choosing David, God contrasts his own way of judging with man's: man sees what appears outwardly, but the Lord sees the heart.",
       "correctAnswer": true,
-      "explanation": "True. Israel had wanted a king who looked the part; God chooses one whose heart is right instead -- a deliberate, pointed contrast between appearance and the heart.",
-      "hint": "Consider what kind of king Israel originally asked for, versus who God actually chooses.",
+      "explanation": "True. God tells Samuel not to look on the height of Eliab's stature, 'for man seeth those things that appear, but the Lord beholdeth the heart.' The one chosen is the youngest son, out tending the sheep -- a deliberate, pointed contrast between appearance and the heart.",
+      "hint": "Consider the difference between how people judge and how God judges.",
       "citations": [
         {
           "type": "scripture",
@@ -4775,7 +5021,7 @@
       "level": 21,
       "type": "multiple_choice",
       "difficultyElo": 2350,
-      "prompt": "When David brings the ark of the covenant toward Jerusalem, what is his first reaction after a man dies touching it?",
+      "prompt": "When David brings the ark of the covenant toward Jerusalem and a man dies touching it, which of these does Scripture record about David that day?",
       "choices": [
         "Fear -- he asks how the ark could ever come to him",
         "Anger at the man who died for interfering",
@@ -4783,7 +5029,7 @@
         "He abandons the plan to bring the ark to Jerusalem forever"
       ],
       "correctAnswer": "Fear -- he asks how the ark could ever come to him",
-      "explanation": "David's fear here is not mere caution -- it is reverence for something genuinely holy, the same reverence Moses was shown at the burning bush, now facing the king himself.",
+      "explanation": "After the Lord's striking of Oza, Scripture says David 'was afraid of the Lord that day', asking how the ark of the Lord could come to him. His fear is not mere caution -- it is reverence for something genuinely holy, like the reverence Moses showed when he hid his face at the burning bush.",
       "hint": "His response is one of reverence, not simple caution or anger.",
       "citations": [
         {
@@ -4851,8 +5097,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "2 Samuel 6:11",
-          "quote": "And the ark of the Lord abode in the house of Obededom the Gethite three months: and the Lord blessed Obededom, and all his household.",
+          "reference": "2 Samuel 6:12",
+          "quote": "And it was told king David, that the Lord had blessed Obededom, and all that he had, because of the ark of God. So David went, and brought away the ark of God out of the house of Obededom into the city of David with joy. And there were with David seven choirs, and calves for victims.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:17",
+          "quote": "And they brought the ark of the Lord, and set it in its place in the midst of the tabernacle, which David had pitched for it: and David offered holocausts, and peace offerings before the Lord.",
           "note": "Douay-Rheims"
         }
       ]
@@ -4962,8 +5214,14 @@
       "citations": [
         {
           "type": "scripture",
-          "reference": "2 Samuel 6:11",
-          "quote": "And the ark of the Lord abode in the house of Obededom the Gethite three months: and the Lord blessed Obededom, and all his household.",
+          "reference": "2 Samuel 6:12",
+          "quote": "And it was told king David, that the Lord had blessed Obededom, and all that he had, because of the ark of God. So David went, and brought away the ark of God out of the house of Obededom into the city of David with joy. And there were with David seven choirs, and calves for victims.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Samuel 6:17",
+          "quote": "And they brought the ark of the Lord, and set it in its place in the midst of the tabernacle, which David had pitched for it: and David offered holocausts, and peace offerings before the Lord.",
           "note": "Douay-Rheims"
         }
       ]
@@ -5023,13 +5281,19 @@
       "difficultyElo": 2375,
       "prompt": "True or False: Every king of the northern kingdom of Israel is judged favorably in the biblical record.",
       "correctAnswer": false,
-      "explanation": "False. Every single king of the northern kingdom is judged as having done evil, most repeating Jeroboam's sin of setting up rival worship. The south has a handful of genuinely faithful kings; the north has none.",
+      "explanation": "False. The books of Kings judge the northern kings as a whole unfavorably: they are faulted for doing evil and for persisting in the sin of Jeroboam, who set up rival worship at Bethel and Dan. Even Jehu, commended for carrying out the Lord's judgment on the house of Ahab, 'departed not from the sins of Jeroboam.' Judah has kings the record praises as doing right, such as Hezekiah and Josiah; the north has none credited with walking in the ways of David.",
       "hint": "Compare the north's record to the south's mixed one.",
       "citations": [
         {
           "type": "scripture",
           "reference": "1 Kings 12:28-29",
           "quote": "And finding out a device, he made two golden calves, and said to them: Go ye up no more to Jerusalem: Behold thy gods, O Israel, who brought thee out of the land of Egypt. And he set the one in Bethel, and the other in Dan:",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "2 Kings 10:31",
+          "quote": "But Jehu took no heed to walk in the law of the Lord, the God of Israel, with all his heart: for he departed not from the sins of Jeroboam, who had made Israel to sin.",
           "note": "Douay-Rheims"
         }
       ]
@@ -5090,7 +5354,7 @@
         "It converted entirely to worship of the LORD and was spared"
       ],
       "correctAnswer": "Assyria conquered it and deported much of its population",
-      "explanation": "After two centuries of kings who, without exception, led the north into idolatry, Assyria conquered the northern kingdom in 722 BC and scattered its population -- the origin of the so-called 'lost tribes.' Judah in the south survives, for now.",
+      "explanation": "After roughly two centuries of kings whom the books of Kings fault as a whole for persisting in the sin of Jeroboam, Assyria conquered the northern kingdom in 722 BC and scattered its population -- the origin of the so-called 'lost tribes.' Judah in the south survives, for now.",
       "hint": "The northern kingdom falls to a specific empire, two centuries after the split.",
       "citations": [
         {
@@ -5256,13 +5520,19 @@
       "difficultyElo": 2450,
       "prompt": "True or False: The rebuilt second Temple, and the restored community around it, fully satisfied every hope the prophets had raised about Israel's future.",
       "correctAnswer": false,
-      "explanation": "False. The return is real and good, but it is modest -- no Davidic king on the throne, a smaller Temple that older worshippers who remembered the first one wept over, continued foreign rule. The prophets' fuller promises -- a new covenant, an everlasting kingdom, a Messiah -- remain unfulfilled and unfinished at the Old Testament's close.",
+      "explanation": "False. The return is real and good, but it is modest -- no Davidic king on the throne, a rebuilt Temple whose foundation older priests and Levites who had seen the first Temple greeted with loud weeping (while many others shouted for joy), a Temple of which Haggai asks those who remembered the first whether it is not 'as nothing' in their eyes, and continued foreign rule. The prophets' fuller promises -- a new covenant, an everlasting kingdom, a Messiah -- remain unfulfilled and unfinished at the Old Testament's close.",
       "hint": "Compare what returns to what the prophets had promised.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Ezra 3:12",
           "quote": "But many of the priests and the Levites, and the chief of the fathers and the ancients that had seen the former temple; when they had the foundation of this temple before their eyes, wept with a loud voice: and many shouting for joy, lifted up their voice.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Haggai 2:3 (Douay-Rheims Aggeus 2:4)",
+          "quote": "Who is left among you, that saw this house in its first glory? and how do you see it now? is it not in comparison to that as nothing in your eyes?",
           "note": "Douay-Rheims"
         }
       ]
@@ -5296,7 +5566,7 @@
       "level": 23,
       "type": "fill_blank",
       "difficultyElo": 2560,
-      "prompt": "According to the Catechism, the Old Covenant has never been ____, and the Old Testament retains a permanent, undiminished value as part of Sacred Scripture.",
+      "prompt": "According to the Catechism, the Old Covenant has never been ____, and the books of the Old Testament are divinely inspired and retain a permanent value as part of Sacred Scripture.",
       "correctAnswer": "revoked",
       "explanation": "The Church has always rejected any reading that discards the Old Testament once the New arrives. Its books are themselves divinely inspired and keep a permanent value; the New Testament fulfills the Old, it does not replace or erase it.",
       "hint": "The Catechism's word for what never happens to the Old Covenant.",
@@ -5328,6 +5598,20 @@
         {
           "type": "ccc",
           "reference": "CCC 64"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 765",
+          "quote": "Representing the twelve tribes of Israel, they are the foundation stones of the new Jerusalem."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 781"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 877",
+          "quote": "the Lord Jesus instituted the Twelve as \"the seeds of the new Israel and the beginning of the sacred hierarchy.\""
         }
       ]
     },
@@ -5373,13 +5657,19 @@
       "difficultyElo": 2450,
       "prompt": "True or False: By the Old Testament's own close, Israel's hope for a promised Messiah, an anointed son of David to reign forever, is already fully and visibly realized.",
       "correctAnswer": false,
-      "explanation": "False. The Old Testament ends in genuine expectation, not fulfillment -- a Persian-then-Greek-then-Roman-ruled province, no king from David's line on any throne, the prophets' fullest promises still outstanding. This unfinished hope is exactly what the Old Testament hands forward, and exactly what the New Testament opens by announcing has now arrived.",
+      "explanation": "False. The Old Testament ends in genuine expectation, not fulfillment -- no king from David's line on any throne, the land under foreign rule or, in the period recounted in 1 Maccabees, under a prince and high priest who was not of David's line, and the prophets' fullest promises still outstanding. This unfinished hope is exactly what the Old Testament hands forward, and exactly what the New Testament opens by announcing has now arrived.",
       "hint": "Consider what political and religious situation Judah is actually in when the Old Testament's story ends.",
       "citations": [
         {
           "type": "scripture",
           "reference": "Malachi 3:1",
           "quote": "Behold I send my angel, and he shall prepare the way before my face. And presently the Lord, whom you seek, and the angel of the testament, whom you desire, shall come to his temple. Behold, he cometh, saith the Lord of hosts.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "1 Maccabees 14:41",
+          "quote": "And that the Jews, and their priests, had consented that he should be their prince and high priest for ever, till there should arise a faithful prophet:",
           "note": "Douay-Rheims"
         }
       ]
@@ -5418,15 +5708,21 @@
       "correctAnswer": "manifest",
       "acceptedAnswers": [
         "clear",
-        "plain"
+        "plain",
+        "unveiled"
       ],
-      "explanation": "The Catechism itself cites this formulation as the classical statement of typological reading -- the two Testaments read together, each illuminating the other, neither dispensable.",
+      "explanation": "The Catechism (129) quotes this formulation as an old saying, and Dei Verbum 16 gives it with a reference to St. Augustine -- the two Testaments read together, each illuminating the other, neither dispensable.",
       "hint": "The Old is made this -- clear, unhidden -- in light of the New.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 129",
-          "quote": "Christians therefore read the Old Testament in the light of Christ crucified and risen."
+          "quote": "the New Testament lies hidden in the Old and the Old Testament is unveiled in the New."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Dei Verbum 16, Second Vatican Council (1965)",
+          "quote": "the New Testament be hidden in the Old and the Old be made manifest in the New"
         }
       ]
     },
