@@ -203,7 +203,19 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 571"
+          "reference": "CCC 765",
+          "quote": "By all his actions, Christ prepares and builds his Church."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1337",
+          "quote": "he instituted the Eucharist as the memorial of his death and Resurrection, and commanded his apostles to celebrate it until his return"
+        },
+        {
+          "type": "scripture",
+          "reference": "Matthew 28:19",
+          "quote": "Going therefore, teach ye all nations: baptizing them in the name of the Father and of the Son and of the Holy Ghost.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -217,13 +229,18 @@
       "choices": [
         "Thomas",
         "James the Less",
-        "Bartholomew",
+        "Peter",
         "Philip"
       ],
       "correctAnswer": "Thomas",
       "explanation": "Tradition holds that Thomas -- remembered for doubting the Resurrection until he touched Christ's wounds -- carried the Gospel to India, where communities tracing their origin to him, the Saint Thomas Christians, exist to this day.",
       "hint": "This is the same apostle remembered for doubting the Resurrection until he touched Christ's wounds.",
       "citations": [
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 27 September 2006",
+          "quote": "an ancient tradition claims that Thomas first evangelized Syria and Persia (mentioned by Origen, according to Eusebius of Caesarea, Ecclesiastical History 3, 1) then went on to Western India"
+        },
         {
           "type": "scripture",
           "reference": "John 20:28",
@@ -245,9 +262,32 @@
       "citations": [
         {
           "type": "scripture",
+          "reference": "Acts 15:36",
+          "quote": "And after some days, Paul said to Barnabas: Let us return and visit our brethren in all the cities wherein we have preached the word of the Lord, to see how they do.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Acts 16:12",
+          "quote": "And from thence to Philippi, which is the chief city of part of Macedonia, a colony. And we were in this city some days conferring together.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
           "reference": "Acts 18:1",
           "quote": "After these things, departing from Athens, he came to Corinth.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "scripture",
+          "reference": "Acts 19:1",
+          "quote": "And it came to pass, while Apollo was at Corinth, that Paul, having passed through the upper coasts, came to Ephesus and found certain disciples.",
+          "note": "Douay-Rheims"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 25 October 2006",
+          "quote": "The most famous were the cities of Ephesus, Philippi, Thessalonica, Corinth, without forgetting Berea, Athens and Miletus."
         }
       ]
     },
@@ -257,7 +297,7 @@
       "level": 2,
       "type": "multiple_choice",
       "difficultyElo": 925,
-      "prompt": "Tradition holds that the Apostle Mark founded the Church in which major city, becoming its first bishop?",
+      "prompt": "Tradition holds that Saint Mark the Evangelist founded the Church in which major city, becoming its first bishop?",
       "choices": [
         "Alexandria",
         "Athens",
@@ -265,7 +305,7 @@
         "Damascus"
       ],
       "correctAnswer": "Alexandria",
-      "explanation": "Mark, whose Gospel drew on Peter's own preaching, is traditionally remembered as the founder of the Church in Alexandria, Egypt -- a see that becomes one of the ancient world's most important centers of Christian learning.",
+      "explanation": "Mark the Evangelist, who according to ancient tradition set down Peter's preaching in his Gospel, is traditionally remembered as the founder of the Church in Alexandria, Egypt -- a see that becomes one of the ancient world's most important centers of Christian learning.",
       "hint": "This city in Egypt becomes one of the ancient world's great centers of Christian learning.",
       "citations": [
         {
@@ -282,7 +322,7 @@
       "level": 2,
       "type": "fill_blank",
       "difficultyElo": 985,
-      "prompt": "The city of ____, in modern-day Syria, is where the disciples of Jesus were first called 'Christians,' according to the Acts of the Apostles.",
+      "prompt": "The city of ____, in what is now southern Turkey, is where the disciples of Jesus were first called 'Christians,' according to the Acts of the Apostles.",
       "correctAnswer": "Antioch",
       "explanation": "Antioch becomes one of the earliest and most important centers of the apostolic Church -- Peter himself is remembered as its first bishop before later tradition sends him to Rome.",
       "hint": "This same city later becomes one of the great ancient patriarchal sees.",
@@ -308,8 +348,8 @@
           "right": "India"
         },
         {
-          "left": "Mark",
-          "right": "Alexandria, Egypt"
+          "left": "Andrew",
+          "right": "Greece"
         },
         {
           "left": "Peter",
@@ -317,11 +357,11 @@
         },
         {
           "left": "John",
-          "right": "Ephesus, then Patmos"
+          "right": "Ephesus (with a time of exile on Patmos)"
         }
       ],
-      "explanation": "Within a single generation, apostolic preaching reaches from Rome in the west to India in the east -- the mission Christ gave at the Ascension already in visible motion.",
-      "hint": "One apostle's exile produces the Church's last biblical book, written on an island.",
+      "explanation": "According to tradition, apostolic preaching reached from Rome in the west to India in the east -- the mission Christ gave at the Ascension already in motion.",
+      "hint": "Tradition links one apostle's exile on an island to the Church's last book of the Bible.",
       "citations": [
         {
           "type": "scripture",
@@ -337,16 +377,15 @@
       "level": 2,
       "type": "true_false",
       "difficultyElo": 875,
-      "prompt": "True or False: According to Church tradition, John is the only one of the Twelve Apostles believed to have died of natural causes rather than martyrdom.",
+      "prompt": "True or False: According to ancient tradition, the Apostle John did not die a martyr's death but lived to an extraordinarily advanced age and died at Ephesus.",
       "correctAnswer": true,
-      "explanation": "True. Tradition holds John, exiled to Patmos but not killed there, lived to old age in Ephesus -- the sole exception among the Twelve to a pattern of violent death that recurs throughout the early Church's history.",
-      "hint": "Every other apostle's traditional death is violent; this one's is not.",
+      "explanation": "True. Ancient tradition holds that the Apostle John worked for many years at Ephesus and died there at an extraordinarily advanced age, in the reign of the Emperor Trajan, rather than as a martyr.",
+      "hint": "Tradition places the end of this apostle's life at Ephesus, in extreme old age.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Revelation 1:9",
-          "quote": "I, John, your brother and your partner in tribulation and in the kingdom and patience in Christ Jesus, was in the island which is called Patmos, for the word of God and for the testimony of Jesus.",
-          "note": "Douay-Rheims"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 5 July 2006",
+          "quote": "according to an ancient tradition, he worked for many years and died in the end at an extraordinarily advanced age, during the reign of the Emperor Trajan."
         }
       ]
     },
@@ -356,7 +395,7 @@
       "level": 2,
       "type": "multiple_choice",
       "difficultyElo": 925,
-      "prompt": "What does the rapid spread of apostolic preaching, from Rome to India within a single generation, suggest about the early Church's own self-understanding?",
+      "prompt": "What does the rapid spread of apostolic preaching beyond Jerusalem -- to Rome and, by tradition, as far as India -- suggest about the early Church's own self-understanding?",
       "choices": [
         "It understood itself as sent to the whole world, not confined to one people or land",
         "It understood itself as a purely local movement meant to stay in Jerusalem",
@@ -364,7 +403,7 @@
         "It had no coordinated sense of mission at all"
       ],
       "correctAnswer": "It understood itself as sent to the whole world, not confined to one people or land",
-      "explanation": "This is the Great Commission, already visibly in motion -- apostles individually carrying the Gospel to Rome, Egypt, Asia Minor, and India, each independently acting on the same universal mandate.",
+      "explanation": "This is the Great Commission already in motion -- apostles carrying the Gospel, as Acts records and tradition reports, to Rome, Asia Minor, Greece and further, each acting on the same universal mandate.",
       "hint": "Recall the command Jesus gave in the Great Commission.",
       "citations": [
         {
@@ -383,7 +422,7 @@
       "difficultyElo": 875,
       "prompt": "True or False: Paul described himself as having been called to be an apostle even though he was not one of the original Twelve.",
       "correctAnswer": true,
-      "explanation": "True. Paul, converted after persecuting the Church, describes himself as an apostle 'set apart for the gospel of God' -- proof that the apostolic mission was never limited only to the original Twelve.",
+      "explanation": "True. Paul, converted after persecuting the Church, describes himself as 'called to be an apostle, separated unto the gospel of God' -- showing that the apostolic mission was not limited to the original Twelve.",
       "hint": "He describes his own calling in the opening lines of several of his letters.",
       "citations": [
         {
@@ -400,16 +439,15 @@
       "level": 2,
       "type": "fill_blank",
       "difficultyElo": 985,
-      "prompt": "According to Church tradition, the Apostle James the Greater traveled and preached as far as ____, in the western reaches of the Roman world.",
+      "prompt": "According to a later Church tradition, the Apostle James the Greater traveled and preached as far as ____, in the western reaches of the Roman world.",
       "correctAnswer": "Spain",
-      "explanation": "Whether or not every detail of the tradition is historically verifiable, it reflects a real pattern -- apostolic mission reaching to the furthest edges of the known world within a single lifetime.",
+      "explanation": "This is a later tradition, not something recorded in the New Testament.",
       "hint": "This western European country's patron saint tradition traces back to this apostle.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Romans 15:24",
-          "quote": "When I shall begin to take my journey into Spain, I hope that, as I pass, I shall see you and be brought on my way thither by you: if first, in part, I shall have enjoyed you.",
-          "note": "Douay-Rheims"
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 21 June 2006",
+          "quote": "A later tradition, dating back at least to Isidore of Seville, speaks of a visit he made to Spain to evangelize that important region of the Roman Empire."
         }
       ]
     },
@@ -786,7 +824,7 @@
       "difficultyElo": 1025,
       "prompt": "True or False: The Apostle Paul was one of Jesus' original Twelve Apostles, chosen during his earthly ministry.",
       "correctAnswer": false,
-      "explanation": "Paul was not one of the Twelve. He was a persecutor of the Church who was called by the risen Christ on the road to Damascus, years after Jesus' ascension.",
+      "explanation": "Paul was not one of the Twelve. He was a persecutor of the Church who was called by the risen Christ on the road to Damascus, after Jesus' ascension.",
       "hint": "This apostle wasn't called until after the Ascension, on a road trip that went dramatically wrong.",
       "citations": [
         {
@@ -849,12 +887,18 @@
         "Corinth"
       ],
       "correctAnswer": "Rome",
-      "explanation": "Both apostles died in Rome under Nero, which is part of why the Roman church has always held a place of particular honor — she is the church where two of the greatest apostles gave their lives.",
-      "hint": "Both apostles died under the same Roman emperor, Nero, in the empire's capital.",
+      "explanation": "Both apostles gave their supreme witness in Rome -- by tradition, under the Emperor Nero -- which is part of why the Roman church has always held a place of particular honor: she is the church where two of the greatest apostles gave their lives.",
+      "hint": "Tradition places the deaths of both apostles in the empire's capital, under the Emperor Nero.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 552"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Ut Unum Sint 90",
+          "quote": "The Bishop of Rome is the Bishop of the Church which preserves the mark of the martyrdom of Peter and of Paul"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience, 25 October 2006",
+          "quote": "the Apostle renders the supreme witness of blood under the Emperor Nero here in Rome, where we keep and venerate his mortal remains."
         }
       ]
     },
@@ -892,7 +936,7 @@
         },
         {
           "type": "ccc",
-          "reference": "CCC 766"
+          "reference": "CCC 767"
         }
       ]
     },
@@ -1057,14 +1101,13 @@
         "A public debate they had to win against a pagan philosopher"
       ],
       "correctAnswer": "A period of instruction and formation known as the catechumenate",
-      "explanation": "Becoming a Christian in this period was rarely instantaneous -- converts typically spent an extended period learning the faith and its moral demands before baptism, a serious commitment given the real legal risk it carried.",
+      "explanation": "As the first centuries went on, becoming a Christian typically meant a long period of catechumenate, with instruction and preparatory rites, before baptism -- a serious commitment given the real legal risk it carried.",
       "hint": "This word shares a root with 'catechism' -- both come from teaching and instruction.",
       "citations": [
         {
-          "type": "scripture",
-          "reference": "Acts 18:25",
-          "quote": "This man was instructed in the way of the Lord: and being fervent in spirit, spoke and taught diligently the things that are of Jesus, knowing only the baptism of John.",
-          "note": "Douay-Rheims"
+          "type": "ccc",
+          "reference": "CCC 1230",
+          "quote": "A long period of catechumenate included a series of preparatory rites"
         }
       ]
     },
@@ -1079,6 +1122,12 @@
       "explanation": "True, and it is one of the striking facts of this period -- growth that came through ordinary witness and charity rather than through any privilege or protection from the state.",
       "hint": "Consider the Church's total lack of legal protection in the centuries before Constantine.",
       "citations": [
+        {
+          "type": "scripture",
+          "reference": "Acts 2:47",
+          "quote": "And the Lord increased daily together such as should be saved.",
+          "note": "Douay-Rheims"
+        },
         {
           "type": "scripture",
           "reference": "1 Corinthians 1:26-27",
@@ -1309,12 +1358,12 @@
       "difficultyElo": 1285,
       "prompt": "The Roman catacombs served primarily as underground ____ for Christians, not as hiding places from persecution as popular legend often claims.",
       "correctAnswer": "burial sites",
-      "explanation": "Roman law actually protected burial places, including Christian ones, even during persecution — the catacombs were legally recognized cemeteries. The romantic image of Christians hiding for Mass in the catacombs during raids is largely a later invention.",
+      "explanation": "Roman law generally protected tombs and burial grounds, and the catacombs were Christian cemeteries, not secret hideouts. Christians did sometimes gather there to honor the dead and the martyrs, and under Valerian (257-258) assembling at the cemeteries was forbidden, so they were not always safe. The popular picture of Christians regularly hiding in the catacombs to celebrate Mass during raids is largely a later legend.",
       "hint": "Ask what Roman law protected, regardless of a group's religion.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2299"
+          "reference": "CCC 2300"
         }
       ]
     },
@@ -1332,7 +1381,7 @@
         },
         {
           "left": "Catacombs",
-          "right": "Legally protected underground Christian burial sites"
+          "right": "Underground Christian burial sites"
         },
         {
           "left": "Martyr",
@@ -1343,7 +1392,7 @@
           "right": "Christians who denied the faith under persecution to save their lives"
         }
       ],
-      "explanation": "The last term matters because it created a real pastoral crisis: what should happen to a lapsed Christian who later wanted to return? That question shaped the early Church's whole theology of penance and reconciliation.",
+      "explanation": "The last term matters because it created a real pastoral crisis: what should happen to a lapsed Christian who later wanted to return? That question shaped much of the early Church's penitential discipline (see CCC 1447).",
       "hint": "Three of these describe faithful responses to persecution; one describes a failure of nerve under it.",
       "citations": [
         {
@@ -1392,8 +1441,13 @@
       "hint": "This vision comes before a decisive battle for control of Rome itself.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Pope Benedict XVI, Address at the signing of the Post-Synodal Apostolic Exhortation Ecclesia in Medio Oriente, Harissa, 14 September 2012",
+          "quote": "the appearance to Constantine of the Chi-Rho, radiant in the symbolic night of his unbelief and accompanied by the words: “In this sign you will conquer!”"
+        },
+        {
+          "type": "church_father",
+          "reference": "Eusebius of Caesarea, Life of Constantine, I.28-31"
         }
       ]
     },
@@ -1411,7 +1465,7 @@
         "False, but only because Constantine himself denied ever making the claim"
       ],
       "correctAnswer": "False -- Christ's divinity is attested throughout the New Testament, centuries before Constantine was born",
-      "explanation": "This is one of the most persistent popular myths about this period. John's Gospel, written some two and a half centuries before Nicaea, already opens by calling the Word God -- belief in Christ's divinity long predates any Roman emperor's involvement in Church affairs.",
+      "explanation": "This is one of the most persistent popular myths about this period. John's Gospel, written more than two centuries before Nicaea, already opens by calling the Word God -- belief in Christ's divinity long predates any Roman emperor's involvement in Church affairs.",
       "hint": "Consider how early the New Testament itself already speaks of Christ.",
       "citations": [
         {
@@ -1455,8 +1509,12 @@
       "hint": "Consider how long Constantine actually waited between his vision in 312 and his death.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "church_father",
+          "reference": "Eusebius of Caesarea, Life of Constantine, IV.61-62"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pope Benedict XVI, General Audience, 13 June 2007 (Eusebius of Caesarea)"
         }
       ]
     },
@@ -1474,13 +1532,12 @@
         "The Ark of the Covenant"
       ],
       "correctAnswer": "Relics of the True Cross",
-      "explanation": "Helena's pilgrimage, and the churches she helped build in the Holy Land, are part of the same transformed situation -- pilgrimage and public veneration of holy sites were simply impossible under active persecution.",
+      "explanation": "Helena's pilgrimage, and the churches built at the holy places in the Holy Land under Constantine's patronage, belong to the same changed situation. Open, large-scale Christian veneration of holy sites became possible under imperial favor, although individual Christians had visited the holy places even in earlier centuries.",
       "hint": "Her discovery is tied to the very instrument of Christ's death.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2473",
-          "quote": "Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death."
+          "reference": "CCC 1674"
         }
       ]
     },
@@ -1506,15 +1563,23 @@
         },
         {
           "left": "St. Helena's pilgrimage",
-          "right": "Public Christian veneration newly possible under a changed political climate"
+          "right": "Open, large-scale Christian veneration of the holy places under imperial favor"
         }
       ],
-      "explanation": "None of these four things could have happened as recently as Diocletian's own reign -- the shift from persecution to legality shows how quickly, and how incompletely, the Church's situation actually changed within a single generation.",
+      "explanation": "Within about two decades the Church's situation changed from the Great Persecution to imperial favor -- a change that made possible an imperial council at Nicaea and open veneration of the holy places, yet one that came quickly and only incompletely.",
       "hint": "Order them by how quickly the political situation shifted, from Diocletian to Nicaea.",
       "citations": [
         {
+          "type": "magisterial_document",
+          "reference": "Pope Leo XIV, Apostolic Letter In unitate fidei (23 November 2025), 3-4"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pope Benedict XVI, Address at the signing of the Post-Synodal Apostolic Exhortation Ecclesia in Medio Oriente, Harissa, 14 September 2012"
+        },
+        {
           "type": "ccc",
-          "reference": "CCC 2105"
+          "reference": "CCC 1674"
         }
       ]
     },
@@ -1536,8 +1601,8 @@
       "hint": "Weigh what changed (legal status) against what did not (who defines doctrine).",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Pope Leo XIV, Apostolic Letter In unitate fidei (23 November 2025), 3-4"
         }
       ]
     },
@@ -1547,9 +1612,9 @@
       "level": 7,
       "type": "fill_blank",
       "difficultyElo": 1360,
-      "prompt": "Now able to gather openly for the first time in the Church's history, bishops soon convened at ____ in 325 to settle a serious dispute over the nature of Christ.",
+      "prompt": "With persecution ended and the Church enjoying imperial favor, bishops from across the empire soon convened at ____ in 325 for the first ecumenical council, to settle a serious dispute over the divinity of Christ.",
       "correctAnswer": "Nicaea",
-      "explanation": "Legal freedom to assemble is what makes an ecumenical council -- bishops from across the empire gathering in one place -- possible for the very first time.",
+      "explanation": "The end of persecution and the emperor's support made it possible to bring bishops from across the empire to one place, which is why the first ecumenical council could be held then.",
       "hint": "The city that gives the Nicene Creed its name.",
       "citations": [
         {
@@ -1642,8 +1707,8 @@
         },
         {
           "type": "church_father",
-          "reference": "St. Augustine of Hippo, Confessions",
-          "quote": "... You have made us for Yourself, and our hearts are restless until they rest in You"
+          "reference": "St. Augustine of Hippo, Confessions I,1,1 (as quoted in CCC 30)",
+          "quote": "you have made us for yourself, and our heart is restless until it rests in you"
         }
       ]
     },
@@ -1717,8 +1782,8 @@
       "hint": "Toleration and establishment are two different things — which one happened in 313?",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Pope Leo XIV, Apostolic Letter In unitate fidei (23 November 2025), 3"
         }
       ]
     },
@@ -1730,12 +1795,14 @@
       "difficultyElo": 1325,
       "prompt": "True or False: St. Monica prayed for her son Augustine's conversion for many years before it finally happened.",
       "correctAnswer": true,
-      "explanation": "True. Augustine describes his mother's decades of prayer and tears in the Confessions, and her perseverance became a model held up for anyone praying for a wayward loved one across a very long time.",
+      "explanation": "True. Augustine describes his mother's years of prayer and tears in the Confessions, and her perseverance became a model held up for anyone praying for a wayward loved one across a long time.",
       "hint": "This detail is recorded by Augustine himself, in the same book that describes his own conversion.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2571"
+          "type": "scripture",
+          "reference": "James 5:16",
+          "quote": "For the continual prayer of a just man availeth much.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1751,8 +1818,8 @@
       "hint": "This is also the site of a famous WWII battle, fought around the same monastery centuries later.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2691"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -1762,7 +1829,7 @@
       "level": 8,
       "type": "matching_pairs",
       "difficultyElo": 1415,
-      "prompt": "Match each fourth- and fifth-century figure or event to what it is remembered for.",
+      "prompt": "Match each figure or event from the fourth to the sixth century to what it is remembered for.",
       "pairs": [
         {
           "left": "Edict of Milan (313)",
@@ -1770,27 +1837,23 @@
         },
         {
           "left": "St. Monica",
-          "right": "Decades of prayer for her son's conversion"
+          "right": "Years of prayer for her son's conversion"
         },
         {
           "left": "St. Benedict",
-          "right": "Founding Western monasticism at Monte Cassino"
+          "right": "Founding Monte Cassino and writing the Rule that shaped Western monasticism"
         },
         {
           "left": "St. Augustine",
           "right": "Confessions and City of God, shaping Western theology"
         }
       ],
-      "explanation": "This century moves the Church from persecuted minority to a settled institution shaping education, monastic life and theology for a thousand years afterward — a genuinely fast transition by any historical measure.",
+      "explanation": "Across these centuries the Church moves from persecuted minority to a settled institution shaping education, monastic life and theology for a thousand years afterward.",
       "hint": "Two of these are about the institutional Church; two are about individual holiness and conversion.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
-        },
-        {
-          "type": "ccc",
-          "reference": "CCC 2691"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -1825,14 +1888,14 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1400,
-      "prompt": "True or False: St. Jerome translated the Old Testament portion of the Vulgate directly from the Hebrew, against significant opposition, including from St. Augustine.",
+      "prompt": "True or False: St. Jerome translated most of the Old Testament books of the Vulgate directly from the Hebrew rather than from the Greek Septuagint, against significant opposition, including from St. Augustine.",
       "correctAnswer": true,
       "explanation": "True. Augustine worried that departing from the familiar Greek Septuagint would unsettle congregations; Jerome went to the Hebrew text anyway. Even two of the era's greatest minds could disagree openly and at length -- the Fathers were not a uniform bloc.",
       "hint": "One of the era's greatest minds pushed back on Jerome's translation choice -- and Jerome did it anyway.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 116"
+          "type": "magisterial_document",
+          "reference": "Benedict XV, Spiritus Paraclitus (1920)"
         },
         {
           "type": "church_father",
@@ -1869,7 +1932,7 @@
       "level": 9,
       "type": "multiple_choice",
       "difficultyElo": 1450,
-      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio Scripturarum ignoratio Christi est.' What does this claim?",
+      "prompt": "Dei Verbum 25 quotes St. Jerome's maxim, in Latin 'Ignoratio enim Scripturarum ignoratio Christi est.' What does this claim?",
       "choices": [
         "Ignorance of the Scriptures is ignorance of Christ",
         "Knowledge of Scripture replaces the need to know Christ personally",
@@ -1894,12 +1957,18 @@
       "difficultyElo": 1400,
       "prompt": "True or False: Pope St. Gregory the Great signed his letters 'Servant of the servants of God,' a title still used by popes today.",
       "correctAnswer": true,
-      "explanation": "True. 'Servus servorum Dei' expressed Gregory's conviction that the papacy itself is an office of humble service -- a vision that centuries later shapes how the Second Vatican Council speaks of every ordained minister, not only the pope.",
+      "explanation": "True. 'Servus servorum Dei' expressed Gregory's conviction that the papacy itself is an office of humble service -- a vision of ecclesial authority as service that the Catechism applies to every ordained minister.",
       "hint": "This title deliberately puts service, not power, at the center of the office.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)"
+          "type": "ccc",
+          "reference": "CCC 876"
+        },
+        {
+          "type": "scripture",
+          "reference": "Mark 10:44",
+          "quote": "And whosoever will be first among you shall be the servant of all.",
+          "note": "Douay-Rheims"
         }
       ]
     },
@@ -1932,18 +2001,20 @@
       "level": 9,
       "type": "fill_blank",
       "difficultyElo": 1510,
-      "prompt": "Beyond copying Scripture, monasteries in the early medieval West also preserved and copied the surviving works of pagan ____ and Roman literature, keeping much of ancient learning from being lost entirely.",
-      "correctAnswer": "philosophy",
+      "prompt": "Beyond copying Scripture, monasteries in the early medieval West also preserved and copied many surviving works of pagan Roman ____, keeping much of ancient learning from being lost.",
+      "correctAnswer": "literature",
       "acceptedAnswers": [
-        "philosophers",
-        "literature"
+        "authors",
+        "writers",
+        "classics",
+        "writings"
       ],
       "explanation": "Monastic scriptoria became, almost as a side effect of copying Scripture and the liturgy, one of the main reasons any classical literature survives to be read today at all -- a debt the medieval universities of a later period would build directly on.",
       "hint": "Monks preserved more than just Christian texts in their scriptoria.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -1961,7 +2032,7 @@
         },
         {
           "left": "St. Jerome",
-          "right": "Translated the Vulgate directly from the Hebrew"
+          "right": "Translated most of the Old Testament into Latin from the Hebrew"
         },
         {
           "left": "St. Ambrose of Milan",
@@ -1976,8 +2047,12 @@
       "hint": "One withdraws to the desert, one translates Scripture, one preaches a conversion, one redefines an office.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 116"
+          "type": "magisterial_document",
+          "reference": "Benedict XV, Spiritus Paraclitus (1920)"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Dei Verbum 22"
         }
       ]
     },
@@ -2019,7 +2094,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2105"
+          "reference": "CCC 2245"
         }
       ]
     },
@@ -2054,8 +2129,8 @@
       "hint": "The same word later used for the much larger cultural revival of the 15th century.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -2073,12 +2148,12 @@
         "Founding the first medieval university at Paris"
       ],
       "correctAnswer": "Leading the revival of learning and education across Charlemagne's empire",
-      "explanation": "Alcuin, an English monk and scholar, became the intellectual center of Charlemagne's court, organizing schools and standardizing texts -- the human engine behind the Carolingian Renaissance.",
+      "explanation": "Alcuin, an English scholar and cleric, became the intellectual center of Charlemagne's court, organizing schools and standardizing texts -- the human engine behind the Carolingian Renaissance.",
       "hint": "He is the human engine behind the Carolingian Renaissance's revival of learning.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -2111,8 +2186,8 @@
       "hint": "One is a coronation, one is a person, one is a handwriting style, one is the whole movement they add up to.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -2128,8 +2203,8 @@
       "hint": "Think about what a clearer, more standardized handwriting style would do for a text passed hand to hand across many copyists.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2105"
+          "type": "magisterial_document",
+          "reference": "Paul VI, Pacis Nuntius (1964)"
         }
       ]
     },
@@ -2141,18 +2216,18 @@
       "difficultyElo": 1525,
       "prompt": "What happened to Charlemagne's empire after his death in 814?",
       "choices": [
-        "It fractured among his heirs, contributing to centuries of political fragmentation in Western Europe",
+        "It passed to one heir, Louis the Pious, and was then divided among Louis's sons, contributing to centuries of political fragmentation in Western Europe",
         "It remained fully and firmly unified under a single heir for the next two full centuries",
         "It was immediately and completely absorbed into the rival Byzantine Empire",
         "It dissolved entirely and abruptly, leaving behind no successor states of any kind"
       ],
-      "correctAnswer": "It fractured among his heirs, contributing to centuries of political fragmentation in Western Europe",
+      "correctAnswer": "It passed to one heir, Louis the Pious, and was then divided among Louis's sons, contributing to centuries of political fragmentation in Western Europe",
       "explanation": "The empire's division among Charlemagne's grandsons at the Treaty of Verdun (843) set the rough shape of what would later become France and Germany -- and left medieval Western Europe politically fragmented for centuries, a backdrop that shaped much of the Church's history in the period that followed.",
       "hint": "Consider what political shape Western Europe had for most of the rest of the medieval period.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2105"
+          "reference": "CCC 2245"
         }
       ]
     },
@@ -2189,6 +2264,10 @@
         {
           "type": "ccc",
           "reference": "CCC 247"
+        },
+        {
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio 14"
         }
       ]
     },
@@ -2210,8 +2289,8 @@
       "hint": "This is a formal, mutual act -- not a war, a treaty, or a unilateral expulsion.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 247"
+          "type": "magisterial_document",
+          "reference": "Paul VI and Athenagoras I, Catholic-Orthodox Common Declaration (7 December 1965)"
         }
       ]
     },
@@ -2286,8 +2365,8 @@
       "hint": "This gesture came during the final year of a twentieth-century ecumenical council: Vatican II.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)"
+          "type": "magisterial_document",
+          "reference": "Paul VI and Athenagoras I, Catholic-Orthodox Common Declaration (7 December 1965)"
         }
       ]
     },
@@ -2309,9 +2388,13 @@
       "hint": "Distinguish 'warmer relations' from 'restored communion' -- they are not the same thing.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+          "type": "ccc",
+          "reference": "CCC 838",
+          "quote": "this communion is so profound \"that it lacks little to attain the fullness...\""
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 247"
         }
       ]
     },
@@ -2343,12 +2426,12 @@
       "difficultyElo": 1550,
       "prompt": "True or False: Language and cultural differences between the Latin-speaking West and Greek-speaking East played no real role in the growing estrangement that led to 1054.",
       "correctAnswer": false,
-      "explanation": "False. By the eleventh century, most Western clergy could no longer read Greek and most Eastern clergy could no longer read Latin -- a practical barrier to genuine ongoing theological communication that compounded the doctrinal disputes rather than standing apart from them.",
-      "hint": "Consider whether clergy on each side could still easily read the other side's own theological writing by this period.",
+      "explanation": "False. The Latin-speaking West and the Greek-speaking East had long grown apart in language and culture, which hindered mutual understanding and compounded the doctrinal disputes rather than standing apart from them.",
+      "hint": "Consider whether centuries of separation in language and culture could make mutual understanding harder.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 247"
+          "type": "council",
+          "reference": "Second Vatican Council, Unitatis Redintegratio 14"
         }
       ]
     },
@@ -2372,6 +2455,10 @@
         {
           "type": "ccc",
           "reference": "CCC 247"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 838"
         }
       ]
     },
@@ -2407,12 +2494,16 @@
       "difficultyElo": 1625,
       "prompt": "True or False: The Church has never publicly acknowledged wrongdoing connected to events like the Crusades.",
       "correctAnswer": false,
-      "explanation": "False. Pope St. John Paul II publicly asked forgiveness for sins committed by members of the Church throughout history at a 'Day of Pardon' liturgy during the Jubilee Year 2000 -- a real, documented act of public repentance, not silence or denial.",
+      "explanation": "False. Pope St. John Paul II publicly asked forgiveness for sins committed by members of the Church throughout history at a 'Day of Pardon' liturgy during the Jubilee Year 2000, and in 2004 he spoke of sorrow and indignation at the 1204 sack of Constantinople by an army that had set out to recover the Holy Land -- real, documented public acknowledgments, not silence or denial.",
       "hint": "Consider a specific public liturgy held during the Jubilee Year 2000.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Pope St. John Paul II, Address to Patriarch Bartholomew I (29 June 2004)"
         }
       ]
     },
@@ -2430,7 +2521,7 @@
         "To serve exclusively the sons of the reigning nobility and no one else"
       ],
       "correctAnswer": "To organize the systematic study of theology, law, medicine, and the arts under a structured curriculum with degrees",
-      "explanation": "The university is a medieval Christian invention, growing out of cathedral schools -- the degree structure, faculties, and much of the vocabulary of higher education today descend directly from this period.",
+      "explanation": "The university is a medieval institution of Christian Europe, with Paris growing out of cathedral schools -- the degree structure, faculties, and much of the vocabulary of higher education today descend directly from this period. The Church teaches that faith and reason can never truly conflict (CCC 159), the principle behind Christian engagement with learning.",
       "hint": "Ask what institution still exists today, using much of the same vocabulary this period invented.",
       "citations": [
         {
@@ -2467,7 +2558,7 @@
       "level": 12,
       "type": "true_false",
       "difficultyElo": 1625,
-      "prompt": "True or False: St. Dominic founded the Order of Preachers specifically to combat the Albigensian heresy through sound teaching and preaching.",
+      "prompt": "True or False: St. Dominic's preaching mission against the Albigensian heresy led him to found the Order of Preachers, devoted to sound teaching and preaching.",
       "correctAnswer": true,
       "explanation": "True. Where Francis's charism answers attachment to possessions, Dominic's answers doctrinal confusion directly -- his order is literally named for the activity, the Order of Preachers, still called Dominicans today.",
       "hint": "This founder's whole order is literally named for the activity his charism is fitted to.",
@@ -2485,7 +2576,7 @@
       "level": 12,
       "type": "matching_pairs",
       "difficultyElo": 1715,
-      "prompt": "Match each 12th- and 13th-century development to what it involved.",
+      "prompt": "Match each development of the High Middle Ages (late 11th to 13th century) to what it involved.",
       "pairs": [
         {
           "left": "The First Crusade (1095)",
@@ -2504,7 +2595,7 @@
           "right": "Founded the Order of Preachers to answer doctrinal confusion"
         }
       ],
-      "explanation": "Two very different stories sit side by side here on purpose -- violence with documented context on one hand, and a genuine flowering of learning and new religious life on the other. Both are honestly part of the same century.",
+      "explanation": "Two very different stories sit side by side here on purpose -- violence with documented context on one hand, and a genuine flowering of learning and new religious life on the other. Both are honestly part of the same era.",
       "hint": "Two of these are about the Crusades and universities; two are about new religious orders.",
       "citations": [
         {
@@ -2551,8 +2642,14 @@
       "hint": "Consider where friars like Dominicans went on to teach.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 159"
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 19",
+          "quote": "the family of St. Dominic, which rightly claims this great teacher for its own glory"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 20",
+          "quote": "in those great homes of human wisdom, as in his own kingdom, Thomas reigned supreme"
         }
       ]
     },
@@ -2569,8 +2666,17 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Day of Pardon liturgy, Pope St. John Paul II (2000)"
+          "reference": "Day of Pardon liturgy, Pope St. John Paul II (12 March 2000), Universal Prayer, Introduction",
+          "quote": "members whose disobedience to you contradicts the faith we profess and the Holy Gospel"
         }
+      ],
+      "acceptedAnswers": [
+        "the faith",
+        "truth",
+        "the truth",
+        "Gospel",
+        "the Gospel",
+        "doctrine"
       ]
     },
     {
@@ -2579,7 +2685,7 @@
       "level": 13,
       "type": "multiple_choice",
       "difficultyElo": 1750,
-      "prompt": "Which 13th-century theologian's philosophy was later commended by Pope Leo XIII as a model for Catholic teaching?",
+      "prompt": "Which 13th-century theologian did Pope Leo XIII, in Aeterni Patris (1879), call 'the chief and master of all' the Scholastic Doctors?",
       "choices": [
         "St. Thomas Aquinas",
         "St. Augustine of Hippo",
@@ -2621,7 +2727,7 @@
       "level": 13,
       "type": "multiple_choice",
       "difficultyElo": 1750,
-      "prompt": "St. Anselm of Canterbury, writing a century before Aquinas, summarized theology's basic task in a phrase often translated as what?",
+      "prompt": "St. Anselm of Canterbury (d. 1109), writing well before Aquinas, summarized theology's basic task in a phrase often translated as what?",
       "choices": [
         "Faith seeking understanding",
         "Reason replacing faith entirely",
@@ -2634,7 +2740,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 159"
+          "reference": "CCC 158",
+          "quote": "\"Faith seeks understanding\""
         }
       ]
     },
@@ -2650,8 +2757,14 @@
       "hint": "Look at how the Summa Theologiae itself is actually laid out, article by article.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 159"
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 16 (quoting Sixtus V)",
+          "quote": "those clear definitions and distinctions, that strength of argument and those keen discussions"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 16",
+          "quote": "even in theological disputations"
         }
       ]
     },
@@ -2670,8 +2783,9 @@
       "hint": "The Latin word this method is named for, sharing a root with the English word 'dispute.'",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 159"
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 16",
+          "quote": "even in theological disputations"
         }
       ]
     },
@@ -2693,9 +2807,9 @@
       "hint": "Consider which order this Franciscan theologian belonged to, alongside Dominican Aquinas.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2684",
-          "quote": "In their rich diversity they are refractions of the one pure light of the Holy Spirit."
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 14 (quoting Sixtus V)",
+          "quote": "angelic St. Thomas and the seraphic St. Bonaventure, illustrious teachers of this faculty"
         }
       ]
     },
@@ -2729,7 +2843,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 159"
+          "reference": "CCC 158",
+          "quote": "\"Faith seeks understanding\""
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 14 (quoting Sixtus V)",
+          "quote": "angelic St. Thomas and the seraphic St. Bonaventure, illustrious teachers of this faculty"
         }
       ]
     },
@@ -2768,8 +2888,9 @@
       "hint": "Think of the new institution of the 12th and 13th centuries where scholars taught, debated, and wrote.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 159"
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879), 20",
+          "quote": "those celebrated schools and universities which flourished of old in Europe"
         }
       ]
     },
@@ -2791,8 +2912,9 @@
       "hint": "This is a city in southern France, not in Italy.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2044"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Apostolic Letter Spes Aedificandi (1999), 3",
+          "quote": "at a time when the Successor of Peter resided in Avignon"
         }
       ]
     },
@@ -2814,9 +2936,9 @@
       "hint": "Her persistent correspondence and personal visits are a real, documented factor in a pope's decision.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2679",
-          "quote": "Mary is the perfect Orans (prayer), a figure of the Church."
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, General Audience of 24 November 2010, Saint Catherine of Siena",
+          "quote": "who was living at Avignon in that period and whom she energetically and effectively urged to return to Rome"
         }
       ]
     },
@@ -2832,8 +2954,9 @@
       "hint": "The city the papacy had been absent from for nearly seventy years.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2044"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Apostolic Letter Spes Aedificandi (1999), 3",
+          "quote": "becoming the force behind the Pope's return to his own See at the tomb of the Prince of the Apostles"
         }
       ]
     },
@@ -2845,12 +2968,13 @@
       "difficultyElo": 1775,
       "prompt": "True or False: The papacy's return to Rome in 1377 immediately and completely resolved the institutional crisis of this period, with no further complications.",
       "correctAnswer": false,
-      "explanation": "False. Within a year, disputed elections produced rival claimant popes -- the Western Schism -- meaning the return to Rome actually opened a new and even more confusing chapter rather than closing the crisis.",
+      "explanation": "False. In 1378, the very next papal election after Gregory XI's death produced rival claimants -- the Western Schism -- so the return to Rome did not by itself end the crisis; a new and even more confusing chapter followed.",
       "hint": "Consider what happened almost immediately after Gregory XI's return, in the very next papal election.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2044"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Apostolic Letter Spes Aedificandi (1999), 7",
+          "quote": "the divisions which arose in the papal election following the death of Gregory XI"
         }
       ]
     },
@@ -2872,8 +2996,13 @@
       "hint": "Competing elections eventually produced more than two rival claimants.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2044"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Apostolic Letter Spes Aedificandi (1999), 7",
+          "quote": "the divisions which arose in the papal election following the death of Gregory XI"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Constance (1414-1418)"
         }
       ]
     },
@@ -2919,7 +3048,7 @@
       "difficultyElo": 1775,
       "prompt": "True or False: John Wycliffe's teachings, condemned at the Council of Constance, included a denial of transubstantiation.",
       "correctAnswer": true,
-      "explanation": "True. Wycliffe denied that the Eucharistic bread and wine truly become Christ's Body and Blood, and also attacked papal authority and Church-authorized interpretation of Scripture -- positions the Reformation would echo more than a century later.",
+      "explanation": "True. Wycliffe denied transubstantiation, teaching that the substance of the bread and wine remains in the Eucharist, whereas the Church teaches that the whole substance of the bread and wine is changed into the Body and Blood of Christ. He also attacked papal authority and the Church's authority to interpret Scripture, positions the Reformation would echo more than a century later.",
       "hint": "This is the same Eucharistic doctrine the Council of Trent would later reaffirm.",
       "citations": [
         {
@@ -2987,8 +3116,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "... educate religiously, and to train in ecclesiastical discipline, a certain number of youths of their city and diocese..."
+          "reference": "Council of Trent (1545-1563), Session 4, Decree concerning the Canonical Scriptures",
+          "quote": "errors being removed, the purity itself of the Gospel be preserved in the Church"
+        },
+        {
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Session 6, Decree on Justification, Proem",
+          "quote": "a certain erroneous doctrine disseminated touching Justification"
         }
       ]
     },
@@ -3007,12 +3141,12 @@
       ],
       "correctAnswer": "Posting Ninety-Five Theses criticizing the sale of indulgences to the door of Wittenberg's church",
       "explanation": "Luther's theses, intended as an academic challenge to debate, spread rapidly thanks to the printing press and ignited a movement far larger than Luther himself initially intended -- the beginning of the crisis Trent would spend decades responding to.",
-      "hint": "This is a specific, documented act of academic protest, not a military one.",
+      "hint": "This is a traditional account of an academic protest, not a military one.",
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "... educate religiously, and to train in ecclesiastical discipline, a certain number of youths of their city and diocese..."
+          "reference": "Council of Trent (1545-1563), Session 6, Decree on Justification, Proem",
+          "quote": "a certain erroneous doctrine disseminated touching Justification"
         }
       ]
     },
@@ -3088,8 +3222,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Council of Trent (1545-1563)",
-          "quote": "... educate religiously, and to train in ecclesiastical discipline, a certain number of youths of their city and diocese..."
+          "reference": "Council of Trent (1545-1563), Session 23, Decree on Reformation, ch. 18",
+          "quote": "to educate religiously, and to train in ecclesiastical discipline, a certain number of youths of their city and diocese"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 828",
+          "quote": "The saints have always been the source and origin of renewal in the most difficult moments in the Church's history."
         }
       ]
     },
@@ -3159,12 +3298,13 @@
         "Seminaries of this kind already existed everywhere and Trent's decree only renamed them"
       ],
       "correctAnswer": "Many parish priests were poorly educated and inconsistently formed, since there was no standard system for training clergy",
-      "explanation": "Poor clerical formation was an and serious contributor to the crisis the Reformation exposed. Trent's seminary decree was not a side note to its doctrinal work -- it was a direct structural response to a genuine failure, and dioceses still operate seminaries built on this decree today.",
+      "explanation": "Poor clerical formation was a real and serious contributor to the crisis the Reformation exposed. Trent's seminary decree was not a side note to its doctrinal work -- it was a direct structural response to a genuine failure, and dioceses still operate seminaries built on this decree today.",
       "hint": "Ask what kind of training existed for parish priests before this decree.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 1567"
+          "type": "council",
+          "reference": "Council of Trent (1545-1563), Session 23, Decree on Reformation, ch. 18",
+          "quote": "to educate religiously, and to train in ecclesiastical discipline, a certain number of youths of their city and diocese"
         }
       ]
     },
@@ -3187,7 +3327,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 828"
+          "reference": "CCC 849",
+          "quote": "strives to preach the Gospel to all men"
         }
       ]
     },
@@ -3199,7 +3340,7 @@
       "difficultyElo": 2035,
       "prompt": "Matteo Ricci's missionary method in China -- permitting converts to retain certain ancestral and civil ceremonies as culturally rather than religiously binding -- became known to history as the policy of ____.",
       "correctAnswer": "accommodation",
-      "explanation": "Ricci's method tried to distinguish civil and ancestral customs from strictly religious worship, arguing the former could remain compatible with Catholic faith -- a policy Rome eventually reversed.",
+      "explanation": "Ricci's method tried to distinguish civil and ancestral customs from strictly religious worship, arguing the former could remain compatible with Catholic faith. Rome condemned the practice in 1715 (Ex Illa Die) and 1742, but in 1939 (Plane compertum est, under Pius XII) Rome permitted these ceremonies as civil acts.",
       "hint": "The same word describes adapting an approach to fit a new situation.",
       "citations": [
         {
@@ -3216,7 +3357,7 @@
       "difficultyElo": 1925,
       "prompt": "True or False: In Ex Illa Die (1715), Pope Clement XI approved the Jesuit practice of allowing Chinese Catholics to continue traditional rites honoring Confucius and their ancestors, judging them compatible with the Catholic faith.",
       "correctAnswer": false,
-      "explanation": "Ex Illa Die did the opposite: it upheld the earlier condemnation of the Chinese Rites, ruling that the ancestral and Confucian ceremonies could not be permitted for Catholics -- a decision that effectively ended the accommodation method Ricci had begun.",
+      "explanation": "Ex Illa Die did the opposite: it upheld the earlier condemnation of the Chinese Rites, ruling that the ancestral and Confucian ceremonies could not be permitted for Catholics at that time. This ruling was later reversed: in 1939 (Plane compertum est, under Pius XII) Rome permitted those ceremonies as civil acts.",
       "hint": "The pope's ruling ended, rather than approved, this contested missionary practice.",
       "citations": [
         {
@@ -3239,12 +3380,16 @@
         "Whether the reigning Chinese Emperor himself could personally be baptized into the Catholic faith"
       ],
       "correctAnswer": "Whether Chinese Catholic converts could continue certain ancestral honoring and Confucian civic rites alongside their new faith",
-      "explanation": "Jesuit missionaries argued these rites were civic and familial customs rather than religious worship of false gods, and so compatible with the faith; other missionary orders disagreed sharply. Rome eventually sided against the accommodation, with lasting consequences for the mission's reception in China.",
+      "explanation": "Jesuit missionaries argued these rites were civic and familial customs rather than religious worship of false gods, and so compatible with the faith; other missionary orders disagreed sharply. Rome sided against the accommodation in 1715 and 1742, with lasting consequences for the mission's reception in China, but in 1939 (Plane compertum est) Rome permitted these ceremonies as civil acts.",
       "hint": "The dispute concerns which practices count as religious worship versus civic custom.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2104"
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex Illa Die (1715)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Plane compertum est (8 December 1939), under Pius XII"
         }
       ]
     },
@@ -3260,8 +3405,8 @@
       "hint": "This controversy involves the same missionary order, applying a similar strategy in a different country.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2104"
+          "type": "magisterial_document",
+          "reference": "Benedict XIV, Omnium sollicitudinum (1744)"
         }
       ]
     },
@@ -3287,7 +3432,7 @@
         },
         {
           "left": "Ex Illa Die (1715)",
-          "right": "Rome's ruling against the Chinese Rites accommodation"
+          "right": "Clement XI's ruling against the Chinese Rites accommodation (later reversed in 1939)"
         }
       ],
       "explanation": "A single real question -- how far can the Gospel adapt to local custom without compromising itself -- runs through every one of these figures and documents, on two different continents.",
@@ -3305,14 +3450,15 @@
       "level": 16,
       "type": "true_false",
       "difficultyElo": 1925,
-      "prompt": "True or False: The Jesuit reducciones in Paraguay were mission settlements that gave the indigenous Guaraní a significant degree of self-governance, relatively protected from colonial exploitation.",
+      "prompt": "True or False: The Jesuit reducciones in Paraguay were mission settlements in which the Guaraní had their own local officials under Jesuit direction, and which were often in conflict with colonial slavers.",
       "correctAnswer": true,
-      "explanation": "True. The reducciones organized community life, agriculture, and defense with real Guaraní participation, and were frequently in tension with colonial slavers and settlers who wanted access to that labor and land -- proof that missionary work in this period was not simply an extension of colonial power.",
+      "explanation": "True. The reducciones organized community life, agriculture, and defense, with Guaraní local officials working under Jesuit direction, and were frequently in conflict with colonial slavers and settlers who wanted access to that labor and land. The Church teaches that enslavement of human beings is a sin against the dignity of persons (CCC 2414).",
       "hint": "Ask who benefited from these settlements existing, and who wanted them gone.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2446"
+          "reference": "CCC 2414",
+          "quote": "forbids acts or enterprises that for any reason - selfish or ideological, commercial, or totalitarian - lead to the enslavement of human beings"
         }
       ]
     },
@@ -3330,12 +3476,13 @@
         "It had no real relationship whatsoever to the wider political and colonial context of its own historical era"
       ],
       "correctAnswer": "It was a genuine, wide-ranging global expansion, raising and difficult questions about adapting the faith to radically different cultures",
-      "explanation": "Three continents, one recurring question: how much can and should the Gospel adapt to a genuinely different culture? Rome's answers were not simple or uncontested -- the Chinese and Malabar Rites controversies show sustained internal disagreement.",
+      "explanation": "Two continents, one recurring question: how much can and should the Gospel adapt to a genuinely different culture? Rome's answers were not simple or uncontested -- the Chinese and Malabar Rites controversies show sustained internal disagreement.",
       "hint": "Consider what India, Japan, China, and Paraguay all have in common as very different settings for Catholic mission.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2104"
+          "reference": "CCC 854",
+          "quote": "It must involve a process of inculturation if the Gospel is to take flesh in each people's culture."
         }
       ]
     },
@@ -3355,7 +3502,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2104"
+          "reference": "CCC 882",
+          "quote": "full, supreme, and universal power over the whole Church"
         }
       ]
     },
@@ -3378,8 +3526,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Clement XI, Unigenitus (1713)",
-          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+          "reference": "Clement XI, Unigenitus (1713), condemning 101 propositions of Pasquier Quesnel"
         }
       ]
     },
@@ -3402,8 +3549,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "First Vatican Council (1870)",
-          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+          "reference": "First Vatican Council, Pastor Aeternus (1870), ch. 3",
+          "quote": "they stray from the genuine path of truth who maintain that it is lawful to appeal from the judgments of the Roman pontiffs to an ecumenical council as if this were an authority superior to the Roman pontiff"
         }
       ]
     },
@@ -3437,8 +3584,20 @@
       "citations": [
         {
           "type": "council",
-          "reference": "First Vatican Council (1870)",
-          "quote": "When the Roman Pontiff speaks EX CATHEDRA... he defines a doctrine concerning faith or morals to be held by the whole Church, he possesses... that infallibility which the divine Redeemer willed his Church to enjoy."
+          "reference": "First Vatican Council, Pastor Aeternus (1870), ch. 3",
+          "quote": "they stray from the genuine path of truth who maintain that it is lawful to appeal from the judgments of the Roman pontiffs to an ecumenical council as if this were an authority superior to the Roman pontiff"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Ex illa die (1715)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
         }
       ]
     },
@@ -3455,8 +3614,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Clement XI, Unigenitus (1713)",
-          "quote": "Grace is the working of the omnipotent hand of God, which nothing can hinder or retard."
+          "reference": "Sacred Congregation of the Council, Sacra Tridentina Synodus (1905), approved by Pius X"
         }
       ]
     },
@@ -3474,12 +3632,12 @@
         "An official Vatican finding that the Society had fully abandoned its own vow of obedience to the reigning Pope"
       ],
       "correctAnswer": "Sustained political pressure from several European monarchies who saw the Jesuits as a threat to royal authority and colonial economic interests",
-      "explanation": "This was fundamentally a political suppression rather than a doctrinal condemnation -- Bourbon monarchs in France, Spain, and Portugal pressed for it over years, and Clement XIV yielded to preserve peace with those courts. The Jesuit reducciones and missions in South America were part of what made the order politically vulnerable.",
+      "explanation": "This was fundamentally a political suppression rather than a doctrinal condemnation -- the Bourbon courts of France and Spain, joined by Portugal under the Marquis of Pombal, pressed for it over years, and Clement XIV yielded to preserve peace with those courts. The Jesuit reducciones and missions in South America were part of what made the order politically vulnerable.",
       "hint": "Ask whether this was a doctrinal finding, or a matter of political pressure from outside the Church.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2242"
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
         }
       ]
     },
@@ -3489,7 +3647,7 @@
       "level": 17,
       "type": "true_false",
       "difficultyElo": 2000,
-      "prompt": "True or False: The Society of Jesus survived in one country despite the 1773 suppression, because its ruler declined to publish Clement XIV's brief there.",
+      "prompt": "True or False: The Society of Jesus kept its corporate existence without interruption in one country despite the 1773 suppression, because its ruler declined to allow Clement XIV's brief to be published there.",
       "correctAnswer": true,
       "explanation": "True. Catherine the Great of Russia declined to publish Dominus ac Redemptor within her territory, allowing a remnant of the Jesuit order to survive there continuously until the order's full, worldwide restoration in 1814.",
       "hint": "This survival happened in a country outside Catholic Europe's usual political sphere.",
@@ -3513,7 +3671,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
+          "reference": "Pius VII, Sollicitudo omnium ecclesiarum (1814)"
         }
       ]
     },
@@ -3535,8 +3693,17 @@
       "hint": "Ask which of these three came primarily from theology, and which came primarily from royal courts.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2242"
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870), ch. 3",
+          "quote": "they stray from the genuine path of truth who maintain that it is lawful to appeal from the judgments of the Roman pontiffs to an ecumenical council as if this were an authority superior to the Roman pontiff"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XI, Unigenitus (1713)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Clement XIV, Dominus ac Redemptor (1773)"
         }
       ]
     },
@@ -3546,20 +3713,21 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2125,
-      "prompt": "The French Revolution's 1790 Civil Constitution of the Clergy attempted what, which most French bishops and priests ultimately refused to accept?",
+      "prompt": "The French Revolution's 1790 Civil Constitution of the Clergy attempted what, which nearly all French bishops and a large share of French priests ultimately refused to accept?",
       "choices": [
-        "Placing the French Church under state control, with bishops and priests elected by civil authorities rather than confirmed by Rome",
+        "Placing the French Church under state control, with bishops and priests chosen by civil electoral bodies and papal confirmation of bishops abolished",
         "Simply granting the French Church a somewhat greater degree of financial independence from the reigning state",
         "Formally and fully restoring all Church property that had been seized by the crown in earlier centuries",
         "Reuniting the entire French Church with the Church of England under one single unified structure"
       ],
-      "correctAnswer": "Placing the French Church under state control, with bishops and priests elected by civil authorities rather than confirmed by Rome",
-      "explanation": "The Civil Constitution demanded clergy swear an oath to this new state-controlled structure; most refused, splitting French clergy into 'juring' and 'non-juring' priests and setting the Revolution directly against a Church it saw as a rival source of authority.",
+      "correctAnswer": "Placing the French Church under state control, with bishops and priests chosen by civil electoral bodies and papal confirmation of bishops abolished",
+      "explanation": "The Civil Constitution demanded clergy swear an oath to this new state-controlled structure; nearly all bishops and a large share of priests (roughly half of parish priests, by most estimates) refused, splitting French clergy into 'juring' and 'non-juring' priests and setting the Revolution directly against a Church it saw as a rival source of authority.",
       "hint": "Ask who this document put in charge of appointing bishops and priests -- Rome, or the revolutionary state.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2242"
+          "reference": "CCC 2245",
+          "quote": "is not to be confused in any way with the political community"
         }
       ]
     },
@@ -3587,11 +3755,8 @@
       "level": 18,
       "type": "fill_blank",
       "difficultyElo": 2185,
-      "prompt": "In 1794, sixteen Discalced Carmelite nuns of Compiègne were guillotined for refusing to abandon their religious vows, going to their deaths singing the ____ -- a hymn of praise to God.",
+      "prompt": "In 1794, sixteen Discalced Carmelite nuns of Compiègne were guillotined for refusing to abandon their religious vows, singing sacred chants on the way to their deaths, among them the Marian antiphon ____.",
       "correctAnswer": "Salve Regina",
-      "acceptedAnswers": [
-        "Te Deum"
-      ],
       "explanation": "Their calm witness -- singing rather than pleading -- became one of the most vivid remembered images of this whole period's persecution, later inspiring the opera Dialogues of the Carmelites.",
       "hint": "A traditional Marian hymn, sung by these nuns even as they faced execution.",
       "citations": [
@@ -3621,7 +3786,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2242"
+          "reference": "CCC 2245",
+          "quote": "is not to be confused in any way with the political community"
         }
       ]
     },
@@ -3638,7 +3804,8 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2242"
+          "reference": "CCC 2245",
+          "quote": "is not to be confused in any way with the political community"
         }
       ]
     },
@@ -3700,14 +3867,20 @@
       "level": 18,
       "type": "fill_blank",
       "difficultyElo": 2185,
-      "prompt": "The Revolution's central claim -- that legitimate authority flows upward from the people's own will rather than downward from God -- placed it in direct tension with the Church's own teaching on the true source of all legitimate ____.",
+      "prompt": "The French Revolution's Declaration of 1789 located the principle of all sovereignty in the nation. In the Church's teaching, the ____ required by the moral order derives from God, while the choice of the political regime and of rulers is left to the free decision of the citizens.",
       "correctAnswer": "authority",
-      "explanation": "This is the deepest question underneath the French Revolution's clash with the Church: where does legitimate authority actually come from? The Revolution answered one way; the Church, across disputes from Peter's own authority to Gallicanism, has consistently answered another.",
-      "hint": "The thing the Revolution claimed came from the people, which the Church teaches ultimately comes from God.",
+      "explanation": "This is the deepest question underneath the French Revolution's clash with the Church: where does legitimate authority ultimately come from? The Church teaches that 'The authority required by the moral order derives from God' (CCC 1899), while 'the choice of the political regime and the appointment of rulers are left to the free decision of the citizens' (CCC 1901). The question at issue was the source of authority, not whether citizens may take part in choosing their government.",
+      "hint": "What the Catechism says derives from God, even though citizens may choose the regime and the rulers.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2242"
+          "reference": "CCC 1899",
+          "quote": "The authority required by the moral order derives from God"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1901",
+          "quote": "the choice of the political regime and the appointment of rulers are left to the free decision of the citizens"
         }
       ]
     },
@@ -3741,15 +3914,20 @@
       "level": 19,
       "type": "true_false",
       "difficultyElo": 2150,
-      "prompt": "True or False: Blessed Pope Pius IX's Syllabus of Errors (1864) listing the proposition that the Pope should 'reconcile himself to progress, liberalism, and modern civilization' among the condemned errors means the document is properly read as an outright condemnation of democratic government as such.",
+      "prompt": "True or False: Blessed Pope Pius IX's Syllabus of Errors (1864) listing among the condemned errors the proposition that the Roman Pontiff 'can, and ought to, reconcile himself, and come to terms with progress, liberalism and modern civilization' means the document is properly read as an outright condemnation of democratic government as such.",
       "correctAnswer": false,
-      "explanation": "The Syllabus does list that proposition (no. 80) -- but read in its actual context, its target was the ideological claim that the Church must subordinate her teaching to whatever 'modern civilization' currently holds, not democratic government or civil liberty as such. Later magisterial teaching, especially from Leo XIII onward, engaged constructively with modern political forms while keeping this same caution against doctrinal subordination.",
+      "explanation": "The Syllabus does list that proposition (no. 80, drawn from the allocution Jamdudum cernimus of 1861), but it does not condemn democratic government as such: the proposition rejects the claim that the Roman Pontiff can and ought to accommodate himself to 'progress, liberalism and modern civilization.' Later magisterial teaching, from Leo XIII onward, engaged constructively with modern political forms; the Catechism affirms that 'the choice of the political regime and the appointment of rulers are left to the free decision of the citizens' (CCC 1901).",
       "hint": "The Syllabus targets a philosophical claim about the Church's independence, not a specific form of government.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Pius IX, Syllabus of Errors (1864), no. 80",
           "quote": "The Roman Pontiff can, and ought to, reconcile himself, and come to terms with progress, liberalism and modern civilization."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 1901",
+          "quote": "the choice of the political regime and the appointment of rulers are left to the free decision of the citizens"
         }
       ]
     },
@@ -3784,12 +3962,17 @@
         "Travel outside the city of Rome had been made explicitly and permanently forbidden to him under Italian civil law"
       ],
       "correctAnswer": "He considered himself effectively a prisoner protesting the seizure of the Papal States, a status maintained by his successors until the 1929 Lateran Treaty",
-      "explanation": "This was a self-imposed protest, the 'prisoner of the Vatican' stance, not a legal detention — and it lasted nearly sixty years across four pontificates until Mussolini's government and the Holy See settled the Roman Question with the Lateran Treaty in 1929.",
+      "explanation": "This was a self-imposed protest, the 'prisoner of the Vatican' stance, not a legal detention — and it lasted nearly sixty years across five pontificates (Pius IX, Leo XIII, Pius X, Benedict XV and Pius XI) until Mussolini's government and the Holy See settled the Roman Question with the Lateran Treaty in 1929.",
       "hint": "Ask whether this was imposed from outside, or a stance the popes themselves chose to maintain.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 2244"
+          "reference": "CCC 2245",
+          "quote": "is not to be confused in any way with the political community"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Lateran Treaty (1929)"
         }
       ]
     },
@@ -3924,8 +4107,14 @@
       "hint": "Two of these assert doctrinal or papal authority; two concern loss of temporal power and its defense.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2244"
+          "type": "magisterial_document",
+          "reference": "Pius IX, Ineffabilis Deus (1854)",
+          "quote": "was preserved free from all stain of original sin, is a doctrine revealed by God"
+        },
+        {
+          "type": "council",
+          "reference": "First Vatican Council, Pastor Aeternus (1870)",
+          "quote": "such definitions of the Roman pontiff are of themselves, and not by the consent of the church, irreformable"
         }
       ]
     },
@@ -3935,15 +4124,15 @@
       "level": 20,
       "type": "multiple_choice",
       "difficultyElo": 2275,
-      "prompt": "In Testem Benevolentiae Nostrae (1899), Pope Leo XIII warned American bishops against a tendency, nicknamed 'Americanism,' to do what?",
+      "prompt": "In Testem Benevolentiae Nostrae (1899), a letter to Cardinal Gibbons of Baltimore, Pope Leo XIII warned against opinions called by some 'Americanism' that would do what?",
       "choices": [
-        "Adapt Church teaching itself, not just missionary methods, to supposedly fit modern democratic culture",
+        "Shape the Church's teaching itself more in accord with the spirit of the age, in order to attract those outside the Church",
         "Establish new parishes using English rather than Latin as the language of the liturgy",
         "Formally allow lay Catholics to vote freely in United States national elections",
         "Send American-born missionaries specifically to evangelize the continent of Europe"
       ],
-      "correctAnswer": "Adapt Church teaching itself, not just missionary methods, to supposedly fit modern democratic culture",
-      "explanation": "Leo XIII's concern was a confusion between prudent missionary adaptation -- always allowed -- and altering the deposit of faith itself to seem more compatible with individualism and liberty, which the Church cannot do. Several American bishops the letter was addressed to denied the tendency existed among them in that extreme form.",
+      "correctAnswer": "Shape the Church's teaching itself more in accord with the spirit of the age, in order to attract those outside the Church",
+      "explanation": "Leo XIII's concern was the idea that, 'in order to more easily attract those who differ from her, the Church should shape her teachings more in accord with the spirit of the age.' He answered that the doctrine of faith has been 'delivered as a divine deposit' to be faithfully kept, so the Church cannot alter it, although in ways of living she has always accommodated herself to the nations she embraces. He added that if the name 'Americanism' designates the endowments of the American people or 'your political condition and the laws and customs by which you are governed, there is no reason to take exception to the name.'",
       "hint": "The document distinguishes adapting how the faith is presented from adapting the faith's actual content.",
       "citations": [
         {
@@ -3966,8 +4155,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Leo XIII, Rerum Novarum (1891)",
-          "quote": "the misery and wretchedness pressing so unjustly on the majority of the working class"
+          "reference": "Leo XIII, Rerum Novarum (1891), 51",
+          "quote": "to enter into a \"society\" of this kind is the natural right of man"
         }
       ]
     },
@@ -3979,7 +4168,7 @@
       "difficultyElo": 2225,
       "prompt": "True or False: Leo XIII's Testem Benevolentiae Nostrae (1899) condemned an actual, clearly-articulated American theological movement identical to what the letter describes.",
       "correctAnswer": false,
-      "explanation": "False, and Leo XIII said so himself: he was warning against a tendency some held, described with care, while noting that if any American Catholics held the described opinions, they were not representative of the wider American Church. The letter is a caution against a danger, not a condemnation of American Catholicism as it existed.",
+      "explanation": "False. Leo XIII wrote that he was 'not able to give approval to those views which, in their collective sense, are called by some \"Americanism,\"' but he did not condemn American Catholicism or American political institutions: if the name designates 'certain endowments of mind which belong to the American people' or 'your political condition and the laws and customs by which you are governed, there is no reason to take exception to the name.' He added that if the name were understood so that the doctrines he had described were 'not only indicated, but exalted,' the bishops of America would be 'the first to repudiate and condemn it.' The letter is a caution against a danger, not a condemnation of American Catholicism as it existed.",
       "hint": "Read what the letter itself says about whether American Catholics held these views.",
       "citations": [
         {
@@ -4002,12 +4191,17 @@
         "Feudalism and modern industrialism, two economic systems the document treats as equally acceptable in every respect"
       ],
       "correctAnswer": "Socialism, which Leo XIII rejected for abolishing private property, and unrestrained capitalism, which he criticized for neglecting workers' welfare",
-      "explanation": "Leo XIII defended the right to private property against socialist abolition while insisting that ownership carries obligations to workers — a genuine third way, not a compromise splitting the difference, which is why the document founded a distinct tradition of Catholic social teaching rather than simply adopting either side.",
+      "explanation": "Leo XIII defended the right to private property against socialist abolition while insisting that ownership carries obligations to workers and criticizing the greed of unchecked competition. The Church's social doctrine is not a compromise between two ideologies: as John Paul II taught, it 'is not a \"third way\" between liberal capitalism and Marxist collectivism' but 'a category of its own'.",
       "hint": "The document rejects one system for going too far in one direction, and criticizes the other for going too far in the opposite direction.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 2425"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Sollicitudo Rei Socialis (1987), 41",
+          "quote": "The Church's social doctrine is not a \"third way\" between liberal capitalism and Marxist collectivism"
         }
       ]
     },
@@ -4043,13 +4237,13 @@
       "difficultyElo": 2275,
       "prompt": "What social and political situation directly preceded Pope Leo XIII's 1891 encyclical Rerum Novarum?",
       "choices": [
-        "Rapid industrialization was producing harsh factory conditions, with socialism or unregulated capitalism as the only proposed answers",
+        "Rapid industrialization was producing harsh conditions for workers, who were left isolated and unprotected amid unchecked competition while socialist movements competed for their allegiance",
         "A sudden, sharp decline in ordinary weekly Church attendance recorded broadly and consistently across the whole of Europe",
         "The final and formal dissolution of what little remained of the old, once-extensive Papal States themselves",
         "A severe and prolonged famine affecting agricultural workers specifically in one single European region alone"
       ],
-      "correctAnswer": "Rapid industrialization was producing harsh factory conditions, with socialism or unregulated capitalism as the only proposed answers",
-      "explanation": "Leo XIII was answering a real and urgent crisis: industrial workers facing brutal conditions, with socialism offering revolution and laissez-faire capitalism offering indifference. Rerum Novarum charted a distinct Catholic path between the two, which is why it is remembered as the founding document of modern Catholic social teaching.",
+      "correctAnswer": "Rapid industrialization was producing harsh conditions for workers, who were left isolated and unprotected amid unchecked competition while socialist movements competed for their allegiance",
+      "explanation": "Leo XIII was answering a real and urgent crisis: industrial workers had been 'surrendered, isolated and helpless, to the hardheartedness of employers and the greed of unchecked competition' (Rerum Novarum 3), while socialists proposed abolishing private property. Rerum Novarum answered both, which is why it is remembered as the founding document of modern Catholic social teaching.",
       "hint": "Ask what economic transformation was underway across Europe in the late nineteenth century.",
       "citations": [
         {
@@ -4064,14 +4258,18 @@
       "level": 20,
       "type": "true_false",
       "difficultyElo": 2225,
-      "prompt": "True or False: Leo XIII's pontificate (1878-1903) was one of the longest in papal history, second only to his predecessor Pius IX among popes up to that point.",
+      "prompt": "True or False: Leo XIII's pontificate (1878-1903) lasted about twenty-five years, among the longest in papal history.",
       "correctAnswer": true,
-      "explanation": "True. A twenty-five-year pontificate gave Leo XIII an unusually long window to shape the Church's engagement with the modern world -- Thomism's revival, Catholic social teaching's foundation, and a real, sustained effort to address industrialization, all under one pope's sustained direction.",
+      "explanation": "True. A pontificate of about twenty-five years gave Leo XIII an unusually long window to shape the Church's engagement with the modern world -- the revival of Thomism (Aeterni Patris, 1879), the foundation of modern Catholic social teaching (Rerum Novarum, 1891), and a sustained effort to address industrialization, all under one pope's direction.",
       "hint": "Consider how many years separate 1878 and 1903.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2425"
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Aeterni Patris (1879)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Leo XIII, Rerum Novarum (1891)"
         }
       ]
     },
@@ -4103,7 +4301,7 @@
       "acceptedAnswers": [
         "Working Class"
       ],
-      "explanation": "This nickname reflects how thoroughly Rerum Novarum reshaped the Church's public engagement with economic life -- a legacy still cited by every later social encyclical.",
+      "explanation": "This nickname reflects how thoroughly Rerum Novarum reshaped the Church's public engagement with economic life -- a legacy still cited by later social encyclicals such as Quadragesimo Anno and Centesimus Annus.",
       "hint": "The group of people Rerum Novarum's whole argument centers on defending.",
       "citations": [
         {
@@ -4123,15 +4321,15 @@
       "pairs": [
         {
           "left": "Rerum Novarum (1891)",
-          "right": "Founded Catholic Social Teaching, defending workers between socialism and capitalism"
+          "right": "The first social encyclical, a new beginning in the Church's social teaching, defending the rights of workers"
         },
         {
           "left": "Testem Benevolentiae Nostrae (1899)",
           "right": "Warned against doctrinal accommodation nicknamed 'Americanism'"
         },
         {
-          "left": "Leo XIII's 25-year pontificate",
-          "right": "One of the longest in papal history, second only to Pius IX"
+          "left": "Leo XIII's pontificate (1878-1903)",
+          "right": "One of the longest in papal history, lasting more than 25 years"
         },
         {
           "left": "\"Pope of the Workers\"",
@@ -4162,7 +4360,7 @@
         "Anglican modernism"
       ],
       "correctAnswer": "Nazi racial neo-paganism",
-      "explanation": "Mit Brennender Sorge condemned the Nazi regime's racial ideology and its attempt to subordinate the Church to the state, defending the natural moral law and human dignity against 'neo-paganism.' Written in German, not the usual Latin, specifically so ordinary German Catholics could understand it directly.",
+      "explanation": "Mit Brennender Sorge condemned the exaltation of race, people and State in Nazi Germany, including 'the so-called myth of race and blood,' and protested the violations of the Concordat and the hostility shown to the Church. It was written in German rather than the customary Latin.",
       "hint": "This is different from the second encyclical Pius XI issued just days later, targeting a different totalitarian ideology entirely.",
       "citations": [
         {
@@ -4210,7 +4408,7 @@
         {
           "type": "magisterial_document",
           "reference": "Pius XI, Mit Brennender Sorge (1937)",
-          "quote": "Whoever exalts race, or the people, or the State, or a particular form of State, or the depositories of power... whoever raises these notions above their standard value and divinizes them to an idolatrous level, distorts and perverts an order of the world planned and created by God."
+          "quote": "the other contracting party emasculated the terms of the treaty, distorted their meaning, and eventually considered its more or less official violation as a normal policy"
         }
       ]
     },
@@ -4245,13 +4443,13 @@
       "difficultyElo": 2300,
       "prompt": "True or False: Divini Redemptoris (1937) only condemned communism, without proposing any positive alternative for social and economic justice.",
       "correctAnswer": false,
-      "explanation": "Like Rerum Novarum before it, Divini Redemptoris paired its condemnation of communism with a constructive vision -- Catholic social teaching's own program of subsidiarity, private property ordered to the common good, and a just wage -- arguing the Church's answer to real social evils was reform, not revolution.",
+      "explanation": "Like Rerum Novarum before it, Divini Redemptoris paired its condemnation of communism with a constructive vision drawn from the Church's social doctrine -- social justice, which demands from each individual all that is necessary for the common good, and what is due in justice to the wage-earner -- so that the Church's answer to real social evils was not merely condemnation.",
       "hint": "Compare this to Rerum Novarum: the Church's pattern is to condemn AND propose.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Pius XI, Divini Redemptoris (1937)",
-          "quote": "Communism is intrinsically wrong, and no one who would save Christian civilization may collaborate with it in any undertaking whatsoever."
+          "quote": "Now it is of the very essence of social justice to demand from each individual all that is necessary for the common good."
         }
       ]
     },
@@ -4299,7 +4497,7 @@
       "prompt": "What specifically made Mit Brennender Sorge (1937) notable in its distribution?",
       "choices": [
         "It was smuggled into Germany and read from Catholic pulpits on the same Sunday, before the Nazi regime could suppress it",
-        "It was, in fact, the very first papal encyclical ever composed and formally issued in the German language",
+        "It was published only after the Second World War had ended and the Nazi regime had fallen",
         "It was read only privately, to bishops alone, gathered in a closed consistory held quietly in Rome",
         "It was distributed exclusively in countries located entirely outside of Germany's own national borders"
       ],
@@ -4348,8 +4546,9 @@
       "hint": "Ask what the treaty was meant to secure, and whether the other side honored it.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 2244"
+          "type": "magisterial_document",
+          "reference": "Pius XI, Mit Brennender Sorge (1937)",
+          "quote": "the other contracting party emasculated the terms of the treaty, distorted their meaning, and eventually considered its more or less official violation as a normal policy"
         }
       ]
     },
@@ -4410,8 +4609,8 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+          "reference": "Second Vatican Council, Gaudium et Spes 1 (1965)",
+          "quote": "The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ."
         }
       ]
     },
@@ -4534,7 +4733,7 @@
       "difficultyElo": 2375,
       "prompt": "True or False: Vatican II's Unitatis Redintegratio (1964) named the restoration of unity among all Christians as one of the Council's principal concerns.",
       "correctAnswer": true,
-      "explanation": "True. This document opens the Council's engagement with ecumenism directly, seeking closer relations with other Christian communities while still holding that full communion with the East remains unrestored even today.",
+      "explanation": "True. This document opens the Council's engagement with ecumenism directly, seeking closer relations with other Christian communities, while full communion with the Eastern Orthodox Churches remains unrestored even today.",
       "hint": "This is the Council's document specifically on relations with other Christian communities.",
       "citations": [
         {
@@ -4562,9 +4761,13 @@
       "hint": "This pope died partway through the Council, before it reached its formal close.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+          "type": "magisterial_document",
+          "reference": "John XXIII, Opening Address Gaudet Mater Ecclesia (Oct. 11, 1962)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Address to the Bishops who took part in the Council (Oct. 12, 2012)",
+          "quote": "one word, pronounced by Blessed John XXIII in a systematic way, recurred again and again during the Council: the word aggiornamento"
         }
       ]
     },
@@ -4580,9 +4783,9 @@
       "hint": "An Italian word meaning 'bringing up to date,' associated with the pope who opened the Council.",
       "citations": [
         {
-          "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Address to the Bishops who took part in the Council (Oct. 12, 2012)",
+          "quote": "one word, pronounced by Blessed John XXIII in a systematic way, recurred again and again during the Council: the word aggiornamento"
         }
       ]
     },
@@ -4605,8 +4808,13 @@
       "citations": [
         {
           "type": "council",
-          "reference": "Second Vatican Council (1962-1965)",
-          "quote": "The Catholic Church rejects nothing that is true and holy in these religions."
+          "reference": "Second Vatican Council, Gaudium et Spes 1 (1965)",
+          "quote": "The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ."
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "Benedict XVI, Address to the Roman Curia (Dec. 22, 2005)",
+          "quote": "On the other, there is the \"hermeneutic of reform\", of renewal in the continuity of the one subject-Church which the Lord has given to us."
         }
       ]
     },
@@ -4716,7 +4924,7 @@
         {
           "type": "magisterial_document",
           "reference": "Congregation for the Doctrine of the Faith, Libertatis Nuntius (1984)",
-          "quote": "It is difficult, and perhaps impossible, to purify these borrowed concepts of an ideological inspiration which is compatible with Christian faith."
+          "quote": "certain forms of liberation theology which use, in an insufficiently critical manner, concepts borrowed from various currents of Marxist thought"
         }
       ],
       "tags": [
@@ -4757,7 +4965,7 @@
         "A blanket, sweeping condemnation of the entire synod's own process, from its very start to its very finish"
       ],
       "correctAnswer": "A pastoral reflection on the region's needs, notably declining to mandate the synod's proposal to ordain married men",
-      "explanation": "Post-synodal exhortations are not obligated to enact every synod proposal, and this one is a clear case: Francis engaged the synod's concerns broadly while explicitly not adopting its most-discussed specific proposal, which surprised commentators expecting an automatic implementation.",
+      "explanation": "Post-synodal exhortations are not obligated to enact every synod proposal, and this one is a clear case: Francis offered his own response to the synod's concerns, officially presented the Final Document for reading, and did not take up its most-discussed specific proposal, the ordination of married men, which surprised commentators expecting it.",
       "hint": "Ask whether a post-synodal document is required to adopt every proposal a synod discussed.",
       "citations": [
         {
@@ -4796,15 +5004,15 @@
       "level": 23,
       "type": "true_false",
       "difficultyElo": 2450,
-      "prompt": "True or False: The Congregation for the Doctrine of the Faith's correction of certain liberation theology, and its continued insistence on real concern for the poor, is itself an example of the same 'hermeneutic of reform' pattern -- correcting a specific error while remaining in continuity with the Church's own social teaching tradition.",
+      "prompt": "True or False: The Congregation for the Doctrine of the Faith's 1984 instruction Libertatis Nuntius warned against the insufficiently critical use of concepts borrowed from Marxist thought in some forms of liberation theology, while stating that this warning is not a disavowal of those who want to respond generously to the preferential option for the poor.",
       "correctAnswer": true,
-      "explanation": "True. Libertatis Nuntius did not reject concern for the poor -- that concern runs continuously from Rerum Novarum's own founding of Catholic Social Teaching through to the correction of a specific ideological borrowing that risked distorting it.",
-      "hint": "Recall Rerum Novarum's own founding role for Catholic Social Teaching.",
+      "explanation": "True. Libertatis Nuntius did not reject concern for the poor; it warned that using concepts borrowed from various currents of Marxist thought in an insufficiently critical manner risked deviations damaging to the faith and betraying the cause of the poor. The Church's concern for workers and the poor runs through her social teaching from Rerum Novarum onward.",
+      "hint": "Recall what the instruction said about the preferential option for the poor.",
       "citations": [
         {
           "type": "magisterial_document",
           "reference": "Congregation for the Doctrine of the Faith, Libertatis Nuntius (1984)",
-          "quote": "It is difficult, and perhaps impossible, to purify these borrowed concepts of an ideological inspiration which is compatible with Christian faith."
+          "quote": "This warning should in no way be interpreted as a disavowal of all those who want to respond generously and with an authentic evangelical spirit to the \"preferential option for the poor.\""
         }
       ]
     },
