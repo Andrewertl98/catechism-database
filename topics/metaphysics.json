@@ -36,8 +36,9 @@
       "hint": "Consider how far back philosophical questions about being and existence go.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 34"
+          "type": "magisterial_document",
+          "reference": "Fides et Ratio 83, Pope St. John Paul II (1998)",
+          "quote": "Metaphysics thus plays an essential role of mediation in theological research."
         }
       ]
     },
@@ -217,8 +218,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -235,8 +236,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 34, Pope St. John Paul II (1998)",
+          "quote": "The unity of truth is a fundamental premise of human reasoning, as the principle of non-contradiction makes clear."
         }
       ]
     },
@@ -259,8 +260,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -277,8 +278,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -299,6 +300,11 @@
       "explanation": "This is an important real-world case of the precise qualifier at work -- 'three' and 'one' are said in different senses (Person and nature), so there is no violation of non-contradiction, only a mystery about how such unity and distinction coexist.",
       "hint": "Recall the point about 'the same sense, at the same time' -- consider whether 'three' and 'one' here are said in the same sense.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 253",
+          "quote": "We do not confess three Gods, but one God in three persons"
+        },
         {
           "type": "ccc",
           "reference": "CCC 237"
@@ -398,8 +404,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -416,8 +422,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -429,13 +435,13 @@
       "difficultyElo": 1015,
       "prompt": "A skeptic objects: 'Maybe some things really do just happen without any cause at all -- why assume every single thing needs one?' What is the careful answer?",
       "choices": [
-        "An uncaused beginning means something from strictly nothing, with no explanation at all -- ruled out by experience",
+        "An uncaused beginning means something from strictly nothing, with no explanation at all -- ruled out by reason",
         "Because the Church simply commands belief in this principle, with no real reasoning behind it",
         "Because science has never observed any event of any kind",
         "Because uncaused events are common in ordinary experience, just difficult to notice"
       ],
-      "correctAnswer": "An uncaused beginning means something from strictly nothing, with no explanation at all -- ruled out by experience",
-      "explanation": "This objection treats an uncaused beginning as merely unlikely, like a rare event. But it is a stronger claim than that -- literally nothing producing something, with no explanation available even in principle -- which is why ordinary experience and careful reasoning both reject it.",
+      "correctAnswer": "An uncaused beginning means something from strictly nothing, with no explanation at all -- ruled out by reason",
+      "explanation": "This objection treats an uncaused beginning as merely unlikely, like a rare event. But it is a stronger claim than that -- literally nothing producing something, with no explanation available even in principle -- which is why careful reasoning, confirmed by ordinary experience, rejects it.",
       "hint": "Consider the difference between an event that is simply rare, and an event that would have strictly no explanation of any kind.",
       "citations": [
         {
@@ -457,9 +463,14 @@
       "hint": "Consider whether every cause has to be something that happened earlier in time, or whether a cause can also explain something's existence right now.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 301",
+          "quote": "upholds and sustains them in being"
+        },
+        {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -482,8 +493,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -499,9 +510,14 @@
       "hint": "Consider what kind of argument the phrase 'argument from motion' suggests, and whether causality would be involved.",
       "citations": [
         {
+          "type": "ccc",
+          "reference": "CCC 34",
+          "quote": "a reality which is the first cause and final end of all things"
+        },
+        {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -535,8 +551,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -581,8 +597,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -624,8 +640,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -638,12 +654,12 @@
       "prompt": "True or False: The principle of causality holds that everything that begins to exist must have a cause -- nothing simply pops into being uncaused.",
       "correctAnswer": true,
       "explanation": "This principle underlies much of natural theology's reasoning toward God: a universe of things that begin to exist points beyond itself to something that does not begin to exist and needs no cause outside itself.",
-      "hint": "This is one of the 'first principles' Fides et Ratio treats as reason's bedrock.",
+      "hint": "Fides et Ratio lists causality among the core insights of philosophy.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -677,8 +693,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -721,8 +737,9 @@
       "hint": "Ask whether a universe with no beginning would still need something to sustain it now.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+          "type": "ccc",
+          "reference": "CCC 338",
+          "quote": "the world began when God's word drew it out of nothingness"
         },
         {
           "type": "ccc",
@@ -743,7 +760,8 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)"
+          "reference": "Fides et Ratio 4, Pope St. John Paul II (1998)",
+          "quote": "the principles of non-contradiction, finality and causality"
         }
       ]
     },
@@ -772,8 +790,8 @@
           "right": "An infinite per se series still explains nothing without a first member"
         }
       ],
-      "explanation": "All four objections treat the argument as being about a very long chain of events in time. It is not; it is about what sustains anything in being at this moment, which is why length is irrelevant to it.",
-      "hint": "Every one of these reads the argument as a claim about history.",
+      "explanation": "Each objection misreads what the argument is about. It does not concern a very long chain of events in time; it concerns what sustains anything in being at this moment, which is why the length of a series, or the age of the universe, is irrelevant to it.",
+      "hint": "Ask what each objection assumes the argument is about, and what it is actually about.",
       "citations": [
         {
           "type": "ccc",
@@ -854,7 +872,7 @@
       "level": 5,
       "type": "multiple_choice",
       "difficultyElo": 1180,
-      "prompt": "St. Paul writes in Romans 1:20 that God's 'eternal power and divine nature' have been understood through what he has made. How does this scriptural witness relate to the philosophical argument from motion?",
+      "prompt": "In Romans 1:20, St. Paul writes that God's 'eternal power also and divinity' are 'clearly seen, being understood by the things that are made.' How does this scriptural witness relate to the philosophical argument from motion?",
       "choices": [
         "It confirms, from Scripture's own side, what the philosophy independently concludes",
         "It contradicts the philosophical argument, requiring one of the two to be abandoned",
@@ -870,6 +888,11 @@
           "reference": "Romans 1:20",
           "quote": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made. His eternal power also and divinity: so that they are inexcusable.",
           "note": "Douay-Rheims"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 36",
+          "quote": "can be known with certainty from the created world by the natural light of human reason"
         }
       ]
     },
@@ -1202,13 +1225,13 @@
       "difficultyElo": 1345,
       "prompt": "Act and potency applies to motion -- an acorn's potency to become an oak. Beyond motion alone, what other kind of change does this same distinction explain?",
       "choices": [
-        "Any real change -- including coming to exist or ceasing to exist -- not only motion in a thing that already exists",
+        "Any real change in creatures, including substantial change (one kind of material thing coming to be from another, or ceasing to be) -- not only motion in a thing that stays the same kind of thing",
         "Only physical motion through space, with no application to any other kind of change",
         "Only changes that happen instantly, with no application to any gradual process",
         "Act and potency have no application beyond motion itself"
       ],
-      "correctAnswer": "Any real change -- including coming to exist or ceasing to exist -- not only motion in a thing that already exists",
-      "explanation": "Act and potency is a genuinely general tool -- it explains any change, including a thing's own coming to exist (moving from mere potency to actuality) or ceasing to exist, not only motion or growth in an already-existing thing.",
+      "correctAnswer": "Any real change in creatures, including substantial change (one kind of material thing coming to be from another, or ceasing to be) -- not only motion in a thing that stays the same kind of thing",
+      "explanation": "Act and potency is a genuinely general tool -- it explains any real change in creatures, including substantial change in material things, where a new kind of thing comes to be from pre-existing matter that was in potency to it, or ceases to be. (Creation out of nothing is not a change in this sense, since there is no pre-existing thing: CCC 296.)",
       "hint": "Consider whether the distinction was limited to one narrow kind of change, or something more general.",
       "citations": [
         {
@@ -1242,21 +1265,25 @@
       "level": 7,
       "type": "multiple_choice",
       "difficultyElo": 1345,
-      "prompt": "Why does the Church's teaching on the human person as a unity of body and soul depend on the act/potency distinction?",
+      "prompt": "The Church teaches that the soul is the 'form' of the body (CCC 365). How does classical philosophy understand this using act and potency?",
       "choices": [
-        "The soul is the body's own 'form,' actualizing matter's potency -- same structure as the acorn and oak",
-        "Because the human person has no connection to act and potency at all",
-        "Because act and potency only ever apply to non-living things, never to human beings",
-        "Because the soul is described as pure potency with no actuality of its own"
+        "The soul actualizes the body's matter, so that the matter becomes a living human body -- form and matter, as with the acorn and the oak",
+        "The human person has no connection to act and potency at all",
+        "Act and potency only ever apply to non-living things, never to human beings",
+        "The soul is pure potency with no actuality of its own"
       ],
-      "correctAnswer": "The soul is the body's own 'form,' actualizing matter's potency -- same structure as the acorn and oak",
-      "explanation": "This is a direct connection -- the soul as the body's 'form' is exactly an application of act and potency: matter's potency for life, actualized by the soul, the same basic structure as the acorn and oak.",
+      "correctAnswer": "The soul actualizes the body's matter, so that the matter becomes a living human body -- form and matter, as with the acorn and the oak",
+      "explanation": "Classical philosophy reads the Church's teaching that the soul is the 'form' of the body as an application of act and potency: matter is actualized by form, and it is because of its spiritual soul that the body becomes a living human body. The analogy has limits: every spiritual soul is created immediately by God and is immortal (CCC 366), which is not true of an acorn's form.",
       "hint": "Consider how 'form' and 'matter' relate in the human person as a unity of body and soul.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "it is because of its spiritual soul that the body made of matter becomes a living, human body"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
         }
       ]
     },
@@ -1329,8 +1356,8 @@
       "prompt": "Match each application of act and potency to what it illustrates.",
       "pairs": [
         {
-          "left": "A thing coming to exist or ceasing to exist",
-          "right": "Act and potency applies to any change, not only motion in an existing thing"
+          "left": "A material thing ceasing to be, or another coming to be from its matter",
+          "right": "Act and potency applies to substantial change, not only to motion in a thing that stays the same kind of thing"
         },
         {
           "left": "Growth in virtue",
@@ -1338,7 +1365,7 @@
         },
         {
           "left": "The soul as the body's own 'form'",
-          "right": "Matter's potency for life, actualized -- the same structure as the acorn and oak"
+          "right": "Matter actualized as a living human body, as form actualizes matter in the acorn and oak -- though the human soul is spiritual and created immediately by God"
         },
         {
           "left": "God as pure act",
@@ -1349,9 +1376,13 @@
       "hint": "Each row applies act and potency to a different case, from ordinary change to God's own nature.",
       "citations": [
         {
-          "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "type": "ccc",
+          "reference": "CCC 365",
+          "quote": "it is because of its spiritual soul that the body made of matter becomes a living, human body"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 366"
         }
       ]
     },
@@ -1613,7 +1644,7 @@
           "right": "Being as pleasing when perceived"
         }
       ],
-      "explanation": "Truth and goodness are relational: they name being as it stands toward a knower and toward a desirer. That is why a purely mind-independent account of truth, or of goodness, is harder to state than it first appears.",
+      "explanation": "Truth and goodness are relational transcendentals: they name being as it stands toward a knower and toward a desirer. This does not make them subjective -- things are intelligible and good in themselves, and the intellect is true when it conforms to what is there.",
       "hint": "Two of these involve a relation to someone; two do not.",
       "citations": [
         {
@@ -1655,7 +1686,7 @@
       "difficultyElo": 1460,
       "prompt": "True or False: Calling evil a 'privation' means it has no practical effect on anyone -- as if it were make-believe.",
       "correctAnswer": false,
-      "explanation": "False, and this is an important distinction -- a privation is not the same as nothing at all. Blindness is a privation of sight, not the same as never having had eyes -- it has painful, practical effects, even though it is metaphysically an absence rather than a positive substance.",
+      "explanation": "False, and this is an important distinction -- a privation is not the same as nothing at all. Blindness is the lack of a sight a human being ought to have, which is different from a stone's mere lack of sight (a stone is not blind). Blindness has painful, practical effects, even though it is metaphysically an absence rather than a positive substance.",
       "hint": "Consider blindness as an example -- is it 'nothing at all,' or a real, painful absence of something a person ought to have?",
       "citations": [
         {
@@ -1674,15 +1705,20 @@
       "difficultyElo": 1510,
       "prompt": "Why does the distinction 'privation, not substance' matter for how the Church answers the classical problem of evil -- if God is all-good and all-powerful, why does evil exist?",
       "choices": [
-        "God never made evil directly -- it enters through a lack, sin, or a defect",
+        "God is never the cause of moral evil, directly or indirectly -- it enters through the free sin of his creatures",
         "Because it means evil does not exist in any sense at all",
         "Because it means God is, in fact, equally the author of both good and evil",
         "Because it has no real bearing on the classical problem of evil whatsoever"
       ],
-      "correctAnswer": "God never made evil directly -- it enters through a lack, sin, or a defect",
-      "explanation": "This is exactly why the distinction matters -- if evil were a positive substance, God would have had to create it directly, which would contradict his own perfect goodness. As a privation, evil enters only through a created lack, never as something God himself positively made.",
+      "correctAnswer": "God is never the cause of moral evil, directly or indirectly -- it enters through the free sin of his creatures",
+      "explanation": "Evil is not a created thing, so it is not part of what God made. As the Catechism puts it, 'God is in no way, directly or indirectly, the cause of moral evil.' He permits it because he respects the freedom of his creatures and knows how to derive good from it.",
       "hint": "Consider what would follow for God's own goodness if evil were a positive substance he had to create.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil."
+        },
         {
           "type": "scripture",
           "reference": "Genesis 1:31",
@@ -1697,11 +1733,16 @@
       "level": 9,
       "type": "true_false",
       "difficultyElo": 1460,
-      "prompt": "True or False: The teaching on evil as privation fits with the Church's teaching that God permits evil out of respect for creaturely freedom, without ever being its cause.",
+      "prompt": "True or False: The teaching on evil as privation fits with the Church's teaching that God permits moral evil out of respect for creaturely freedom, without ever being its cause.",
       "correctAnswer": true,
       "explanation": "True, and this matters -- the doctrinal teaching (God is never the cause of moral evil) and the metaphysical explanation (evil as privation, not substance) are two sides of the same coherent answer.",
       "hint": "Recall the Church's teaching on God's relationship to evil.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil."
+        },
         {
           "type": "scripture",
           "reference": "Genesis 1:31",
@@ -1772,16 +1813,21 @@
         },
         {
           "left": "Why this matters for the problem of evil",
-          "right": "God never had to create evil directly -- it enters only through a created lack"
+          "right": "God is never the cause of moral evil, directly or indirectly -- it enters through the free sin of his creatures"
         },
         {
           "left": "Metaphysical status vs. seriousness",
           "right": "Calling evil a privation says nothing about how painful or serious it is"
         }
       ],
-      "explanation": "These four facts together give a precise account of evil -- neither trivializing suffering nor making God its positive author.",
+      "explanation": "These four facts together give a precise account of evil -- neither trivializing suffering nor making God the cause of moral evil.",
       "hint": "Two rows define privation itself; two apply it carefully to practical concerns.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 311",
+          "quote": "God is in no way, directly or indirectly, the cause of moral evil."
+        },
         {
           "type": "scripture",
           "reference": "Genesis 1:31",
@@ -1872,7 +1918,7 @@
       "level": 10,
       "type": "fill_blank",
       "difficultyElo": 1652,
-      "prompt": "Romans chapter 1 teaches that God's 'eternal power and divine nature' have been clearly perceived, ever since the creation of the world, through the things that have been ____.",
+      "prompt": "Romans 1:20 teaches that the invisible things of God are 'clearly seen, being understood by the things that are ____.'",
       "correctAnswer": "made",
       "explanation": "St. Paul argues that creation itself, rightly reasoned about, leaves people without excuse for failing to recognize God's existence -- a foundational scriptural basis for natural theology.",
       "hint": "It's the created things themselves that reveal the Creator.",
@@ -2300,7 +2346,7 @@
       "level": 12,
       "type": "multiple_choice",
       "difficultyElo": 1758,
-      "prompt": "When Moses asked for God's name at the burning bush, God replied, 'I AM WHO I AM.' Catholic theology has long read this as revealing that God's very essence is:",
+      "prompt": "When Moses asked for God's name at the burning bush, God replied, 'I AM WHO AM.' Catholic theology has long read this as revealing that God's very essence is:",
       "choices": [
         "Existence itself -- Being, not merely a being among others",
         "A secret name known only to priests",
@@ -2350,13 +2396,13 @@
       "difficultyElo": 1708,
       "prompt": "True or False: The most basic law of reason, the principle of non-contradiction, states that the same thing cannot both be and not be true at the same time and in the same respect.",
       "correctAnswer": true,
-      "explanation": "Fides et Ratio affirms this and similar first principles as self-evident starting points reason cannot coherently deny -- without them, no reasoning, including theological reasoning, could get off the ground.",
+      "explanation": "True. This is the first principle of reasoning. Fides et Ratio (no. 4) names the principle of non-contradiction among the core of philosophical insight that can be discerned beyond different schools of thought, and (no. 34) appeals to it in showing that truth is one.",
       "hint": "It can't be raining and not-raining, in the same place, at the same moment.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Fides et Ratio, Pope St. John Paul II (1998)",
-          "quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"
+          "reference": "Fides et Ratio, Pope St. John Paul II (1998), no. 4",
+          "quote": "Consider, for example, the principles of non-contradiction, finality and causality, as well as the concept of the person as a free and intelligent subject"
         }
       ]
     },
@@ -2505,7 +2551,7 @@
         "This distinction applies to God exactly the same way it applies to every creature"
       ],
       "correctAnswer": "In God, what he is and that he is are one thing -- his essence simply is to exist",
-      "explanation": "Every creature's essence (what it is, like 'a tree' or 'a human being') is really distinct from its existence (that it exists, rather than remaining merely possible). In God alone, these coincide -- his very essence simply is existence itself.",
+      "explanation": "In the Thomistic tradition (Aquinas, De ente et essentia), a creature's essence (what it is, like 'a tree' or 'a human being') is distinguished from its existence (that it exists, rather than remaining merely possible), because no creature's essence includes existing. In God alone these coincide: his very essence simply is existence itself. As CCC 213 puts it, 'he alone is his very being'.",
       "hint": "Recall the teaching on essence and existence coinciding uniquely in God.",
       "citations": [
         {
@@ -2547,7 +2593,7 @@
         "Because creatures and God need causes for the exact same reason, with no difference between them"
       ],
       "correctAnswer": "Anything whose essence and existence are distinct needs a cause to receive existence; God, whose essence just is existence, needs none",
-      "explanation": "This is the deep reason the argument from motion and the argument from causality work -- anything that could exist or not exist (essence and existence really distinct) needs a cause to explain why it does exist; only what simply is existence itself needs no such cause.",
+      "explanation": "In the Thomistic tradition, anything whose essence does not include existing must receive its existence from another, because existing is not part of what it is; only what simply is existence itself needs no such cause. This is a Thomistic way of explaining why the classical arguments for God work, not a defined doctrine. CCC 213 teaches that 'All creatures receive all that they are and have from him'.",
       "hint": "Recall the argument from motion -- consider what the distinction adds to explain why that argument works.",
       "citations": [
         {
@@ -2594,8 +2640,13 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 213",
-          "quote": "The revelation of the ineffable name \"I AM WHO AM\" contains then the truth that God alone IS."
+          "reference": "CCC 43",
+          "quote": "it really does attain to God himself, though unable to express him in his infinite simplicity"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43",
+          "quote": "between Creator and creature no similitude can be expressed without implying an even greater dissimilitude"
         }
       ]
     },
@@ -2605,15 +2656,20 @@
       "level": 13,
       "type": "true_false",
       "difficultyElo": 1790,
-      "prompt": "True or False: Analogical language about God connects directly to the real teaching on essence and existence -- because God is not one being alongside others, ordinary univocal language about beings does not simply transfer to him.",
+      "prompt": "True or False: In the Thomistic tradition, analogical language about God connects directly to the teaching on essence and existence -- because God is not one being alongside others, ordinary univocal language about beings does not simply transfer to him.",
       "correctAnswer": true,
-      "explanation": "True. Precisely because God's essence simply is existence -- not one more being among others sharing the same kind of existence creatures have -- ordinary language cannot apply to him in exactly the same way it applies to creatures, which is exactly why analogical language is needed.",
+      "explanation": "True, in the Thomistic tradition. Because God's essence simply is existence -- not one more being among others sharing the same kind of existence creatures have -- ordinary language cannot apply to him in exactly the same way it applies to creatures, which is why analogical language is needed. The Church teaches that 'between Creator and creature no similitude can be expressed without implying an even greater dissimilitude' (CCC 43).",
       "hint": "Consider why God's own unique relationship to existence -- his essence simply being to exist -- would require a special kind of language to describe him accurately.",
       "citations": [
         {
           "type": "ccc",
           "reference": "CCC 213",
           "quote": "The revelation of the ineffable name \"I AM WHO AM\" contains then the truth that God alone IS."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 43",
+          "quote": "between Creator and creature no similitude can be expressed without implying an even greater dissimilitude"
         }
       ]
     },
@@ -2631,18 +2687,18 @@
         },
         {
           "left": "Why creatures need a cause",
-          "right": "Their essence and existence are really distinct, so existing is not automatic"
+          "right": "Their essence does not include existing, so existing is not automatic"
         },
         {
           "left": "\"Pure actuality\"",
-          "right": "The same truth about God's essence and existence, in the vocabulary of act and potency"
+          "right": "In the Thomistic tradition, the same truth about God, in the vocabulary of act and potency"
         },
         {
           "left": "Analogical language about God",
           "right": "Genuinely related but not identical, since God is not one being among others"
         }
       ],
-      "explanation": "These four facts together show why 'Being itself' is not a poetic title for God, but a precise metaphysical claim that the classical arguments depend on.",
+      "explanation": "These four facts together show why 'Being itself' is not a poetic title for God but a precise metaphysical claim, here set out in the Thomistic tradition. CCC 213 teaches that God alone IS and that creatures receive all they are from him.",
       "hint": "Two rows explain the essence/existence distinction; two connect it to act and potency and to how language about God works.",
       "citations": [
         {
@@ -2690,7 +2746,7 @@
         "That existence is not really a coherent philosophical concept"
       ],
       "correctAnswer": "That in God alone, essence and existence are identical -- God does not merely possess existence, his very essence IS 'to exist'",
-      "explanation": "Where every creature's essence (what it is) is really distinct from its existence (that it is) -- a human being's essence doesn't automatically guarantee that human being exists -- God's self-naming as 'I AM WHO AM' reveals that in God alone, essence and existence are identical: God's very essence simply is to exist, not a further property added to some prior 'what.'",
+      "explanation": "Aquinas reads God's self-naming as 'I AM WHO AM' as revealing that God alone is his very being. In the Thomistic tradition, a creature's essence (what it is) is distinguished from its existence (that it is): a human being's essence does not itself guarantee that this human being exists. In God alone, essence and existence are identical: his very essence simply is to exist, not a further property added to some prior 'what.' The Church teaches that God alone IS (CCC 213); the essence/existence vocabulary is the Thomistic way of explaining it.",
       "hint": "Ask whether God's essence is something distinct from his existing, the way a creature's essence is distinct from whether it happens to exist.",
       "citations": [
         {
@@ -2715,7 +2771,7 @@
         "This principle applies only to angels, not to physical creatures"
       ],
       "correctAnswer": "A creature's 'what it is' (its essence) does not by itself explain 'that it is' (its existence) -- existence must be received from an outside cause, since nothing in a creature's own essence guarantees it exists",
-      "explanation": "Unlike God, whose essence simply is to exist, every creature's essence -- fully specifying what a horse or a human being is -- leaves entirely open whether that thing exists at all. Since essence alone cannot supply its own existence, existence must be received from an outside cause -- the basis of Aquinas's contingency argument for a first cause whose essence is existence itself.",
+      "explanation": "Unlike God, whose essence simply is to exist, every creature's essence -- fully specifying what a horse or a human being is -- leaves entirely open whether that thing exists at all. Since essence alone cannot supply its own existence, existence must be received from an outside cause -- the basis of Aquinas's argument in De Ente ch. 4 for a first cause whose essence is existence itself.",
       "hint": "Ask whether fully knowing what something is tells you, by itself, whether that thing exists.",
       "citations": [
         {
@@ -2773,7 +2829,7 @@
       "level": 14,
       "type": "multiple_choice",
       "difficultyElo": 1922,
-      "prompt": "How does the essence/existence distinction help explain why the Church describes creation as a 'radical dependence' relation rather than a change or a making-from-some-preexisting-material?",
+      "prompt": "How does Aquinas's essence/existence distinction help explain why creation, which the Church teaches is from nothing (CCC 338) and continually sustained by God (CCC 301), is understood as total dependence rather than as a change or a making from some preexisting material?",
       "choices": [
         "Since every creature's essence must continually receive its act of existing from outside itself, creation names the total, ongoing dependence of a creature's very existing on God, not a one-time change performed on some pre-existing stuff",
         "Creation is simply a synonym for a chemical or physical transformation of matter already present",
@@ -2788,6 +2844,10 @@
           "type": "ccc",
           "reference": "CCC 338",
           "quote": "Nothing exists that does not owe its existence to God the Creator."
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 301"
         }
       ]
     },
@@ -2888,7 +2948,7 @@
         "Because it exists only inside stars"
       ],
       "correctAnswer": "Because to exist is to be something definite, and prime matter is pure potency with no form — so it is a principle of things, not a thing",
-      "explanation": "Prime matter is what persists through substantial change, considered apart from any form it happens to have. Considered that way it is not stuff of a very basic kind; it is a principle we distinguish in thought, and asking where a lump of it is mistakes an analysis for an inventory.",
+      "explanation": "Prime matter is what persists through substantial change, considered apart from any form it happens to have. It is a real principle of material substances, but not a thing of its own: it is never found existing without a form, so asking where a lump of it is mistakes a principle of things for one of the things.",
       "hint": "Ask whether something with no form at all could be any particular thing.",
       "citations": [
         {
@@ -2941,15 +3001,15 @@
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 2005,
-      "prompt": "Given that prime matter can never exist entirely unformed, what role does matter play in explaining why there can be many individual members of the very same species -- many oaks, many human beings?",
+      "prompt": "On Aquinas's account, given that prime matter can never exist entirely unformed, what role does matter play in explaining why there can be many individual members of the very same species -- many oaks, many human beings?",
       "choices": [
-        "Matter, as the principle of individuation, makes two things sharing the same form really distinct",
+        "On Aquinas's view, matter is the principle of individuation: it makes two things sharing the same form really distinct",
         "Matter has no real bearing on why there can be more than one member of a species at all",
         "Form alone, with no reference to matter, is what makes two individuals of the same species really distinct",
         "There can never be more than one individual sharing the exact same substantial form"
       ],
-      "correctAnswer": "Matter, as the principle of individuation, makes two things sharing the same form really distinct",
-      "explanation": "Two oaks share the very same substantial form -- 'oakness' -- yet remain really distinct individuals because each is united to its own particular matter, occupying its own particular place. Matter, not form, is what individuates members of the same species.",
+      "correctAnswer": "On Aquinas's view, matter is the principle of individuation: it makes two things sharing the same form really distinct",
+      "explanation": "On Aquinas's account, two oaks share the very same substantial form -- 'oakness' -- yet remain really distinct individuals because each is united to its own particular matter. Matter, not form, is what individuates members of the same species. This is the Thomistic position; the Church has not defined the question, and other Catholic theologians locate individuation differently.",
       "hint": "Consider what makes two trees of the exact same species really distinct individuals, rather than one and the same thing.",
       "citations": [
         {
@@ -2965,15 +3025,14 @@
       "level": 15,
       "type": "true_false",
       "difficultyElo": 1955,
-      "prompt": "True or False: Because angels are purely spiritual, with no matter at all, classical theology holds that no two angels can actually share the exact same species.",
+      "prompt": "True or False: According to Aquinas, because angels are purely spiritual, with no matter at all, no two angels can share the exact same species.",
       "correctAnswer": true,
-      "explanation": "True, and this is a striking consequence of the principle -- since matter is what individuates members of the same species, and angels have no matter at all, each angel must be its own unique species, unlike embodied creatures such as human beings or oaks.",
+      "explanation": "True, as Aquinas argues (STh I q.50 a.4): since, on his account, matter is what individuates members of the same species and angels have no matter at all, each angel must be its own species, unlike embodied creatures such as human beings or oaks. This is Aquinas's position, a theological opinion; the Church has not defined it, and other Catholic theologians have differed.",
       "hint": "Consider what the principle -- matter individuates members of the same species -- implies for beings with no matter at all.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 365",
-          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the \"form\" of the body..."
+          "reference": "CCC 330"
         }
       ]
     },
@@ -2983,7 +3042,7 @@
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 2005,
-      "prompt": "The principle -- matter individuates -- connects to the teaching that prime matter can never exist entirely unformed. Why does this connection matter?",
+      "prompt": "On Aquinas's account, matter is the principle of individuation, and prime matter can never exist entirely unformed. Why does this connection matter?",
       "choices": [
         "Individuating matter is never bare and unformed -- it's already united to a form, so individuation and formation happen together",
         "Because individuation and formation are two completely unrelated processes",
@@ -2991,7 +3050,7 @@
         "Because the principle has no actual connection to prime matter's own nature at all"
       ],
       "correctAnswer": "Individuating matter is never bare and unformed -- it's already united to a form, so individuation and formation happen together",
-      "explanation": "The principle depends directly on the teaching -- since prime matter never exists unformed, the matter that individuates a thing is always already really united to a substantial form; individuation and formation are two aspects of one single event, not separate steps.",
+      "explanation": "On Aquinas's account, since prime matter never exists unformed, the matter that individuates a thing is always already really united to a substantial form; individuation and formation are two aspects of one single event, not separate steps.",
       "hint": "Recall the teaching on prime matter never existing entirely unformed, and consider how that bears on individuation.",
       "citations": [
         {
@@ -3007,9 +3066,9 @@
       "level": 15,
       "type": "true_false",
       "difficultyElo": 1955,
-      "prompt": "True or False: The teaching on individuation has no bearing on how the Church understands the human soul specifically.",
+      "prompt": "True or False: Aquinas's teaching on individuation has no bearing on how he understands the human soul specifically.",
       "correctAnswer": false,
-      "explanation": "False. The teaching bears directly on the human soul -- since each human soul is really the form of a particular body's own particular matter, the principle helps explain why each human person is an unique individual, not merely one instance of a shared type.",
+      "explanation": "False. On Aquinas's account each human soul is the form of a particular body and is individuated through its relation to that body, which helps explain why each human person is unique, not merely one instance of a shared type. The Church further teaches that every spiritual soul is created immediately by God (CCC 366).",
       "hint": "Consider what the real principle about matter and individuation would mean for each individual human person.",
       "citations": [
         {
@@ -3027,13 +3086,13 @@
       "difficultyElo": 2005,
       "prompt": "A skeptic objects: 'If matter individuates, doesn't that make a human being's individuality just a fact about biology, with nothing genuinely spiritual about it?' What is the careful answer?",
       "choices": [
-        "No -- the soul individuates the body but is itself directly created by God, so individuality is spiritual as well as material",
+        "No -- each human soul is created directly by God, so a human person's individuality is spiritual as well as material",
         "Yes -- the objection is correct, and a human being's real individuality is purely a biological fact with no spiritual dimension at all",
         "No -- because matter has no role whatsoever in human individuality",
         "The account has no answer to this specific objection"
       ],
-      "correctAnswer": "No -- the soul individuates the body but is itself directly created by God, so individuality is spiritual as well as material",
-      "explanation": "This objection assumes matter and spirit are competitors. In fact, the Church teaches that each human soul is directly created by God -- so a human person's individuality involves both matter and a directly-created spiritual soul together, not matter alone.",
+      "correctAnswer": "No -- each human soul is created directly by God, so a human person's individuality is spiritual as well as material",
+      "explanation": "This objection assumes matter and spirit are competitors. In fact, the Church teaches that each human soul is created immediately by God (CCC 366) and that soul and body form a single nature (CCC 365), so a human person's individuality involves both a body and a directly created spiritual soul, not matter alone.",
       "hint": "Recall the teaching on the human soul being directly created by God, not produced by the parents.",
       "citations": [
         {
@@ -3049,15 +3108,14 @@
       "level": 15,
       "type": "true_false",
       "difficultyElo": 1955,
-      "prompt": "True or False: The distinction between angels (each its own species) and embodied creatures (many individuals sharing one species) matters directly for understanding the nature of angels.",
+      "prompt": "True or False: On Aquinas's account, the distinction between angels (each its own species) and embodied creatures (many individuals sharing one species) matters directly for understanding the nature of angels.",
       "correctAnswer": true,
-      "explanation": "True, and this matters -- the principle is not an isolated fact, but a load-bearing tool for understanding angelic nature.",
+      "explanation": "True: on Aquinas's account, the principle is not an isolated fact but a load-bearing tool for understanding angelic nature. It is his position, not a defined doctrine.",
       "hint": "Consider what the teaching on angels as individual species implies about angelic nature.",
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 365",
-          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the \"form\" of the body..."
+          "reference": "CCC 330"
         }
       ]
     },
@@ -3067,14 +3125,14 @@
       "level": 15,
       "type": "matching_pairs",
       "difficultyElo": 2045,
-      "prompt": "Match each fact about matter and individuation to what it actually means.",
+      "prompt": "Match each claim in Aquinas's account of matter and individuation to what it means.",
       "pairs": [
         {
-          "left": "Matter as the principle of individuation",
+          "left": "Matter as the principle of individuation (Aquinas)",
           "right": "What makes two things sharing the same substantial form really distinct individuals"
         },
         {
-          "left": "Angels, having no matter",
+          "left": "Angels, having no matter (Aquinas)",
           "right": "Each angel is its own unique species, unlike embodied creatures"
         },
         {
@@ -3091,8 +3149,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 365",
-          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the \"form\" of the body..."
+          "reference": "CCC 366"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 330"
         }
       ]
     },
@@ -3102,15 +3163,15 @@
       "level": 15,
       "type": "multiple_choice",
       "difficultyElo": 2005,
-      "prompt": "What does it mean to follow the settled teaching on prime matter to its further consequences for individuation?",
+      "prompt": "What does it mean to follow Aquinas's account of prime matter to its further consequences for individuation?",
       "choices": [
-        "Following a settled principle to its further consequences, not treating it as closed once stated",
-        "Assuming every settled principle has no further consequences worth exploring",
+        "Following a principle to its further consequences, not treating it as closed once stated",
+        "Assuming no principle has further consequences worth exploring",
         "Treating individuation as an entirely unrelated topic, disconnected from hylomorphism",
-        "Avoiding any further application of settled principles"
+        "Avoiding any further application of a principle"
       ],
-      "correctAnswer": "Following a settled principle to its further consequences, not treating it as closed once stated",
-      "explanation": "The habit -- taking the settled teaching on prime matter and following it to its further consequences for individuation -- is a disciplined way of reasoning in metaphysics.",
+      "correctAnswer": "Following a principle to its further consequences, not treating it as closed once stated",
+      "explanation": "The habit -- taking Aquinas's account of prime matter and following it to its further consequences for individuation -- is a disciplined way of reasoning in metaphysics.",
       "hint": "Consider how the teaching on prime matter connects to the further question of what individuates two things of the same species.",
       "citations": [
         {
@@ -3277,13 +3338,13 @@
       "difficultyElo": 2088,
       "prompt": "An objector argues that since mental states correlate exactly with brain states, the mind just is the brain. What does hylomorphism reply?",
       "choices": [
-        "Correlation is exactly what it predicts — the soul is the form of THIS body, so of course thinking has a bodily aspect; correlation would refute a ghost-in-the-machine dualism, not this",
+        "Correlation is exactly what it predicts — the soul is the form of THIS body, so of course thinking has a bodily aspect; the correlation is harder to explain for a ghost-in-the-machine dualism than for this view",
         "The correlations are not real",
         "The soul operates independently of the brain entirely",
         "Neuroscience cannot study the mind at all"
       ],
-      "correctAnswer": "Correlation is exactly what it predicts — the soul is the form of THIS body, so of course thinking has a bodily aspect; correlation would refute a ghost-in-the-machine dualism, not this",
-      "explanation": "The objection lands on Descartes, not on Aquinas. If soul and body were two things loosely joined, tight correlation would be surprising. On the hylomorphic account they are one substance, and the finding is what the theory expects — which is why the argument has to be answered by asking which view it targets.",
+      "correctAnswer": "Correlation is exactly what it predicts — the soul is the form of THIS body, so of course thinking has a bodily aspect; the correlation is harder to explain for a ghost-in-the-machine dualism than for this view",
+      "explanation": "The objection is aimed at a two-substance view. If soul and body were two things loosely joined, tight correlation would call for explanation. On the hylomorphic account they are one substance, and the finding is what the theory expects. Correlation alone does not settle that the mind is nothing but the brain, because that is the further question of what kind of thing is thinking.",
       "hint": "Ask which theory of the soul the objection would damage.",
       "citations": [
         {
@@ -3304,14 +3365,14 @@
       "difficultyElo": 2088,
       "prompt": "How does the soul as substantial form bear on the resurrection of the body?",
       "choices": [
-        "Since the soul is the form of this body, the risen body is the same person's body — identity is secured by the form, not by tracking the original atoms",
-        "The risen body will be composed of the identical atoms as before",
+        "Since the soul is the form of this body, the risen body is the person's own body, reunited with his own soul; the Church has not defined that it must consist of the very same particles of matter",
+        "The risen person will receive a different body, not his own",
         "The resurrection concerns the soul only",
         "Bodily identity cannot be maintained on this account"
       ],
-      "correctAnswer": "Since the soul is the form of this body, the risen body is the same person's body — identity is secured by the form, not by tracking the original atoms",
-      "explanation": "The atoms in a living body are replaced many times over a lifetime without anyone becoming a different person, so material continuity was never what identity rested on. The same principle answers the old objection about scattered or consumed remains.",
-      "hint": "You are not made of the same atoms you were as a child. Ask what made you the same person anyway.",
+      "correctAnswer": "Since the soul is the form of this body, the risen body is the person's own body, reunited with his own soul; the Church has not defined that it must consist of the very same particles of matter",
+      "explanation": "The Church teaches that all will rise again with their own bodies, which they now bear (CCC 999), reunited with their souls (CCC 997). Because the soul is the form of this body, the body that rises is the same person's own body and not another assigned to him. How that identity is secured at the level of matter is not defined.",
+      "hint": "Ask whose body rises, and whether the Church says it is the person's own.",
       "citations": [
         {
           "type": "ccc",
@@ -3419,8 +3480,12 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 365",
-          "quote": "The unity of soul and body is so profound that one has to consider the soul to be the \"form\" of the body..."
+          "reference": "CCC 1700",
+          "quote": "The dignity of the human person is rooted in his creation in the image and likeness of God"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 357"
         }
       ]
     },
@@ -3683,21 +3748,25 @@
       "prompt": "A skeptic asks: 'if angels have no bodies, how can Scripture describe them appearing, moving, and even wrestling (as with Jacob), as if they were located somewhere?' What is the standard Catholic philosophical answer?",
       "choices": [
         "An angel is present at a place through the exercise of its power and operation there, not through occupying space the way a body does -- 'location' for a pure spirit means acting at a place, not filling it with extended matter",
-        "Angels temporarily grow physical bodies made of ordinary matter whenever they need to appear",
+        "These accounts are only symbolic, since angels do not actually exist as real beings",
         "These accounts describe hallucinations rather than any angelic presence",
         "Angels are actually made of a very thin, gas-like matter, which is why they can be located"
       ],
       "correctAnswer": "An angel is present at a place through the exercise of its power and operation there, not through occupying space the way a body does -- 'location' for a pure spirit means acting at a place, not filling it with extended matter",
-      "explanation": "This is a classic application of act and potency to a hard case: a body is 'in' a place by filling it with extended matter, but a pure spirit, having no extension, can only be 'in' a place by acting there. Scripture's angelic appearances describe an active presence without requiring angels to have bodies after all.",
+      "explanation": "This is a classic application of act and potency to a hard case: a body is 'in' a place by filling it with extended matter, but a pure spirit, having no extension, can only be 'in' a place by acting there. The existence of angels is a truth of faith (CCC 328). Aquinas adds that when angels appear visibly in Scripture, they do so by temporarily assuming a body, which they do not have by nature (Summa Theologiae I, q. 51, a. 2).",
       "hint": "Ask what 'being somewhere' could possibly mean for something that has no size or shape to begin with.",
       "citations": [
+        {
+          "type": "ccc",
+          "reference": "CCC 328"
+        },
         {
           "type": "ccc",
           "reference": "CCC 330"
         },
         {
           "type": "scripture",
-          "reference": "Genesis 32:24-30"
+          "reference": "Hosea 12:3-4"
         }
       ]
     },
@@ -3707,7 +3776,7 @@
       "level": 18,
       "type": "multiple_choice",
       "difficultyElo": 2252,
-      "prompt": "Colossians 1:16 lists 'thrones, or dominations, or principalities, or powers' as created through and for Christ. Philosophically, what does the existence of a real hierarchy of angelic natures (not just angels as a single undifferentiated group) fit with?",
+      "prompt": "Colossians 1:16 lists 'thrones, or dominations, or principalities, or powers' among the things created 'by him and in him'. The classical Thomistic tradition reads such names as angels of different ranks and natures, a theological view, not a defined doctrine. Philosophically, what does a hierarchy of distinct angelic natures fit with?",
       "choices": [
         "The Transcendentals: if each angel is its own species, a hierarchy of distinct kinds -- greater and lesser degrees of perfection, closeness to God, and scope of operation -- follows naturally rather than needing a separate explanation",
         "It contradicts the claim that angels are immaterial",
@@ -3734,7 +3803,7 @@
       "level": 18,
       "type": "matching_pairs",
       "difficultyElo": 2292,
-      "prompt": "Match each claim about angels to the metaphysical principle it depends on.",
+      "prompt": "On the account of St. Thomas Aquinas (a classical theological position, not a defined doctrine), match each claim about angels to the metaphysical principle it depends on.",
       "pairs": [
         {
           "left": "Each angel is its own species",
@@ -3753,7 +3822,7 @@
           "right": "Location for a pure spirit means exercising power there, not filling extension"
         }
       ],
-      "explanation": "Every one of these claims about angels is really the same metaphysical principle -- act, potency, matter, and form -- applied consistently to a case with no matter at all. Nothing here is arbitrary theology bolted onto philosophy; it is philosophy followed through to its actual conclusion.",
+      "explanation": "On Aquinas's account, every one of these claims is the same metaphysical principle -- act, potency, matter, and form -- applied consistently to a case with no matter at all. Other Catholic thinkers, such as Bonaventure, argued differently on some of these points, and the Church has not defined them.",
       "hint": "Each claim about angels is really the same handful of metaphysical principles, applied consistently.",
       "citations": [
         {
@@ -3793,12 +3862,12 @@
       "difficultyElo": 2252,
       "prompt": "The Catechism assigns angels a real role in salvation history -- guarding, announcing, and serving -- rather than treating them as a philosophical curiosity with no bearing on ordinary faith. What does CCC 336 specifically affirm?",
       "choices": [
-        "That from infancy to death, human life is surrounded by the watchful care and intercession of angels, each person having an angel as guardian and shepherd leading them to life",
+        "That from infancy to death, human life is surrounded by the watchful care and intercession of angels, with an angel beside each believer as protector and shepherd leading him to life",
         "That angels only appear during the Old Testament period and have no role in the life of the Church today",
         "That belief in guardian angels is a pious legend with no basis in Catholic teaching",
         "That every human being eventually becomes an angel after death"
       ],
-      "correctAnswer": "That from infancy to death, human life is surrounded by the watchful care and intercession of angels, each person having an angel as guardian and shepherd leading them to life",
+      "correctAnswer": "That from infancy to death, human life is surrounded by the watchful care and intercession of angels, with an angel beside each believer as protector and shepherd leading him to life",
       "explanation": "This is the point of grounding metaphysics in the Catechism rather than treating it as philosophy for its own sake: the doctrine of guardian angels is not decorative. It is the same metaphysical picture -- personal, immaterial creatures -- applied to something the Church asks the faithful to trust and pray with.",
       "hint": "This is the Catechism's teaching on guardian angels specifically.",
       "citations": [
@@ -3814,7 +3883,7 @@
       "level": 19,
       "type": "multiple_choice",
       "difficultyElo": 2335,
-      "prompt": "Angels are purely spiritual creatures, each its own species. What does studying angels teach, by contrast, about the human person?",
+      "prompt": "Angels are purely spiritual creatures (and, on Aquinas's account, each is its own species). What does studying angels teach, by contrast, about the human person?",
       "choices": [
         "Highlights, by contrast, that humans are a composite of matter and spirit",
         "It proves human beings are, in fact, identical to angels in every respect",
@@ -3828,6 +3897,10 @@
         {
           "type": "ccc",
           "reference": "CCC 330"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 362"
         }
       ]
     },
@@ -3867,7 +3940,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 330"
+          "reference": "CCC 365-366"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 997"
         }
       ]
     },
@@ -3884,7 +3961,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 330"
+          "reference": "CCC 392-393"
         }
       ]
     },
@@ -3907,7 +3984,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 330"
+          "reference": "CCC 328"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 362"
         }
       ]
     },
@@ -3959,6 +4040,18 @@
         {
           "type": "ccc",
           "reference": "CCC 330"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 362"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 997"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 392-393"
         }
       ]
     },
@@ -3999,12 +4092,16 @@
         "Plato -- and 'privileged' means all other schools are formally condemned"
       ],
       "correctAnswer": "St. Thomas Aquinas -- 'privileged' means specially recommended and fruitful, not the only philosophy a Catholic may ever hold, since the Church has never canonized one philosophical system as the single permissible one",
-      "explanation": "Aeterni Patris is often remembered as making Thomism mandatory, which overstates it. Leo XIII commends Aquinas's synthesis as an especially sound and fruitful guide, particularly for seminary formation -- but 'privileged' is not the same as 'exclusively permitted,' which is exactly why Scotist, Bonaventurian, and other schools have remained fully Catholic traditions in good standing ever since.",
+      "explanation": "Aeterni Patris is often remembered as making Thomism mandatory, which overstates it. Leo XIII urges the restoration of the wisdom of St. Thomas 'for the defense and beauty of the Catholic faith' -- but 'privileged' is not the same as 'exclusively permitted'. Fides et Ratio 49 states that the Church has no philosophy of her own and does not canonize any one philosophy in preference to others, which is why Scotist, Bonaventurian, and other schools have remained fully Catholic traditions in good standing.",
       "hint": "The word to focus on is 'privileged' -- ask whether that means 'only' or something weaker.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "Leo XIII, Aeterni Patris (1879)"
+          "reference": "Leo XIII, Aeterni Patris, n. 31 (1879)"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
         }
       ]
     },
@@ -4016,18 +4113,18 @@
       "difficultyElo": 2418,
       "prompt": "John Paul II's Fides et Ratio (1998) explicitly addresses the Church's relationship to philosophical schools. What does it actually say about philosophical pluralism within the Catholic tradition?",
       "choices": [
-        "The Church does not bind herself to any one philosophical school, even while recognizing certain principles (found pre-eminently, though not exclusively, in Aquinas) as perennially valid for defending the truth of the faith",
+        "The Church has no philosophy of her own and does not canonize any one particular philosophy in preference to others, even while proposing St. Thomas as a master of thought and recognizing a core of philosophical insight, such as the principles of non-contradiction, finality and causality, that lies beyond the different schools",
         "The Church requires every Catholic philosopher to be a strict Thomist with no deviation permitted",
         "Philosophy has no proper role in theology at all and should be avoided",
         "All philosophical schools are equally arbitrary and none has any special claim to soundness"
       ],
-      "correctAnswer": "The Church does not bind herself to any one philosophical school, even while recognizing certain principles (found pre-eminently, though not exclusively, in Aquinas) as perennially valid for defending the truth of the faith",
-      "explanation": "Fides et Ratio holds a tension without collapsing it: it does not canonize one system, yet it does not treat all philosophies as equally sound either. It names Thomistic principles as especially reliable without making adherence to every detail of Thomism a condition of orthodoxy -- precisely the space in which Scotist and other schools have always operated.",
+      "correctAnswer": "The Church has no philosophy of her own and does not canonize any one particular philosophy in preference to others, even while proposing St. Thomas as a master of thought and recognizing a core of philosophical insight, such as the principles of non-contradiction, finality and causality, that lies beyond the different schools",
+      "explanation": "Fides et Ratio holds a tension without collapsing it: it does not canonize one system (n. 49), yet it does not treat all philosophies as equally sound either. It proposes Thomas as a master of thought (n. 43) and names a core of philosophical insight that lies beyond the different schools (n. 4), without making adherence to every detail of Thomism a condition of orthodoxy -- precisely the space in which Scotist and other schools have always operated.",
       "hint": "Look for the answer that holds two things together: no single mandatory system, but not empty relativism either.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 43-44 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 4, 43, 49 (1998)"
         }
       ]
     },
@@ -4050,7 +4147,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 44 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
         }
       ]
     },
@@ -4060,14 +4157,14 @@
       "level": 20,
       "type": "fill_blank",
       "difficultyElo": 2478,
-      "prompt": "St. Bonaventure and the Franciscan tradition emphasized a theory of divine ______ -- that the human mind grasps intelligible truth only with God's direct illuminating assistance -- in contrast to the more Aristotelian, sense-based account of knowledge Aquinas developed.",
+      "prompt": "St. Bonaventure, following Augustine, taught a theory of divine ______ -- that God is the light of the mind, guaranteeing the certainty of its grasp of unchanging truth, working together with the mind's own faculties and with abstraction from the senses.",
       "correctAnswer": "illumination",
-      "explanation": "Augustinian illumination theory holds that the mind cannot reach unchanging truth by its own natural power alone; it needs a special divine light. Aquinas's more Aristotelian account instead grounds knowledge in abstraction from sense experience, with a much lighter role for direct divine assistance in ordinary knowing. Both remain live, fully Catholic positions.",
+      "explanation": "Augustinian illumination theory, which Bonaventure joined to an Aristotelian account of abstraction, holds that God is the light of the mind, guaranteeing the certainty of its judgments about unchanging truth. Aquinas also teaches that the intellect's natural light is a participated likeness of the uncreated light (Summa Theologiae I, q. 84, a. 5), but he puts more weight on abstraction from sense experience in explaining ordinary knowing. The Church canonizes neither account to the exclusion of the other (Fides et Ratio 49).",
       "hint": "The word describes divine light making truth graspable to the mind.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 74 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 49, 74 (1998)"
         }
       ]
     },
@@ -4085,12 +4182,12 @@
         "The Church requires all three schools to be taught as one single unified system"
       ],
       "correctAnswer": "The list of legitimate Catholic philosophical schools was never permanently closed at two -- new syntheses can be received into the tradition as genuinely Catholic so long as they remain compatible with revealed doctrine, not fixed forever at whichever schools existed first",
-      "explanation": "Suárez shows this isn't a closed, ancient list -- the Church's philosophical tradition keeps developing new syntheses, provided they serve rather than contradict revealed truth. This is the same distinction the Church draws against Modernism: development of a school of thought's tools is not the same error as claiming revealed dogma itself changes.",
+      "explanation": "Suárez shows this isn't a closed, ancient list -- the Church's philosophical tradition keeps developing new syntheses, provided they serve rather than contradict revealed truth. The Church has no philosophy of her own and canonizes none in preference to others (Fides et Ratio 49).",
       "hint": "Ask whether the Church has ever formally closed the list of acceptable schools, or whether new ones keep being received.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 62 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
         }
       ]
     },
@@ -4125,12 +4222,12 @@
       "difficultyElo": 2368,
       "prompt": "True or false: because the Church tolerates multiple philosophical schools, she therefore has no philosophical positions at all that a Catholic thinker cannot deny.",
       "correctAnswer": false,
-      "explanation": "Fides et Ratio is explicit that some principles -- the reality of truth, the human capacity to know it, the existence of a created order distinct from God -- are not optional philosophical opinions a Catholic thinker may simply reject, even while diversity remains on how best to explain and systematize those shared commitments. Pluralism operates inside a boundary, not in place of one.",
+      "explanation": "Fides et Ratio names a core of philosophical insight beyond the different schools -- the principles of non-contradiction, finality and causality, and the person's capacity to know God, truth and goodness (n. 4) -- and requires that philosophy verify the human capacity to reach objective truth (n. 82) and be of genuinely metaphysical range (n. 83). It also teaches that the Magisterium can and must indicate which philosophical presuppositions and conclusions are incompatible with revealed truth (n. 50). Diversity remains on how best to explain and systematize these shared commitments: pluralism operates inside a boundary, not in place of one.",
       "hint": "Pluralism among schools that all still affirm certain basics is different from having no boundaries at all.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 4-6 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 4, 50, 82-83 (1998)"
         }
       ]
     },
@@ -4164,7 +4261,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 44, 62, 74 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
         }
       ]
     },
@@ -4187,7 +4284,7 @@
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, Prologue (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 5, 73 (1998)"
         }
       ]
     },
@@ -4199,18 +4296,18 @@
       "difficultyElo": 2418,
       "prompt": "A student objects: 'if even Aquinas and Scotus disagree on something as basic as how being applies to God, doesn't that mean metaphysics is just opinion, with nothing objectively knowable at all?' What is the accurate response?",
       "choices": [
-        "No -- both thinkers agree that being, causality, and objective truth are and knowable; they disagree on the best technical account of how analogy or univocity precisely works, which is a narrower, genuine dispute inside a much larger shared realism, not evidence that nothing is knowable at all",
+        "No -- both thinkers agree that being, causality, and objective truth are real and knowable; they disagree on the best technical account of how analogy or univocity precisely works, which is a narrower, genuine dispute inside a much larger shared realism, not evidence that nothing is knowable at all",
         "Yes -- this disagreement proves that all metaphysical claims are equally arbitrary",
         "The disagreement proves the Church has no coherent view of God whatsoever",
         "Only one of the two men can be considered a real philosopher at all"
       ],
-      "correctAnswer": "No -- both thinkers agree that being, causality, and objective truth are and knowable; they disagree on the best technical account of how analogy or univocity precisely works, which is a narrower, genuine dispute inside a much larger shared realism, not evidence that nothing is knowable at all",
-      "explanation": "This is the correct final move for anyone using this material apologetically: pointing to disagreement among serious thinkers to conclude 'therefore nothing is really knowable' is a non sequitur. Genuine, bounded disagreement about technical details is entirely compatible with -- and, if anything, presupposes -- a much larger shared confidence that being, truth, and causality are and available to reason in the first place.",
+      "correctAnswer": "No -- both thinkers agree that being, causality, and objective truth are real and knowable; they disagree on the best technical account of how analogy or univocity precisely works, which is a narrower, genuine dispute inside a much larger shared realism, not evidence that nothing is knowable at all",
+      "explanation": "This is the correct final move for anyone using this material apologetically: pointing to disagreement among serious thinkers to conclude 'therefore nothing is really knowable' is a non sequitur. Genuine, bounded disagreement about technical details is entirely compatible with -- and, if anything, presupposes -- a much larger shared confidence that being, truth, and causality are real and available to reason in the first place.",
       "hint": "Ask how much these two thinkers agree on before getting to the point where they disagree.",
       "citations": [
         {
           "type": "magisterial_document",
-          "reference": "John Paul II, Fides et Ratio, n. 4-6, 44 (1998)"
+          "reference": "John Paul II, Fides et Ratio, n. 4, 82-83 (1998)"
         }
       ]
     },
@@ -4245,7 +4342,7 @@
       "difficultyElo": 2450,
       "prompt": "True or False: The tools of metaphysics -- act/potency, causality, essence/existence -- apply far beyond their first example, recurring across genuinely different cases.",
       "correctAnswer": true,
-      "explanation": "True -- act and potency apply to motion, virtue, the soul, and God's own nature; essence/existence explains both the argument from motion and analogical language; each tool recurs, rather than staying confined to one narrow example.",
+      "explanation": "True -- act and potency apply to motion, virtue, the soul, and God as pure act; the essence/existence distinction recurs in speaking of creatures' dependence on God and of analogical language; each tool recurs, rather than staying confined to one narrow example.",
       "hint": "Consider how one settled distinction can be applied across several genuinely different cases.",
       "citations": [
         {
@@ -4273,7 +4370,11 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 34"
+          "reference": "CCC 35-36"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 53 (1998)"
         }
       ]
     },
@@ -4290,7 +4391,7 @@
       "citations": [
         {
           "type": "ccc",
-          "reference": "CCC 34"
+          "reference": "CCC 365"
         }
       ]
     },
@@ -4312,8 +4413,8 @@
       "hint": "Recall the distinction between permitted theological debate and heresy.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 34"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 49 (1998)"
         }
       ]
     },
@@ -4329,8 +4430,8 @@
       "hint": "Consider what careful reasoning about being does to one's sense of how remarkable existence itself is.",
       "citations": [
         {
-          "type": "ccc",
-          "reference": "CCC 34"
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 4 (1998)"
         }
       ]
     },
@@ -4365,6 +4466,14 @@
         {
           "type": "ccc",
           "reference": "CCC 34"
+        },
+        {
+          "type": "ccc",
+          "reference": "CCC 35-36"
+        },
+        {
+          "type": "magisterial_document",
+          "reference": "John Paul II, Fides et Ratio, n. 49, 53 (1998)"
         }
       ]
     },
