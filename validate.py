@@ -166,7 +166,7 @@ def _has_authoritative_citation(citations: list) -> bool:
 
 # The longest each season can run, in days -- a season's challenge needs at
 # least this many levels to cover every year (Advent runs 22-28 days).
-SEASON_MAX_DAYS = {"advent": 28, "christmas": 19, "lent": 46, "easter": 49}
+SEASON_MAX_DAYS = {"advent": 28, "christmas": 19, "lent": 43, "easter": 50}
 
 
 def validate_seasonal(manifest: dict, seen_ids: dict[str, str], errors: list[str], warnings: list[str]) -> None:

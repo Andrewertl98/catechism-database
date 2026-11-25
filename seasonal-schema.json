@@ -93,7 +93,7 @@
         "id": {
           "type": "string",
           "description": "Format: <seasonal-slug>-l<level>-<3-digit-sequence>, e.g. advent-challenge-l12-003.",
-          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-l([1-9]|[1-4][0-9])-[0-9]{3}$"
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-l([1-9]|[1-4][0-9]|50)-[0-9]{3}$"
         },
         "topic": {
           "$ref": "#/definitions/topicSlug",
@@ -102,8 +102,8 @@
         "level": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 49,
-          "description": "Seasonal challenges run one level per day: Advent up to 28, Christmas 19, Lent 46, Easter 49."
+          "maximum": 50,
+          "description": "Seasonal challenges run one level per day: Advent up to 28, Christmas 19, Lent 43 (Ash Wednesday to Holy Wednesday), Easter 50 (Easter Sunday to Pentecost Sunday)."
         },
         "type": {
           "type": "string",
@@ -387,7 +387,7 @@
         "level": {
           "type": "integer",
           "minimum": 1,
-          "maximum": 49
+          "maximum": 50
         },
         "title": {
           "type": "string",

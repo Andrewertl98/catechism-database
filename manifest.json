@@ -495,9 +495,11 @@
     "questions": 3228,
     "topics": 16
   },
-  "seasonalVersion": "1.1.2",
+  "seasonalVersion": "1.2.0",
   "seasonalFiles": [
     "seasonal/advent.json",
-    "seasonal/christmas.json"
+    "seasonal/christmas.json",
+    "seasonal/lent.json",
+    "seasonal/easter.json"
   ]
 }
